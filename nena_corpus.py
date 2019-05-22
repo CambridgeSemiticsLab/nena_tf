@@ -116,6 +116,41 @@ def get_paragraph_type(e):
     
     return p_type
 
+def clean_styles(paragraph, no_style=''):
+    """Remove styles from characters not matching `rules`."""
+
+    new_p = Text(p_type=paragraph._p_type, default_style=paragraph._default_style)
+
+    for text, text_style in paragraph:
+
+        # first look for combining characters at beginning of text,
+        # which should always be added to the end of the previous
+        # text (unless it does not follow a character)
+        while text and unicodedata.category(text[0]) == 'Mn':
+            new_p.append(text[0], new_p.last_style)
+            text = text[1:]
+
+        # ideally, the rules for stripping style from
+        # certain text_styles should be passed in an
+        # argument `rules`: {text_style: rule, ...}.
+        # But need to find straightforward way
+        # to formulate rules. TODO
+        # Removing text_style 'italic' from non-letter characters
+        # (where it is either invisible or has no meaning) makes
+        # it easier to find things like verse numbers such as:
+        # '(<i>10)</i>' ('bar text a50-A52.html')
+        if text_style == 'italic':
+            for c in text:
+                cat = unicodedata.category(c)
+                if cat[0] in ('L', 'M'):  # Letters or (combining) Marks
+                    new_p.append(c, text_style)
+                else:
+                    new_p.append(c, no_style)
+        else:
+            new_p.append(text, text_style)
+
+    return new_p
+
 def find_markers(paragraph, markers=None):
     """Find verse numbers and word markers.
     
@@ -151,8 +186,6 @@ def find_markers(paragraph, markers=None):
                     new_p.append(t)
 
         # Split verse numbers from verse and give text_style 'verse_no'
-        # TODO In one case, this fails (bar text a50-A52.html):
-        # '(<i>10)</i>'
         else:
             for i, t in enumerate(p_verse_no.split(text)):
                 if t and i % 2:
@@ -218,6 +251,7 @@ def html_to_text(html_file, markers=None, replace=None, skip_front_matter=True):
             p.append(text, text_style)
             
         p = clean_text(p, replace=replace)
+        p = clean_styles(p)
         # set proper text_style for verse numbers and word markers
         p = find_markers(p, markers=markers)
         
