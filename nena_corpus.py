@@ -166,6 +166,9 @@ def find_markers(paragraph, markers=None):
     # regex pattern for verse numbers
     p_verse_no = re.compile('(\s*\([0-9]+\)\s*)')
 
+    # regex pattern for brackets
+    p_brackets = re.compile('([[()\]])')
+
     # regex pattern for word markers
     if markers is not None:
         p_markers = re.compile('({})'.format('|'.join(re.escape(m) for m in markers)))
@@ -190,6 +193,17 @@ def find_markers(paragraph, markers=None):
             for i, t in enumerate(p_verse_no.split(text)):
                 if t and i % 2:
                     new_p.append(t, 'verse_no')
+                # Split brackets in unstyled text; if followed by text,
+                # give it style 'comment'
+                elif t and text_style == '':
+                    for j, s in enumerate(p_brackets.split(t)):
+                        if s and j % 2:
+                            new_p.append(s, s)
+                        elif s:
+                            if new_p.last_style in ('(', '[', 'comment'):
+                                new_p.append(s, 'comment')
+                            else:
+                                new_p.append(s, text_style)
                 elif t:
                     new_p.append(t, text_style)
     
