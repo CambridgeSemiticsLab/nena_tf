@@ -11,6 +11,7 @@ class Text:
         self._text = []
         self._p_type = p_type
         self._default_style = default_style
+        self.last_style = self._default_style
     
     def __getitem__(self, index):
         return self._text[index]
@@ -44,6 +45,8 @@ class Text:
             self._text[-1] = (text, text_style)
         else:
             self._text.append((text, text_style))
+
+        self.last_style = text_style
 
 
 #
