@@ -234,7 +234,30 @@ def clean_text(paragraph, replace=None, ignore=None):
         
     return new_p
 
-# nested tuple with regexes for parse_headings()
+# nested tuple with regexes for parse_metadata()
+# Examples of different patterns to match:
+# Barwar:
+# <Text 'gp-sectionheading-western' 'A14 TALES FROM THE 1001 NIGHTS'>
+# <Text 'gp-subsectionheading-western' 'Informant: Yuwarəš Xošăba Kena (Dure)'>
+# Urmi C:
+# <Text 'gp-sectionheading-western' ' A34'>
+# <Text 'gp-subsectionheading-western' ' The Fisherman and the Princess (Nancy George, Babari, S)'>
+# Urmi C with category heading:
+# <Text 'gp-sectionheading-western' 'FOLKTALES'>
+# <Text 'gp-sectionheading-western' ' '>
+# <Text 'gp-sectionheading-western' ' A 1'>
+# <Text 'gp-subsectionheading-western' ' The Bald Man and the King (Yulia Davudi, +Hassar +Baba-čanɟa, N)'>
+# and:
+# <Text 'gp-sectionheading-western' ' '>
+# <Text 'gp-sectionheading-western' 'HISTORY AND CULTURE'>
+# <Text 'gp-sectionheading-western' 'B1'>
+# <Text 'gp-subsectionheading-western' ' The Assyrians of Urmi (Yosəp bet Yosəp, Zumallan, N)'>
+# Urmi C with two versions:
+# <Text 'gp-sectionheading-western' ' A35'>
+# <Text 'gp-subsectionheading-western' ' The Wife who Learns How to Work'>
+# <Text 'gp-subsubsectionheading-western' 'Version 1: Nancy George (Babari, S)'>
+# <Text 'gp-subsubsectionheading-western' 'Version 2: Yulia Davudi (+Hassar +Baba-canɟa, N)'>
+
 heading_regexes = (
     ('gp-sectionheading',
      # Barwar: text id and title
