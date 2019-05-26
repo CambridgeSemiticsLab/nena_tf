@@ -7,9 +7,12 @@ import lxml.html
 class Text:
     """Text with style annotations."""
     
-    def __init__(self, p_type=None, default_style='italic'):
-        self._text = []
+    def __init__(self, dialect=None, filename=None,
+                 p_type=None, default_style=''):
+        self.dialect = dialect
+        self.filename = filename
         self.type = p_type
+        self._text = []
         self._default_style = default_style
         self.last_style = self._default_style
     
@@ -313,7 +316,8 @@ def parse_metadata(heading, heading_regexes=heading_regexes):
             break
     return result
 
-def html_to_text(html_file, markers=None, replace=None, skip_front_matter=True):
+def html_to_text(html_file, dialect=None, filename=None,
+                 markers=None, replace=None, skip_front_matter=True):
     """Yield Text objects generated from the HTML in html_file"""
     
     with open(html_file) as f:
@@ -338,7 +342,8 @@ def html_to_text(html_file, markers=None, replace=None, skip_front_matter=True):
                 continue
 
         p_type = get_paragraph_type(e)
-        p = Text(p_type=p_type, default_style='italic')
+        p = Text(dialect=dialect, filename=filename,
+                 p_type=p_type, default_style='italic')
 
         for text, text_style in get_child_text(e):
             p.append(text, text_style)
