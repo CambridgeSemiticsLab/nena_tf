@@ -167,7 +167,7 @@ def find_markers(paragraph, markers=None):
     p_verse_no = re.compile('(\s*\([0-9]+\)\s*)')
 
     # regex pattern for brackets
-    p_brackets = re.compile('([[()\]])')
+    p_brackets = re.compile('([\[\]()])')
 
     # regex pattern for word markers
     if markers is not None:
