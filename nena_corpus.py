@@ -9,7 +9,7 @@ class Text:
     
     def __init__(self, p_type=None, default_style='italic'):
         self._text = []
-        self._p_type = p_type
+        self.type = p_type
         self._default_style = default_style
         self.last_style = self._default_style
     
@@ -29,7 +29,7 @@ class Text:
         return ''.join(s for s, t in self._text)
     
     def __repr__(self):
-        return f'<{self.__class__.__name__} {repr(self._p_type)} {repr(self.__str__())}>'
+        return f'<{self.__class__.__name__} {repr(self.type)} {repr(self.__str__())}>'
     
     def append(self, text, text_style=None):
         """Append tuples of (text, text_style) to list.
@@ -119,7 +119,7 @@ def get_paragraph_type(e):
 def clean_styles(paragraph, no_style=''):
     """Remove styles from characters not matching `rules`."""
 
-    new_p = Text(p_type=paragraph._p_type, default_style=paragraph._default_style)
+    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
 
     for text, text_style in paragraph:
 
@@ -173,7 +173,7 @@ def find_markers(paragraph, markers=None):
     if markers is not None:
         p_markers = re.compile('({})'.format('|'.join(re.escape(m) for m in markers)))
 
-    new_p = Text(p_type=paragraph._p_type, default_style=paragraph._default_style)
+    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
     
     for text, text_style in paragraph:
         
@@ -214,7 +214,7 @@ def clean_text(paragraph, replace=None, ignore=None):
     
     p_whitespace = re.compile(r'\s+')
     
-    new_p = Text(p_type=paragraph._p_type, default_style=paragraph._default_style)
+    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
     
     for text, text_style in paragraph:
         
@@ -302,7 +302,7 @@ def parse_metadata(heading, heading_regexes=heading_regexes):
 
     result = []
     for heading_type, regexes in heading_regexes:
-        if heading._p_type.startswith(heading_type):
+        if heading.type.startswith(heading_type):
             for keys, regex in regexes:
                 try:
                     matched_groups = regex.match(str(heading)).groups()
