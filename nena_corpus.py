@@ -234,6 +234,62 @@ def clean_text(paragraph, replace=None, ignore=None):
         
     return new_p
 
+# nested tuple with regexes for parse_headings()
+heading_regexes = (
+    ('gp-sectionheading',
+     # Barwar: text id and title
+     ((('text_id', 'title'),
+       re.compile('^\s*([A-Z]\s*[0-9]+)\s+(.*?)\s*$')),
+      # Urmi_c: text id
+      (('text_id',),
+       re.compile('^\s*([A-Z]\s*[0-9]+)\s*')),
+     )),
+    ('gp-subsectionheading',
+     # Barwar: informant and place
+     ((('informant', 'place'),
+       re.compile('^\s*Informant:\s+(.*)\s+\((.*)\)\s*$')),
+      # Urmi_C: title, informant, place
+      (('title', 'informant', 'place'),
+       re.compile('^\s*(.*?)\s*\(([^,]*),\s+(.*)\)\s*$')),
+      # Urmi_c: title only
+      (('title',),
+       re.compile('^\s*(.*?)\s*$')),
+     )),
+    ('gp-subsubsectionheading',
+     # Urmi-C: version, informant, place
+     ((('version', 'informant', 'place'),
+       re.compile('^\s*(Version\s+[0-9]+):\s+(.*?)\s+\((.*)\)\s?$')),
+     )),
+)
+
+def parse_metadata(heading, heading_regexes=heading_regexes):
+    """Extract metadata from headings
+
+    Arguments:
+        heading (Text): Text object of heading
+        heading_regexes: nested tuple with regexes:
+            ((str:headingtype, tuple:regexes), ...)
+            regexes:
+                ((tuple:keys, compiled_regex), ...)
+                keys:
+                    (str:key, ...)
+    Returns:
+        list of metadata tuples: [(key, value), ...]
+    """
+
+    result = []
+    for heading_type, regexes in heading_regexes:
+        if heading._p_type.startswith(heading_type):
+            for keys, regex in regexes:
+                try:
+                    matched_groups = regex.match(str(heading)).groups()
+                    result = list(zip(keys, matched_groups))
+                    break
+                except AttributeError:
+                    continue
+            break
+    return result
+
 def html_to_text(html_file, markers=None, replace=None, skip_front_matter=True):
     """Yield Text objects generated from the HTML in html_file"""
     
