@@ -122,15 +122,17 @@ def get_paragraph_type(e):
 def clean_styles(paragraph, no_style=''):
     """Remove styles from characters not matching `rules`."""
 
-    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
 
-    for text, text_style in paragraph:
+    for text, text_style in oldtext:
 
         # first look for combining characters at beginning of text,
         # which should always be added to the end of the previous
         # text (unless it does not follow a character)
         while text and unicodedata.category(text[0]) == 'Mn':
-            new_p.append(text[0], new_p.last_style)
+            paragraph.append(text[0], paragraph.last_style)
             text = text[1:]
 
         # ideally, the rules for stripping style from
@@ -146,13 +148,11 @@ def clean_styles(paragraph, no_style=''):
             for c in text:
                 cat = unicodedata.category(c)
                 if cat[0] in ('L', 'M'):  # Letters or (combining) Marks
-                    new_p.append(c, text_style)
+                    paragraph.append(c, text_style)
                 else:
-                    new_p.append(c, no_style)
+                    paragraph.append(c, no_style)
         else:
-            new_p.append(text, text_style)
-
-    return new_p
+            paragraph.append(text, text_style)
 
 def find_markers(paragraph, markers=None):
     """Find verse numbers and word markers.
@@ -176,9 +176,11 @@ def find_markers(paragraph, markers=None):
     if markers is not None:
         p_markers = re.compile('({})'.format('|'.join(re.escape(m) for m in markers)))
 
-    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
     
-    for text, text_style in paragraph:
+    for text, text_style in oldtext:
         
         # Split superscript text into markers;
         # make text_style of marker the same as marker itself
@@ -187,39 +189,39 @@ def find_markers(paragraph, markers=None):
         if text_style == 'super' and markers is not None:
             for i, t in enumerate(p_markers.split(text)):
                 if t and i % 2:
-                    new_p.append(t, t)
+                    paragraph.append(t, t)
                 elif t:
-                    new_p.append(t)
+                    paragraph.append(t)
 
         # Split verse numbers from verse and give text_style 'verse_no'
         else:
             for i, t in enumerate(p_verse_no.split(text)):
                 if t and i % 2:
-                    new_p.append(t, 'verse_no')
+                    paragraph.append(t, 'verse_no')
                 # Split brackets in unstyled text; if followed by text,
                 # give it style 'comment'
                 elif t and text_style == '':
                     for j, s in enumerate(p_brackets.split(t)):
                         if s and j % 2:
-                            new_p.append(s, s)
+                            paragraph.append(s, s)
                         elif s:
-                            if new_p.last_style in ('(', '[', 'comment'):
-                                new_p.append(s, 'comment')
+                            if paragraph.last_style in ('(', '[', 'comment'):
+                                paragraph.append(s, 'comment')
                             else:
-                                new_p.append(s, text_style)
+                                paragraph.append(s, text_style)
                 elif t:
-                    new_p.append(t, text_style)
+                    paragraph.append(t, text_style)
     
-    return new_p
-
 def clean_text(paragraph, replace=None, ignore=None):
     """Normalize unicode and replace or ignore certain characters."""
     
     p_whitespace = re.compile(r'\s+')
     
-    new_p = Text(p_type=paragraph.type, default_style=paragraph._default_style)
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
     
-    for text, text_style in paragraph:
+    for text, text_style in oldtext:
         
         text = unicodedata.normalize('NFD', text)
         
@@ -233,10 +235,8 @@ def clean_text(paragraph, replace=None, ignore=None):
             for c in ignore:
                 text = text.replace(c, '')
 
-        new_p.append(text, text_style)
+        paragraph.append(text, text_style)
         
-    return new_p
-
 # nested tuple with regexes for parse_metadata()
 # Examples of different patterns to match:
 # Barwar:
@@ -348,9 +348,9 @@ def html_to_text(html_file, dialect=None, filename=None,
         for text, text_style in get_child_text(e):
             p.append(text, text_style)
             
-        p = clean_text(p, replace=replace)
-        p = clean_styles(p)
+        clean_text(p, replace=replace)
+        clean_styles(p)
         # set proper text_style for verse numbers and word markers
-        p = find_markers(p, markers=markers)
+        find_markers(p, markers=markers)
         
         yield p
