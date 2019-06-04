@@ -237,6 +237,131 @@ def clean_text(paragraph, replace=None, ignore=None):
 
         paragraph.append(text, text_style)
         
+def clean_styles2(paragraph):
+    """Remove unnecessary styles from Text paragraph.
+
+    There are only two meaningful style decorations in the
+    Word document: superscript, for text markers; and roman
+    style, for 'foreign' words and text comments.
+    All styles applied to anything that is not text, is
+    redundant, since the non-text characters themselves are
+    unambiguous.
+    After extraction from the HTML, the 'text_style'
+    attribute contains the HTML styles 'italic', 'super',
+    or '' (unmarked). Normal Aramaic text is set in 'italic'
+    type, and foreign words are set apart by being unmarked.
+    To simplify things, we will set an 'unmarked' text_style
+    on all non-letter characters and all 'italic' characters;
+    a 'marker' text_style on all letter characters with
+    text_style 'super', and a 'foreign' text_style on all
+    'unmarked' letter characters.
+
+    Exceptions: in some cases a letter is set in superscript
+    without being a marker. This happens to alaph, as a typo,
+    since superscript alaph does not look much different from
+    regular alaph; and to y, which is apparently a distinct
+    character, appearing several times, always after 'g' or 'k'.
+    """
+
+    def is_letter(c):
+        """Return True if c is Letter or Marker, False otherwise"""
+        return unicodedata.category(c)[0] in ('L', 'M')
+
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
+
+    for text, text_style in oldtext:
+
+        # first look for combining characters at beginning of text,
+        # which should always be added to the end of the previous
+        # text (unless it does not follow a character)
+        while text and unicodedata.category(text[0]) == 'Mn':
+            paragraph.append(text[0], paragraph.last_style)
+            text = text[1:]
+
+        if text_style == 'italic':
+            paragraph.append(text, '')
+        elif text_style in ('', 'super'):
+            letter_style = 'marker' if text_style else 'foreign'
+            for c in text:
+                # EXCEPTION for superscript alaph,
+                # it is always a mistake
+                if c == '\u02be' and text_style == 'super':
+                    paragraph.append(c, '')
+                # EXCEPTION y in superscript is a distinct
+                # character. Replace for now by superscript 'y'
+                elif c == 'y' and text_style == 'super':
+                    paragraph.append('\u02b8', '')
+                elif is_letter(c):
+                    # connect lonely alaphs to next word
+                    # EXCEPTION
+                    if paragraph._text[-1][0] == '\u02be':
+                        paragraph._text.pop()
+                        c = '\u02be' + c
+                    paragraph.append(c, letter_style)
+                else:
+                    paragraph.append(c, '')
+        elif text_style in ('fn_anchor', ):
+            paragraph.append(text, text_style)
+        else:
+            raise ValueError('Unexpected `text_style`:', text_style)
+
+def mark_verse_numbers(paragraph):
+    """Mark verse numbers.
+
+    Give verse numbers of the form ' (12) ' the text_style 'verse_no'.
+    """
+
+    # regex pattern for verse numbers
+    p_verse_no = re.compile('(\s*\([0-9]+\)\s*)')
+
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
+
+    for text, text_style in oldtext:
+        if text_style == '':
+            for i, t in enumerate(p_verse_no.split(text)):
+                if t and i % 2:
+                    paragraph.append(t, 'verse_no')
+                elif t:
+                    paragraph.append(t, text_style)
+                else:
+                    pass
+        else:
+            paragraph.append(text, text_style)
+
+def mark_comments(paragraph):
+    """Mark comments (foreign words surrounded by brackets)"""
+
+    # regex pattern for brackets
+    p_brackets = re.compile('([\[\]()])')
+
+    oldtext = paragraph._text
+    paragraph._text = []
+    paragraph.last_style = paragraph._default_style
+
+    for text, text_style in oldtext:
+        # brackets are only found in unmarked text
+        if text_style == '':
+            for i, t in enumerate(p_brackets.split(text)):
+                if t and i % 2:
+                    paragraph.append(t, 'comment')
+                elif t:
+                    if (paragraph.last_style == 'comment'
+                            and t.startswith(': ')):
+                        prev_text, prev_style = paragraph._text.pop()
+                        paragraph.append(prev_text + ': ', prev_style)
+                        t = t[1:]
+                    paragraph.append(t, text_style)
+                else:
+                    pass
+        elif text_style == 'foreign' and paragraph.last_style == 'comment':
+            paragraph.append(text, 'comment')
+        else:
+            paragraph.append(text, text_style)
+
 # nested tuple with regexes for parse_metadata()
 # Examples of different patterns to match:
 # Barwar:
@@ -349,8 +474,11 @@ def html_to_text(html_file, dialect=None, filename=None,
             p.append(text, text_style)
             
         clean_text(p, replace=replace)
-        clean_styles(p)
-        # set proper text_style for verse numbers and word markers
-        find_markers(p, markers=markers)
+
+        if p.type == 'p':
+            clean_styles2(p)
+            mark_verse_numbers(p)
+            mark_comments(p)
+
         
         yield p
