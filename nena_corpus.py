@@ -119,99 +119,6 @@ def get_paragraph_type(e):
     
     return p_type
 
-def clean_styles(paragraph, no_style=''):
-    """Remove styles from characters not matching `rules`."""
-
-    oldtext = paragraph._text
-    paragraph._text = []
-    paragraph.last_style = paragraph._default_style
-
-    for text, text_style in oldtext:
-
-        # first look for combining characters at beginning of text,
-        # which should always be added to the end of the previous
-        # text (unless it does not follow a character)
-        while text and unicodedata.category(text[0]) == 'Mn':
-            paragraph.append(text[0], paragraph.last_style)
-            text = text[1:]
-
-        # ideally, the rules for stripping style from
-        # certain text_styles should be passed in an
-        # argument `rules`: {text_style: rule, ...}.
-        # But need to find straightforward way
-        # to formulate rules. TODO
-        # Removing text_style 'italic' from non-letter characters
-        # (where it is either invisible or has no meaning) makes
-        # it easier to find things like verse numbers such as:
-        # '(<i>10)</i>' ('bar text a50-A52.html')
-        if text_style == 'italic':
-            for c in text:
-                cat = unicodedata.category(c)
-                if cat[0] in ('L', 'M'):  # Letters or (combining) Marks
-                    paragraph.append(c, text_style)
-                else:
-                    paragraph.append(c, no_style)
-        else:
-            paragraph.append(text, text_style)
-
-def find_markers(paragraph, markers=None):
-    """Find verse numbers and word markers.
-    
-    Args:
-        paragraph: a Text object with a paragraph of text.
-        p_markers: a compiled regular expression pattern matching markers.
-        p_verse_no: a compiled regular expression pattern matching verse numbers.
-    
-    Returns:
-        A Text object with the updated paragraph.
-    """
-    
-    # regex pattern for verse numbers
-    p_verse_no = re.compile('(\s*\([0-9]+\)\s*)')
-
-    # regex pattern for brackets
-    p_brackets = re.compile('([\[\]()])')
-
-    # regex pattern for word markers
-    if markers is not None:
-        p_markers = re.compile('({})'.format('|'.join(re.escape(m) for m in markers)))
-
-    oldtext = paragraph._text
-    paragraph._text = []
-    paragraph.last_style = paragraph._default_style
-    
-    for text, text_style in oldtext:
-        
-        # Split superscript text into markers;
-        # make text_style of marker the same as marker itself
-        # so ('R| +', 'super') may become:
-        # [('R', 'R'), ('|', '|'), (' ', 'italic'), ('+', '+')]
-        if text_style == 'super' and markers is not None:
-            for i, t in enumerate(p_markers.split(text)):
-                if t and i % 2:
-                    paragraph.append(t, t)
-                elif t:
-                    paragraph.append(t)
-
-        # Split verse numbers from verse and give text_style 'verse_no'
-        else:
-            for i, t in enumerate(p_verse_no.split(text)):
-                if t and i % 2:
-                    paragraph.append(t, 'verse_no')
-                # Split brackets in unstyled text; if followed by text,
-                # give it style 'comment'
-                elif t and text_style == '':
-                    for j, s in enumerate(p_brackets.split(t)):
-                        if s and j % 2:
-                            paragraph.append(s, s)
-                        elif s:
-                            if paragraph.last_style in ('(', '[', 'comment'):
-                                paragraph.append(s, 'comment')
-                            else:
-                                paragraph.append(s, text_style)
-                elif t:
-                    paragraph.append(t, text_style)
-    
 def clean_text(paragraph, replace=None, ignore=None):
     """Normalize unicode and replace or ignore certain characters."""
     
@@ -237,7 +144,7 @@ def clean_text(paragraph, replace=None, ignore=None):
 
         paragraph.append(text, text_style)
         
-def clean_styles2(paragraph):
+def clean_styles(paragraph):
     """Remove unnecessary styles from Text paragraph.
 
     There are only two meaningful style decorations in the
@@ -476,7 +383,7 @@ def html_to_text(html_file, dialect=None, filename=None,
         clean_text(p, replace=replace)
 
         if p.type == 'p':
-            clean_styles2(p)
+            clean_styles(p)
             mark_verse_numbers(p)
             mark_comments(p)
 
