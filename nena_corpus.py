@@ -1,6 +1,5 @@
 import re
 import unicodedata
-
 import lxml.html
 
 
@@ -273,7 +272,7 @@ def mark_comments(paragraph):
 # Examples of different patterns to match:
 # Barwar:
 # <Text 'gp-sectionheading-western' 'A14 TALES FROM THE 1001 NIGHTS'>
-# <Text 'gp-subsectionheading-western' 'Informant: Yuwarəš Xošăba Kena (Dure)'>
+# <Text 'gp-subsectionheading-western' 'Informant: Yuwarəš Xošăba Kena (Dure)'>
 # Urmi C:
 # <Text 'gp-sectionheading-western' ' A34'>
 # <Text 'gp-subsectionheading-western' ' The Fisherman and the Princess (Nancy George, Babari, S)'>
@@ -281,7 +280,7 @@ def mark_comments(paragraph):
 # <Text 'gp-sectionheading-western' 'FOLKTALES'>
 # <Text 'gp-sectionheading-western' ' '>
 # <Text 'gp-sectionheading-western' ' A 1'>
-# <Text 'gp-subsectionheading-western' ' The Bald Man and the King (Yulia Davudi, +Hassar +Baba-čanɟa, N)'>
+# <Text 'gp-subsectionheading-western' ' The Bald Man and the King (Yulia Davudi, +Hassar +Baba-čanɟa, N)'>
 # and:
 # <Text 'gp-sectionheading-western' ' '>
 # <Text 'gp-sectionheading-western' 'HISTORY AND CULTURE'>
