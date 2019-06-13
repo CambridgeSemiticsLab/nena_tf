@@ -2,9 +2,9 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-12T09:43:29Z
+@dateWritten=2019-06-13T11:37:30Z
 
-730893	TALES FROM THE 1001 NIGHTS
+694962	TALES FROM THE 1001 NIGHTS
 THE TALE OF RUSTAM (2)
 THE CROW AND THE CHEESE
 THE TALE OF RUSTAM (1)
