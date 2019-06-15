@@ -39,8 +39,8 @@ Rare vowels
 Vowel accents
 -------------
     Grave and acute: indicate word stress
-    U+0300 '̀◌' COMBINING GRAVE ACCENT
-    U+0301 '́◌' COMBINING ACUTE ACCENT
+    U+0300 '◌̀' COMBINING GRAVE ACCENT
+    U+0301 '◌́' COMBINING ACUTE ACCENT
     On all vowels, both uppercase and lowercase
     Acute occurs twice on consonants:
     - once on r: bŕatan (unmarked), Urmi_C A35:12 (typo, should be brátan)
@@ -48,16 +48,16 @@ Vowel accents
     Grave and acute accents may occur together with all other vowel accents.
 
     Macron: indicates vowel quality(?)
-    U+0304 '̄◌'  COMBINING MACRON
+    U+0304 '◌̄'  COMBINING MACRON
     Occurs on all lowercase vowels except ə and ı
 
     Breve: indicates vowel quality(?)
-    U+0306 '̆◌' COMBINING BREVE
+    U+0306 '◌̆' COMBINING BREVE
     Occurs on a, o, u
     Much more frequent in Barwar than Urmi_C
 
     Diaeresis: ?
-    U+0308 '̈◌' COMBINING DIAERESIS
+    U+0308 '◌̈' COMBINING DIAERESIS
     Occurs on a, u
     Only in Urmi_C (12x), always in loanwords marked 'Az':
     - irilärdä̀n, A9:3
@@ -74,7 +74,7 @@ Vowel accents
     - jüjè, A44:8
 
     Tilde: ?
-    U+0303 '̃◌' COMBINING TILDE
+    U+0303 '◌̃' COMBINING TILDE
     Occurs once, on 'a'
     - šã̀ns, Urmi_C A16:3
 
@@ -120,21 +120,21 @@ Non-latin consonants
 
 Consonant diacritics
 --------------------
-    U+0302 '̂◌' COMBINING CIRCUMFLEX ACCENT (U:562; B:0)
+    U+0302 '◌̂' COMBINING CIRCUMFLEX ACCENT (U:562; B:0)
     ĉ 1 k̭at-xá-ʾaxĉa, Urmi_C A1:50
     p̂ 561
 
-    U+0307 '̇◌' COMBINING DOT ABOVE
+    U+0307 '◌̇' COMBINING DOT ABOVE
     ġ U:158; B: 112
 
-    U+030c '̌◌' COMBINING CARON (U:6775; B:4352)
+    U+030c '◌̌' COMBINING CARON (U:6775; B:4352)
     č U:814 ;B:462
     š U:5339; B:3575
     ž U:74; B:138
     Č U:6; B:58
     Š U:19; B:15
 
-    U+0323 '̣◌' COMBINING DOT BELOW (U:0; B:4461)
+    U+0323 '◌̣' COMBINING DOT BELOW (U:0; B:4461)
     ḍ 4
     ḥ 169
     ḷ 208
@@ -148,7 +148,7 @@ Consonant diacritics
     Ḥ 12
     č̣ 84
 
-    U+032d '̭◌' COMBINING CIRCUMFLEX ACCENT BELOW (U:8938; B:1172)
+    U+032d '◌̭' COMBINING CIRCUMFLEX ACCENT BELOW (U:8938; B:1172)
     c̭ (U:563; B:0)
     k̭ (U:6025; B:82)
     p̭ (U:0; B:1) Barwar A7:22 p̭azesór
