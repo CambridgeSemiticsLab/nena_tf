@@ -1,7 +1,6 @@
 # Characters
 
-Vowels
-======
+## Vowels
     a e i o u ı ɑ ə ɛ
     A E I O U
 
@@ -10,6 +9,7 @@ Vowels
     ı: only 7x in two Urmi_C texts
     ɑ: only in Urmi_C, mostly in loan words marked 'P' (69x)
        (but also: 4x marked only 'foreign', 5x unmarked)
+
 
 Rare vowels
 -----------
