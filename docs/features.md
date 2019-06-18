@@ -11,8 +11,8 @@
        (but also: 4x marked only 'foreign', 5x unmarked)
 
 
-Rare vowels
------------
+### Rare vowels
+
     'ɑ' (Urmi_C)
     marked 'foreign' without language:
     - hăsabdɑ̄̀r, A1:41
@@ -36,8 +36,8 @@ Rare vowels
     - čıxadı́m, A44:8
     - čıxadı́m, A44:8
 
-Vowel accents
--------------
+### Vowel accents
+
     Grave and acute: indicate word stress
     U+0300 '◌̀' COMBINING GRAVE ACCENT
     U+0301 '◌́' COMBINING ACUTE ACCENT
@@ -78,8 +78,8 @@ Vowel accents
     Occurs once, on 'a'
     - šã̀ns, Urmi_C A16:3
 
-Consonants
-==========
+## Consonants
+
     There are 49 unique consonants.
     Of those, 28 have uppercase equivalents.
     Since not all consonants occur in both dialects,
@@ -90,8 +90,8 @@ Consonants
     ĉ p̂ ġ č š ž ḍ ḥ ḷ ṃ p̣ ṛ ṣ ṭ ẓ ð̣ č̣ c̭ k̭ p̭ ṱ č̭
     Č Š Ḥ K̭ Ṱ Č̭
 
-Non-latin consonants
---------------------
+## Non-latin consonants
+
     ʾ U:10896; B:8449
     ʿ U:2; B:190 (Urmi_C A3:39: twice 'măʿammɑ̀', marked 'P')
     ɟ 3028 (Only Urmi_C)
@@ -118,8 +118,8 @@ Non-latin consonants
       - gʸān-dìye A35:20
       - gʸáne A35:21
 
-Consonant diacritics
---------------------
+## Consonant diacritics
+
     U+0302 '◌̂' COMBINING CIRCUMFLEX ACCENT (U:562; B:0)
     ĉ 1 k̭at-xá-ʾaxĉa, Urmi_C A1:50
     p̂ 561
