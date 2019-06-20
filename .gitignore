@@ -114,3 +114,6 @@ venv.bak/
 
 # ignore MS document files
 ~$.*
+
+# Ignore cody's files
+tester.ipynb
