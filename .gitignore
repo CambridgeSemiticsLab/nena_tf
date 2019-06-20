@@ -111,3 +111,6 @@ venv.bak/
 
 # vim swap files
 .*.swp
+
+# ignore MS document files
+~$.*
