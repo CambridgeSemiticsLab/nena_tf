@@ -2,7 +2,7 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @fmt:text-orig-full={utf8}{trailer}
 @sectionFeatures=text_id,line
-@sectionTypes=text,paragraph,line,sentence
+@sectionTypes=text,line
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-18T11:29:09Z
+@dateWritten=2019-06-20T10:09:59Z
 
