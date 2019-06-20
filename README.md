@@ -1,6 +1,6 @@
 # Northeastern Neo-Aramaic Text Corpus [![DOI](https://zenodo.org/badge/178829734.svg)](https://zenodo.org/badge/latestdoi/178829734)
 
-<img src="docs/images/CambridgeU_color.jpg" width="236" height="49">
+<a href="https://www.ames.cam.ac.uk"><img src="docs/images/CambridgeU_color.jpg" width="236" height="49"></a>
 
 North Eastern Neo-Aramaic consists of a very diverse group of Aramaic dialects that were spoken until modern times in Northern Iraq, North West Iran and South Eastern Turkey by Christian and Jewish communities. These are among the last remaining living vestiges of the Aramaic language, which was one of the major languages of the region in antiquity.
 
