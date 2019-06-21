@@ -2,9 +2,9 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-20T10:48:16Z
+@dateWritten=2019-06-21T16:50:08Z
 
-551015	The Monk And The Angel
+551017	The Monk And The Angel
 THE MONK WHO WANTED TO KNOW WHEN HE WOULD DIE
 THE WISE YOUNG MAN
 THE FOX AND THE STORK
