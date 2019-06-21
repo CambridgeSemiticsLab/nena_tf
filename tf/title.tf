@@ -2,7 +2,7 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-21T16:50:08Z
+@dateWritten=2019-06-21T16:59:11Z
 
 551017	The Monk And The Angel
 THE MONK WHO WANTED TO KNOW WHEN HE WOULD DIE

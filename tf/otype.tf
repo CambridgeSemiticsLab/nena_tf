@@ -2,7 +2,7 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-21T16:50:07Z
+@dateWritten=2019-06-21T16:59:11Z
 
 1-551014	char
 551015-551016	dialect
@@ -14,4 +14,3 @@
 595476-631442	prosa
 631443-725204	word
 725205-845338	morpheme
-845339-846440	foreign
