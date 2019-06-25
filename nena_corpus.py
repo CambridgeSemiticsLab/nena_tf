@@ -85,7 +85,7 @@ def get_style(e):
     # Actual footnotes are wrapped in <div> with "id=sdfootnote{n}"
     def fn_class(e, a_class):
         return ([a.attrib['name'][:-3]
-                 for a in e.xpath('ancestor::a')
+                 for a in e.xpath('ancestor-or-self::a')
                  if a.attrib.get('class', '') == a_class]+[''])[0]
     
     def has_tag(e, tag):
