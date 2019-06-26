@@ -2,7 +2,7 @@
 @author=Geoffrey Khan, Cody Kingham, and Hannes Vlaardingerbroek
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-26T15:38:16Z
+@dateWritten=2019-06-26T16:50:47Z
 
 551017	Dawið ʾAdam
 Dawið ʾAdam

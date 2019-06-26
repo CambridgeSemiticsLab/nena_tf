@@ -3,7 +3,7 @@
 @description=A full transcription on char, morpheme, and word objects.
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-06-26T15:39:02Z
+@dateWritten=2019-06-26T16:51:31Z
 
 }
 i`
