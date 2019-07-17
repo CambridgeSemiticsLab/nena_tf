@@ -281,13 +281,23 @@ def get_style(e):
         style = 'sup'
     elif has_tag(e, 'i'):
         style = 'i'
+    elif has_tag(e, 'b'):
+        style = 'b'
     else:
         style = None
 
     return style
 
-def normalize_styles(t, src_default=None, src_emphasis='i',
-                    default=None, emphasis='emphasis'):
+def is_letter(c):
+    """Return True if c is Letter or Marker, False otherwise"""
+
+    # TODO use regex?
+    # https://www.regular-expressions.info/unicode.html#category
+    return unicodedata.category(c)[0] in ('L', 'M')
+
+def normalize_styles(t, src_default=None, src_emphasis='i', src_strong='b',
+                    default=None, emphasis='emphasis', strong='strong',
+                    can_have_emphasis=is_letter):
     """Normalize styles of Text object.
 
     Removes all styles applied to anything but letters.
@@ -322,29 +332,24 @@ def normalize_styles(t, src_default=None, src_emphasis='i',
             style = default
         elif style == src_emphasis:
             style = emphasis
+        elif style == src_strong:
+            style = strong
         for c in text:
-            if is_letter(c):
+            if can_have_emphasis(c):  # not c.isspace(): # is_letter(c):
                 # emphasize non-letters between two emphasized elements
-                if (style == emphasis
+                if (style in (emphasis, strong)
                         and len(new_t) > 1
-                        and new_t[-2][1] == emphasis
+                        and new_t[-2][1] == style
                         and new_t[-1][1] == default
-                        and not any(is_letter(c) for c in new_t[-1][0])):
+                        and not any(can_have_emphasis(c) for c in new_t[-1][0])):
                     last_text, _ = new_t.pop()
-                    new_t.append(last_text, emphasis)
+                    new_t.append(last_text, style)
                 new_t.append(c, style)
             else:
                 new_t.append(c, default)
     return new_t
 
-def is_letter(c):
-    """Return True if c is Letter or Marker, False otherwise"""
-    
-    # TODO use regex?
-    # https://www.regular-expressions.info/unicode.html#category
-    return unicodedata.category(c)[0] in ('L', 'M')
-
-def text_tostring(t, default=None, emphasis='emphasis', sup='sup',
+def text_tostring(t, default=None, emphasis='emphasis', strong='strong', sup='sup',
                fn_anc='fn_anc', fn_sym='fn_sym'):
     """Convert Text object to str.
 
@@ -361,6 +366,7 @@ def text_tostring(t, default=None, emphasis='emphasis', sup='sup',
     markers = {
         default: '{}',
         emphasis: '*{}*',
+        strong: '**{}**',
         sup: '<{}>',
         fn_anc: '[^{}]',
         fn_sym: '[^{}]:',
