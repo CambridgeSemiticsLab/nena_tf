@@ -7,7 +7,7 @@
 @source=The NENA linguistic corpus is derived from decades of field work by Geoffrey Khan and his students, interviewing living speakers. The NENA dialects remain critically endangered.
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-12T20:06:10Z
+@dateWritten=2019-11-13T14:46:55Z
 
 517	[^1]: The name Čuxo means ‘one who wears the woolen *čuxa* garment’.
 60934	[^1]: None

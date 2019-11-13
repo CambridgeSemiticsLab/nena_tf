@@ -6,7 +6,7 @@
 @source=The NENA linguistic corpus is derived from decades of field work by Geoffrey Khan and his students, interviewing living speakers. The NENA dialects remain critically endangered.
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-12T20:06:11Z
+@dateWritten=2019-11-13T14:46:55Z
 
 1-120148	morpheme
 120149-120150	dialect
@@ -16,4 +16,4 @@
 159030-175736	sentence
 175737-200263	subsentence
 200264-200389	text
-200390-236048	word
+200390-294151	word
