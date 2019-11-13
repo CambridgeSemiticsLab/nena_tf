@@ -1,6 +1,22 @@
+# TextFabric
+.tf
+
+# Mac stuff
+.DS_store
+
+# vim swap files
+.*.swp
+
+# ignore MS document files
+~$.*
+
+# Ignore cody's files
+tester.ipynb
+
 # ignore development files
 dev
 parser.out
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -106,18 +122,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# TextFabric
-.tf
-
-# Mac stuff
-.DS_store
-
-# vim swap files
-.*.swp
-
-# ignore MS document files
-~$.*
-
-# Ignore cody's files
-tester.ipynb
