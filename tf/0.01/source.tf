@@ -8,9 +8,9 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:35Z
+@dateWritten=2019-11-13T19:24:13Z
 
-200264	bar text a1-A7.html
+739645	bar text a1-A7.html
 bar text a1-A7.html
 bar text A9-A13.html
 bar text a1-A7.html

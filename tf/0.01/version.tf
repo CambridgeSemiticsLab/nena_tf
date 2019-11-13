@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:36Z
+@dateWritten=2019-11-13T19:24:17Z
 
-200370	Version 2
+739751	Version 2
 Version 1

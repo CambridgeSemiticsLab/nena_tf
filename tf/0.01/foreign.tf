@@ -8,223 +8,223 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:35Z
+@dateWritten=2019-11-13T19:24:12Z
 
-7749	True
-8147	True
-11942	True
-13114	True
-16875	True
-19392	True
-57092	True
-57349	True
-57792	True
-58742	True
-59297	True
-59347	True
-59360	True
-59391	True
-59394	True
-59600	True
-True
-True
-59641	True
-59948	True
-60028	True
-60140	True
-60266	True
-60286	True
-60397	True
-60442	True
-60838	True
-61056	True
-True
-True
-True
-61066	True
-True
-61204	True
-61206	True
-61235	True
-61361	True
-61389	True
-61436	True
-61449	True
-61537	True
-61563	True
-61575	True
-61584	True
-61608	True
-61613	True
-61618	True
-61667	True
-True
-True
-61764	True
-61767	True
-61790	True
-61839	True
-61869	True
-True
-61907	True
-True
-61935	True
-61937	True
-True
-61967	True
-62032	True
-62036	True
-62067	True
-62117	True
-62119	True
-62136	True
-62145	True
-62165	True
-62168	True
-62205	True
-62231	True
-62261	True
-62390	True
-62410	True
-62495	True
-62527	True
-63367	True
-63375	True
-63417	True
-63830	True
-63896	True
-64098	True
-True
-64101	True
-64107	True
-64111	True
-64131	True
-64134	True
-64200	True
-64422	True
-64887	True
-66587	True
-66975	True
-66995	True
-67048	True
+585660	True
+586058	True
+589853	True
+591025	True
+594786	True
+597303	True
+635003	True
+635260	True
+635703	True
+636653	True
+637208	True
+637258	True
+637271	True
+637302	True
+637305	True
+637511	True
+True
+True
+637552	True
+637859	True
+637939	True
+638051	True
+638177	True
+638197	True
+638308	True
+638353	True
+638749	True
+638967	True
+True
+True
+True
+638977	True
+True
+639115	True
+639117	True
+639146	True
+639272	True
+639300	True
+639347	True
+639360	True
+639448	True
+639474	True
+639486	True
+639495	True
+639519	True
+639524	True
+639529	True
+639578	True
+True
+True
+639675	True
+639678	True
+639701	True
+639750	True
+639780	True
+True
+639818	True
+True
+639846	True
+639848	True
+True
+639878	True
+639943	True
+639947	True
+639978	True
+640028	True
+640030	True
+640047	True
+640056	True
+640076	True
+640079	True
+640116	True
+640142	True
+640172	True
+640301	True
+640321	True
+640406	True
+640438	True
+641278	True
+641286	True
+641328	True
+641741	True
+641807	True
+642009	True
+True
+642012	True
+642018	True
+642022	True
+642042	True
+642045	True
+642111	True
+642333	True
+642798	True
+644498	True
+644886	True
+644906	True
+644959	True
 True
 True
-67111	True
-67187	True
-67264	True
-67296	True
-67424	True
-67565	True
-68274	True
+645022	True
+645098	True
+645175	True
+645207	True
+645335	True
+645476	True
+646185	True
 True
-68294	True
-68297	True
-68367	True
-68405	True
-68411	True
-68634	True
-68806	True
-68904	True
-69099	True
-69400	True
-69414	True
-69551	True
-69631	True
-69658	True
-69721	True
-69948	True
-70001	True
-70158	True
-70980	True
+646205	True
+646208	True
+646278	True
+646316	True
+646322	True
+646545	True
+646717	True
+646815	True
+647010	True
+647311	True
+647325	True
+647462	True
+647542	True
+647569	True
+647632	True
+647859	True
+647912	True
+648069	True
+648891	True
 True
 True
-70988	True
+648899	True
 True
 True
-71091	True
+649002	True
 True
-71097	True
+649008	True
 True
-71152	True
-71168	True
-71172	True
+649063	True
+649079	True
+649083	True
 True
 True
-71222	True
-71318	True
-71329	True
+649133	True
+649229	True
+649240	True
 True
 True
-71339	True
-71403	True
-71411	True
-71448	True
-71584	True
-73203	True
-73256	True
+649250	True
+649314	True
+649322	True
+649359	True
+649495	True
+651114	True
+651167	True
 True
 True
 True
-73276	True
+651187	True
 True
 True
-73291	True
+651202	True
 True
-74152	True
-74688	True
+652063	True
+652599	True
 True
-74711	True
+652622	True
 True
-74768	True
+652679	True
 True
 True
 True
-74821	True
+652732	True
 True
 True
 True
-74867	True
+652778	True
 True
 True
 True
-75308	True
+653219	True
 True
-75327	True
+653238	True
 True
-75354	True
+653265	True
 True
-75357	True
-75380	True
+653268	True
+653291	True
 True
-75418	True
-75423	True
+653329	True
+653334	True
 True
-75555	True
-75840	True
-76131	True
-76367	True
-76412	True
+653466	True
+653751	True
+654042	True
+654278	True
+654323	True
 True
 True
 True
-76417	True
-76433	True
+654328	True
+654344	True
 True
-76453	True
+654364	True
 True
-76458	True
-76462	True
+654369	True
+654373	True
 True
-76478	True
-76559	True
-76705	True
-76760	True
-76782	True
-76817	True
-76868	True
-76882	True
-76909	True
-77339	True
+654389	True
+654470	True
+654616	True
+654671	True
+654693	True
+654728	True
+654779	True
+654793	True
+654820	True
+655250	True
 True
 True
 True
@@ -232,822 +232,822 @@ True
 True
 True
 True
-77564	True
-77575	True
-77771	True
+655475	True
+655486	True
+655682	True
 True
-78412	True
+656323	True
 True
-78689	True
-79214	True
-79792	True
-80148	True
-80195	True
-80430	True
-80553	True
-80565	True
-80695	True
-80791	True
-80827	True
-81098	True
+656600	True
+657125	True
+657703	True
+658059	True
+658106	True
+658341	True
+658464	True
+658476	True
+658606	True
+658702	True
+658738	True
+659009	True
 True
-81102	True
-81106	True
-82174	True
+659013	True
+659017	True
+660085	True
 True
-82178	True
-82239	True
-82250	True
-82293	True
-82358	True
-82373	True
-82390	True
-82445	True
+660089	True
+660150	True
+660161	True
+660204	True
+660269	True
+660284	True
+660301	True
+660356	True
 True
-82506	True
-82509	True
-82575	True
-82705	True
-82753	True
+660417	True
+660420	True
+660486	True
+660616	True
+660664	True
 True
-82763	True
-82807	True
-82912	True
-83213	True
-83229	True
-83282	True
-83304	True
-83367	True
+660674	True
+660718	True
+660823	True
+661124	True
+661140	True
+661193	True
+661215	True
+661278	True
 True
-83391	True
+661302	True
 True
 True
-83551	True
-83649	True
-83715	True
-83722	True
-83766	True
-84005	True
-84288	True
-84410	True
-84424	True
-84442	True
-84520	True
-84525	True
-84530	True
+661462	True
+661560	True
+661626	True
+661633	True
+661677	True
+661916	True
+662199	True
+662321	True
+662335	True
+662353	True
+662431	True
+662436	True
+662441	True
 True
 True
 True
-84535	True
+662446	True
 True
-84538	True
-84541	True
-84585	True
-84588	True
-84592	True
-84634	True
+662449	True
+662452	True
+662496	True
+662499	True
+662503	True
+662545	True
 True
 True
 True
 True
-84640	True
+662551	True
 True
-84651	True
-84725	True
-84746	True
-84750	True
-84832	True
-84849	True
-84876	True
-84899	True
-84944	True
+662562	True
+662636	True
+662657	True
+662661	True
+662743	True
+662760	True
+662787	True
+662810	True
+662855	True
 True
 True
-84990	True
-85051	True
+662901	True
+662962	True
 True
 True
 True
-85058	True
+662969	True
 True
-85111	True
+663022	True
 True
-85123	True
-85248	True
-85339	True
-85345	True
-85587	True
-85614	True
-85628	True
-85633	True
-85638	True
-85657	True
-85687	True
-85691	True
-85717	True
-85721	True
-85734	True
-85740	True
-85817	True
-85850	True
-85864	True
-85866	True
-86394	True
+663034	True
+663159	True
+663250	True
+663256	True
+663498	True
+663525	True
+663539	True
+663544	True
+663549	True
+663568	True
+663598	True
+663602	True
+663628	True
+663632	True
+663645	True
+663651	True
+663728	True
+663761	True
+663775	True
+663777	True
+664305	True
 True
 True
 True
-86486	True
+664397	True
 True
-86496	True
-86557	True
+664407	True
+664468	True
 True
-86601	True
-86882	True
-87656	True
-87711	True
-87714	True
-87723	True
-87767	True
-87969	True
-88111	True
-88125	True
-88169	True
-88198	True
-88210	True
-88442	True
-89271	True
-89706	True
-89723	True
-89860	True
-90126	True
-90854	True
-90865	True
-91053	True
-91313	True
-91464	True
-91649	True
-91807	True
-92019	True
-92560	True
-93127	True
-93130	True
-93181	True
-93832	True
+664512	True
+664793	True
+665567	True
+665622	True
+665625	True
+665634	True
+665678	True
+665880	True
+666022	True
+666036	True
+666080	True
+666109	True
+666121	True
+666353	True
+667182	True
+667617	True
+667634	True
+667771	True
+668037	True
+668765	True
+668776	True
+668964	True
+669224	True
+669375	True
+669560	True
+669718	True
+669930	True
+670471	True
+671038	True
+671041	True
+671092	True
+671743	True
 True
-93941	True
-94010	True
-94176	True
+671852	True
+671921	True
+672087	True
 True
-95475	True
-95593	True
-95597	True
-96067	True
-96504	True
-96528	True
-97674	True
-97745	True
-97826	True
-97962	True
-98106	True
-True
-98109	True
-True
-99116	True
-99808	True
-101239	True
-101293	True
-102695	True
-102745	True
-102777	True
-102789	True
-102883	True
-103126	True
-103129	True
-104068	True
-105011	True
-105110	True
-True
-105115	True
-105251	True
-105344	True
-True
-105356	True
-True
-105593	True
-105609	True
-True
-True
-True
-True
-105615	True
-True
-True
-True
-True
-True
-True
-True
-105671	True
-True
-105857	True
-105866	True
-106539	True
-106926	True
-106950	True
-107278	True
-107504	True
-107510	True
-107627	True
-107726	True
-107907	True
-107910	True
-108184	True
-108220	True
-108222	True
-108228	True
-108878	True
-109890	True
-110172	True
-110199	True
-True
-110225	True
-110228	True
-110408	True
-True
-110601	True
-110796	True
-111488	True
-111538	True
-111609	True
-111629	True
-111632	True
-111639	True
-111676	True
-111695	True
-111698	True
-111829	True
-111857	True
-True
-111867	True
-111997	True
-112016	True
-112038	True
-112257	True
-112499	True
-112522	True
-112749	True
-112754	True
-112791	True
-113020	True
-113050	True
-113211	True
-113285	True
-113355	True
-113468	True
-113757	True
-113927	True
-113994	True
-114102	True
-114358	True
-114438	True
-114577	True
-114613	True
-114615	True
-114695	True
-114743	True
-115247	True
-115380	True
-True
-115385	True
-115401	True
-115439	True
-115495	True
-115499	True
-115502	True
-115697	True
-True
-115762	True
-115764	True
-True
-True
-115786	True
-116031	True
-116357	True
-117237	True
-117241	True
-117768	True
-118395	True
-118736	True
-118790	True
-118835	True
-118864	True
-119174	True
-True
-119252	True
-206043	True
-206315	True
-208992	True
-209848	True
-212580	True
-214432	True
-242572	True
-242793	True
-243165	True
-243945	True
-244390	True
-244432	True
-244444	True
-244474	True
-244477	True
-244656	True
-244694	True
-244969	True
-245040	True
-245142	True
-245251	True
-245269	True
-245363	True
-245402	True
-245733	True
-245911	True
-True
-True
-True
-245919	True
-True
-246029	True
-246031	True
-246057	True
-246152	True
-246177	True
-246212	True
-246223	True
-246293	True
-246313	True
-246324	True
-246333	True
-246355	True
-246359	True
-246363	True
-246410	True
-True
-246486	True
-246488	True
-246507	True
-246551	True
-246571	True
-246594	True
-246615	True
-246617	True
-True
-246640	True
-246688	True
-246692	True
-246718	True
-246762	True
-246764	True
-246777	True
-246785	True
-246805	True
-246808	True
-246842	True
-246863	True
-246888	True
-246992	True
-247008	True
-247081	True
-247108	True
-247785	True
-247792	True
-247826	True
-248159	True
-248213	True
-248387	True
-True
-248390	True
-248395	True
-248399	True
-248413	True
-248415	True
-248466	True
-248649	True
-249016	True
-250402	True
-250724	True
-250741	True
-250785	True
-True
-250834	True
-250889	True
-250954	True
-250983	True
-251087	True
-251193	True
-251759	True
-True
-251774	True
-251776	True
-251825	True
-251855	True
-251860	True
-252043	True
-252189	True
-252274	True
-252434	True
-252667	True
-252678	True
-252785	True
-252852	True
-252875	True
-252928	True
-253123	True
-253165	True
-253286	True
-253940	True
-True
-True
-253947	True
-True
-True
-254026	True
-True
-254031	True
-True
-254077	True
-254090	True
-254094	True
-True
-True
-254134	True
-254208	True
-254217	True
-True
-True
-254226	True
-254276	True
-254281	True
-254310	True
-254416	True
-255728	True
-255774	True
-True
-255789	True
-255801	True
-True
-256486	True
-256928	True
-True
-256951	True
-True
-256999	True
-True
-True
-True
-257044	True
-True
-True
-True
-257087	True
-True
-True
-True
-257415	True
-257432	True
-257451	True
-True
-257454	True
-257471	True
-True
-257498	True
-257502	True
-257601	True
-257827	True
-258051	True
-258230	True
-258265	True
-True
-True
-True
-True
-258281	True
-True
-258297	True
-True
-258300	True
-258303	True
-True
-258317	True
-258382	True
-258506	True
-258552	True
-258567	True
-258595	True
-258635	True
-258646	True
-258671	True
-259015	True
-True
-True
-True
-True
-True
-True
-259181	True
-259190	True
-259355	True
-259873	True
-True
-260109	True
-260540	True
-261031	True
-261347	True
-261386	True
-261585	True
-261687	True
-261698	True
-261810	True
-261888	True
-261915	True
-262138	True
-262141	True
-262144	True
-263034	True
-263036	True
-263085	True
-263094	True
-263130	True
-263187	True
-263200	True
-263215	True
-263264	True
-263317	True
-263320	True
-263381	True
-263497	True
-263538	True
-True
-263546	True
-263580	True
-263665	True
-263925	True
-263938	True
-263984	True
-264005	True
-264058	True
-True
-264079	True
-True
-True
-264214	True
-264294	True
-264347	True
-264353	True
-264395	True
-264595	True
-264835	True
-264934	True
-264944	True
-264962	True
-265030	True
-265035	True
-265040	True
-True
-True
-True
-265045	True
-True
-265048	True
-265050	True
-265088	True
-265091	True
-265095	True
-265132	True
-True
-True
-True
-True
-265138	True
-True
-265147	True
-265212	True
-265229	True
-265233	True
-265306	True
-265321	True
-265344	True
-265362	True
-265401	True
-True
-265442	True
-265490	True
-True
-265495	True
-265538	True
-True
-265548	True
-265659	True
-265742	True
-265747	True
-265961	True
-265988	True
-266002	True
-266007	True
-266012	True
-266030	True
-266056	True
-266060	True
-266085	True
-266089	True
-266101	True
-266105	True
-266172	True
-266203	True
-266216	True
-266218	True
-266642	True
-True
-True
-True
-266720	True
-True
-266730	True
-266777	True
-True
-266816	True
-267047	True
-267671	True
-267714	True
-267716	True
-267724	True
-267761	True
-267933	True
-268054	True
-268067	True
-268107	True
-268127	True
-268138	True
-268330	True
-269000	True
-269370	True
-269382	True
-269504	True
-269705	True
-270312	True
-270321	True
-270474	True
-270681	True
-270803	True
-270944	True
-271075	True
-271263	True
-271717	True
-272198	True
-272200	True
-272245	True
-272820	True
-True
-272914	True
-272969	True
-273116	True
-274203	True
-274308	True
-274311	True
-274704	True
-275056	True
-275075	True
-276035	True
-276098	True
-276165	True
-276286	True
-276406	True
-True
-276409	True
-True
-277192	True
-277719	True
-278908	True
-278952	True
-280079	True
-280120	True
-280148	True
-280157	True
-280233	True
-280441	True
-280444	True
-281216	True
-281991	True
-282079	True
-282082	True
-282193	True
-282279	True
-True
-282290	True
-282496	True
-282511	True
-True
-True
-True
-True
-282517	True
-True
-True
-True
-True
-True
-True
-True
-282567	True
-True
-282730	True
-282739	True
-283256	True
-283568	True
-283588	True
-283845	True
-284024	True
-284028	True
-284118	True
-284205	True
-284347	True
-284349	True
-284569	True
-284598	True
-284600	True
-284605	True
-285127	True
-285944	True
-286151	True
-286168	True
-True
-286188	True
-286191	True
-286321	True
-True
-286476	True
-286639	True
-287214	True
-287256	True
-287314	True
-287328	True
-287331	True
-287337	True
-287366	True
-287382	True
-287384	True
-287491	True
-287515	True
-True
-287523	True
-287628	True
-287644	True
-287664	True
-287842	True
-288055	True
-288074	True
-288248	True
-288252	True
-288281	True
-288462	True
-288486	True
-288614	True
-288677	True
-288730	True
-288818	True
-289041	True
-289187	True
-289237	True
-289321	True
-289519	True
-289586	True
-289702	True
-289733	True
-289735	True
-289802	True
-289839	True
-290220	True
-290316	True
-True
-290320	True
-290333	True
-290362	True
-290403	True
-290405	True
-290407	True
-290569	True
-290620	True
-290622	True
-True
-290640	True
-290839	True
-291094	True
-291820	True
-291823	True
-292243	True
-292749	True
-293019	True
-293064	True
-293102	True
-293128	True
-293381	True
-True
-293439	True
+673386	True
+673504	True
+673508	True
+673978	True
+674415	True
+674439	True
+675585	True
+675656	True
+675737	True
+675873	True
+676017	True
+True
+676020	True
+True
+677027	True
+677719	True
+679150	True
+679204	True
+680606	True
+680656	True
+680688	True
+680700	True
+680794	True
+681037	True
+681040	True
+681979	True
+682922	True
+683021	True
+True
+683026	True
+683162	True
+683255	True
+True
+683267	True
+True
+683504	True
+683520	True
+True
+True
+True
+True
+683526	True
+True
+True
+True
+True
+True
+True
+True
+683582	True
+True
+683768	True
+683777	True
+684450	True
+684837	True
+684861	True
+685189	True
+685415	True
+685421	True
+685538	True
+685637	True
+685818	True
+685821	True
+686095	True
+686131	True
+686133	True
+686139	True
+686789	True
+687801	True
+688083	True
+688110	True
+True
+688136	True
+688139	True
+688319	True
+True
+688512	True
+688707	True
+689399	True
+689449	True
+689520	True
+689540	True
+689543	True
+689550	True
+689587	True
+689606	True
+689609	True
+689740	True
+689768	True
+True
+689778	True
+689908	True
+689927	True
+689949	True
+690168	True
+690410	True
+690433	True
+690660	True
+690665	True
+690702	True
+690931	True
+690961	True
+691122	True
+691196	True
+691266	True
+691379	True
+691668	True
+691838	True
+691905	True
+692013	True
+692269	True
+692349	True
+692488	True
+692524	True
+692526	True
+692606	True
+692654	True
+693158	True
+693291	True
+True
+693296	True
+693312	True
+693350	True
+693406	True
+693410	True
+693413	True
+693608	True
+True
+693673	True
+693675	True
+True
+True
+693697	True
+693942	True
+694268	True
+695148	True
+695152	True
+695679	True
+696306	True
+696647	True
+696701	True
+696746	True
+696775	True
+697085	True
+True
+697163	True
+745424	True
+745696	True
+748373	True
+749229	True
+751961	True
+753813	True
+781953	True
+782174	True
+782546	True
+783326	True
+783771	True
+783813	True
+783825	True
+783855	True
+783858	True
+784037	True
+784075	True
+784350	True
+784421	True
+784523	True
+784632	True
+784650	True
+784744	True
+784783	True
+785114	True
+785292	True
+True
+True
+True
+785300	True
+True
+785410	True
+785412	True
+785438	True
+785533	True
+785558	True
+785593	True
+785604	True
+785674	True
+785694	True
+785705	True
+785714	True
+785736	True
+785740	True
+785744	True
+785791	True
+True
+785867	True
+785869	True
+785888	True
+785932	True
+785952	True
+785975	True
+785996	True
+785998	True
+True
+786021	True
+786069	True
+786073	True
+786099	True
+786143	True
+786145	True
+786158	True
+786166	True
+786186	True
+786189	True
+786223	True
+786244	True
+786269	True
+786373	True
+786389	True
+786462	True
+786489	True
+787166	True
+787173	True
+787207	True
+787540	True
+787594	True
+787768	True
+True
+787771	True
+787776	True
+787780	True
+787794	True
+787796	True
+787847	True
+788030	True
+788397	True
+789783	True
+790105	True
+790122	True
+790166	True
+True
+790215	True
+790270	True
+790335	True
+790364	True
+790468	True
+790574	True
+791140	True
+True
+791155	True
+791157	True
+791206	True
+791236	True
+791241	True
+791424	True
+791570	True
+791655	True
+791815	True
+792048	True
+792059	True
+792166	True
+792233	True
+792256	True
+792309	True
+792504	True
+792546	True
+792667	True
+793321	True
+True
+True
+793328	True
+True
+True
+793407	True
+True
+793412	True
+True
+793458	True
+793471	True
+793475	True
+True
+True
+793515	True
+793589	True
+793598	True
+True
+True
+793607	True
+793657	True
+793662	True
+793691	True
+793797	True
+795109	True
+795155	True
+True
+795170	True
+795182	True
+True
+795867	True
+796309	True
+True
+796332	True
+True
+796380	True
+True
+True
+True
+796425	True
+True
+True
+True
+796468	True
+True
+True
+True
+796796	True
+796813	True
+796832	True
+True
+796835	True
+796852	True
+True
+796879	True
+796883	True
+796982	True
+797208	True
+797432	True
+797611	True
+797646	True
+True
+True
+True
+True
+797662	True
+True
+797678	True
+True
+797681	True
+797684	True
+True
+797698	True
+797763	True
+797887	True
+797933	True
+797948	True
+797976	True
+798016	True
+798027	True
+798052	True
+798396	True
+True
+True
+True
+True
+True
+True
+798562	True
+798571	True
+798736	True
+799254	True
+True
+799490	True
+799921	True
+800412	True
+800728	True
+800767	True
+800966	True
+801068	True
+801079	True
+801191	True
+801269	True
+801296	True
+801519	True
+801522	True
+801525	True
+802415	True
+802417	True
+802466	True
+802475	True
+802511	True
+802568	True
+802581	True
+802596	True
+802645	True
+802698	True
+802701	True
+802762	True
+802878	True
+802919	True
+True
+802927	True
+802961	True
+803046	True
+803306	True
+803319	True
+803365	True
+803386	True
+803439	True
+True
+803460	True
+True
+True
+803595	True
+803675	True
+803728	True
+803734	True
+803776	True
+803976	True
+804216	True
+804315	True
+804325	True
+804343	True
+804411	True
+804416	True
+804421	True
+True
+True
+True
+804426	True
+True
+804429	True
+804431	True
+804469	True
+804472	True
+804476	True
+804513	True
+True
+True
+True
+True
+804519	True
+True
+804528	True
+804593	True
+804610	True
+804614	True
+804687	True
+804702	True
+804725	True
+804743	True
+804782	True
+True
+804823	True
+804871	True
+True
+804876	True
+804919	True
+True
+804929	True
+805040	True
+805123	True
+805128	True
+805342	True
+805369	True
+805383	True
+805388	True
+805393	True
+805411	True
+805437	True
+805441	True
+805466	True
+805470	True
+805482	True
+805486	True
+805553	True
+805584	True
+805597	True
+805599	True
+806023	True
+True
+True
+True
+806101	True
+True
+806111	True
+806158	True
+True
+806197	True
+806428	True
+807052	True
+807095	True
+807097	True
+807105	True
+807142	True
+807314	True
+807435	True
+807448	True
+807488	True
+807508	True
+807519	True
+807711	True
+808381	True
+808751	True
+808763	True
+808885	True
+809086	True
+809693	True
+809702	True
+809855	True
+810062	True
+810184	True
+810325	True
+810456	True
+810644	True
+811098	True
+811579	True
+811581	True
+811626	True
+812201	True
+True
+812295	True
+812350	True
+812497	True
+813584	True
+813689	True
+813692	True
+814085	True
+814437	True
+814456	True
+815416	True
+815479	True
+815546	True
+815667	True
+815787	True
+True
+815790	True
+True
+816573	True
+817100	True
+818289	True
+818333	True
+819460	True
+819501	True
+819529	True
+819538	True
+819614	True
+819822	True
+819825	True
+820597	True
+821372	True
+821460	True
+821463	True
+821574	True
+821660	True
+True
+821671	True
+821877	True
+821892	True
+True
+True
+True
+True
+821898	True
+True
+True
+True
+True
+True
+True
+True
+821948	True
+True
+822111	True
+822120	True
+822637	True
+822949	True
+822969	True
+823226	True
+823405	True
+823409	True
+823499	True
+823586	True
+823728	True
+823730	True
+823950	True
+823979	True
+823981	True
+823986	True
+824508	True
+825325	True
+825532	True
+825549	True
+True
+825569	True
+825572	True
+825702	True
+True
+825857	True
+826020	True
+826595	True
+826637	True
+826695	True
+826709	True
+826712	True
+826718	True
+826747	True
+826763	True
+826765	True
+826872	True
+826896	True
+True
+826904	True
+827009	True
+827025	True
+827045	True
+827223	True
+827436	True
+827455	True
+827629	True
+827633	True
+827662	True
+827843	True
+827867	True
+827995	True
+828058	True
+828111	True
+828199	True
+828422	True
+828568	True
+828618	True
+828702	True
+828900	True
+828967	True
+829083	True
+829114	True
+829116	True
+829183	True
+829220	True
+829601	True
+829697	True
+True
+829701	True
+829714	True
+829743	True
+829784	True
+829786	True
+829788	True
+829950	True
+830001	True
+830003	True
+True
+830021	True
+830220	True
+830475	True
+831201	True
+831204	True
+831624	True
+832130	True
+832400	True
+832445	True
+832483	True
+832509	True
+832762	True
+True
+832820	True

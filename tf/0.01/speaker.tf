@@ -8,8 +8,9 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:35Z
+@dateWritten=2019-11-13T19:24:13Z
 
+577912	Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna
@@ -1533,7 +1534,6 @@ Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna
-Yuwəl Yuḥanna
 Yuwarəš Xošăba Kena
 Yuwarəš Xošăba Kena
 Yuwarəš Xošăba Kena
@@ -120158,7 +120158,7 @@ Yulia Davudi
 Yulia Davudi
 Yulia Davudi
 Yulia Davudi
-200390	Yuwəl Yuḥanna
+739771	Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna
 Yuwəl Yuḥanna

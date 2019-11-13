@@ -8,9 +8,9 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:35Z
+@dateWritten=2019-11-13T19:24:12Z
 
-156135	1
+575368	1
 2
 3
 4
@@ -2554,7 +2554,7 @@
 17
 18
 19
-1
+698060	1
 1
 1
 2

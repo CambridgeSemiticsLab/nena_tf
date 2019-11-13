@@ -7,14 +7,15 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T16:33:35Z
+@dateWritten=2019-11-13T19:24:12Z
 
-1-120148	morpheme
-120149-120150	dialect
-120151-156134	inton
-156135-158678	line
-158679-159029	paragraph
-159030-175736	sentence
-175737-200263	subsentence
-200264-200389	text
-200390-294151	word
+1-539381	letter
+539382-539383	dialect
+539384-575367	inton
+575368-577911	line
+577912-698059	morpheme
+698060-698410	paragraph
+698411-715117	sentence
+715118-739644	subsentence
+739645-739770	text
+739771-833532	word
