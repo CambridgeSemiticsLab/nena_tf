@@ -1,5 +1,5 @@
 @node
-@about=the version of the story if there are multiple instances of the same story
+@about=version of the story if there are multiple instances of the same story
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, James Strachan, Hannes Vlaardingerbroek
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T15:32:09Z
+@dateWritten=2019-11-13T15:39:29Z
 
 200370	Version 2
 Version 1

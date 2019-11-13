@@ -1,5 +1,5 @@
 @node
-@about=place the text was recorded
+@about=place a text was recorded
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, James Strachan, Hannes Vlaardingerbroek
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T15:32:08Z
+@dateWritten=2019-11-13T15:39:28Z
 
 200264	Dure
 Dure
