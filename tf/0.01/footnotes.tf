@@ -8,8 +8,11 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T15:39:28Z
+@dateWritten=2019-11-13T16:33:35Z
 
 517	[^1]: The name Čuxo means ‘one who wears the woolen *čuxa* garment’.
 60934	[^1]: None
 116596	[^2]: None
+200755	[^1]: The name Čuxo means ‘one who wears the woolen *čuxa* garment’.
+245810	[^1]: None
+291296	[^2]: None

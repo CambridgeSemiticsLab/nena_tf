@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T15:39:28Z
+@dateWritten=2019-11-13T16:33:35Z
 
 7749	True
 8147	True
@@ -544,3 +544,510 @@ True
 119174	True
 True
 119252	True
+206043	True
+206315	True
+208992	True
+209848	True
+212580	True
+214432	True
+242572	True
+242793	True
+243165	True
+243945	True
+244390	True
+244432	True
+244444	True
+244474	True
+244477	True
+244656	True
+244694	True
+244969	True
+245040	True
+245142	True
+245251	True
+245269	True
+245363	True
+245402	True
+245733	True
+245911	True
+True
+True
+True
+245919	True
+True
+246029	True
+246031	True
+246057	True
+246152	True
+246177	True
+246212	True
+246223	True
+246293	True
+246313	True
+246324	True
+246333	True
+246355	True
+246359	True
+246363	True
+246410	True
+True
+246486	True
+246488	True
+246507	True
+246551	True
+246571	True
+246594	True
+246615	True
+246617	True
+True
+246640	True
+246688	True
+246692	True
+246718	True
+246762	True
+246764	True
+246777	True
+246785	True
+246805	True
+246808	True
+246842	True
+246863	True
+246888	True
+246992	True
+247008	True
+247081	True
+247108	True
+247785	True
+247792	True
+247826	True
+248159	True
+248213	True
+248387	True
+True
+248390	True
+248395	True
+248399	True
+248413	True
+248415	True
+248466	True
+248649	True
+249016	True
+250402	True
+250724	True
+250741	True
+250785	True
+True
+250834	True
+250889	True
+250954	True
+250983	True
+251087	True
+251193	True
+251759	True
+True
+251774	True
+251776	True
+251825	True
+251855	True
+251860	True
+252043	True
+252189	True
+252274	True
+252434	True
+252667	True
+252678	True
+252785	True
+252852	True
+252875	True
+252928	True
+253123	True
+253165	True
+253286	True
+253940	True
+True
+True
+253947	True
+True
+True
+254026	True
+True
+254031	True
+True
+254077	True
+254090	True
+254094	True
+True
+True
+254134	True
+254208	True
+254217	True
+True
+True
+254226	True
+254276	True
+254281	True
+254310	True
+254416	True
+255728	True
+255774	True
+True
+255789	True
+255801	True
+True
+256486	True
+256928	True
+True
+256951	True
+True
+256999	True
+True
+True
+True
+257044	True
+True
+True
+True
+257087	True
+True
+True
+True
+257415	True
+257432	True
+257451	True
+True
+257454	True
+257471	True
+True
+257498	True
+257502	True
+257601	True
+257827	True
+258051	True
+258230	True
+258265	True
+True
+True
+True
+True
+258281	True
+True
+258297	True
+True
+258300	True
+258303	True
+True
+258317	True
+258382	True
+258506	True
+258552	True
+258567	True
+258595	True
+258635	True
+258646	True
+258671	True
+259015	True
+True
+True
+True
+True
+True
+True
+259181	True
+259190	True
+259355	True
+259873	True
+True
+260109	True
+260540	True
+261031	True
+261347	True
+261386	True
+261585	True
+261687	True
+261698	True
+261810	True
+261888	True
+261915	True
+262138	True
+262141	True
+262144	True
+263034	True
+263036	True
+263085	True
+263094	True
+263130	True
+263187	True
+263200	True
+263215	True
+263264	True
+263317	True
+263320	True
+263381	True
+263497	True
+263538	True
+True
+263546	True
+263580	True
+263665	True
+263925	True
+263938	True
+263984	True
+264005	True
+264058	True
+True
+264079	True
+True
+True
+264214	True
+264294	True
+264347	True
+264353	True
+264395	True
+264595	True
+264835	True
+264934	True
+264944	True
+264962	True
+265030	True
+265035	True
+265040	True
+True
+True
+True
+265045	True
+True
+265048	True
+265050	True
+265088	True
+265091	True
+265095	True
+265132	True
+True
+True
+True
+True
+265138	True
+True
+265147	True
+265212	True
+265229	True
+265233	True
+265306	True
+265321	True
+265344	True
+265362	True
+265401	True
+True
+265442	True
+265490	True
+True
+265495	True
+265538	True
+True
+265548	True
+265659	True
+265742	True
+265747	True
+265961	True
+265988	True
+266002	True
+266007	True
+266012	True
+266030	True
+266056	True
+266060	True
+266085	True
+266089	True
+266101	True
+266105	True
+266172	True
+266203	True
+266216	True
+266218	True
+266642	True
+True
+True
+True
+266720	True
+True
+266730	True
+266777	True
+True
+266816	True
+267047	True
+267671	True
+267714	True
+267716	True
+267724	True
+267761	True
+267933	True
+268054	True
+268067	True
+268107	True
+268127	True
+268138	True
+268330	True
+269000	True
+269370	True
+269382	True
+269504	True
+269705	True
+270312	True
+270321	True
+270474	True
+270681	True
+270803	True
+270944	True
+271075	True
+271263	True
+271717	True
+272198	True
+272200	True
+272245	True
+272820	True
+True
+272914	True
+272969	True
+273116	True
+274203	True
+274308	True
+274311	True
+274704	True
+275056	True
+275075	True
+276035	True
+276098	True
+276165	True
+276286	True
+276406	True
+True
+276409	True
+True
+277192	True
+277719	True
+278908	True
+278952	True
+280079	True
+280120	True
+280148	True
+280157	True
+280233	True
+280441	True
+280444	True
+281216	True
+281991	True
+282079	True
+282082	True
+282193	True
+282279	True
+True
+282290	True
+282496	True
+282511	True
+True
+True
+True
+True
+282517	True
+True
+True
+True
+True
+True
+True
+True
+282567	True
+True
+282730	True
+282739	True
+283256	True
+283568	True
+283588	True
+283845	True
+284024	True
+284028	True
+284118	True
+284205	True
+284347	True
+284349	True
+284569	True
+284598	True
+284600	True
+284605	True
+285127	True
+285944	True
+286151	True
+286168	True
+True
+286188	True
+286191	True
+286321	True
+True
+286476	True
+286639	True
+287214	True
+287256	True
+287314	True
+287328	True
+287331	True
+287337	True
+287366	True
+287382	True
+287384	True
+287491	True
+287515	True
+True
+287523	True
+287628	True
+287644	True
+287664	True
+287842	True
+288055	True
+288074	True
+288248	True
+288252	True
+288281	True
+288462	True
+288486	True
+288614	True
+288677	True
+288730	True
+288818	True
+289041	True
+289187	True
+289237	True
+289321	True
+289519	True
+289586	True
+289702	True
+289733	True
+289735	True
+289802	True
+289839	True
+290220	True
+290316	True
+True
+290320	True
+290333	True
+290362	True
+290403	True
+290405	True
+290407	True
+290569	True
+290620	True
+290622	True
+True
+290640	True
+290839	True
+291094	True
+291820	True
+291823	True
+292243	True
+292749	True
+293019	True
+293064	True
+293102	True
+293128	True
+293381	True
+True
+293439	True

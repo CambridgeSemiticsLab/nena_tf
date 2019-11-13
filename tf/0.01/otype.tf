@@ -7,7 +7,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T15:39:28Z
+@dateWritten=2019-11-13T16:33:35Z
 
 1-120148	morpheme
 120149-120150	dialect
