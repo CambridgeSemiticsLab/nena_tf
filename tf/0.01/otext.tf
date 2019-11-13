@@ -5,11 +5,11 @@
 @fmt:text-trans-full=morpheme#{trans_f}{trans_trailer_f}
 @fmt:text-trans-lite=morpheme#{trans_l}{trans_trailer_l}
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
-@researchers=Paul Noordlander, Dorota Molin
+@researchers=Paul Noorlander, Dorota Molin
 @sectionFeatures=dialect,title,number
 @sectionTypes=dialect,text,line
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T19:36:51Z
+@dateWritten=2019-11-13T19:39:12Z
 
