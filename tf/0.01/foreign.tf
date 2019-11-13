@@ -4,10 +4,11 @@
 @editors=Cody Kingham, James Strachan, Hannes Vlaardingerbroek
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Paul Noordlander, Dorota Molin
-@source=The NENA linguistic corpus is derived from decades of field work by Geoffrey Khan and his students, interviewing living speakers. The NENA dialects remain critically endangered.
+@source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students, interviewing living speakers. The NENA dialects remain critically endangered.
+@url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-11-13T14:46:55Z
+@dateWritten=2019-11-13T15:32:08Z
 
 7749	True
 8147	True
