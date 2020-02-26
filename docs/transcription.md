@@ -45,12 +45,12 @@ Issues:
 
 - combining vowel diacritics:
 
-      à ` 0x0300 grave
-      á ' 0x0301 acute
-      ā _ 0x0304 macron
-      ă % 0x0306 breve
-      ä " 0x0308 diaeresis
-      ã ~ 0x0303 tilde
+      à ` 0x0300 grave
+      á ' 0x0301 acute
+      ā _ 0x0304 macron
+      ă % 0x0306 breve
+      ä " 0x0308 diaeresis
+      ã ~ 0x0303 tilde
 
 - consonants:
 
@@ -60,9 +60,9 @@ Issues:
       ɟ &
       Ɉ ?
       θ 8
-      ʸ 7
-      ʾ }
-      ʿ {
+      ʸ 7 0x02B8 small Y
+      ʾ } 0x02BE right half ring
+      ʿ { 0x02BF left half ring
 
 - combining consonant diacritics:
 
@@ -70,7 +70,7 @@ Issues:
 
       x̌ < 0x030C caron
       x̂ ^ 0x0302 circumflex
-      ẋ ; 0x0307 dot above
+      ẋ ; 0x0307 dot above
       x̣ . 0x0323 dot below
       x̭ > 0x032D circumflex below
 
