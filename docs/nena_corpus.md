@@ -8,7 +8,7 @@ One can think of the TF format in two ways. The first is as a *conceptual* model
 
 The *conceptual* model of the TF NENA corpus is as a graph. A graph is simply a way to model relationships between entities. This is done by modeling "entities" as points, or nodes, and relationships as connections, or edges:
 
-<img src="images/nodes_edges.png" height=400px width=400px>
+<img src="images/nodes_edges.png" height=300px width=400px>
 
 In the case of a text graph, entities like letters, words, sentences are modeled as nodes. These entities also have relationships, e.g. a "letter" is inside of a "word." These relationships, and potentiallly even syntactic relationships, are modeled as edges between the nodes. 
 
