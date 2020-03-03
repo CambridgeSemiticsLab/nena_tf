@@ -1,4 +1,4 @@
-# Northeastern Neo-Aramaic Text-Fabric Corpus [![DOI](https://zenodo.org/badge/178829734.svg)](https://zenodo.org/badge/latestdoi/178829734)
+# North Eastern Neo-Aramaic Text-Fabric Corpus [![DOI](https://zenodo.org/badge/178829734.svg)](https://zenodo.org/badge/latestdoi/178829734)
 
 <a href="https://www.ames.cam.ac.uk"><img src="docs/images/CambridgeU_color.jpg" width="236" height="49"></a>
 
