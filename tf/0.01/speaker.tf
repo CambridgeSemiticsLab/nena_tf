@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-02T14:49:04Z
+@dateWritten=2020-03-09T17:18:38Z
 
 577912	Yuwəl Yuḥanna
 Yuwəl Yuḥanna

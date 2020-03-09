@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-02T14:49:06Z
+@dateWritten=2020-03-09T17:18:40Z
 
 739645	A Hundred Gold Coins
 A Man Called Čuxo
