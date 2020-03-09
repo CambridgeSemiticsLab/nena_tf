@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T17:18:39Z
+@dateWritten=2020-03-09T22:02:36Z
 
 577912	xa
 ga
@@ -120158,7 +120158,7 @@ muyyita
 muttita
 k̭amaytu
 ⁺bixala
-739771	ga xa
+739771	xa ga
 xeta
 mallah
 naṣradin
@@ -120167,7 +120167,7 @@ modi
 wiða
 bɛθa gu
 wewa
-zala har w
+zala w har
 θaya
 zala w
 θaya
@@ -120176,14 +120176,14 @@ mara
 yawətli
 ʾəmma
 dawe
-hawa ʾən
-ʾəč̣č̣i u
+ʾən hawa
+u ʾəč̣č̣i
 ʾəč̣č̣a
 maqəlbənna
-hawa ʾu ʾən
-xa ži w ʾəmma
+ʾən ʾu hawa
+w xa ʾəmma ži
 la bayənna
-de šuqla
+šuqla de
 ʾəmma
 garəg
 hawa
@@ -120193,7 +120193,7 @@ hole
 zala w
 θaya
 ʾiθwale
-xa šwawa
+šwawa xa
 huðaya
 maṣoθe
 ʾəlle
@@ -120207,10 +120207,10 @@ mjarbənne
 siqa
 l gare
 dəryɛle
-ʾəč̣č̣i u
+u ʾəč̣č̣i
 ʾəč̣č̣a
 dawe
-gu ða kista
+ða gu kista
 dərya
 b kawele
 ʾa
@@ -120226,32 +120226,32 @@ pišela
 mnayəlla
 l xa
 pliṭla
-ʾəč̣č̣i u
+u ʾəč̣č̣i
 ʾəč̣č̣a
 tre
 tre
-ʾəč̣č̣i u
+u ʾəč̣č̣i
 ʾəč̣č̣a
 ʾəṣra
 ʾəṣra
-ʾəč̣č̣i har u
+u ʾəč̣č̣i har
 ʾəč̣č̣a
 klela
 ʾamər
 baxta
 dus ile
 ʾalaha
-xaləṭ la
-ʾəč̣č̣i u
+la xaləṭ
+u ʾəč̣č̣i
 ʾəč̣č̣a
 ʾaxči
 ʾana
-xšawti max
+max xšawti
 ʾayya
 kista
 hole
 mxožəbnəlla
-xa max
+max xa
 šqul ha
 mattula
 tamaha
@@ -120275,20 +120275,20 @@ mrazgət
 ganux
 təmməl
 asqəx ṱ
-qazi kəs
+kəs qazi
 huðaya
-ʾəč̣č̣i u
+u ʾəč̣č̣i
 ʾəč̣č̣a
 dawe
 zile
 mənne
 ʾɛka
-ṱ aθya
+aθya ṱ
 šənθe
 hal qedamta
 šənθe
 la θela
-har wele
+wele har
 zala w
 θaya
 malla
@@ -120298,8 +120298,8 @@ dmixa
 ṭliya
 kefe
 basimta
-ʾu dawe
-reše xo
+dawe ʾu
+xo reše
 saʾət
 ʾəšta
 mbadla
@@ -120307,8 +120307,8 @@ mbadla
 huðaya
 waða
 ṭəq
-l ṭara
-ʾu qare
+ṭara l
+qare ʾu
 l tara
 modila
 qəṣṣət
@@ -120321,16 +120321,16 @@ lwiša
 w kašxa
 julle
 xaθe
-ʾu xmarte
+xmarte ʾu
 diye
-msurgəlla w
+w msurgəlla
 wiðəlla
 taza
-modila ṭla
+ṭla modila
 ʾayya
 məre
 asqəx ṱ
-qazi kəs
+kəs qazi
 məre
 si
 kalba
@@ -120358,21 +120358,21 @@ hatxa
 w kašxa
 ʾayya
 xmartux
-sɛrga w ʾu
-ana w
+w ʾu sɛrga
+w ana
 b anna
-dašdaše w
+w dašdaše
 b anna
-čak̭alle w
-šəxtana w ʾu
+w čak̭alle
+w šəxtana ʾu
 šarṭ
 qazi
-yawəlla t
+t yawəlla
 ṭlalux
 qazi
 awədla ṱ
 ṭlalux
-ʾawədla la
+la ʾawədla
 ṭlali
 məre
 la ʾaθən
@@ -120384,15 +120384,15 @@ xmartux ʾu
 atwən ṱ
 ʾana
 l xaṣa
-ʾati ʾu
-luš julli
+ʾu ʾati
+julli luš
 asqəx ʾu ṱ
-ham ʾən
+ʾən ham
 ʾasqət
 ʾap ʾayya
 ila qabul
 qimɛle
-ʾaw lwiša
+lwiša ʾaw
 dašdašət
 malla
 čak̭allət ʾu
@@ -120400,14 +120400,14 @@ malla
 malla
 lwišɛle
 kašxa
-d o huðaya
-ʾu tiwɛle
+o d huðaya
+tiwɛle ʾu
 xaṣət
 xmarta
 siqela ʾu
-qazi kəs
+kəs qazi
 siqɛle
-qazi kəs
+kəs qazi
 wirela
 šarṭ qazi
 modila
@@ -120420,10 +120420,10 @@ basima
 ʾana
 kəma
 dana
-in ṱ mṣaloye
+in mṣaloye ṱ
 ṭla marya
 ʾalaha
-t yawəlli ta
+t ta yawəlli
 ʾəmma
 dawe
 ʾawwa ʾu
@@ -120434,20 +120434,20 @@ nṭara
 ʾəlli
 l gare
 ʾalaha ʾu
-l šuxa šəmme
+l šəmme šuxa
 qəm mšadərri
-ʾəč̣č̣i u
+u ʾəč̣č̣i
 ʾəč̣č̣a
 dawe
-ʾana ʾu
+ʾu ʾana
 məri
 baxta
 ʾap
 ʾayya kista
 ʾalaha
 mxožəbnəlla
-xa geb m dawa
-ʾawwa ži ʾu
+m geb xa dawa
+ʾawwa ʾu ži
 huðaya
 l gare
 ʾəlla
@@ -120455,7 +120455,7 @@ l gare
 dawe
 ʾanən
 hiwəllux
-ʾu hatxa
+hatxa ʾu
 baxət ile be
 ya qazi
 awət ṱ
@@ -120464,25 +120464,25 @@ basima
 huðaya
 yaʿni
 diya
-paθux gu
+gu paθux
 mdagəl
-saru ʾu
+ʾu saru
 məre
 xzi
 hatxa
-nxəpθɛle be
+be nxəpθɛle
 la
 ʾitle
 nxəpθa
 diya
 amər ṱ
 ʾap
-julle ʾanna
-ila ṱ llux
+ʾanna julle
+ila llux ṱ
 ʾayya ʾu
 xmarta
 diyila
-ati w
+w ati
 xəzyətli
 ʾana
 tiwa
@@ -120496,7 +120496,7 @@ qazi
 məre
 qu
 kalba
-kalba brət
+brət kalba
 huðaya
 ʾamər
 si
@@ -120504,18 +120504,18 @@ si
 amrənnux ṱ
 ða xeta
 šəmma
-čuxo le
+le čuxo
 ʾawwa
 čuxo
 xaye
-xa gu maθa
-gu maθwaθa
+xa maθa gu
+maθwaθa gu
 amrəx ṱ
 kəslən
 gu bɛrwər
 ṛiyət ʾərwɛwa
 baqarɛwa
-məndi kulla
+kulla məndi
 wewa
 faqirɛwa
 šəmme
@@ -120562,40 +120562,40 @@ w awðət
 axləx ṱ
 pɛrqəx ʾu
 šatəx ʾu
-rawəx ʾu
+ʾu rawəx
 pɛrqəx
 mattəxlux
 xa šəmma
 xaθa
-ʾu patlṭəx
-ʾawwa ži ʾu
+patlṭəx ʾu
+ʾawwa ʾu ži
 zilɛle
 priməlle
 tawre
 diye
 mbušləlle
-məndi ʾu kul
+ʾu kul məndi
 muθyɛle ʾu
 štɛθa
-čidɛle ʾu
-zore w
+ʾu čidɛle
+w zore
 goṛe
 məre
 yaba
 hayyo
 ʾaθitu
 čidetu
-mšaxəlpi ta
+ta mšaxəlpi
 šəmmət
 čuxo
 mattule
 xa šəmma
 xena
-ži ʾanna
+ʾanna ži
 ʾəθyela
-xilela w
+w xilela
 šətyela
-mubəsmela w
+w mubəsmela
 ruyela
 hal
 xa saʾət
@@ -120636,16 +120636,16 @@ xillɛxu
 mubsəmlɛxu
 har
 šəmmi
-čuxo wele
+wele čuxo
 qimɛle
 dart yoma
 siqɛle
 l gare
 ʾamər
 hey
-kuṱ ile
+ile kuṱ
 xiləlla
-xa ramši məndi
+ramši xa məndi
 gu bɛθi
 ʾaθe
 xarela
@@ -120654,11 +120654,11 @@ gu bɛθi
 našət
 maθa
 kulla
-šula ʾo
+ʾo šula
 wiðəlla
-ʾaw pišɛle
+pišɛle ʾaw
 tama
-xa yarxa
+yarxa xa
 tre
 qimɛle
 mkupšəlla
@@ -120672,27 +120672,27 @@ xa gu ṭena
 ṣəlyɛle
 pišɛle
 ʾarxa
-xa šex t
+t xa šex
 ʾarabaya
-bɛriyya xa gu
+xa gu bɛriyya
 muttəlle
 ṭene
 diye
 qurbət
 k̭wina
-d o
+o d
 ʾarabaya
-ʾu tiwɛle
+tiwɛle ʾu
 čuxo
 maxyanət xa
 w šabiba
 zamara
-rešaya wewa
+wewa rešaya
 tiwɛle
 b lɛle
 mxaya
 šabiba
-rəš ṭene d o
+o rəš d ṭene
 diye
 xmare ʾu
 l diye gote
@@ -120713,9 +120713,9 @@ hawən
 ayya d
 hənna
 naše ʾu
-ʾaθa la
+la ʾaθa
 l diwani
-hawa la ʾu
+la ʾu hawa
 ʾarxi
 yatwi
 hawa
@@ -120729,27 +120729,27 @@ ile ṱ
 ʾəθya
 hatxa
 l xoðe
-bɛriyya gu
+gu bɛriyya
 w tiwa
-zmara w
+w zmara
 lɛtu
 muθyəlle
 kəsli
 qime
-mɛθole so
+so mɛθole
 diyi ʾəlli
 qimela
 xišela
-ʾan xulamwaθe
+xulamwaθe ʾan
 diye
 xəzyəlle
-čuxo ʾo
+ʾo čuxo
 tiwa
-rəš ṭena d o
+o ṭena rəš d
 zmara
-ʾu šabiba
+šabiba ʾu
 b ʾiðe
-šlama llux
+llux šlama
 məre
 b šɛna
 b ṭawaθa
@@ -120769,7 +120769,7 @@ yatwət
 baraye
 yaʿni
 xa xarib
-ʾaθe ʾən
+ʾən ʾaθe
 la ʾaθe
 kəsle
 garəg
@@ -120781,7 +120781,7 @@ kəslən
 šatət
 modit ʾu
 sniqa
-mo oðəxxa ṱ
+ṱ mo oðəxxa
 ṭlalux
 yaʿni
 lɛla
@@ -120793,18 +120793,18 @@ yaba
 ʾana
 ṱ aθən
 ʾaxči
-ʾən yawəl
+yawəl ʾən
 ð̣aman
 šex
 ʾawwa
 ṭeni
 payəš
 nṭira
-mdi ču t ta
+t ta mdi ču
 la ʾaθe
 biye
 diye
-sab ʾiθli
+ʾiθli sab
 raba
 məndi
 ṭemana
@@ -120816,11 +120816,11 @@ məra
 məre
 hɛ
 yaba
-hawe ʾən
-ži dawa
+ʾən hawe
+dawa ži
 ʾaxni
-yawəxla t
-b xa ṭḷaθa
+t yawəxla
+xa b ṭḷaθa
 ʾəlle
 diye
 qimɛle
@@ -120844,26 +120844,26 @@ ila hawər
 baxət
 ʾalaha
 hatxa
-awəð y
+y awəð
 šex
 hatxa
-awəð y
+y awəð
 ð̣aman
 modila
 qəṣṣət
 ʾamər
-hayyo xzo
+xzo hayyo
 ṭeni
 kulla
 ʾiwa
-mən dawa
+dawa mən
 məre
 kulle
 dawa
 kulle
 hola
 gniwəlle
-ʾu dərye
+dərye ʾu
 šəxta
 šope
 diye
@@ -120898,13 +120898,13 @@ l xaṣey
 hiwle
 bale
 l bɛθa
-ʾu siqɛle
+siqɛle ʾu
 ʾamri
 θele
 čuxo
 xazəx
 ṣəlyɛle
-b xa
+xa b
 ṭena
 ʾəxre
 θele ʾu
@@ -120912,27 +120912,27 @@ b ṭḷaθa
 ṭene
 modila
 qəṣṣət
-la yaðəx
+yaðəx la
 siqɛle
-w siqa
+siqa w
 wirɛle
-gu maθa
+maθa gu
 modile
 čuxo
 ʾamər
 dawɛla
 ʾanna
-dawɛla ma
+ma dawɛla
 məra
 ṣlelux
-b xa ṭena
+xa b ṭena
 ʾəxre
 θelux
 b ṭḷaθa
 dawe
 məre
 mila
-b rešɛxu
+rešɛxu b
 gu moṣul
 ʾəxre
 lɛla
@@ -120950,7 +120950,7 @@ naše
 modila
 wiðe
 pliṭṭɛla
-gu maθa
+maθa gu
 xa kut
 qṭala
 ġðaðe
@@ -120960,8 +120960,8 @@ hadiya
 mkopəšla
 ṣlela
 muttəlla
-gu ða
-mən anna d
+ða gu
+mən d anna
 ʿalwət
 moṣul
 mšurela
@@ -120974,7 +120974,7 @@ moṣulnaye
 jmiyela
 məra
 kalbe
-bərt kalbe
+kalbe bərt
 məxyəlla
 məxyəlla
 məxyəlla
@@ -120987,7 +120987,7 @@ dawɛrey
 ʾawwa
 kalba
 bərt kalba
-widle ma
+ma widle
 biyən
 čuxo
 ʾayya
@@ -121005,20 +121005,20 @@ dax ile ṱ
 xəzyəlla
 θaya
 hadəx
-ṣraxa w
+w ṣraxa
 xumθane
 čuxo
 riqɛle
 pliṭɛle
-gu maθa
-ʾaw w raqa
+maθa gu
+w raqa ʾaw
 ʾani
 baθre
 zilɛle
 xəzyəlle
 xa ṛiyət
 ʾərwe
-šavana xa
+xa šavana
 ʾamər
 amrənnux ṱ
 xa məndi
@@ -121029,7 +121029,7 @@ wuð
 mənni
 xzayət
 ʾanaha
-naše ṱ ila
+ila naše ṱ
 raqa
 baθri
 məre
@@ -121038,9 +121038,9 @@ məre
 ʾitli
 ða
 mama bratət
-ila hadəx
+hadəx ila
 šṭranta
-max d awwa
+max awwa d
 yoma
 ʾani
 b xɛla
@@ -121051,9 +121051,9 @@ hayyo
 halla
 jullux
 ṭlali
-ʾu julli
+julli ʾu
 ṭlalux
-ʾu si mur
+si ʾu mur
 he
 he
 ʾana
@@ -121069,18 +121069,18 @@ xašwi
 ʾana mur
 šəmmi
 čuxole
-ʾu litlux
+litlux ʾu
 šula
 qimela
 mšuxəlpe
-b julle
+julle b
 ʾawwa ži
 zilɛle
-kosiθa ʾɛ
+ʾɛ kosiθa
 muṣləlla
-gu ʾɛne
+ʾɛne gu
 diye
-čuxo t
+t čuxo
 məre
 yaba
 razi
@@ -121089,13 +121089,13 @@ razi
 ʾəθyela
 məṭye
 ʾəlle
-ða m aw
-ða m aw
+m ða aw
+m ða aw
 šaqlile
 dɛrɛle
 gu zawa
 nixlən
-čuxo m
+m čuxo
 drelən
 l zawa
 dərye
@@ -121110,18 +121110,18 @@ diyela
 xakma
 marɛla
 naša
-mo ta
+ta mo
 qṭillɛxu
 k̭awa
-awewa xoš ṱ
+xoš awewa ṱ
 piša
 yaʿni
-ham ʾən
+ʾən ham
 widle
 hatxa
 ʾap aw
 ʾap
-ʾaxni xiləxwale
+xiləxwale ʾaxni
 tawre
 diye
 hatxəx
@@ -121140,18 +121140,18 @@ gu saʾət
 ʾəšta
 ʾaṣərta
 šawwa
-gu gnɛθət
+gnɛθət gu
 yoma
 hole
 θele
 čuxo
-xa bərra
+bərra xa
 ʾərwe
 baθre
 ṣlele
-gu maθa
+maθa gu
 klele ʾu
-ṭarət gu
+gu ṭarət
 bɛθe
 diye
 ʾɛnile
@@ -121159,9 +121159,9 @@ diye
 mara
 čuxon
 čuxo
-hox xniqəlle
+xniqəlle hox
 pliṭle
-gu zawa m
+m gu zawa
 ʾəθyela
 čuxo
 məra
@@ -121176,11 +121176,11 @@ waða
 ʾaxxa
 məre
 mila
-b rešɛxu
-qəm dɛrɛtuli
+rešɛxu b
+dɛrɛtuli qəm
 duka ða
 laṭṭe
-hawɛtuwa ʾən
+ʾən hawɛtuwa
 dəryəlli
 xačča
 xena
@@ -121188,15 +121188,15 @@ biš hodəx
 ʾamoqta biš
 tama
 mpulṭəllɛxu
-mən anna d
+mən d anna
 p̭azesor
-b ʾəlyaθa
+ʾəlyaθa b
 hatxa
 b qanane
 ʾina
 duka ʾɛ
-laṭṭe wawa
-qəm darɛtuli
+wawa laṭṭe
+darɛtuli qəm
 tama
 ʾaxči
 muθeli
@@ -121211,7 +121211,7 @@ hole
 ṃəḷya
 ʾərwe
 tahər kut
-bayitu t
+t bayitu
 hayyo
 baxət
 ʾalaha
@@ -121222,7 +121222,7 @@ našət
 maθa
 tama
 xa
-bar d o xena
+bar o d xena
 ʾəθyɛle
 xaʾa
 ʾamər
@@ -121230,18 +121230,18 @@ xaʾa
 ʾana
 drili
 duka ða
-ṱ awa
+awa ṱ
 koč̭e
-sab tarət
+tarət sab
 gomi
 ʾiqɛle
 ṱoṱi
 hola
 mara
-mɛθət la
-an qanane m t
+la mɛθət
+m t qanane an
 mɛθət
-an m koč̭e
+m an koč̭e
 məre
 kɛla
 ṱoṱo
@@ -121271,9 +121271,9 @@ hole
 mara
 murra
 ṱoṱi
-ṱ aθya
+aθya ṱ
 mhɛrali
-lan mṣaya
+mṣaya lan
 palṭənna
 ʾap ṱoṱe
 ʾawədla
@@ -121284,11 +121284,11 @@ kulla
 našət
 maθa
 xniqile
-ʾu ṣlele
+ṣlele ʾu
 čuxo
 tiwle
 məre ʾu
-la mšaxəlpule də
+də la mšaxəlpule
 šəmmi
 ʾiθwa
 tre
@@ -121297,17 +121297,17 @@ xonawaθa
 xa
 babəl gu wewa
 xa
-gu ninwe
-babəl ʾo t
+ninwe gu
+t babəl ʾo
 muxəna
 mən xone
 diye
-gu ninwe
+ninwe gu
 məre
 asqəx ṱ
 tapqəx
 b xoni
-gu ninwe
+ninwe gu
 məra
 ʾiba mo
 qyama
@@ -121334,7 +121334,7 @@ diya
 gawṛa
 diya
 siqɛle
-l ninwe
+ninwe l
 diṛa
 ʾəθyɛle
 bar
@@ -121342,7 +121342,7 @@ dana xačča
 bar
 xakma
 šənne
-ninwe ʾo t
+t ninwe ʾo
 məre
 ṣalən
 ʾana
@@ -121357,13 +121357,13 @@ diye
 məre
 xoni
 təmməl
-ṱ azəx
+azəx ṱ
 ṣɛda
 xamləx
-ṭla xmala
+xmala ṭla
 xone
 diye
-ninwe ʾo t
+t ninwe ʾo
 məre
 xoni
 ʾana
@@ -121391,8 +121391,8 @@ xðara
 baxtət
 malka
 widla
-məndi ʾo
-wawa t
+ʾo məndi
+t wawa
 wiðta
 yoma ʾo
 xena
@@ -121448,7 +121448,7 @@ xoni
 mhaymone lan
 ṭḷaθa
 məre
-ga xa
+xa ga
 mur
 ʾana
 azən ṱ
@@ -121464,7 +121464,7 @@ b ayya
 dukθa
 in ṱ
 tawa
-ayya gu d
+gu ayya d
 ṭarma
 xzi
 bare mo
@@ -121473,51 +121473,51 @@ yomə
 marɛle
 xone
 diye
-ga xa
+xa ga
 xeta
-babəl ʾo t
+t babəl ʾo
 yawəlle
 xabra
-naše ṭla
+ṭla naše
 diye
 mara
-ṱ azəx
+azəx ṱ
 ṣɛda
 ʾanna
 plaṭɛla
 kulla
 zala
 ṣɛda
-gota a m
+m gota a
 xeta
 malka
 gnawəlla
 diye gan
 θayɛle
-xone kəs
+kəs xone
 diye
-ʾu tiwɛle
+tiwɛle ʾu
 xa gu palkon
 lɛla
 xzayəlle
 ʾap xa
-lɛle ðiya
+ðiya lɛle
 biye
-sərr ile
+ile sərr
 mara
 maləkθa
 pliṭṭɛla
-ga xa
+xa ga
 xeta
 nafšə šay
 ʾay
-xolamwaθa ʾu
+ʾu xolamwaθa
 kulla
 rqaða
 ġðaðe
 zmara
 mara
-xa ʿabid
+ʿabid xa
 koma
 dmaxɛla
 mənne
@@ -121528,10 +121528,10 @@ xzayəlla
 məre
 xzelux
 xoni
-ʾamrət la t
+t la ʾamrət
 ʾana
 waðən
-baxtuθa be
+be baxtuθa
 ʾəllux
 ʾayya
 baxtux
@@ -121544,26 +121544,26 @@ traθna
 ʾani kulla
 qəm qaṭlila
 malka
-xone ʾu
+ʾu xone
 diye
-ʾan ʿabid
-ʾu baxta
+ʿabid ʾan
+baxta ʾu
 ʾani kulla
 qəm qaṭlila
 məre
 xoni
-ṱ azəx
+azəx ṱ
 dunye
 xazəx
-ʾiθ ʾən
+ʾən ʾiθ
 naše
 zlime biš
 mənnən
 dɛṛəx
-ʾən liθ
+liθ ʾən
 zlime biš
 mənnən
-ṱ har azəx
+azəx ṱ har
 m tama
 ṣlayɛla
 l baṣra
@@ -121571,24 +121571,24 @@ l baṣra
 l baṣra
 tama
 manyoxela
-xa xo ʾilanət
+xo xa ʾilanət
 xurme
 ʾasas ʿal
-ṱ aθya
+aθya ṱ
 ða baxəra
 xa məndi
 atwi ṱ
 gawe
 azi ṱ
 mara
-xa bena
+bena xa
 xzela
 yama gu
 yama gu
 pliṭle
 xa tənna
 siqle
-gu šmayya
+šmayya gu
 pliṭɛle
 ʾəθyɛle
 xa ʿafrit
@@ -121606,24 +121606,24 @@ l d ʾilana ay
 ʾanna
 riqela
 siqela
-rəš d ʾilana ay
+d rəš ʾilana ay
 m zduθa
 muttəlle
-sanduqa ʾo
-axxa m
+ʾo sanduqa
+m axxa
 l tamaha
 ʾaw
 hola
 qəfle šawwa
 biye
 diye
-b sanduqa d o
+b o d sanduqa
 pθixa
 xa w
 tre w
-ṭḷaθa w
+w ṭḷaθa
 ʾarpa
-xa bena
+bena xa
 pliṭṭɛla
 xa brata
 ʾina
@@ -121635,17 +121635,17 @@ diya ʾəlla
 mara
 pliṭṭɛla
 məre
-de u zmur
+zmur u de
 rquð
 mara
-brata ʾay
+ʾay brata
 zmirta
-ʿafrit ʾo
+ʾo ʿafrit
 məre
 tla d ay
 pišla
-har rqaða
-zmara w
+rqaða har
+w zmara
 rqaða
 zmara
 mara
@@ -121653,7 +121653,7 @@ tiwtɛla
 marzət
 yama
 muttəlle ʾaw
-diye reše
+reše diye
 nɛka rəš
 diya
 ʾayya
@@ -121661,7 +121661,7 @@ xɛra
 hatxa
 gu ʾilana
 xzela
-naše tre ʾan
+tre naše ʾan
 tama
 ʾawwa
 ṭlile
@@ -121682,7 +121682,7 @@ maṛəšanne
 ʾawwa
 ʿafrit
 qaṭəllɛxu
-ži ʾani
+ʾani ži
 qimela
 ṣəlyela
 mo bayət
@@ -121694,7 +121694,7 @@ mpulṭəlla
 diya
 mpulaṭṭɛla
 xa zənjir
-ʾarba mma w
+ʾarba w mma
 xamši
 ʾisəqyaθa
 b d a
@@ -121718,47 +121718,47 @@ xzo
 ṭlibtənwa
 l bronət
 mami
-yomət ʾo
+ʾo yomət
 goranwa
 ʾəθyɛle
 ʾawwa
 ʿafrit
 gniwəlli
-gu d ʾu awwa
+awwa gu ʾu d
 sanduqa
-mən d ʾu awwa
+awwa mən ʾu d
 ʿafrit
-ʾarba mma w
+ʾarba w mma
 xamši
 naše
-hon dmixta
+dmixta hon
 mənney
 la ʾən
 maṛəšanne
-ṱ axəllɛxu
+axəllɛxu ṱ
 pišela
 majbur
 ʾap ʾani
 zilela
 mənna
 dmixe
-mənna diya
+diya mənna
 xarθa
 ʾay
 muṛaštəlle
-ʿafrit ʾaw
+ʾaw ʿafrit
 məre
 mo bayət
 məra
 maprəxli
-gu šmayya
+šmayya gu
 mara
 dwiqəlla
 hatxa
 gu ʾiðe
 diye
 muprəxəlla
-gu šmayya
+šmayya gu
 prixe
 zile ʾu
 məre
@@ -121767,7 +121767,7 @@ la
 ʾaxni har
 zlime
 xa mənna
-ṭla d xena o
+ṭla o d xena
 mara
 məre
 la
@@ -121782,12 +121782,12 @@ məra
 ʿafrit
 ʾayya xzi
 baxta
-gu d awwa
+awwa gu d
 sanduqa
 qəfle šawwa
 biya
 diya
-naše ʾarba mma
+ʾarba naše mma
 hola
 dmixta
 mənney
@@ -121800,23 +121800,23 @@ qimla
 diṛṛa
 l ʿiraq
 diṛṛa
-ga xa
+xa ga
 xeta
 l ʾaθray
 ʾiθwa
 liθwa
-biš m alaha
+m alaha biš
 goṛa
 liθwa
 ʾiθwa
-malka xa
+xa malka
 malka ʾaw
 ʾiθwale
 xa brona
 yak̭ana
 xa
-mən yomane
-ʾaw bronət
+yomane mən
+bronət ʾaw
 malka
 məre
 ṭla babe
@@ -121830,7 +121830,7 @@ gu ṭura
 awe ṱ
 ʾərwət
 wala
-anna m
+m anna
 məndiyane
 qəqwane
 ṭɛre
@@ -121847,34 +121847,34 @@ yome
 tre
 dmixela
 b lɛle
-ga xa
+xa ga
 ʾəθyela
 tre
 malaxe
 pyaða
-qama qamət
+qamət qama
 čadra
-malka d o
+o malka d
 hadiya
-ʾan malaxe
+malaxe ʾan
 məra
 yaðət
 ʾaw ʾɛnile
 məra
-malkɛle ʾaw bron
+bron ʾaw malkɛle
 məra
 hɛ
 məre
 ʾaw
-malka bron
+bron malka
 raba
 šapirɛle
 ʾu hawnanɛle
 ʾina
 ʾiθ
-diye ʾax
+ʾax diye
 ʾap ay
-šapirta w
+w šapirta
 hawnanta
 bratət
 malkət
@@ -121885,27 +121885,27 @@ modit
 mara
 ʾawwa
 nabləxle
-d ay kəs
+kəs d ay
 yan ʾay
 nabləxla
-d kəs awwa
+awwa kəs d
 ʾawwa
 məre
 laʾ
 ʾawwa
 nabləxle
-d ay kəs
+kəs d ay
 məre
 baxta
-baxət ila be
+baxət be ila
 maqəṭlale
 mɛθəx
 ʾay
 kəsle diye
 qimela
 muθyəlla
-ʾa bratə
-malkət d o
+bratə ʾa
+o d malkət
 maʾarwa
 kəsle
 diye
@@ -121913,20 +121913,20 @@ diye
 ile ṱ
 xəzyəlla
 hatxa
-šəṭranta w
+w šəṭranta
 šapirta
 ʾay ṣrixla
-qəm amərra ṱ
+qəm ṱ amərra
 la ṣarxət
 ʾatit
 θiθa
 kəsli
 lan
-ʾana ʾəθya
+ʾəθya ʾana
 kəsləx
 bar
-ðita ila ṱ
-qa t ʾayyɛla
+ila ðita ṱ
+t qa ʾayyɛla
 θiθa
 kəsle diye
 muxəbla
@@ -121934,22 +121934,22 @@ muxəbla
 mšuxləpla
 b isəqyaθa
 hadəx ʾu
-gu d xubba o
+xubba gu d o
 ṭəlyela
 xanči
-ṱ amrənna
+amrənna ṱ
 qalulta
 t parqa qa
-gu d xubba o
+xubba gu d o
 ṭəlyela
 danə ʾɛ
 ila ṱ
 ṛiše
 xa kut
-gu šwiθət
+šwiθət gu
 gane
 ʾayya
-qaṣrət gu
+gu qaṣrət
 baba
 diya
 ʾaw
@@ -121959,7 +121959,7 @@ diye
 məskena
 raba
 pšimle
-ʾu ʾay
+ʾay ʾu
 mšuyðənna
 yoma har o
 mšurela
@@ -121972,14 +121972,14 @@ sraṭa
 julla
 mšeyðone
 ʾap xa
-biš la ile mṣaya
-əlla mqarow
+la ile biš mṣaya
+mqarow əlla
 diya
-malka bron
+bron malka
 qimɛle
 qəryɛle
 l kulla
-ʾan xurane
+xurane ʾan
 diye
 məre
 yaba
@@ -121999,7 +121999,7 @@ qimɛle
 diṛṛe
 bɛθa
 diṛɛle
-kəs babe
+babe kəs
 diye
 ʾamər
 babi
@@ -122012,18 +122012,18 @@ hal
 hawal ʾu
 hatxa
 xzeli
-dana gu ɛ d
+dana gu d ɛ
 məre
 babi
 balki
-gu iwətwa xəlmux
+xəlmux gu iwətwa
 xəlma
 naša
 har
-xaze ʾi
+ʾi xaze
 məre
 babi
-babi la
+la babi
 lɛle
 xəlma
 škarɛla
@@ -122033,7 +122033,7 @@ xəlma
 yaləxta
 iwəx ṱ
 mšuxəlpe
-məndi kul
+kul məndi
 diya
 məre ʾo
 hadiya
@@ -122050,11 +122050,11 @@ ila ṱ
 lli mɛθətla
 məre
 spay
-yaðe la
+la yaðe
 brat d ɛnila
 lɛla
 mirtəlle
-yaðe la
+la yaðe
 brat d ɛnila
 malaxe
 yaði
@@ -122067,16 +122067,16 @@ qimɛle
 tre yomət
 hiwɛle
 xabra
-wazire ta
+ta wazire
 diye
-ʾu rayəs
+rayəs ʾu
 wuzara
 yaba
 zala hon
 xðara
 baθər
 baxta
-broni ta
+ta broni
 ga ʾɛ
 b dɛṛən
 mɛyənna
@@ -122092,12 +122092,12 @@ nubla
 xulamwaθa
 mənne
 naše ʾu
-ʾu xišɛle
-b urxa
+xišɛle ʾu
+urxa b
 xðara
 m maθa
 l maθa
-mðita m
+m mðita
 l mðita
 xaze
 ʾɛka
@@ -122106,7 +122106,7 @@ b xazela
 ile ṱ
 pliṭa
 malka
-bɛθa m
+m bɛθa
 yoma ʾo
 brone
 diye
@@ -122116,19 +122116,19 @@ mitle
 brone
 diye
 ʾawwa
-yaðe la
-ʾu xišɛle
-ʾu xišɛle
-ʾu xišɛle
-ʾu xišɛle
-ʾu xišɛle
+la yaðe
+xišɛle ʾu
+xišɛle ʾu
+xišɛle ʾu
+xišɛle ʾu
+xišɛle ʾu
 xulaṣa
 ʾalaha
 mutəpqəlle
-gu a mðita d
+gu mðita d a
 ila ṱ
-brata ʾɛ
-malka d o
+ʾɛ brata
+o malka d
 xəzyəlla
 naše
 jəmye
@@ -122147,49 +122147,49 @@ məre
 modila
 qəṣṣət
 məra
-malka brat
+brat malka
 hola
 mšuyðanta
-modila ta
+ta modila
 mšuyðanta
 məra
 ʾayya
-yaða la
+la yaða
 hola
 mara
 xziθəlle
-malka xa bronət
-ðaʾa lax
+xa malka bronət
+lax ðaʾa
 ʾɛka
-biθəllela w ʾu
-ʾu hola
+w biθəllela ʾu
+hola ʾu
 mšuyðanta
 mən yoma d o
 ila ṱ
 xziθəlle
 ʾaw
 ʾap xa
-lɛle mṣaya
+mṣaya lɛle
 mbasəmla
 məre
 ʾɛni
 ʾitlɛxu
-naše t
-maṣi t
+t naše
+t maṣi
 mšawθi
 mənna
 xazɛla
 maṭola
 məra
 ʾitlən
-ða ṱoṱo
-oða y
+ṱoṱo ða
+y oða
 xərše
 ʾay
-asqa y
+y asqa
 w kəsla
 ṣalya
-hal ʾu diya
+hal diya ʾu
 ču məndi
 məre
 maṣitu
@@ -122209,7 +122209,7 @@ driθɛla
 šlama
 məre
 ʾati
-azət y
+y azət
 kəs bratət
 malka
 məre
@@ -122222,13 +122222,13 @@ qəṣṣət
 diya
 hatxɛla
 mpiltɛla
-b xubba
+xubba b
 xziθəlla
 gʸana
 diya
 xa kəs
 bronət
-malka xa w
+xa w malka
 yomət ʾu
 tre
 qedamta
@@ -122249,19 +122249,19 @@ dawe
 məre
 ʾay
 ṭlaləx
-ṱ oðət ta
+ta oðət ṱ
 šula
 he
 məra
 mjunəgnila
 hatxa
 məra
-gət ʾɛ
-mən anna d
+ʾɛ gət
+mən d anna
 hawe
 šula
-azəl bṱ
-qama la
+bṱ azəl
+la qama
 dukət kut
 bayət
 nablannux
@@ -122277,11 +122277,11 @@ muttale
 ʾisəqθe
 diye
 gawe
-xabuša ʾu o
+o ʾu xabuša
 siṛṛe
-gu d yaləxθe ay
+yaləxθe gu d ay
 diye
-b gʸane
+gʸane b
 məre
 maθyət
 ʾawwa
@@ -122291,9 +122291,9 @@ yaləxθa
 mamṭatla
 ʾəlla
 diya
-oða xza ʾu mo ṱ
+xza ʾu oða mo ṱ
 ʾaθyət
-ṱ amratli
+amratli ṱ
 ʾiman
 aθyət ṱ
 ða kista xeta
@@ -122301,8 +122301,8 @@ max d ay
 yawənnəx
 məra
 dax
-xaṭər litlux
-har diya
+litlux xaṭər
+diya har
 maṭyən
 aθyən ṱ
 siqtɛla
@@ -122314,31 +122314,31 @@ nðaya
 an gu d
 ʾotaxe
 šluxɛθa
-rəḥqa ʾay m
+m ʾay rəḥqa
 hola
 waðəlla
-ʾa yaləxθa
+yaləxθa ʾa
 hatxa
-qam ʾɛna
+ʾɛna qam
 diya
-siqla w ʾu
-siqla w ʾu
-siqla w ʾu
-siqla w ʾu
+w ʾu siqla
+w ʾu siqla
+w ʾu siqla
+w ʾu siqla
 ga ʾɛ
-qriwta ila ṱ
+ila qriwta ṱ
 ʾəlla
 xziθəlla
 xziθəlla
 yaləxθa
 hatxa
 ʾax
-ṱ amrət
+amrət ṱ
 xačča
 biš šlela
 mabyone
-xa məndi ʾiθ
-gu qəṣṣət
+xa ʾiθ məndi
+qəṣṣət gu
 ʾu wirtɛla
 ṱoṱo
 kəsla
@@ -122359,7 +122359,7 @@ diyila
 pθixtəlla
 xabuša
 gawa
-xabuša ʾo
+ʾo xabuša
 pθixtəlle
 ʾina
 ʾisəqθa
@@ -122371,7 +122371,7 @@ kɛle
 mara
 ayya d
 ʾɛni
-lləx hiwle
+hiwle lləx
 diya
 xanqannəx
 məra
@@ -122393,12 +122393,12 @@ malušula
 ʾana
 bsimli
 mdi ču
-biyi liθ
+liθ biyi
 moθi
 julla
 diya
 kulla
-qəm malušila
+malušila qəm
 ʾəlla
 diya
 hadiya
@@ -122408,14 +122408,14 @@ pliṭle
 məra
 ṱoṱo
 mbusmala
-malka brat
+brat malka
 məra
 b ṣalyən
 b tapqən
 biye
 xazəx
-awəð mo ṱ
-šaqlən ʾu t ta
+mo awəð ṱ
+t ta ʾu šaqlən
 mawʿəd
 xazəxle
 ʾamra
@@ -122423,7 +122423,7 @@ sɛ mur
 ṭla babi
 aθi ṱ
 mpalṭili
-axxa w m
+m w axxa
 azən ṱ
 saxyən
 lošən
@@ -122440,9 +122440,9 @@ bratux
 ʾap awwa
 šaqəlla
 ða kista
-d ay qa
+qa d ay
 yawəlla
-d ay qa
+qa d ay
 har
 mkapaštət
 kisyaθət
@@ -122455,8 +122455,8 @@ wiðta
 mara
 masxola
 malušula
-julla diya
-ʾu diya
+diya julla
+diya ʾu
 aθyən ṱ
 ʾitli
 šula
@@ -122486,28 +122486,28 @@ qimela
 siqe
 ṱoṱo
 siqtɛla
-malka kəs
+kəs malka
 məra
 ʾana lan
 mbusamtəlla
 bratux
 məra
 ʾiθ
-naša ʾo
+ʾo naša
 t wewa
 ʾayya
-yaða la
+la yaða
 xašwa
 ʾawile
 məra
 yalət ʾo
 bayawale
 hole
-ʾəθya w
+w ʾəθya
 yawəlla qəm
 yaləxθa
 ʾəlli
-ʾu ʾayyɛla
+ʾayyɛla ʾu
 kulla
 ʾana
 hadiya
@@ -122516,9 +122516,9 @@ m kəslən
 baye ʾu
 ʾaθe
 xazelux
-ʾu t qa
+t qa ʾu
 xazela
-ži brata
+brata ži
 ʾoy
 məre
 sɛ mur
@@ -122536,18 +122536,18 @@ qamoθe
 diye
 muθyəlle ʾu
 musqəlle
-dawla w
+w dawla
 w zorna
 hosa
-gargarta ʾu
-musqəlle ʾu
-malka kəs
+ʾu gargarta
+ʾu musqəlle
+kəs malka
 tiwela
 mṣawoθe
 malka
 məre
 ha
-de murri
+murri de
 xazəx
 modila
 qəṣṣət
@@ -122556,21 +122556,21 @@ məre
 ʾana
 ʾiwən
 babə
-d o yala
+o d yala
 ʾana
 ʾiwən
 malka
-diyux ʾax
+ʾax diyux
 məre ʾu
 broni
 bratux ʾu
 xəzyela
 ġðaðe
-ʾana ʾu
+ʾu ʾana
 ʾəθyən
 xðara
 ʾalaha ʾu
-qəm matfəqli
+matfəqli qəm
 biya
 diya
 ʾaxxa
@@ -122581,37 +122581,37 @@ bsimla
 hadiya
 modit
 mara
-ʾəθya hon
-yawətla t
+hon ʾəθya
+t yawətla
 nablənna
-broni ta
-ila max ṱ
+ta broni
+max ila ṱ
 bratux
 mšuyðanta
 ʾap aw
-la ʾazən ʾən
+la ʾən ʾazən
 mšayðən
 məre
 dus it
-qimela w
+w qimela
 mirtəlla
 w brata
 xðiθɛla
-raba w
-an gumle max d
+w raba
+max gumle d an
 t wewa
 nubla
 mənne
 diye
-ani max d
+max ani d
 xene
 hiwle
 baba
 ṭlala
 diya
-ʾu muṭənna
+muṭənna ʾu
 ʾu šwiqala
-mðita w
+w mðita
 dəṛṛa
 ʾaθrɛy ta
 hadiya
@@ -122658,7 +122658,7 @@ damxəx
 ʾaxxa
 ʾaw
 baye
-yaðe t
+t yaðe
 xaze
 modila
 qəṣṣət
@@ -122671,8 +122671,8 @@ hatxɛla
 dana qam
 yawəx
 xabra
-palṭi t ta
-l qamoθən
+t ta palṭi
+qamoθən l
 maṣlɛlən
 b iqara
 ʾana
@@ -122685,7 +122685,7 @@ mšudrɛle
 xa mən zaraye
 qəryəlle
 məre
-modila ta
+ta modila
 ʾayya
 mðita
 hatxa
@@ -122697,13 +122697,13 @@ məre
 lɛ yaðət
 modi
 bərya
-xa qəṣṣət
+qəṣṣət xa
 raba
 mapšəmantɛla
 ʾiθwalən
-malka xa
+xa malka
 hadəx iwa
-naša xoš
+xoš naša
 hadəx iwa
 spay
 naše
@@ -122712,13 +122712,13 @@ bayiwale
 malka
 diyən
 zilɛle
-mən d yom o
+mən o yom d
 ile ṱ
 zila
 zilɛle
 mɛθoye
 xa brata
-brone ta
+ta brone
 diye
 ʾo yom
 ile ṱ
@@ -122726,10 +122726,10 @@ pliṭa
 brone
 diye
 miθɛle
-ʾaxni ži ʾu
+ʾaxni ʾu ži
 lax
 muqime
-baθre m
+m baθre
 diye
 malka
 məxyəxəlla ʾu
@@ -122737,11 +122737,11 @@ maθən
 kulla
 l w mila
 l koma
-baθre m
+m baθre
 diye
-ga ʾu ʾɛ
+ʾu ga ʾɛ
 maxurəxla
-dayəṛ t ta
+t ta dayəṛ
 məre
 hatxɛla
 qəṣṣət
@@ -122756,18 +122756,18 @@ miθa
 bron diye
 ʾamər
 si mur
-pəllən ta
+ta pəllən
 wazir
 murgena
 malka
 θele
 bayən
-ʾaθi la
-b xašša
-bxaya w ʾu
+la ʾaθi
+xašša b
+w ʾu bxaya
 jnana
 ʾaθi
-b dawla w
+w b dawla
 w zorna
 w tope
 ʾəstəqbal
@@ -122776,7 +122776,7 @@ bayən la
 ʾayya
 brata
 in ṱ muθyəlla
-yaða t
+t yaða
 t qa
 ṭliba
 diya
@@ -122799,7 +122799,7 @@ hadiya
 hiwɛle
 xabra
 ṭla wazir
-b lɛle har o
+b o lɛle har
 kulla
 mðita
 məxyəlla
@@ -122812,19 +122812,19 @@ mbadla
 jalde
 siqela
 ʾəstəqbal
-malka t
+t malka
 xena
-ṱ oði ʾax
+ʾax oði ṱ
 ʾəstəqbal
-malke t
-b w iqara
+t malke
+w b iqara
 ʾayya
 hola
 mparoje
 kaza
 xyara
 hatxa
-xazyale t ta
+t ta xazyale
 ṭliba
 diye
 lɛla
@@ -122834,7 +122834,7 @@ babi
 təmməl
 ʾayya
 mðita
-xu wawa komta
+wawa xu komta
 xazəx
 ʾədyo
 hola
@@ -122845,12 +122845,12 @@ brati
 ix ʾəθye ṱ
 kčixe
 hadəx
-qam ʾɛnəx
+ʾɛnəx qam
 mubyənna
 xwarta har
 wawa
 diṛɛle
-kaza ʾay
+ʾay kaza
 xyara
 mara
 kʸɛle
@@ -122859,9 +122859,9 @@ xazəx
 xzayəlle
 lɛle
 hrawa
-lɛ yaðən
+yaðən lɛ
 ʾap ʾana
-məra ʾay
+ʾay məra
 balki
 ʾadətey
 hatxɛla
@@ -122869,15 +122869,15 @@ la hoya
 yoma
 qamaya
 xətna
-xazela t
+t xazela
 kʸalo
 xena
 ṣliθɛla
 siqtɛla
 musqəlla
-gu ṭabaq
-ṭḷaθa t
-gu ʾotaxa
+ṭabaq gu
+t ṭḷaθa
+ʾotaxa gu
 diya
 məre
 ʾotaxəxila
@@ -122886,16 +122886,16 @@ l gota ay
 l ayya ʾu
 ʾaw
 ṣəlyɛle
-kəs baxte
+baxte kəs
 diye
 mšuryela
 bxaya
 mxaya
 l ganey
-rmaya ʾu
+ʾu rmaya
 ganey
 hadiya
-xa yoma w
+xa w yoma
 tre
 ṭḷa
 kaza
@@ -122907,12 +122907,12 @@ xazyale
 wara
 plaṭa
 ʾap xa
-lɛla xzaya
+xzaya lɛla
 modila
 qəṣṣətte
 pišla
 qurbət
-xa yarxa
+yarxa xa
 ga ʾɛ
 malka
 məre
@@ -122923,8 +122923,8 @@ baxta ʾay
 hox muθyəlla
 garəg
 ʾamrəx
-xa yoma ʾay
-yaða har t
+ʾay xa yoma
+t yaða har
 ile ṱ
 miθa
 bronən
@@ -122942,15 +122942,15 @@ bronən
 oya ṱ
 maləkθa
 b šopi
-ʾana ʾiman t
+t ʾiman ʾana
 mɛθən
-ʾu baya
+baya ʾu
 dɛṛa
 l bɛθət
 baba
 diya
 mattənna
-ga xa
+xa ga
 xeta
 ʾana
 madəṛənna
@@ -122959,9 +122959,9 @@ qəryəlle
 diye wazir
 xakma ʾu
 guṛane
-ʾu baxte
+baxte ʾu
 diye
-ʾaw qimɛle
+qimɛle ʾaw
 siqɛle
 kəsla
 diya
@@ -122970,7 +122970,7 @@ kəsla
 diya
 tiwela
 məre
-brati tu
+tu brati
 tu
 bayən
 mṣawθən
@@ -122991,11 +122991,11 @@ in ṱ
 zila
 xðara
 barəx
-mɛyənnəx t qa
+t qa mɛyənnəx
 yoma ʾo
 broni
 miθɛle
-məra ʾay
+ʾay məra
 dax
 miθɛle
 məre
@@ -123006,7 +123006,7 @@ diya
 bayən
 ʾamrənnəx
 ʾawwa
-xa yarxa
+yarxa xa
 ʾaxči
 maṣəx
 maspərəxləx
@@ -123020,7 +123020,7 @@ pɛšət
 pɛšət
 maləkθa
 šopi
-gu d awwa
+awwa gu d
 ʾaθṛa
 ʾən bayət
 ʾazət
@@ -123038,7 +123038,7 @@ mšurela
 bxaya
 xena
 oða mo ṱ
-de u
+u de
 xarθa
 məra
 laʾ
@@ -123048,18 +123048,18 @@ dɛṛən
 bayən
 ṣalət
 banətli
-ʾotəx ða
-rəš qawre
+ða ʾotəx
+qawre rəš
 diye
 kulla
 zawni
 b xaye
-ṱ awyən
+awyən ṱ
 hal
-yomət ʾo
+ʾo yomət
 ʾap ana
 mɛθən
-ʾu mattili
+mattili ʾu
 kəsle
 ʾaxxa
 tamma
@@ -123071,27 +123071,27 @@ liθən
 qimɛle
 ṣəlyɛle
 bənyəlla
-ʾotəx ða
-rəš qawrət
+ða ʾotəx
+qawrət rəš
 brone
 diye
-ʾu pištɛla
+pištɛla ʾu
 bxaya
 pištɛla
 bxaya
-bxaya ʾu
-bxaya ʾu
-xa yoma w
+ʾu bxaya
+ʾu bxaya
+xa w yoma
 tre u
-xa w yarxa
-xa bena
-tre ʾan malaxe
-wɛwa t
+yarxa xa w
+bena xa
+malaxe tre ʾan
+t wɛwa
 ʾəθye
 biya
-wɛwa t
+t wɛwa
 mutəpqəlla
-b ġðaðe
+ġðaðe b
 θela
 pyaða
 tama
@@ -123099,23 +123099,23 @@ tama
 xa mənna
 məre
 ʾawwa
-qalət mo
+mo qalət
 bəxyɛle
 ʾo xena
 məre
 la yaðət
-qalət mo
+mo qalət
 bəxyɛle
 txarət
 xa tre ʾan
-mutəpqiwalən t
+t mutəpqiwalən
 ġðaðe bə
 he
 məre
 xaraye ʾu
 ṭliba
 diya
-qəm šaqləxle
+šaqləxle qəm
 ʾay
 pišla
 ʾayya
@@ -123128,25 +123128,25 @@ hola
 mara
 ʾaxxa
 oyən ṱ
-hal yomət ʾo
+hal ʾo yomət
 mɛθən
 ʾayya
-šənne ʾəšti
+ʾəšti šənne
 xene
 xayala
 yaʿni
-šənne ʾəšti
+ʾəšti šənne
 xene
 oya ṱ
-rəš ɛ d qora
+rəš d ɛ qora
 tiwta
 bxaya
 məre
 modi
 bayət
-oðəx ṱ
+ṱ oðəx
 baqrəxla
-hoya ʾən
+ʾən hoya
 razi
 šənna
 diya
@@ -123154,24 +123154,24 @@ palala
 palga
 ṭla d ay
 palga ʾu
-ṭla d aw
+ṭla aw d
 maqiməxle
 xayi
-ġðaðe m
+m ġðaðe
 ṭḷaθi
-w šənne
+šənne w
 mɛθi
-ġðaðe m
-ʾu laʾ ʾən
-har ʾaxxa
-oya t
+m ġðaðe
+laʾ ʾən ʾu
+ʾaxxa har
+t oya
 ʾəšti
 šənne
 wirela
 kəsla
 dəryəlla
 šlama
-šlama lləx
+lləx šlama
 b šɛna
 b ṭawaθa
 moditu
@@ -123191,22 +123191,22 @@ miθa
 ʾaxnix
 šqiləlle
 ʾati
-šənne ʾəšti
+ʾəšti šənne
 xene
 ʾaxxa
 b xayət
-šənne ʾəšti
+ʾəšti šənne
 oyət ṱ
 ʾaxxa
 tiwta
 bxaya
-rəš d ayya
+ayya rəš d
 qora
 məra
 he
 la
-šənne ʾəšti
-ʾəmma tre šənne
+ʾəšti šənne
+tre šənne ʾəmma
 ʾaxxa
 oyən ṱ
 məra
@@ -123215,7 +123215,7 @@ xa məndi
 bayəx
 oðəxxe ṱ
 ṭlaləx
-šənne ʾəšti
+ʾəšti šənne
 rabɛla
 oyət ṱ
 tiwta
@@ -123228,14 +123228,14 @@ modile
 məra
 ʾati
 b xayət
-šənne ʾəšti
+ʾəšti šənne
 xene
-palatla ʾən
+ʾən palatla
 šənnəx
 ṭḷaθi
 ṭlaləx
 ṭḷaθi
-ṭla d aw
+ṭla aw d
 maqiməxle
 modit
 mara
@@ -123243,20 +123243,20 @@ mara
 xzi
 ʾana
 ʾaxči
-qayəm xoš
+xoš qayəm
 xazyanne
 xamša
 daqiqe
-ʾan xene
+xene ʾan
 kulla
-ṭla d aw
+ṭla aw d
 məra
 la
 la hoya
 ṭḷaθi
 ṭlaləx
 ṭḷaθi
-ṭla d aw
+ṭla aw d
 bayət
 spay
 la bayət
@@ -123274,23 +123274,23 @@ mšurela
 nšaqa
 ġðaðe
 bligela
-b ġðaðe
+ġðaðe b
 hadəx
 dmixela w
 ṭliyela
 ʾanna
-kut qedamta
+qedamta kut
 xadamta
-ɛ d brata
+d ɛ brata
 mɛθyawala
 čay
 ṭamta ʾu
-asqa ʾu y
+y asqa ʾu
 ʾanna
-ila ṱ ma
+ma ila ṱ
 xmile
-b ġðaðe
-dmixe w
+ġðaðe b
+w dmixe
 ṭliyela
 xpiqe
 ġðaðe
@@ -123308,16 +123308,16 @@ kəsla
 diya
 məra
 ʾayya
-hatxɛwa m
+m hatxɛwa
 mara
 ʾayya
-hatxɛwa m
+m hatxɛwa
 mara
 bnoli
 ʾotəx
 rəš qorət
 gawṛi
-kut yom t ta
+t ta yom kut
 xa maṣla
 kəsla
 diya
@@ -123326,7 +123326,7 @@ kəsla
 riqla
 siqla
 ʾamra
-malka ṭla
+ṭla malka
 məre
 modila
 qəṣṣət
@@ -123335,16 +123335,16 @@ malka
 hole
 ʾəθya
 naša
-əlla bənyət
+bənyət əlla
 ʾotəx
 tama
 t qa
 mabəsma
-kut yom
+yom kut
 xa
 hole
 xa šoramiṭa
-axxa m
+m axxa
 l tamaha
 dmixa
 kəsla
@@ -123355,13 +123355,13 @@ məra
 qu
 ṣli xzi
 qimɛle
-malka w
-wazire w
-polise w
+w malka
+w wazire
+w polise
 xərrrr
 črikəlle
 bɛθa ʾaw
-gu ɛ d
+gu d ɛ
 ṣlɛθey
 qaṭu
 wirtɛla
@@ -123414,13 +123414,13 @@ hatxa
 jalde
 jalde
 kəlyɛle
-ṭarət gu
+gu ṭarət
 bɛθa
 ʾaw
-ʾu ʾay
+ʾay ʾu
 babe
 diye
-ani d ʾu
+ʾu ani d
 ʾəθyela
 m tama
 rəḥqa
@@ -123437,7 +123437,7 @@ he
 bronile
 hole
 qima
-ʾu ʾəθyela
+ʾəθyela ʾu
 xpiqe
 ġðaðe
 nšaqa
@@ -123445,7 +123445,7 @@ nšaqa
 brela
 ða
 xaduθa
-o gu d ʾalma
+ʾalma gu d o
 xa məndi
 məʾajbana
 wela
@@ -123453,19 +123453,19 @@ hadəx
 xəðye
 qimela
 musqəlla
-b dawla w
+w b dawla
 zorna
 drɛθət
 tope
 hadəx ʾu
 widla
 xlula
-šawwa yomaθa
-šawwa lɛlawaθa ʾu
-xlula wewa
+yomaθa šawwa
+lɛlawaθa ʾu šawwa
+wewa xlula
 qəm magwərrey
 hadəx
-bar m t gwirra
+m t bar gwirra
 ʾalaha
 yawəlla qəm
 xa brona
@@ -123480,7 +123480,7 @@ zora
 hadiya
 ʾo lɛlət
 mɛθi
-ʾəθye hola
+hola ʾəθye
 tiwe
 baxta
 tiwta
@@ -123493,14 +123493,14 @@ l gota ay
 zora
 hola
 muttəlle
-palga be
+be palga
 ʾay
 hola
 nšaqəlle
 nšaqəlle
 nšaqəlle
 xpaqəlle
-ṣadra gu
+gu ṣadra
 diya
 yawəlle ʾu
 ṭla babe
@@ -123510,7 +123510,7 @@ nšaqəlle
 nšaqəlle
 nšaqəlle
 malaxe
-ʾəθye hola
+hola ʾəθye
 tiwe
 l kawe
 hola
@@ -123534,10 +123534,10 @@ kəslən
 buxɛriyewa
 siqɛle
 xakma
-mən d o šəmra
+šəmra mən o d
 wirɛle
 gu naxirət
-xa malaxe m
+m xa malaxe
 wiðɛle ʾu
 pəθyo
 tpiθɛle
@@ -123545,7 +123545,7 @@ tpiθɛle
 zora
 məre
 b raxme
-ʾax ile ṱ
+ile ʾax ṱ
 mira
 zora ʾo
 b raxme
@@ -123564,27 +123564,27 @@ malaxe
 diṛe
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
-malka xa
+xa malka
 ʾiθwale
 ʾarba
 bnone
-ʾan ʾarba
+ʾarba ʾan
 bnone
-xaθa ða
+ða xaθa
 ṭlibəlla
-xaθa ða
+ða xaθa
 yak̭anta
 bas
 bayɛwa
-xaθa ða
+ða xaθa
 yak̭anta
 qəm hawela
 xaθa
 yak̭anta
-xaθa ʾɛ
+ʾɛ xaθa
 yak̭anta
 wawa zorta
 gu dargušta
@@ -123593,25 +123593,25 @@ qɛmawa
 banuda
 diya
 ʾazawa ʾu
-gu maθa
+maθa gu
 ʾaxlawa
 xa brona
 ʾaθyawa
 damxawa
 ʾap xa
-yaðewa le y
+le y yaðewa
 biya
 diya
-aθɛwa y
+y aθɛwa
 škaya
-malka qa
+qa malka
 malka
 awət ṱ
 basima
 ʾayya
-mut maθɛla
+maθɛla mut
 ʾanna
-ḥars it mut
+mut ḥars it
 mattoye
 broni
 hole
@@ -123622,7 +123622,7 @@ dmixa
 dax
 hatxa
 bare
-məndi ʾo
+ʾo məndi
 məre
 duqu so
 nawba
@@ -123633,11 +123633,11 @@ l ayaʾha
 qunjəlta
 t hodəx
 ʾayya
-gu ɛ d qunjəlta
+qunjəlta gu d ɛ
 xeta
-ʾap yoma dartət
+ʾap dartət yoma
 qimla
-yoma dartət
+dartət yoma
 zilla
 widla
 hadəx
@@ -123654,13 +123654,13 @@ zilla
 xilla
 xa yala
 xena
-ʾu θela
+θela ʾu
 dmixla
 har
 škaya hola
-har liba
+liba har
 fayda
-ʾap yoma dartət
+ʾap dartət yoma
 hadəx
 yomət
 ṭḷaθa
@@ -123682,7 +123682,7 @@ hatxɛle
 klele
 klele
 xazela qəm
-glele la
+la glele
 qamaye
 məre
 xazən
@@ -123692,14 +123692,14 @@ mjarbən
 xazən
 ʾap
 ʾədlɛle
-ṱ aθɛ
+aθɛ ṱ
 naše
 škaya
-babi ta
+ta babi
 babi
 malkɛle
 ʾap
-ʾaw lɛle
+lɛle ʾaw
 xena
 qimla
 saʾət
@@ -123708,23 +123708,23 @@ b lɛle
 šarya
 banuda
 diya
-ʾaza ʾu
+ʾu ʾaza
 ʾaxla
 xa brona
 xena
-dɛṛa ʾu
+ʾu dɛṛa
 damxa
 paθxa
 tara
 damxa
-gu dudiya
+dudiya gu
 ʾay
 leliθɛla
 ʾap xa
-yaðe la
+la yaðe
 biya
 leliθa
-axla y
+y axla
 naše
 ʾanna
 la yaði
@@ -123740,8 +123740,8 @@ babi
 šəkyela
 məre
 təmməl
-amrən ṱ
-babi ta
+ṱ amrən
+ta babi
 mbadla
 qimle
 zilla
@@ -123750,15 +123750,15 @@ priqla
 məre
 babi
 amrənnux ṱ
-xabra xa
+xa xabra
 yaʿni
-ʾati ʾən
+ʾən ʾati
 karbət
 mənni
 ʾana
 bronux
 ʾiwən
-karbət la
+la karbət
 mənni
 hatxa
 baba
@@ -123769,22 +123769,22 @@ in majbur
 t qa
 ʾana
 xzeli
-mdi xa
-qam ʾɛni
+xa mdi
+ʾɛni qam
 garəg
 ʾamrənne
-barya la
+la barya
 ʾaxni
 ʾiwəx
 malke
 xazəx
 məndiyane
 braya
-ʾaxləx ʾu la
+ʾaxləx la ʾu
 xamma
 ayya d
 balad
-barya la
+la barya
 məre
 paqəð
 broni
@@ -123794,7 +123794,7 @@ yaðət
 məndi
 ile ṱ
 braya
-gu bɛθən ile
+ile gu bɛθən
 braya
 məre
 mut
@@ -123813,9 +123813,9 @@ qðila
 pθixla
 tara
 pliṭla
-ʾu θela
-ʾu mədre
-qəm paθxale
+θela ʾu
+mədre ʾu
+paθxale qəm
 tara
 ʾora
 damxa
@@ -123832,13 +123832,13 @@ xaθila
 məre
 la
 garəg
-ʾamrət la
+la ʾamrət
 hatxa
 məre
 babi
 b kefux
 ʾana
-hon marəllux
+marəllux hon
 la
 hamonəlle
 brone
@@ -123851,7 +123851,7 @@ gu mðita
 xeta
 xišle
 xišle ʾu
-mðita ta
+ta mðita
 xeta
 xilla
 kulla
@@ -123862,8 +123862,8 @@ yale
 zore
 qəm parqala
 pišla
-u babe
-yəmme u
+babe u
+u yəmme
 xonawaθa
 lɛla
 hamone
@@ -123874,16 +123874,16 @@ xa lɛle
 xilla
 yəmma
 ʾap xa
-yaðe la
+la yaðe
 kulla
 qəm axlala
-ʾo brona
+brona ʾo
 ile ṱ
 zila
 ða bažər
 xeta
 yaʿni
-mðita ða
+ða mðita
 ða maθa
 pišle
 raba
@@ -123907,8 +123907,8 @@ babi
 θele
 xonawaθi
 θela
-qam ʾɛni
-yəmmi u
+ʾɛni qam
+u yəmmi
 babi
 dax iley
 azən ṱ
@@ -123921,17 +123921,17 @@ tiwle
 susa xaṣ
 babi
 ʾaw
-ʾu baxte
+baxte ʾu
 mtufəqla
-ġðaðe m
+m ġðaðe
 ʾiθwale
 tre bnone
-ʾu brata ða
+ða ʾu brata
 məre
 ṭla baxte
 diye
 ʾana
-ya baxta
+baxta ya
 ʾayya
 ʾisəqθi
 yawənna
@@ -123941,17 +123941,17 @@ qaləx
 ʾayya ʾən
 ʾisəqθi
 xɛrət
-ṭuwət ʾən
+ʾən ṭuwət
 ʾisəqθi
 bdilɛle
 mšadratla
 ʾarye
-aθa ṱ
+ṱ aθa
 ʾana
-gu ʾawqanən
-ʾati ʾu
+ʾawqanən gu
+ʾu ʾati
 məra
-gawṛa ta
+ta gawṛa
 ʾap ʾana
 ʾitli
 tre boč̣e
@@ -123961,24 +123961,24 @@ malkɛwa brat
 tre boč̣e
 šaqlətla
 mattətla
-gu jebux
-θela ʾən
+jebux gu
+ʾən θela
 pišla
 xaṭar
 ʾəllux
 qurba
 drila
-ʾan boč̣e
+boč̣e ʾan
 l ʾara
 qɛmi
 tre xore
-ṱ asqət
+asqət ṱ
 reša
 parqət
 xayux
 balki
 šalla ʾən
-hal gə maṭa ʾɛ
+hal gə ʾɛ maṭa
 ʾarye
 məra
 ġðaðe ta
@@ -123990,18 +123990,18 @@ xa yoma
 tre yome
 rəḥqɛla
 məṭyɛle
-l bažərət
+bažərət l
 babe
 diye
 mattu
 bala
-gu maθa
+maθa gu
 la dige
-kθayaθa la ʾu
-naše la
-la ʾu baxtaθa
-qala la
-la ʾu yale
+la ʾu kθayaθa
+la naše
+la baxtaθa ʾu
+la qala
+la yale ʾu
 zore
 ču məndi
 qala ču
@@ -124014,9 +124014,9 @@ pištət ma
 k̭awəlla
 məre
 ʾasqən har
-qaṣrət gu
+gu qaṣrət
 babi
-šaqlən har
+har šaqlən
 rixa
 mənne
 balki
@@ -124025,14 +124025,14 @@ xaθi
 xazən
 xa naši
 xaθe har
-ʾi bayela
+bayela ʾi
 xaθənila har
 mxele
 l tara
 ṭəq
 ṭəq
 ṭəq
-ʾaw wiðəlla
+wiðəlla ʾaw
 kɛre
 diye
 šqilɛle
@@ -124048,16 +124048,16 @@ muθyəlle
 məre
 bare
 xa məndi
-d qa awwa
+awwa qa d
 ʾawəð
 čɛra xa
-awe ṱ ʾən
+ʾən awe ṱ
 raqa
-ʾawəð t qa
+t qa ʾawəð
 čɛra xa
 gane qa
 xzi
-awəð mut ṱ
+mut awəð ṱ
 qimɛle
 siqɛle
 wirɛle
@@ -124066,13 +124066,13 @@ l tara
 ʾina
 xaθe
 he xoni
-xaθi ʾaziz t
+t xaθi ʾaziz
 b šɛna
-ɛka m
+m ɛka
 θelux
 maṭo
 mšuqelux
-maṭo ʾu
+ʾu maṭo
 mṭelux
 məre
 xaθi
@@ -124082,17 +124082,17 @@ xaθi
 dana ʾa
 ʾarqa
 məre
-ʾana w
+w ʾana
 susi
 ʾarye
 diye
-kəs baxte
+baxte kəs
 diye
 hola
 ṣliθɛla
 dana ʾɛ
-goma gu
-ʾaw ðile
+gu goma
+ðile ʾaw
 ṣliθɛla
 hawše gu
 xiltəlla
@@ -124137,17 +124137,17 @@ dax ile
 tre
 ʾaqlaθa
 məre
-har θeli
+θeli har
 m tama
 l axxa
-b tre
+tre b
 ʾaqlaθa
 θeləx
 l bali
 ṣalya
 ʾap xa xeta
 ʾaxlala
-ṭḷaθa t
+t ṭḷaθa
 t ʾarbe
 məra
 pəčkanta
@@ -124162,28 +124162,28 @@ babi
 gane
 muttɛle
 məndi
-ʾaqle xo
+xo ʾaqle
 siqɛle
-kawe ða
+ða kawe
 ḷɛθa
 siṛɛle
 tumbane ʾo
 diye
-b prəzle
+prəzle b
 ʾay
-heš hola
-goma gu
+hola heš
+gu goma
 šriṭle ʾaw
 riqle
-ʾaw ʾu
+ʾu ʾaw
 ṃəḷya
 qəṭma
-ʾaθya t qa
+t qa ʾaθya
 ʾaxla
 mənne
 ṣale
 gu ʾɛna
-d aw qa
+qa aw d
 madu
 ʾarəq
 qimla
@@ -124196,16 +124196,16 @@ kulle
 ṣlele
 gu paθa
 diya
-ʾaw riqle
-bar u ʾarbe
+riqle ʾaw
+ʾarbe bar u
 bar xamməš
-ʾəššət bar
-amrəxla ṱ ʾax
+bar ʾəššət
+ʾax amrəxla ṱ
 ʾaxni
 b barwər
-bar u ʾarbe
+ʾarbe bar u
 bar xamməš
-ʾəššət bar
+bar ʾəššət
 yaʿni
 baze
 xa baza
@@ -124222,18 +124222,18 @@ ho
 ṣarxa
 biye
 diye
-ɛka m
+m ɛka
 lɛka
 šawpe
 rəḥqa
-axxa m
+m axxa
 jyara
 dəmma
-zdile t ma
+t ma zdile
 axlale ṱ
 baxte
 diye
-xa bena
+bena xa
 knaša wawa
 xirta
 hatxa
@@ -124259,12 +124259,12 @@ marɛxu
 ʾarye
 ʾəθye
 ʾəθye
-həš lɛwa
+lɛwa həš
 məṭye
 ʾəlle diye
 ha
 ha
-ga maṭya
+maṭya ga
 axlale ṱ
 dəryəlla
 boč̣e
@@ -124285,8 +124285,8 @@ baṣora
 xa dəndəkkət
 xa ṭupra
 mənni
-xaθila har
-qəm axlila
+har xaθila
+axlila qəm
 muləpela
 ʾap ʾani
 ʾayya
@@ -124303,10 +124303,10 @@ qəṭṭa ʾo
 zora
 məre
 xaθi har
-ham muttule
-gubbe gu
+muttule ham
+gu gubbe
 diye
-ʾaw našəqla
+našəqla ʾaw
 ʾarye
 diye
 tiwle
@@ -124315,7 +124315,7 @@ xaṣət
 diye
 ʾu zille
 ʾay
-qəm axlila
+axlila qəm
 qəṭṭa ʾo
 ṭəprət
 ʾiða
@@ -124342,7 +124342,7 @@ pišla ʾu
 gawe
 diye
 k̭ərməkθa
-xuwwiθa ʾax
+ʾax xuwwiθa
 maṭya
 ləbbe
 ʾaxlale
@@ -124363,7 +124363,7 @@ mxo
 lišanɛxu
 biya
 xulu
-la t
+t la
 pɛša
 dundəkθa
 mənna
@@ -124372,7 +124372,7 @@ leš
 bayənna
 zille
 tiwle
-xaṣət ʾarye
+ʾarye xaṣət
 zilla ʾu
 l bɛθey
 mṭele
@@ -124385,24 +124385,24 @@ wət ma
 kčixa
 məre
 šuqli
-maṣən la
+la maṣən
 diya
 tanənna
 raba
 qəṣṣət
 rabθɛla
-ʾana bar t
+t bar ʾana
 pɛšən
 spay
-xa yarxa
+yarxa xa
 tre yarxe
-aθe ṱ ʾən
+ʾən aθe ṱ
 l bali
 raba
 kčixɛwən
 məra
 mu
-awe bṱ
+bṱ awe
 ʾina
 xipɛle
 munixɛle ʾu
@@ -124410,9 +124410,9 @@ raba
 xziθa
 ʾɛne
 diye
-məndi d m o
+m o d məndi
 ʾiθwa
-xano xa
+xa xano
 lapzerin
 b ʾaṣəl
 diye
@@ -124421,9 +124421,9 @@ qaračaya
 ʾina
 raba
 gabbara
-xɛlana wewa
+wewa xɛlana
 zille
-xa bena
+bena xa
 ʾarya
 θele
 ṭalbe
@@ -124435,13 +124435,13 @@ qṭille
 ʾarya
 ʾiðe
 diye
-qəm axəlla
+axəlla qəm
 malka
 šmile
 biye
 diye
 məre
-naša ʾo
+ʾo naša
 hole
 qṭila
 ʾarya
@@ -124453,14 +124453,14 @@ xazəx
 dax it
 qṭila
 ʾati
-ʾaw ʾarya
+ʾarya ʾaw
 məre
-ayka m
-har la mṣən
+m ayka
+la mṣən har
 amrənnux ṱ
 ʾən ʾamrənnux
 ʾap ʾati
-b šanət
+šanət b
 məre
 murri
 la
@@ -124472,7 +124472,7 @@ la zadət
 məre
 la zadən
 ṣrixɛle
-qala xa
+xa qala
 raba
 xɛlana
 malka
@@ -124490,11 +124490,11 @@ mənni
 diye
 dəryəlla
 dawa
-amriwa y
+y amriwa
 xano
 lapzerin
 pišle
-malka mən
+mən malka
 xulamət
 malka
 xa yoma
@@ -124506,23 +124506,23 @@ malka
 dmixɛle
 ʾawwa ži
 zamarɛle
-b dudəkθa
+dudəkθa b
 dudəkθe
 diye
 muttəlla
-rəš saṭlət
+saṭlət rəš
 masta
 pliṭɛle
 xa didwa
 mən naxirət
 malka
 reša
-d a dudəkθa
-wawa t
-rəš d a masta
+dudəkθa d a
+t wawa
+masta rəš d a
 zille
 wirre
-xa gu burət
+burət xa gu
 kepe
 ʾawwa
 xano
@@ -124535,12 +124535,12 @@ mujəble
 wele
 spara
 xarθa
-ga xa
+xa ga
 xeta
 xzele
 didwa ʾo
 pliṭle
-mən d o
+mən o d
 burət
 kepe
 θele
@@ -124554,14 +124554,14 @@ malka
 kčixa
 zədya
 məre
-ma lux
+lux ma
 zədya
-ma lux
+lux ma
 malka
 awət ṱ
 basima
 məre
-li ma
+ma li
 məre
 xzeli
 xa xəlma
@@ -124570,13 +124570,13 @@ mazdiyana
 məre
 modi
 xəlma
-dax ʾu wewa
-wawa xer
+dax wewa ʾu
+xer wawa
 məre
-b xəlmi
+xəlmi b
 zala
 reša
-yama ða
+ða yama
 raba
 goṛta
 yama
@@ -124587,12 +124587,12 @@ gəšra
 mara
 zala hon
 rešə
-d o
+o d
 gəšra
 ʾina
 raba
 zdaʾa
-la t naplən
+t la naplən
 yama gu d a
 m tama
 zalən
@@ -124611,7 +124611,7 @@ dunye
 hole
 tama
 mara ʾu
-ga xa
+xa ga
 xeta
 diṛən
 ʾəθyən
@@ -124623,14 +124623,14 @@ d ay
 yama
 hadəx in ʾu
 zdaʾa
-in hat
+hat in
 šwirəlle
-got laxxa
-ʾu ṛišli
+laxxa got
+ṛišli ʾu
 hadiya
-ʾaw mtunele
+mtunele ʾaw
 xəlma ʾaw
-d o qa
+o qa d
 xano
 lapzerin
 ʾawwa
@@ -124647,9 +124647,9 @@ xzele
 didwa ʾo
 ʾɛka
 wirre
-qam azəl ṱ
+azəl ṱ qam
 šwiqəlla
-kiste xa
+xa kiste
 diye
 tama
 garəšwa
@@ -124665,12 +124665,12 @@ awət ṱ
 basima
 munšyali
 kisti
-tutun t
+t tutun
 fəllən
 dukθa
 azən ṱ
 mayənna w
-ʾu ʾaθən
+ʾaθən ʾu
 ʾəθyɛle
 wiðɛle
 ʾa dukθa
@@ -124681,9 +124681,9 @@ didwa ʾo
 wira
 tama
 ʾu zilɛle
-malka kəs
+kəs malka
 pišɛle
-malka mən
+mən malka
 məre
 malka
 awət ṱ
@@ -124699,15 +124699,15 @@ məre
 modi
 məre
 dukθət
-xa gəldət
+gəldət xa
 tawra
 halli
 banənni
-bɛθa xa
+xa bɛθa
 məre
 si bnilux
 dukθət
-tre gəldət
+gəldət tre
 tawre
 məre
 la
@@ -124715,39 +124715,39 @@ xa har
 gəldət
 tawra
 dukθət
-xa gəldət
+gəldət xa
 tawra
 banənni
-bɛθa xa
+xa bɛθa
 ʾap ʾana
 xṭiθila
 məre
-ʾawwa bni si
+bni si ʾawwa
 bɛθux
 qimɛle
 zila
 b a dukθa
 zila
 muθyɛle
-xa gəldət
+gəldət xa
 tawra
 raba
 goṛa
 nubləlle
 xa kəs
-anna m
-ṱ oði
+m anna
+oði ṱ
 tasmə
 sawle
 məre
 ʾoðətli
 hadəx
-gəlda ʾo
+ʾo gəlda
 hadəx
 ʾoðətle
 naqiða
-ʾawər t ta
-boyət bar
+t ta ʾawər
+bar boyət
 xmaṭa
 wiðəlle
 hadəx
@@ -124759,9 +124759,9 @@ zila
 ʾa dukθa
 kulla
 dukθə
-gəldət d o
+gəldət o d
 tawra
-lɛle wiða
+wiða lɛle
 gədda
 zora
 kəma xzi
@@ -124795,7 +124795,7 @@ t ta
 ʾap ʾən
 maxile
 madfaʿ
-la taləxwa t
+t la taləxwa
 guda
 bnele
 bnele
@@ -124824,9 +124824,9 @@ guṛe
 dəqnay
 garewale
 briza
-axxa m
+m axxa
 masəqwa
-ku ile ṱ
+ile ku ṱ
 waða
 ʾih
 la
@@ -124834,14 +124834,14 @@ la
 y amərwa
 ʾati
 lat
-gawṛa xoš
+xoš gawṛa
 dwiqle
 ʾaskar
 ʾəlle
 diye
 naše
 zilla
-malka kəs
+kəs malka
 məra
 malka
 awət ṱ
@@ -124853,7 +124853,7 @@ waða
 mara
 mu
 awəð ṱ
-dukθət xa
+xa dukθət
 gəldət
 tawrən
 hiwəlle
@@ -124874,18 +124874,18 @@ wele
 plaša
 wele
 plaša
-ben ʾaskar t
+t ʾaskar ben
 malkət
 ʾirən
-ʾaw ʾu
+ʾu ʾaw
 xa plaša
 raba
-xɛlana wewa
-b ʾurxa ču
+wewa xɛlana
+ču b ʾurxa
 lɛwa
 mṣaya
 malka
-ṱ awər
+awər ṱ
 šaqəlle
 dəmdəma
 t wewa ma
@@ -124898,24 +124898,24 @@ xalta
 ʾitwale
 zuze
 ʾitle
-xa məndi kul
+xa kul məndi
 ʾitwale
 ʾina
 brata
-xano d o
+o xano d
 lapzerin
-o d t wewa
+t wewa o d
 bənya
 dəmdəma
 bayawa
-malka bron ta
+bron ta malka
 qimla
 kθula
 xa kθawa
 mšudərra
-qazəd bəd
+bəd qazəd
 məra
-b ʾurxa ču
+ču b ʾurxa
 dəmdəma ʾo
 lɛ
 šaqlitule
@@ -124923,16 +124923,16 @@ lɛ
 qaṭitula
 miyət
 dəmdəma
-ʾu kθutɛla
+kθutɛla ʾu
 gu d o
 kθawa
 ʾɛkɛla
 ʾɛnə
 miya
-ɛkɛla m
+m ɛkɛla
 θaya
 t wewa ma
-malka bron
+bron malka
 qəryəlle
 kθawa ʾo
 məre
@@ -124944,15 +124944,15 @@ miya ʾan
 qəṭyəlla
 mən ʾɛnət
 miya
-wawa t
-dəmdəma mən d o
+t wawa
+dəmdəma mən o d
 pišla
-la t
+t la
 miya
-naše ʾanna
-miya la t
+ʾanna naše
+t la miya
 la xayi
-ga xa
+xa ga
 xeta
 ṭlibla
 mən marya
@@ -124982,29 +124982,29 @@ dəmdəma gu
 wara
 ʾina
 yəmma
-xano d o
+o xano d
 lapzerin
 hola
 tiwta
 gu tarət
 qaṣra
 xa qalunka
-axxa m
+m axxa
 l tamaha
 xa palla
 b reše
 diye
 məre
-mu t
+t mu
 kalba
 mubrɛθa
 ʾati
-plaša ʾo
+ʾo plaša
 ʾawwa
 dəmma
 mattule
-ʾo spayuθa
-ʾana in ṱ
+spayuθa ʾo
+in ʾana ṱ
 wiðəlle
 məra
 ʾawwa
@@ -125014,9 +125014,9 @@ kalba
 kalba
 ʾayya
 məra
-malka ṭla
+ṭla malka
 ʾa palla
-rəš wawa qalunka t
+t wawa qalunka rəš
 wiðtəlla
 hatxa
 ṣliθɛla
@@ -125034,7 +125034,7 @@ qṭiltəlla
 ʾana
 šmiyənwa
 xa tuniθa
-amriwala y
+y amriwala
 gozali
 nozali ʾu
 šəmma
@@ -125046,9 +125046,9 @@ nozali ʾu
 dax
 ʾiwawa
 ʾayya
-mšarəxwa ʾi
+ʾi mšarəxwa
 tuniθa
-amriwa y
+y amriwa
 w ʾiθwa
 liθwa
 biš
@@ -125068,17 +125068,17 @@ raba
 bayewale
 ʾaw brone
 diye
-ʾu ṭabʿan
+ṭabʿan ʾu
 malka
 brone
 diye
 payəš
 šawpe
 diye
-ʾiman t
+t ʾiman
 malka
-mayəθ ʾi
-ʾiman t
+ʾi mayəθ
+t ʾiman
 payəš
 goṛa
 brona
@@ -125086,7 +125086,7 @@ diye
 šaqəl
 šawpe
 diye
-bar d aw
+bar aw d
 ga ʾɛ
 xa yoma
 malka
@@ -125115,7 +125115,7 @@ məra
 ʾawwa
 naša
 faqira
-ṱ awele
+awele ṱ
 xa
 brona
 ʾaw
@@ -125123,7 +125123,7 @@ payəš
 malka
 šawpət
 bronux
-awe lɛ y
+y lɛ awe
 bronux
 malka
 ʾimət ʾu
@@ -125131,9 +125131,9 @@ malka
 mən šənθa
 malka
 raba
-u šxišle
+šxišle u
 raba
-pšimle u
+u pšimle
 ʾu pišle
 naša ʾaw
 faqira
@@ -125145,7 +125145,7 @@ naše
 yaðiwale
 malka
 yaðewale
-naša ʾo
+ʾo naša
 məre
 ʾa naša
 faqira
@@ -125162,15 +125162,15 @@ payəš
 malka
 šawpət
 broni
-ayya w
+w ayya
 malkuθi
 mal diyi ʾu
 kulla
 pɛša
-ṭla d aw
+ṭla aw d
 yaʿni
 la
-qəm basmale
+basmale qəm
 ʾayya w
 xəlme
 diye
@@ -125191,15 +125191,15 @@ xakma
 šənne
 malka
 har
-wewa xzaya
-b xzaya
+xzaya wewa
+xzaya b
 mbaqore
-l naša d o
+l o d naša
 ʾitle
 brona
 litle
 brona
-ṱ awele
+awele ṱ
 brona
 ʾatxa
 məndiyane
@@ -125207,7 +125207,7 @@ ga ʾɛ
 xarθa
 θele
 xa jawab
-malka qa
+qa malka
 məra
 baxte
 diye
@@ -125215,7 +125215,7 @@ hola
 b ʾurxa
 diya
 baxtə
-d o
+o d
 naša
 faqira
 pišla
@@ -125231,7 +125231,7 @@ mtaxmone
 xəlme
 diye
 paləṭ
-ṱ amrexi
+amrexi ṱ
 wela
 danət
 mḥaṣole
@@ -125243,21 +125243,21 @@ jaməkke
 tre yale
 xa brona
 xa brata
-ʾan ʾu
+ʾu ʾan
 tre yale
 mən brɛθey
 mən yoma
 qamayə
 brela
-ʾatxa wɛwa jwanqe
+jwanqe wɛwa ʾatxa
 ʾatxa spay
 ʾatxa
 šəklane
-xəlye ʾu
+ʾu xəlye
 naše ʾu
 majobe
 biyey
-amriwala y
+y amriwala
 gu tuniθa
 xa
 pərč̭əmta
@@ -125265,8 +125265,8 @@ diye
 yaʿni
 pərč̭e
 diye
-w t dawa
-xa sema t
+t w dawa
+t xa sema
 hatxa
 madmiwaley
 malka
@@ -125276,7 +125276,7 @@ raba
 zdele
 məre
 ʾanna
-ila ṱ madam
+ila madam ṱ
 ʾatxa
 jwanqe
 w atxa
@@ -125284,7 +125284,7 @@ taze
 lazəm
 xəlmi ʾaw
 paləṭ
-xa məndi ʾo
+xa ʾo məndi
 ʾile
 xəzwa
 ʾəθyəlli
@@ -125299,7 +125299,7 @@ məre
 ʾana
 garəg
 mtalqənna
-yale ʾanna
+ʾanna yale
 məre
 garəg
 mtalqənna
@@ -125311,13 +125311,13 @@ pɛši lɛ
 kulla
 θarwa
 diya
-b šaqlila w
+w b šaqlila
 šawpi
-b šaqlile u
+b u šaqlile
 broni ʾu
-y le awele
-šəmma w
-awe le y
+le y awele
+w šəmma
+le y awe
 malka
 dax
 barya
@@ -125331,12 +125331,12 @@ polise
 məre
 so
 l bɛθət
-naša flan
+flan naša
 sogun
 l bɛθət
-naša flan
-ʾu šəqlula
-tre ʾan yale
+flan naša
+šəqlula ʾu
+tre yale ʾan
 mtalquley ʾu
 la šawqituley
 saxe
@@ -125346,34 +125346,34 @@ wela
 sərri
 yaʿni
 xa məndi
-yaðe la t
+t la yaðe
 hič naša
 biya
 xena
 polise
 mu
-ṱ oði
+oði ṱ
 šaqli
 ʾawamər
 malka
 amərrey mo ṱ
-ṱ oði
+oði ṱ
 hadəx
 zilla
 zilla
 polise
 b lɛle
-qəm šaqlila
+šaqlila qəm
 tre ʾan
 yale
 mən babey
 ʾu yəmmey
 kəma
 yəmmey
-ʾu babey
+babey ʾu
 mšorela
-b bxaya w
-ṣraxa w
+w b bxaya
+w ṣraxa
 dax
 šaqlituley
 yalən
@@ -125386,25 +125386,25 @@ xena
 ʾamrət
 malkɛle
 la maṣa
-torile t
-polise ʾu
+t torile
+ʾu polise
 maklila qəm
 w baba
 yəmma
 šaqlila ʾu
-tre ʾan yale
+tre yale ʾan
 ʾimət
-qəm šaqlila
+šaqlila qəm
 polise
-tre ʾan yale
-polise ʾan
+tre yale ʾan
+ʾan polise
 wela
 pyaša
 b xammey
 mara
 dax
 mtalqəxla
-tre ʾan yale
+tre yale ʾan
 hatxa jwanqe
 hatxa
 šəṭrane
@@ -125413,13 +125413,13 @@ zore
 hade
 bərye
 xṭiθɛla
-malka ʾo
-mo t
+ʾo malka
+t mo
 ʾawamər
 hiwle llɛni
-barya le y
+le y barya
 ʾayya
-šula ʾo
+ʾo šula
 ʾoðəxle
 ṣlela
 raxme
@@ -125432,7 +125432,7 @@ qɛməx
 dɛrəxley
 xa gu
 sanduqa
-yawəxley ʾu
+ʾu yawəxley
 xačča
 keke
 maduqəx
@@ -125440,7 +125440,7 @@ b iðey
 t qa
 ʾaxli
 xṭiθey ila
-ʾu dɛrəxla
+dɛrəxla ʾu
 gu d ay
 šaqiθa
 ʾay
@@ -125453,42 +125453,42 @@ dunye
 azi ṱ
 miya
 talqi
-b ganey
-maṣəx lɛ
+ganey b
+lɛ maṣəx
 ʾaxni
 mtalqəxla
 xṭiθey ila
 qimela
 wiðe
 hatxa
-polise ʾu
+ʾu polise
 xzela
-ʾan yale
+yale ʾan
 jwanqe
 qəm mattila
 b sanduqe
 qəm hawila
 xačča
-ʾixala w
-qəm xaðila
+w ʾixala
+xaðila qəm
 hatxa
-la t qɛraley
+t la qɛraley
 qəm dɛrɛla ʾu
-miya gu
+gu miya
 qəm dɛrɛla
-miya gu
+gu miya
 hatxa
 azi ṱ
-b šaqiθa
+šaqiθa b
 zilla
-b šaqiθa
-zilla w
-zilla w
+šaqiθa b
+w zilla
+w zilla
 zilla
 ʾiθwa
 xa dukθa
 šaqiθa
-xaðawa ʾi
+ʾi xaðawa
 čappa
 wewa
 hatxa
@@ -125521,21 +125521,21 @@ yoma
 bron
 malka
 b ṣədfa
-malka bron
+bron malka
 ʾaw
-malka bron
+bron malka
 θele
 jwaja
 tam tama
 xirre
 tama
-gu šaqiθa
+šaqiθa gu
 ʾina hole
 xa sanduqa
 məre
 xazən
 modila
-gu d aw
+gu aw d
 sanduqa
 zilɛle
 xəzyəlla
@@ -125549,7 +125549,7 @@ zarda
 hadəx ʾu
 dax amrəx ṱ
 sema
-ʾu hatxa
+hatxa ʾu
 šəklane
 šəṭrane ʾu
 məre
@@ -125560,7 +125560,7 @@ tre yale
 manile
 məṣya
 dəryəlla
-gu šaqiθa
+šaqiθa gu
 manile
 məṣya
 zədyəlley
@@ -125571,10 +125571,10 @@ xaməxla w
 masiməx
 bala
 ʾəlla
-ʾu ʾanna
+ʾanna ʾu
 garəg
 xazən
-ṱ oðən
+oðən ṱ
 taḥqiq
 manile
 wiðəlla
@@ -125586,15 +125586,15 @@ qimɛle
 šqila
 b gʸan
 diye
-malka bron
-šqiləlla w
+bron malka
+w šqiləlla
 šqila
 sanduqa
 b iðe
 diye
-ʾu siqa
+siqa ʾu
 musqəlla
-kəs babe
+babe kəs
 diye
 məre
 babi
@@ -125603,7 +125603,7 @@ ha
 broni
 məre
 xzeli
-xa məndit
+məndit xa
 ʾajəbuθa
 məre
 modi
@@ -125613,25 +125613,25 @@ xzelox
 məre
 ʾanna
 tre yale
-qəm xazənna
-la t
+xazənna qəm
+t la
 marwaθa
-ʾu zədye
-gu d aw
+zədye ʾu
+gu aw d
 sanduqa
-ʾu zədye
+zədye ʾu
 gu d ay
 šaqiθa
-ʾu xur
+xur ʾu
 mparəj
 biyey
-xzi ʾanna
+ʾanna xzi
 yale
 kəma
 šəṭranela
 hatxa
 baṣloṣe
-ləbbət gu
+gu ləbbət
 naša
 dax ila
 məṣye
@@ -125648,11 +125648,11 @@ xirre
 ðile
 ʾawwa
 ʾamra
-d ile aw
+ile aw d
 leš ʾu
 maṣe
-arəq ṱ
-mən waqəʿ
+ṱ arəq
+waqəʿ mən
 mo
 awəð ṱ
 yaʿni
@@ -125664,21 +125664,21 @@ amər ṱ
 məre
 broni
 ʾati
-mo ṱ amrət
-mo ṱ amrət
+amrət mo ṱ
+amrət mo ṱ
 wuð
 hadəx
 xzi
 ʾana
 lɛðən
 ʾanna
-ɛkɛla m
+m ɛkɛla
 ʾəθye
 qimle
-b zdaya
+zdaya b
 m brone
 diye
-la ʾamər t qa
+t la ʾamər qa
 bron diye
 balki
 yawəlla
@@ -125688,19 +125688,19 @@ diye
 xzi bronɛle
 maṣe
 amərre ṱ
-mo qa
+qa mo
 ʾoðət
 ʾatxa šula
 la spay
 mo
 məre
 ʾaw yala
-malka bron
+bron malka
 məre
 babi
 ʾanna
 ʾana
-ṱ oðən
+oðən ṱ
 ʾəšraf
 ʾəlley
 yaʿni
@@ -125714,22 +125714,22 @@ walla
 walla
 yəmmi
 walla
-naša ču
+ču naša
 ʾana
 b gʸani
-ṱ oðən
+oðən ṱ
 ʾəšraf
 ʾəlley
-ʾixaley mən
-mən lwištey
+mən ʾixaley
+lwištey mən
 mən dmaxtey
 xaltey mən
-mən masyamtət
+masyamtət mən
 bala
-ʾana ʾu
-šoqənney lɛ
+ʾu ʾana
+lɛ šoqənney
 farqənney lɛ
-kut yoma
+yoma kut
 garəg
 hawən
 mənney
@@ -125741,7 +125741,7 @@ ləš
 maṣən
 ʾayya
 pišla
-b iðət
+iðət b
 broni
 ʾawwa ʾu
 xəlmi
@@ -125749,8 +125749,8 @@ paləṭ
 hole
 dmaya
 qimle
-b zdaya
-xəlme m
+zdaya b
+m xəlme
 diye
 t wewa
 xəzyəlle
@@ -125765,10 +125765,10 @@ hadiya
 ʾayya
 tuniθən
 mšaxləppa
-mən d awwa
+awwa mən d
 taqa
 aza ṱ
-l xa taqa
+taqa l xa
 xena
 hadiya
 yaʿni
@@ -125779,17 +125779,17 @@ diyey
 θela
 hadiya
 mšarəx
-xa taqa
+taqa xa
 xena
 ʾitle
 ʿalaqa
-ayya d bə
+ayya bə d
 yaʿni
 ham
 liqta
-b ayyɛla
+ayyɛla b
 ʾiθwa
-xa baxta
+baxta xa
 raba
 xamθɛwawa
 modiwewa
@@ -125797,10 +125797,10 @@ modiwewa
 diya
 bəlbəl
 hazar
-ayya w
+w ayya
 ʾɛkela
 hola
-gu rešət
+rešət gu
 xa ṭura
 ramana
 xa ṭura
@@ -125808,23 +125808,23 @@ raba
 ramana
 naše
 la maṣi
-lle asqi y
+y asqi lle
 diye
 dax qummət
 everest ile
 hatxa
 ramana
-l qamθe ʾu
+l ʾu qamθe
 diye
 ʾiθ
-xa čol
+čol xa
 dašta
 raba
 goṛta
 naše ʾu
-ila kəma ṱ
+kəma ila ṱ
 šmiye
-b zawna o
+zawna b o
 bəlbəl
 hazar
 raba
@@ -125835,7 +125835,7 @@ naše
 dawlatmande
 kulla
 mjurbela
-mɛθɛla t
+t mɛθɛla
 bəlbəl
 hazar
 ṭla broney
@@ -125844,7 +125844,7 @@ xa brona
 šaṭər
 šazada
 jwanqa
-o d zawna
+zawna o d
 maṭo
 y aziwa
 y aziwa
@@ -125861,17 +125861,17 @@ yoma
 la zraqət
 yoma
 y aziwa
-qam maṭiwa
+maṭiwa qam
 l tama
-l d o
+l o d
 ṭura
-ṣalewa ʾi
+ʾi ṣalewa
 xa
 malaxa
-šmayya m
+m šmayya
 y awəðwala
 diye gan
-naša bəṛ
+bəṛ naša
 y awəðwala
 diye gan
 xa naša
@@ -125885,50 +125885,50 @@ bɛθa
 ða
 manzəl
 bas
-bɛθa xa
+xa bɛθa
 zora
-kullixa xa
-amrəx y
+xa kullixa
+y amrəx
 ʾaxni
 b surəθ
 kullixa
-sopiθa ʾax
-amrəxle y
+ʾax sopiθa
+y amrəxle
 ʾatxa
-naša ʾu
+ʾu naša
 sawa
 yaʿni
 ʾaw
 bɛθa
-d ile aw
+ile aw d
 ʾi mbaqərwala
 naše
 lɛketu
 zala
-awɛ y
+y awɛ
 tiwe
 susa xaṣ
-ʾu rumxey
+rumxey ʾu
 hatxa
-ʾu našət
-awa y
-b zawna o
+našət ʾu
+y awa
+zawna b o
 jwaja
 susa xaṣ
 yaðət
-dax awɛ y
-gət ʾo naša ʾɛ
+dax y awɛ
+ʾo ʾɛ naša gət
 sawa
-amər y
+y amər
 lɛketu
 zala
-amri y
-ṱ azəx
+y amri
+azəx ṱ
 mɛθəx
 bəlbəl
 hazar
 magurəxla
-bronən ṭla
+ṭla bronən
 w aw
 ʾiwewa
 malaxa
@@ -125949,12 +125949,12 @@ bəlbəl
 hazar
 w ay
 ʾitla
-sərr xa
+xa sərr
 bəlbəl
 hazar
 yalla
 ʾaθya
-sərr ʾo
+ʾo sərr
 ʾalaha
 yaðele
 bas
@@ -125965,9 +125965,9 @@ lɛle
 glaya
 naše qa
 sərr ʾaw
-goṛa wewa
+wewa goṛa
 ʾimət
-ʾatxa ʾi mbaqərwa
+ʾi ʾatxa mbaqərwa
 y amərwa
 la sogun
 xṭiθɛxula
@@ -125980,17 +125980,17 @@ ganɛxu
 ʾani
 doqiwa har
 rəqqi
-ṱ aziwa
-amər y
-har azitu ṱ
-amri y
+aziwa ṱ
+y amər
+azitu ṱ har
+y amri
 he
-ṱ azəx
-amər y
+azəx ṱ
+y amər
 zen
 ʾana
 paqðənnɛxu
-ṱ azitu
+azitu ṱ
 b ʾurxa
 maṭitu
 ʾəlla
@@ -126007,7 +126007,7 @@ mɛθitula
 xena
 hotu
 mara
-ṱ har azəx
+azəx ṱ har
 ʾaxni
 liθ
 bajara
@@ -126016,14 +126016,14 @@ bṱ azəx
 y aziwa
 tama
 mu
-oðiwa y
+y oðiwa
 ga ʾɛ
 ʾawwa
 məre
 məre
-ṱ azitu
-qam gəppa d o
-ʾaw gəppa
+azitu ṱ
+o gəppa d qam
+gəppa ʾaw
 raba
 ramanɛle
 b qaritu
@@ -126033,7 +126033,7 @@ hazar
 mara
 mattitu
 bala
-θela ʾən
+ʾən θela
 bəlbəl
 hazar
 ʾay
@@ -126044,17 +126044,17 @@ atwa ṱ
 b xaṣət
 susa
 baθrɛxu
-la ʾu ʾən
+la ʾən ʾu
 θela
-b qala o
+b o qala
 qamaya
 mattitu
 bala
-b aqlət
+aqlət b
 susɛxu
 ʾaqlət
 susɛxu
-pišla ʾən
+ʾən pišla
 kepa
 leš
 maṣitu
@@ -126070,24 +126070,24 @@ leš
 maṣitu
 jawjitu
 w ʾaxtu
-susɛxu w
-rumxɛxu w
+w susɛxu
+w rumxɛxu
 lwištɛxu
 pɛšitu
 kepa
 tama
-ən w
+w ən
 ʾaθya
 bəlbəl
 hazar
-ṱ aθya
-ʾu mɛθitula
-amri y
+aθya ṱ
+mɛθitula ʾu
+y amri
 ok
 bayəx
-ṱ azəx
+azəx ṱ
 awzitu ṱ
-so də
+də so
 ʾalaha
 awe ṱ
 mənnɛxu
@@ -126097,7 +126097,7 @@ diye
 ʾo lɛle
 qɛmiwa
 mbadla
-amər y
+y amər
 ʾalaha
 awe ṱ
 mənnɛxu
@@ -126110,12 +126110,12 @@ naše
 mɛθoye
 bəlbəl
 hazar
-maṭiwa ʾi
+ʾi maṭiwa
 tama
 qala
 qamaya
 xɛriwa
-b aqlət
+aqlət b
 susey
 piša
 hal bərkət
@@ -126135,19 +126135,19 @@ bala
 b aqlə
 susey
 ʾina
-ʾap d aw aqlə
+ʾap aqlə aw d
 hal
-palge be diye
+be diye palge
 piša
 kepa
 ʾaxči
-susa rešət
-palge ʾu diye
-bar eli
+rešət susa
+palge diye ʾu
+eli bar
 lɛle
 piša
 kepa
-qarɛwa ʾu
+ʾu qarɛwa
 qalət
 ṭḷaθa
 ʾo
@@ -126155,44 +126155,44 @@ bəlbəl
 hazar
 bena
 xaraya
-amər y
+y amər
 zar
 payəšwa ʾu
 kepa
 kulle
-ʾap diye reše
+ʾap reše diye
 payəšwa
 kepa
 xazətwa
 ʾax qayəmθət
 kepa
-susa w
-rumxe w
+w susa
+w rumxe
 naše
 tiwe
 xaṣe
 ʾu har
 šəklət
-naša bəṛ w
+w bəṛ naša
 susa
 yaʿni ʾu
 čakke
-diye biye
-ʾu piša
+biye diye
+piša ʾu
 kepa
 ga ʾɛ
 kut
-azəlwa y
+y azəlwa
 zayənwa
 gotə
-d xena o
+o d xena
 kut
-azəlwa y
+y azəlwa
 zayənwa
 piše
 xa
-ʾarb əmma
-xamš əmma
+əmma ʾarb
+əmma xamš
 naše
 reza
 reza
@@ -126206,15 +126206,15 @@ hazar
 hadiya
 qalbəx
 l malka
-malka w
+w malka
 diye brone
-ʾu guzali
+guzali ʾu
 nozali ʾu
 xazəx
 tama
 modi
 braya
-malka bron
+bron malka
 pišle
 b ṭali
 pišle
@@ -126225,10 +126225,10 @@ mjarbu
 mɛθu
 naše
 duxture u
-naše yan
+yan naše
 spay
-yaði t
-bud marra
+t yaði
+marra bud
 naše ʾu
 gu mðita
 kulley
@@ -126240,7 +126240,7 @@ modi
 piša
 b ṭali
 hatxa
-oðile ṱ qa
+oðile qa ṱ
 xa čara
 θela
 raba
@@ -126248,8 +126248,8 @@ naše
 xzela
 ʾašəq
 wewa
-malka ʾaw bron
-raba w
+bron malka ʾaw
+w raba
 la wewa
 gwira
 kulla
@@ -126264,7 +126264,7 @@ lɛt
 mgurəlle
 hal diya
 wirre
-mən w šənne ʾəsri xamša
+ʾəsri xamša w mən šənne
 qurbət
 ṭḷaθi
 šənnele
@@ -126276,7 +126276,7 @@ malkɛwət
 ʾawwa ʾu
 bronuxile
 ʾawwa
-la hoya ʾən
+la ʾən hoya
 bəlbəl
 hazar
 ʾəlle
@@ -126297,9 +126297,9 @@ maṣe
 mɛθela
 bəlbəl
 hazar
-azəl kut y
-qaləb le y
-b urxa ay
+y azəl kut
+le y qaləb
+urxa b ay
 klele
 malka
 mtuxmənne
@@ -126311,7 +126311,7 @@ gozali
 raba
 u jwanqɛle
 raba
-zirək ile
+ile zirək
 balki
 maṣe
 mɛθela
@@ -126324,18 +126324,18 @@ baxtət
 broni
 broni ʾu
 tarəṣ
-la ʾu ʾən
+la ʾən ʾu
 muθyale
 ham zille
 xliṣli
 mənne diye
 zille
-xəṭṭa wewa
+wewa xəṭṭa
 mutta
 yaʿni
 tre
 qəqwane
-b xa kepa
+xa b kepa
 maxewa
 hadiya
 qimɛle
@@ -126345,7 +126345,7 @@ gozali qa
 məre
 gozali
 hay laxxa
-broni diyi
+diyi broni
 dmixa
 məskena
 lɛðe
@@ -126366,8 +126366,8 @@ yaðətle
 ʾati
 bayelux ʾu
 raba
-ži ʾati ʾu
-bayətle ʾi
+ʾu ʾati ži
+ʾi bayətle
 raba
 zen
 duxture
@@ -126387,13 +126387,13 @@ mənnux
 bəlbəl
 hazar
 mɛθətla
-broni ṭla
+ṭla broni
 ṭla tarəṣ
-ati w
+w ati
 diyux qa
 xa ġaləbuθa
 goṛtɛle
-broni ʾən
+ʾən broni
 tarəṣ
 b xšawən ʾu
 mjarbət
@@ -126423,21 +126423,21 @@ bəlbəl
 hazar
 bronux qa
 məre
-bas bayən
+bayən bas
 bayən
-susa xa
+xa susa
 awe ṱ
 koma
 awe ʾu ṱ
 xa
-anna m
+m anna
 xəzzema
-ʾene gu be
+ʾene be gu
 diye
 xwarta
-aqlaθe w
+w aqlaθe
 diye
-ṱ awa
+awa ṱ
 xware
 susa ʾu
 awe ṱ
@@ -126445,52 +126445,52 @@ awe ṱ
 raba
 xa ʾu sɛrga
 mtarṣətli
-d annət kəs
+kəs annət d
 mtarṣi ʾi
 sɛrge
-an dəkkanane m
-hawe la t qa
+m an dəkkanane
+t la qa hawe
 sɛrga
 spay
-dax d aw
-atwən ʾu ṱ qa
+dax aw d
+qa atwən ʾu ṱ
 xaṣe
 diye
-ʾu t qa
+t qa ʾu
 bəlbəl
 hazar
 ʾən xazyali
-ṱ awela qa
+qa awela ṱ
 ðawq
-ṱ aθya
+aθya ṱ
 kəsli
 t ta
 mɛθənna
-bronux ṭla
+ṭla bronux
 məre
 ʾahlan
 wa sahlan
-dəx litlux
+litlux dəx
 xaṭər
 har
 dax bayət
 mu bayət
-bas ṭlubən
+ṭlubən bas
 w dawe
-zuze u
-məndi u
+u zuze
+u məndi
 maṣraf
 kulla
 ʾəlli
-ʾu ʾanna
+ʾanna ʾu
 məndiyane
-it ṭlabəlla ṱ
+ṭlabəlla it ṱ
 kulla
 hazərila
 ʾana
 malkɛwən
 kulla
-oðənna bṱ llux
+bṱ llux oðənna
 mara
 ʾawwa
 spay
@@ -126502,28 +126502,28 @@ yomət
 kull məndi
 wele
 hazər
-ʾu gozali
+gozali ʾu
 tiwɛle
 trab
 susa xaṣ
 muttəlla
-ʾaqle diye
-gu rkewe
-ʾu siqa
+diye ʾaqle
+rkewe gu
+siqa ʾu
 susa xaṣ
 hiwəlle ʾu
 bale
 la zraqət
 yoma
-dax ṱ amərwa
+dax amərwa ṱ
 xətni
 warda
 halumnaya
 qunaxət
 ṭḷaθa
 yomaθa
-qəm azəlla
-b xamša
+azəlla qəm
+xamša b
 daqiqe
 maṭrewa
 maṭroye
@@ -126536,7 +126536,7 @@ marya
 ṣəlyɛle
 qamθe
 diye
-naša ʾo
+ʾo naša
 sawa
 ṣəlyɛle
 čurup
@@ -126550,17 +126550,17 @@ xuya
 w aw
 har
 čol gu hole
-b ṭraya
+ṭraya b
 maṭroye
 susa xaṣ
-ila hənṱ
+hənṱ ila
 xəzyəlla
 gane diye
 trab
-ʾurxa gu
+gu ʾurxa
 hole
-kullixa xa
-bɛθa xa
+xa kullixa
+xa bɛθa
 zora
 tama
 hatxa
@@ -126572,9 +126572,9 @@ diye
 rixa
 tiwa
 qam tarə
-bɛθa d o
+bɛθa o d
 məre
-šlama llux
+llux šlama
 naša
 sawa
 wiðɛle
@@ -126586,7 +126586,7 @@ way
 b šɛna
 b šɛna
 məre
-ʾa šupra
+šupra ʾa
 hon šəmya
 bas diye
 lɛt
@@ -126595,7 +126595,7 @@ gozali
 məre
 ya naša
 sawa
-ɛka m
+m ɛka
 qəm yaðətli
 ʾati
 iwən ṱ
@@ -126604,7 +126604,7 @@ məre
 b alaha
 l bali
 məre
-ʾa parṣopa
+parṣopa ʾa
 diyux
 hatxa
 jwanqa
@@ -126616,12 +126616,12 @@ howən
 šmiya
 bas diyux
 liθ
-naša bəṛ
+bəṛ naša
 hatxa
-b pəṣla aw
+pəṣla b aw
 diyux
-hadəx m
-qəm yaðənnux
+m hadəx
+yaðənnux qəm
 məre
 he
 bena
@@ -126629,7 +126629,7 @@ modi
 bayət
 məre
 də hayyo
-ʾarxi puš
+puš ʾarxi
 ʾədlɛle
 lɛkɛt
 zala
@@ -126642,20 +126642,20 @@ rixtɛla
 ʾurxi
 raba
 rixtɛla
-ʾu ʾiθ
-muhəmma ða
+ʾiθ ʾu
+ða muhəmma
 qamθi
 garəg
 ʾoðənna
 jalde
 jalde
-malka bron sab
+bron malka sab
 hole
 b ṭali
 la ʾən
 ʾoðənna
 ʾa šula
-malka bron
+bron malka
 yaʿni
 azəl ṱ
 mayəθ
@@ -126670,8 +126670,8 @@ maṣiθ
 xa naša
 goṛɛwən
 wira
-b šənne
-ʾu ʾitli
+šənne b
+ʾitli ʾu
 xəbra
 gu dunye
 raba
@@ -126693,7 +126693,7 @@ məre
 ʾana
 l sawa
 šaqlən
-dars xa
+xa dars
 mənne
 diye
 šaqlən
@@ -126705,18 +126705,18 @@ xazən
 mo
 bṱ amərri
 modi
-əlli mnaṣəḥ
+mnaṣəḥ əlli
 ʾu xarθa
 azən ṱ
 ʾana
-kalən lɛ
+lɛ kalən
 laxxa
 məre
 ʾana
 b kalən
 qimɛle
 ṣəlya
-suse m xaṣ
+m suse xaṣ
 diye
 məre
 zen
@@ -126737,7 +126737,7 @@ bəlbəl
 hazar
 məre
 he
-malka bron
+bron malka
 b hole ṭali
 garəg
 mɛθənna
@@ -126751,11 +126751,11 @@ mnaṣḥənnux
 dax iwən ṱ
 mira
 ṭla kulla
-anna d
-zile ila ṱ
+d anna
+ila zile ṱ
 b ay
 ʾurxa
-amrənnux ʾu bṱ
+bṱ ʾu amrənnux
 ʾoðət ʾən
 xabri
 ʾoðət
@@ -126766,7 +126766,7 @@ yaʿni
 ʾana
 biz zoda
 m hodəx
-maṣən la
+la maṣən
 ʾoðənnux
 ču
 məndi
@@ -126776,13 +126776,13 @@ mur
 modi
 bayət
 məre
-sigən la
-kuṱ ile zila
+la sigən
+ile zila kuṱ
 b ʾurxa ay
 lɛle
 qliba
 məre
-azən har ṱ
+azən ṱ har
 mjurəble kəmət
 naša ʾaw
 sawa
@@ -126805,18 +126805,18 @@ he
 məre
 ʾana xzi
 paqðənnux
-diya m
+m diya
 ʾati
-azet bṱ
-ʾana ʾax
+bṱ azet
+ʾax ʾana
 paqðənnux
 ʾayyɛla
 ʾurxa
-azət bṱ
-dax it zala ṱ
-yoma zraq la
+bṱ azət
+dax zala it ṱ
+la yoma zraq
 hal azət ṱ
-yoma zraq la
+la yoma zraq
 azət ṱ
 tre ṭla
 qunaxe
@@ -126825,19 +126825,19 @@ yaʿni
 tre ṭla
 yomane
 xene
-awət bṱ
+bṱ awət
 maṭroye
 susa xaṣ
 yalla
 maṭət
-ṭla d ay dukθa
+ay ṭla d dukθa
 tama
 b xazət
 xa ṭura
 ramana
-qamθe ʾu
+ʾu qamθe
 diye
-xa čol
+čol xa
 xoranux ʾu
 ila ṱ
 qam mənnux
@@ -126851,86 +126851,86 @@ tama
 kulla
 piše
 kepa
-ʾana ʾu
+ʾu ʾana
 mirənney
 məri
 azət ṱ
 zɛnət
 gotə
-d o xaraya
+xaraya d o
 gəppa ʾu
 hole
 reš gu ṭura
 xazətle
-b reš ṭura
+reš b ṭura
 bəlbəl
 hazar
 hola
-gu d awwa
+awwa gu d
 gəppa
-naša bəṛ ʾu
+bəṛ ʾu naša
 le maṣe
 maṭe
 tama
-ila ṱ ma
+ma ila ṱ
 ramanta
 ʾay dukθa
-ʾu ile ṱ ma
+ile ma ʾu ṱ
 ʾisara
 m kulla
 goyaθa
-ʾu bəlbəl
+bəlbəl ʾu
 hazar
 xaya
 tama
-b xa ʾurxa
-ʾay t
+xa b ʾurxa
+t ʾay
 ʾay
 ʾitla
-amṣa y
+y amṣa
 xaya
 tama
-xa naša bəṛ
+xa bəṛ naša
 xena
 la ʾaməṣ
 xaye
 tama
 məre
-b zɛnət
+zɛnət b
 gotə
 an xoranux d
 xene
 b qarət ʾu
-ṱ amrət
+amrət ṱ
 ʾo
 bəlbəl
 hazar
 mara
 xɛrət
-b aqlət
+aqlət b
 susux
-pišla ʾən
+ʾən pišla
 kepa
-ži ʾati
+ʾati ži
 pɛšət
 kepa
-hal gaye ṭla
+hal ṭla gaye
 qarət
 qalət
 ṭḷaθa
 kullux
 pɛšət
 kepa
-ʾu ʾən
+ʾən ʾu
 θela
 bəlbəl
 hazar
 qəm xazyalux
 ʾati
 jwanqa
-bayalux yan
+yan bayalux
 baya
-ṱ aθya
+aθya ṱ
 qṭila
 xəyala
 diya
@@ -126940,12 +126940,12 @@ hole
 balki
 yaðalux
 ʾati
-it ṱ gozali
+gozali it ṱ
 məre
 balki
 ʾaθya
 fa mo
-ṱ oðət
+oðət ṱ
 šaqlətla
 susa xaṣ
 aθeti ʾu ṱ
@@ -126963,26 +126963,26 @@ qəm paqðətli
 basima
 raba
 məre
-dmox də
+də dmox
 ʾədyo
 laxxa
 ʾana
-ati w
+w ati
 xamləx
 hal mbadla
 mbadla
 xuš
-hot čiya
-b xabri wuð
+čiya hot
+b wuð xabri
 məre
 bar
 qəm amrətla
-xabrane ʾanna
+ʾanna xabrane
 ʾəlli
 qəm paqðətli
 hatxa
-ṱ oðən
-b xabrux
+oðən ṱ
+xabrux b
 qimɛle
 wiða
 b xabre
@@ -126999,7 +126999,7 @@ xanči
 tama
 hal mbadla
 jalde
-qam mxɛθət
+mxɛθət qam
 madənxa
 ʾɛka
 b kale
@@ -127007,9 +127007,9 @@ gozali
 qimɛle
 jalde
 madənxa
-la mxaya t
+t la mxaya
 məre
-sawunka ṭla
+ṭla sawunka
 qu
 qu
 qima
@@ -127017,9 +127017,9 @@ qima
 šoqənnux
 b šɛna
 ʾana
-azən bṱ
+bṱ azən
 məre
-har zalɛwət
+zalɛwət har
 məre
 he
 məre
@@ -127029,34 +127029,34 @@ mənnux
 də xuš
 šalla ʾən
 b qlabtux
-b xazənna
+xazənna b
 bəlbəl
 hazar
 mənnux
 məre
-b šɛna puš
-ʾu tiwɛle
-ga xa
+puš b šɛna
+tiwɛle ʾu
+xa ga
 xeta
-xaṣ suse
+suse xaṣ
 diye
-koma d o
+o d koma
 ʾu muttəlla
 ʾaqle
-gu rkewe
-ʾu siqɛle
+rkewe gu
+siqɛle ʾu
 gu d o
 sarga
 mturṣa
-l an jaqsiye
-mðita t
-an m rešaye
+an l jaqsiye
+t mðita
+m an rešaye
 raba
 spay
 hiwəlle ʾu
 bale
-yoma zraq la
-ʾu ṭəryɛle
+la yoma zraq
+ṭəryɛle ʾu
 zilɛle
 mo
 amrəx ṱ
@@ -127070,17 +127070,17 @@ qunaxət
 ṭḷaθa
 yomaθa
 ziləlla
-b xamša
+xamša b
 daqiqe
-ʾu məṭyɛle
-o qam d ṭura
+məṭyɛle ʾu
+o d ṭura qam
 məṭyɛle
-o qam d ṭura
+o d ṭura qam
 xirɛle
 mujbɛle
 muttɛle
 bala
-b an ʾaskarwaθa
+an b ʾaskarwaθa
 kulla
 ʾaskarwaθa
 piše
@@ -127088,7 +127088,7 @@ kepa
 ʾu kulla
 mčuk̭bənne
 yaʿni
-mən anna d
+mən d anna
 jundiye
 raba
 raba
@@ -127096,7 +127096,7 @@ rešaye
 susey
 raba
 taza
-ʾu ṣləmθey
+ṣləmθey ʾu
 naše
 gabbare
 naše ʾu
@@ -127104,7 +127104,7 @@ jwanqe
 ʾu kulla
 mčuk̭əbne
 ʾu sɛpey
-b gota w ay
+w b gota ay
 amrənnux ṱ
 muləxme
 yaʿni
@@ -127114,7 +127114,7 @@ spay
 məre
 ʾanna
 kullu
-ʾəθye hola
+hola ʾəθye
 nubləlla lɛla
 bəlbəl
 hazar
@@ -127125,25 +127125,25 @@ xačča
 ləbbe diye
 mxaya
 he
-b zdaya
+zdaya b
 xanči
 məre
 balki
 ʾap ʾana
 la
 nablənna
-maṣən le
+le maṣən
 nablənna
 bəlbəl
 hazar
 məre
-ʿala kullən
+kullən ʿala
 ʾana
 waʿdət
 malka
-xu la
+la xu
 tawrənne u
-qalbən xu la
+qalbən la xu
 ʾana
 lɛle ʾɛba
 ʾəlli
@@ -127151,52 +127151,52 @@ lɛle ʾɛba
 hawən
 gozali
 azən ʾu ṱ
-amrən ṱ
-malka ṭla
+ṱ amrən
+ṭla malka
 la mṣeli
 muθyali
 pɛšən xuš
 kepa
-biš la spay
+la spay biš
 mən kulla
-anna d
+d anna
 pɛšən xuš
 kepa
 ʾap ʾana
 qimɛle
 zina
-mən d o xaraya
+mən o d xaraya
 hole
 xzayəlle
-ʾo xaraya
+xaraya ʾo
 xaθa
 balki
-xa qam šabθɛle
+xa šabθɛle qam
 ʾəθya
 ʾanna
 xene
 kulla
 hola
 tiwta
-tos w ʾəlla
+w ʾəlla tos
 lawn
 mšuxləpla
 xanči
-zinɛle u
+u zinɛle
 mtuxmənɛle
 məre
-ya xaθi
+xaθi ya
 nozali
 qəm šoqənnəx
-ʾana wa
+wa ʾana
 xa gu
-iwən ḥarj
+ḥarj iwən
 diya
 lɛðən
-b xayən
-b dɛṛən ʾən
-xazənnəx t
-nozali bas
+xayən b
+ʾən b dɛṛən
+t xazənnəx
+bas nozali
 xaθe
 diye
 θaya
@@ -127208,35 +127208,35 @@ gu dunye
 lɛle
 txara
 lɛle
-b mawθe ham
+mawθe b ham
 diye
-lɛle ʾu
-b razi
+ʾu lɛle
+razi b
 diye
 hole
 mara
 mɛθən xuš
-bas xaθi
+xaθi bas
 nozali
 xazənwala
 dəryɛle
 xera
-b gane
-diye u
+gane b
+u diye
 hiwəlle
 bala
 l gəppa
-ḷaya d o
+o d ḷaya
 qəryɛle ʾu
 ʾo
 bəlbəl
 hazar
 xirɛle
-ču məndi liθ
+liθ ču məndi
 pliṭa
-gu gəppa m
+m gu gəppa
 xirɛle
-b aqlət
+aqlət b
 suse
 diye
 ʾina
@@ -127252,12 +127252,12 @@ məre
 məre
 ʾap ʾana
 b ʾurxa ay
-d annən
+annən d
 ʾəθya
 ʾayya ʾu
 tali
 diyila
-ʾu hiwɛle
+hiwɛle ʾu
 ləbba
 ṭla gʸane
 diye
@@ -127284,21 +127284,21 @@ har
 hole piša
 rešət
 susa
-ʾu m palgə
-d aw
-bar eli ʾu
+m ʾu palgə
+aw d
+eli bar ʾu
 bas
 ṣawθɛle ʾa
 mṣaya
 mṣawəθ
 məre ʾu
 bassi
-xaye m
+m xaye
 danɛla
 qarənna
 qalət
 ṭḷaθa
-ʾu aðe y
+y aðe ʾu
 maṣir
 diye
 modile
@@ -127307,15 +127307,15 @@ qəryɛle
 bəlbəl
 wiðɛle
 hazar
-ʾu piša
+piša ʾu
 kepa
 ʾap
 gozali
 pišle
 kepa
 hadiya
-mu oðəx ṱ
-axxa w m
+ṱ mu oðəx
+m w axxa
 hatxa
 hadiya
 mo
@@ -127335,7 +127335,7 @@ nozali
 gozali
 liθ
 məra
-malka ṭla
+ṭla malka
 malka
 awət ṱ
 basima
@@ -127345,9 +127345,9 @@ xoni
 zille
 la ʾu
 θele
-ʾu diya
+diya ʾu
 ʾana
-hon xšawa
+xšawa hon
 leš ʾaθe
 ʾay sab
 ʾurxa
@@ -127356,17 +127356,17 @@ raba
 naše
 zilela
 biya
-xa ap w
+w ap xa
 lɛle
-w diṛa
+diṛa w
 ʾəθya
 fa xoni
 zille
-ʾana ʾu
+ʾu ʾana
 garəg
 ʾazən
 bar xoni
-ʾurxa bar ʾu
+bar ʾu ʾurxa
 ile zila ṱ
 garəg
 ʾazana
@@ -127374,18 +127374,18 @@ ile ʾən
 miθa
 garəg
 mɛθən
-ʾu ʾaθe ʾən
+ʾən ʾu ʾaθe
 ʾaθyən
 mənne
-mɛθəxla ʾu ʾən
+ʾən mɛθəxla ʾu
 bəlbəl
 hazar
 ʾana
-ʾaw ʾu
+ʾu ʾaw
 mɛθəxla
 bəlbəl
 hazar
-la ʾu ʾən
+la ʾən ʾu
 ʾaxni
 traθnən
 zillan
@@ -127396,18 +127396,18 @@ mənni
 məra
 he
 mrazəgli
-susa xa
+xa susa
 xwara
 ʾaqlaθe
 diye
 kome
 xa ʾu
 kəxwa
-gu ʾɛne be
+ʾɛne be gu
 diye
 koma
 ʿaksa
-o d t xona
+t o xona d
 diya
 ʾay
 xwara
@@ -127421,22 +127421,22 @@ t bayət
 hazərile
 yoma
 ṭḷaθa
-məndi kul
+kul məndi
 mruzgɛle
 dax t wewa
 wiða
-ṭla gozali
-ʾu wiða
-nozali ṭla
+gozali ṭla
+wiða ʾu
+ṭla nozali
 hadiya
 qimtɛla
 qedamta
-u jalde
+jalde u
 muttotəlla
 ʾaqla
 diya
-gu rkewe
-dax wawa ʾu t
+rkewe gu
+dax t wawa ʾu
 hadəx
 xamθa
 mira
@@ -127453,8 +127453,8 @@ mabyənwa
 ʾu tiwtɛla
 susa xaṣ
 hiwtɛla ʾu
-bala diya
-yoma zraq la
+diya bala
+la yoma zraq
 ʾalaha ya ʾu
 ziltɛla ʾu
 zilta
@@ -127467,7 +127467,7 @@ zila
 har
 xɛlantɛwawa biš
 m aw
-ʾu biš
+biš ʾu
 bayawa
 xazyawa
 ʾɛkɛle
@@ -127475,12 +127475,12 @@ gozali
 biš
 ʾitwala
 ḥamas
-ṭla zala
+zala ṭla
 yaʿni
 xazyawa
 modi
 braya
-l ḥaṣəl wa
+wa l ḥaṣəl
 la marixəxla
 raba
 ṣəlyɛle
@@ -127499,7 +127499,7 @@ məre
 ha
 nozali
 lekɛwət
-b zala
+zala b
 ṭayət
 xonəx
 ʾaw
@@ -127517,10 +127517,10 @@ puqdana
 xonəx qa
 lɛle
 muṣiθəlli
-ʾap yawən t
+ʾap t yawən
 puqdana
-ži ṭlaləx
-ʾati ʾən
+ṭlaləx ži
+ʾən ʾati
 mašmət
 ʾəlli
 mašəmyati
@@ -127529,7 +127529,7 @@ mašəmyət
 sa
 mɛθɛle
 xonəx
-xza ʾu ʾɛkɛle
+ʾɛkɛle xza ʾu
 məra
 modile
 qəṣṣət
@@ -127541,25 +127541,25 @@ məre
 he
 məre
 ʾati
-hot šmita
-b bəlbəl
+šmita hot
+bəlbəl b
 hazar
-ʾu bəlbəl
+bəlbəl ʾu
 hazar
 yaðatla
 baxta ma
 xamθɛla
-ʾu ʾɛkɛla
+ʾɛkɛla ʾu
 ṣiθa
 xa gu ṭura
 xa gu gəppa
-ču ʾu
-naša bəṛ
-maṭe lla la
+ʾu ču
+bəṛ naša
+la lla maṭe
 ʾəlla
 b rzayət
-gana diya
-ṱ aθya
+diya gana
+aθya ṱ
 fa ʾati
 raba
 xonəx qam
@@ -127567,17 +127567,17 @@ zilela
 məṣye lɛla
 wiðe
 ču məndi
-ži ʾati ʾu
+ʾu ʾati ži
 hot mara
 bayən
 azən ṱ
 ʾana
-hon marəlləx
-sa la
+marəlləx hon
+la sa
 məra
 la
 ʾana
-azən har bṱ
+bṱ azən har
 ʾəlla
 xazyanne
 xoni
@@ -127589,28 +127589,28 @@ pqiða
 ṭla xonax
 qimɛle
 mirɛle
-məndi kul
+kul məndi
 məre
-azət ṱ ʾən
+ʾən azət ṱ
 tama
 xonəx
-ʾo xarayɛle
+xarayɛle ʾo
 tos ʾu
 tiwta lɛla
 ʾəlle diye
 xonəx ʾu
-iwən ṱ ʾax
+ʾax iwən ṱ
 xəzyəlle
 jwanqa
-dax iwət ṱ
+dax ṱ iwət
 ʾati
 hatxa
 mṣuqalta
 ʾap ʾaw
 daxwaθax ile
-fa yaðatle b
+b fa yaðatle
 xonəx
-ʾaw ile
+ile ʾaw
 ʾawwa
 haykal
 diye
@@ -127620,7 +127620,7 @@ piša
 qayəmθa
 xwara
 talgɛle ʾax
-xəlyɛle ʾax
+ʾax xəlyɛle
 rumxe ʾu
 diye
 hatxɛle
@@ -127629,27 +127629,27 @@ diye
 suse ʾu
 diye
 komɛle
-ʾo ʾu t
-gu ʾɛne be
+t ʾo ʾu
+ʾɛne be gu
 xwarɛle
-məndi ʾu kul
+ʾu kul məndi
 ʾawṣaf
 hiwəlla
 məre
-b zɛnət
+zɛnət b
 b gote
 diye
 b ʾu qaryət
 bəlbəl
 hazar
-θela ʾən
+ʾən θela
 bəlbəl
 hazar
 θela
-la θela ʾən
+la ʾən θela
 ʾati
 xonəx ʾu
-zawgɛtu ʾax
+ʾax zawgɛtu
 hatxa
 məra
 ʾana
@@ -127662,12 +127662,12 @@ məra
 he
 məre
 ʾana
-awən bṱ
+bṱ awən
 mənnəx
-puš də
+də puš
 laxxa
-gu d šwiθa ay
-dmixa t wewa
+gu šwiθa d ay
+t dmixa wewa
 xonəx
 hal
 qedamta
@@ -127677,18 +127677,18 @@ diye
 məre
 ʾaxxɛwa
 dmixa
-gu d šwiθa ay
+gu šwiθa d ay
 xonəx
 qimɛle
 dəryɛle
 baṭaniye ʾan
 xoθa diya
-dmixa t wewa
+t dmixa wewa
 gozali
 reša
-ži ʾu ʾay
+ʾay ʾu ži
 qð̣iθəlle
-lɛla ʾo
+ʾo lɛla
 diya
 tama
 ʾu har
@@ -127696,18 +127696,18 @@ dax xona
 diya
 qimtɛla
 madənxa
-la t
+t la
 mxaya
 jalde
 malyoze
-heš biš
-qam xona
+biš heš
+xona qam
 diya
 qimtɛla
 mirtɛla
-naša ṭla d aw
+ṭla d aw naša
 sawa
-b šɛna puš
+puš b šɛna
 məre
 ʾalaha
 awe ṱ
@@ -127715,7 +127715,7 @@ mənnəx
 sa
 šalla ʾən
 xer
-ʾurxa hawya
+hawya ʾurxa
 ṭriθɛla ʾu
 ziltɛla
 b o susa
@@ -127724,20 +127724,20 @@ susa ʾo
 diya
 xwara
 ʿakəs
-o d t xona
+t o xona d
 diya
 koma
-ziltɛla w
+w ziltɛla
 w zilta
 zilta
 ṭriθa
 quwya
 hal ʾu
 danə d a
-ila mṭiθa ṱ
+ila ṱ mṭiθa
 xziθɛla
 ṭura
-rəḥqa m
+m rəḥqa
 məra
 ʾawwɛle
 mabyone
@@ -127759,9 +127759,9 @@ w zvirta
 bxiθa
 zvirta
 bxiθa
-nšiqtəlle ʾu
+ʾu nšiqtəlle
 gaye ʾəsri
-b ʾɛne
+ʾɛne b
 diye
 lote ʾu
 diye
@@ -127780,7 +127780,7 @@ kepa
 ʾayya
 xarɛθɛla
 bxiθɛla
-zinta ʾu
+ʾu zinta
 gote
 diye
 zinta
@@ -127790,10 +127790,10 @@ xirtɛla
 hole
 gəppa
 ramana
-ʾu hadiya
+hadiya ʾu
 b qarya
 məra
-nəmu ʾanna
+ʾanna nəmu
 ʾanna
 la biš
 ṭawe
@@ -127806,13 +127806,13 @@ diye
 t dawa
 hatxa
 mazloqe
-har piša
+piša har
 kepa
 har
-dawɛle t
+t dawɛle
 məra
 b qaryən
-heš ʾu biš
+ʾu biš heš
 zawda
 kliθɛla
 šwiqtəlle
@@ -127828,15 +127828,15 @@ bəlbəl
 hazar
 qamaye
 xirta
-b aqlət
+aqlət b
 susa
 diya
 xirra la
 gu gəppa
 xirra
-b aqlət
+aqlət b
 susa
-wiya liθ
+liθ wiya
 ču məndi
 məra
 mirɛle
@@ -127851,15 +127851,15 @@ hal bərkakət
 susa
 hadiya
 susi
-saxlam ile
+ile saxlam
 ču məndi
-be liθ
+liθ be
 ʾa
 modila
 mujabtɛla
 yaʿni ʾu
 šġišɛle
-diya hawna
+hawna diya
 lɛla
 ðaʾa
 modi
@@ -127868,7 +127868,7 @@ hadiya
 pɛša
 kepa
 ʾən
-pɛša la
+la pɛša
 kepa
 qala
 qamaya
@@ -127886,7 +127886,7 @@ qriθɛla
 bəlbəl
 hazar
 xirtɛla
-b aqlət
+aqlət b
 susa
 ču məndi
 liθ
@@ -127894,7 +127894,7 @@ liθ
 ču məndi
 xyarɛla ʾu
 gu gəppa
-ʾu liθ
+liθ ʾu
 ʾap bəlbəl
 hazar
 lɛla
@@ -127907,11 +127907,11 @@ lɛla
 susa
 pyaša lɛla
 kepa
-ʾa qəṣṣət
+qəṣṣət ʾa
 modila
 məra
 ʾitli
-qala xa
+xa qala
 xena
 mirəlli
 sawa ʾo
@@ -127927,7 +127927,7 @@ yan
 pɛšət
 kepa
 yan
-ṱ aθya
+aθya ṱ
 bəlbəl
 hazar
 bena
@@ -127939,23 +127939,23 @@ hola
 mara
 ʾana
 qaryanne
-qalət ʾo
+ʾo qalət
 ṭḷaθa
 balki
 kulli
-b xa gaya
+xa b gaya
 pɛšən
 kepa
 ʾay
 hatxɛla
 xšawa
-lɛla ʾay
+ʾay lɛla
 mhaymone
 ʾayya
-mara hola
-garəg har
+hola mara
+har garəg
 pɛšən
-got xoni
+xoni got
 ʾawwa
 xoni
 piša
@@ -127966,7 +127966,7 @@ pɛšən
 hadəx ʾay
 biš baya
 la baya
-ṱ aθya
+aθya ṱ
 bəlbəl
 hazar
 məra
@@ -127980,7 +127980,7 @@ qriθɛla
 ho
 bəlbəl
 hazar
-ʾu bəlbəl
+bəlbəl ʾu
 hazar
 prixtɛla
 m tama
@@ -127990,14 +127990,14 @@ pišəlla
 xakma
 gulpane
 dax
-an d ṭɛra t
+an t d ṭɛra
 zvirtɛla ʾu
-o reš d ṭura
-reš gəppa d o
-čarxa xa
+reš o d ṭura
+reš o gəppa d
+xa čarxa
 hatxa
-ʾu ṣliθɛla
-xtaya reša
+ṣliθɛla ʾu
+reša xtaya
 trup
 tiwta
 baθər
@@ -128005,7 +128005,7 @@ nozali
 susa xaṣ
 diya
 susa
-xwara d o
+o d xwara
 ʾay hiwtəlle
 bala
 l baθra
@@ -128021,7 +128021,7 @@ he
 məra
 le y
 ʾamrətli
-mo qa
+qa mo
 θeləx
 ʾanna
 ʾanna
@@ -128030,14 +128030,14 @@ mo qa
 jwanqe
 ʾanna
 naše
-ʾəθye kulla
+kulla ʾəθye
 ṭlabəlləx
 lɛt
-wita razi
+razi wita
 b kulla
 diyey
 ʾana
-xa baxta
+baxta xa
 diyəx ʾax
 dax it
 θaya
@@ -128050,60 +128050,60 @@ dax it
 məra
 ʾana
 amranna ṱ
-sərr diyi
+diyi sərr
 ṭlaləx
-hič ʾu
+ʾu hič
 xa naša
 le yaðewala
 məra
 modila
-sərr diyəx
+diyəx sərr
 məra
 ʾana
 yaðanna
-diyax qəṣṣət
-xonəx ʾu t
-malka ʾu t
-malka bron ʾu t
+qəṣṣət diyax
+t xonəx ʾu
+t malka ʾu
+t malka bron ʾu
 yaðanna
 qəṣṣətey
-ʾana ʾu
+ʾu ʾana
 miθɛwən
 yaʿni
 mumɛθɛwən
-b ʾalaha
+ʾalaha b
 mumɛθɛwən
 kəmət
 ʾurzət
 dunye
 ʾaθa
 baθri
-azana le y
-hič ṭla ʾurza
-bas ʾən
+le y azana
+ṭla ʾurza hič
+ʾən bas
 ʾaθya
-xa baxta
+baxta xa
 nablali
-kut baya qa
+qa kut baya
 yan xona qa
 diya
 ʾana
-azana bṱ
+bṱ azana
 məra
 ʾawwɛle
 diyi qawla
-ati w
+w ati
 θeləx
-ʾa qamɛθa
+qamɛθa ʾa
 baxta
 θeləx
 yaðanne ʾu
 xonəx
 hole gotəx
 məra
-ʾana zen
+zen ʾana
 nabolləx hon
-ṭla bron
+bron ṭla
 malka
 məra
 ʾana
@@ -128122,15 +128122,15 @@ mənnəx
 ʾawwa
 xoni
 ʾoðatle
-ga xa
+xa ga
 xeta
 madəṛatle
 nəšma
 diye
 madəṛatle
-payəš t
+t payəš
 naša
-nablanne t qa
+t nablanne qa
 ʾap aw
 xena
 tama
@@ -128148,14 +128148,14 @@ xazəx
 ʾahwaləttət
 malka
 mo
-ṱ amərrən
+amərrən ṱ
 malka
 ʾaxni
 xoθ tagbartət
 malkəx
-maṣəx la
+la maṣəx
 mən qawanin
-d aw
+aw d
 palṭəx
 məra
 ʾap ʾayya
@@ -128170,10 +128170,10 @@ xonəx
 madəṛanne
 ʾoðanne
 naša
-ga xa xeta
+xa ga xeta
 diyəx qa
 raba
-ʾɛbɛle lli
+lli ʾɛbɛle
 t qa
 kulla
 ʾanna jwanqe
@@ -128185,12 +128185,12 @@ kulla
 madəṛanney
 madəṛanney
 ʾina
-ʾana w
-ati w
+w ʾana
+w ati
 xonəx
 ʾitlən
 ʿalaqa
-ʾaxni ġðaðe m
+m ʾaxni ġðaðe
 ṭḷaθa
 ʾanna
 xene
@@ -128199,15 +128199,15 @@ xa kut
 bɛθa
 diye
 məra
-ʾoðətla ʾən
+ʾən ʾoðətla
 ʾayya
 raba
 ila spay
-kulla qa
-anna d
+qa kulla
+d anna
 naše
 marwaθey qa
-kulla qa
+qa kulla
 ʾalma
 b šame
 bəlbəl
@@ -128219,16 +128219,16 @@ məra
 yalla də
 modila
 wiðta
-xa har gaya
+xa gaya har
 mṣulɛθɛla
 ʾalaha w qa
 pšiṭla
-ʾiða diya
+diya ʾiða
 l šmayya
 məra
 ʾalaha ya
 hal roxa
-anna d qa
+qa d anna
 naše
 ila ṱ
 piše
@@ -128236,7 +128236,7 @@ kepa
 roxa
 hal ʾəlley
 t qa
-ga xa xeta
+xa ga xeta
 dɛṛi
 pɛši
 naše
@@ -128251,10 +128251,10 @@ goṛɛle
 qəm šamele
 qala
 diya
-dax mirtɛla t
+dax t mirtɛla
 roxa
 ʾawra
-gu anna d
+gu d anna
 kepe
 pɛši
 naše
@@ -128263,24 +128263,24 @@ naše
 qlibela
 piše
 naše
-ga xa xeta
+xa ga xeta
 ʾiman
 ila piše ṱ
 naše
 xa kut ʾu
 ṣraxa
-b xena o
+b o xena
 mara ʾo
 ʾanən
 muθyəlla
 bəlbəl
 hazar
 ʾani
-xzalla hola
+hola xzalla
 bəlbəl
 hazar
 hola
-kuṱ ile
+ile kuṱ
 mara
 ʾanən
 muθyəlla
@@ -128289,8 +128289,8 @@ hazar
 ʾay
 modi
 widla
-qəm marmala
-ʾiða diya
+marmala qəm
+diya ʾiða
 rəš kulley
 məra
 ʾap xa
@@ -128344,46 +128344,46 @@ bɛθa
 bas ʾaxtu
 kullɛxu
 čidetu
-bɛθət ʾəl
+ʾəl bɛθət
 malka
 ila ṱ
 gozali
 nozali ʾu
-gu diye bɛθ
-ṱ ʾu azəx
+gu bɛθ diye
+azəx ʾu ṱ
 maṣyəxəx
-bron m diye
+m bron diye
 ʾu brone
 diye
 šoqəxle
 basəm
-ʾu gozali
+gozali ʾu
 nozali ʾu
 tama
 mqarərəx
-awe mo bṱ
+bṱ awe mo
 maṣir
 diyey
-ʾan xene
+xene ʾan
 kulla
 skite
-amri mo bṱ
-diya qarar
+bṱ amri mo
+qarar diya
 ʾawwɛle
 kulla
-lle šmila
+šmila lle
 məra
 kullɛxu
 baθrən
 baθrən
-ṱ azəx
+azəx ṱ
 l bɛθət
 malka
 ʾaskar ʾu
 gozali
 ʾu ay
 nozali
-b susa w xaṣ
+w b susa xaṣ
 bəlbəl
 hazar
 mənney
@@ -128400,7 +128400,7 @@ iwa ṱ
 malaxa
 qamθey
 malaxa ʾu
-ga xa
+xa ga
 xeta
 qəm mšadərre
 ʾalaha
@@ -128422,15 +128422,15 @@ anile d
 hadiya
 məre
 ha
-naša ʾo
+ʾo naša
 sawa
 θele
 traθna
 drela
 šlama
 ʾəlle
-qəm ʾu našqile
-gota m ay
+našqile qəm ʾu
+m gota ay
 l ayya
 məra
 ʾati
@@ -128457,21 +128457,21 @@ diyəxila
 awe ṱ
 mənnəx
 mən xonax ʾu
-ʾana ʾu
+ʾu ʾana
 xašwən
-ʾap bron malka
+ʾap malka bron
 b tarəṣ
 bas tama
 qəṣṣət
 diyəx
-xonəx ʾu t
+t xonəx ʾu
 pɛša
 maṭya
 l xarayuθa
 diya
 haqquθɛxu ʾu
-le talqa y
-ʾaxtu sab
+le y talqa
+sab ʾaxtu
 mən zoruθɛxu
 garəg
 pɛšitu
@@ -128500,7 +128500,7 @@ dwiqəlle
 ʾiðe
 diye
 zile ʾu
-l ḥaṣəl wa
+wa l ḥaṣəl
 məṭyɛla
 qurbət
 mðitət
@@ -128511,13 +128511,13 @@ ila ṱ
 xəzyəlley
 čol gu
 mašxode
-malka qa
+qa malka
 mara
 malka
 awət ṱ
 basima
 θela
-ʾaskar xa
+xa ʾaskar
 goṛta
 ʾəstəqbal
 diyux
@@ -128525,7 +128525,7 @@ yaʿni
 b xzayəllux
 θaya
 maṣyoxe
-bronux m
+m bronux
 mənnux
 wuð
 qunaxa
@@ -128544,7 +128544,7 @@ lla bale
 mḷiθa
 susawaθa
 ʾaskar ʾu
-θaya ʾu
+ʾu θaya
 qṣada
 l bɛθe
 diye
@@ -128561,10 +128561,10 @@ diye
 bena
 nozali
 qamɛθa
-ʾu bəlbəl
+bəlbəl ʾu
 hazar
 baθra
-ʾu gozali
+gozali ʾu
 baθra
 ʾaskar ʾu
 kulla
@@ -128584,15 +128584,15 @@ modila
 ʾana
 mšudrən
 guzali
-ʾati ʾu
+ʾu ʾati
 ʾanna
-modila ʾayya
+ʾayya modila
 məra
 ʾana
 la mṣən
 ʾamrənnux
 ču məndi
-amralux ṱ
+ṱ amralux
 bəlbəl
 hazar
 ʾati
@@ -128611,13 +128611,13 @@ ye
 bayən
 məra
 ʾayya
-amralux bṱ
-amralux mo bṱ
+bṱ amralux
+bṱ mo amralux
 bṱ awðət
-la ʾawðət ʾən
+la ʾən ʾawðət
 b talqət
 məra
-amṣa y
+y amṣa
 bəlbəl
 hazar
 b ʾamrət
@@ -128625,11 +128625,11 @@ b ʾamrət
 b talqalux
 məra
 ʾay
-mirtəlli hatxa
-amrannux ṱ
+hatxa mirtəlli
+ṱ amrannux
 mbaqər
 b ganux
-amralux ṱ
+ṱ amralux
 qlibɛle
 malka
 ʾəθya
@@ -128646,7 +128646,7 @@ bas
 ʾana
 b ṭlabɛwən
 mənnəx
-yawət t
+t yawət
 xa daṛmana
 broni qa
 broni
@@ -128661,7 +128661,7 @@ modila
 ʾayya
 qəṣṣətta
 ʾayya
-lɛn pṛaməlla
+pṛaməlla lɛn
 ʾayya
 qəṣṣətta
 kulla
@@ -128673,11 +128673,11 @@ yaðət
 modila
 ʾana
 mirtɛwən
-y le ʾaθyən
+le y ʾaθyən
 b xabrət
-ču ʾurza
+ʾurza ču
 ʾəlla
-ṱ aθya
+aθya ṱ
 baxta
 maθyali
 məra
@@ -128690,10 +128690,10 @@ ila ʾəθye ṱ
 jwanqe
 lɛn
 θiθa
-y le ʾu ʾaθyən
+le y ʾu ʾaθyən
 hatta
 gozali
-b gane
+gane b
 mšudrətle
 lɛn
 θiθa
@@ -128709,12 +128709,12 @@ azanwa ṱ
 məra
 θela
 nozali
-θiθa hon
+hon θiθa
 b xabrət
 nozali
-ana w
-mirta hon
-nozali ṭla
+w ana
+hon mirta
+ṭla nozali
 ʾana
 lɛ gawrən
 ʾəlla
@@ -128722,39 +128722,39 @@ xona
 diya
 gozali
 ʾina
-ʾati ʾən
+ʾən ʾati
 mwafqət
-goranne t qa
+t goranne qa
 gozali
 bronux
 b tarəṣ
 b qayəm ʾu
 ʾina
 nozali
-ʾu gozali
-awi bṱ
-bronux geb m
-gu d awwa
+gozali ʾu
+bṱ awi
+m geb bronux
+awwa gu d
 bɛθux
 la ʾu
 ʾamrətla
 ču məndi
-qɛmət la ʾu
+la qɛmət ʾu
 ʾəlley
-gu d awwa
+awwa gu d
 bɛθux
-ṱ awa
+awa ṱ
 ʾani ʾu
 pɛši
 malke
 mən ʾədyo
 malkuθa
-bnonux m
+m bnonux
 qaṭa
 payəš
 gozali
 malka
-ʾu bəlbəl
+bəlbəl ʾu
 hazar
 baxte
 diye
@@ -128776,17 +128776,17 @@ he
 w xena
 pišɛle
 xo ʾamr
-al waqəʿ
-awəð mo ṱ
-leš ile
+waqəʿ al
+mo awəð ṱ
+ile leš
 məṣya
 qimɛle ʾu
 məre
-broni bas
+bas broni
 tarəṣ
 ku mdit
 bayati
-oðəx ṱ
+ṱ oðəx
 hadəx
 məra
 ʾa
@@ -128798,16 +128798,16 @@ b xabrət
 b talqeti
 qimɛle
 məð̣ya
-ʾu wiða
+wiða ʾu
 tawqiʿ
 ʾu kul
 məndi
 t qa
 ʾayya
 dare leš
-bas diya
+diya bas
 litle ʾu
-šula w
+w šula
 ʾanna
 pɛši
 bnone ʾax
@@ -128818,7 +128818,7 @@ diye
 tarəṣ
 bron diye
 triṣɛle
-ʾu pištɛla
+pištɛla ʾu
 bena
 ṭḷaθa
 yomaθa
@@ -128826,16 +128826,16 @@ xlula
 mbaroxəlla
 bəlbəl
 hazar
-l gozali
-xa šadlaxana ʾu
+gozali l
+xa ʾu šadlaxana
 goṛta
 mirɛwa
 xətni
 warda
 briθɛla ʾu
-zmarta w
-w lelyana
-ʾu rawe u
+w zmarta
+lelyana w
+rawe u ʾu
 bandət
 muḥammad
 ʿarəf
@@ -128858,20 +128858,20 @@ warda
 ʾana
 šwiqali
 tama
-ʾu θeli laxxa
+θeli ʾu laxxa
 ʾap ʾana
 daqrən
-dewa ʾax
+ʾax dewa
 k̭ora
 ʾawwa
 modi
 qəṣṣət
-šavana xa
+xa šavana
 ʾərwe qam
 raya
-azəlwa y
+y azəlwa
 ʾərwe qam
-kut yum
+yum kut
 xa
 ʾərbe diye
 ṭaləqwa
@@ -128889,7 +128889,7 @@ xa dukθa
 xa gu gara
 muttule
 raqaba
-an d ʾərwe
+an ʾərwe d
 diye
 xzele
 xa ʾərba
@@ -128901,7 +128901,7 @@ l ṭura
 baθre
 ʾasəq
 ʾasəq
-ʾaw ʾərba
+ʾərba ʾaw
 wirre
 xa gu gəppa
 ʾiθwa
@@ -128910,13 +128910,13 @@ k̭ora
 tama
 k̭ora
 dmixa
-qam d o dewa
+o d dewa qam
 ʾo dewa
 pišle
 xala
-mən ʾərba d o
+mən o ʾərba d
 qəm axəlle
-ʾaw ʾəθyɛle
+ʾəθyɛle ʾaw
 wirɛle
 xəzya
 ʾo dewa
@@ -128925,7 +128925,7 @@ xala
 diye
 baye
 qaṭəlwale
-ga xa
+xa ga
 xeta
 klele
 məre
@@ -128940,20 +128940,20 @@ lɛle
 gu ʾərbi
 ʾawwa
 ʾərbi
-gane m
+m gane
 diye
 θele
 riqle
 l ṭura
 dmixle
-qam d awwa
+awwa d qam
 dewa
 hole
 xaləlle
 klele
 mtuxmənne
 məre
-ya marya
+marya ya
 ʾalaha
 məre
 ʾo dewa
@@ -128975,7 +128975,7 @@ damxən
 bɛθa
 ʾati
 majbur
-yatli t
+t yatli
 rəsqi
 ṣlele
 l bɛθa
@@ -128990,7 +128990,7 @@ məre
 hola
 gu ṭura
 bayət
-mkapəšla sɛ
+sɛ mkapəšla
 ʾiθwa
 xa kawe
 l gare
@@ -129006,7 +129006,7 @@ siqta
 muθɛθəlla
 ʾərwe
 diye
-xa yoma w
+xa w yoma
 tre u
 ṭḷaθa
 hole har
@@ -129023,13 +129023,13 @@ mo
 mara
 ʾap ʾana
 daqrən
-dewa ʾax
-d o k̭ora
+ʾax dewa
+k̭ora d o
 xa yoma
 mbuqərra
 məra
 modi
-ayya m
+m ayya
 qəṣṣət
 diye
 ʾo dewa
@@ -129040,18 +129040,18 @@ xa ʾo dewa
 k̭ora
 dmixa
 gu ṭura
-kut yum
-ʾərwən xa
+yum kut
+xa ʾərwən
 y arəqwa
-asəq y
+y asəq
 qam
-d o dewa
+o d dewa
 ʾaw
-axəlwale y
+y axəlwale
 məre
 ʾap ʾana
 daqrən
-dewa d o ʾax
+o ʾax d dewa
 k̭ora
 hat
 ʾalaha
@@ -129064,18 +129064,18 @@ awən ṱ
 dmixa
 ʾayya
 baxta
-mṣela la
+la mṣela
 mxumɛla
 ʾərwe
 ʾərwe
-qəm zabnala
+zabnala qəm
 pišla
 faqire
-kut yum
+yum kut
 ʾazawa
 l ṭura
 maθyawa
-ða kɛrta
+kɛrta ða
 qɛsa
 l xaṣa
 diya
@@ -129083,39 +129083,39 @@ zabnawa ʾu
 šaqla
 xa ləxma
 palga
-gawṛa ṭla
+ṭla gawṛa
 palga
 ṭla d ay
-axliwa y
+y axliwa
 xa yoma
 siqla
 l ṭura
 ṣlela
 ʾaqla
 diya
-xa gu čale
+čale xa gu
 šaqlala
 ʾaqla
 ʾina
-xa qadalta
+qadalta xa
 dawe
 tfiqla
 dawe
-ʾaqla xo
+xo ʾaqla
 diya
 məra
 b alaha
 hole
 hiwəlle
 rəsqa
-d awwa
+awwa d
 gawṛa
 t wewa
 mara
 ʾana
 daqrən
-dewa ʾax
-d o k̭ora
+ʾax dewa
+k̭ora d o
 šqiltɛla
 mən dawe
 ṣliθɛla
@@ -129156,7 +129156,7 @@ lɛle
 rəsqi
 qimta
 zilta
-šwawey d aw kəs
+šwawey kəs aw d
 məra
 šwawa
 məra
@@ -129187,9 +129187,9 @@ palga
 ṭlalux
 qimela
 siqe
-rəš ɛ d
+d rəš ɛ
 dukθa
-naša ʾo
+ʾo naša
 xzele
 ʾanna
 dawe
@@ -129199,12 +129199,12 @@ qayəm
 dawəqla
 ʾaqlət
 ʾiðə
-d baxta ay
+baxta d ay
 ʾasəṛṛa
 rapela
 l ʾara
 šaqəl
-ʾan dawe
+dawe ʾan
 maṣlela
 l bɛθa
 ṣlele
@@ -129221,8 +129221,8 @@ diye
 xmarta
 ʾanna
 dawe
-ʾan dəbborela
-kla də
+dəbborela ʾan
+də kla
 maxzənne
 gawṛəx
 asqən ṱ
@@ -129238,7 +129238,7 @@ diye
 tama
 ʾawwa
 dmixa
-gu d aw
+gu aw d
 ʾotəx
 ʾani
 b nɛsile
@@ -129252,20 +129252,20 @@ l gare
 mutta
 qadalta
 ʾo ʾamana
-rəš d ayya
+ayya rəš d
 kawe
 npiṣəlla
 ku
 ile ṱ
 ṣlaya
-qarše xo
+xo qarše
 ʾəltəx
 pyaša
 dawa
 ṣlaya
 npala
 ʾarɛle
-ʾo ile ṱ
+ile ʾo ṱ
 pyaša
 ʾuḷḷuḷ
 ʾaw
@@ -129275,7 +129275,7 @@ zala ʾu
 xarθa
 qimɛle
 siqa
-ʾa baxta
+baxta ʾa
 šəryəlla
 ʾaqlaθa
 diya
@@ -129293,7 +129293,7 @@ dawa
 ʾati
 qəm asṛətla
 ʾaqli
-iθaθi w
+w iθaθi
 mrapətli
 laxxa
 məre
@@ -129304,17 +129304,17 @@ ila zabbun
 məre
 ʾana
 məri
-la t
+t la
 ʾati
 ṣalyət
-ṱ amrət
+amrət ṱ
 ʾana
 xzeli
 dawe
-ʾu šwawa
-qəm šaqəlla w
+šwawa ʾu
+šaqəlla w qəm
 naše ʾu
-yaði t
+t yaði
 məndiyane
 maṭya ʾu
 l ḥukma
@@ -129322,7 +129322,7 @@ l ḥukma
 ʾanna
 dawe
 mənnən
-muṣəlya hon
+hon muṣəlya
 dawe
 muttəlla
 kəs gawṛəx
@@ -129332,8 +129332,8 @@ paləxla
 qimtɛla
 šəryəlla
 ʾaqle
-iðe w
-ṣəlya ʾu
+w iðe
+ʾu ṣəlya
 l bɛθɛle
 ṣəlya
 bɛθɛle
@@ -129352,23 +129352,23 @@ mara
 lawa
 dawe
 kulla
-dəbbore wawa
-npiṣəlla hon
+wawa dəbbore
+hon npiṣəlla
 ʾotaxə gu
 gawṛəx
 diya
 gawṛəx
 miθa
 ʾasqa
-paθxale t
+t paθxale
 tara
 ʾina
 gawṛa
 diya
 mpaloye
-an gu d dawe
+an dawe gu d
 liθ
-ʾan wawa t
+t wawa ʾan
 ṣəlye
 ʾəltəx
 kulla
@@ -129378,20 +129378,20 @@ ga ʾɛ
 ʾalaha
 qəm yawəlle
 rəsqə
-naša d o
+o d naša
 mara
 biš
 qəm madqərre
-mən d o
+mən o d
 dewa
-ṱ axəlwa
+axəlwa ṱ
 ʾərbe
 diye
-xa bena
-ða baxta
-yalta ða
-wawa zala
-gu ḥadayəq
+bena xa
+baxta ða
+ða yalta
+zala wawa
+ḥadayəq gu
 qəm xazyale
 xa nəmra
 xwiša
@@ -129400,24 +129400,24 @@ gu rakka
 ləbba
 ʾəlle
 diye
-qəm paθxale
+paθxale qəm
 tara
 pliṭle
 qimle
-axəlla ṱ ta
+ta axəlla ṱ
 məra
 ʾəlle
 diye
-mot ta
+ta mot
 xaləlli
 ʾana
 widli
 spayuθa
 mənnux
-mo ta
+ta mo
 ṱ axlətli
 məre
-naša bəṛ
+bəṛ naša
 xayən ile
 məre
 kəmət
@@ -129428,32 +129428,32 @@ har
 bena
 xaraye
 mxayəlle
-l mare
+mare l
 diye
 məre
 mbaqər
 ʾəθyɛle
-susa xa
+xa susa
 məre
 diya ʾəlla
 ʾawwa
 ḥakəm
 beni
 benəx ʾu
-qəm mbaqrale
+mbaqrale qəm
 məra
 dus
-naša bəṛ
+bəṛ naša
 xayən
-awe y
-awəð ṱ ma
+y awe
+ma awəð ṱ
 spayuθa
 mənne
-awəð har y
+y awəð har
 xayənuθa
 məre
 he
-awəð y
+y awəð
 xayənuθa
 məra
 dax
@@ -129472,10 +129472,10 @@ gəldi
 y awədle
 čeroxe
 lawəšla
-aqle p
+p aqle
 kut
 θele
-mdi xa
+xa mdi
 məre
 qəm xazyale
 xa tela
@@ -129495,11 +129495,11 @@ məra
 gu rakka
 wewa
 ʾana
-qəm mpalṭanne
+mpalṭanne qəm
 diya
 hole
 mara
-naša bəṛ
+bəṛ naša
 xayən ile
 lazəm
 ʾaxlənne
@@ -129507,7 +129507,7 @@ məre
 lɛn
 mp̣aṛmoye
 hayyo
-ṱ azəx
+azəx ṱ
 xazəx
 ʾɛka wewa
 zile
@@ -129518,33 +129518,33 @@ məre
 diye
 ʾɛkətwa
 ʾati
-gu d awwa
+awwa gu d
 rakkənwa
 məre
-wurena də
+də wurena
 xazəx
-maṭo itwa ṱ
+itwa maṭo ṱ
 wira
-maṭo itwa ṱ
+itwa maṭo ṱ
 pšiṭa
-gu d awwa
+awwa gu d
 ʾaw
 wirɛle
-ʾaw ʾu
+ʾu ʾaw
 xliqɛle
 tara
 məre
-sa də
+də sa
 ʾaw
 qəm xaləṣla
 zilla
-maθya t ta
+t ta maθya
 kθɛθa
-ṭla d aw
+ṭla aw d
 zilla
 bena
 məra
-baba ta
+ta baba
 diya
 hatxɛla
 qaẓiya
@@ -129552,14 +129552,14 @@ hatxa
 widli
 hon
 mquwalta
-xa tela m
+m xa tela
 qəm xaləṣli
-nəmra m
+m nəmra
 maṭo
-yawanne t
+t yawanne
 tela
 kθɛθa
-tela ta
+ta tela
 məre
 hayyo
 ʾana
@@ -129569,7 +129569,7 @@ hiwəlla
 kθɛθa
 ṭla d ay
 ʾay
-qəm yawala
+yawala qəm
 ṭla baba
 diya
 ʾu zilɛle
@@ -129588,10 +129588,10 @@ darela
 kθɛθa
 ṭlali
 məre
-zdila də
+də zdila
 məre
 la
-zadənna la
+la zadənna
 ʾəlla
 mattənna
 gu pummux
@@ -129601,24 +129601,24 @@ mhayəmnən
 ʾana
 ʾayya
 spayuθa
-it wiðəlli ṱ
+wiðəlli it ṱ
 məṭyɛle
 qurbe
 diye
 mattoyəlla
 kθɛθa
-gu pumme
+pumme gu
 ʾu qɛsa
 məxyɛle
 gu reše
 hatxa
-naša bəṛ
+bəṛ naša
 xayən ile
 ʾiθwa
 xa
 family
 baba
-ʾu brona
+brona ʾu
 baxtət ʾu
 brona
 ʾo baba
@@ -129631,7 +129631,7 @@ diye
 sqidla
 mənne
 məra
-gawṛa ṭla
+ṭla gawṛa
 diya
 šqulle qu
 ʾawwa
@@ -129643,18 +129643,18 @@ gu lawurtə
 bassən
 mənne
 ʾanna
-ʾəmma šənne
+šənne ʾəmma
 hole
 xiya
 bassən
 mənne
-nabəlle yan
+yan nabəlle
 zdile
-ʾana yan
+yan ʾana
 palṭən
 ʾazən
 bɛθa mən gu
-ži yala
+yala ži
 məre
 spay
 baxta
@@ -129679,13 +129679,13 @@ hodəx
 babe
 diye
 xkikle
-xaṣət m
+m xaṣət
 brone
 xkikle
 ʾamər
 ha
 babi
-modit qa
+qa modit
 xkaka
 ʾamər
 babe
@@ -129694,28 +129694,28 @@ xkaka
 ʾamər
 lan
 wiða
-babi m
-ʾana ʾən
+m babi
+ʾən ʾana
 hawənwa
 wiða
-babi m
+m babi
 ʾup ʾati
-oðətwa ṱ
+ṱ oðətwa
 mənni
 ʾina
 marɛle
-b kɛla o
+kɛla b o
 pɛšət
 kila
-b d aw
+b aw d
 pɛšət
 kila
 brona
 klele
 mtuxmənne
 xirre
-geba a m
-geba a m
+m a geba
+m a geba
 diṛṛe
 mudəṛṛe
 babe
@@ -129727,8 +129727,8 @@ muttule
 gu bɛθe
 qrele
 baxta
-amər y
-ya baxta
+y amər
+baxta ya
 ʾawwa
 xa tara
 ʾawwa
@@ -129738,14 +129738,14 @@ tre
 panjara
 ʾayya
 tərte
-b mənna ku
+b ku mənna
 bayət
 palṭət
 pluṭ
 ʾana
 babi
-axxa m
-mpalṭənne la
+m axxa
+la mpalṭənne
 ʾiθwa
 tre
 xawrane
@@ -129765,51 +129765,51 @@ qəm mawər
 txune
 diye
 gu ʾərxe
-ʾu ṭxana wewa
-xa bena
+wewa ṭxana ʾu
+bena xa
 xirre
 hatxa
 ʾina
 θela
-dəbba ða
+ða dəbba
 θela
 tiwla
-qam tarət
+tarət qam
 ʾərxe
 xirre
 məre
-b ʾe alaha
-dəbba ʾɛ
+b alaha ʾe
+ʾɛ dəbba
 θela
 tiwla
 dax
 palṭən
 ʾana
-har pišɛle
+pišɛle har
 gu ʾərxe
 bar xačča
 xena
 mara
 ʾəθyɛle
 xa tela
-šlama lləx
+lləx šlama
 xaθi
 dəbba
 məra
 b šɛna
 xoni
 tela
-ʾat it dax
+dax ʾat it
 məre
 hawət
 basimta
-spay in
+in spay
 xaθi
 dəbba
 ʾat
 dax it
 məre
-spay in
+in spay
 basima
 mot
 waða
@@ -129833,7 +129833,7 @@ xa kalba
 ʾap aw
 šlama
 llɛxu
-b šɛna w
+w b šɛna
 ṭawaθa
 ʾap ʾaw
 tiwɛle
@@ -129845,14 +129845,14 @@ ziltɛla
 ʾap ay
 šlama
 llɛxu
-b šɛna w
+w b šɛna
 ṭawaθa
 ʾap ay
 tiwtɛla
 tiwe
 xačča
 xena
-xa bena
+bena xa
 ʾəθyɛle
 xa ʾaqubra
 susa xaṣ
@@ -129860,8 +129860,8 @@ maṭroye
 lwiša ʾu
 jullət
 xumala
-maṭroye ʾu
-xaṣ suse
+ʾu maṭroye
+suse xaṣ
 diye
 pyaða
 tama
@@ -129873,7 +129873,7 @@ xirɛle
 šlama
 llɛxu
 məra
-b šɛna w
+w b šɛna
 ṭawaθa
 ha
 xona
@@ -129886,7 +129886,7 @@ xlula
 məra
 lɛka
 hatxa
-it w ṱ mxumla
+w it mxumla ṱ
 sɛpux
 gugiye ʾu
 b jullux
@@ -129894,7 +129894,7 @@ məre
 zala hon
 xlula
 bas madam
-ṱ itu
+itu ṱ
 tiwe
 atwən ṱ
 ʾaxxa
@@ -129906,7 +129906,7 @@ xlula
 tiwɛle
 tama
 mara
-xa bena
+bena xa
 hadəx
 ʾani
 tiwe
@@ -129918,7 +129918,7 @@ lɛle
 l zmarta
 xa məndi
 maxməllɛni
-tiwe hox
+hox tiwe
 ʾaxxa
 qaṭu
 məra
@@ -129931,9 +129931,9 @@ zamrən
 zmirra
 qaṭu
 zmirra
-ʾu qimla
+qimla ʾu
 ʾanna
-har rqaða
+rqaða har
 ʾaqubra
 grišle
 sɛpe
@@ -129942,7 +129942,7 @@ be palgət
 diwənile
 rqaðɛla
 pišla ʾu
-ṱ amrət
+amrət ṱ
 xlulɛle
 tama
 munixla
@@ -129958,7 +129958,7 @@ xaθi
 qaṭu
 ʾanna
 zmaryaθəx
-ɛkət m
+m ɛkət
 liptəlla
 hatxa
 basime
@@ -129967,7 +129967,7 @@ xaθi
 dəbba
 šawwa
 šənne
-wənwa tarjəmən
+tarjəmən wənwa
 wolto gu
 məra
 xaθi
@@ -129979,7 +129979,7 @@ xanči
 xena
 zmirtɛla
 qaṭu
-ga xa
+xa ga
 xeta
 qime ʾu
 rqaðɛla
@@ -129987,12 +129987,12 @@ priqela
 məra ʾu
 ʾanna
 zmaryaθa
-ɛkət m
+m ɛkət
 liptəlla
-basimela biš
+biš basimela
 m anaha
 ʾana
-gu in halmun
+in halmun gu
 liptəlla
 ziltənwa
 tajəruθa
@@ -130010,33 +130010,33 @@ lwiša
 julle
 diye
 raba
-šapire wɛwa
+wɛwa šapire
 məra
 ʾanna
 jullux
 hatxa
 šapire
-ɛka m
+m ɛka
 xoni
 tela
 yaʿni
 raba
-mdi xa
+xa mdi
 prišɛla
 jullux
-gu anna d
+gu d anna
 diyɛni
 məre
 xaθi
 dəbba
-qəṣṣətila ʾay
+ʾay qəṣṣətila
 məra
 modi
 qəṣṣət
 tanilɛni
 məre
 la
-ʾaθya lɛ
+lɛ ʾaθya
 mtanoye
 xaf
 naše
@@ -130053,7 +130053,7 @@ xəzye
 xonawaθəx
 məre
 ʾana
-xa bena
+bena xa
 tfiqən
 xa kisa
 hatxa
@@ -130061,21 +130061,21 @@ hatxa
 dawa
 ʾu zilɛn
 xpirɛn
-ða xo
+xo ða
 ʾilana
 mṭušyənne
 w tama
-kut bena ʾu
+bena kut ʾu
 šaqlənni
-xa dawa
+dawa xa
 mənne
 diye
 damxən ʾu
-d a xo
+xo d a
 ʾilana
-rəš d o dawa
+dawa o rəš d
 diyi
-la t ʾaθe ta
+t ta ʾaθe la
 xa šaqəlle
 nanno
 hole
@@ -130085,18 +130085,18 @@ tela
 maxzənnux
 babux
 mnalənne
-ʾo dawa
+dawa ʾo
 šaqlənne
 mənnux
 spirɛle
 nanno
 hal
-ila gə ṱ ʾɛ
+ila ʾɛ ṱ gə
 kulla
 zile
 xa kut
 zilɛle
-gota ða
+ða gota
 ʾaw
 npilɛle
 baθra
@@ -130112,7 +130112,7 @@ zilɛle
 xəzyɛle
 tela
 dmixa
-ða ʾilana xo
+xo ða ʾilana
 ʾəθyɛle
 šqiləlle
 qaṭita ða
@@ -130121,7 +130121,7 @@ məxyəlle
 tela
 tela
 riqɛle
-ʾaw ʾəθyɛle
+ʾəθyɛle ʾaw
 xpirɛle
 mpulṭəlla
 dawət
@@ -130129,7 +130129,7 @@ tela
 nubləlla ʾu
 l bɛθa
 zilɛle
-qəm nabəlle
+nabəlle qəm
 dawa
 kulle
 mənne
@@ -130143,28 +130143,28 @@ məndiyane
 pišle
 xa məndi
 priša
-gu d a maθa
-zangin biš
+maθa gu d a
+biš zangin
 m kulla
 θele
 jəndo
 xawre
 diye
-qəm mbaqərre
+mbaqərre qəm
 nanno
 xoni
 ʾawwa
 mal
-ɛka m
+m ɛka
 məre
 qəṣṣət
 rixtɛla
-ʾu dbišle
+dbišle ʾu
 ʾəbbe
 diye
 baye
-yaðe t
-ɛkɛla m
+t yaðe
+m ɛkɛla
 məre
 b alaha
 hatxɛla
@@ -130173,7 +130173,7 @@ zilənwa w
 θela
 tiwla
 w haywane
-zmirra w ʾu
+w zmirra ʾu
 xarθa
 tela
 məre
@@ -130198,22 +130198,22 @@ tre
 zilɛle
 l ʾərxe
 məre
-ga xa
+xa ga
 xeta
 aθi ṱ
 yatwi
 tama
 məre
 aθi ṱ
-ga xa
+xa ga
 xeta
 l ʾərxe
 zilɛle
 ʾaw
 l ʾərxe
 mṭušyəlle
-diye gʸan
-ʾəθye ʾanna
+gʸan diye
+ʾanna ʾəθye
 θiθɛla
 dəbba
 ʾəθyɛle
@@ -130226,8 +130226,8 @@ wiðe wɛwa sab
 tagbir
 ʾap təmməl
 tafqəx
-b ġðaðe
-xa bena
+ġðaðe b
+bena xa
 ho
 hole
 θele
@@ -130235,7 +130235,7 @@ tela
 təngər
 təngər
 ʾaqle
-twirta w
+w twirta
 xaṣe
 šmiṭa
 ʾəθyɛle
@@ -130244,7 +130244,7 @@ təngər
 məṭyɛle
 tama
 məra
-ma lux
+lux ma
 xoni
 tela
 modi
@@ -130269,15 +130269,15 @@ modi
 ʾəbbux
 məre
 hal u
-wawa hatxa
+hatxa wawa
 xa naša
 ʾəθyɛle
 məxyəlli
 šqiləlle ʾu
 kulla
 dawa
-ʾu nubləlle
-ʾu lan ðaʾa
+nubləlle ʾu
+ðaʾa ʾu lan
 daxile
 ðiya
 ʾana
@@ -130287,12 +130287,12 @@ dəbba
 la
 mtanənna
 qəṣṣət
-ɛka m
+m ɛka
 dawe
 mərəx
 ʾəlla
 mtanila
-xa ʾu mašmoye wewa
+mašmoye xa ʾu wewa
 ʾəllɛni
 lazəm
 ʾɛka
@@ -130301,13 +130301,13 @@ mašmoye
 xirɛle
 məre
 b xšawən
-wewa gu ay ʾərxe d
+wewa d ay gu ʾərxe
 mṭušyəlle
-diye gʸan
+gʸan diye
 gu ʾərxe
 məre
 balki
-ʾap ʾədyo ile ṱ
+ʾap ile ʾədyo ṱ
 ʾəθya
 qime
 wire
@@ -130315,14 +130315,14 @@ məre
 wuru
 ṭayəx
 balki
-ʾəθya ile ṱ
+ile ʾəθya ṱ
 ʾap ʾədyo
 tama
 wirela
 gu ʾərxe
 ṭaya
 jəndo ʾu
-xa bena
+bena xa
 xirɛle
 ʾina
 ʾani
@@ -130332,12 +130332,12 @@ wire
 qaley
 qimɛle
 mṭušyəlle
-diye gʸan
-anna w
+gʸan diye
+w anna
 ṭiye
 ṭiye
 ṭiye
-xa bena
+bena xa
 xa mənney
 tfiqɛle
 b aqle
@@ -130347,25 +130347,25 @@ hole
 ʾaxxa
 mṭušyəlle
 gʸane
-ʾu ripeləlle
+ripeləlle ʾu
 kulla
 w nyasa
 xala
 diye ʾəbbe
-ʾaw w raqa
+w raqa ʾaw
 hal ga ʾɛ
-məṭya ile ṱ
+ile məṭya ṱ
 l maθa
 palge
-zila wewa
-wɛwa t ma
+wewa zila
+t ma wɛwa
 xiləlle
 məṭyɛle
-gu maθa
+maθa gu
 npilɛle
 ʾəθye
-diye reše
-ma lux
+reše diye
+lux ma
 xoni
 jəndo
 modi
@@ -130382,11 +130382,11 @@ garəg
 la
 mṭame
 kut
-wiða ile ṱ
-mdi xa
+ile wiða ṱ
+xa mdi
 ʾana
-ṱ oðən
-ʾaxwaθe diye
+oðən ṱ
+diye ʾaxwaθe
 w qaṭine
 qaṭin
 ṭure
@@ -130401,16 +130401,16 @@ baza
 npilta
 l bali
 rəḥqɛla
-la t
+t la
 ṭəpyali
 mxuzdɛwən
 l tumən
 xali
 ʾamər
-yəmmi ma
+ma yəmmi
 zulli
 gðaðe
-xaθi ʾu ma
+xaθi ma ʾu
 pɛli
 zwaðe
 xa
@@ -130418,7 +130418,7 @@ xa
 npilta
 l bali
 rəḥqɛla
-la t
+t la
 ṭəpyali
 mxuzdɛwən
 l tumən
@@ -130444,7 +130444,7 @@ xa
 npilta
 l bali
 rəḥqɛla
-la t
+t la
 ṭəpyali
 mxuzdɛwən
 l tumən
@@ -130459,28 +130459,28 @@ xuldəkko
 xwarzaye
 diye
 ʾu zille
-qəm dawqile
-qəm dawqile
+dawqile qəm
+dawqile qəm
 zille
 ʾina
 ʾimə
 mṭele
-l karma
+karma l
 mṭele
 karma
 qaṭina
 mṭošele
 mirɛwa sab
 mṭašət
-qam leliθa
-la t
+leliθa qam
+t la
 ʾaxlalux
-gu wawa gəppa
+wawa gu gəppa
 ʾawwa
 ʾimə
 ile ṱ
 wira
-daliθa xo
+xo daliθa
 ʾu kulla
 derubɛra
 xabuše w
@@ -130491,23 +130491,23 @@ mšurela
 čarčore
 ṣraxa
 hay
-we llən
-ʾu hay
+llən we
+hay ʾu
 šima llən
 qč̣ipewəx
 mqorəč̣pewəx
-b hewən la t
-la ʾu t
+t la b hewən
+t la ʾu
 majalən
 qimtɛla
 leliθa
 pliṭṭɛla
-gu gəppa m
+m gu gəppa
 diya
 ʾimə
 ila ṱ
 pliṭṭa
-gu gəppa m
+m gu gəppa
 diya
 riqtɛla
 č̭ənnək̭ɛrət
@@ -130521,42 +130521,42 @@ qazde
 diye
 baye
 azəl ṱ
-maṭe t ta
+t ta maṭe
 l tarət
 gəppa
-qaṭəl t ta
+t ta qaṭəl
 leliθa
 ʾayya
 pθiltəlle
-xa garra
+garra xa
 wirtɛla
 gu gəppa
 kribta
 kribta
 qimɛle
-ga xa
+xa ga
 xeta
 zilɛle
 zilɛle
 məṭyɛle
-xa daliθa xo
+xo xa daliθa
 xeta
 qribɛle
-ʾan ʾu
+ʾu ʾan
 dɛrubɛre
 šurela
-xa bena
+bena xa
 xeta
 hay
 we lən
-ʾu hay
+hay ʾu
 šima lən
 qč̣ipewəx
 mqorəč̣pewəx
-b hewən la t
-la ʾu t
+t la b hewən
+t la ʾu
 majalən
-ga xa
+xa ga
 xeta
 pliṭṭɛla
 leliθa
@@ -130566,7 +130566,7 @@ xa čarxona
 črixwala
 kribta
 kribta
-l ṣadrət
+ṣadrət l
 gəppa
 wirwala
 ču
@@ -130592,12 +130592,12 @@ dɛrubɛre
 ṣraxa
 hay
 we lən
-ʾu hay
+hay ʾu
 šima lən
 qč̣ipewəx
 mqorəč̣pewəx
-b hewən la t
-la ʾu t
+t la b hewən
+t la ʾu
 majalən
 leliθa
 qimtɛla
@@ -130606,11 +130606,11 @@ l gana
 diya
 krabɛla ʾu
 ʾu čarčore
-ṣraxɛla ʾu
+ʾu ṣraxɛla
 č̣ənnək̭ɛra
 bena
 leliθa
-ṣadrət m
+m ṣadrət
 gəppona
 pliṭwala
 xa
@@ -130629,11 +130629,11 @@ qaṭina
 hole
 wira
 tama
-qam mənna
-ʾax ile ṱ
+mənna qam
+ile ʾax ṱ
 wira
 tama
-qam mənna
+mənna qam
 diya
 šqiləlle
 ʾiθwala
@@ -130643,9 +130643,9 @@ qimɛle
 kθawa
 diya
 muttəlle
-gu jebe
+jebe gu
 diye
-ila t ʾax
+t ila ʾax
 θiθa
 ʾay
 maxele
@@ -130661,11 +130661,11 @@ sɛpe
 diya
 qəm awədla
 tre pəčče
-xa pəčča
+pəčča xa
 piša
 l gota ay
-l xa gota ay
-məra ʾay
+xa l gota ay
+ʾay məra
 mxili
 xa sɛpa
 xena
@@ -130679,7 +130679,7 @@ raqaðetu
 šəmyən
 šqul
 ʾayya yaləxta
-b iðəx
+iðəx b
 rquð
 qimɛle
 yiwəlla
@@ -130702,11 +130702,11 @@ zilɛle
 l tarət
 gəppa
 l tarə
-d o
+o d
 amrəx ṱ
 lina
 lina
-dərya wewa
+wewa dərya
 xuldəkka
 tama
 ʾiθwa
@@ -130717,14 +130717,14 @@ b rəš xuldəkka
 yaʿni
 guṛe xamši
 šaqliwale la
-iwa ṱ ma
+ma iwa ṱ
 goṛa
 yaʿni
 ʾana
-b gani
+gani b
 hawənwa ʾən
 tama
-ta t taqlənwale
+t ta taqlənwale
 la mṣənwa
 taqlənwale
 qimɛle
@@ -130737,16 +130737,16 @@ qimɛle
 qaṭina
 qəm paθəxle
 tara
-xwarzaye ṭla
+ṭla xwarzaye
 diye
 nubləlle
 hatxa
 w kepa
 mpulṭɛlele
 xuldəkko
-lina gu m d o
+m lina d gu o
 tela
-kpina wewa
+wewa kpina
 θele
 b lɛle
 xðara
@@ -130764,11 +130764,11 @@ xurta
 ʾilana
 rixta
 daliθa
-xðita ʾəlla
+ʾəlla xðita
 siqta
 ṃḷiθa
 ʾənwe
-xurta ða
+ða xurta
 ramantɛla
 ʾənwe ʾan
 hadəx
@@ -130791,7 +130791,7 @@ məre
 xamuṣela
 lɛla
 basime
-xala ṭla
+ṭla xala
 ga ʾɛ
 diya manay
 modila
@@ -130801,14 +130801,14 @@ xamuṣe
 mṣaya
 mṣe la
 axəlla ṱ
-ila hadəx m
+m ila hadəx
 xamuṣe
 maṣewa ʾən
 axəlwala ṱ
 lɛla
 xamuṣe
-malka xa
-kut yum
+xa malka
+yum kut
 ða brata
 gawərwa
 mbadla
@@ -130819,7 +130819,7 @@ xðirre
 xðirre
 bnaθa
 priqla
-kut yum
+yum kut
 ða
 liθ
 ʾawwa
@@ -130839,7 +130839,7 @@ gawranne
 ʾawwa
 malka
 mparqannux
-ayya m
+m ayya
 qəṣṣət
 qimtɛla
 ʾitwala
@@ -130853,13 +130853,13 @@ mənna
 diya
 gwirtəlle
 malka
-dmixɛle ʾaw
+ʾaw dmixɛle
 pištɛla
 mtanoye
 qəṣṣət ða
 ṭla qaṭu
 məra
-ṭla d a qaṭu
+ṭla qaṭu d a
 məra
 qaṭu
 lɛle
@@ -130884,7 +130884,7 @@ malka ʾaw
 məra
 ʾiθwa
 liθwa
-biš m alaha
+m alaha biš
 goṛa
 ču məndi
 liθwa
@@ -130899,7 +130899,7 @@ baxta
 xa brona
 šəmme
 diye
-addin karim
+karim addin
 mara
 ʾawwa
 ʾo
@@ -130911,7 +130911,7 @@ diye
 mitle
 ʾayya
 baxta
-kut yum
+yum kut
 goyawa
 maxlawa
 ṭla brona
@@ -130922,14 +130922,14 @@ bron diya
 mədrasa
 brona
 diya
-mədrasa gu
-kut yum
-awewa y
+gu mədrasa
+yum kut
+y awewa
 mxaya
 l aw yala
 šqala
 čanta
-d awwa
+awwa d
 sraṭa
 məndiyane
 mšodərra
@@ -130941,14 +130941,14 @@ murre
 ʾawwa
 bronəx
 maləple
-la ʾawəð
+ʾawəð la
 hatxa
 ʾawəð ʾən
 hatxa
 lɛla
 spay
 ṭarðəxle
-mədrasa m
+m mədrasa
 hole
 masqoðe
 yalət
@@ -130960,62 +130960,62 @@ hatxa
 məndi
 qɛmi
 ṭarðile
-mədrasa m
+m mədrasa
 pišle
-gu maḥalle
-gu ži maḥall
-kut yum
+maḥalle gu
+gu maḥall ži
+yum kut
 ganu
 kθɛθa
-d awwa
+awwa d
 ga ʾɛ
-azəlwa y
+y azəlwa
 feka
 awaha d
-awəðwa y
+y awəðwa
 xrawe
-gu maḥalle
-maqədla qəm
+maḥalle gu
+qəm maqədla
 maḥalle
 t wewa ma
 šumana
 mara
 ʾo yala
 yatumɛle
-de maxəxle
+maxəxle de
 baba
 litle
-ʾoðəx mo
+mo ʾoðəx
 biye
 diye
 ʾiθwa
-xa honana wewa
-qəm qarele
+xa wewa honana
+qarele qəm
 məre
 karim
 məre
 mo
-addin karim
+karim addin
 məre
 modi
 məre
 zonəxxux
-xa xmara
+xmara xa
 aθət ṱ
 mənnən
-kut yum
+yum kut
 l ṭura
-oðəx ṱ
+ṱ oðəx
 qɛse
 mzabənna
 ṭla yəmmux
-kut yum
+yum kut
 xa ṭena
 qɛsa
 xayitu
 biye
 məre
-mo qa
+qa mo
 la
 məre
 ʾayya
@@ -131027,36 +131027,36 @@ maḥalle
 jumyela
 zuze
 zwinela
-xa xmara
+xmara xa
 mturṣəlle
 qurṭana
 xaṣə xmara
 yiwəlle
 xa nara
 nabliwale
-kut yum
-asəqwa y
+yum kut
+y asəqwa
 mənnay
 l ṭura
 masqiwale
 l ṭura
-awəð y
+y awəð
 xa ṭena
 tre ṭene
 qɛse
-aθe y
+y aθe
 mzabənwa
-ṭla d u aw
+ṭla u aw d
 yəmme
 diye
-axliwa y
+y axliwa
 ləxma
 an bəd
 qɛse
 xa yoma
 pliṭela
 m maθa
-asqiwa y
+y asqiwa
 l ṭura
 məṭyela
 xa gu
@@ -131068,7 +131068,7 @@ məṭra
 xɛlanta
 məṭra
 məṭra
-ži ʾani
+ʾani ži
 modila
 wiðe
 qimela
@@ -131105,9 +131105,9 @@ xa yaddət
 prəzla
 biye
 diye
-riqɛle ʾu
+ʾu riqɛle
 zila
-an naše d kəs
+an naše kəs d
 hayyo
 hayyo
 xzeli
@@ -131119,7 +131119,7 @@ baye
 awədlən ṱ
 zoj
 ʾawwa
-addin karim
+karim addin
 ya xazina
 xzelux
 məre
@@ -131132,7 +131132,7 @@ xəzye
 dus
 xa kepa
 hatxa
-ʾu yadde ða
+yadde ða ʾu
 gawe
 diye
 t prəzla
@@ -131152,11 +131152,11 @@ məḷya
 duša
 məra
 karim ha
-oðəx mo ṱ
-oðəx mo ṱ
+ṱ mo oðəx
+ṱ mo oðəx
 ʾani
 kulla
-oðəx mo ṱ
+ṱ mo oðəx
 məre
 ṣaləx
 šaqləx
@@ -131166,24 +131166,24 @@ məre
 duša
 ṣaləx
 mzabnəxxe
-oðəx ṱ
+ṱ oðəx
 zuze
 paləxxa
-b ġðaðe
+ġðaðe b
 pišla
 bena
 graša
 kullət
 yoma
-mən duša d o
+mən o duša d
 hal
 ʾaṣərta
 ʾaṣərta
 tre ṣlela
 saqɛwa
 məra
-ga xəðye mo
-b awwa
+xəðye ga mo
+awwa b
 duša
 ʾawwa
 duša
@@ -131213,19 +131213,19 @@ hayyo
 ṣli
 karim
 ʾati
-gu d awwa
+awwa gu d
 baluʿa
 paləṭle
-ʾaw duša
+duša ʾaw
 ile ṱ
 pyaša
 ʾu ṣaləx
 ʾanna
 zuze
 paləxxa
-b ġðaðe
+ġðaðe b
 məre
-ʾaw ṣale
+ṣale ʾaw
 tama
 mrapəxle
 xawla
@@ -131234,10 +131234,10 @@ diye
 ʾayya ʾu
 qapaxta
 mattəxxa
-rəš d o tarət
+o tarət rəš d
 gəppa
 mṣaləx ʾu
-yəmme ṭla
+ṭla yəmme
 diye
 ʾawwa
 qurṭanət
@@ -131257,14 +131257,14 @@ xmare
 diye
 ʾəθyela
 dewe
-gu ða lawurta
+lawurta ða gu
 xiləlle
-ʾaw u
+u ʾaw
 xmare
 diye
-xəzye ʾu lax
+lax ʾu xəzye
 ču məndi
-šuq mən anna d
+šuq mən d anna
 ʾanna
 julle
 diye
@@ -131283,21 +131283,21 @@ modi
 sqidlən
 hayyo
 ṣli
-gu d awwa
+awwa gu d
 baluʿa
-duša ʾo
+ʾo duša
 ile ṱ
 pyaša
 tama
 drile
-gu anna d
+gu d anna
 guðe
 ʾu ṣaləx
-zuzəx xoš
+xoš zuzəx
 wiðe
 paləxla
 kulla
-b ġðaðe
+ġðaðe b
 b xonuθa
 ʾawwa
 məskena
@@ -131307,25 +131307,25 @@ zora
 lɛðe
 modi
 məre
-yxaləf ma
-yxaləf ma
+ma yxaləf
+ma yxaləf
 ṣlayɛle
 ṣlele
-gu d o baluʿa
+gu d baluʿa o
 ʾawwa
 duša
 t wewa
 pyaša
 kulla
-qəm darele
-an gu guðanyaθa d
-grišla ʾu
+darele qəm
+an gu d guðanyaθa
+ʾu grišla
 məra
 priqle
 məre
 priqle
 məra
-de puš šopux
+puš šopux de
 mrapile
 xawla
 b reše
@@ -131335,7 +131335,7 @@ grišla
 b reše
 dəryɛla
 xačča
-mən a purta d
+mən purta d a
 b reše
 purtət
 ʾərbe
@@ -131344,15 +131344,15 @@ xmara
 qəm qaṭlile
 ʾawwa ʾu
 jaket
-addin karim d o
+karim o d addin
 pištɛwa
 wadər
 ʾap ay
 ṭɛšila
 dəmma
-məndiyane ʾu
-ʾu ṣlela
-yəmme ṭla
+ʾu məndiyane
+ṣlela ʾu
+ṭla yəmme
 diye
 ṣlela
 xaššane
@@ -131377,22 +131377,22 @@ məra
 yaba
 ʾaxni
 bayəxwa
-ṱ aθəxwa
-xu lan mṣaya
-ṱ aθəxwa
+aθəxwa ṱ
+mṣaya xu lan
+aθəxwa ṱ
 amrəxwaləx ṱ
 bronəx
 ʾawwa
 xmare
 diye
 zille
-gu ða
+ða gu
 lawurta
-ʾu bronəx
+bronəx ʾu
 zille
-mɛθewale ṭla
+ṭla mɛθewale
 ʾəθye
-xakma dewe
+dewe xakma
 məxyəlle
 ʾaw
 xmare ʾu
@@ -131410,33 +131410,33 @@ pištɛla
 mxaya
 draya
 qəṭma
-gu reša
+reša gu
 diya
 brona
 diya
 zille
-zuze ʾan ʾu
+ʾan ʾu zuze
 plila
-b ġðaðe
+ġðaðe b
 zilla
 diya
-ɛka m
+m ɛka
 mtannɛxu
 mtannɛxu
-mən addin karim
+karim mən addin
 ʾo
-addin karim
+karim addin
 məskena
 ṣlele
 tama
-gu d o hənna
+gu d hənna o
 məre
-ya marya
+marya ya
 ʾalaha
 məre
 ga mu
 qwala
-ʾalaha ṭla
+ṭla ʾalaha
 ʾalaha ya
 məre
 ʾana
@@ -131445,17 +131445,17 @@ babi
 šqilətle
 miθa
 yatuma
-xu lanwa mirəllux
+lanwa xu mirəllux
 maxzətli
 xazina
 muxzelux
 ʾawwa
 ʾəlli xazina
-darətli qəm
-gu d awwa
+qəm darətli
+awwa gu d
 qunya
-ʾana ʾu
-mu n
+ʾu ʾana
+n mu
 wiða
 ʾana
 lanwa
@@ -131464,7 +131464,7 @@ la
 xərbayuθa
 la
 spayuθa
-ṭla ču naša
+ču ṭla naša
 har yala
 zorɛwa
 tiwa
@@ -131474,7 +131474,7 @@ kpinne
 žare
 xille
 xačca
-mən duša d o
+mən o duša d
 ṣele
 miya
 xa ṭəppiθa
@@ -131486,7 +131486,7 @@ gu mbadlaθa
 tama
 pišle
 yoma
-har wewa
+wewa har
 xðara
 xzele
 xa bəṣliṣa
@@ -131500,7 +131500,7 @@ xa purya
 laxxa
 zora
 ʾaw
-mdi xa har
+xa mdi har
 ʾile
 yala
 zora
@@ -131511,7 +131511,7 @@ mənne
 nara ʾo
 mənne
 diye
-ʾa skinta
+skinta ʾa
 t wewa
 graða
 duša
@@ -131524,17 +131524,17 @@ xa gu dahliz
 məre
 ʾana
 zala
-har zilən
+zilən har
 biya
-azən bṱ
-b dahliz d aw
+bṱ azən
+b dahliz aw d
 xazən
 hal ʾɛka
 maṭe
 zille
 zille
 zille
-dahliz gu d a
+gu dahliz d a
 θele
 l xa tara
 θele
@@ -131553,24 +131553,24 @@ dawa
 pθixəlle
 ʾawwa
 pliṭɛle
-gu ða dunye
+ða gu dunye
 xeta
 šəmša
 milanta
 ʾara
 milanta
 məre
-ya marya
+marya ya
 ʾalaha
 ʾayya
 modila
 ʾana
 zala
-har zilən
+zilən har
 biya
 zila
 zila
-ma ile ṱ
+ile ma ṱ
 ṣiya
 miya
 məškena
@@ -131580,7 +131580,7 @@ milanuθa
 xəzya
 ða ʾilana
 riqle
-d a kəs
+kəs d a
 ʾilana
 ʾu xzele
 xačča
@@ -131593,7 +131593,7 @@ mxulla
 paθe
 diye
 mṣulya
-ʾalahe ṭla
+ṭla ʾalahe
 diye
 yala
 zora
@@ -131601,19 +131601,19 @@ məskena
 dmixɛle
 tama
 dmixɛle
-ga xa
+xa ga
 xeta
 ṛišɛle
 məre
-ṱ har azena
+har ṱ azena
 xazəx
 ʾɛka
 maṭən
 zalɛwa
-xa bena
+bena xa
 xzele
-rəḥqa m
-mdi xa
+m rəḥqa
+xa mdi
 xwara
 gu d a
 milanuθa
@@ -131628,12 +131628,12 @@ goṛa
 zilɛle
 məxya
 tara
-naša ču
+ču naša
 liθ
 məre
 b alaha
 ʾana
-ʾa diyi har
+diyi ʾa har
 zala
 xišta
 orən ṱ
@@ -131651,7 +131651,7 @@ mbušle
 wiðe
 hazər
 šaxinta
-naša ču
+ču naša
 liθ
 dəryɛle
 xilɛle
@@ -131662,9 +131662,9 @@ goṛta
 hola
 xakma
 kursawaθa
-gota m ay
+m gota ay
 xakma
-gota m ay
+m gota ay
 qanapa ða
 muttɛθa
 tamaha
@@ -131677,9 +131677,9 @@ gawa
 siqɛle
 tiwa
 tama
-dmixɛle ʾu
+ʾu dmixɛle
 dmixɛle
-xa bena
+bena xa
 ṛayəš
 ʾina
 mo
@@ -131688,14 +131688,14 @@ hola
 kut
 xuwwe
 ʾawwa
-ʾawwa la
+la ʾawwa
 pumme
 diye
 pθixəlle
 ʾəlle
 diye
 tama
-ʾaw məre
+məre ʾaw
 škira
 šəmmux
 ʾalaha
@@ -131703,20 +131703,20 @@ ləbbe
 diye
 pqile
 mara
-xa bena
+bena xa
 xəzya
 ʾəθyɛle
 xa xuwwe
-praxa ʾax
+ʾax praxa
 šmile
 qale
 θele
 wirre
-tara gu
+gu tara
 ʾina
-xa seniye
+seniye xa
 dawa
-xaṣe diye
+diye xaṣe
 xa xuwwe
 zora
 rešət
@@ -131726,7 +131726,7 @@ xuwwe
 gu d a
 seniye
 xa
-mən xuwwe
+xuwwe mən
 goṛe
 zilɛle
 šqila
@@ -131735,8 +131735,8 @@ muθyəlla
 siqa
 siqa
 muttəlla
-kəs d o
-addin karim
+o kəs d
+karim addin
 ʾawwa
 zila
 hiwəlla
@@ -131745,12 +131745,12 @@ tama
 xuwwe ʾo
 ʾamər
 ṭla karim addin
-addin karim
+karim addin
 b šɛna
 θelux
 ʾədyo
-ʾarxi wət
-la ʾu zadət
+wət ʾarxi
+la zadət ʾu
 manyəx tu
 tiwɛle
 ʾap ʾaw
@@ -131763,15 +131763,15 @@ moθela
 məndi
 tiwɛle
 xille
-xa məndi kul
-ġðaðe m
+xa kul məndi
+m ġðaðe
 məra
-addin karim
+karim addin
 ʾati
 murri
 qəṣṣət
 diyux
-ɛkət m
+m ɛkət
 ʾəθya
 laxxa
 dax it ʾu
@@ -131781,7 +131781,7 @@ oyət ṱ
 basimta
 məre
 ʾana
-diyi qəṣṣət
+qəṣṣət diyi
 raba
 rixtɛla
 la mṣən
@@ -131799,8 +131799,8 @@ laxxa
 mtunyale
 məre
 zlumyət
-bəṛ našuθa
-bəṛ našuθa
+našuθa bəṛ
+našuθa bəṛ
 zliməlli
 ʾana
 spayuθən
@@ -131824,13 +131824,13 @@ parmənne
 rešəx
 məra
 ʾana
-mara hon
+hon mara
 ʾawwa
 reši
 aθe ṱ
 xa yoma
 prama
-ʾiθaθa bəd
+bəd ʾiθaθa
 diyux
 ʾati
 parmətle
@@ -131843,8 +131843,8 @@ maləkθət
 xuwwawaθa
 məre
 ʾati
-qəm xalṣatli
-mən d awwa
+xalṣatli qəm
+awwa mən d
 moθa
 ʾana
 skinta
@@ -131855,14 +131855,14 @@ mattənna
 l qðaləx
 reši
 parmənne
-rešəx ʾu
+ʾu rešəx
 la
 parmənne
 məra
 ʾana
 məri
 hatxa
-de tu
+tu de
 mtanənnux
 ga ʾɛ
 məra
@@ -131872,33 +131872,33 @@ mtanənnux
 qəṣṣət ða
 diyi
 məre
-de paqəð
+paqəð de
 maləkθa
 mara
 ʾiθwa
 liθwa
 məra
 ʾiθwa
-malka xa
-yaman t
+xa malka
+t yaman
 ʾitwale
 xa brona
-yak̭ana wewa
+wewa yak̭ana
 qime ʾu
 ʾaw
-bron ʾu diye
-wazire tre ʾu
+bron diye ʾu
+tre wazire ʾu
 pliṭe
 ṣɛda
 pliṭela
 ṣɛda
 zilela
-xa bena ʾu
+bena xa ʾu
 xzela
-xazaliya xa
+xa xazaliya
 dašta gu
-ʾu riqla
-xazaliya bar
+riqla ʾu
+bar xazaliya
 hal xazaliya
 riqtɛla
 riqtɛla
@@ -131911,7 +131911,7 @@ xa balam
 zurta
 tama
 wirta
-gu d a balam
+gu balam d a
 xarθa
 ʾani
 məṭyela
@@ -131923,14 +131923,14 @@ yama
 malka
 bronət
 malka
-tre ʾan ʾu
+tre ʾu ʾan
 wazire
 ṣəlyela
-doqi t ta
+t ta doqi
 xazaliya
-gani gu m d a
+m d a gu gani
 zurta
-xa bena ʾu
+bena xa ʾu
 gani
 ṭriθɛla
 wirtɛla
@@ -131948,11 +131948,11 @@ doqila
 xazaliya
 pɛrmila
 kpinna
-qəm w axlila
+axlila w qəm
 xilla
 bəsra ʾo
-ʾu štela
-an miyət m
+štela ʾu
+m miyət an
 baḥar
 ziltɛla
 mṭiθa
@@ -131970,37 +131970,37 @@ gawa
 diya
 kliθa
 l marzə
-a jazira d
+a d jazira
 xarθa
 qimela
 ṣəlyela
-mən d a balam
+mən balam d a
 siṛela
 balam
 diyey
 tama
-b ða
+ða b
 ʾilana
 məra
 de
-ṱ orəx
-ayya gu d
+orəx ṱ
+gu ayya d
 malka bronət
 məre
-an wazire d ta
+an ta wazire d
 wuru
-gu jazira d ay
-mo xzo
+ay gu d jazira
+xzo mo
 xazitu
 ʾani
 xišela
 xačča
-ʾu diṛe
+diṛe ʾu
 ʾəθye
 məra
 zdaləx
 ṣabrəx la
-ṱ orəx
+orəx ṱ
 məra
 hayyo
 ʾap ʾati
@@ -132010,11 +132010,11 @@ qima
 ṭḷaθna
 zile
 wire
-gu a jazira d
+a gu d jazira
 zilla
 xðirra
 xðirra
-xa naša bəṛ
+xa bəṛ naša
 lɛla
 xzaya
 ʾina
@@ -132025,7 +132025,7 @@ hola
 gawa
 zilla
 xarθa
-rəḥqa m
+m rəḥqa
 xzela
 xa məndi
 xwara
@@ -132034,44 +132034,44 @@ qrula
 kəsle
 diye
 ʾina
-bɛθa xa
+xa bɛθa
 xa qaṣra
 raba
 šapira
 məra
 mašmoyət
-addin karim
+karim addin
 məre
 he
 məra
 qimela
 wire
-gu qaṣra d o
+gu d qaṣra o
 wire
 xəzye
-mɛxolta w
+w mɛxolta
 mezawaθa
-məndi ʾu kul
-ḥasb əl ʾuṣul
+ʾu kul məndi
+ʾuṣul ḥasb əl
 ʾina
-naša bəṛ
+bəṛ naša
 liθ
 mara
 xilela
 šətyela
 mara
-malka bron
+bron malka
 tiwɛle
 l taxta d a
 xa ʾu wazir
 diye
-rəš kursa d awwa
-xa awaha d rəš
-ṭəlyela ʾu
-wawa t ma
+awwa rəš d kursa
+xa awaha rəš d
+ʾu ṭəlyela
+t wawa ma
 kčixe
 mara
-xa bena
+bena xa
 ṛɛši
 ʾina
 ṛɛši mo
@@ -132098,26 +132098,26 @@ qəšta w
 gera
 bayi
 maxi
-an ṭla d maymune
+an ṭla maymune d
 məre
 xa qaṭlitu
 tre qaṭlitu
 mo
-oðəx bṱ
+bṱ oðəx
 b anna
 ʾən palšəx
-mən d ani
+mən ani d
 qaṭlilən
 məre
-xazəx klo
+klo xazəx
 modila
 qəṣṣət
 mara
-xa bena
+bena xa
 ʾəθyele
 xa maymun
 raba
-anna m
+m anna
 gorəlle
 goṛe
 ʾəθyɛle
@@ -132144,7 +132144,7 @@ dax
 pišli
 malkət
 maymune
-ʾax ile ṱ
+ile ʾax ṱ
 malka
 šlemun
 kθiwa
@@ -132154,7 +132154,7 @@ malka
 mirɛle
 kθiwɛle
 ku bronət
-bər naša
+naša bər
 ʾaθe
 l d ay
 jazira
@@ -132168,17 +132168,17 @@ hadiya
 malkən it
 hal ʾu
 ʾamra
-oðəx ṱ
+ṱ oðəx
 xaðuθa
 yaba
 hal mbadla
 dmaxta
 liθwa
 w rqaðtɛla
-xalta w
+w xalta
 štɛθɛla
-hal ʾu xabra
-ṭla anna d
+hal xabra ʾu
+ṭla d anna
 maymune
 ku məndi
 bayi
@@ -132194,22 +132194,22 @@ gawa
 pišla
 tama
 mo
-oðəx ṱ
+ṱ oðəx
 mo
-oðəx ṱ
+ṱ oðəx
 malka
 məre
-maymun ṭla d o
-d goṛət o
+ṭla o maymun d
+o d goṛət
 maymune
 məre
 bayən
-xazənne t
+t xazənne
 ʾupra
 diyi
 kmɛla
 ʾayya
-diyi bilad
+bilad diyi
 goṛta
 məre
 bayən
@@ -132221,7 +132221,7 @@ qima
 dart yoma
 mjuməlla
 maymune
-ʾu xðirɛle
+xðirɛle ʾu
 qimela
 məṭyela
 xa ṭura
@@ -132238,46 +132238,46 @@ modila
 məre
 hal ʾaxxa
 ṣiwən
-diyən ile
-tamma m
+ile diyən
+m tamma
 hodəx
 ṭura
 ʾaθṛə
-anna d
+d anna
 dewele
 məre
 hammaša
-awe y
+y awe
 plaša
 belən
-bel anna d ʾu
+bel d anna ʾu
 dewe
 məre
 zen
 bar siqlɛxu
 hal ʾɛkɛle
-ḥudud dewe t
+t ḥudud dewe
 mara
-hal gu rešət
+hal rešət gu
 ṭura
 tama
-dewele hudud t
+hudud t dewele
 tama
 hole
 malka
 šlemun
 kθiwa
-qayəmθa xa
+xa qayəmθa
 məre
-axxa m
+m axxa
 hudxa
 ʾila
 t wadi
 šəkwane
 məre
-ku məndit
+məndit ku
 ʾawər
-ayya gu d
+gu ayya d
 wadi
 ʾanna
 šəkwane
@@ -132295,8 +132295,8 @@ barəz
 kut
 šabθa yomət
 miya
-hawe la
-gu nera
+la hawe
+nera gu
 l a paθa
 xetət
 nera
@@ -132309,51 +132309,51 @@ hal tama
 ʾayya
 ʾurxa
 məre
-yxaləf ma
-ʾu xðirɛle
+ma yxaləf
+xðirɛle ʾu
 ʾəθyɛle
 ʾaṣərta
 ʾawwa
 mṣawoθe
-mən diye wuzaraʾ
+mən wuzaraʾ diye
 məre
 b ayya
 ʾurxa
 mšarṭəx
-axxa m
+m axxa
 məra
 daxi
 məre
 ʾana
-amrən ṱ
-anna d ta
+ṱ amrən
+ta d anna
 maymune
 kapši
 ʾaxni
-anna w
+w anna
 dewe
 palšəx
 palšəx
-mən dewe
+dewe mən
 maṭəx
 l rešət
 ṭura
 maṭəx
 l rešət
 ṭura
-l t wadi
+t l wadi
 šəkwane
 məre
-ṱ orəx
-gu d ay wadi
+orəx ṱ
+wadi gu d ay
 ga ʾɛ
 ʾaxni
 chance
 diyən
-ʾaxlilən ʾən
+ʾən ʾaxlilən
 šəkwane
-ṱ axlilən
-ən w mšurəṭlən
+axlilən ṱ
+w mšurəṭlən ən
 mšurəṭlən
 qimɛle
 dart yoma
@@ -132372,7 +132372,7 @@ daxi
 məre
 ʾana
 xzayən
-ʾan maymune
+maymune ʾan
 diyi šaʿb
 liθ
 hola
@@ -132380,7 +132380,7 @@ xaləlla
 qṭaləlla
 palšəx
 ʾani
-ana w
+w ana
 šaqlənna
 ʾaθṛa
 mənney
@@ -132388,14 +132388,14 @@ məre
 hal xabra
 ṭla maymune
 ʾu kulla
-diyən quwat
+quwat diyən
 ʾaθi
 hiwɛle
 xabra
 ṭla maymune
 kpišela
 maymune
-b ʾalpaye
+ʾalpaye b
 ʾayya
 manile
 mtanoyəlla
@@ -132404,7 +132404,7 @@ xuwwaθa
 ṭla karim addin
 məra
 mašmoyət
-addin karim
+karim addin
 məre
 he
 mara
@@ -132415,14 +132415,14 @@ dart yoma
 ʾu pliṭela
 ʾap malka
 malka bronət
-diye ʾu wuzaraʾ
+wuzaraʾ diye ʾu
 šqilla
 sɛpay
 qəšta w
 gera
 pliṭela
 plaša
-mən dewe
+dewe mən
 mara
 plišla
 plišla
@@ -132430,17 +132430,17 @@ dəmma
 ṣlele
 b lawuryaθa
 de
-xa bena
+bena xa
 dewe
 šmiṭela
-anna w
+w anna
 baθər
 šmiṭəlla
 siqela
 reš gu ṭura
 ʾina
 hola
-qayəmθa xa
+xa qayəmθa
 kθiwta
 tama
 malka
@@ -132449,7 +132449,7 @@ kθiwəlla
 hal ʾaxxa
 ʾaθəṛ
 dewele
-axxa m
+m axxa
 hudxa
 ʾila
 t wadi
@@ -132458,40 +132458,40 @@ ku našət
 ʾawər
 ku xayuθət
 ʾawər
-gu d ay wadi
+wadi gu d ay
 ʾanna
 šəkwane
-ṱ axlila
+axlila ṱ
 məre
-yxaləf ma
+ma yxaləf
 mara
 qrele
-ṭla d goṛət o
+ṭla o d goṛət
 maymune
 məre
 kulla
-damxi xoš
+xoš damxi
 kullɛxu
 dmuxu
 ʾaxni
 awəx ṱ
 ḥurras
-ʾaxtu sab
+sab ʾaxtu
 hotu
 kčixe
 raba
 maymune
 kulla
 dmixela
-xa bena ʾu
+bena xa ʾu
 ʾani
 qimela
 gniwəlla
 gana
 wire
-t wadi gu d a
+wadi d a t gu
 šəkwane
-xa bena
+bena xa
 hadəx
 ṛišela
 ʾanna
@@ -132500,7 +132500,7 @@ maymune
 ʾani
 liθ
 qrela
-b goṛay o
+b o goṛay
 məra
 liθ
 hola
@@ -132511,11 +132511,11 @@ baθra
 ku dukθət
 xazitu
 qaṭlitula
-ži ʾanna
+ʾanna ži
 wirela
 ʾanna
 maymune
-gu d a lawurtət
+lawurtət gu d a
 šəkwane
 bena
 pɛši
@@ -132528,14 +132528,14 @@ goṛe
 tama
 xa mən wazire
 šəkwane
-qəm axlile
+axlile qəm
 xa wazir
 pišle
-malka bron
+bron malka
 xa ʾu wazir
 zile
 məṭye
-l d o nera
+l nera o d
 lɛwa
 yomət
 šabθa
@@ -132544,24 +132544,24 @@ yomət
 xɛlanɛle
 dəryəlla
 gane
-gu nera
+nera gu
 ʾawwa
 wazir
-ži xena
+xena ži
 zilɛle
 b miya
 xniqle
-šriṭle bas
-malka bron
+bas šriṭle
+bron malka
 malka bronət
 šriṭɛle
-l got a hodəx
+l a hodəx got
 nera
 zila
 nixa
 nixa
 wira
-gu maθɛle d a
+maθɛle gu d a
 məxyɛle
 xa tara
 mṣawoθe
@@ -132569,7 +132569,7 @@ mənne
 məre
 mo
 bayət
-ɛkət m
+m ɛkət
 ʾəθya
 modi
 qəṣṣət
@@ -132579,12 +132579,12 @@ qəṣṣət
 diyi
 raba
 rixtɛla
-mxamətli ʾən
+ʾən mxamətli
 pɛšən
 xa xulama
-bɛθux gu
+gu bɛθux
 məre
-yxaləf ma
+ma yxaləf
 wirɛle
 məre
 gu šabθɛla
@@ -132599,10 +132599,10 @@ kpinət
 miya
 šti
 ʾana
-qɛθən la
+la qɛθən
 b ču
 məndi
-huðaye sab
+sab huðaye
 šabθa yomə
 lɛ
 palxi
@@ -132631,58 +132631,58 @@ bronət
 malkət
 in yaman
 hal u
-diyi qəṣṣət
+qəṣṣət diyi
 ha
 məre
 diya
 xišla
 tajəruθət
 babux
-axxa m
-ayya d m
+m axxa
+m ayya d
 maθa
 tajəruθət
 babux
-kut ṭḷa
+ṭḷa kut
 šənne
-xa bena
-aθya y
+bena xa
+y aθya
 laxxa
 məre
 pɛšət
 kəsli
 laxxa
-ʾu mxamənnux
-ṱ aθya ha
+mxamənnux ʾu
+aθya ha ṱ
 tajəruθət
 babux
 laxxa
-ga xa
+xa ga
 xeta
 t ta
 mtasəlmənnux
 ṭla babux
 sab babux
-spay našɛle
+našɛle spay
 xawrən ile
 xðele
 yala
 məre
 ču məndi
 ʾoðət la
-kut yom
+yom kut
 palṭət
 xaðrət ʾu
 ʾaṣərta
 ʾaθət
 bɛθa
-kut yom
+yom kut
 paləṭ
 xðara
 xðara
-gu maθa
+maθa gu
 xa yoma
-ṭḷaθa tre u
+tre ṭḷaθa u
 xa yoma
 šmile
 xa naša
@@ -132692,31 +132692,31 @@ payəš
 xulami
 mbadla
 hal ʾaṣərta
-ʾəsri w
+w ʾəsri
 ʾarba
 saʾəte
 aθe ṱ
 t yanne
-ʾəmma dawe
-b lɛle ʾu
+dawe ʾəmma
+b ʾu lɛle
 t yanne
-xa ži baxta
+baxta xa ži
 xa jariya
 məre ʾo
 b alaha
-šulɛla xoš
+xoš šulɛla
 mbadla
 hal ʾaṣərta
 ʾəmma ʾu
 dawe
-ga ɛ d
+ga d ɛ
 xu lɛla
 xačča
 zila
 məre
 ʾana
 pɛšən
-qəm xazele
+xazele qəm
 məre
 la
 xṭiθux
@@ -132726,18 +132726,18 @@ bayən la
 xoš mbaqər
 babux
 məre
-ma lux
+lux ma
 ʾana
 pɛšən
 ʾəmma ʾan
 dawe
 maṣlila
 ṭla babux
-ʾu hayyo
+hayyo ʾu
 hole šqila
-ʾan dawe
+dawe ʾan
 ʾəθyɛle
-naša d o kəs
+o kəs d naša
 t wewa
 kəsle
 diye
@@ -132745,23 +132745,23 @@ məre
 yaba
 ʾəmma ʾan
 dawe
-xu la
+la xu
 mbaqrətəlli
 azən ṱ
 ʾaṣərta
 ṱ aθən
 məre
 hey naša
-ʾazət la
+la ʾazət
 ʾaθe
 mtaləxlux
 ʾaw
 məre
 ʾana
-azən bṱ
+bṱ azən
 qima
 siqa
-naša d o kəs
+o kəs d naša
 ʾaṣərta
 pišta
 mbadla
@@ -132770,14 +132770,14 @@ qimɛle
 məre
 amrənnux ṱ
 diya
-ku məndi t
+t ku məndi
 ʾamrənnux
 garəg
 ʾoðət
 məre
-yxaləf ma
+ma yxaləf
 šqila
-susa xa
+xa susa
 šqiləlla
 xa skinta
 xeta
@@ -132787,13 +132787,13 @@ diye
 zila
 zila
 zila
-qam xakma
+xakma qam
 ṭurane
 raba
 rame
 məre
 ṣli
-xaṣ susux m
+m xaṣ susux
 ṣəlya
 qṭulle
 susa
@@ -132801,91 +132801,91 @@ qṭille
 susa
 məre
 prumle
-axxa w m
-təxti bar
+m w axxa
+bar təxti
 rapile
-diye qðale
+qðale diye
 rapile
 məre
 de wur
-gu d awwa
+awwa gu d
 gurba
 ṣadrə gu
-d awwa
+awwa d
 susa
-ʾu xuṭle
-gawe m
+xuṭle ʾu
+m gawe
 kəma t
 šamət
 taq
-la palṭət
+palṭət la
 hal amrənnux ṱ
 pluṭgena
 ga ʾɛ
 palṭət
 məre
-yxaləf ma
+ma yxaləf
 ʾawwa ži
 ṣəlyɛle
-gu d a hənna
+gu d hənna a
 witɛla
 xačča
 b yoma
 xəmma
-xa bena
+bena xa
 ʾəθyela
 xakma
 ṭɛre
-amri y
+y amri
 simarxa
 məxyela
-l d ṣadrət o
+ṣadrət l o d
 susa
 musqəlle
-gu rešə
+rešə gu
 o d ṭura
-axliwale ṱ ta
+ta axliwale ṱ
 tama
-har wela
+wela har
 taq
 mxaya
 taq ʾu
-xa bena w
+bena xa w
 tre
-w awwa
+awwa w
 sqidle
 maxela
 skinta
-l gəldət d o
+gəldət l o d
 wewa
 xiṭəlle
-gawe m
+m gawe
 paləṭ ʾu
-ʾax ile ṱ
+ile ʾax ṱ
 pliṭa
 simarxa ʾo
 prixɛle
 zila
 mattu
 bala
-b gane
+gane b
 diye
 nubəlle
-o rəš d ṭura
+o d rəš ṭura
 liθ
-ʾurxa xa
-ṣale ta
+xa ʾurxa
+ta ṣale
 ga ʾɛ
-ʾo tajər
+tajər ʾo
 t wewa
 hiwəlle
 zuze
 məre
 rapili
-an m kepe
+m an kepe
 ila ṱ
 tama
-ga maxzənnux
+maxzənnux ga
 ʾurxa
 ṣalət
 la ʾən
@@ -132894,7 +132894,7 @@ awət ṱ
 pɛšət
 tama
 mɛθət
-ʾax ila ṱ an d
+an d ila ʾax ṱ
 miθe
 tama
 məre
@@ -132914,25 +132914,25 @@ xðira
 xəzya
 gɛrmət
 naše
-miθe wawa t
+t wawa miθe
 tama
 məre
 b alaha
 dus iwa
 qimɛle
-ga rapoye
-an m kepe
+rapoye ga
+m an kepe
 ʾani
 kulla
-ila ʾalmas
-mən d o
+ʾalmas ila
+mən o d
 ṭura
 rupyɛle
 rupya
 hal
 ʾaṣərta
 ʾaṣərta
-ʾo tajər
+tajər ʾo
 nublɛle
 naše
 xene
@@ -132950,9 +132950,9 @@ tama
 pišle
 tama
 məre
-mo ṱ oðən
+oðən mo ṱ
 ʾana
-mo ṱ oðən
+oðən mo ṱ
 lɛka ʾu
 azən ṱ
 xðara
@@ -132967,7 +132967,7 @@ tama
 ʾo lɛle
 dart yoma
 qima
-ga xa
+xa ga
 xeta
 xðara
 məre
@@ -132975,10 +132975,10 @@ məre
 pɛšən
 laxxa
 mɛθən
-ila ṱ ʾanna ʾax
+ʾanna ila ʾax ṱ
 miθe
 məxyɛle
-b ṭura o
+b o ṭura
 xišɛle
 məre
 xazəx
@@ -132988,7 +132988,7 @@ azən ṱ
 palṭən
 məra
 mašmoyət
-addin karim
+karim addin
 məre
 he
 mara
@@ -132996,14 +132996,14 @@ qimɛle
 zila
 zila
 hal zila
-b ṭura o
+b o ṭura
 zila
 zila
 mṭele
 xzele
 xa koxa
 zora
-bɛθa xa
+xa bɛθa
 zora
 mara
 bɛθa ʾo
@@ -133012,7 +133012,7 @@ zila
 ʾap ʾaw
 wiðɛle
 qazd
-bɛθa d o
+bɛθa o d
 məxyɛle
 l tara
 pliṭɛle
@@ -133022,12 +133022,12 @@ dəqne
 xwara
 xəzya
 məre
-naša bəṛ ha
+bəṛ ha naša
 ʾati
 dax it
 ʾəθya
 laxxa
-ɛkət m
+m ɛkət
 ʾəθya
 laxxa
 məra
@@ -133044,10 +133044,10 @@ xačča
 miya
 šatən
 mitli
-kəpna m
+m kəpna
 ʾalaha
 yallux
-ʾati ʾən
+ʾən ʾati
 yaʿni
 xɛrət
 biyi
@@ -133067,7 +133067,7 @@ miya
 hiwəlle ʾu
 mɛxolta
 xilɛle
-ʾu pišɛle
+pišɛle ʾu
 mənne
 diye
 de qima
@@ -133078,29 +133078,29 @@ kulla
 məre
 mo
 ʾoðənnux
-har ḥɛrən
-b gani
-le yaðən y
+ḥɛrən har
+gani b
+le y yaðən
 ʾana
 ʾɛka
 ʾana
-le yaðən y
+le y yaðən
 ʾɛkɛn
-ʾu le yaðən y
-ɛkən m
+le y yaðən ʾu
+m ɛkən
 ʾəθya
 pišɛle
 tama
 xa yoma
-ṭḷaθa tre ʾu
-xa bena
+tre ṭḷaθa ʾu
+bena xa
 ʾiθwa
-bərkət ða
+ða bərkət
 miya
-qam tarət
+tarət qam
 bɛθa
 witɛla
-naša bar ʾo
+bar ʾo naša
 sawa
 ṣəlyɛle
 mtamozəlla
@@ -133109,7 +133109,7 @@ diya
 ʾap ʾaw
 ṣəlyɛle
 mhayore
-sawa d o ta
+ta sawa d o
 məre
 ʾay modi
 məre
@@ -133133,10 +133133,10 @@ naše ʾan
 manila
 modila
 məre
-hon bayəllux
+bayəllux hon
 amrənnux ṱ
 məre
-bnaθət ṭla
+ṭla bnaθət
 malka
 qaṣar
 hozər
@@ -133152,7 +133152,7 @@ rəš d ay
 ʾilana
 ṣali
 saxi
-gu anna d
+gu d anna
 miya
 məre
 bnaθa
@@ -133160,13 +133160,13 @@ bnaθa
 məre
 he
 qima
-kut yoma
+yoma kut
 yoma
 ṣlaya
 ṣale
-ʾu zarewa
+zarewa ʾu
 warde
-w ʾu maštewala
+w maštewala ʾu
 qimle
 mtugbərale
 raba
@@ -133178,7 +133178,7 @@ biye
 ʾina
 xa yala
 raba
-najib wewa
+wewa najib
 məre
 madam
 iwətwa ṱ
@@ -133197,11 +133197,11 @@ tammaha
 ṣali
 šalxila
 julley
-yawne t
+t yawne
 tamma
 ʾati
 xazət
-mənna ʾay
+ʾay mənna
 bayət
 šaqlətla
 ʾanna
@@ -133212,7 +133212,7 @@ litlux
 ʾawwa ži
 qimɛle
 ṣəlyɛle
-kut yoma
+yoma kut
 ṣale
 wiðwale
 xa dukθa
@@ -133233,7 +133233,7 @@ l ʾara
 šlipəlla
 julla
 ʾu xzele
-naše bəṛ
+bəṛ naše
 yaʿni
 mṣawoθe
 mattule
@@ -133247,18 +133247,18 @@ sxaya
 ʾawwa
 rap
 rixa
-ʾan jullət
+jullət ʾan
 ʾa lwišta
 zurta d a
 gniwəlla
-riqɛle ʾu
+ʾu riqɛle
 hey
 naša
 naša
 qimela
 ṣraxa
 zilɛle
-naša d o kəs
+o kəs d naša
 sawa
 ʾap ʾani
 qimela
@@ -133267,13 +133267,13 @@ julla
 zilela
 kəsle
 diye
-naša d o
+o d naša
 sawa
 məra
 baba
 sawa
 modile
-ɛkɛt m
+m ɛkɛt
 muθyəlle
 laxxa
 məre
@@ -133285,15 +133285,15 @@ liθ
 diya
 ʾawwa
 baye
-ayya d ta
+ta ayya d
 brata
 zurta
 mqawlət
 goratle
-yalla t
+t yalla
 julla
 la ʾən
-yalla har t
+t yalla har
 julləx
 b kefəx
 ʾap ʾaw
@@ -133308,16 +133308,16 @@ mənne
 qimla
 ʾani
 zilla
-ṭḷa yomane ta
+yomane ta ṭḷa
 pišla
 ṭḷa yarxe
-xmilla t ma
-mən d o yala
+t ma xmilla
+mən o d yala
 xarθa
 ʾo baba
 sawa
 məre
-ani d ta
+ta ani d
 diya
 babaxu
 hole
@@ -133327,7 +133327,7 @@ biyaxu
 tliqetu
 duṛu
 sogena
-babaxu kəs
+kəs babaxu
 xarθa
 ʾayya
 xaθaxu
@@ -133355,11 +133355,11 @@ dɛṛən
 l tama
 məre
 brati
-yxaləf ma
+ma yxaləf
 duṛ
 qɛma
 lwašəlla
-ʾan julla
+julla ʾan
 diya
 ʾap ʾaw
 mšadore
@@ -133391,7 +133391,7 @@ ramta
 txirre
 bɛθət
 babe
-ani d ʾu
+ʾu ani d
 pille
 šnele
 ṭaya
@@ -133405,13 +133405,13 @@ xəzyəlle
 ʾina
 šənya
 npila
-qəm mbaqrale
+mbaqrale qəm
 məra
-mo ta
+ta mo
 modi
 qəṣṣət
 diyux
-mot ta
+ta mot
 hatxa
 məre
 b alaha
@@ -133420,39 +133420,39 @@ məre
 la xazyatli
 ʾap ʾana
 bronət
-malka xa
+xa malka
 sparəlli
 dɛṛən
 babi
 mayəθ
 ʾana
-awən bṱ
+bṱ awən
 malka
 šope
-ʾu diya hon
+diya hon ʾu
 npila
 laxxa
-ʾu le yaðən y
+le y yaðən ʾu
 ʾana
 ʾɛkən
 məra
-yxaləf ma
+ma yxaləf
 məra
 ʾana
-lawšanna t
+t lawšanna
 ʾanna
 jullət
 yawne
-ṱ asṛannux
+asṛannux ṱ
 xaṣi
 parxən
 nablannux
 l ʾaθṛət
 babux
 ʾaxči
-yaðətla ʾən
+ʾən yaðətla
 ʾaθṛa
-la nablətlən t
+t la nablətlən
 xa dukθa
 xeta
 naxrɛθa
@@ -133470,19 +133470,19 @@ yaðənne
 ʾaθṛət
 babi
 dax
-yaðənne la
-lwištəlla ʾay
+la yaðənne
+ʾay lwištəlla
 julla
 diya
 məra
-sawa d o ta
-de šɛna puš b
-ṱ azəx
+ta sawa d o
+puš b šɛna de
+azəx ṱ
 nšiqəlle
 sawa ʾo
 mupišəlle
 b šɛna
-prixtɛla ʾay
+ʾay prixtɛla
 zilla
 zilla
 xa yoma
@@ -133495,7 +133495,7 @@ xa dukθa
 yomə
 ṭḷaθa
 ʾarba
-xa bena
+bena xa
 praxa
 ʾamər
 kla
@@ -133503,21 +133503,21 @@ kla
 laxxa
 ʾawwa
 ʾaθəṛ
-diyən ile
+ile diyən
 ʾɛka
 xzele
 xzele
 ʾɛkə
 t wewa
 tiwa
-gu d a balam
+gu balam d a
 zurta
-gu d a balam
+gu balam d a
 ʾina
 ḥurras
 ʾiθwa
-malka t
-ila mutte ṱ
+t malka
+mutte ila ṱ
 tama
 məre
 xazitu
@@ -133529,18 +133529,18 @@ lašše
 diye
 palṭa
 yama gu
-xa naša ʾən
+xa ʾən naša
 mɛθelaxu
 xabra
-broni bəd
+bəd broni
 kut mɛθeli
 xabra
-broni bəd
-miθa ʾən
-saxi ʾən
+bəd broni
+ʾən miθa
+ʾən saxi
 palgət
 dawi
-de t yanne
+t yanne de
 ʾəlle
 diye
 malkɛle
@@ -133550,30 +133550,30 @@ kla
 ṣla laxxa
 ṣəlyela
 tama
-xa bena
+bena xa
 xirela
 hatxa
 ʾina
 bronət
 malka
 θele
-ʾu ða
+ða ʾu
 mənne
 diye
-qəm xazele ʾo t
+t xazele qəm ʾo
 riqa
 lazəm
 amər ṱ
-malka ta
+ta malka
 xa xena
 məre
 modile
 qəṣṣət
 məre
-malka bron
+bron malka
 hole
 θele
-ʾaw raqa
+raqa ʾaw
 ʾaw ʾu xena
 šaqəlla
 xa kilo
@@ -133583,7 +133583,7 @@ diye
 maxe
 gu reše
 diye
-ʾaw npilɛle
+npilɛle ʾaw
 ʾo xena
 riqɛle
 kazi
@@ -133591,7 +133591,7 @@ modi
 lɛle
 glaya
 məṭyɛle
-malka kəs
+kəs malka
 məre
 malka
 bronux
@@ -133600,7 +133600,7 @@ malka
 npilɛle
 šənyɛle
 žare
-mən xaðuθe
+xaðuθe mən
 diye
 xena
 ṛišɛle
@@ -133613,22 +133613,22 @@ pliṭle
 qamθət
 brone
 diye
-dawla w
+w dawla
 zorna
 zilla
 brone
 diye
 tliqa
-dana kəma
-malka bron
+kəma dana
+bron malka
 mɛθela qəm
 ða
 mənne diye
 raba
 xðele
-b d a brata
+b d brata a
 məre
-ṭla bron diye
+bron ṭla diye
 daxi
 θelux
 məre
@@ -133639,12 +133639,12 @@ raba
 rixtɛla
 ʾayya
 basimta
-ʾitwala ʾu
+ʾu ʾitwala
 ʾanna
 jullət
 prixla
 biya
-qəm ṭɛnali
+ṭɛnali qəm
 xaṣa
 diya
 hatxa
@@ -133661,33 +133661,33 @@ hayyo
 diya
 maləkθa
 mur
-ku mdi t
+t ku mdi
 bayət
-gu d ay dunye
-ṱ oðənnəx
+gu dunye d ay
+oðənnəx ṱ
 məra
 hič məndi
 bayən la
 ʾana
 hali
-halɛxu m
+m halɛxu
 ʾaxči
 banətli
 xa
 ʾanna
 bɛθay
 kulla
-k̭wine wɛwa
+wɛwa k̭wine
 ʾarabaye
 məra
 banətli
-bɛθa xa
+xa bɛθa
 burj xa
 t ʾax
 ʾana
 bayən
 məre
-yxaləf ma
+ma yxaləf
 ʾawwa ži
 qimɛle
 bnaya
@@ -133695,13 +133695,13 @@ burj
 ʾəlla
 diya
 ʾo yala
-malka bron
+bron malka
 mtuxmənne
 məre
 balki
 ʾaθe
 xa yoma
-brata ʾɛ
+ʾɛ brata
 kɛrba
 mənni
 lošala
@@ -133715,29 +133715,29 @@ baba
 diya
 mani
 nabəlli
-mu yaðən t
+t yaðən mu
 ʾɛkɛla
 widle mo
 qimɛle
 zila
 mutta
-ʾan julla
+julla ʾan
 diya
-sanduqa gu d o
+o gu d sanduqa
 muttəlla
 gu ʾasasət
 bɛθa
-bənyɛle ʾu
+ʾu bənyɛle
 guda
 b reše
-de ʾayya
+ʾayya de
 lɛða
 ləbba
 ṣəpya
 žare
 ziltɛla
 bar
-bɛθa ile ṱ
+ile bɛθa ṱ
 priqa
 ʾaza
 xazya
@@ -133751,14 +133751,14 @@ julle
 šaqlawale
 xðirra
 xðirra
-bar julla
+julla bar
 diya
 lɛla
 xzayəlla
 de
 xa yoma
 ṣlela
-goma gu
+gu goma
 rixət
 julla
 diya
@@ -133771,9 +133771,9 @@ xðirra
 xðirra
 baθra
 ðila
-ɛkɛla m
+m ɛkɛla
 xpirra
-palṭale qəm
+qəm palṭale
 sanduqət
 julle
 xa yoma
@@ -133784,14 +133784,14 @@ parxa
 ʾatwa
 l gare
 qrela
-b gawṛa o
+b o gawṛa
 diya
 məra
 ʾana
 biθənnux
 θiθən
 baθrux
-ana lɛðən w
+lɛðən w ana
 awətwa ṱ
 ʾati
 xayən
@@ -133799,7 +133799,7 @@ palṭətwa
 mənni
 julli
 mattətwala
-gu guda
+guda gu
 banətwa ʾu
 guda ʾo
 b reša
@@ -133810,29 +133810,29 @@ baθri
 ʾap ʾati
 ʾana
 zilli
-babi kəs
+kəs babi
 ʾana
 bɛθən
 šəmmət
 qaṣrən
 qaṣar
 ile hozər
-bayətli ʾən
+ʾən bayətli
 ʾaθət
 tama
-ʾu kaze
+kaze ʾu
 mxaya
 gu reše
 ʾayya
 zilla
-xa bena
+bena xa
 yuwanəs
 ʾaramnaya
 θele
 mxele
 talən
 l talən
-sawən be
+be sawən
 toma
 slibile
 ʾərwey
@@ -133853,21 +133853,21 @@ məxyəlle
 ʾaqle
 l dudiyət
 qaṭina
-šawwi zəvre
+zəvre šawwi
 zvirtəlla
-šawwi zəvre
+zəvre šawwi
 zvirtəlla
 sawən
 toma
 šawwi qəble
 qbilɛle
-kliθa ila ṱ ha
+kliθa ila ha ṱ
 dudiya
 zorɛwa
 martət
 ʾamare
 duglət
-ga ɛ d
+ga d ɛ
 ga ʾɛ
 mqurənne
 qaṭina
@@ -133897,7 +133897,7 @@ hatxa
 gu barriya
 xaye
 la ʿamri
-rəḥqɛle kəma
+kəma rəḥqɛle
 dana ʾa
 qəm amərra
 xaθi ma
@@ -133911,7 +133911,7 @@ kade
 npilta
 l bali
 mxuzdɛwən
-tomən ʾəl
+ʾəl tomən
 xali
 qimɛle
 qaṭina
@@ -133933,19 +133933,19 @@ k̭ore
 pɛšət
 xwarθi
 ʾati
-ṱ orət
+orət ṱ
 gu awaha d
 ṭarraša
-b xa ʾaw baza
+xa b baza ʾaw
 šawərwale
-axxa m
+m axxa
 kut baze
 maylewa ʾəṣra
 mattuwala
 ʾaqle
-ʾəṣra mayle
+mayle ʾəṣra
 məṭyɛle
-qam tarət
+tarət qam
 bɛθə
 amte ṱ
 diye
@@ -133975,7 +133975,7 @@ hola
 b gota ay
 ʾarbi
 ʾalpe
-gota m ay
+m gota ay
 yaʿni
 ʾəmma
 ʾəšti
@@ -134003,7 +134003,7 @@ məra
 ʾawwa
 xa xɛla
 xɛlə
-babile be
+be babile
 ʾawwa
 liθ
 hatxa
@@ -134023,11 +134023,11 @@ qəm ṭɛnale
 xzi
 šəlmanat
 dipla
-qam xɛla
+xɛla qam
 məra
 mot
 ʾəθya
-babi xo
+xo babi
 məre
 ʾamti
 ʾəθyən
@@ -134038,8 +134038,8 @@ la mṣət
 masqətli
 yuwanəs
 ʾaramnaya
-ʾəmma w
-ʾalpe ʾəšti
+w ʾəmma
+ʾəšti ʾalpe
 ʾaskar
 mənne
 hole
@@ -134068,29 +134068,29 @@ zilla
 sɛpe
 diye
 kulla
-qəm nablale
-jaqši kəs
+nablale qəm
+kəs jaqši
 y amriwale
 jaqši
-qəm awədle
+awədle qəm
 rabəṭ
 ʾanna
-maxɛ t rabəṭ
+t maxɛ rabəṭ
 rabəṭ
 rabəṭ
 kulla
 maxele
 sɛpe
 diye
-la garəš t ta
-qəm nablale
-jaqši kəs
-qəm oðale
+t ta garəš la
+nablale qəm
+kəs jaqši
+oðale qəm
 sɛpe
 diye
-ʾaw lɛle
+lɛle ʾaw
 ðiya
-ʾaw lɛle
+lɛle ʾaw
 ðiya
 hiwtəlle
 sɛpe
@@ -134106,7 +134106,7 @@ qimɛle
 ṣəlya
 ṣəlyɛle
 ṣrixɛle
-qala xa
+xa qala
 gu barriya
 susyaθa
 kulla
@@ -134150,7 +134150,7 @@ məxyət
 talən
 bažər
 diyən
-ʾu baxtaθa
+baxtaθa ʾu
 muθyɛwət
 ʾamti ʾu
 w muθyətla
@@ -134161,15 +134161,15 @@ kulla
 ganux
 widle
 šarṭ
-maxa ta
-l ġðaðe
+ta maxa
+ġðaðe l
 ʾawwa
 yuwanəs
 ʾaramnaya
 ʾap ʾaw
 ʾitle
 gurza
-o max d t
+max t o d
 leliθa
 gurza
 maxele
@@ -134190,11 +134190,11 @@ qamaye
 məre
 ʾaxni
 be toma
-maxəx lɛ
+lɛ maxəx
 qamaye
 ʾaxni
 be toma
-maxəx lɛ
+lɛ maxəx
 qamaye
 zarba
 ʾati
@@ -134204,33 +134204,33 @@ ok
 šarṭ ile
 mṭupyəlle
 zarba
-b qaṭina
+qaṭina b
 qaṭina
 nəðyɛle
 nəðyɛle
-bərqiyət xo
+xo bərqiyət
 šmayya
-pəlgə bar
+bar pəlgə
 saʾat
 ṣlele
 ʾamər
 he
-qəm la oðənnux
+la qəm oðənnux
 ʾana
 burnuṭ
 ṣlelux
-xa bena
+bena xa
 xena
 gurzə
 šərmux
-ʾana xo
+xo ʾana
 azənwa ṱ
 biya
 ʾap ʾana
 azən ṱ
 mṣalən
 šamašɛn
-azən t
+t azən
 mṣalena
 qaṭina
 məre
@@ -134241,7 +134241,7 @@ kizle
 kərrr
 kizle
 kərrr
-ʾo ile rabəṭ
+rabəṭ ile ʾo
 qəm maxele
 b qətta bə
 ʾamər
@@ -134250,33 +134250,33 @@ zarbux
 qaṭina
 məre
 ʾayya
-xa bena
+bena xa
 xena
 yuwanəs
 mṭupyale
 gurza
 ʾəlle
 diye
-xa bena
+bena xa
 xena
 nðele
 xrrr
 rimle
-qame m
+m qame
 diye
 ṣlele
-xa bena
+bena xa
 xena
 məre
 la mitlux
 qaṭina
 məre
 la
-lan miθa
+miθa lan
 hon laxxa
 barqulux
 məre
-yuwanəs ṭla
+ṭla yuwanəs
 ʾap ʾana
 šamašɛn
 qaṭina
@@ -134293,8 +134293,8 @@ azən ṱ
 mṣalən
 ʾati
 suq
-xzi baxtux
-qlub ʾu hayyo
+baxtux xzi
+qlub hayyo ʾu
 ʾaw siqle
 xzaya
 baxte
@@ -134328,7 +134328,7 @@ garšətli
 har
 ða
 grašta
-palge be
+be palge
 sarxi
 w dəmma
 gu reše
@@ -134344,7 +134344,7 @@ kulla
 pišle
 tama
 spara
-tmanya yome
+yome tmanya
 aθe ṱ
 yuwanəs
 ʾaramnaya
@@ -134359,14 +134359,14 @@ məre
 tmanya
 yome
 atwən ṱ
-xa bena
+bena xa
 b xubbət
 baxti
 bnoni
 b xubbət ʾu
 maθi
 b naši
-b xazənna
+xazənna b
 aθena ʾu ṱ
 tmanya
 yome
@@ -134376,7 +134376,7 @@ qliba
 məre
 diya
 garra
-d ɛnile
+ɛnile d
 yuwanəs
 ʾaramnaya
 məre
@@ -134386,37 +134386,37 @@ maxət
 šqille
 sɛpe
 qəm maxele
-qəm awədle
-tre qəṭṭe
+awədle qəm
+qəṭṭe tre
 kizle
-mxili də
+də mxili
 xa xena
 məre
 ʾaxni
-toməx be
-maxəx la
+be toməx
+la maxəx
 zoda
 l xa
-maxewa ʾən
+ʾən maxewa
 xa xena
 ʾap ʾaw
 xonət
 leliθɛwa
 xaθəmwa
-axəlwale ṱ qa
+axəlwale qa ṱ
 məre
 də qu
 rqudli
 xa rəqðət
 dəbbe
-qu rquð
+rquð qu
 qimle
 rqaða
 xa qəṭṭa
 npille
 tamma
 xa tamma
-siqle ʾu
+ʾu siqle
 musqale
 ʾamte
 musqale
@@ -134424,26 +134424,26 @@ bažər
 kulla
 musəqle
 bena
-amər y
+y amər
 toma
 b šɛna
 b šɛna
-bər xaθa t
+t bər xaθa
 kupəšlux
 ʾəlli
 kurtəxyaθa
 xa yoma
 dəbba
 xðara wawa
-gu ṭurane
+ṭurane gu
 tfiqla
-b xa tela
+xa b tela
 tela ʾo
 məre
 ha
 lɛkət
 zala
-ya gani
+gani ya
 dəbba
 b alaha
 xðarən
@@ -134453,12 +134453,12 @@ balki
 xa məndi
 tafəq
 biyi
-axlən ṱ
+ṱ axlən
 məndi
 ʾaxxa
-tamma m
+m tamma
 ʾamər
-lat ma ðaya
+ðaya lat ma
 b ganəx
 qarθɛla
 dax it
@@ -134475,15 +134475,15 @@ məre
 zaqrənnəx
 xa qərṭala
 sala
-amrəxle y
-xa sala
+y amrəxle
+sala xa
 ṭla sətwa
-la t ta
+t ta la
 qɛrati
-la hoya t
+t la hoya
 qarθa ʾəlləx
-hawe la t
-ʾəlləx talga
+t la hawe
+talga ʾəlləx
 hola
 rəš ṭura
 tiwtɛla
@@ -134492,7 +134492,7 @@ də hayyo
 qimɛle
 muθya
 ture
-č̭ənnək̭ɛra ʾu
+ʾu č̭ənnək̭ɛra
 diya
 di
 məre
@@ -134503,12 +134503,12 @@ tiwtɛla
 zqirəlla
 hal laxxa
 məra
-kligən də
+də kligən
 palṭən
-gawe m
+m gawe
 məre
 la
-ṱ oðən ta
+oðən ta ṱ
 qapəx
 ʾap
 ṭla rešəx
@@ -134517,24 +134517,24 @@ palṭət
 qimɛle
 xθiməlle
 kulle
-zqirəlle w
+w zqirəlle
 pištɛla
 hadəx
 dəbba
 gawe
-ʾu maxela
+maxela ʾu
 ʾaqle
 diye
 ʾəlla
 ṣalya ʾu
 napla
-ṣalya w
+w ṣalya
 ṣalya
 ṣalya
-b ṭura o
+b o ṭura
 hal šəttət
 hənna
-gu rawulta
+rawulta gu
 ṣlela
 tama
 ʾina
@@ -134543,9 +134543,9 @@ gɛrme
 diya
 šmiṭe
 pišta
-saruber be
-šmiṭle hat
-ʾɛ sala
+be saruber
+hat šmiṭle
+sala ʾɛ
 t wewa
 zqirəlla
 kulla
@@ -134583,24 +134583,24 @@ baxte
 diye
 hola
 tama
-ʾu ʾitle
+ʾitle ʾu
 ʾayale
 tela ʾo
 wirɛle
 tama
-dəbba ʾu
+ʾu dəbba
 ziltɛla
 tama
 ziltɛle
 dəbba
-ʾu drayəlla
+drayəlla ʾu
 ʾiða
 diya
 ʾəlle
 diye
 lɛla
 pšaṭa
-boya sab
+sab boya
 zorɛle
 tela ʾu
 wirɛle
@@ -134611,15 +134611,15 @@ qimtɛla
 dəbba
 zilta
 muθɛθa
-qənnət ða
+ða qənnət
 dəbbore
 muθɛθəlla
 muttɛθəlla
-qam tarət
+tarət qam
 boyət d o
 tele
 dəbbore har
-w zalɛla
+zalɛla w
 θaya
 durr
 durr
@@ -134638,7 +134638,7 @@ məre
 ṭla baxte
 diye
 məre
-ʾoðəx mo
+mo ʾoðəx
 baxta
 məre
 ʾitlən
@@ -134650,11 +134650,11 @@ kəpna
 mo
 ʾoðexi
 məre
-oðəx mo ṱ
+ṱ mo oðəx
 pɛrməxle
 zora ʾo
 axləxle ṱ
-hal gət ʾɛ
+hal ʾɛ gət
 aza ṱ
 dəbba
 m tama
@@ -134662,9 +134662,9 @@ qimela
 zora ʾo
 priməllela
 xiləllela ʾu
-ʾu pištɛla
+pištɛla ʾu
 dəbbore ʾan
-zala har w
+zala w har
 θaya
 zala w
 θaya
@@ -134680,32 +134680,32 @@ lɛðe
 modila
 qəṣṣət
 məre
-oðəx mo ṱ
+ṱ mo oðəx
 baxta
 məre
 mo
 garrə
-d o trele
+o d trele
 qimela
-ʾap tre ʾo t
+ʾap t ʾo tre
 priməlle
 xiləlle
 ʾimət
 xilla
-ʾap tre ʾo t
+ʾap t ʾo tre
 pišla
-xa šabθa
+šabθa xa
 tre
 šabbaθa
 kpinna
-ʾap ṭḷaθa ʾo t
+ʾap t ṭḷaθa ʾo
 qəm pɛrmile
-dəbbore ʾu
-har hola
-qam tarət
+ʾu dəbbore
+hola har
+tarət qam
 boya
 pišela
-tre ʾani har
+ʾani tre har
 l xoðey
 ʾamər
 baxta
@@ -134714,13 +134714,13 @@ daxi
 məre
 diya
 mo
-ṱ oðexi
+oðexi ṱ
 qu
 npila xila
 qu
 npila xila
 ṭripela
-l ġðaðe
+ġðaðe l
 npille
 tela
 məra
@@ -134731,19 +134731,19 @@ məre
 ʾaqli
 qitla
 b kanošta
-xa bena
+bena xa
 xeta
 gðilela
 npille
 tela
 məra
-ma lux
+lux ma
 məra
 ṱ axlannux
 məre
 ʾaqli
 ṣlela
-maqle gu
+gu maqle
 benə
 ṭəḷḷəθ
 napla
@@ -134764,16 +134764,16 @@ axlali lo ṱ
 dəbba
 lo palṭena
 ʾoðən mo
-mɛθən la xo
+xo la mɛθən
 laxxa
 pliṭɛle ʾu
 riqɛle
-ʾarəq t ta
+t ta ʾarəq
 ʾu gašəq
 bare
 diye
 ʾina
-dəbba la
+la dəbba
 la ču
 məndi
 dəbbore
@@ -134784,30 +134784,30 @@ məre
 bɛθi
 ṣṭimla
 dəbba
-ṭḷa bnone
+bnone ṭḷa
 xilili
 baxta
 xilali
 xaṭər
-ṱ inwa
+inwa ṱ
 mk̭onədrəlla
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 xa
-w baxta
-gawṛa xa
-ʾa baxta
+baxta w
+xa gawṛa
+baxta ʾa
 məra
-gawṛa ta
+ta gawṛa
 diya
 də xuš
 naša
 pluxən xuš
 pluxən xuš
-mut ta
+ta mut
 baṭila
 tiwa
 bɛθa gu
@@ -134817,7 +134817,7 @@ oya ṱ
 la liθ
 šula
 məra
-ʾati də
+də ʾati
 xuš
 balki
 mačxət
@@ -134832,17 +134832,17 @@ xišle
 pišle
 xuya
 məre
-ya ʾalahi
-ya mari
+ʾalahi ya
+mari ya
 lɛka
 ʾazena
 pišle
 xuya
-naša ču
+ču naša
 la yaðena
-bɛθa la
+la bɛθa
 ʾiθən
-naša la ʾu
+la ʾu naša
 ʾiθən
 xzele
 xa nura
@@ -134852,7 +134852,7 @@ məre
 ʾazən
 ʾoðən
 qazəd
-d awwa
+awwa d
 gəppa
 ṱ awðən
 qazədde
@@ -134860,31 +134860,31 @@ diye
 azən ṱ
 maxən
 tara
-gəppa d aw
-naše ʾiθ
-ʾən naše liθ
+aw gəppa d
+ʾiθ naše
+liθ ʾən naše
 zilɛle
 məxyɛle
 tarə
-gəppa d o
+o gəppa d
 ʾina
 hola
 tiwe
 šawwa
 hambišaye
-šawwa hambišaye
+hambišaye šawwa
 tiwe
-gu gəppa d aw
+aw gu gəppa d
 məre
-ya ʾalahi
+ʾalahi ya
 xuya
 xuyɛle har
 dewe har
 axlili ṱ
-azən har ṱ
-gu anna d
+azən ṱ har
+gu d anna
 hambišaye
-ži har hambišaye
+hambišaye har ži
 axlili ṱ
 qimle
 mxele
@@ -134912,24 +134912,24 @@ har
 axlili ṱ
 yaðena
 ʾina
-amrən ṱ
+ṱ amrən
 xa məndi
 ləbbe gu
 diye
 mtuxmənne
 məre
-šlama llɛxu
+llɛxu šlama
 xonawaθi
 xa mənna
 xirre
-b xena o
+b o xena
 məra
 ʾitlən
 xa xona
 xena
 məra
 ʾati
-yaðət ɛka m
+m ɛka yaðət
 ix ṱ
 xonawaθa
 məre
@@ -134940,9 +134940,9 @@ məra
 si
 kəs xonawaθux
 hola
-fulan duka
-gane m kəs
-qəm mdabərra
+duka fulan
+m gane kəs
+mdabərra qəm
 mxaloṣe
 xaye
 diye
@@ -134955,7 +134955,7 @@ garəg
 hatxane
 məra
 zen
-it ʾən
+ʾən it
 xonɛni
 hayyo
 tu ʾaxxa
@@ -134972,11 +134972,11 @@ b alaha
 xonən it
 məjjəd
 ʾamrəxlux
-mdi xa
+xa mdi
 xena
 ṭḷaθa məndiyane
 ʾayya
-mpalṭəxla qəm
+qəm mpalṭəxla
 piše
 tre məndiyane
 xene
@@ -134986,7 +134986,7 @@ xa
 zəqqa
 raba
 goṛtɛla
-asqəx y
+y asqəx
 mɛθəx
 miya
 mən awaha d
@@ -135002,36 +135002,36 @@ maṣət
 məre
 ʾo
 xonawaθi
-šulɛle ʾaw mo
-motun qa
+šulɛle mo ʾaw
+qa motun
 mara
 ʾaxtu
 ʾaxni
-asqəx y
+y asqəx
 ṭura
 masqəx
 zəqqa
 ləmu
-ʾasqən la
+la ʾasqən
 ʾana
 halli
 ḥawla
-asqən y
+y asqən
 kulla
 qɛse
 mjamənna
-ʾurxa ʾu
+ʾu ʾurxa
 paθxənna
-miya t qa
+t qa miya
 ṣala
 qam gəppa tar
-mo qa
-mɛθən le asqən y
+qa mo
+le y mɛθən asqən
 miya
 mən tama
 məra
 b alaha
-fəkrɛle ʾaw xoš
+xoš fəkrɛle ʾaw
 qimɛle
 šqilɛle
 xa xawla
@@ -135042,7 +135042,7 @@ kulla
 b rešət
 ʾilanane
 la maṣe
-mo ʾawəð
+ʾawəð mo
 baye
 mxaləṣ
 xaye
@@ -135058,16 +135058,16 @@ bɛθa kəs
 xonawaθi
 mvado
 mvado
-la ʾazitu t
+t la ʾazitu
 b miya
 ʾap axtu
 ʾamri
 hayyo
 xilli
 ləbbux
-bayəx la
-miya la
-la ču ʾu məndi
+la bayəx
+la miya
+la ʾu ču məndi
 ʾaxni
 xonən it har
 məra
@@ -135078,20 +135078,20 @@ pišta
 tərte
 pišta
 ða xeta
-it xonɛni ʾən
+xonɛni ʾən it
 ʾitlən
 xa maġara
 raba
 ʾamoqa
-sardəb xa ʾax
+xa sardəb ʾax
 qarəxle
 ʾiθ
-xa parša
+parša xa
 b reše
 diye
 raba
 goṛɛle
-ʾən ʾaw parša
+parša ʾən ʾaw
 šqillux
 ʾitlən
 dawe
@@ -135104,31 +135104,31 @@ xonawaθi
 motu
 mara
 ʾana
-šqilli ʾən
+ʾən šqilli
 fəlsa
 la yawənnɛxu
 məra
 ʾawwa
-mu ṱ awəð
+mu awəð ṱ
 b rešən
 məra
 la baba
 la
-la har šqulla
+la šqulla har
 spay biš
 ʾaxni
 šaqləxxe
-ṃaḷəxxa ʾu
+ʾu ṃaḷəxxa
 čantux
 zuze
-siga ʾu
+ʾu siga
 qimɛle
 babi
 šqiləlla
 xonawaθe
 diye
-ʾo parša
-maġara d o
+parša ʾo
+o maġara d
 ʾina
 xa marəgla
 goṛa
@@ -135147,13 +135147,13 @@ qəm ṃaḷela
 b lɛle
 baye
 maṭe
-la t
+t la
 xazɛle
 naše
-gu maθa
-ʾaw mɛkɛle
+maθa gu
+mɛkɛle ʾaw
 θaya
-la mšalxile t
+t la mšalxile
 saʾət
 xa
 mṭele
@@ -135172,18 +135172,18 @@ gawṛi
 m jalde
 hole
 zila
-ʾəθya la
+la ʾəθya
 l bɛθa
 žare
-qṭila ile ʾən
+ile ʾən qṭila
 ile ʾən
 xila
-xa bena
+bena xa
 mxele
 l tara
 məra
 ʾox
-ya ʾalahi
+ʾalahi ya
 b xšawən
 gawṛi
 θele
@@ -135202,26 +135202,26 @@ baxta
 zilli
 plaxa
 kčixli
-ʾu θeli
+θeli ʾu
 məra
 ʾanna
 modi
 məre
-makəs də
+də makəs
 tara
 maṣla ʾu
 farde
 pθuxla
-xazyət mo xza
+xazyət xza mo
 gaway
 qəm maṣlɛla
 kulla
 farde
 məre
-la t
-xazɛlɛni naše
+t la
+naše xazɛlɛni
 mən panjɛra
-mən tarane
+tarane mən
 kulla
 dukane
 matti
@@ -135236,7 +135236,7 @@ kulla
 dawe
 məra
 ʾaxni
-ʾoðəx mo
+mo ʾoðəx
 b anna
 dawe
 ʾɛka
@@ -135264,7 +135264,7 @@ marət
 palaxe
 pišle
 rešaya
-gu maθa
+maθa gu
 ʾawwa
 ʾayya
 šwiqali
@@ -135272,7 +135272,7 @@ tama
 w qaṭu
 ʾaqubra
 dəžmən
-ġðaðela t
+t ġðaðela
 qaṭu
 xazyale
 ʾaqubra
@@ -135285,11 +135285,11 @@ jmila
 jmila
 xa dukθa
 məra
-mo čara
-oðəx ṱ
-ayya ṭla d
+čara mo
+ṱ oðəx
+ṭla ayya d
 qaṭu
-la t ʾaxlalɛni
+t la ʾaxlalɛni
 ʾaxni
 plaṭa
 bɛθa gu
@@ -135304,16 +135304,16 @@ raqa
 baθrən
 xaləllɛni
 məra
-oðəx ṱ
+ṱ oðəx
 xa məndi
-ʾiman t qa
-ṱ aθya
+t qa ʾiman
+aθya ṱ
 qaṭu
 ʾaxni
 šaməxle
 qala
 diya
-arqɛxi ṱ ha
+arqɛxi ha ṱ
 məra
 maṭo
 məra
@@ -135336,23 +135336,23 @@ arqəx ṱ
 mṭašəx
 məra
 ʾayya
-ṣanitɛla xoš
+xoš ṣanitɛla
 bena
 xa mənna
 məre
-de yalla
+yalla de
 bas ʾɛni
 dɛrele
 zaga
 b qðalət
 qaṭu
 ʾap xa
-la ṣabər
+ṣabər la
 talele
 zaga
 b qðalət
 qaṭu
-ʾaqubrət ʾo
+ʾo ʾaqubrət
 tale
 zaga
 b qðalət
@@ -135363,14 +135363,14 @@ pišla
 hadəx
 məra
 ʾap xa
-la ṣabər
+ṣabər la
 dɛrele
 zaga
 b qðalət
 qaṭu
 malla
 naṣradin
-ga xa
+xa ga
 bayewa
 mbašəlwa
 pača
@@ -135380,9 +135380,9 @@ məre
 ṭla baxte
 diye
 sɛ qu
-šwawən anna d kəs
+šwawən kəs d anna
 mɛθɛ
-quṣarta ða
+ða quṣarta
 mbašləx
 xačča
 pača
@@ -135399,12 +135399,12 @@ raba
 šapirta
 raba
 zala
-ləbbi ʾəlla
+ʾəlla ləbbi
 məra
 bena
 quṣartət
 šwawən ila
-mo ṱ oðət
+oðət mo ṱ
 biya
 məre
 b xšawən
@@ -135412,10 +135412,10 @@ b xšawən
 quṣarta
 har
 maṭe garəg
-ga xa ʾəlli
+xa ʾəlli ga
 məra
 mo
-ṱ amrilən
+amrilən ṱ
 šwawən
 məre
 ʾati
@@ -135424,7 +135424,7 @@ litləx
 la galyət
 məra
 la
-mo šuli
+šuli mo
 ku mdi
 bayət
 wuð
@@ -135438,7 +135438,7 @@ mattula
 gawa
 diya
 nabəlla ʾu
-šwawən ṭla be
+ṭla be šwawən
 məre
 laʾ
 ʾana
@@ -135452,17 +135452,17 @@ quṣarta
 diya
 ʾa zorta
 muttaθəlla
-gu ɛ d
+gu d ɛ
 quṣartət
 šwawe
-ʾu nubaltəlla
+nubaltəlla ʾu
 hadiya
 ʾaw
-qu šqulla
-quṣarta w
+šqulla qu
+w quṣarta
 si
-šwawux be
-šlama llɛxu
+be šwawux
+llɛxu šlama
 šwawe
 məra
 b šɛna
@@ -135474,12 +135474,12 @@ quṣartɛxu
 xziθəlla
 məra
 šwawa
-zorta ʾay
+ʾay zorta
 modi
 gawa
 məre
 šwawe
-mərɛxu la
+la mərɛxu
 ʾayya
 quṣarta
 hola
@@ -135492,14 +135492,14 @@ maṭo
 mabərya
 məre
 maṭo
-ʾana bas
-zodanta llɛxu
+bas ʾana
+llɛxu zodanta
 quṣarta
 mənni
-muθeli t
+t muθeli
 llɛxu
 quṣartɛxu
-b ʾurxa wawa
+b wawa ʾurxa
 mubrela
 kəslən
 diya
@@ -135510,14 +135510,14 @@ dwiqla ʾu
 rəqqi
 gawṛa
 məre
-šuqla də
+də šuqla
 bena
 ʾaw muθyəlla
-quṣarta ða
+ða quṣarta
 xeta
-ʾat ləx ma
+ʾat ma ləx
 he mur
-dus iwət
+iwət dus
 qimta
 šqilta
 quṣarta
@@ -135530,11 +135530,11 @@ pišɛle
 šabθa ða
 xeta
 ʾamər
-ṭla baxta
+baxta ṭla
 sa mɛθala
 quṣartət
 šwawe
-bayəx mur
+mur bayəx
 mbašləx
 pače
 gawa
@@ -135547,7 +135547,7 @@ jalde
 məra
 balki
 mabərya
-tərte xene
+xene tərte
 hiwəlla
 quṣarta
 malla ta
@@ -135561,18 +135561,18 @@ quṣarta
 xa yoma
 tre
 ṭḷaθa
-xa yarxa
+yarxa xa
 hadiya
 gawṛa
 məre
-ṭla baxta
+baxta ṭla
 kɛla
 quṣarta
 məra
 nubəlla
 malla
 məre
-mɛθala sɛ
+sɛ mɛθala
 qimtɛla
 zilta
 məra
@@ -135585,21 +135585,21 @@ bɛθa gu
 malla
 kɛla
 quṣarta
-θiθa hon
+hon θiθa
 baθra
 diya
 ʾayy
 ʾamər
 pšamən
 raba
-marəllɛxu in ṱ
+in marəllɛxu ṱ
 quṣartɛxu
 miθtɛla
 dax ila
 miθta
-mabərya t ʾo
-mayəθ lɛ
-yomət ʾo
+t mabərya ʾo
+lɛ mayəθ
+ʾo yomət
 mubrela
 xðelɛxu
 biya
@@ -135613,10 +135613,10 @@ diya
 hola
 miθta
 kizla
-xu tamma
+tamma xu
 məre
 miθtɛla
-mṭumrale w
+w mṭumrale
 zilla
 malla
 pišla
@@ -135624,7 +135624,7 @@ quṣarta
 malla ta
 ʾiθwa
 liθwa
-biš m alaha
+m alaha biš
 goṛa
 mdi ču
 liθwa
@@ -135639,34 +135639,34 @@ laš iyewa
 mṣaya
 xayewa
 məre
-bnone ta
+ta bnone
 diye
 babi
-de soga
+soga de
 ṭolɛxu
 xa šula
-xayitu t ta
+t ta xayitu
 biye
 ʾɛni
 mənnɛxu
 azəl ṱ
 məra
 azəl ṱ
-goṛa ʾo
-yaðe biš
+ʾo goṛa
+biš yaðe
 mtagbərra
 ʾati
 zora ʾo
 la
 ʾazeti
 ta
-zora d o
+o zora d
 zille
 brone
 diye
 ṭaya
 šula
-gu ða maθa
+ða gu maθa
 məre
 ʾɛni
 baye
@@ -135693,7 +135693,7 @@ he
 məre
 palxət
 kəsli
-hal d yomə o
+hal o yomə d
 qarya
 ṱok̭e
 qrela har
@@ -135701,18 +135701,18 @@ qrela har
 parəq
 šulux
 məre
-litla xam
+xam litla
 məre
 modi
 šula
 məre
-lɛle m
+m lɛle
 mpalṭətta
 tawre
 nablətta
-ta ʾawaʾha
+ʾawaʾha ta
 ṭura
-ayya w
+w ayya
 tulləkθa
 tulləkθa
 zorta
@@ -135725,22 +135725,22 @@ awe ṱ
 ṣaṭqa
 tama
 zareti
-ʾu mattənnux
+mattənnux ʾu
 jarreta
 ləxma
 zeðaye
-ʾu mattənnux
+mattənnux ʾu
 masta
 zeðaye
 ʾaxlət
 mənna
-la t qṣaya
+t la qṣaya
 masta ʾu
 ʾaxlət
 mənna
 qrušta
 diya
-la t xarwa
+t la xarwa
 qruštət
 paθa
 diya
@@ -135748,34 +135748,34 @@ w aṣərta
 mɛθətli
 xa qapla
 qɛse
-hawa la t
+t la hawa
 b qalpe
-ṱ awa
+awa ṱ
 xware
-qalpe la t
+t la qalpe
 məre
 raba
 spay
-lɛle m
+m lɛle
 qimɛle
 xulame ʾo
 diye
 tawre
-mpulṭəlla w
+w mpulṭəlla
 nubləlla
-ʾu tulləkθa
+tulləkθa ʾu
 mənne diye
 bzara ʾu
 mənne diye
 masta w ʾu
 zeðaye
 zilɛle
-zare t ta
+t ta zare
 məṭyɛle
 ṭla ṭura
 tulləkθa
 siqta
-xa š ʾisarɛwa
+ʾisarɛwa xa š
 tiwta
 tama
 kaze
@@ -135791,22 +135791,22 @@ tama
 la
 ṣlela
 hirre
-b gane
+gane b
 diye
 tawre
 masoqəlla
-b kəndala o
+b o kəndala
 saqa
 zare
-b kəndala o
+b o kəndala
 tawre
-lɛla mṣaya
+mṣaya lɛla
 ṣalɛ
 qlaba
 ṣlaya
 ʾu qarqarte
 diyela
-lɛle m
+m lɛle
 hal ʾaṣərta
 məskena
 bliga
@@ -135830,12 +135830,12 @@ axəl ṱ
 məndi
 kpinɛle
 b xyara
-b zeðaye
-la t qṣaya
+zeðaye b
+t la qṣaya
 dax
 axəlla ṱ
-zal ma
-qaṣe lley
+ma zal
+lley qaṣe
 masta
 lazəm
 qrušta
@@ -135844,7 +135844,7 @@ la
 xarwa
 piša
 kpina
-xala la
+la xala
 xille
 zeðaye ʾu
 šwiqile
@@ -135856,13 +135856,13 @@ qɛse
 ʾatxa
 qɛse
 qɛse
-qalpe la t
+t la qalpe
 liθena
 ʾəθya
 bɛθɛle
 ʾəθya
 bɛθɛle
-mu ʾa widlux
+ʾa widlux mu
 la mṣeli
 zrili
 tulləkθa
@@ -135870,30 +135870,30 @@ siqta
 xa š ʾisara
 la mṣeli
 zrili
-ʾu ləxma
-la t qṣaya
+ləxma ʾu
+t la qṣaya
 la mṣən
 axlənwale ṱ
 masta
 hot mara
-la xrawa t
+t la xrawa
 qrušta
 diya
-fa miθa
-kəpna m
+miθa fa
+m kəpna
 məre
 ʾati
 la doqət
 wajju
 mənni
 qəm maxele
-ʾəṣra jalde
-ʾəṣra qɛse
-xaṣe gu
+jalde ʾəṣra
+qɛse ʾəṣra
+gu xaṣe
 diye
-ʾu ṭarədle
+ṭarədle ʾu
 si
-ʾat nafətli la
+nafətli la ʾat
 zille
 məskena
 bxaya
@@ -135904,7 +135904,7 @@ widlux
 ḥal
 u ḥawal
 qəṣṣət ʾu
-wawa hatxa
+hatxa wawa
 la mṣeli
 plixli
 kəsle diye
@@ -135917,12 +135917,12 @@ məre
 ʾana
 ṱ azena
 k̭ora
-ʾazət la
+la ʾazət
 qaṭəllux
 ʾawwa
 kaporɛle
 ʾana
-ʾəṣra jalde
+jalde ʾəṣra
 məxyəlli
 ʾawwa
 qaṭəllux
@@ -135966,7 +135966,7 @@ məre
 palxət
 kəsli
 ʾaxxa
-hal yomət o
+hal o yomət
 qare
 ṱok̭e
 qrele
@@ -135979,7 +135979,7 @@ məre
 ʾanna
 tawre
 mpalṭətta
-lɛle m
+m lɛle
 nablətla
 ṭura
 ʾɛka
@@ -135996,26 +135996,26 @@ zareti
 zeðaye
 ʾaxlət
 mənna
-la t qṣaya
+t la qṣaya
 ʾayya
 masta
 ʾaxlət
 mənna
 qrušta
 diya
-la t xarwa
+t la xarwa
 ʾaṣərta
 mɛθətli
 xa qapla
 qɛse
-hawe la t
+t la hawe
 b qalpe
 xware
 məre
 raba
 spay
 qimɛle
-lɛle m
+m lɛle
 zila
 nubla
 tawre
@@ -136033,10 +136033,10 @@ masta w
 zilɛle
 tulləkθa
 siqta
-š isarɛla
+isarɛla š
 kaze
 ṣla laxxa
-ʾana ʾaxxa
+ʾaxxa ʾana
 bayən
 zarena
 ṣla laxxa
@@ -136049,7 +136049,7 @@ muttəlla
 kaləbθa
 qṭiləlla
 dəryəlla
-ži mquləbzəlla
+mquləbzəlla ži
 grišəlla
 məre
 ʾaxxa
@@ -136063,15 +136063,15 @@ qṭilale
 axəl ṱ
 məndi
 zeðaye
-la t qṣaya
-de maṭo
+t la qṣaya
+maṭo de
 hoya
 hola
 skinta
 mənne
 xarəṭla
 zeðaye
-palga be
+be palga
 diya
 traθna
 zeðaye
@@ -136080,13 +136080,13 @@ masta
 bazela
 bazela
 julləkθa
-xoθa m
+m xoθa
 bazela
 masta
 pliṭla
-xoθa m
+m xoθa
 diya
-š zeðaye
+zeðaye š
 xalɛle ʾu
 ləxma
 zeðaye ʾu
@@ -136099,22 +136099,22 @@ baye
 qɛse
 qɛse
 xware
-la t qalpa
+t la qalpa
 xirɛle
 məre
 b xšawən
-har ʾanna
+ʾanna har
 bzare
 qɛmən
 torənnɛy
 nablənna
 ʾəlle diye
 ʾanna
-la t qalpɛla
+t la qalpɛla
 qimɛle
 bzare
 w twirɛlela
-diye nire
+nire diye
 twirɛlele
 kulla
 wiðəlla
@@ -136128,7 +136128,7 @@ tawre
 morətla
 b kawe
 ʾana
-awən le y
+le y awən
 bɛθa
 ʾana
 tara
@@ -136143,16 +136143,16 @@ la
 morətla
 b tara
 zilɛle
-qam tarət
+tarət qam
 goma
 kawe
 ʾɛka
-ṱ awər
+awər ṱ
 tawra
 b kawe
 ʾalaha ya
 ʾoðən mo
-b gani
+gani b
 ʾiθwa
 xa nara
 tama
@@ -136161,7 +136161,7 @@ məxyəlle
 xa
 gu reše
 diye
-gu ʾɛne be
+ʾɛne be gu
 diye
 dəryəlle
 l ara
@@ -136177,7 +136177,7 @@ kulla
 dəryəlla
 b kawe
 dəryəlla
-goma gu
+gu goma
 bɛθa mar
 ʾəθyɛle
 siqɛle
@@ -136185,7 +136185,7 @@ məre
 tawre ʾan
 wiðlux mo
 dreli
-goma gu
+gu goma
 ʾo
 qɛse
 ʾanna
@@ -136194,16 +136194,16 @@ bzara
 mut
 twirilux
 ʾana
-ɛka m
+m ɛka
 mɛθənnux
 qɛse
 xware
-qalpe la t
-ɛka m
+t la qalpe
+m ɛka
 ṭayənwalux
 ʾana
 k̭ora
-mu wiðlux
+wiðlux mu
 xriw diyara
 twirilux
 bzare
@@ -136215,7 +136215,7 @@ twirilux
 məre
 hatxɛla
 zeðaye
-lan qəṣyəlla
+qəṣyəlla lan
 hola
 zeðaye
 julləkθa
@@ -136232,13 +136232,13 @@ diye
 prime
 lɛðe
 dmixɛle
-lɛle m
+m lɛle
 šmiyɛle
 qalət
 qaṭe
 qaṭe
 narnartɛy
-goma gu
+gu goma
 ʾəθye
 l bəsra
 kulla
@@ -136255,7 +136255,7 @@ modila
 waða
 ʾanna
 qaṭe
-ɛka m
+m ɛka
 pišla
 laxxa
 liθwalən
@@ -136298,8 +136298,8 @@ pšaṭa
 ʾap qanane
 twirəllɛy
 zilla
-mo ʾawəð
-b gane
+ʾawəð mo
+gane b
 məre
 bena
 zilla
@@ -136308,21 +136308,21 @@ mo ʾoðexi
 ʾawwa
 šeðanɛle
 ʾawwa
-priṭ dina
+dina priṭ
 ʾap ʾaw
-ṱok̭e ʾu
+ʾu ṱok̭e
 ʾiman
 qarya
 ṱok̭e
 ṱok̭e
 la qarya
 diya
-b diya
+diya b
 qimle
 məre
 bena
 xazəx
-ʾoðəx mo
+mo ʾoðəx
 ʾitla
 brata
 gwirta
@@ -136330,7 +136330,7 @@ xa dukθa
 rəḥqa
 bratɛy
 gwirtɛla
-bɛθa xa
+xa bɛθa
 xena
 məre
 de nabəl
@@ -136373,20 +136373,20 @@ məre
 samət
 tawra
 babəx
-lləx mšudərre
+mšudərre lləx
 məra
 m kulle
-d tawra o
+o d tawra
 ʾawwa
 šaqola
 mšudərre
-bayanne la
-nabəlle si
+la bayanne
+si nabəlle
 maqləble
 qliba
 ṣəlyɛle
 məre
-mo wiðle
+wiðle mo
 lɛla
 bayəlle
 məre
@@ -136404,17 +136404,17 @@ məre
 litla
 xam
 siqɛle
-benət tərte
+tərte benət
 ʾaṭma
 goṛta
 muttəlla
 ʾap ʾay
-qam tara
+tara qam
 muwrɛle
 šaqolət
 tawra
 məra
-har ʾawwɛle
+ʾawwɛle har
 məre
 sama
 diyəx
@@ -136439,10 +136439,10 @@ diya
 qliba
 ṣəlyɛle
 məre
-har la wela
+la wela har
 razi
 ʾawwa
-yaðe la
+la yaðe
 modi
 bərya
 ʾawwa
@@ -136454,14 +136454,14 @@ məre
 hadiya
 hirra
 b ganɛy
-mo ʾoði
-b naša o
+ʾoði mo
+b o naša
 raba
 hire
-b ganɛla
+ganɛla b
 ṱok̭e
 la qarya
-di diya b
+diya b di
 hadiya
 brate
 diye
@@ -136470,9 +136470,9 @@ brata
 zorta
 məre
 ʾasqət
-lɛle m
+m lɛle
 jalde
-š d awwa
+awwa š d
 tuθa
 qaryati
 ʾoðət ʾu
@@ -136481,12 +136481,12 @@ tuk
 tuke
 tuk
 ʾawwa
-marpəxle t qa
+t marpəxle qa
 azəl ṱ
 brate
 diye
 siqtɛla
-š tuθa
+tuθa š
 heš
 xuya
 xuyɛle
@@ -136497,9 +136497,9 @@ tuk
 məre
 ʾayya
 ṱok̭e
-b awwa
+awwa b
 hewən
-ɛka m
+m ɛka
 ṱok̭e
 diya
 diya
@@ -136507,16 +136507,16 @@ danət
 ṱok̭e
 diya
 məre
-yarxe ʾarba
+ʾarba yarxe
 xamša yarxe
 pyašɛla
-ɛka m
+m ɛka
 ṱok̭e
 məre
 baba
 diya
 mparṭənne
-ṱok̭ela mo
+mo ṱok̭ela
 ʾayya
 šqilɛle
 xa šəndoxa
@@ -136531,7 +136531,7 @@ pšiqtɛla
 miθtɛla
 qimɛle
 ʾina
-brate ʾay
+ʾay brate
 diye
 miθta
 məre
@@ -136543,14 +136543,14 @@ dreli
 b ṱok̭e
 qrayɛwa
 ṱok̭e
-gu d awwa
+awwa gu d
 tuθa
 ʾap brate
 qṭilale
 ʾalaha ya
-naša ʾo
+ʾo naša
 mod
-ṱ oði
+oði ṱ
 biye
 b lɛle
 məre
@@ -136562,11 +136562,11 @@ mpalṭətte
 majirətle
 b lɛle
 məre
-litla xam
+xam litla
 mpaləṭwale
 čayəkwa
 xmaṭa
-b šərme
+šərme b
 diye
 y amərwa
 bassi
@@ -136579,13 +136579,13 @@ məre
 lɛle
 jyara
 šayətle
-b guda
+guda b
 benət
 ṭəḷḷəθ
 mpulṭəlle
 čikəlle
-b xmaṭa
-b šərme
+xmaṭa b
+šərme b
 diye
 bassi
 bassi
@@ -136606,17 +136606,17 @@ arqi ṱ
 məra
 maqðəxle
 bɛθa
-ʾawwa bəd
+bəd ʾawwa
 naša
 talxəx
 maxəx har
 b dunye
 ʾawwa
-b tayəmlɛni
+tayəmlɛni b
 məra
-arqexi bṱ
-de ʾədyo
-qu pɛgən
+bṱ arqexi
+ʾədyo de
+pɛgən qu
 kade
 də mjaməxlən
 jarreta
@@ -136626,7 +136626,7 @@ xeta
 marpəxxe
 bɛθa
 šoqəx ʾu
-arəq ṱ
+ṱ arəq
 azəl ṱ
 bar ʾu
 azəl ṱ
@@ -136639,7 +136639,7 @@ hole šmaʾa
 modila
 mara
 hole
-l got ɛ hodəx
+l ɛ hodəx got
 dərya
 ða kulla
 dmixa
@@ -136655,7 +136655,7 @@ kade
 widla
 jarreta
 muttala
-gu guniya ða
+ða gu guniya
 hatxa
 kade
 t qa
@@ -136677,8 +136677,8 @@ kade
 dəryəlla
 b reše
 diye
-hole xəpya
-gu juwala d a
+xəpya hole
+gu d juwala a
 ʾanna
 b lɛle
 murəšəlla
@@ -136703,7 +136703,7 @@ məre
 raba
 yaqurtɛla
 məre
-kade hola
+hola kade
 raba
 kadela
 yaqurela
@@ -136724,12 +136724,12 @@ xoni
 qəm nɛsili
 kalwe
 he kalba
-kalba brət
-mara hon
+brət kalba
+hon mara
 yaqurtɛla
 bena
 ʾurxa
-qəm jayərwala
+jayərwala qəm
 ṣlela
 jore
 məre
@@ -136737,14 +136737,14 @@ məšxane
 kade
 məšxane
 ṣlela
-b julle
+julle b
 diye
 šqaləlla
 mšayəlla
 məre
 ʾanna
 kade
-mu t
+t mu
 wiðta
 b anna
 kade
@@ -136761,19 +136761,19 @@ mšila
 hola
 mxalla
 ʾiðe
-l jore
-naša d o
+jore l
+o d naša
 ʾaw
 xšiwa
 məšxɛle
 ṣlaya
 mən kade
-l ḥaṣəl wa
+wa l ḥaṣəl
 məre
 hole
 gu juwala
 kalba
-kalba brət
+brət kalba
 lɛka
 šarṭəx
 mənne
@@ -136781,11 +136781,11 @@ diye
 məre
 amrənnəx ṱ
 xa məndi
-ṱ azəx
+azəx ṱ
 rəš gəšra
 damxəx
 rəš gəšra
-rəš ʾawwa
+ʾawwa rəš
 gəšrət
 nera
 b lɛle
@@ -136795,11 +136795,11 @@ lɛle
 šmaya
 məre
 mqaləbzəxxe
-gu šaṭṭa
+šaṭṭa gu
 dɛrəxle
-gu šaṭṭa
+šaṭṭa gu
 ʾaw
-šmaya hole
+hole šmaya
 ʾaw
 xšiwa
 la šame
@@ -136810,12 +136810,12 @@ xa šaṭṭa
 məra
 damxəx
 š gəšra
-salamət biš ile
+ile salamət biš
 ʾaxxa
 xuwwawe
 xuwwawe ma
 y lɛ aθɛ
-l d awwa
+awwa l d
 gəšra
 ʾaxxa
 damxexi
@@ -136828,20 +136828,20 @@ damxəx
 məre
 ʾat
 damxət
-b gaway
+gaway b
 t qa
-mqaləbzeti la t
+t la mqaləbzeti
 ṣalət
 ʾati
 baxta
 dmixta
 b gota ay
 gawṛa ʾu
-gota m ay
-ʾu xulama
+m gota ay
+xulama ʾu
 dəryəlle
 gawaye
-b lɛle t qa
+t b qa lɛle
 šaqlile
 zadɛle
 hadiya
@@ -136853,11 +136853,11 @@ o rəš d gəšra
 damxəx
 reše
 spay biš
-ʾaθa la t
+t la ʾaθa
 xuwwawe
 məndiyane
 ʾaxxa
-salamət biš ila
+ila salamət biš
 max
 gəšrə
 zawa
@@ -136865,8 +136865,8 @@ diyən d o
 məra
 ʾati
 dɛrəxlux
-l gaway
-napleti la t
+gaway l
+t la napleti
 b lɛle
 dmixe
 rəš gəšrɛla
@@ -136874,14 +136874,14 @@ rəš gəšrɛla
 dəryəlle
 gaway
 gawṛa
-gota m ay
+m gota ay
 baxta
-gota m ay
-b lɛle t qa
+m gota ay
+t b qa lɛle
 šaqlile
 zadɛle
-gu šaṭṭa
-gu nera
+šaṭṭa gu
+nera gu
 gu zawa
 ʾawwa
 yaðe
@@ -136904,36 +136904,36 @@ b gota ay
 xetɛle
 badlaθa
 jalde
-heš xuya
+xuya heš
 xuya
 məre
 baxta
 danɛla
 qimta
 baxta
-gota m ay
+m gota ay
 ʾawwa
 xulama
-gota m ay
+m gota ay
 gawṛa
 diya
 mquləbzəlle
 zədyəlle
 gu zawa
 məra
-mo widlux
+widlux mo
 məre
 ʾawwa
 məre
 gawṛəx
 zille
-mo widlux
+widlux mo
 biyi
 qəm ṣaṭmətle
 bɛθi
 ʾana
 nṭarənnəx
-dana kəma
+kəma dana
 bayən
 ʾati
 pɛšət
@@ -136941,21 +136941,21 @@ diyi
 hadiya
 gawṛa
 diya
-zadele qəm
+qəm zadele
 gu zawa
 pišla
 majbur
 mo
-oða bṱ
+bṱ oða
 məre
-ʾana w
+w ʾana
 ʾaw
-ix xaṱ
+xaṱ ix
 gawṛəx
 zille
 ʾana
 pɛšən
-šop gawṛəx
+gawṛəx šop
 qalbəx qu
 bɛθa
 spay biš
@@ -136967,7 +136967,7 @@ qəm ʾu gawərra
 ʾawwa
 xulama
 ʾu zille
-naše bar
+bar naše
 diye
 kulla
 muθɛle
@@ -136977,8 +136977,8 @@ mallakela
 zanginela
 ʾu pišle
 xyaʾa
-mən ɛ d baxta
-ʾana ʾu
+baxta mən d ɛ
+ʾu ʾana
 šwiqali
 tama
 ʾana
@@ -136988,7 +136988,7 @@ qarəkke
 ila ṱ
 kumta
 xa yoma
-tiwta ʾay
+ʾay tiwta
 l ʾilana
 b pumma
 gupta
@@ -137004,55 +137004,55 @@ b xerətta
 mənna
 gupta
 məre
-qaləx ʾən
+ʾən qaləx
 mdame
 ʾəlləx
 xa xena
 daxwaθəx lit
 qix
 qrela
-b gawət
+gawət b
 qala
 gupta
-pumma mən
+mən pumma
 npilla
 tela
-ṭrele mo
+mo ṭrele
 ʾəlla
 šeðanta
-qəm šaqəlla
-qəm ʾaryala
+šaqəlla qəm
+ʾaryala qəm
 pəšmanta
 tela
 məre
 šeðanta
 la mhaymnət
-maxkɛθa kul
+kul maxkɛθa
 basimta
 tela
 mere
 šeðanta
 la mhaymnət
-maxkɛθa kul
+kul maxkɛθa
 basimta
 ʾiθwa
-malka xa
+xa malka
 ʾiθwale
 xa brata
 bɛθa gu
-oyawa har y
+y oyawa har
 dmixta
 xala ʾu
-w dmixta
+dmixta w
 xala
 ʾitwala
-xa qarawət
+qarawət xa
 goṛta
 mɛθiwala
 xadamyaθa
 diya
 ʾixala
-axlawa w y
+y w axlawa
 damxawa
 le y
 palxawa
@@ -137062,7 +137062,7 @@ yoma
 yoma
 ṭla yoma
 pišla
-b šənne
+šənne b
 ʾay
 lipla har
 dmaxa
@@ -137071,7 +137071,7 @@ xala ʾu
 raba
 malka
 hirre
-b gane
+gane b
 diye
 biya
 diya
@@ -137083,7 +137083,7 @@ məre
 ʾoðən mo
 xa čara
 xazena
-ʾayya t qa
+t qa ʾayya
 brati
 qrele
 b wazir
@@ -137094,17 +137094,17 @@ diye
 hayyo
 xazəx
 mhayərri
-taxmantux bəd
-oðəx mo ṱ
-ayya d qa
+bəd taxmantux
+ṱ mo oðəx
+ayya qa d
 brata
 ila ṱ
-har dmixta
+dmixta har
 b lɛle
 b yoma
-xala w har
+w xala har
 dmaxa
-xala w
+w xala
 dmaxa
 məre
 xaðrəx
@@ -137112,7 +137112,7 @@ xazexi
 xa naša
 ile ṱ
 palaxa
-yaxla ʾu t
+t yaxla ʾu
 ʾəlle
 diye
 ʾaw
@@ -137127,8 +137127,8 @@ baba
 liθwale
 ʾiθwale
 xa tawra
-xa ʾu xmara
-kut yum
+xmara xa ʾu
+yum kut
 šule
 diye
 modi wewa
@@ -137139,22 +137139,22 @@ diye
 xmare
 diye
 qedamta
-azəlwa y
+y azəlwa
 zarewa
-aθewa ʾu y
+y ʾu aθewa
 l bɛθa
-axəlwa y
+y axəlwa
 məndi
 ʾi daməxwa
 šmila
-bud diye
+diye bud
 məra
 b alaha
 ʾawwa
-yalɛle xoš
+xoš yalɛle
 mabyone
 nabləxla
-yaxla t
+t yaxla
 ʾəlle
 diye
 mara
@@ -137166,7 +137166,7 @@ zraya
 qimela
 muttəlla
 gu ʾatnabəl
-ʾu wajjuwa
+wajjuwa ʾu
 diya
 kulla
 ʾotəx ʾɛ
@@ -137176,19 +137176,19 @@ gu ʾatnabəl
 nubləlla ʾu
 ʾaw
 ʾitle
-ʾotəx ða
-ayya d ʾax
+ða ʾotəx
+ayya ʾax d
 zurtɛla
 qarawət
-d awwa
-yəmme ʾu t
+awwa d
+t yəmme ʾu
 diye
-ʾal ʾu ʾara
+ʾara ʾal ʾu
 liθ
 ču məndi
 la
 kursiya
-la ču ʾu məndi
+la ʾu ču məndi
 mara
 nubləllɛla
 brata
@@ -137201,21 +137201,21 @@ yaba
 brata
 hox muθyəlla
 ṭlaləx
-bronux ṭla
-mṣela la
+ṭla bronux
+la mṣela
 mṣuwətla
 məra
 bratət
 malkɛla
-mṣela la
+la mṣela
 mṣuwətla
 ču məndi
 oða mo ṱ
 məra
 drola
-rəš qarawət
+qarawət rəš
 dəryəlla
-rəš qarawət
+qarawət rəš
 muθyəlla
 qarawət
 diya
@@ -137225,10 +137225,10 @@ dwiq
 qarawət
 diya
 dəryəlla
-š qarawət
+qarawət š
 ʾanna
 wajjuwe
-ži diya
+diya ži
 muttəlla
 tama
 pištɛla
@@ -137238,9 +137238,9 @@ yala
 mən zruta
 tawre
 murile
-goma gu
-siqle ʾu
-axəl ṱ ta
+gu goma
+ʾu siqle
+ta axəl ṱ
 məndi
 xazele
 ʾina
@@ -137248,7 +137248,7 @@ bɛθe
 ṃəḷya
 hay
 məre
-modila ʾay
+ʾay modila
 məra
 broni
 hatxɛla
@@ -137277,14 +137277,14 @@ mira
 malka
 muθyəlla
 laxxa
-ʾaw u
+u ʾaw
 wazir
-ʾu hola
+hola ʾu
 wajjuwe
 diya
 laxxa
-ʾay dmixta
-š qarawət
+dmixta ʾay
+qarawət š
 kefa
 diya
 basimta
@@ -137297,7 +137297,7 @@ he
 he
 litla
 xam
-ʾaθya xoš
+xoš ʾaθya
 b šɛna
 pištɛla
 hadəx
@@ -137305,7 +137305,7 @@ qimɛle
 lɛle
 qamaya
 məre
-yəmme qa
+qa yəmme
 diye
 bas
 mattatla
@@ -137315,9 +137315,9 @@ məre
 mattatla
 xa kawazət
 miya
-kəs w reša
+w reša kəs
 bas
-ʾixala la
+la ʾixala
 la ləxma
 la ču məndi
 bas
@@ -137325,7 +137325,7 @@ bas
 kawazət
 miya
 mattatla
-kəs reša
+reša kəs
 diya
 bas ʾu
 məra
@@ -137342,18 +137342,18 @@ muttəlle
 čay
 muttəlle
 beʾe
-xilɛle w ʾu
+w xilɛle ʾu
 ʾu tugbartəlle
-dwiqtəlle ʾu
+ʾu dwiqtəlle
 ʾixala
 čante gu
 diye
 jarreta
-amrəxla y
+y amrəxla
 jarreta
 dwiqtəlla
 masta ʾu
-burra gu w
+w gu burra
 driθəlle
 čante gu
 diye
@@ -137385,7 +137385,7 @@ xa ramša
 ʾəlle
 diye
 šurele
-ʾaxəl t ta
+t ta ʾaxəl
 məre
 yəmmi
 ʾɛnile
@@ -137394,9 +137394,9 @@ məra
 babi
 plixɛt
 ʾati
-w ʾu xmara
+xmara w ʾu
 tawra
-ʾana ʾu
+ʾu ʾana
 mtugbartən
 bɛθa
 ʾap xa
@@ -137404,23 +137404,23 @@ lɛle plixa
 məra
 la
 məre
-ʾo t
+t ʾo
 la
 paləx
 le
-axəl y
+y axəl
 mašmoye
 ʾəlla
 diya
 məre
 kut
-paləx la
-gu d awwa
+la paləx
+awwa gu d
 bɛθa
 ʾixala
 le
-axəl y
-paləx ʾo t
+y axəl
+t paləx ʾo
 ʾaw
 axəl ṱ
 mara
@@ -137442,7 +137442,7 @@ diye
 wiðtəlle
 fṭarta
 fṭirɛle
-məndi ʾu
+ʾu məndi
 xena
 kulla
 muttɛθəlle
@@ -137452,7 +137452,7 @@ ku məndi
 iθwala ṱ
 ləxma
 masta ʾən
-ku məndi ʾən
+ʾən ku məndi
 ʾiθwaley
 ʾu šqila
 tawre
@@ -137475,32 +137475,32 @@ məra
 babi
 ʾatit har
 plixa
-w ʾu xmara
+xmara w ʾu
 tawra
-ʾana ʾu
+ʾu ʾana
 mquzqaztən
 bɛθa
 məre
 ʾaxni har
-axləx bṱ
-ʾo ile ṱ
+bṱ axləx
+ile ʾo ṱ
 plixa
 ʾaw
-axəl bṱ
-ʾo t lɛle
+bṱ axəl
+t ʾo lɛle
 plixa
 la
 sapər
 axəl ṱ
 ṣraxɛle
-qa t šama
+t qa šama
 bratət
 malka
 kpinna
 yomə
 ṭḷaθɛla
 dmixela
-xa bena
+bena xa
 xeta
 qimela
 qedamta
@@ -137509,7 +137509,7 @@ qimɛle
 fṭirɛle
 mxulləlla
 paθe
-diye w
+w diye
 ʾu zilɛle
 šule
 diye
@@ -137520,12 +137520,12 @@ hal
 ʾaṣərta
 ʾaṣərta
 ʾaθe
-l ʾaw ḥammam
+l ḥammam ʾaw
 saxe
 yəmme ʾu
 diye
 mtugbərra
-ʾixala w
+w ʾixala
 w muttula
 ḥasba
 l ʾuṣul
@@ -137551,7 +137551,7 @@ xa ʾamana
 xanči
 zora
 muttəlla
-kəs reša
+reša kəs
 diya
 ṣawθa
 liθən
@@ -137560,11 +137560,11 @@ lɛle
 mṣawoθe
 mənna
 diya
-žigən ʾu ʾay
+ʾay žigən ʾu
 lɛla
 qyama
 har dmixtɛla
-ləbba bəd
+bəd ləbba
 gu bɛθət
 baba
 diyɛla
@@ -137583,25 +137583,25 @@ b lɛle
 qimtɛla
 štiθa
 miya
-xiltəlla ʾu
-ʾixala ʾo
-gana gu ʾay
+ʾu xiltəlla
+ʾo ʾixala
+ʾay gana gu
 mtuxmənna
 məra
-ʾazən ʾən
+ʾən ʾazən
 b ayya
 ʾurxa
 mɛθana
 la
 qɛmən
 jalde
-ṱ oðən ta
+oðən ta ṱ
 pəlxana
 ṭla gani
-ta axlən ṱ
+ta ṱ axlən
 yomət
 ʾarpa
-baθər m
+m baθər
 ile ṱ
 yaʿni
 fṭirɛle
@@ -137618,7 +137618,7 @@ mxulalta
 ʾamane
 kništa ʾu
 bɛθa
-mtugbarta ʾu
+ʾu mtugbarta
 ʾəθyɛle
 yala
 diṛɛle
@@ -137645,7 +137645,7 @@ qimtɛla
 tiwtɛla
 šuryela
 xilela
-ġðaðe m
+m ġðaðe
 yomət
 xamša
 qimla
@@ -137666,16 +137666,16 @@ dwiqla
 zwaðe
 drela
 čante gu
-zara bar ʾu
+bar zara ʾu
 hadəx
 ṣlela
 mənne
-goma gu
+gu goma
 mpulṭila
 w tawra
 xmara
 pašṭale qəm ʾu
-b ʾurxa w
+w b ʾurxa
 w zille
 w ay
 θela
@@ -137683,7 +137683,7 @@ siqla
 siqla
 pišla
 w plaxa
-knaša w
+w knaša
 mšaya
 ʾaxxa
 l tamma
@@ -137699,7 +137699,7 @@ tu
 palxən
 šurela
 w plaxa
-ʾu w brata
+w ʾu brata
 ʾaxxa
 l tamma
 yoma
@@ -137725,7 +137725,7 @@ malka
 məre
 ṭla wazir
 yaba
-ṱ azəx
+azəx ṱ
 xazəx
 bratɛni ʾɛ
 ma
@@ -137739,8 +137739,8 @@ xa məndi
 θiθa
 biya
 ʾamər
-malka də qu
-ṱ azəx
+də malka qu
+azəx ṱ
 qimela
 zilela
 xmaθa
@@ -137781,7 +137781,7 @@ tara
 xziθəlle
 baba
 diya
-ʾup ʾu wazir
+ʾu ʾup wazir
 mənne
 ha
 brati
@@ -137789,7 +137789,7 @@ dax it
 dax lɛt
 məra
 babi
-spay in
+in spay
 basima
 raba
 məre
@@ -137820,21 +137820,21 @@ b qðali
 waðəlle
 məra
 de tiwe
-ṱ oðən
+oðən ṱ
 ʾixala
 xaʾa
-mən anna d
+mən d anna
 kubbe
 goṛe
 xaʾa
 ṭla xmaθila
 xa ʾu
 ṭla gawṛi
-ʾa ṱ ila
+ila ʾa ṱ
 ṭlali
 ʾawðanna
 qəsme tre
-yanna t
+t yanna
 xa ṭlalux
 xa ʾu
 ṭla wazir
@@ -137845,12 +137845,12 @@ məra
 sabab
 ʾawwa
 yala
-paləx la ʾo t
+t la paləx ʾo
 le
-axəl y
+y axəl
 litle
 sama
-gu d awwa
+awwa gu d
 bɛθa
 hayyo
 mut
@@ -137862,7 +137862,7 @@ sami
 t yanne
 ṭlalɛxu
 ʾana
-le axlən y
+le y axlən
 məre
 brati
 la
@@ -137873,16 +137873,16 @@ la
 azexi ṱ
 la
 pɛšəx
-xadaya ṭla
+ṭla xadaya
 qimɛle ʾu
 malka
 xəðya
-gu gane w
-ʾaw u
+gane w gu
+u ʾaw
 wazir
-ʾu zilela
+zilela ʾu
 zilela
-qimtɛla ʾay
+ʾay qimtɛla
 wiðtɛla
 kubbe w
 qliθəlla ʾu
@@ -137892,16 +137892,16 @@ tama
 tiwtɛla
 xmaθa
 diya
-u ʾay
+ʾay u
 xmaθa
 diya
-xilela w
+w xilela
 šwiqtɛla
-gawṛa ṭla
+ṭla gawṛa
 diya
 θele
 gawṛa
-žigən diya
+diya žigən
 xilɛle
 ʾamər
 kəma basimtɛla
@@ -137925,30 +137925,30 @@ b pəlxana
 lipla ʾu
 pəlxana
 bayən
-yaðən t
+t yaðən
 ʾawwa
-naša bəṛ
+bəṛ naša
 modile
 dax
 mṣele
 ʾayya
 brata
-qəm ʾawədla
-b pəlxanət
+ʾawədla qəm
+pəlxanət b
 bɛθa
-ka ʾu t
+t ka ʾu
 bratət
 malka
 lipta ʾu
-dmaxa w har
+w dmaxa har
 xala
-dmaxa w
+w dmaxa
 xala
 ʾədyo
 pɛša
 ʾay
 maxole
-naše ṭla
+ṭla naše
 məre
 lazəm
 yaðən
@@ -137971,7 +137971,7 @@ zdille
 məre
 ʾa
 malka xzi
-awəð bṱ
+bṱ awəð
 biyi
 zilɛle
 məre
@@ -137988,16 +137988,16 @@ brata
 wiðalux
 bratət
 bɛθa
-w ʾu palaxta
+w palaxta ʾu
 mbašole
-xyapa w ʾu
-w mšaya
-knaša w
+w ʾu xyapa
+mšaya w
+w knaša
 mbašole
 xa ʾu kul
 məndi
 waða
-ka t
+t ka
 gu bɛθi
 qimta
 briθɛla
@@ -138024,9 +138024,9 @@ awət ṱ
 basima
 hadiya
 ʾana
-ṱ amrənna llux
-ʾu hamənni
-har hadəx ile
+llux amrənna ṱ
+hamənni ʾu
+hadəx ile har
 dus
 ʾana
 ʾap diya
@@ -138040,57 +138040,57 @@ diya
 le y
 manšənna
 hal
-yomət mawθa
+mawθa yomət
 məre
 ʾitli
 xəyal
-paləx la ʾo t
+t la paləx ʾo
 gu bɛθi
 litle
 sama
 le
-axəl y
-paləx ʾo t
+y axəl
+t paləx ʾo
 gu bɛθi
-axəl bṱ
+bṱ axəl
 ʾati
 diya
 ʾaθət
 gu bɛθi
 palxət la
-yannux le y
+le y yannux
 ʾixala
 ʾana
-ṭḷa yome
+yome ṭḷa
 qəm mjarbənna
 məri
-yəmmi qa
-miya bas
+qa yəmmi
+bas miya
 mattət
-qam reša
+reša qam
 diya
-ṭḷa yome
+yome ṭḷa
 miya
 wela
-qam reša
+reša qam
 diya
 pišla
 b gana
 majbur
 ʾana
 yəmmi
-awðawali y
+y awðawali
 fṭarta
 ʾixala
-azənwa y
+y azənwa
 mtagəbrawa ʾu
 qənyani
-azənwa y
+y azənwa
 plaxa
 w ay
 dmixta
 ʾana
-iwən majbur
+majbur iwən
 azən ṱ
 qaṭlən
 gani
@@ -138101,7 +138101,7 @@ maxlənna
 na mumkən
 yomə
 ṭḷaθa
-baθər m
+m baθər
 ʾana
 zilli
 šula
@@ -138109,7 +138109,7 @@ qimla
 ṣlela
 knaša
 məri
-yəmmi qa
+qa yəmmi
 ʾɛnila
 plixa
 məra
@@ -138125,14 +138125,14 @@ məri
 laʿat
 xanči
 ʾaxla
-ʾu muttɛθəlla
+muttɛθəlla ʾu
 hatxa
 xanči
 muttɛθəlla
-kəs reša
+reša kəs
 qimtɛla
 b lɛle
-xiltɛla ʾay
+ʾay xiltɛla
 štiθɛla
 miya
 hal yomət
@@ -138150,17 +138150,17 @@ bɛθa
 widla
 fṭarta
 ʾəlli
-xillən ʾu
+ʾu xillən
 kullən
-ġðaðe m
+m ġðaðe
 ʾu zilli
 l šula
-ʾu diṛṛi
+diṛṛi ʾu
 widla
 ʾixala
 ʾay
 b gana
-b pəlxana ʾu
+b ʾu pəlxana
 b gana
 zala w
 θaya
@@ -138176,13 +138176,13 @@ biya
 diya
 lan
 məxyəlla
-lan ʾu
+ʾu lan
 mṣurəlla
-lan ʾu
+ʾu lan
 muləpəlla
-la ču ʾu məndi
-bas məri
-la ʾo t
+la ʾu ču məndi
+məri bas
+t la ʾo
 paləx
 na mumkən
 axəl ṱ
@@ -138207,14 +138207,14 @@ wazir
 pɛšət
 mənni
 mənni
-yannux ʾu t
+t ʾu yannux
 ʾupra
 kəma t
 bayət
-ʾu plox
+plox ʾu
 gawe
 diye
-ʾu mapləx
+mapləx ʾu
 naše
 ʾamər
 laʾa
@@ -138223,7 +138223,7 @@ hole
 yiwəlli
 ʾayya
 ʾurxa
-ʾana ʾu
+ʾu ʾana
 azən ṱ
 b ayya
 ʾurxa
@@ -138232,14 +138232,14 @@ rəḍya
 ʾupra
 ʾitli
 ṃaḷyanɛle
-ʾana w
+w ʾana
 yəmma
 baxtɛwəx ʾu
 təmməl
 yəmmi
 mitla
 pɛšəx
-ʾana w
+w ʾana
 baxti
 ʾitli
 ʾupra
@@ -138253,7 +138253,7 @@ malka
 w ʾaxxa
 tamma
 hayyo
-mənni puš
+puš mənni
 məre
 laʾa
 ʾana
@@ -138265,7 +138265,7 @@ amreti ṱ
 ṭlali
 ha
 ʾana
-hon yiwəllux
+yiwəllux hon
 ʾupra
 w hon
 yiwəllux
@@ -138275,7 +138275,7 @@ brata
 lat waða
 b xabri
 balki
-ʾawðən la
+la ʾawðən
 xabrux
 dana ʾɛ
 balki
@@ -138294,22 +138294,22 @@ yomanux
 yallux
 b ayya
 dunye
-b ɛ ʾu xeta
-šwiqalən ʾu
+b ʾu ɛ xeta
+ʾu šwiqalən
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 ʾarya
 gu ġaba
 qəm dawəqla
 ða ġazaliya
-ʾaw u
-dewa w
+u ʾaw
+w dewa
 tela
 pišla
 xawrane
-doqila qəm
+qəm doqila
 ða ġazaliya
 ʾarya
 məre
@@ -138331,12 +138331,12 @@ basima
 ʾaṭmaθa
 diya
 ṭlalux
-ʾu rušana
+rušana ʾu
 diya
 ṭlali
-ʾu u ay d rešə
+u rešə ʾu d ay
 danwa
-tela ṭla
+ṭla tela
 ʾarya
 məxyəlle
 šaqqana
@@ -138358,7 +138358,7 @@ məre
 b qaṭəlli
 məre
 ʾarya
-tela ṭla
+ṭla tela
 hayyo
 tela
 ʾati
@@ -138376,12 +138376,12 @@ fṭartux
 rušane
 xulla
 xadaya
-məndi ʾu t
+t ʾu məndi
 payəš
 ʾaṣərta
 xa ramša
 xulle
-dmux ṭlu ʾu
+ṭlu dmux ʾu
 ʾamər
 ʾati
 raba
@@ -138397,11 +138397,11 @@ dewa
 ʾiθwa
 xa ṭaxana
 ṭaxana
-qam ða ʾarxe
+ða ʾarxe qam
 ʾarxe
 kulle
 palxawa
-bas axəlwala y
+y bas axəlwala
 θele
 tela
 məre
@@ -138409,7 +138409,7 @@ xoni
 pɛšəx
 xonawaθa
 ʾana
-ati w
+w ati
 pɛšəx
 xonawaθa
 məre
@@ -138418,14 +138418,14 @@ xonawaθa
 ʾati
 tela
 ʾana
-naša bəṛ
-oðəx ṱ
+bəṛ naša
+ṱ oðəx
 ʾayya
 ʾarxe
 palxəx
 axləx ṱ
 ʾana
-ati w
+w ati
 ʾana
 asqən ṱ
 ṭura
@@ -138436,13 +138436,13 @@ qəqwane
 mɛθən
 an mən məndiyane
 gu ṭura
-ṱ aθəx
+aθəx ṱ
 ʾaxxa
-mbašləxla ʾu
+ʾu mbašləxla
 axləxla ṱ
 ʾana
-ati w
-ġðaðe m
+w ati
+m ġðaðe
 de
 pišla
 xonawaθa
@@ -138451,28 +138451,28 @@ xonawaθa
 xa yoma
 tre
 ṭḷaθa
-xa yarxa
+yarxa xa
 xa šeta
 ʾamər
 tela
 ʾamər
 qɛmən
 ʾasqən
-malka kəs
-ayya d maθa
+kəs malka
+maθa ayya d
 ṭalbənne
 masərqe
 diye
 məre
 mut
-ṱ oðət
+oðət ṱ
 b masərqa
-ma lux
+lux ma
 mənne
-xone ta
+ta xone
 diyele
 mara
-ma lux
+lux ma
 mənne
 ʾati
 məre
@@ -138484,15 +138484,15 @@ masərqa
 zdele
 tamaha
 məre
-malka ta
+ta malka
 məre
 bayənne
 ʾawwa
 masərqɛxu
-ʾu našət
+našət ʾu
 maθa
 kulla
-ʾəθye hola
+hola ʾəθye
 kpiše
 sarqi
 ʾamṛa
@@ -138508,7 +138508,7 @@ mbadla
 hal diya
 ʾamṛa
 muttuli
-ʾanbare gu
+gu ʾanbare
 malka
 məre
 ʾalaha ya
@@ -138522,20 +138522,20 @@ mðita
 litli
 hatxa
 məndi
-ɛkɛwa w m
-ɛka m
+m w ɛkɛwa
+m ɛka
 ʾitlux
 ʾawwa məndi
 dugle har
 ziltɛla
-xa šabθa
+šabθa xa
 hodəx
-xa bena
+bena xa
 xena
 siqɛle
 məre
 malka
-xa bena
+bena xa
 xena
 halli
 w masərqa
@@ -138545,7 +138545,7 @@ marrəs
 diyi
 naša ʾaw
 m ɛkɛle
-marrəs ʾaw
+ʾaw marrəs
 diye
 ṣəlyɛle
 ʾaṣərta
@@ -138557,7 +138557,7 @@ masərqa
 məre
 sqidla
 naše
-ila ṱ ma
+ma ila ṱ
 sriqe
 mbadla
 hal diya
@@ -138565,7 +138565,7 @@ hal diya
 tre mma
 naše
 sraqa
-marrəs wɛwa
+wɛwa marrəs
 mujəble
 malka
 mujəble
@@ -138573,11 +138573,11 @@ məre
 ʾawwa məndi
 hatxa
 liθ
-xa bar yarxa
+yarxa xa bar
 siqɛle
-xa bena
+bena xa
 xena
-malka kəs
+kəs malka
 məre
 malka
 awət ṱ
@@ -138589,7 +138589,7 @@ zuzi
 rapəkθa
 kɛli
 daxla
-wawa hatxa
+hatxa wawa
 kɛlənna
 zuzi
 xazən
@@ -138598,12 +138598,12 @@ rapəkyaθa
 məre
 ʾana
 malkən
-d ay bažər
+bažər d ay
 litli
 hatxa
 zuze
 ʾawwa
-ɛka m
+m ɛka
 hatxa
 zuze
 rapəkθa
@@ -138621,16 +138621,16 @@ kulla
 sqidla
 kulla
 kyala
-ʾanbare gu
+gu ʾanbare
 zuze
 dugle
 mdi ču
 liθ
 bar
-yɛrxa xa
+xa yɛrxa
 məre
 xoni
-xone ṭla
+ṭla xone
 diye
 ṭaxana
 ṭaxanɛwa
@@ -138641,13 +138641,13 @@ bratət
 malka
 ʾəllux
 xoni
-mo ṱ oðən
+oðən mo ṱ
 biya
-malka brat
-mo ṱ oðən
+brat malka
+oðən mo ṱ
 biya
 ʾay
-malka brat
+brat malka
 ʾana
 ṭaxanɛwən
 məre
@@ -138682,36 +138682,36 @@ məre
 awe ʾiman ṱ
 xlula
 məre
-xa šabθa bar
+šabθa xa bar
 ṣəlyɛle
 məre
 xoni
-qəm ṭalbənna
-xašše ʾo m
+ṭalbənna qəm
+m xašše ʾo
 mitle
 m darde
-xašše m
+m xašše
 ʾana
-hoyali mo
+mo hoyali
 xaṭər
 ʾalaha
 ʾana
 mo
-ṱ oðən
+oðən ṱ
 biya
-malka brat
+brat malka
 pišɛle
 lɛle
 tmanya
 yome
 priqela
 musqela
-dawla w
+w dawla
 zorna
-ʾu rqaðtɛla
+rqaðtɛla ʾu
 zmartɛla
 muθyala
-malka brat
+brat malka
 məre
 ʾaxtu
 kut ʾaθɛtu
@@ -138726,23 +138726,23 @@ baθri
 ṣəlyɛle
 ṣəlyɛle
 məṭyɛle
-xa kawtət
+kawtət xa
 ʾərwe
 ʾibe
-ṭḷaθa tre
+tre ṭḷaθa
 ʾalpa
-ʾərwe reš
+reš ʾərwe
 qəm qarela
-šavane ʾan
+ʾan šavane
 məre
 d ɛnila
 ʾərwe ʾan
 məra
-naša t flan
+t flan naša
 məre
 bas
-ṱ amrənnɛxu
-ʾamrilɛxu ʾən
+amrənnɛxu ṱ
+ʾən ʾamrilɛxu
 ʾərwe ʾan
 d ɛnila
 muru
@@ -138759,7 +138759,7 @@ bas muru
 šəmmət
 ʾajdən
 tela
-qəm awədle
+awədle qəm
 šəmme
 ʾajdən
 θele
@@ -138784,20 +138784,20 @@ d ay
 baθre
 ṣlele
 mṭele
-kawta xa
+xa kawta
 kallət
 gameše
 tawraθa
 məre
-šavana ta
+ta šavana
 tela
-məre ma
+ma məre
 məre
 d ɛnila
 məre
 diyila
 ʾamrət
-θela ʾən
+ʾən θela
 ṣlaya
 ʾaxxa
 xakma
@@ -138808,7 +138808,7 @@ mənnux
 ʾanna
 d ɛnila
 mur
-ga ʾanna
+ʾanna ga
 t ʾajdən
 telɛla
 ʾap ʾani
@@ -138826,7 +138826,7 @@ xðayɛle
 malka
 mara
 ʾana
-ɛka m
+m ɛka
 hatxa
 mal
 ʾana
@@ -138835,10 +138835,10 @@ xa ʾaθṛa
 litli
 hatxa
 mal
-ʾo ɛka m
+m ʾo ɛka
 mal diye
 məre
-har to
+to har
 baθri
 ṣlela
 mṭele
@@ -138849,19 +138849,19 @@ qamaye
 bayət
 dus
 kulle
-gumle wawa
+wawa gumle
 xaṣət
 gumle
 y aziwa
 kəma
 ila ṱ
 bariya
-gumle wawa
+wawa gumle
 məre
 d ɛnila
-qəm qarele
-šavana ʾo
-θele ʾən
+qarele qəm
+ʾo šavana
+ʾən θele
 mbuqərre
 xa naša
 məre
@@ -138885,25 +138885,25 @@ leliθa
 ṣraxɛle
 tela
 hawarila
-pliṭṭɛla ʾay
+ʾay pliṭṭɛla
 maṣyoθe
 bayi
 dəmma
-tela t
+t tela
 dəmmət ʾu
 leliθa
 qaṭlilɛni
-maxɛle t
+t maxɛle
 b bronət
 malka
 ṭəpya
 xərsɛle
 ṭəpya
-malka bron
+bron malka
 xərsa
 maxɛle
 biye
-tarəṣ t
+t tarəṣ
 pliṭṭa
 muṣyaθtɛla
 leliθa
@@ -138911,14 +138911,14 @@ məra
 modi
 mərux
 ʾana
-li ma
+ma li
 mənnux
 ʾana
 θeli
 marəlləx
-ṭašyatta t qa
+t qa ṭašyatta
 ganəx
-mo ṱ oðən
+oðən mo ṱ
 hola
 xzi
 bariya
@@ -138941,36 +138941,36 @@ garuwa
 goṛa
 məre
 mṭašənnəx
-gu d aw
+gu aw d
 šqille
 šqille
 šqille
-qəm mawərra
+mawərra qəm
 bnele
 kulla
 ʾo ṭarpa
 č̭ənnək̭ɛra
 diya
 kulla
-qəm banela
+banela qəm
 məre
 kəma
-ṱ aθya
+aθya ṱ
 qašqašta
 la jojati
 pyaðɛla
 ʾaskar
-qəm ṭapela
+ṭapela qəm
 nura
-ʾəsri m
+m ʾəsri
 dukane
-mara ʾay
+ʾay mara
 šxana
 holi
 məre
 qəssa
 pidla
-maqədla qəm
+qəm maqədla
 ʾawədla
 tarəkka
 qṭilale
@@ -138986,7 +138986,7 @@ kubə
 čay
 t dawa
 kulley
-leliθɛla t
+t leliθɛla
 ʾayya
 martət
 ʾamare
@@ -138994,19 +138994,19 @@ rqaðtɛla
 zmartɛla
 xaltɛla
 štɛθɛla
-siqle ʾu
+ʾu siqle
 tela
 makroze
 məre
-ku ile ṱ
+ile ku ṱ
 xila
 gu čamča
 b skinta
 gu ʾamana
-b kuba
+kuba b
 kulla
 šaqəl
-gane ta
+ta gane
 diye
 masəqle
 ʾana
@@ -139049,13 +139049,13 @@ amrəx ṱ
 xone
 b ziqa
 məre
-ma lux
+lux ma
 xoni
 məre
 ṭla baxte
 diye
 məra
-ma lux
+lux ma
 xačča
 mərya
 xonəx
@@ -139097,7 +139097,7 @@ məra
 čirri
 ʾaw
 ṭaxxana
-ṭaxxanɛθɛle bron
+bron ṭaxxanɛθɛle
 ʾayyɛla
 məra
 ʾayyɛla
@@ -139107,28 +139107,28 @@ xone
 diye
 xa yoma
 tre
-xa šabθa
-yɛrxa xa
+šabθa xa
+xa yɛrxa
 bxele
 bxele
-ʾo t wewa
+t wewa ʾo
 gwira
 məre
 suq
 mɛθila
 baxti
 məre
-la asqən y
+y la asqən
 ʾana
-la asqən y
-xa bena
+y la asqən
+bena xa
 mrili
 ʾayya
-in ṱ wiðəlla
+in wiðəlla ṱ
 mənnux
 mərux
 zdole
-la asqən y
+y la asqən
 ʾaxxa
 l tamma
 məre
@@ -139154,34 +139154,34 @@ lebe
 ʾəlli
 šqilalux
 brati
-xonux ta
+ta xonux
 ṭaxxana
 bron ṭaxxanɛθa
 məre
-amrənnux ṱ xzi
+xzi amrənnux ṱ
 malka
 ʾana
 maṭo
 mṣarən
-yəmme ṭla
+ṭla yəmme
 yəmme
 diye
-yəmmi wawa
+wawa yəmmi
 yəmme
-wawa d aw
+wawa aw d
 dax ʾana
 mṣarən
 babe
 diye
 babiwa
 babe
-iwa d aw
+iwa aw d
 dax mṣarən
 ṭla babe
 ʾap ʾana
 ʾay
 lximla
-š lišani
+lišani š
 məri
 ṭaxxana
 bron ṭaxxanɛθa
@@ -139191,13 +139191,13 @@ bron ṭaxxanɛθa
 klele
 malka
 ṣla qu
-ʾu ṣlela
-xa bena
+ṣlela ʾu
+bena xa
 xena
 ṣlela
 pišle
-xa yarxa
-xa bena
+yarxa xa
+bena xa
 xena
 tela
 mrile
@@ -139217,15 +139217,15 @@ gawe
 šaxənwa
 bɛθa
 mrile
-tmanya yome
+yome tmanya
 mitle
 lɛle
 ṣbara
-ṱ awər
+awər ṱ
 xa
 mitle
 priqle
-tmanya yome
+yome tmanya
 xirre
 məre
 šqulle
@@ -139251,13 +139251,13 @@ taʾla
 laqləq qa
 drele
 ʾixala
-axəl ṱ qa
+axəl qa ṱ
 gu ʾamana
 laṭṭa
 ʾina
 ʾap rešə
 lišane
-mṭele la ʾəlle
+ʾəlle la mṭele
 tela
 kulla
 qəm axəlle
@@ -139265,9 +139265,9 @@ qame
 diye
 ʾina
 kizle ʾaw
-b lqaṭa
+lqaṭa b
 ču məndi
-mṭele la
+la mṭele
 ʾap laqləq
 xa yoma
 ʾəlle čidle
@@ -139275,7 +139275,7 @@ qəm dɛrele
 xa gu
 ʾamana
 ʾamuqa
-ʾu pumme
+pumme ʾu
 ʾiqa
 kizle
 tela
@@ -139288,29 +139288,29 @@ xɛla
 ʾap rešət
 lišane
 diye
-mṭele la
+la mṭele
 ʾawwa
-qəm mattule
+mattule qəm
 naqruze
 diye
 kulla
 gawa
 qəm sarəple
 diya manay
-ku məndit
+məndit ku
 ʾoðətle
-payəš bəd
+bəd payəš
 ʾəllux kila
 kilət
 kɛlətle
-payəš bəd
-kila llux
+bəd payəš
+llux kila
 xa naša
 siqɛwa
 l ṭura
 qṭala
 ʾərwe
-aθɛwa ṱ qa
+aθɛwa qa ṱ
 atwiwa ṱ
 gu diwən
 šatɛwa
@@ -139331,7 +139331,7 @@ pišle
 b lɛle
 məre
 manixən
-lɛle ʾəd
+ʾəd lɛle
 laxxa
 xu mbadla
 qɛmən
@@ -139340,7 +139340,7 @@ wira
 tiwɛle
 gu gəppa d o
 ga ʾɛ
-xa bena
+bena xa
 b lɛle
 θele
 xa hambišaya
@@ -139355,28 +139355,28 @@ pqile
 ʾawwa
 hambišaya
 mut
-ṱ oðən
+oðən ṱ
 ʾana
 xaṭər
 ʾalaha
 ʾap ʾaw
-bəṛ našɛle
+našɛle bəṛ
 bas
-xa tahər
+tahər xa
 xenɛle
 məre
 ʾalaha ya
 ya
-zaya mar
+mar zaya
 gawza flan
 qablənne
-zaya ṭla mar
+mar ṭla zaya
 ʾawəð
 xa kʸɛr
 ʾəlli
 šarṭən
-gu ʾiθaθə
-d awwa
+ʾiθaθə gu
+awwa d
 naša
 xena
 qṭila
@@ -139401,13 +139401,13 @@ bṱ axəlwa
 naša ʾaw
 məre
 ʾalaha ya
-zaya ya mar
+mar ya zaya
 wudli
 xa čara
-mən d awwa
+awwa mən d
 primle
 ʾo neriya
-lle ʾu hiwle har
+hiwle har ʾu lle
 qəm axəlle
 kulle
 ʾo neriya
@@ -139415,7 +139415,7 @@ neriya
 zaxma
 ʾərba
 qəm axəlle
-xa bena
+bena xa
 muttale
 ʾiðe
 hatxa
@@ -139423,23 +139423,23 @@ hatxa
 ṭlile
 hambišaya
 bena
-ʾaw ṭale
-xa šabθa
+ṭale ʾaw
+šabθa xa
 ṭale
 ʾalaha ya
 ʾoðən mo
-ya babət
+babət ya
 raxme
 wudli
-xa rəxma
-mən d awwa
+rəxma xa
+awwa mən d
 naša
 xačča
 jwijle
 hatxa
 jwijle
 hatxa
-ʾaw la
+la ʾaw
 mhorəkle
 ʾɛne
 pθixtɛla
@@ -139448,19 +139448,19 @@ hole
 šišale
 gane
 hatxa
-xa bena
+bena xa
 widle
 hatxa
 ṭla gane
 diye
 grišale
 diye gan
-jwijle la
+la jwijle
 de
 pliṭle
 gu tarət
 gəppa
-ʾaw hatxa
+hatxa ʾaw
 ʾɛne
 diya
 pθixta
@@ -139474,42 +139474,42 @@ tope
 diye
 spay
 mukpale
-gu ʾɛne be
-gu ʾɛne
+ʾɛne be gu
+ʾɛne gu
 diye
 ʾalaha ya
 riqle
-təx m əl
+m əl təx
 ṣrixle
-qala xa
+xa qala
 mən qale
 diye
 ṣrixle
 jirile
-gu šərwale
+šərwale gu
 žare
 faqira
-ʾu riqle
+riqle ʾu
 kulle
 ʾo nura
-qəm darele
+darele qəm
 b reše
 diye
 naše
 sparɛla
-atwi ṱ ta
+ta atwi ṱ
 b diwən
-xamli t ta
+t ta xamli
 sparɛla
 ʾina tope
 diye
 lhaya
 məra
-ma lux
+lux ma
 k̭ora
 xarəpša
 maw lux
-ma lux
+lux ma
 ʾamər
 šuqla
 ʾalaha
@@ -139540,10 +139540,10 @@ priməlla
 dəryəlla
 reše
 diye
-xoney wewa
+wewa xoney
 šriṭlən
 gu d ay
-xa baxta ʾiθwa
+baxta xa ʾiθwa
 xa brata
 məra
 ʾədyo
@@ -139554,39 +139554,39 @@ l nera
 maṣla
 w margəlta
 qɛse
-məndi ʾu
-ṱ oðət
+ʾu məndi
+oðət ṱ
 miya
 šaxine
-xɛpəx t ta
+t ta xɛpəx
 qimtɛla
 ṣliθɛla
 muṣlɛθɛla
-masrəqta w
+w masrəqta
 julle w
 məndi
 muttɛθa
 margəlta
 ṭla yəmma
 diya
-t xɛpi qa
+t qa xɛpi
 θiθɛla
-ða qarəkke
+qarəkke ða
 šqiltəlla
 masrəqta
 diya
-ʾu muraqtəlla
-riqtɛla ʾay
-baθra w
-riqta w
+muraqtəlla ʾu
+ʾay riqtɛla
+w baθra
+w riqta
 riqta
-kaza ʾay
+ʾay kaza
 qraya
 qarəkke
 qarəkθonti
 hallila
 masrəqθonti
-la maxyali t
+t la maxyali
 dekonti
 ʾay
 yawəlla la har
@@ -139597,7 +139597,7 @@ goṛa
 siqla
 l gare
 zadyala qəm
-b xa kawe
+xa b kawe
 masrəqθa
 diya
 ṣlela
@@ -139617,15 +139617,15 @@ bɛθa gu d o
 ʾanna
 məra
 xoni
-raya hola
+hola raya
 dunye
 məre
 he
 b alaha
-raya hola
+hola raya
 pliṭle
 xa mənna
-qam tara
+tara qam
 θele
 məre
 la
@@ -139634,7 +139634,7 @@ lɛla raya
 ṣəxwɛla
 dəmmət
 ʾɛna
-b ɛ ga
+b ga ɛ
 qime
 siqe
 gare
@@ -139663,7 +139663,7 @@ qarəkke
 qəm ganwala
 masrəqθi
 qəm daryala
-b kawe ay
+kawe b ay
 diyɛxun
 məra
 ʾu
@@ -139672,7 +139672,7 @@ puš xaθa
 ṭlalən
 məra
 la
-pɛšən la
+la pɛšən
 nabluli
 yəmmi
 yaʿni
@@ -139689,7 +139689,7 @@ qarəkkela
 muθɛθəlləx
 puš xaθa
 ṭlalən
-pišla ʾay
+ʾay pišla
 xaθa
 ṭlaleyən
 ʾayya
@@ -139703,13 +139703,13 @@ xoða
 xoða
 qaṭu
 kribla
-jɛrala qəm
+qəm jɛrala
 gu nura
-qəm mač̣əmyale
+mač̣əmyale qəm
 nura
 diya
 pišla
-la t nura
+t la nura
 ʾayya
 qimla
 pliṭla
@@ -139718,16 +139718,16 @@ xa nura
 raba
 rəḥqa
 məra
-azən bṱ
+bṱ azən
 xazyən
-nura ʾawən
+ʾawən nura
 ʾɛkɛle
 maṭyən
 t ta
-ṱ oðən
+oðən ṱ
 ʾixala
 ṭla xonawaθi
-zilla w
+w zilla
 zilla
 mṭela
 l xa
@@ -139738,7 +139738,7 @@ xa hambišaya
 hole
 tama
 dmixa
-xa baxta
+baxta xa
 xamθa
 xamθa
 xamθa
@@ -139746,63 +139746,63 @@ tiwta
 playa
 qalme
 diye
-šqilla ʾay
-o m nura
+ʾay šqilla
+m o nura
 θela
 ʾiθwa
 xa gutta
 hatxa
-ʾəzla t
-gu jɛba
+t ʾəzla
+jɛba gu
 diya
 npilla
 npilla
 mənna
 diya
 gutta
-gu m jɛba
+m jɛba gu
 diya
 liqla
 b tara
-ʾu θela
+θela ʾu
 gutta
 pišla
-mən d aw
+mən aw d
 hambišaya
 hal tarət
 bɛθey
 ʾaw
-qəm marəmla w
+w qəm marəmla
 θele
 θele
 mṭele
 gu tarət
 bɛθa ʾo
-ila wirta ṱ
+wirta ila ṱ
 gawe
 wirɛle
 ṭalba
 diya
-kut yom
+yom kut
 pašṭawa
 ʾiða
 diya
-kut yom
+yom kut
 mayəṣwa
 xa sabota
 pišla
 raba
 zabbun
-la y
+y la
 galyawa
-la y
+y la
 ṣabrawa
-amri y
+y amri
 xaθi
-ləx ma
+ma ləx
 ṭla mot
 zabbun
-la y
+y la
 galyawa
 məra
 xaθi
@@ -139811,7 +139811,7 @@ xaθi
 ʾiθ
 xa tanura
 goṛa
-yapəx t
+t yapəx
 ləxma
 šɛrəxle
 dɛrəx
@@ -139830,13 +139830,13 @@ dɛryət
 hatxa
 gu lɛša
 mur
-hon lyaša
+lyaša hon
 ʾaw
 aθe ṱ
 mur
-hon lyaša
+lyaša hon
 pɛrqən
-t ʾu yawannux
+t yawannux ʾu
 ṣaboti
 muṣla
 tu
@@ -139847,14 +139847,14 @@ wirɛle
 ʾay driθa
 ʾiθaθa
 gu lɛša
-lɛšawa t
+t lɛšawa
 məre
 halla
 ṣabota
 zorta
 mɛṣənna
 məra
-xanči tu
+tu xanči
 š d ay
 došəkθa
 mṭušyəlla ʾay
@@ -139862,7 +139862,7 @@ xonawaθa
 məra
 ʾana
 pɛrqən
-b yawanna
+yawanna b
 ṣaboti
 ʾəllux
 wirɛle ʾaw
@@ -139876,7 +139876,7 @@ biye
 b došakka
 gu d o
 tanura
-goṛa wewa
+wewa goṛa
 raba
 ṣlele tama
 xonawaθa
@@ -139889,10 +139889,10 @@ diye
 b mɛre
 qṭiləlle
 qṣifəlle
-pištɛla ʾay
+ʾay pištɛla
 xoða
 ʾati
-ɛkɛt m
+m ɛkɛt
 məra
 ʾana
 hatxa
@@ -139912,14 +139912,14 @@ garpatte
 qəṭma
 šaqlatle
 daryatle
-šawwa bar
+bar šawwa
 ṭurane
-b xa guniya
+xa b guniya
 oya ṱ
 taməz
-widla mo ʾay
+widla ʾay mo
 qimla
-qəm daryale
+daryale qəm
 xa gu guniya
 šətta
 diya
@@ -139935,24 +139935,24 @@ bizle
 qlabta
 diya
 qlibla
-ʾu kulle
+kulle ʾu
 bərya
 y amrəxxe
 xa kerapso
 gəlla ʾu
 taza
-ʾixala ta
+ta ʾixala
 məra
 kmɛle
 ʾawwa
 gəlla
-ʾixala ta
+ta ʾixala
 taza
-nablən qɛmən
+qɛmən nablən
 xanči
-xonawaθi ta
-ṱ oðanna
-yarqa lley
+ta xonawaθi
+oðanna ṱ
+lley yarqa
 axlile ṱ
 bašlanne
 ʾay ṣliθɛla
@@ -139965,17 +139965,17 @@ xonawaθa
 diya
 šawwa
 xonawaθa
-ṣɛda m
+m ṣɛda
 ʾəθyela
 xilela
 məra
 ʾədyo
-wiðtəllɛxu hon
+hon wiðtəllɛxu
 yarqa
 raba
 basima
 xile
-ila max t
+max t ila
 xile
 čamča
 qamɛθa
@@ -139989,7 +139989,7 @@ piše
 piše
 ʾərwela
 ʾay
-kut yom
+yom kut
 mpalṭawala
 maṛoyəlla
 baxyawa
@@ -140004,11 +140004,11 @@ xa dɛrweša
 θele
 tama
 məre
-ləx ma
+ma ləx
 brata
-it ṱ hatxa
+hatxa it ṱ
 bxaya
-qam anna d
+d anna qam
 ʾərwe
 məra
 ʾanna
@@ -140017,14 +140017,14 @@ lɛwa
 xonawaθi
 wɛwa
 hal
-ʾu qəṣṣətte
+qəṣṣətte ʾu
 diye
 ʾayya wawa
 wiðtɛn
 yarqa
-anna d ta
+ta d anna
 xonawaθi
-xilela ʾu
+ʾu xilela
 piše
 ʾərwe
 məre
@@ -140034,7 +140034,7 @@ xonawaθəx
 mbasmənna
 bas goratli
 mirtɛla
-bas ʾanna
+ʾanna bas
 xonawaθi
 basmi
 gorannux
@@ -140046,15 +140046,15 @@ awaha d ṭura
 ʾana
 xonəx kut
 maxənne
-šawwa qɛse
+qɛse šawwa
 pɛši
-ʾamrət la
+la ʾamrət
 k̭ore
 xaθux
-mərəx ʾən
+ʾən mərəx
 k̭ore
 xaθux
-dɛṛi la
+la dɛṛi
 məxyəlle
 qamaya ʾo
 šawwa
@@ -140064,21 +140064,21 @@ zinɛle
 pišɛle
 naša
 məxyɛle
-l tre o
+l o tre
 hatxa
 məxyɛle
-l ṭḷaθa o
+l o ṭḷaθa
 hatxa
-ʾo t ʾarba
+t ʾarba ʾo
 hatxa
-xamša ʾo t
-ʾəšta ʾo t
-šawwa ʾo t
-zora biš wewa
+t ʾo xamša
+t ʾəšta ʾo
+t ʾo šawwa
+wewa zora biš
 ʾawwɛle
 xəzyəlla
 b gare
-ʾaw mburəbrɛle
+mburəbrɛle ʾaw
 mburəbra
 məra
 ʾox
@@ -140089,8 +140089,8 @@ palge
 naša
 palge ʾu
 paṛa
-ʾaw məre
-mo ta
+məre ʾaw
+ta mo
 mərəx
 k̭ore
 xaθux
@@ -140099,11 +140099,11 @@ xena
 qidle
 ləbbi
 xoni
-zora wewa
+wewa zora
 məri
 k̭ore
 xaθux
-ʾaw qimɛle
+qimɛle ʾaw
 gwirəlla
 ʾanna
 zile
@@ -140119,10 +140119,10 @@ naša
 muθyəlle
 mənna
 diya
-naša ʾo
+ʾo naša
 raba
-zangin wewa
-zangin wewa
+wewa zangin
+wewa zangin
 dwiqəlle
 bɛθa
 xa yoma
@@ -140142,7 +140142,7 @@ qaračɛθa
 xa yoma
 dwiqəlla
 məre
-ṱ aθya
+aθya ṱ
 oya ṱ
 ʾaxxa
 kəsləx
@@ -140151,14 +140151,14 @@ la
 la
 məre
 hɛ
-palxət la t ta
+t ta palxət la
 ʾati
-ila ʾay
-palxa t
+ʾay ila
+t palxa
 ʾani
 xa yoma
 ṣəlye
-xyapa wɛwa
+wɛwa xyapa
 ṣəlye
 xyapa
 ʾiθwa
@@ -140168,44 +140168,44 @@ wawa gotey
 ʾamuqta
 ʾani
 ṣəlye
-xyapa wɛwa
+wɛwa xyapa
 ʾay modi
 wiðta
 qimtɛla
 ʾa
 qaračɛθa
 driθəlla
-gu d a bera
-lwištəlla ʾay
+gu bera d a
+ʾay lwištəlla
 julle
-d a brata
+d brata a
 siqtɛla ʾu
 siqtɛla
-ʾo paṛa
+paṛa ʾo
 hole
 mbarbore
 mbarbore har
 lɛle
 klaya
 marɛla ʾay
-ma lux
-mot ta
+lux ma
+ta mot
 mbarbore
 məre
-ləx ma
+ma ləx
 la ʾay
 mgaloyəlla
 paθa
-xazela t ta
+t ta xazela
 ʾaw
 mkusɛθəlla har
 paθa
-har hola
+hola har
 bxaya
 ṭwaya
 ləbbi
-l d xoni awwa
-bxaya ʾu
+awwa l d xoni
+ʾu bxaya
 dugle
 xa yoma
 məre
@@ -140214,14 +140214,14 @@ mo
 awəð ṱ
 ʾawwa
 paṛa
-kut yom
+yom kut
 dawəqwala
 ʾurxe
 b ʾiðe
 ṣalewa
 b a dukθa
 xayərwa
-gu d a bera
+gu bera d a
 baxenwa
 ʾoðən mo
 la mṣən
@@ -140266,20 +140266,20 @@ susawaθa
 xa muxləlle
 məlxa
 xa ʾu
-har mušətyɛle
+mušətyɛle har
 miya
 lɛle
 muxləlle
 ʾixala ču
 dəryəlla ʾu
 baθra
-kut qəṭṭa
+qəṭṭa kut
 d a
 qaračɛθa
 wiðəlle
-ʾax naθa
+naθa ʾax
 diya
-de sa
+sa de
 ʾay pišta
 baxtɛla
 ʾawwa ʾu
@@ -140288,7 +140288,7 @@ xona
 mənna
 diya
 ʾiθwa
-malka xa
+xa malka
 ʾiθwale
 ʾarbi
 bnone
@@ -140298,7 +140298,7 @@ zora ʾo
 ʾarbi
 šənne
 zille
-ṭla diye babe
+ṭla babe diye
 məre
 ʾana
 ʾumrile
@@ -140332,28 +140332,28 @@ mačxən
 baxtaθa
 kullɛxu
 magurənnɛxu
-b ġðaðe
+ġðaðe b
 qyamɛle
 mbaqorɛle
 zala
 mara
-xa naša ʾiθ
+xa ʾiθ naša
 ʾitle
 ʾarbi
 bnaθa
 zalɛle
 l xa ʾaθṛa
 xena
-ʾu xzayəlle
-naša ʾo
+xzayəlle ʾu
+ʾo naša
 tfaqa
 bi diye
 mara
-yxaləf ma
-yanna t
+ma yxaləf
+t yanna
 ʾarbi
 bnaθi
-ʾarbi ṭla
+ṭla ʾarbi
 bnonux
 ʾina
 ʾiman
@@ -140363,7 +140363,7 @@ laxxa
 la
 damxitu
 la
-gu karma
+karma gu
 la ʾu
 gu marga
 la ʾu
@@ -140371,7 +140371,7 @@ gu qaṣra
 ʾanna ʾən
 mtaməmətla
 ʾana
-yanna llux t
+t yanna llux
 bron diye
 zora ʾo
 šəmme
@@ -140385,23 +140385,23 @@ awət ṱ
 qaʾəd
 ayya d
 hənna
-ṱ azitu
+azitu ṱ
 ʾina
 hole
 mira
 baba
-anna d
+d anna
 bnaθa
 la
 damxitu
 la
 gu marga
 la ʾu
-gu karma
+karma gu
 la ʾu
 gu qaṣra
 məre
-yxaləf ma
+ma yxaləf
 babi
 qyamɛla
 zala
@@ -140413,13 +140413,13 @@ dmaxɛla
 xa gu marga
 dawarela
 məndiyanela
-ʾu ʾiθə
+ʾiθə ʾu
 ʾɛnət
 miya
 tama
 məra
 biš
-ayya m
+m ayya
 dukθa
 ʾɛka
 xazəx
@@ -140433,8 +140433,8 @@ pyašɛle
 naṭora
 ani d
 ḥarəs
-xa bena
-ʾo xzayɛle
+bena xa
+xzayɛle ʾo
 ʾina
 xzayɛle
 xa naša
@@ -140445,7 +140445,7 @@ suse
 koma
 rumxe
 muttəlla
-ben naθ
+naθ ben
 susta
 ʾap ay
 kumta
@@ -140454,16 +140454,16 @@ xðarɛle
 č̭ənnək̭ɛrə
 an naše d
 mṭaya
-l d aw
+l aw d
 məre
 barzəkko
 ʾati
 palṭət
-gu anna d
+gu d anna
 ʾanna
 kulla
 diya
-oðənna ṱ
+ṱ oðənna
 qalya
 yaʿni
 qaṭlənna
@@ -140471,7 +140471,7 @@ qaṭlənna
 xaṭər
 ʾalaha
 ʾoðət la
-šula ʾo
+ʾo šula
 ʾaxxa
 l tamma
 ʾanna
@@ -140480,15 +140480,15 @@ našile
 məre
 marənnux
 pluṭ
-axxa m
-gu anna d
+m axxa
+gu d anna
 ʾina
 kulla
 b qaṭlənna
 ʾati
 litlux
 šula
-mən anna d
+mən d anna
 ʾaw
 raqa
 zala
@@ -140524,7 +140524,7 @@ tama
 ṣaləx
 qaṭləxla
 ʾaxləxla
-ṭla šeta ða
+ṭla ða šeta
 maḷilən
 barzəkko
 modi
@@ -140535,24 +140535,24 @@ l tarət
 gəppa
 ʾanna
 plaṭɛla
-kuṱ ile
+ile kuṱ
 plaṭa
 xa sɛpa
 gu kase
 qamət
 gəppa
 yəmma
-an d hambišaye
+an hambišaye d
 marɛla
-ṭla bron
-zora d o
+bron ṭla
+o zora d
 broni
 ʾap ʾana
 mɛθətli
 xa
 ʾaṭmət
 susa
-axlən ṱ
+ṱ axlən
 balki
 ʾanna
 xonawaθux
@@ -140574,7 +140574,7 @@ mɛθənnəx
 xzura
 ʾap ʾay
 qṭaləlla
-ṣlayɛle ʾo
+ʾo ṣlayɛle
 ʾitwale
 xulama
 suse
@@ -140618,7 +140618,7 @@ gawe
 ʾɛnaθə
 miya
 məndiyane
-kull xa
+xa kull
 məndi
 mṭayɛle
 xa naša
@@ -140645,12 +140645,12 @@ diye
 hola
 mxaya
 kizəkke
-ma ile ṱ
-naša ʾo
+ile ma ṱ
+ʾo naša
 raba
 xɛlana
 pluṭ
-anna d m
+m d anna
 ʾati
 šəmmux
 zilɛle
@@ -140676,8 +140676,8 @@ mara
 ʾap ʾaw
 hole
 pliša
-ʾaw w
-naša ʾo
+w ʾaw
+ʾo naša
 plaša
 plaša
 plaša
@@ -140686,10 +140686,10 @@ gu mbadlaθa
 gu mbadlaθa
 mxɛθət
 yoma
-naša ʾo
+ʾo naša
 tliqɛle
 rxišɛle
-barzəkko ʾo
+ʾo barzəkko
 zila
 dmixa
 dart yoma
@@ -140712,14 +140712,14 @@ laxxa
 tamaha
 ʾanna
 xonawaθe
-goṛa ʾo
+ʾo goṛa
 ʾawwa
 kaze
 barzəkko
 yaba
 la
 damxəx
-gu d awwa
+awwa gu d
 qaṣra
 damxəx
 l wadər
@@ -140727,17 +140727,17 @@ xəmyani
 hatxɛle
 mira
 məra
-gu w marga
+w gu marga
 kɛrma
 mu
 xzelux
-xazət t ta
+t ta xazət
 laxxa
 ʾaxni
 laxxa
 damxəx
 məre
-yxaləf ma
+ma yxaləf
 dmuxu
 dmixela
 tama
@@ -140746,12 +140746,12 @@ kulla
 dmixela
 ʾawwa
 qima
-harəs ile
+ile harəs
 gu mbadla
 ʾəθyɛle
 xa
 xa
-susa xa
+xa susa
 xwara
 rumxe
 xwɛrta
@@ -140764,10 +140764,10 @@ barzəkko
 ʾati
 šəmmux
 šəmyəx
-b šamaθə
+šamaθə b
 šəmmux
 pluṭ
-mən d awwa
+awwa mən d
 qaṣra
 ʾawwa
 oðənne ṱ
@@ -140784,19 +140784,19 @@ rumxe
 ʾəlle
 diye
 mara
-mu mxelux
+mxelux mu
 gu xaṣi
 məre
 ču məndi
 tabziya
 qitle
-gu xaṣux
+xaṣux gu
 mxaya
 sɛpa
 gu reše
 ču məndi
 kaze
-b ʾurxa ču
+ču b ʾurxa
 lɛle
 mṣaya
 biye
@@ -140810,12 +140810,12 @@ diyux
 modi
 bayət
 ʾana
-ṱ oðənnux
+oðənnux ṱ
 ʾaxči
 šoqətlən
 ʾaxni
-ṱ azəx
-wajəbuθa ʾay
+azəx ṱ
+ʾay wajəbuθa
 mkamləxla
 məre
 maṭaləb
@@ -140830,7 +140830,7 @@ oya ṱ
 baxta
 ṭlali
 šoqənnux
-ṱ azitu
+azitu ṱ
 ʾəlla
 garəg
 mqawlət
@@ -140840,10 +140840,10 @@ qaṭlənnɛxu
 məre
 waduθa
 šuqlən
-ṱ azəx
-ṱ aθəx
+azəx ṱ
+aθəx ṱ
 laxxa
-gu d m awwa
+m gu awwa d
 qaṣra
 ʾana
 l bɛθa
@@ -140858,17 +140858,17 @@ xa brata
 ʾarbi
 ṣoṣiyaθa
 kurdəθ ila
-ʾu badal
+badal ʾu
 sahare
 yaʿni
 kəxwət
 gu mbadlaθa
 šəmma
-ɛ d brata
-ila ṱ ma
+d ɛ brata
+ma ila ṱ
 šapirta
 zalɛle
-kəs d xəmyane o
+o kəs d xəmyane
 diye
 ʾamərre
 diyi šuruṭ
@@ -140884,7 +140884,7 @@ məre
 hotu
 dmixe
 gu marga
-ʾu moditu
+moditu ʾu
 xəzye
 ʾa
 paxalta
@@ -140893,29 +140893,29 @@ naθyaθə
 an d
 hambišaye
 nəšyənna
-priməlla w
+w priməlla
 dəryəlla
 gu xurje
 diye
 məre
 dmixetu
-gu karma
+karma gu
 moditu
 xəzye
 xona
-goṛa ʾo
+ʾo goṛa
 məre
 ču məndi
-xəzye lax
-an xonawaθa w
+lax xəzye
+an w xonawaθa
 xene
 məra
 ču məndi
-xəzye lax
+lax xəzye
 məre
-bas le y yənna
-llɛxu bnaθi
-ʾo xona
+le y bas yənna
+bnaθi llɛxu
+xona ʾo
 zora
 ʾəθyɛle
 məre
@@ -140938,12 +140938,12 @@ l ṭura
 siqən
 baθre
 xa gu gəppa
-wawa hambišaye
+hambišaye wawa
 pliṭela
-kuṱ ile
+ile kuṱ
 pliṭa
 qṭilənəlle
-t yəmmey ha
+t ha yəmmey
 wirən
 ṭalba
 qṭilənna
@@ -140962,7 +140962,7 @@ tre
 dmixe
 məre
 dmixəx
-gu karma
+karma gu
 məre
 an ṭla d xonawaθe
 diye
@@ -140970,7 +140970,7 @@ moditu
 xəzye
 məra
 ču məndi
-xəzye lax
+lax xəzye
 ʾawwa
 məre
 dax
@@ -140978,7 +140978,7 @@ xəzyəx
 məre
 ʾəθyɛle
 xa naša
-susa xa
+xa susa
 smoqa
 kulle
 lwiša
@@ -140987,7 +140987,7 @@ wiyəx
 plaša
 m ʾaṣərta
 hal gu mbadlaθa
-lan məṣya
+məṣya lan
 biye
 diye
 gu mbadla
@@ -141008,23 +141008,23 @@ gu qaṣra
 ʾəθyɛle
 xa
 dewərriš ile
-lan ðaʾa
-qariwale mo
+ðaʾa lan
+mo qariwale
 dewərriš
 mara
 kizən
 mpurəplən
 biye
-šawəqlən ta
+ta šawəqlən
 lɛle
 zila
 mara
 maxənwale
 sɛpa
-xaṣe gu
+gu xaṣe
 yaha
 məre
-mu mxelux
+mxelux mu
 gu xaṣi
 tabziya
 qitla
@@ -141033,10 +141033,10 @@ maxənwale
 rumxi
 ʾəlle
 diye
-mu qitle
+qitle mu
 biyi
 dana kut
-xa hajətta
+hajətta xa
 mara
 b əlʾaxir
 murri
@@ -141044,7 +141044,7 @@ maṭaləb
 diyux
 modila
 ʾana
-oðənna ṱ llux
+llux ṱ oðənna
 məre
 maṭaləb
 diyi
@@ -141063,24 +141063,24 @@ lli mɛθətta
 azət ṱ
 la ʾən
 la šoqən
-ṱ azitu
+azitu ṱ
 məre
 dus it
 qimɛle
 hiwəlla
 bnaθe
 diye
-an ṭla d naše
-bəd xaṭər
-d o xona
+an ṭla naše d
+xaṭər bəd
+o xona d
 zora
 zilɛle
 məṭyɛle
 l kɛrma
-məndiyane ʾu
+ʾu məndiyane
 l qaṣra ʾu
 qaṣra ʾo
-naša ʾo
+ʾo naša
 hadəx ile
 wiðəlle
 gaye ʾəṣra
@@ -141090,22 +141090,22 @@ qunəx xa
 wiðəlle
 taza
 w kanape
-xaliye w
+w xaliye
 mɛxolta
 xa kul
 məndi
-ʾo xona
+xona ʾo
 zora
 ʾamər
-xonawaθa ṭla
-an d xene
+ṭla xonawaθa
+an xene d
 ʾayya
 baxti
 nablula
 mənnɛxu
 ʾana
-axxa hudxa m
-azən lɛ y
+m axxa hudxa
+y lɛ azən
 ʾitli
 šula
 ʾani
@@ -141117,20 +141117,20 @@ xlula
 čidla ʾu
 naše
 dunye
-qəm čɛdila
+čɛdila qəm
 widla
 xa ḥafla
 xa xlula
 raba
 xɛlana
-ʾo xona
+xona ʾo
 zora
 liθ
 xona
 zora
 pišle
 gu qaṣra
-naša d o kəs
+o kəs d naša
 məre
 hayyo
 murri
@@ -141139,7 +141139,7 @@ murri
 čəlkaze
 badal
 sahare
-modila w
+w modila
 ʾɛkɛla
 məre
 ʾayya
@@ -141147,7 +141147,7 @@ azət ṱ
 maṭət
 l yama
 qamɛθa
-yama ða
+ða yama
 ʾay
 hola
 ape p
@@ -141163,7 +141163,7 @@ kut
 yaṣilət
 qaṣra
 ʾiθ
-yawna ða
+ða yawna
 gawe
 diye
 yawna
@@ -141173,17 +141173,17 @@ mara
 yamaθa
 pɛðətla
 maṭət
-l qaṣra o
+l o qaṣra
 qaṣra ʾo
 hole
 pθala
 qəšta w
 gera
-kut yawna
+yawna kut
 maxətla
 maxətla
 yawna
-ʾaw yaṣila
+yaṣila ʾaw
 xena
 əllux xaðər
 mara
@@ -141198,19 +141198,19 @@ kale
 b kale
 xarθa
 ʾasqət
-maṣət ʾən
+ʾən maṣət
 ʾitla
 šawwa
 xonawaθa
-maṣət ʾən
+ʾən maṣət
 šaqlətla
 čəlkaze
 mɛθətla
 laxxa
-ʾati ʾu
+ʾu ʾati
 saxi
-ʿala xer
-la ʾu ʾən
+xer ʿala
+la ʾən ʾu
 maṣət
 ʾani
 qaṭlilux
@@ -141250,13 +141250,13 @@ l marzət
 yama
 dɛrət
 ʾiðux
-xo d o kepa
+xo o kepa d
 b xazət
 xa
 ləxxawət
 susa
 mattile
-gu pummət
+pummət gu
 susa
 liθ
 mara
@@ -141282,7 +141282,7 @@ gu šəmšət
 ʾati
 ʾamrət
 ṣalən
-kasəx xo
+xo kasəx
 məra
 maṣəlyannux
 šəttət
@@ -141307,9 +141307,9 @@ mapərxalux
 šawwa
 yamaθa
 maṭət
-l qaṣra d o
+l o d qaṣra
 maṭət
-l qaṣra d o
+l o d qaṣra
 hawət
 həšyər
 ʾina
@@ -141325,27 +141325,27 @@ biya
 məre
 ʾasṛətla
 xa dukθa
-la w šarṭa t
+t la w šarṭa
 ʾaza
 məre
-yxaləf ma
+ma yxaləf
 ʾap ʾaw
 qyamɛle
 tawa
 xaṣət
 suse
-diye w
+w diye
 ṣlaya
 ṣlaya
 ṣlaya
-ʾax ile ṱ
+ile ʾax ṱ
 pqiðəlle
 ʾawwa
 t wewa
 ṣlaya
 l marzət
-yama xa
-ʾax ile ṱ
+xa yama
+ile ʾax ṱ
 pqiðəlle
 xzele
 xa kepa
@@ -141353,7 +141353,7 @@ raba
 goṛa
 ʾawəð
 ʾiðe
-xo d o
+xo o d
 kepa
 ʾina
 xa ləxxawət
@@ -141369,23 +141369,23 @@ xaṣə
 diya
 məra
 maqðannux
-qam šmayya
-nurə m
+šmayya qam
+m nurə
 šmayya
 šəmša
 məre
 ṣalən
-kasəx xo
+xo kasəx
 məra
 maṣlannux
-ʾumqət gu
+gu ʾumqət
 yamaθa
 məre
 attən ṱ
 xaṣəx
-de hadəx
+hadəx de
 de
-ila ṱ ha
+ila ha ṱ
 wiðta
 toba
 l iθaθe
@@ -141402,7 +141402,7 @@ sahare
 mara
 prixtɛla
 nubaltəlle
-l ɛ d dukθa
+l d ɛ dukθa
 xziθəlle
 xa qaṣra
 ʾina
@@ -141413,14 +141413,14 @@ mira
 yaṣile
 biye
 diye
-kut yaṣila
-yawna ða
+yaṣila kut
+ða yawna
 tama
 ʾawwa ži
 ʾiθwale
 qəšta w
 gera
-ga ɛ d
+ga d ɛ
 liθ
 dəryəlla
 xa
@@ -141448,7 +141448,7 @@ wuðu
 ṣɛda
 ʾap ʾay sab
 baya
-gorawa t
+t gorawa
 žare
 ʾawwa
 siqa
@@ -141458,7 +141458,7 @@ məra
 jalde
 jalde
 xonawaθi
-la t maṭilux
+t la maṭilux
 ʾap ʾay
 θiθɛla
 mənne
@@ -141469,25 +141469,25 @@ diye
 hazər
 t yamaθa
 tiwa
-xaṣ susta
-ʾu ʾay
+susta xaṣ
+ʾay ʾu
 muttəlla
 baθre
 diye
-ʾu reša
+reša ʾu
 yamaθa
 xena
 mara
 kepe
 məra
-xonawaθa ṭla
+ṭla xonawaθa
 nubləlla
 čəlkaze
 ʾilane
 mara
 nubləlla
 čəlkaze
-xonawaθa ṭla
+ṭla xonawaθa
 diya
 ʾani
 riqe
@@ -141525,16 +141525,16 @@ lan
 ṭlali
 naboləlləx
 naboləlləx
-ṭla d awwa
+awwa ṭla d
 dewərrəš
 məra
-ḥaram ile
+ile ḥaram
 gawṛa
 ʾəlli
 šuq
 mən diyux
 məra
-ḥaram ile
+ile ḥaram
 gawṛa
 ṭlali
 šuq
@@ -141548,13 +141548,13 @@ məra
 nabəlli
 tama
 ʾana
-ṱ oðən
+oðən ṱ
 xa xəṭṭa
 xazəx
 qaṭləxle
 ʾawwa
 naša
-oðəx mo ṱ
+ṱ mo oðəx
 qaṭləxle
 məre
 ʾana
@@ -141580,7 +141580,7 @@ nabole
 zilla
 mṭela
 l qaṣra
-ʾo dewərrəš
+dewərrəš ʾo
 pliṭɛle
 l ṣɛda
 ʾəθyɛle
@@ -141598,7 +141598,7 @@ qṭila har
 dərya
 muθya
 l bɛθa
-xa ʿafrit wewa
+xa wewa ʿafrit
 xðele
 biya
 diya
@@ -141610,14 +141610,14 @@ xa mdit
 pišla
 tre yome
 tama
-ʾaw w
+w ʾaw
 baxta
 čəlkaze
 ʾo yala
 widla
-xabra xa
+xa xabra
 məra
-ʾazət la
+la ʾazət
 šoqətli
 yala
 məra
@@ -141631,20 +141631,20 @@ daxi
 maṣəx
 biye
 diye
-ta t parqəx
+t ta parqəx
 mənne
 diye
-ʾana ʾu
+ʾu ʾana
 aθyən ṱ
 mənnux
-de pišla
+pišla de
 ʾap ʾay
 baxtə
-d awwa
+awwa d
 dewərrəš
-kut yum
+yum kut
 ʾaθya
-xa hajətta
+hajətta xa
 daryawa
 biye
 diye
@@ -141662,14 +141662,14 @@ de
 de
 de
 xarθa
-kut yum
+yum kut
 y amərwa
 xa yoma
 xa yoma
 məre
 xɛli
 hola
-ayya gu d
+gu ayya d
 kanošta
 qəm šaqlala
 kanošta
@@ -141677,7 +141677,7 @@ daryala
 gu nura
 ču məndi
 liθ
-məra ʾay
+ʾay məra
 la
 gxiklux
 biyi
@@ -141701,25 +141701,25 @@ muqidla
 ču məndi
 məra
 xzi
-amrannux ṱ
+ṱ amrannux
 ʾati
-hot gkaxa
+gkaxa hot
 biyi
 litlux
 θəqa
 biyi
 ʾana
-iwən baxtux
+baxtux iwən
 la ʾən
 galətli
 roxux
-modila gu
+gu modila
 dax it ʾu
 xyaʾa
 ʾana
 xa yoma
 kəslux
-pɛšən la
+la pɛšən
 məre
 xza
 amrənnəx ṱ
@@ -141737,23 +141737,23 @@ qoṱiya
 ʾila
 xa ṣəpra
 məre
-ṣəpra ʾa
+ʾa ṣəpra
 ʾila
 roxi
 la ʾən
 qaṭlile
-ʾo tawrət
+tawrət ʾo
 wala
 šaqlile
-ṣəpra ʾo
+ʾo ṣəpra
 dana kut
-ṣəpra ʾa
+ʾa ṣəpra
 mitle
 ga ʾɛ
-ʾana mɛθən
+mɛθən ʾana
 məre
 ʾo
-ži tawrət wala
+wala tawrət ži
 la
 mayəθ
 ʾəlla
@@ -141767,8 +141767,8 @@ məṣr
 ṭḷa
 gere
 griše
-mən d aw
-b d aw
+mən aw d
+b aw d
 yalla
 mayəθ
 ʾawwa
@@ -141798,25 +141798,25 @@ məra
 daxi
 pθiltəlle
 xa
-mən kawsa
+kawsa mən
 diya
 məra
 ʾazət
 ṭḷa
 yomane
-doqət t ha
+t doqət ha
 šarṭ
-mən d o
+mən o d
 naša
 murre
 ʾana
 palxən
-rəš d o
+o rəš d
 sadana
-paqe hat
-paqe ʾən
+hat paqe
+ʾən paqe
 garšətli
-ṭḷa w gere
+w ṭḷa gere
 qəšta
 mənne
 diye
@@ -141828,7 +141828,7 @@ b reše
 diye
 balaš
 məra
-kut yum
+yum kut
 palxət
 b reše
 mbadla
@@ -141845,7 +141845,7 @@ damxət
 zila
 mbuqrɛle
 tfiqɛle
-rəš d o
+o rəš d
 sadanə
 məṣr
 wiðɛle
@@ -141854,14 +141854,14 @@ mənne
 diye
 məre
 ʾana
-rəš d awwa
+awwa rəš d
 balaš
-mpuqeli ʾən
+ʾən mpuqeli
 garšətli
 ṭḷa gere
 mənne
 diye
-la ʾu ʾən
+la ʾən ʾu
 mpuqeli
 ʾana
 palxən
@@ -141877,27 +141877,27 @@ mpaqele
 məre
 b alaha
 hatxa
-paqənne ʾən
-yatli t
-qəšta ṭḷa w gere
+ʾən paqənne
+t yatli
+qəšta w ṭḷa gere
 la ʾən
 ču məndi
 məre
-yxaləf ma
+ma yxaləf
 plux
 ʾawwa ži
 paləx
-kut yum
+yum kut
 mbadla
 hal ʾaṣərta
 ʾaṣərta
 bəska ʾo
-čəlkaze t
+t čəlkaze
 maxewa
 šayəpwale
 gu d o
 sadana
-azəlwa ʾu y
+y azəlwa ʾu
 xa yoma
 yomə
 tre
@@ -141914,15 +141914,15 @@ qima
 mbadla
 zila
 ʾina
-ʾo pəqya
+pəqya ʾo
 ga ʾɛ
 mara ʾo
-sadanə d o
+sadanə o d
 məṣr
 qimɛle
 wiðɛle
 ṭḷa gere
-mən d o
+mən o d
 sadanə
 məṣr
 qimɛle
@@ -141931,34 +141931,34 @@ zila
 ʾo
 dewərrəš
 b yoma
-azəlwa y
+y azəlwa
 l ṭura
 b lɛle
-aθewa y
+y aθewa
 ʾaw
 b yoma
 zila
-čəlkaze d a kəs
+kəs čəlkaze d a
 məre
 θeli
 ho
 ṭḷa ʾan
-gerə qəšta
+qəšta gerə
 məra
 xzi
 ʾawwa
 ṭura
 ʾiθgena
-ʾɛnət ða
+ða ʾɛnət
 miya
 tama
 ʾawwa
 tawrət
 wala
 yomiyya
-xa bena
+bena xa
 ṣale
-š ɛ d ʾɛnət
+d ʾɛnət š ɛ
 miya
 šate
 miya
@@ -141971,8 +141971,8 @@ qira
 məra
 ʾayya
 mattətla
-miya gu
-ʾa qira
+gu miya
+qira ʾa
 darətla
 b reša
 miya ʾan
@@ -141985,7 +141985,7 @@ xamra
 xačča
 biš
 hodəx
-mənna diya
+diya mənna
 xamra
 mara
 ʾawwa
@@ -141996,11 +141996,11 @@ miya
 liθgena
 mayəxle
 rixə
-d o xamra
-šate le y
+o xamra d
+le y šate
 azəl ṱ
 ṭura
-ga xa
+xa ga
 xeta
 aθe ṱ
 payəš
@@ -142008,8 +142008,8 @@ majbur
 bena
 xaraya
 šate
-mən d o xamra
-b rawe
+mən o xamra d
+rawe b
 aθe ṱ
 l dmaxa
 mara
@@ -142026,11 +142026,11 @@ parmətle
 paθxətle
 ṣadre
 diye
-ʾa qoṱiya
-qotiya xa
-awwɛle d ʾax
+qoṱiya ʾa
+xa qotiya
+awwɛle ʾax d
 məra
-gu m ṣadre
+m gu ṣadre
 diye
 šaqlətle
 mɛθətle
@@ -142041,13 +142041,13 @@ naboləlla
 xamra
 mənna
 diya
-l d a dukθa
+l a d dukθa
 xzayəlla
 ʾɛna
 mdaboqəlla
 mattoye
 qira
-ṭaṭiya w
+w ṭaṭiya
 qira
 miya
 ktapɛla
@@ -142066,11 +142066,11 @@ xpirəlla
 xa dukθa
 mṭašoyəlla
 mṭušyəlla
-xa bena
+bena xa
 ʾəθyɛle
-ʾaw tawrət
+tawrət ʾaw
 wala
-šate ṭla
+ṭla šate
 miya
 miya
 lɛle
@@ -142084,14 +142084,14 @@ lɛle
 šətya
 mənna
 zila
-ga xa
+xa ga
 xeta
 l ṭura
 ṣiya wewa
-ga xa
+xa ga
 xeta
 θele
-ga xa
+xa ga
 xeta
 lɛle
 šətya
@@ -142102,10 +142102,10 @@ bena
 štele
 guyžənne
 rwele
-naša ʾo
+ʾo naša
 hole
 tiwa
-gu čapər
+čapər gu
 tama
 maxele
 ṭḷa
@@ -142127,8 +142127,8 @@ zora
 šqiləlla
 musqəlla
 hiwəlla
-čəlkaze ṭla
-ṭla d a baxtə
+ṭla čəlkaze
+ṭla a d baxtə
 t wewa
 muθyəlla
 məre
@@ -142138,28 +142138,28 @@ məra
 hawət
 basima
 raba
-ʾo dewərrəš
+dewərrəš ʾo
 ʾimə
-məxyəlle ile ṱ
+ile məxyəlle ṱ
 tawrət
 wala
 ṛišɛle
 mgunəgzɛle
 hatxɛwa
-mərya ʾax
+ʾax mərya
 ʾəθyɛle
 l bɛθa
 ʾina
 mərya
 məra
-ma ʾa lux
+lux ma ʾa
 məre
 b alaha
-lan ðaʾa
+ðaʾa lan
 ʾawwa
 tawrət
 wala
-lan ðaʾa
+ðaʾa lan
 modi
 ʾəθya
 biye
@@ -142169,22 +142169,22 @@ b ʾisara
 xa məndile
 qiθa
 biye
-lan ðaʾa
+ðaʾa lan
 modila
 qəṣṣət
 diya
-raba hon
+hon raba
 mərya
 məre
 ga ču
 hatxa
-lan mərya
+mərya lan
 dəryəlla
 xa šwiθa
 dmixɛle
-ži ʾay
+ʾay ži
 pθixtəlle
-sanduqa ʾo
+ʾo sanduqa
 məra
 hole
 čučəkka
@@ -142206,9 +142206,9 @@ rupɛθəlla
 mitwale
 dana har a
 ʾəθyɛle
-gawṛa ʾo
+ʾo gawṛa
 diya
-ʾo t wewa
+t wewa ʾo
 muθyəlla
 muxbərtəlle
 ʾəθyɛle
@@ -142216,7 +142216,7 @@ l bɛθa
 šqiləlla
 pišɛle
 tama
-dana kəma
+kəma dana
 šqiləlla
 ʾu zila
 l bɛθa
@@ -142229,15 +142229,15 @@ diye
 malkɛle
 hole
 xa plaša
-gu d a maθa
+maθa gu d a
 ʾajəbuθa
 ʾawwa
 baxte
 diye
 muttəlla
-gu ða dukθa
+ða gu dukθa
 ʾiθwa
-bɛθa xa
+xa bɛθa
 zilɛle
 məre
 modila
@@ -142272,13 +142272,13 @@ brone
 diye
 baxtət ʾu
 bron diye
-qabla la
-ʾarbi ʾan
+la qabla
+ʾan ʾarbi
 baxtaθa
 kulla
 xaθwaθɛla
 darqul
-d a məndila
+məndila d a
 malka ʾu
 hole
 mhuyəra
@@ -142290,16 +142290,16 @@ brata
 gorənna
 mšadore
 naše
-l d o
+l o d
 qaṣra
-kut yum
+yum kut
 plašɛla
-doqila t ta
+t ta doqila
 ʾa brata
 doqila
 ʾa brata
 mɛθɛla
-gawra t ta
+t ta gawra
 malka
 babe
 diye
@@ -142316,7 +142316,7 @@ qimɛle
 zilɛle
 pišɛle
 xulama
-malka t
+t malka
 mšoxəlpəlla
 julle
 diye
@@ -142326,15 +142326,15 @@ malka
 maštoye
 susawaθa
 miya
-kut yum
+yum kut
 ʾanna
 palṭiwa
 plaša
 modila
 qəṣṣət
 məre
-l qaṣra d o
-wɛwa t
+l o d qaṣra
+t wɛwa
 ʾarbi
 bnaθa
 gawe
@@ -142343,7 +142343,7 @@ xaθwaθa
 diya
 məre
 modila
-gu d awwa
+awwa gu d
 qaṣra
 məre
 b alaha
@@ -142352,7 +142352,7 @@ b alaha
 bnaθa
 kalaθət
 malka
-mənna ða
+ða mənna
 zurta
 gawṛa
 diya
@@ -142361,33 +142361,33 @@ b dunye
 baye
 malka
 gawərra
-ʾu ʾanna
+ʾanna ʾu
 hola
 ʾaṣi
 ʾəlle
 diye
 məre
-ga bena
+bena ga
 ʾanna
 kulla
 ila ṱ
 zala
 lɛla
 mṣaya
-b an ʾarbi
+an b ʾarbi
 bnaθa
-kut yum
+yum kut
 zala
 hatxa
 ješ
-anna m
+m anna
 ʾatwanə
 xaṣə
 susawaθa
 swariyye
 lɛla
 mṣaya
-b an ʾarbi
+an b ʾarbi
 bnaθa
 ʾana
 azən ṱ
@@ -142404,12 +142404,12 @@ awət ṱ
 basima
 ʾawwa
 saqawa
-anna d
+d anna
 susawaθa
 məre
 ʾana
 azən ṱ
-ana šaqlənna
+šaqlənna ana
 məre
 mšadrule
 aθe ṱ
@@ -142432,13 +142432,13 @@ biya
 ʾana
 azən ṱ
 hallule
-susa xa
+xa susa
 təmməl
 mbadla
 ʾazəl
 šqala
 dart yoma
-susa xa
+xa susa
 tawa
 xaṣe
 diye
@@ -142449,7 +142449,7 @@ fəllən
 hayyo
 hayyo
 pluṭu
-kut baye
+baye kut
 paləš
 mənni
 paləš
@@ -142464,7 +142464,7 @@ xa pliṭa
 hole
 ṣraxa
 mara
-kut baye
+baye kut
 ʾaθe
 paləš
 mənni
@@ -142486,7 +142486,7 @@ la
 baye
 maxe
 ʾaṣərta
-gu gnɛθət
+gnɛθət gu
 yoma
 ʾayya
 riqtɛla
@@ -142495,37 +142495,37 @@ gu qaṣra
 ʾawwa
 məxyɛle
 sɛpe
-l qðalə
-susa d o
+qðalə l
+o susa d
 ile ṱ
 ʾəθya
 b xaṣe
 diye
 qṭiləlle
 zilɛle
-malka kəs
+kəs malka
 məre
 malka
 awət ṱ
 basima
 ʾawwa
-mu susət
+susət mu
 hiwəlli
 ʾati
 məre
 mo
 bayət
 halli
-susa xa
+xa susa
 spay
 ʾana
 b doqənna
 ʾanna
 bnaθa
 məre
-yxaləf ma
+ma yxaləf
 məre
-susa xa
+xa susa
 ʾanna
 xamša
 šənne
@@ -142535,7 +142535,7 @@ məṣya
 məṭya
 ʾəlle
 diye
-ga məre
+məre ga
 susɛle mo
 ʾɛkɛle
 məre
@@ -142554,10 +142554,10 @@ məre
 malka
 awət ṱ
 basima
-halli də
+də halli
 ʾana
 asqən ṱ
-xu la
+la xu
 ʾaxəlli
 xu lɛle
 ʾarya
@@ -142570,7 +142570,7 @@ qðila
 suq də
 ʾawwa
 yaðele
-gane susət
+susət gane
 diye
 susət
 gane
@@ -142589,13 +142589,13 @@ xa naša
 məre
 suq
 maxzile
-ga saqa
+saqa ga
 məṭye
 məre
 howile
 ʾawwaʾha
 tara
-susɛle d o
+susɛle o d
 ʾawwa ži
 saqɛle
 pθaxəlle
@@ -142617,11 +142617,11 @@ gu narṭomə
 susa
 məre
 k̭ora
-it laš
+laš it
 ðaʾəlli
 wa law
 in ṱ
-xamša ʾanna
+ʾanna xamša
 šənne
 zila
 b dunye
@@ -142639,11 +142639,11 @@ susa
 mtuməzəlle
 suse
 diye
-dana kəma
+kəma dana
 tama
 žare
 la kniša
-mtuməza la
+la mtuməza
 ču məndi
 dəryəlle
 sarga
@@ -142656,7 +142656,7 @@ diye
 pliṭɛle ʾu
 ga ʾɛ
 susa
-dana kəma
+kəma dana
 xəzya lɛle
 šəmša
 hole
@@ -142665,12 +142665,12 @@ praxa
 məxyɛle
 xa farra
 č̭ənnək̭ɛrə
-qaṣra d o
+o d qaṣra
 məre
 he
 hayyo
 təmməl
-ʾana ʾəθyən
+ʾəθyən ʾana
 pliša
 mənnɛxu
 ʾap ʾədyo
@@ -142689,7 +142689,7 @@ pluṭu
 baxtət
 gane
 diye
-ʾa zurtɛwa ʾay
+ʾay zurtɛwa ʾa
 məra
 ṭla xaθwaθa
 xaθi
@@ -142710,10 +142710,10 @@ diya
 žare
 plaša
 mxaya
-mxaya ʾay
+ʾay mxaya
 ʾaw waða
 muqawama
-mxaya ʾay
+ʾay mxaya
 ʾaw waða
 muqawama
 hal
@@ -142743,7 +142743,7 @@ lat ðaʾəlle
 susi
 dana ʾa
 qriθɛla
-b xaθwaθa
+xaθwaθa b
 diya
 məra
 hayyo
@@ -142758,11 +142758,11 @@ xaθwaθa
 diya
 kulla
 ṣlela
-ila kəma ṱ
+kəma ila ṱ
 wela
 xa šadlaxana
 ʾawər
-gu qaṣra d o
+gu d qaṣra o
 wela
 xlula
 mbadla
@@ -142772,24 +142772,24 @@ pliṭɛle
 l gare
 ṣrixɛle
 məre
-ku ile ṱ
+ile ku ṱ
 baθri
 mɛθe
-kɛrtə xa
+xa kɛrtə
 qɛsa
 mattu
-gu tarəd
+tarəd gu
 bɛθi
-ku ile ṱ
-malka bar
+ile ku ṱ
+bar malka
 babi
 mattu
-kɛrtə xa
+xa kɛrtə
 qɛsa
-qam tarət
+tarət qam
 malka
 mara
-ila kəma ṱ
+kəma ila ṱ
 moθela
 muttula
 qɛsa
@@ -142799,7 +142799,7 @@ qəṣṣət
 qam tarə
 diye
 məre
-de mɛθole
+mɛθole de
 malka
 ʾawwa
 wazire
@@ -142808,14 +142808,14 @@ masqula
 laxxa
 maqðula
 kulla
-qəm mɛθila
+mɛθila qəm
 qaṭlila
 ʾawwa
 šqille
 baxte
 diye
 ʾu xonawaθe
-diye w
+w diye
 ʾawwa
 pišle
 malka
@@ -142824,23 +142824,23 @@ babe
 diye
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 hadiya
 ʾiθwa
-xa leliθa
+leliθa xa
 θiθa
 mən č̭al
 θela
 ṣlela
 l ʾarxət
-xammo be
+be xammo
 xa naša
 ʾiθwale
 ʾarxe
 šəmme
 diye
-xammo wewa
+wewa xammo
 ʾiθwale
 kalθa
 ʾiθwale
@@ -142853,7 +142853,7 @@ drela
 məra
 šlama
 ʾəllɛxu
-naša ʾax
+ʾax naša
 ṣlela
 drela
 šlama
@@ -142865,12 +142865,12 @@ xəppo
 b reša
 bas
 ṭəppəryaθa
-qəm xazyala
+xazyala qəm
 kalθa
 ṭəppəryaθət
 heywane
 dəbba
-qəm xazyala
+xazyala qəm
 šurela
 mṣawoθe
 hatxa
@@ -142880,7 +142880,7 @@ məra
 ʾana
 baxtət
 ʾaġət
-iwən č̭al
+č̭al iwən
 ʾayya
 xmaθa
 diya
@@ -142895,22 +142895,22 @@ kalθa
 la
 homənna
 ʾitla
-ṭḷa bnone
+bnone ṭḷa
 witɛla
 b lɛle
 dana
-dmaxa t
+t dmaxa
 xilela
 məndi
 witɛla
 dana
-dmaxa t
+t dmaxa
 xəmmərθa
 xəmmərθə
 šənθa
 šqiltəlla
 muttɛθəlla
-rəš ṣadrət
+ṣadrət rəš
 xmaθa
 diya
 kalθa ʾu
@@ -142927,30 +142927,30 @@ qimtɛla
 šqiltɛla
 xa brona
 ʾu nobaltəlle
-axlale ṱ ta
+axlale ta ṱ
 muttɛθəlle
 rəḥqa
 mən maθa
 ʾayya ʾu
-gu dyaṛta
+dyaṛta gu
 modi
 widla
 qimla
-qəm ʾač̣male
+ʾač̣male qəm
 tara
-b ʾu palgət
+b palgət ʾu
 bɛθa
 widla
 nura
-t ʾanna
+ʾanna t
 ʾarxe
-har oðiwa y
+y oðiwa har
 nura
 bɛθa gu
 šišət
 prəzla
-ʾərxe t
-qəm mattala
+t ʾərxe
+mattala qəm
 kulla
 gu nura
 leliθa ʾu ʾɛ
@@ -142967,12 +142967,12 @@ mattoyəlla
 ʾiða
 pθaxa
 tara
-qəm maxyala
+maxyala qəm
 ʾayya
 prəzla
 l ʾiða
 diya
-qəm maqðala
+maqðala qəm
 kulla
 məšxa
 ṣlele
@@ -142994,14 +142994,14 @@ palga
 palga
 pišla
 ʾayya ʾu
-šaqlawa har
+har šaqlawa
 an mən d
 šiše
 mattawa
 ʾəlla
 diya
 hal
-gət ʾɛ
+ʾɛ gət
 qəm qaṭlala
 qəm qaṭlala
 ʾay
@@ -143012,7 +143012,7 @@ qedamta
 lɛla
 mirta
 xmaθa ṭla w
-w xəmyana
+xəmyana w
 w ʾaxxa
 tamma
 ziltɛla
@@ -143024,7 +143024,7 @@ muθɛθəlle
 brona
 lɛla
 xiltəlle
-har nobaltəlle
+nobaltəlle har
 muttɛθəlle
 mattoye
 muθɛθəlle
@@ -143064,7 +143064,7 @@ wiyela
 bena
 θiθɛla
 wiðtəlla
-gan diya
+diya gan
 baxtət
 ʾaġa
 č̭al
@@ -143072,28 +143072,28 @@ bas mjarrad
 mṣawθawa
 xzi
 hambišayɛla
-mu tahər xzi ila
+tahər ila mu xzi
 hadəx wawa
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 xa ʾarya
 ḥakəm
-xa wəlaya t wewa
-wewa wiða
+t xa wewa wəlaya
+wiða wewa
 muwafaqa
 mənnət
-heywane t
-kut yom
+t heywane
+yom kut
 xa heywən
 lazəm
 mɛθɛwale
-axəlwale ṱ ta
+ta axəlwale ṱ
 payəšwa
 raḥat
-la t ta
+t ta la
 daqərwa
 heywane
 xene
@@ -143107,22 +143107,22 @@ heywane
 suqən
 diya
 aθe ṱ
-karəb ʾu
+ʾu karəb
 kullən
 aθe ṱ
-axəllən ṱ
+ṱ axəllən
 məra
-le asqən y
+le y asqən
 litlɛxu
 šula
 mənni
 hal
-xa bena
+bena xa
 pidla
 dana
 ʾaw
 pišle
-kraba w
+w kraba
 ṣraxa
 la θela
 siqtɛla ʾay
@@ -143142,7 +143142,7 @@ kli
 la
 ʾaxlətli
 məre
-modi ta
+ta modi
 la θeləx
 məra
 ləmu
@@ -143157,10 +143157,10 @@ mənnux
 biš
 quwya
 ʾaw
-qbille la
+la qbille
 θeli
 kɛle
-maxzɛle lli
+lli maxzɛle
 qimtɛla
 nubaltəlle
 məra
@@ -143178,13 +143178,13 @@ hole
 tamaha
 ʾaw
 xirre
-qəm xazele
+xazele qəm
 šəkle
 diye
 tama
 dəryale
 gane
-ṱ awəðwa ta
+awəðwa ta ṱ
 šarre
 mənne
 qəm xanqale
@@ -143195,7 +143195,7 @@ raḥat
 ʾiθwa
 liθwa
 ču
-biš m alaha
+m alaha biš
 goṛa
 liθwa
 ʾiθwa
@@ -143203,10 +143203,10 @@ xa bronət
 ṱoṱo
 xa naša
 qimɛwa
-maθe gu m
+m gu maθe
 diye
 ʾu zila
-gu ða bažər
+ða bažər gu
 tiwɛle
 tama
 hole
@@ -143214,7 +143214,7 @@ xazəx
 xa lampa
 lhaya
 ga ʾɛ
-qam lampa
+lampa qam
 ʾiθwa
 šraʾa
 šraya
@@ -143225,11 +143225,11 @@ layawa
 yawawa
 beṛa
 ga ʾɛ
-malka bron
+bron malka
 mrile
 θele
 xa duxtur
-ḥakim xa
+xa ḥakim
 məre
 bronux
 la tarəṣ
@@ -143239,7 +143239,7 @@ mastət
 ʾarye
 xaṣət
 ʾarye
-malke ta
+ta malke
 mərye
 ʾɛni
 maṣe
@@ -143249,7 +143249,7 @@ maṣe
 maṭe
 l ʾarya
 qaṭəlle
-ṱ awədle
+awədle ṱ
 guðe
 diye
 guðantət
@@ -143261,29 +143261,29 @@ parmile
 oðile ṱ
 guðanta
 mattila
-xaṣ t
+t xaṣ
 ʾarya
 mɛθɛla
-malka bron ta
+bron ta malka
 mərya
 ʾap xa
 liθ
 zille
-gu bažər
+bažər gu
 ʾap xa
-ṣbirre la
+la ṣbirre
 ʾasəqle
 zille
-gu bažər
+bažər gu
 kulla
 məre
-kut mɛθe
+mɛθe kut
 mastət
 ʾarye
-guðant ʾu ʾarye
+ʾarye guðant ʾu
 xaṣə
 ʾarye
-malka bron ta
+bron ta malka
 mərya
 ʾap xa
 lɛle ṣbara
@@ -143291,11 +143291,11 @@ lɛle ṣbara
 ṣabər
 asəq ṱ
 məra
-bɛθa xa
+xa bɛθa
 hole
 asqəx ṱ
 xazəx
-ʾaw modile
+modile ʾaw
 tama
 siqla
 dbišla
@@ -143318,11 +143318,11 @@ maṣən
 azən ṱ
 mɛθən
 ʾarya
-maṣən lɛ
+lɛ maṣən
 mɛθən
 ʾarya
 məre
-barya la
+la barya
 garəg
 ʾazət
 šəmu
@@ -143333,7 +143333,7 @@ azən ṱ
 mjarbena
 xazən
 maṣən
-ṱ oðən
+oðən ṱ
 xa čara
 la amṣən
 maqəṭlu
@@ -143347,10 +143347,10 @@ xa gu ṭura
 ʾitle
 ða ʾɛna
 tama
-o gu d ṭura
+gu d ṭura o
 ʾariθa
 ʾay
-ʾaqla hola
+hola ʾaqla
 diya
 mqobɛθa
 ʾaqla
@@ -143371,14 +143371,14 @@ bnone
 hola
 mənna
 ʾayya
-amri y
+y amri
 kuddine
 ṣlaya
 ṣalya
 šatya
 miya
-qalba t ta
-xa bena
+t ta qalba
+bena xa
 xena
 ṣraxɛla
 l ʾalaha
@@ -143389,11 +143389,11 @@ litla
 waðəlla
 lɛla
 mṣaya
-ila ṱ ma
+ma ila ṱ
 mqobɛθa
 ṃḷiθa
 jaraḥ
-məndiyane ʾu
+ʾu məndiyane
 šəxte
 ʾawwa
 naša
@@ -143409,8 +143409,8 @@ mṭušya
 wiða
 xa qɛsa
 rixa
-axxa m
-l awaʾha d
+m axxa
+awaʾha l d
 hənna
 maṭe
 muxərpəlle
@@ -143446,16 +143446,16 @@ məxyəlle
 ʾo qɛsa
 l ʾaqla
 diya
-ṣrixtɛla ʾay
-ku məndit
+ʾay ṣrixtɛla
+məndit ku
 pluṭ
 maradət
 ləbbux
 maməṭyannux
 ku bayət
-ṱ oðanna
-ʾaw pliṭle la
-ga xa
+oðanna ṱ
+la pliṭle ʾaw
+xa ga
 xeta
 ṣliθɛla
 šatyawa
@@ -143465,7 +143465,7 @@ qəm maxela
 diya
 məra
 ṭlub
-ku məndit
+məndit ku
 bayət
 modi
 marad
@@ -143479,17 +143479,17 @@ diya
 prele
 xačča
 bena
-gaye ṭla
+ṭla gaye
 kipla
 šatya
 miya
 qəm maxela
 ʾaqla
-xɛlana biš
+biš xɛlana
 qəm parela
 ʾaqla
 diya
-gaye ṭla
+ṭla gaye
 kulla
 prele
 ʾamra
@@ -143515,9 +143515,9 @@ guðant
 ʾarye
 mast ʾu
 ʾarye
-ʾu xaṣət
+xaṣət ʾu
 ʾarye
-malka bron ta
+bron ta malka
 mərya
 waʿdə
 ʿarabile
@@ -143548,17 +143548,17 @@ diya
 wiðtəlle ʾu
 masta
 driθəlle
-o gu d guða
+gu d guða o
 driθəlle
 xaṣə
 brona
 diya
 maṣli
-malka ṭla
+ṭla malka
 ʾamra
 qəm maṣlele
 masta
-malka bron ta
+bron ta malka
 t wewa
 ṭəpya
 xərsa
@@ -143572,13 +143572,13 @@ tama
 laxxa
 ʾiθwa
 xa naša
-gu ða maθa
+ða gu maθa
 raba
 raba
-duglana wewa
+wewa duglana
 mdagəlwa
 mən naše
-amər y
+y amər
 hatxɛle
 wiða
 fəllən
@@ -143615,7 +143615,7 @@ našət
 maθa
 xazəx
 mhayrili
-laʾa lo
+lo laʾa
 qimɛle
 muqabəl
 bɛθe
@@ -143653,7 +143653,7 @@ zilela
 našət
 maθa
 ʾina
-ila ṱ ha
+ila ha ṱ
 zile
 našət
 maθa
@@ -143661,15 +143661,15 @@ maθa
 č̣əmyɛle
 zilta
 laxxa
-tre yarxe ṭḷa
-yarxe ʾarba
+tre ṭḷa yarxe
+ʾarba yarxe
 məre
-xa bena
+bena xa
 xeta
 mjarbənna
 qimɛle
 mjurbəlla
-ga xa
+xa ga
 xeta
 dəryəlle
 hadəx
@@ -143683,7 +143683,7 @@ bɛθi
 xa xeta
 qimela
 zilela
-ila ṱ ha
+ila ha ṱ
 zile
 č̣əmyɛle
 benə
@@ -143692,23 +143692,23 @@ modi
 widle
 har
 mdagole
-gu maθa
+maθa gu
 ʾawwa
 hatxɛle
 w wiða
 ʾawwa
 hatxɛle
-mira w
+w mira
 ʾawwa
 hatxɛle
 draya
 buxtən
 l xa
-l d xena o
+l o d xena
 he
 mdagole
 yoma
-duzuθa mən
+mən duzuθa
 qidle
 bɛθa
 qidle
@@ -143719,7 +143719,7 @@ yaba
 bɛθi
 qidle
 məra
-si də
+də si
 duglana
 si
 duglana
@@ -143731,14 +143731,14 @@ tərte
 gaye
 qəm jarbətlɛni
 xazəx
-ṱ aθəx
+aθəx ṱ
 hayorəxlux
 la lo
-ʾaθəx leš
+leš ʾaθəx
 hayorəxlux
-bɛθux ʾu
-ʾaqəð xoš
-ʾu ʾaqəð xoš
+ʾu bɛθux
+xoš ʾaqəð
+xoš ʾaqəð ʾu
 litlən
 šula
 biye
@@ -143765,7 +143765,7 @@ he
 b alaha
 qidle
 bɛθət
-duglana w
+w duglana
 ʾaxni
 la ðiye
 biye
@@ -143781,7 +143781,7 @@ hole
 zala
 l šula
 ʾap ʾana
-azən bṱ
+bṱ azən
 šula
 palxən
 qimɛle
@@ -143793,36 +143793,36 @@ barwore
 ʾamte
 diye
 hola
-gu sarzar
-xale ʾu
+sarzar gu
+ʾu xale
 diye
 hole
-daštane gu
+gu daštane
 ʾawwa
 məre
 ṭla babe
-diye w
+w diye
 yəmme
 diye
 məre
-babi w
+w babi
 yəmmi
 ʾap ʾana
 azən ṱ
 palxən
 xa pəlxana
-lɛpena t ta
+t ta lɛpena
 w babe
 yəmme
 diye
 məra
 broni
-mo qa
+qa mo
 la
 si
 kulla
 naša
-hole plaxa
+plaxa hole
 ʾap ʾati
 si
 palxeti
@@ -143835,20 +143835,20 @@ xaθət
 babe
 ha
 broni
-ɛkət m
+m ɛkət
 θaya
 b alaha
-bɛθən m
+m bɛθən
 θaya
 ʾamti
 lɛka
 məre
 bayən
 azən ṱ
-xali kəs
+kəs xali
 xali
-zangin ile
-yalli t
+ile zangin
+t yalli
 xa šula
 palxən
 ʾap ʾana
@@ -143861,7 +143861,7 @@ palxən
 mənne
 diye
 məra
-mo qa
+qa mo
 la
 qimtɛla
 wiðtəlle
@@ -143870,13 +143870,13 @@ beʾe
 qedamtɛla
 wiðtəlle
 ʾixala
-beʾe w
+w beʾe
 məšxa w
 qalya
 məra
 šəmme
 diye
-ʾummo wewa
+wewa ʾummo
 məra
 ʾummo
 ʾana
@@ -143885,20 +143885,20 @@ qɛmən
 nablən
 ʾixala
 ṭla xətnux
-ʾati ʾu
+ʾu ʾati
 xul
-ʾu si
-l xalux be
+si ʾu
+xalux l be
 məre
-yxaləf ma
+ma yxaləf
 ʾamti
-xa bena
-ziltɛla ʾay
+bena xa
+ʾay ziltɛla
 məskənta
 ʾaw
 pišɛle
 xiləlle
-ʾixala ʾo
+ʾo ʾixala
 ile ṱ
 kəsle
 məre
@@ -143912,10 +143912,10 @@ xakma
 məndi
 mənni
 b ʾiði
-t ʾazən ta
-b urxa
-kpinni ʾən
-ṱ axlənne
+t ta ʾazən
+urxa b
+ʾən kpinni
+axlənne ṱ
 qimɛle
 baθər
 ile ṱ
@@ -143931,13 +143931,13 @@ xa ʾarba
 xamša
 beʾe
 muttəlla
-kosiθe xo
+xo kosiθe
 šqilɛle ʾu
 qalya
 dəryəlle
 gu jebane
-ʾu hola
-ṱ amrexi
+hola ʾu
+amrexi ṱ
 xa kawaza
 məšxa
 gawa
@@ -143946,7 +143946,7 @@ dəryəlla
 ʾiðe
 gawe
 diye
-mpaləṭ t ta
+t ta mpaləṭ
 məšxa
 ʾu ʾiðe
 diye
@@ -143955,14 +143955,14 @@ gawe
 baye ʾu
 mpaləṭle
 kulle
-lɛle ʾu
+ʾu lɛle
 plaṭa
 hirɛle ʾu
-b gane
+gane b
 diye
-ʾu pišɛle
-gu ɛ d pyašta
-ila ṱ ha
+pišɛle ʾu
+pyašta gu d ɛ
+ila ha ṱ
 θiθa
 ʾamte
 diye
@@ -143985,7 +143985,7 @@ bayənwa
 xačča
 məšxa
 məre
-ta axlən ṱ
+ta ṱ axlən
 b ʾurxa
 xačča
 məšxa w
@@ -143993,16 +143993,16 @@ ləxma
 ʾina
 ʾiði
 ṣela
-gu d awwa
+awwa gu d
 hənna
 linta
 lɛla
 plaṭa
-məšxa t
-məra ʾay
+t məšxa
+ʾay məra
 qəṭma
 b rešux
-de si
+si de
 qəm maxyale
 hatxa
 gu reše
@@ -144016,7 +144016,7 @@ modila
 məre
 šqilənni
 xakma
-beʾe žigən
+žigən beʾe
 məri
 balki
 balki
@@ -144042,39 +144042,39 @@ məre
 xačča
 xena
 qalya
-ṱ axlənne ta
+ta axlənne ṱ
 b ʾurxa
 məra
 mila
-l halux
-de sigən
+halux l
+sigən de
 ʾati
-pəlxana ču
+ču pəlxana
 palxət la
-har bligət
-b kasux
+bligət har
+kasux b
 mara
 qimtɛla
 mtugbartəlle
 məra
-de si
+si de
 ʾawwa
 zilɛle
 b ʾurxa
 zilɛle
-xale be
+be xale
 ʾamər
-šlama llɛxu
+llɛxu šlama
 xali
 ʾamər
-b šɛna ya
+b ya šɛna
 ṭawaθa
 b šɛna
-mo ha
+ha mo
 bayət
 məre
 bayən
-yawətli t
+t yawətli
 xa šula
 məre
 mo
@@ -144090,10 +144090,10 @@ məre
 ʾitli
 šawwa
 xmare
-kut yum
+yum kut
 ʾasqət
 masqətla
-šawwa ʾan
+ʾan šawwa
 xmare
 l ṭura
 mɛθət
@@ -144105,12 +144105,12 @@ bayət
 məre
 he
 ʾawwa
-šulɛle xoš
+xoš šulɛle
 xali
 ʾawwa
 qimɛle
 musqəllɛle
-ʾan xmare
+xmare ʾan
 l ṭura
 ga ʾɛ
 šawwa
@@ -144119,7 +144119,7 @@ rabɛla
 hal ɛ gə
 mjamela
 qɛse
-dɛrela ta
+ta dɛrela
 l xaṣət
 xmare
 ʾaθi
@@ -144133,9 +144133,9 @@ widle
 qimɛle
 ṭinəlla
 ṭinəlla
-ʾan qurṭane
+qurṭane ʾan
 qurṭanət
-xmare t
+t xmare
 ṭinəlla
 l xaṣe
 šawwa
@@ -144144,23 +144144,23 @@ muṣlyəlla
 muṣlyəlla
 diwən
 diwən
-xale t
+t xale
 diye
 hola
 dwiqta
 ʾayya
 diwən
 laxxɛla
-garele ʾaw
-har ʾəθyɛle
+ʾaw garele
+ʾəθyɛle har
 mən ṭura
 reša
-gare d o
+o d gare
 ʾani ʾu
 l xaṣe
 diye
 mrupyəlla
-gu diwən t
+t gu diwən
 xale
 naše ʾan
 kulla
@@ -144189,19 +144189,19 @@ xmare
 šawwaθna
 hola
 xile
-l dewe
+dewe l
 məre
 mɛθənna qəm
 qurṭaney
 ʾamər
-yxaləf ma
+ma yxaləf
 ʾani
 zilla
 fədwa
 ʾəllux
 mara
 sigən
-baxt xalux
+xalux baxt
 mo xzi
 pəlxana
 xazyalux
@@ -144215,14 +144215,14 @@ hole
 šiya
 yaʿni
 wiða
-xaθa w
+w xaθa
 w ʾupra
 šyalle
 parošyaθa ʾu
 hatxa
 glole
 šənduxyaθa
-amrəxla y
+y amrəxla
 šənduxyaθa
 hole
 ʾiθən
@@ -144232,7 +144232,7 @@ stərra
 modile
 xəṭṭele
 ʾu šišmele
-ʾu prage
+prage ʾu
 saṛe ʾu
 kulla
 dərye
@@ -144251,46 +144251,46 @@ kəsley
 məra ʾu
 ʾəlle
 diye
-xale baxt
+baxt xale
 diye
 məra
 xzi
 ʾayya
 ʾotəx
-šiyəlla hox
+hox šiyəlla
 la qablət
 la
-naša bəṛ
-ṱ awər
+bəṛ naša
+awər ṱ
 gawa
 la ʾu
 hɛwən
 məre
-yxaləf ma
+ma yxaləf
 tiwɛle
-tara gu
+gu tara
 tiwɛle
-tara gu
+gu tara
 ʾayya
-t barza ta
+t ta barza
 θiθɛla
 xa qaṭu
-ʾu w šwirtɛla
+w šwirtɛla ʾu
 b tara
 wirtɛla
 kliθa
-kəs d o linət
+o kəs d linət
 nepoxta
-ʾaw məre
+məre ʾaw
 baxt xali
 hola
 mirta
 la
-naša bəṛ
+bəṛ naša
 la ʾu
 hɛwən
 ʾawər
-ayya gu d
+gu ayya d
 ʾotəx
 ʾayya
 kulla
@@ -144303,14 +144303,14 @@ bɛθa
 xa
 šənduxta
 šqiləlla
-dɛrela t ta
+t ta dɛrela
 b qaṭu
 la qɛθa
 b qaṭu
 qɛθa
-b be palgət
+be palgət b
 nepuxta
-d o linət
+o d linət
 nepuxta
 ʾaw
 baze
@@ -144324,33 +144324,33 @@ bɛθa gu
 ʾawwa
 zille
 šqala
-mən pummət
+pummət mən
 prage
-mziða m
+m mziða
 šqala
 julla ʾo
-mən pummət
+pummət mən
 prage
-ta t mattule
-gu pummət
+t ta mattule
+pummət gu
 lintət
 nepoxta
-ʾan prage
+prage ʾan
 kulla
 ṣali
 gu nepoxta
 pišla
 nepoxta
-ʾu prage
-gu ġðaðe
+prage ʾu
+ġðaðe gu
 bɛθa ʾo
 ṃḷele
 mənney
 θela
-xale baxt
+baxt xale
 diye
 məra
-ʾummo ha
+ha ʾummo
 mut
 wiða
 məre
@@ -144359,14 +144359,14 @@ latwa
 mirta
 la hɛwən
 la ʾu
-naša bəṛ
+bəṛ naša
 ʾawər
 gu ʾotəx
 θela
 qaṭu
 wirra
 klela
-linta kəs
+kəs linta
 ʾap ʾana
 šqilali
 šənduxta
@@ -144385,13 +144385,13 @@ zilli
 ʾawwa
 julla
 ile ṱ
-gu pummət
+pummət gu
 mziðət
 prage
 məri
 mattənne
 gu nepoxta
-bɛza la t
+t la bɛza
 ʾap prage
 ṣlela
 gawa
@@ -144400,19 +144400,19 @@ gawa
 lɛle
 gnayi
 məra
-ham yxaləf ma
+ham ma yxaləf
 litla
 xam
 qimɛle
 zila
 mtugəbrəlla
 hade
-w m hade
+m w hade
 wiðəlla
-u ʾay
+ʾay u
 tara ʾu
 č̣iməlle
-ʾawər la t ta
+t ta ʾawər la
 ʾap xa
 naša
 gawa
@@ -144423,51 +144423,51 @@ xzi
 har
 ʾanən
 ʿabda raḥman
-ʿabda bek raḥman
+ʿabda raḥman bek
 ʾile
 šəmmi
 kut ʾaθe
 ʾamər
-ʿabda bek raḥman
+ʿabda raḥman bek
 tara
 la paθxətle
 ʾəlle
 diye
-ʾanɛwən bas har
+bas ʾanɛwən har
 ʾana
 ʾiθwa
 xaʾa
 maṣyoθe
 baθər
 tara
-maṣyoθe wewa
+wewa maṣyoθe
 ʾimə
-mara t wewa
-ʾummo ṭla
-mara wewa
+t wewa mara
+ṭla ʾummo
+wewa mara
 ʾana har
 ʿabda raḥman
 ʾap xa
 la qablət
-ṱ awər
+awər ṱ
 bɛθa gu
 ʾal ʾasas
-azəl ṱ ta
+ta azəl ṱ
 l baxte
 ʾap ʾawwa
 č̣iməlle
 tara
-xa bena
+bena xa
 witɛla
 hadəx
 b lɛle
 məxyɛle
 taq
 l tara
-maniwət ha
+ha maniwət
 ʾamər
 ʾana
-iwən ʿabda raḥman
+ʿabda raḥman iwən
 pθux
 tara
 pθixəllele
@@ -144476,16 +144476,16 @@ wirɛle
 zila
 dmixɛle
 baxtət kəs
-ʿabda bek raḥman
-xale baxt kəs
+ʿabda raḥman bek
+baxt kəs xale
 hadəx bar
 θele
 xa xena
 mxele
 l tara
-maniwət ha
+ha maniwət
 məre
-iwən ʿabda raḥman
+ʿabda raḥman iwən
 məre
 kəma
 ʿabda raḥman
@@ -144499,7 +144499,7 @@ tre
 paθxən
 tara
 məre
-ʾo ile ṱ
+ile ʾo ṱ
 wira
 ʾaw
 xaramɛle
@@ -144509,19 +144509,19 @@ qaṭolɛle
 pθuxli
 tara
 awrən ṱ
-qaṭləxle t ta
+t ta qaṭləxle
 pθixəlle
 tara
 ʾiθwa
 bərzoma
 bərzoma
 yaʿni
-ṣali t ta
-goma gu
+t ta ṣali
+gu goma
 b semalta
 pθixəlle
 ṣəlyɛle ʾu
-goma gu
+gu goma
 tarət
 goma
 hole
@@ -144532,14 +144532,14 @@ diye
 t ḥaqquθa
 məre
 kɛle
-ʿabda tre t raḥman
+t tre ʿabda raḥman
 ʾaxxa
 l tamma
 hole
 ṣəlya
-goma gu
+gu goma
 ṣəlyɛle
-goma gu
+gu goma
 ʾitle
 tawre
 ʾitle
@@ -144547,7 +144547,7 @@ dawɛre
 ʾitle
 məndiyane
 hole
-goma gu
+gu goma
 xa kut
 mənna
 šqiləlle
@@ -144579,16 +144579,16 @@ xali
 primli
 tawra
 ʾamər
-ham yxaləf ma
+ham ma yxaləf
 ʿabda raḥman
-la ʾarəq də
+də la ʾarəq
 zila
 məṭya
 l susele
 ʾap susa
 priməlle
 zila
-maṭe t ta
+t ta maṭe
 ʿabda raḥman
 ʿabda raḥman
 paθəx
@@ -144598,7 +144598,7 @@ paləṭ ʾu
 ʾawwa
 qṭille
 xmare
-ʾu qṭille
+qṭille ʾu
 susa
 qṭille
 tawra
@@ -144606,14 +144606,14 @@ tawra
 kulla
 qṭilile
 məre har
-yxaləf ma
-ʾu riqle
+ma yxaləf
+riqle ʾu
 ʿabda raḥman
 riqle
 ʾu zille
 ʾəθyɛle
 ʾamər
-šqul ganux
+ganux šqul
 sigən
 ʾati
 bɛθi
@@ -144626,29 +144626,29 @@ pəlxana
 palxət la
 ʾati
 qimle
-qəm ṭarədle
-qəm ṭarədle
+ṭarədle qəm
+ṭarədle qəm
 θele
 zille
 ʾamte be
 diye
-ʾamte ɛ d kəs
+ʾamte kəs d ɛ
 diye
 t wewa
 šqila
 beʾe
 mutta
-reše xo
+xo reše
 diye
 məra
-ʾummo ha
+ha ʾummo
 diṛṛux
 məre
 he
 xali
 liθwale
 šula
-qəm yalli
+yalli qəm
 diṛṛi
 məra
 dus
@@ -144662,7 +144662,7 @@ bayatla
 məra
 he
 məre
-qəm yalli
+yalli qəm
 šula
 məre
 yalli
@@ -144683,7 +144683,7 @@ siqən
 mjamoyəlla
 qɛse
 draya
-rəš ġðaðe
+ġðaðe rəš
 šawwa
 xmarela
 ʾana
@@ -144693,15 +144693,15 @@ dewe
 blige
 b xmare
 xala
-qəm axlila
+axlila qəm
 xmare
 qimən
 šqiləlla
 qurṭane
 ṭyanəlla
 l xaṣi
-əlla muṣəlyən
-əlla zədyən
+muṣəlyən əlla
+zədyən əlla
 bɛθa gu
 məra
 baʿd
@@ -144711,22 +144711,22 @@ məre
 baxt xali
 šitɛwəlle
 bɛθa
-ʾu θela
+θela ʾu
 qaṭu
 wirra
 tama
 ʾu dəryali
 šənduxta
 qitla
-gu nepuxta
-w nepuxta
+nepuxta gu
+nepuxta w
 prage
 wela
-gu ġðaðe
-la qbilla ʾu
+ġðaðe gu
+la ʾu qbilla
 baxt xali
 məra
-axxa si m
+m si axxa
 xarθa
 xali
 məre
@@ -144742,7 +144742,7 @@ bas ʾanən
 ʿabda raḥman
 ʾap xa
 la qablət
-ṱ awər
+awər ṱ
 bɛθa gu
 θele
 xa xena
@@ -144762,15 +144762,15 @@ xali
 la
 məre
 ṣlelɛni
-goma gu
+gu goma
 ṭaya
 l o
 ʿabda raḥman
 xzeli
 tawra
 ʾana
-ləbbi bəd
-ʿabda ile raḥman
+bəd ləbbi
+ile ʿabda raḥman
 primli
 xzeli
 susa
@@ -144778,7 +144778,7 @@ susa
 primli
 ʾana
 lɛðena
-ləbbi bəd
+bəd ləbbi
 našɛle
 ʾimə
 in ṱ
@@ -144800,7 +144800,7 @@ bayət
 xuš
 šqul
 ganux
-l bɛθa si
+si bɛθa l
 qimɛle
 zila
 l bɛθa
@@ -144821,32 +144821,32 @@ muttali
 məre
 hatxən
 wiða
-xali be
+be xali
 hatxən
 wiða
-ʾamti be
-ʾu ʾəθyən
+be ʾamti
+ʾəθyən ʾu
 ʾana
 xena
 šula
 la palxən
-ʾu la bayənne
+la bayənne ʾu
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 xa rabbən
 xena
 rabbən
 məre
 bayən
-yaðən t
+t yaðən
 ʾana
 ʾiman
 mɛθən
 məre
 bayən
-yaðən t
+t yaðən
 ʾana
 ʾiman
 mɛθena
@@ -144865,9 +144865,9 @@ yaðe
 mɛθən
 ʾawwa
 yala
-dawið wewa
+wewa dawið
 šəmme
-ʾo dawið
+dawið ʾo
 modi
 šule
 diye
@@ -144894,21 +144894,21 @@ wiðəlla
 k̭ore
 qəm maxela
 ʾurədxa
-gu ʾɛne
+ʾɛne gu
 diye
 ʾamər
-mo qa
+qa mo
 garəg
 ʾazəl
 kulla
 paxri
 gu nura
-gu jahannam
+jahannam gu
 bas ʾɛni
-xzela t
+t xzela
 ʾay
-ʾaza xoš
-gu jahannam
+xoš ʾaza
+jahannam gu
 qəm parela
 ʾɛne
 pišle
@@ -144918,19 +144918,19 @@ k̭ora
 naša
 rabbən
 šmile
-gu d o dawið
+gu dawið d o
 ʾən
 ʾamər
 ṭura
 mšanele
-axxa m
+m axxa
 mšanele
 tamaha
 t wewa ma
 krəstyana
 mhamənana
-b ʾalaha
-ʾo rabbən
+ʾalaha b
+rabbən ʾo
 zille
 mṭele
 l karkuk
@@ -144945,13 +144945,13 @@ diye
 w ʾaxxa
 tamma
 mṭele
-l maḥalle
+maḥalle l
 diye
 ʾimət
 mṭele
 drele
 šlama
-qəm xazele
+xazele qəm
 drele
 šlama
 ʾəlle
@@ -144971,7 +144971,7 @@ modi
 bayət
 məre
 b alaha
-ʾəθya hon
+hon ʾəθya
 ʾana
 bayən
 ʾitli
@@ -144979,7 +144979,7 @@ xačča
 šula
 mənnux
 məre
-yxaləf ma
+ma yxaləf
 parqənne
 šuli
 asqəx ʾu ṱ
@@ -144988,10 +144988,10 @@ mara
 qimɛle
 hal ʾaṣərta
 plixɛle
-pəlxana ʾo
+ʾo pəlxana
 ile ṱ
 plixəlle
-našela ho
+ho našela
 ʾəθye
 kəsle
 diye
@@ -145000,7 +145000,7 @@ siqe
 qam
 ayya d
 qəṣṣət
-mirali t
+t mirali
 dawið
 k̭ora
 dbišla
@@ -145014,12 +145014,12 @@ yaba
 kizle
 w ʾaxxa
 tamma
-gawren la
-hoyali mo
-gwarta w
+la gawren
+mo hoyali
+w gwarta
 bayən la
 ʾana
-gorən la
+la gorən
 kizla
 biye
 diye
@@ -145063,8 +145063,8 @@ mur
 məre
 lɛwət
 ʾati
-brata ʾɛ
-ʾana in ṱ
+ʾɛ brata
+in ʾana ṱ
 wiðəlla
 gani
 k̭ora
@@ -145077,28 +145077,28 @@ yehe
 məre
 xza
 amrənnəx ṱ
-ʾamrəx la
+la ʾamrəx
 ʾana
-ati w
-gawṛa w
+w ati
+w gawṛa
 baxta
 amrəx ṱ
 ʾana
-ati w
+w ati
 w xona
 xaθa
 mburxəllən
-l ġðaðe
+ġðaðe l
 ka xona
-xaθa ʾu
+ʾu xaθa
 la
-gawṛa ka w
+ka w gawṛa
 baxta
 məra
 he
 məre
-ʾamrət la
-ʾap xa ṭla
+la ʾamrət
+ʾap ṭla xa
 ʾaxni
 w xona
 xaθɛwəx
@@ -145108,39 +145108,39 @@ baθər
 hadəx
 θele
 siqle
-kəs dawið
+dawið kəs
 k̭ora
 ʾo
 rabbən
 məre
 ʾana
 bayən
-yaðən t
+t yaðən
 ʾiman
 mɛθən
 məre
-yxaləf ma
+ma yxaləf
 basiṭɛla
 xilela
 xa ramša
-ʾu priqela
-dəryəlle ʾu
+priqela ʾu
+ʾu dəryəlle
 šwiθa
 dmixɛle
 dawið
 k̭ora
 laxxa
-ʾu baxta
+baxta ʾu
 dmixtɛla
 laxxa
-ʾo ʾu rabbən
+rabbən ʾo ʾu
 dmixɛle
 laxxa
 muttela
 xa sallət
 miya
 muttela
-qam ʾaqlaθey
+ʾaqlaθey qam
 sallət
 miya
 yaðət
@@ -145151,7 +145151,7 @@ kəlye
 gu salla
 bena
 ʾaw
-iwa ṱ ma
+ma iwa ṱ
 hal hadəx
 bayewa
 ʾalaha qa
@@ -145159,15 +145159,15 @@ bayewa
 bayewale
 ʾap miya
 muklele
-gu ɛ salla d
+gu salla d ɛ
 ʾanna
 lɛla
 dmixe
-ʾo rabbən
+rabbən ʾo
 muttəlla
 ʾaqle
 diye
-rš aqəl
+aqəl rš
 baxta
 rrrrrr
 miya
@@ -145189,24 +145189,24 @@ tiwla
 baxta
 məre
 qu pluṭ
-axxa m
+m axxa
 ʾati
 xa naša
 xaramət
 məre
 ʾup
 ʾalaha
-yaðe la
+la yaðe
 ʾati
 ʾiman
 mɛθeti
 ʾu ṭriðəlle
-bɛθa gu m
+m bɛθa gu
 zilɛle
 ʾiθwa
 xa rabbən
 tiwɛwa
-gu xa gəppiθa
+gəppiθa xa gu
 θele
 xa naša
 swariya
@@ -145224,7 +145224,7 @@ zuze
 qimle
 šqilile
 muttile
-rəš ɛ d ʾɛna
+rəš d ɛ ʾɛna
 ʾawwa
 munšile
 zuze
@@ -145244,7 +145244,7 @@ xazela qəm
 ʾəmma
 dinare
 šqilile
-jal jalde
+jalde jal
 muttile
 gu jɛbe
 ʾu zille
@@ -145258,9 +145258,9 @@ dɛṛən
 ʾazən
 šaqlən
 zuzi
-rəš m ʾɛna
-t ʾaθe ha
-naša ʾo
+m rəš ʾɛna
+t ha ʾaθe
+ʾo naša
 qamaya
 maṭe
 l ʾɛna
@@ -145271,7 +145271,7 @@ maṭe
 rəš ʾɛna
 mattula
 karte
-ʾu tiwle
+tiwle ʾu
 manyoxe
 qamaya ʾo
 ile ṱ
@@ -145286,12 +145286,12 @@ zuzi
 ʾəmma
 dinare
 ʾana
-munšəlla hon
+hon munšəlla
 laxxa
 lazəm
 yawətla
 yaba
-lan xəzya
+xəzya lan
 zuze
 la
 w ʾaxxa
@@ -145305,26 +145305,26 @@ məre
 qṭul
 litli
 zuze
-lan xəzya
+xəzya lan
 qimle
-qəm qaṭəlle
-qəm qaṭəlle
+qaṭəlle qəm
+qaṭəlle qəm
 rabbən
-yle yaðət ma
+ma yaðət yle
 rabbən
 ʾawwa
-saxəð i ṱ
+i ṱ saxəð
 l ʾalaha
-ʾu u i ṱ mṣale
-le ʾaxəl y
+mṣale i u ʾu ṱ
+le y ʾaxəl
 bəsra w
 ʾaw
-amrile y
+y amrile
 rabbən
 hole
 tiwa
-gu xa gəppiθa
-ʾarbi šənne
+gəppiθa xa gu
+šənne ʾarbi
 qimɛle
 məre
 madam
@@ -145333,24 +145333,24 @@ azən ṱ
 ṭayən
 baθər
 ḥaqquθa
-na ʾu ḥaqquθa
+ḥaqquθa na ʾu
 ʾɛnila
 ḥaqquθa
 ʾɛnila ʾu
-na ḥaqquθa
+ḥaqquθa na
 mara
 ṣəlyɛle
-ʾazəl t ta
+t ta ʾazəl
 ʾurxa
 ʾalaha
 mšudrəlle
 malaxa
 məre
 ṣli
-qamθə d awwa
+qamθə awwa d
 naša
 rabbən
-xaləṭ t la
+t la xaləṭ
 ṣəlyɛle
 qamθe
 diye
@@ -145362,8 +145362,8 @@ məre
 zala hon
 ṭaya
 baθər
-w ḥaqquθa
-na ḥaqquθa
+ḥaqquθa w
+ḥaqquθa na
 ʾamər
 ʾap ʾana
 howən
@@ -145371,29 +145371,29 @@ zala
 ṭaya
 baθər
 ḥaqquθa
-na ʾu ḥaqquθa
+ḥaqquθa na ʾu
 məre
 malaxa
 məre
 ṭla rabbən
 məre
-ṱ awðət
+awðət ṱ
 b xabri
 ku məndi
 amrənnux ṱ
 ʾamər
 he
 məre
-yxaləf ma
+ma yxaləf
 məre
 ʾana
-ati w
+w ati
 xonawaθəx
 zilela
 zile
 zile
 zile
-gu ða maθa
+ða gu maθa
 ʾaṣərtɛla
 b ayya
 dana
@@ -145404,42 +145404,42 @@ bɛθət
 xa naša
 wirela
 bɛθa gu
-šlama llɛxu
+llɛxu šlama
 b šɛna
 b ṭawaθa
 paqðu
 tiwe
 tiwela
 tama
-xilela ʾu
+ʾu xilela
 ʾixala
-piše ʾu
+ʾu piše
 dmixe
 dmixela
 b lɛle
 malaxa
 muṛəšle
-qa rabbən
+rabbən qa
 məre
 qu
 qu
 məre
 ha
-šuqlən də
+də šuqlən
 damxəx
-mira lɛt
-ṱ oðən
-b xabrux
-qu šqulla
+lɛt mira
+oðən ṱ
+xabrux b
+šqulla qu
 ʾayya
 skinta
-prumle si
+si prumle
 ʾawwa
 yala
 zora
 ile ṱ
-gu dudiya
-ʾaw məre
+dudiya gu
+məre ʾaw
 dax
 pɛrmənne
 ʾawwa
@@ -145448,19 +145448,19 @@ mut
 na ḥaqquθɛla
 məre
 nəmu
-mira lɛt
-ṱ oðən
-b xabrux
+lɛt mira
+oðən ṱ
+xabrux b
 ʾayyɛla
 bayət
 bayət
 la bayət
-prumle si
+si prumle
 yala
 w baba
 yəmmət
 yala
-xamši šənne
+šənne xamši
 ʾiθwala
 ʾumra
 liθwala
@@ -145490,16 +145490,16 @@ na ḥaqquθɛla
 hatxa
 maləpətli
 ḥaqquθa
-na ʾu ḥaqquθa
+ḥaqquθa na ʾu
 zilela
-gu ða maθa
+ða gu maθa
 xeta
 mara
 ʾimət
 siqla
-gu ɛ d maθa
+maθa gu d ɛ
 wirra
-bɛθa xa gu
+xa gu bɛθa
 muttula
 ʾixala
 xala
@@ -145517,30 +145517,30 @@ xilela
 lɛla ʾu
 šətye
 miya
-mən ṭasa ɛ d
+mən ṭasa d ɛ
 witɛla
 b lɛle
 malaxa
 muṛəšle
-qa rabbən
+rabbən qa
 məre
 qu
 šqulla
 ʾayya
 ṭasa
-ʾu hayyo
+hayyo ʾu
 mənni
 šqiləlla
 ṭasa
 b lɛle
 nubləlla ʾu
 zədyəlla
-dɛrta gu ða
+ða gu dɛrta
 šqiləlla
-dɛrta mən ɛ d
+mən dɛrta d ɛ
 nubləlla
 zədyəlla
-gu ða xeta
+ða gu xeta
 məre
 ʾayya
 mut
@@ -145548,17 +145548,17 @@ mut
 na ḥaqquθɛla
 mut
 farquθɛla
-ayya gu d
+gu ayya d
 dɛrta
-ayaha gu ʾaw d
+ʾaw gu d ayaha
 ʾamər
 hayyo
 hayyo
 mənni
 nəmu
-lan mirəllux
-ku mdi amrən ṱ
-ṱ oðət
+mirəllux lan
+ku mdi ṱ amrən
+oðət ṱ
 b xabri
 məre
 he
@@ -145599,8 +145599,8 @@ məre
 məre
 kəmɛle xzi
 lxima
-mxi ʾaqlux si
-xaṣe gu
+si ʾaqlux mxi
+gu xaṣe
 diye
 l ayya
 kɛrta
@@ -145612,20 +145612,20 @@ diye
 ʾamər
 mut
 ḥaqquθa
-na ḥaqquθa
-na ḥaqquθa
+ḥaqquθa na
+ḥaqquθa na
 la
 ʾawðənna
 məre
 nəmu
-lat mqula
+mqula lat
 mənni
 məre
 he
 məre
-si də
+də si
 zilɛle
-ʾaqle maxela
+maxela ʾaqle
 ʾəlle
 diye
 ʾap ʾaw
@@ -145644,13 +145644,13 @@ biyi
 zala
 baθər
 ḥaqquθa
-na ḥaqquθa
-ʾalaha t
-axxa w
+ḥaqquθa na
+t ʾalaha
+w axxa
 tamma
 ʾədyo
 ʾədyo
-mu ṣṭimlux
+ṣṭimlux mu
 bɛθi
 ʾati
 widlux
@@ -145660,7 +145660,7 @@ biyi
 məre
 mut
 xəzya
-qam ʾɛnux
+ʾɛnux qam
 məre
 xəzyɛwən
 ʾana
@@ -145668,8 +145668,8 @@ xəzyɛwən
 in ṱ
 tiwa
 laxxa
-ʾarbi šənne
-hon tiwa
+šənne ʾarbi
+tiwa hon
 laxxa
 gu d ay
 gəppiθa
@@ -145681,14 +145681,14 @@ zille
 rəš ʾɛna
 xille
 məndi
-ʾu šwiqle
+šwiqle ʾu
 zuze
 diye
 tama
 zille
 θele
 xa xena
-zuze ʾan
+ʾan zuze
 šqilile
 ʾu zille
 θele
@@ -145696,12 +145696,12 @@ xa naša
 sawa
 diṛṛe
 qamaya ʾo
-qəm qaṭəlle
+qaṭəlle qəm
 sawa ʾo
 ṭla modi
 məre
 yaðət
-gawayə ʾo
+ʾo gawayə
 šqilile
 zuze
 ʾani
@@ -145712,13 +145712,13 @@ dəmmɛla
 ʾɛnile
 qṭiləlle
 qṭiləlle
-naša ʾo
+ʾo naša
 sawa
 ʾədyo
 sawa ʾo
-qəm qaṭəlle
+qaṭəlle qəm
 məre
-yxaləf ma
+ma yxaləf
 ʾayya
 ðiyali
 ʾina
@@ -145734,16 +145734,16 @@ bnone
 məre
 xzi
 amrənnux ṱ
-ʾu maṣyəθ
+maṣyəθ ʾu
 məre
 hal
 w xamši
 xamša
 šənne
-awɛwa y
+y awɛwa
 sxaða
 ʾalaha
-amər y
+y amər
 ʾalaha ya
 yawətlən
 xa brona
@@ -145760,29 +145760,29 @@ txara
 ʾalaha
 mṣalɛwa la ʾu
 ʾalaha qa
-dbiše har
-b broney
+har dbiše
+broney b
 la
 məre
 šaqləxle
 broney
-taxrile t ta
+t ta taxrile
 ʾalaha
-ga xa
+xa ga
 xeta
 ʾamər
-yxaləf ma
+ma yxaləf
 ʾap ʾayya
 qbilali
 modi
-manayə bəd
+bəd manayə
 ayya d
 ṭasa
 dawa
 šqilalən
-axxa m
+m axxa
 nublalən
-gu d yaha
+gu yaha d
 dɛrta
 məre
 ʾawwa
@@ -145792,7 +145792,7 @@ bas
 ʾayya
 ṭasa
 dawa
-wawa gnawa
+gnawa wawa
 gnuta
 dɛrtə ʾɛ
 zədyalux
@@ -145803,9 +145803,9 @@ genawela
 ʾalaha
 b dayənna
 k̭awa
-ani ṭla d
+ṭla ani d
 məre
-yxaləf ma
+ma yxaləf
 ʾawwa
 naša
 sawa
@@ -145817,8 +145817,8 @@ naša
 sawa
 raba
 ṭawa wewa
-azəlwa ʾu y
-b urxət
+y azəlwa ʾu
+urxət b
 ʾalaha
 lɛwewa
 xliṭa
@@ -145826,7 +145826,7 @@ xliṭa
 ʿajoze
 yaʿni
 kčaxa
-la ʾu t
+t la ʾu
 xaləṭ
 amər ṱ
 ʾalaha ya
@@ -145838,24 +145838,24 @@ qamət
 xaləṭ
 ʾanna
 kulla
-wiðili t
+t wiðili
 qamux
 ðilux
 modila
 məre
 he
-yaðənna qəm
+qəm yaðənna
 məre ʾu
-duṛ si
+si duṛ
 l šopux
-ʾarbi šənne ʾax
+šənne ʾax ʾarbi
 it ʾati ṱ
 plixa
 ʾalaha qa
-ʾu palxeti
+palxeti ʾu
 ʾana
 malaxən
-la ʾawðət ʾən
+la ʾən ʾawðət
 b xabra
 diyi
 ganux
@@ -145863,41 +145863,41 @@ ganux
 ʾamər
 xaṭər
 ʾalaha
-ʾu xaṭər
+xaṭər ʾu
 mšixa
-bas la
+la bas
 daqrət
 biyi
 azən ṱ
 šopi
-ṱ axlənne
+axlənne ṱ
 ləxmi
 hal
-yomət ʾo
+ʾo yomət
 mɛθən
 ʾurxət har
 ʾalaha
 doqən
-b iði
+iði b
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 xa yoma
 ʾiθwa
 xa qaša
-xa malla ʾu
+malla xa ʾu
 qaša
-xaša wewa
+wewa xaša
 l ʾurəšləm
 malla ʾu
 zalɛwa
 l ḥajj
 zilela
-mə ġðaðe
+ġðaðe mə
 hal ʾurdun
 šəryela
-xa gu ʾotel
+xa ʾotel gu
 šəryela
 tama
 hadiya
@@ -145910,7 +145910,7 @@ zala
 məre
 zala hon
 l ʾurəšləm
-ʾati ʾu
+ʾu ʾati
 lɛkət
 zala
 mara
@@ -145928,15 +145928,15 @@ lɛla
 qbilta
 ḥajjiyuθi
 šəryela
-gu ɛ d
+gu d ɛ
 ʾotel
-yoma ʾo w
+w yoma ʾo
 pišela
 hadəx
 ʾaṣərta
 θiθɛla
 bayi
-ṱ axli
+axli ṱ
 xa ramša
 mo
 axləx ṱ
@@ -145945,11 +145945,11 @@ məra
 ṣaləx
 zawnəxlən
 kθayaθa w
-ṱ aθəx
+aθəx ṱ
 bašləxla
 b ganən
 ṭla mo
-ṱ azəx
+azəx ṱ
 axləx ṱ
 gu maṭʿam
 ʾap təmməl
@@ -145961,14 +145961,14 @@ muxšəxla
 qɛmi
 ṣali
 zonila
-tərte kθaye
-mɛθɛla w ʾu
+kθaye tərte
+w mɛθɛla ʾu
 mattila
 gu quṣarta
 w mbašlila
 yatwi ʾu
 ʾaxli
-kθɛθa ða
+ða kθɛθa
 xilala
 ða
 pišla
@@ -145995,8 +145995,8 @@ malla
 axəlla ṱ
 kθɛθa
 ʾana
-azən bṱ
-gu šəmša
+bṱ azən
+šəmša gu
 modi
 ʾawðena
 məre
@@ -146019,9 +146019,9 @@ tre yomət
 ruta
 malla
 axəlla ṱ
-ʾaw ʾaxəl la
+la ʾaxəl ʾaw
 mdi ču
-rutɛla sab
+sab rutɛla
 ʾawwa
 qimɛle
 muttəlla
@@ -146029,7 +146029,7 @@ kθɛθa
 rəš nura
 mšaxonəlla
 mšuxəntɛla
-ʾu tiwɛle
+tiwɛle ʾu
 reša
 xiləlla
 kulla
@@ -146037,7 +146037,7 @@ kθɛθa
 pišɛle
 gɛrme
 dəryəlla
-gu qaṣxane
+qaṣxane gu
 ʾu muttəlla
 tamaha
 malla ʾu
@@ -146066,12 +146066,12 @@ xerila
 mtanile
 ʾamər
 xzeli
-b xəlmi
+xəlmi b
 ʾina
 ʾana
 zila
 l pardɛsa
-l a dunye
+l dunye a
 xeta
 mara
 zilən
@@ -146080,7 +146080,7 @@ pardɛsa
 ʾina
 hola
 mšixa
-muḥammad ʾu
+ʾu muḥammad
 kəlye
 gu tarət
 pardɛsa
@@ -146093,18 +146093,18 @@ məre
 mallile
 ile ʾən
 mallux
-ʾawər xoš
-ʾu ʾaxəl
-šate ʾu
-gu pərdɛsa w
+xoš ʾawər
+ʾaxəl ʾu
+ʾu šate
+w gu pərdɛsa
 ʾiθ tama
 ʾənwa
 ṭepi
-ʾu ḥuriyat
-məndi ʾu kulla
+ḥuriyat ʾu
+ʾu kulla məndi
 ʾiθgena
 mabsəm
-ṭare ʾu
+ʾu ṭare
 kef
 mara
 b alaha
@@ -146112,18 +146112,18 @@ murəlli
 l tama
 xilən
 ʾu šətyən
-ʾo məndit
+məndit ʾo
 ʾana
 xilli
 ʾo
 busama
 mubsəmli
 tama
-ʾaθi la
+la ʾaθi
 mtanoye
-ʾu ʾamər
+ʾamər ʾu
 qaša
-ʾana ʾu
+ʾu ʾana
 ʾamər
 də kli
 ʾamər
@@ -146136,7 +146136,7 @@ məṭyət
 kəsley
 muḥammad
 məre
-mšixa ta
+ta mšixa
 ʾo ʾɛnile
 məre
 qašile ʾo
@@ -146145,19 +146145,19 @@ litle
 duka
 ʾaxxa
 mxole
-xəṭrule ʾu
+ʾu xəṭrule
 maqəlbule ʾu
 mara
 məxyəllux
 məxyəllux
 məxyəllux
-ila ṱ ha
+ila ha ṱ
 mubyəlle
 gəldux
-ʾu mudəṛəlluxila
+mudəṛəlluxila ʾu
 ʾamər
 xzelux
-baxtuθa be
+be baxtuθa
 ʾati
 wirrux
 xillux
@@ -146166,18 +146166,18 @@ xillux
 kθayaθa
 mubsəmlux
 ḥuriyyat
-ana w
+w ana
 maxɛli qəm
-ati w
+w ati
 xyara
 biyi
 ʾana ži
 m kɛrbi
 ʾəθyən
-kθɛθa ʾa
+ʾa kθɛθa
 muttənna
 rəš nura
-ʾu xilənna
+xilənna ʾu
 ʾu ṭlalux
 lan šwiqa
 ču məndi
@@ -146195,23 +146195,23 @@ xillux
 tama
 mubsəmlux
 ʾana
-qəm ṭarðili
+ṭarðili qəm
 ʾəθyən
 m kɛrbi
 hon xiləlla
 ʾay
 mara
 ʾiθwa
-gawṛa xa w
+xa w gawṛa
 baxta
 ʾiθwala
 bnone
-kut yum
+yum kut
 ṣalewa
 gawṛa
 l šuqa
 msawoqe
-ču məndi ʾu
+ʾu ču məndi
 lɛ
 mɛθewa
 baxta
@@ -146229,7 +146229,7 @@ tawra
 ṣəlyɛle
 mzabonəlle
 ṣəlyɛle
-gu rešət
+rešət gu
 mðita
 ṣrixɛle
 he
@@ -146255,11 +146255,11 @@ məre
 ʾana
 b zawnənne
 ʾina
-hawe ʾən
+ʾən hawe
 ṭḷa
 ʾaqlaθa
 yaʿni
-ʾiða ða
+ða ʾiða
 parəmla
 payəš
 ṭḷa
@@ -146276,22 +146276,22 @@ mangole
 ʾaxxa
 l tamma
 ʾamər
-si də
+də si
 ʾana
-gə ʾɛ
+ʾɛ gə
 t wewa
 ʾarbe
-zwinni la
+la zwinni
 zawnənne
 ṭəḷḷəθ
 la
 zawnənne
 de yaba
 ʾɛni
-b zawənne
+zawənne b
 hatxa
 la
-b xa zuza
+xa b zuza
 raba
 məndi
 hale
@@ -146301,7 +146301,7 @@ muʿalləm
 θele
 muʿalləm
 məre
-hawe ʾən
+ʾən hawe
 b tərte
 ʾaqlaθa
 ʾana
@@ -146318,10 +146318,10 @@ npille
 faqih
 məre
 yaba
-b zabnətle
+zabnətle b
 ʾəlli
-hawe ʾən
-b ða ʾaqla
+ʾən hawe
+ða b ʾaqla
 məre
 zilla
 θela
@@ -146332,7 +146332,7 @@ zilla
 mxila
 yəmmət gu
 ganux
-qəm parəmle
+parəmle qəm
 tawra
 ṭḷa
 ʾaqlaθa
@@ -146357,7 +146357,7 @@ l gane
 diye
 bnone
 diye
-la ʾixalɛla t
+t la ʾixalɛla
 ʾamər
 baxta
 hal u
@@ -146369,13 +146369,13 @@ məre
 gu mðita
 qreli
 hatxa
-kut zawən
+zawən kut
 tawra
 θele
 malla
 məre
 ṭlali
-hawe ʾən
+ʾən hawe
 ṭḷa
 ʾaqlaθa
 ʾana
@@ -146383,7 +146383,7 @@ b zawnənne
 ʾana
 qimli
 primali
-ʾaqle ða
+ða ʾaqle
 diye
 məri
 balki
@@ -146397,7 +146397,7 @@ b arbe
 lanwa
 zwanəlle
 zawnənne
-b ṭəḷḷəθ
+ṭəḷḷəθ b
 θele
 bare
 diye
@@ -146406,7 +146406,7 @@ muʿalləm
 məre
 ʾana
 b zawnənne
-hawe ʾən
+ʾən hawe
 b tərte
 ʾaqlaθa
 qimən
@@ -146420,12 +146420,12 @@ npille
 faqih
 məre
 yaba
-ila ʾən
-hala hatxa
+ʾən ila
+hatxa hala
 ʾana
 b zawnənne
-hawe ʾən
-b ða
+ʾən hawe
+ða b
 ʾaqla
 məre
 ʾap ʾay
@@ -146438,12 +146438,12 @@ mitle
 npille
 tama
 ʾap xa
-θele la
-šqaləlle w
+la θele
+w šqaləlle
 ʾu zille
 haramat
 kalwe ʾu
-qəm axlile w
+axlile w qəm
 zille
 məra
 hatxa
@@ -146455,7 +146455,7 @@ dax ile
 ʾitla
 tre
 ʾotaxe
-ʾotəx ða
+ða ʾotəx
 ʾani
 damxi
 gawa
@@ -146469,21 +146469,21 @@ taxta
 matti
 taxta
 hatxa
-ʾazi t ta
+t ta ʾazi
 liθən
 daraje
-ṣali ta
-goma gu
+ta ṣali
+gu goma
 taxtɛla
 mutte
 hatxa
-ṣali ta
+ta ṣali
 tama
 məra
 gawṛa
-yxaləf ma
+ma yxaləf
 ʾana
-b ṣalyana
+ṣalyana b
 ṣliθɛla
 baxta
 xziθa
@@ -146494,61 +146494,61 @@ dəkkanət
 ʾaparuθa
 yaʿni
 šekər u
-čay u
+u čay
 parča
-mən anna d
+mən d anna
 məndiyane
-ʾu ṣabun
+ṣabun ʾu
 driθɛla
 šlama
 ʾəlle
 diye
 məra
-ʾa malla
+malla ʾa
 dax it
 dax ile
 kefux
 ʾaxxa
 l tamma
 məre
-iwən spay
+spay iwən
 basimta
 raba
 xer
 ʾaxxa
 məra
 b alaha
-θiθa hon
+hon θiθa
 bayən
 msoqən
 xakma
 məndiyane
-bɛθa ṭla
+ṭla bɛθa
 ʾamər
 šqul
-ku məndi t
+t ku məndi
 bayət
 mxiθəlle
 ʾɛna
 malla
 xəðyɛle
 məre
-ku məndi t
+t ku məndi
 bayət
 šqul
 šqiltɛla
-čanta xa
+xa čanta
 hatxa
 ṃḷiθɛla
 məra
 malla
-amrannux ṱ
+ṱ amrannux
 məre
 modi
 b oma
 xena
 ʾaθeti
-ṭla kawuθra
+kawuθra ṭla
 čidət
 kəslɛni
 məre
@@ -146560,7 +146560,7 @@ dukθa
 məre
 qəm yaðənne
 məra
-ṭla kawuθra
+kawuθra ṭla
 ʾaθət
 ʾana
 mbašlən
@@ -146578,7 +146578,7 @@ musəqla
 ṣabun
 musəqla
 šekər
-ku məndi t
+t ku məndi
 bela
 musəqla
 məra
@@ -146606,7 +146606,7 @@ dax ile
 məre
 basimta
 ila spay
-ila xer
+xer ila
 məra
 bayən
 xakma
@@ -146617,7 +146617,7 @@ bɛθa gu
 məra
 bəsra
 kθayaθa
-ʾitlux ʾən
+ʾən ʾitlux
 šekər
 čay
 ʾanna
@@ -146630,22 +146630,22 @@ bayət
 məra
 faqih
 məra
-amrannux ṱ
+ṱ amrannux
 xa məndi
-ʾamrət la
-ʾap xa ṭla
+la ʾamrət
+ʾap ṭla xa
 məre
 mo
 məra
 čidɛwət
 ʾaṣərta
-xa ṭla ramša
+ṭla xa ramša
 yomət
 ṭḷaθa
 yomət
 ṭḷaθa
 yaʿni
-tre yome bar
+tre bar yome
 yomət
 ṭḷaθa
 ʾaθət
@@ -146663,7 +146663,7 @@ yaðənne
 tama
 yomət
 ṭḷaθa
-har ṣlela
+ṣlela har
 ṣlela
 tfiqla
 muʿalləm
@@ -146671,7 +146671,7 @@ muʿalləm
 dəkkana
 goṛtɛla
 kul
-xa tahər
+tahər xa
 məndi
 ʾitle
 gawa
@@ -146684,7 +146684,7 @@ diye
 w ʾaxxa
 tamma
 hayyo
-amrannux ṱ
+ṱ amrannux
 gxakɛla
 mənne
 diye
@@ -146694,7 +146694,7 @@ kefe
 qəm dawqale
 məra
 xzi
-amrannux ṱ
+ṱ amrannux
 muʿalləm
 ʾati
 raba
@@ -146706,7 +146706,7 @@ xakma
 məndi
 masqanne
 l bɛθa
-ʾu ʾaṣərta
+ʾaṣərta ʾu
 b lɛle
 ʾaθeti
 kəsli
@@ -146723,42 +146723,42 @@ litləx
 xaṭər
 baxta
 bṱ ʾu aθən
-gu anna d
+gu d anna
 ʾɛni
 bṱ aθən
 šqul ʾu
-ku məndi t
+t ku məndi
 bayət
 ʾayya
 dəkkana
 qaməx
-ku mdi t
+t ku mdi
 bayət
 šqul
 šurela
 šqilla
 šqilla
-ku məndi t
+t ku məndi
 mṣela
 qəm šaqlala
 drɛla
-čanta gu
+gu čanta
 diya
 šurela
 b ʾurxa
 siqla
 siqla
 məra
-gawṛa ṭla
+ṭla gawṛa
 məra
 gawṛa
-xzi ʾanna
-naše ṭḷa
+ʾanna xzi
+ṭḷa naše
 ila ṱ
 priməlle
 tawra
 ṭḷaθna
-hon yiwtəlla
+yiwtəlla hon
 moʿəd
 ʾina
 aθi ṱ
@@ -146771,7 +146771,7 @@ ganux
 baraye
 danət
 kawuθra
-har wela
+wela har
 danət
 kawuθra
 xzelux
@@ -146779,7 +146779,7 @@ xa naša
 θaya
 malla
 bṱ aθe
-ṱ awər
+awər ṱ
 bɛθa gu
 yaʿni
 xamša
@@ -146788,26 +146788,26 @@ hal ʾəṣra
 ʾati
 ʾaθeti
 ṣarxət
-qala xa
+xa qala
 ʾahe
 ʾahe
 hatxa
-ʾana ʾu
-yaðən t ta
-ʾati ʾu
+ʾu ʾana
+t ta yaðən
+ʾu ʾati
 litlux
 šula
 xarθa
 palṭeti
 ʾap ʾaṣərta
 hadəx
-ʾati ʾu
+ʾu ʾati
 hawət har
 baraye
 ʾu saprət
-kuṱ aθe
+aθe kuṱ
 laxxa
-baθər m
+m baθər
 xamša
 daqiqe
 ʾati
@@ -146819,7 +146819,7 @@ hal
 hal
 xa ramša
 məre
-yxaləf ma
+ma yxaləf
 baxti
 wiyɛle
 yomət
@@ -146837,7 +146837,7 @@ kawuθra
 malla
 məre
 malla
-šlama lləx
+lləx šlama
 məra
 w ay
 b šɛne
@@ -146846,13 +146846,13 @@ malla
 ʾahlan
 wa sahlan
 rəš reši
-ya ʾahlan
+ʾahlan ya
 wa sahlan
 paqəð
 tu
 paqəð
 tu
-žigən malla
+malla žigən
 tiwle
 ʾaxxa
 l tamma
@@ -146867,13 +146867,13 @@ diye
 miya
 ʾaxxa
 l tamma
-xa bena
+bena xa
 gawṛa
 diya
 ho
 šekaro
 liθ
-la xmara
+xmara la
 mənne
 diye
 la ču məndi
@@ -146881,7 +146881,7 @@ la ču məndi
 ʾasas ʿal
 hole
 siqa
-l qɛse
+qɛse l
 mɛθoye
 qɛse
 gawṛe
@@ -146898,7 +146898,7 @@ rixa
 šqul
 l ʾiðux
 wur
-gu d awwa
+awwa gu d
 bɛθa
 č̣umle
 tara
@@ -146911,13 +146911,13 @@ jənne
 jənne
 saṭane
 ʾitlən
-gu d awwa
+awwa gu d
 bɛθa
 hawət
 həšyər
-ʾaθi la t
+t la ʾaθi
 ʾəllux
-gawṛi t ha
+t ha gawṛi
 ʾazəl
 ʾawwa
 modile
@@ -146930,14 +146930,14 @@ qimɛle
 rixa
 wirɛle ʾu
 bɛθa gu d o
-rəš dapa d o
+dapa o rəš d
 tara ʾu
 č̣əmtəlle
 bare
 tara
 č̣əmtəlle
 bare
-diye w
+w diye
 ʾaw
 pišɛle
 tama
@@ -146955,7 +146955,7 @@ dana
 faqih
 θele
 faqih
-šlama lləx
+lləx šlama
 hay
 b šɛna
 b ṭawaθa
@@ -146963,7 +146963,7 @@ faqih
 yaba
 rəš reši
 ʾahlan
-w sahlan
+sahlan w
 b šɛna
 paqəð
 tu
@@ -146994,11 +146994,11 @@ tiwɛle
 həš
 stakana
 šətya
-štaya la t
+t la štaya
 čay
-qala xa
+xa qala
 ʾaθe
-qam m tarət
+m tarət qam
 bɛθa
 ho
 šekaro
@@ -147021,45 +147021,45 @@ həšyər
 ʾiθən
 jənne
 saṭane
-ayya gu d
+gu ayya d
 ʾotəx
 hawət
 həšyər
-har qitla
+qitla har
 biyux
 qaṭlilux
 axlilux ṱ
 məre
-yxaləf ma
+ma yxaləf
 qimɛle
 šqilɛle
 qɛsa
 b ʾiðe
 diye
 wirɛle ʾu
-ʾax ile ṱ
+ile ʾax ṱ
 wira
 ʾiθwa
 dukθa
-kalewa t ta
+t ta kalewa
 č̣imtəlle ʾu
 tara
 bare
 diye
-ʾu pišɛle
+pišɛle ʾu
 ʾap aw
 tama
 θele
-b ʾaṣərta
+ʾaṣərta b
 b lɛle
-axla ṱ ta
+ta axla ṱ
 xa ramša
-xa bena
+bena xa
 hadəx
 ʾəθyɛle
 muʿalləm
 raba
-šlama lləx
+lləx šlama
 dax it
 dax
 lɛwət
@@ -147071,18 +147071,18 @@ b šɛna
 hawət
 basima
 raba
-d qa awwa
+awwa qa d
 ʾixala
-it yiwəlle ṱ
+yiwəlle it ṱ
 diyi qa
 kθayaθa mən
-mən bəsra
-mən šekər u
-čay u
+bəsra mən
+šekər mən u
+u čay
 ṣabun
 xa kul
 məndi
-hot yiwəlla
+yiwəlla hot
 hawət
 basima
 raba
@@ -147091,10 +147091,10 @@ paqəð
 tu
 mšaxnanne
 ʾixala
-axləx ṱ ta
-ʾana w
+ta axləx ṱ
+w ʾana
 ʾati
-ġðaðe m
+m ġðaðe
 ʾamər
 liθ
 ʾap xa
@@ -147112,7 +147112,7 @@ xoš məndila
 šurɛθa
 mbarxoše
 ʾixala
-xa bena
+bena xa
 gawṛa
 diya
 ʾaθe
@@ -147129,12 +147129,12 @@ be šwawe
 məre
 ʾoðən mo
 məra
-oðəx mo ṱ
+ṱ mo oðəx
 šqul
 ʾawwa
 qɛsa
 wur
-ayya gu d
+gu ayya d
 ʾotəx
 ʾina
 hawət
@@ -147143,7 +147143,7 @@ hola
 ʾiθən
 jənne
 gawa
-la qaṭlilux t
+t la qaṭlilux
 ʾamər
 hayyo
 mut mara
@@ -147160,26 +147160,26 @@ wirɛle
 gu ʾotəx
 la ʾu mur
 qayəθ
-b ile o ṱ
+ile b o ṱ
 dəpne
 qayəθ
 b faqih
 faqih
 qayəθ
-b malla
+malla b
 ṣali ʾu
-goma gu
+gu goma
 mxayɛla
-l ġðaðe
+ġðaðe l
 xuyɛle
 tara
 čimtɛla
 barey
 xuyɛle
-xa mxayɛle
-l xena o
-xa mxayɛle
-l xena o
+mxayɛle xa
+l o xena
+mxayɛle xa
+l o xena
 ʾanna
 xšiwela
 jənnela
@@ -147187,8 +147187,8 @@ du
 du
 du
 mxela
-l ġðaðe
-ha t ṭḷaθna
+ġðaðe l
+t ha ṭḷaθna
 mitla
 ʾimət
 mitla
@@ -147211,8 +147211,8 @@ xziθəlle
 xa naša
 məra
 hayyo
-ya gani
-amrannux ṱ
+gani ya
+ṱ amrannux
 məre
 mo
 məra
@@ -147221,18 +147221,18 @@ pɛšət
 ḥammala
 ḥammala
 yaʿni
-ʾo ṭayən t
+t ʾo ṭayən
 naše
 ṭayən
 məndi
 ʾaw
-amrile y
+y amrile
 ḥammala
 məra
 hayyo
 hayyo
 kəslɛni
-amrannux ṱ
+ṱ amrannux
 ʾap ʾaw
 qimɛle
 zilɛle
@@ -147242,7 +147242,7 @@ ha
 baxta
 mut mara
 məra
-yannux t
+t yannux
 ʾəṣra
 dinare
 bas
@@ -147257,7 +147257,7 @@ miθɛni
 dɛṛi
 mṭamrətle
 spay
-la t ta
+t ta la
 dayəṛ
 məre
 he
@@ -147277,19 +147277,19 @@ malla
 dɛrele
 baθər
 qðale
-de lɛlela ʾu b
+b de ʾu lɛlela
 zilɛle
 zilɛle
 xəzyɛle
-xa lawurta
-dəryəlle ʾu
+lawurta xa
+ʾu dəryəlle
 gawa
 diya
 dəryəlle
 gawa
 diya
 ʾu ʾəθyɛle
-ha ile ṱ
+ile ha ṱ
 ʾəθya
 mpulaṭṭɛla
 faqih
@@ -147299,7 +147299,7 @@ faqih
 tama
 məra
 nəmu
-la llux məri
+məri la llux
 dayəṛ
 miθa
 dayəṛ
@@ -147324,17 +147324,17 @@ mara
 tqiləlle
 ṭinəlle
 l xaṣe
-ʾu nubləlle
+nubləlle ʾu
 zədyəlle
 xa gu dukθa
 ʾamuqta
 raba
 məre
-la t ta
+t ta la
 paləṭ
 zadele
 ṣale
-xa gu čale
+čale xa gu
 goṛta
 qimɛle ʾu
 mpulṭɛle
@@ -147352,8 +147352,8 @@ qam mənnux
 ʾamər
 modit
 mara
-dəryəlle hon
-xa gu čale
+hon dəryəlle
+čale xa gu
 ʾamuqta
 la ʾaməṣ
 ga ču
@@ -147370,16 +147370,16 @@ siqɛle
 ʾərxe
 siqɛle
 gu kotala
-rəš kotala
+kotala rəš
 dəryəlle
-miya gu
+gu miya
 ṣəlyɛle
 ʾawwa
 ʾažvana
-ʾaw t
+t ʾaw
 mtagbər
 ʾərxe
-amrile y
+y amrile
 ʾažvana
 ʾawwa
 pθixɛle
@@ -147395,8 +147395,8 @@ lɛla
 θaya
 hole
 ṣəlya
-naša ʾo
-miya gu
+ʾo naša
+gu miya
 paθəxle
 tara
 ʾina
@@ -147414,16 +147414,16 @@ qaṭəlle
 tama
 ʾarəq ʾu
 ʾazəl
-ṭla baxta
+baxta ṭla
 ʾamər
 ʾamər
 ha
 xazəx
 la diṛṛe
 la diṛṛe
-miθən ʾo
+ʾo miθən
 məra
-dayəṛ mut
+mut dayəṛ
 yaðət
 ʾɛkən
 dəryəlle
@@ -147431,20 +147431,20 @@ məra
 ʾɛka
 məre
 dəryəlle
-kotalət gu
+gu kotalət
 ʾərxe
-ʾu bayewa
-paləṭ u
+bayewa ʾu
+u paləṭ
 pliṭle
-ʾu bayewa
-paləṭ u
+bayewa ʾu
+u paləṭ
 pθixəlle
 tarəd
 ʾərxe
 bayewa
 paləṭwa
-ʾana ʾu
-məxyən əlle
+ʾu ʾana
+əlle məxyən
 qɛsa
 gu reše
 diye
@@ -147453,7 +147453,7 @@ hole
 tama
 hay
 bɛθi
-hot qṭiləlle
+qṭiləlle hot
 ʾažvana
 məre
 lɛle
@@ -147471,14 +147471,14 @@ diyən
 la bayənna
 la
 zuzəx
-la ču ʾu məndi
+la ʾu ču məndi
 ʾalaha ya ʾu
 zilɛle
 riqɛle
-zuze ʾan
-ṭla d aw
-ṭla d ḥammala o
-yiwla la
+ʾan zuze
+ṭla aw d
+ṭla o d ḥammala
+la yiwla
 ʾanna
 ṭḷaθna
 qəm qaṭlala
@@ -147488,7 +147488,7 @@ l bɛθa
 reša
 mtula
 məra
-gawṛa ṭla
+ṭla gawṛa
 diya
 xzelux
 hatxa
@@ -147515,7 +147515,7 @@ miya
 qəm maθele
 tama
 dmixle
-d ay kəs
+kəs d ay
 šaqiθa
 ʾo xena
 zrayɛle
@@ -147523,14 +147523,14 @@ xarθa
 ʾəθyɛle
 xəzyɛle
 ʾina
-l got ay hodəx
+ay l hodəx got
 t šaqiθa
 ʾiθwa
-ða pəqqe
-gota m ay
+pəqqe ða
+m gota ay
 pəqqe
 šwirra
-l got a hodəx
+l a hodəx got
 t šaqiθa
 klela
 siqla
@@ -147542,26 +147542,26 @@ siqla
 xaṣa
 diya
 mašurala ʾu
-b got a miya
+b a miya got
 ʾaθe
 laxxa
-naša bron d o
+bron o d naša
 dmixɛle
 tamma
 ʾaqərwa
 ṣlela
-xaṣ m t
+m t xaṣ
 pəqqe
 θela
 wirra
 xo rešə
-d o yala
-ʾu šqille
+o d yala
+šqille ʾu
 xa kepa
 babe
 diye
 babə
-d o yala
+o d yala
 məre
 qaṭlənna
 yaha
@@ -147572,11 +147572,11 @@ pəqqe
 zilla
 muθyala
 ʾaqərwa
-got m ʾay hodəx
+m ʾay hodəx got
 miya
 muθyala
 laxxa
-nɛsale t ta
+t ta nɛsale
 broni
 broni
 mayəθ
@@ -147584,14 +147584,14 @@ qaṭlənna
 yaha
 ʾaqərwa
 xarθa
-ga xa
+xa ga
 xeta
 klele
 məre
 škira
 šəmmux
 ʾalaha ya
-ʾati ʾən
+ʾən ʾati
 bayət
 broni
 mayəθ
@@ -147602,7 +147602,7 @@ b ayya
 pəqqe
 balam
 ʾazəl
-gota d m ay
+m gota d ay
 xetə
 šaqiθa
 šaqlala
@@ -147612,15 +147612,15 @@ diya
 maθya
 l ayya
 gota
-ʾaθya ʾu
-nɛsale ṭla t
+ʾu ʾaθya
+t ṭla nɛsale
 broni
 mayəθ
 xlapux
 ʾalaha ya
 har
 ʾəjbona
-diyux ile
+ile diyux
 rapele
 ʾo kepa
 la
@@ -147638,7 +147638,7 @@ xena
 lɛle
 raḥat
 məre
-diyi bron
+bron diyi
 har
 hole
 miθa
@@ -147647,7 +147647,7 @@ nistəlle
 zilɛle
 mukləlla
 tawre
-wɛwa t
+t wɛwa
 zraya
 šqille
 brone
@@ -147660,22 +147660,22 @@ nablənna
 bɛθa
 dərya
 ʾiðe
-b bron diye
+bron b diye
 bron diye
 qimwale
 məre
-babi ha
+ha babi
 mo
 bayət
 məre
 ču məndi
 bayən
 priqli
-ṱ azəx
+azəx ṱ
 bɛθa
 xirre
 xo rešə
-d o yala
+o d yala
 ʾiθwa
 xa boyət
 xuwwe
@@ -147684,19 +147684,19 @@ pliṭa
 tama
 baye
 nayəsle
-ṭla bron
-d o
+bron ṭla
+o d
 fallaḥ
 ʾayya
 ʾaqərwa
 θiθa
-gu rešə
-boya d o
+rešə gu
+o d boya
 qṭiltəlle
-qəm qaṭlale
+qaṭlale qəm
 xuwwe ʾo
 məre
-ʾana ʾən
+ʾən ʾana
 hawənwa
 qṭiləlla
 ʾayaha
@@ -147705,65 +147705,65 @@ qṭiləlla
 xuwwe
 awewa ṱ
 qṭila
-broni ṭla
+ṭla broni
 šqille
 bron diye
 zille
 bɛθa
 xa naša
 xačča
-wewa ʾanani
+ʾanani wewa
 yaʿni
 maxbanət
 gane wewa
 har
-awewa y
+y awewa
 ṭlaba
-mən ʾalaha
+ʾalaha mən
 qwala
 bayən
 ʾalaha
 t yawəlli
 məndi
 zawda
-t ʾu yawəlli
+t yawəlli ʾu
 məndiyane
-ʾalaha t qa
+t ʾalaha qa
 yawəlwale
 har
-qwala awewa y
-xayuθe m
+y awewa qwala
+m xayuθe
 diye
-xa bena
+bena xa
 marya
 ʾalaha
 məre
 ṭla malaxa
-ṣli də
+də ṣli
 xzi
-ʾaw modi
+modi ʾaw
 baye
 hayyo
 xazəx
 modi
 har
-hole mṭarṭome
-ṭlaba ʾu
+mṭarṭome hole
+ʾu ṭlaba
 mṭarṭome
-ṭlaba ʾu
+ʾu ṭlaba
 gazəndana
 raba
 malaxa
 ṣlele
 məre
-naša ha
+ha naša
 ʾati
 mudit
 bliga har
 ṭlaba
 m alaha
-t yawəllux ta
-ʾu w gazənda
+t ta yawəllux
+gazənda w ʾu
 gazənda
 mara
 xzi
@@ -147771,29 +147771,29 @@ xzi
 bayən
 ʾalaha
 t yawəlli
-məndi kul
+kul məndi
 bi zawda
-xayuθi t ta
+t ta xayuθi
 hoya
 spay
-xayən t qa
+t xayən qa
 spay
 ʾaxxa
 məre
 ʾalaha
-mira hole
+hole mira
 t yawəllux
-b šarṭ
+šarṭ b
 ku mdit
 yawəllux
-šwawux ta
+ta šwawux
 t yawəl
 tre
 yaʿni
 ʾati
 yawəllux ʾən
-tawərta ða
-šwawux ta
+ða tawərta
+ta šwawux
 t yawəl
 tərte
 tawriyaθa
@@ -147801,7 +147801,7 @@ tawriyaθa
 yawəl
 xa
 xmara
-šwawux ta
+ta šwawux
 t yawəl
 tre
 xmare
@@ -147810,20 +147810,20 @@ ku mdit
 t yawəl
 ṭlalux
 ʾap
-šwawux ta
+ta šwawux
 t yawəl
 tre
 ʾamər
-mo ta
+ta mo
 šwawi ta
 ʾana
-hon marəllux
+marəllux hon
 b ayya
 šarṭ
 ʾalaha
 t yawəllux
 ʾina
-la yawəllux
+yawəllux la
 məre
 kli
 mtaxəmnən
@@ -147832,7 +147832,7 @@ mtuxmənne
 siqle
 malaxa
 bar
-ṭlaθa yome
+yome ṭlaθa
 diṛṛe
 məre
 mtuxmənnux
@@ -147845,19 +147845,19 @@ mirre
 ta marya
 ʾalaha
 bayən
-ʾɛni ða
+ða ʾɛni
 mpaləṭla
 məre
 ṭla modi
-ʾɛnux ða
+ða ʾɛnux
 mpaləṭla
 məre
-ʾɛnət t ta
+t ta ʾɛnət
 šwawi
 traθna
 mpaləṭla
 qaṭina
-qəm mxazdile
+mxazdile qəm
 məra
 garəg
 mɛθət
@@ -147875,7 +147875,7 @@ la maṣe
 maṭe
 ʾəlla
 diya
-leliθɛla kəs
+kəs leliθɛla
 sisisambər
 qaṭina
 tom
@@ -147883,7 +147883,7 @@ qaṭina
 tiwɛle
 xamra
 b štaya
-b štaya w
+w b štaya
 har
 b rwaya
 base
@@ -147891,7 +147891,7 @@ buse
 b draya
 ʾɛnile
 gawṛa
-guṛe m
+m guṛe
 šawərre
 bazət
 šwirri
@@ -147913,14 +147913,14 @@ sisisambər
 hola
 leliθa kəs
 mɛθɛla
-l ʾɛnə
+ʾɛnə l
 səmya
 paθxi
 miθe
-xayi t
-ʾo ile ṱ
+t xayi
+ile ʾo ṱ
 miθa
-xaye ʾi
+ʾi xaye
 xena
 xulləkko
 məre
@@ -147950,9 +147950,9 @@ məre
 ʾana
 bayən
 sisisambər
-ṭla leliθa
+leliθa ṭla
 masqənna
-sawən ṭla
+ṭla sawən
 toma
 qəm dawqale
 hatxa
@@ -147972,8 +147972,8 @@ pərse
 rəš ṣadre
 diye
 tre yome
-ṭḷaθa tre
-θele la
+tre ṭḷaθa
+la θele
 xulləkko
 bena
 qimle
@@ -147981,7 +147981,7 @@ qaṭina
 bena ʾu
 dana ʾa
 məre
-yəmmi ma
+ma yəmmi
 pɛli
 zwaðe
 xaθi ma
@@ -148022,10 +148022,10 @@ diye
 qaṭina
 qəm maxela
 ʾaqle
-l pənxa o
+l o pənxa
 zille
 qitle
-b xa ṭura
+xa b ṭura
 qəm ʾawədle
 miya
 kome
@@ -148047,26 +148047,26 @@ mukpala
 l qaṭina
 qaṭina
 nðele
-bərqiyət xo
+xo bərqiyət
 šmayya
 palgət
 pərč̭əmte
 diye
 xrixla
-qam yoma
-gurza ʾo ʾu
+yoma qam
+gurza ʾu ʾo
 diya
 qitla
-b xa garəkθa
+xa b garəkθa
 qəm oðala
 miya
 yama
-xa bena ʾu
+bena xa ʾu
 bar palgə
 saʾət
 ṣlele
 daq
-qam tarət
+tarət qam
 gəppa
 hal laxxa
 ṣlele
@@ -148082,34 +148082,34 @@ b rešəx
 xaru
 leliθa
 məra
-garrux ile
+ile garrux
 məra sab
 qaṭina
-garrux ile
+ile garrux
 grišəlle ʾaw
 sɛpe
 xar
 məxyəlle
-gu rešət
+rešət gu
 leliθa
 wiðəlla
-tre qəṭṭe
+qəṭṭe tre
 məra
 tnili
 xa xena
 məre
 la
 ʾaxni
-sawən be
+be sawən
 be toma
-maxəx la
+la maxəx
 tre darbe
-maxewala ʾən
+ʾən maxewala
 xa xena
 xaθmawa
 axlawale ṱ
 ʾamra
-yəmmux ma
+ma yəmmux
 ʾazla
 klile
 xaθux ma
@@ -148117,11 +148117,11 @@ patla
 pθile
 qaṭina
 xətnɛle
-la t mbarxile
+t la mbarxile
 qaṭina
 lɛle
 gwira
-qəm lɛṭale
+lɛṭale qəm
 məre
 də qu
 rqudli
@@ -148139,29 +148139,29 @@ gota
 šqilale
 sisisambər
 musqale
-sawən ṭla
+ṭla sawən
 toma
 mattila
-rəš ʾɛne
+ʾɛne rəš
 diye
 pθixla
 ʾiθwa
-malka xa
+xa malka
 raba
-ẓaləm wewa
+wewa ẓaləm
 lɛwewa
 gwira
 bayewa
 gawərwa
 y amərwa
 baxta ʾɛ
-ṱ aθya
+aθya ṱ
 bayən
 gawrənna
 lazəm
 mtanyali
 ða qəṣṣətta
-la hawela t
+t la hawela
 nəhaya
 ku aθyawa ṱ
 xa yoma
@@ -148177,8 +148177,8 @@ diya
 azən ṱ
 tanyanne
 ða tuniθa
-malka ṭla
-qaṭəlli xoš
+ṭla malka
+xoš qaṭəlli
 balki
 najḥana
 qimta
@@ -148188,36 +148188,36 @@ məre
 maṣyət
 mtanyət
 tuniθa
-la t xaṣla
+t la xaṣla
 məre
-maṣyən he
+he maṣyən
 məre
-de mtana
+mtana de
 məra
 ʾiθwa
-malka xa
-ẓaləm wewa
+xa malka
+wewa ẓaləm
 maxwaθux
 ʾiθwale
-muqaṭaʿa xa
+xa muqaṭaʿa
 raba
 goṛa
 mjumɛle
 xəṭṭe
-kulla t
-ɛ manṭaqa d
+t kulla
+d ɛ manṭaqa
 drɛle
-seylo gu
+gu seylo
 məra
 qəm darela
 kulla
 gu d ay
-qəm ʾu šayela
+šayela qəm ʾu
 kulla
 gudana
 diya
 b čimanto
-la ʾu t
+t la ʾu
 hawe
 tara ži
 biya
@@ -148235,50 +148235,50 @@ palṭa
 məra
 mšurela
 šəkwane
-w wara
+wara w
 plaṭa
-an xəṭṭe gu d
+an gu d xəṭṭe
 bena
 xəṭṭe
 ʾummaye
-ṭunne wɛwa
+wɛwa ṭunne
 məra
 wirra
 šəkwanta
 qamɛθa
 šqilala
-ḥabba ða
+ða ḥabba
 pliṭla ʾu
 wirra
-tərte t
+t tərte
 šqilala
-ḥabba w ða
+w ða ḥabba
 pliṭla
 wirra
-ṭəḷḷəθ t
-ḥabba w ða
+t ṭəḷḷəθ
+w ða ḥabba
 pliṭla
 məra
-xasli t ha
+t xasli ha
 xəṭṭe ʾan
-ʾan šəkwane
-awɛ ṱ
+šəkwane ʾan
+ṱ awɛ
 ða
 wara
 liθ
 duka
-tərte t
-har ða
+t tərte
+ða har
 wara
 məre
 dus
 ʾay
 ga ču
-xasla la
+la xasla
 ʾiθwa
-malka xa
-gu ða maθa
-malka ʾo
+xa malka
+ða gu maθa
+ʾo malka
 ʾiθwale
 tərte
 bnaθa
@@ -148286,21 +148286,21 @@ xone
 diye
 faqira wewa
 xona
-malka d o
+o malka d
 faqira wewa
 šəttət
-wewa maθa
+maθa wewa
 tiwa
-ʾo xona
+xona ʾo
 faqira
 malka
 tiwa
-gu rešət
+rešət gu
 maθa
 xa yoma
-wawa siqe
+siqe wawa
 l ṣɛda
-wawa siqe
+siqe wawa
 l ṣɛda
 traθna
 xonawaθa
@@ -148310,7 +148310,7 @@ hola
 yaqure
 malka
 məre
-xone ṭla d o
+ṭla o d xone
 faqira
 məre
 xoni
@@ -148318,18 +148318,18 @@ baxtaθən
 hola
 yaqure
 tərwəθna
-ʾən baxtux
+baxtux ʾən
 muθela
 brata
-baxti ʾu
+ʾu baxti
 muθela
 brona
 bratux
 broni qa
-baxti ʾən
+ʾən baxti
 muθela
 brata
-ʾu baxtux
+baxtux ʾu
 muθela
 brona
 ʾa brati
@@ -148349,19 +148349,19 @@ har
 yoma ʾo
 ʾayya
 modi
-oðawa y
-brata ʾɛ
+y oðawa
+ʾɛ brata
 zurta
-mən danət ɛ d
+mən danət d ɛ
 brela
 hal
-danət ɛ d
+danət d ɛ
 mṭela
 l yala
 wela
 bxaya
 šəmmə
-ɛ d brata
+d ɛ brata
 modile
 səttiye
 šəmmət ʾu
@@ -148369,22 +148369,22 @@ yala
 ʾile
 farxo
 farxo
-səttiye ʾu
+ʾu səttiye
 mara
 qimtɛla
-har ʾo yomə
+ʾo yomə har
 ila ṱ
 briθa
 dəryəlla
-gu dudiya
+dudiya gu
 dargušta
-ʾu ṣliθɛla
+ṣliθɛla ʾu
 ṣliθa
 ṣliθa
 ṣliθa
 muttɛθəlle
 pumma
-gu pummət
+pummət gu
 farxo
 šurela
 myaṣa
@@ -148394,7 +148394,7 @@ xa ʾup
 mənna
 la wewa
 klaya
-bxaya wawa har
+wawa bxaya har
 qimtɛla
 yəmmət
 səttiye
@@ -148414,12 +148414,12 @@ hola
 mubrɛθa
 ṣlela
 tama
-qəm xazyala
+xazyala qəm
 ʾina
 hola
 traθna
 dmixe
-gu dudiya
+dudiya gu
 qimtɛla
 šqiltəlla
 brata
@@ -148428,7 +148428,7 @@ mosaqtəlla
 brata
 l bɛθa
 šurela
-xa bena
+bena xa
 xeta
 bxaya
 bxaya
@@ -148436,7 +148436,7 @@ bxaya
 bxaya
 b lɛle
 šurela
-xa bena
+bena xa
 xeta
 ṣlela
 ṣlela
@@ -148447,16 +148447,16 @@ malka
 krible
 malka
 krible
-b gane ʾu
+gane b ʾu
 malka
 mirɛwa
-haweli ʾən
+ʾən haweli
 brata
-yanna t
-qa bronɛxu
+t yanna
+bronɛxu qa
 malka
 krible
-bud hatxa
+hatxa bud
 məndiyane
 qimɛle
 šqiləlle
@@ -148464,13 +148464,13 @@ yala
 yala
 zorɛle
 yaʿni
-l xa yarxa
+yarxa l xa
 lɛle
 məṭya
 qimɛle
 məre
 mattule
-qam ʾɛnət
+ʾɛnət qam
 miya
 ʾu susawaθa
 la maxlula
@@ -148479,9 +148479,9 @@ maštola
 miya
 bas
 maxlitula
-ʾu ʾazi t ta
+t ta ʾu ʾazi
 marč̣ile
-ʾu w baba
+w ʾu baba
 yəmmət
 t yala
 mxela
@@ -148512,23 +148512,23 @@ diye
 ṭriðela
 məre
 ʾaxni
-ṱ azəx
+azəx ṱ
 la
 xazəxle
 bronən
 qṭila
-qəm darɛle
+darɛle qəm
 gu ʾorət
 susawaθa
 ʾimət
-qəm darɛle
+darɛle qəm
 gu ʾorət
 susawaθa
 susawaθa
 lɛla
 xile
-ʾu šətye
-qəm darɛle
+šətye ʾu
+darɛle qəm
 tama
 məra
 b qaṭlile
@@ -148540,13 +148540,13 @@ məre
 bayən
 mənnux
 həlma
-yawət t
+t yawət
 b reši
-ʾu be maʿna
+be maʿna ʾu
 ṭizux
 yawətle
 l guda
-b ʾu susa
+b susa ʾu
 koma
 b susa
 xwara
@@ -148604,27 +148604,27 @@ qəm xaləqli
 yoma
 qamaya
 reša
-ʾu yomə
+yomə ʾu
 tre
 qəm xaləqli
 ʾiθaθa
-ʾu yomə
+yomə ʾu
 ṭḷaθa
 qəm xaləqli
 ʾɛna
 yomət ʾu
 ʾarba
 hal
-yarxət ʾəč̣č̣a
+ʾəč̣č̣a yarxət
 məre
 ʾana
 qəm xaləqli
 ʾalaha
 ʾədyo ʾu
-ku məndit
+məndit ku
 bayət
 wudli
-bi wuð
+wuð bi
 ʾamər
 la
 qaṭlənnux
@@ -148632,26 +148632,26 @@ pɛšət
 laxxa
 bɛθa gu
 xona
-mən anna d
+mən d anna
 bnaθi
 ʾitli
 ṭəḷḷəθ
 naze
 goṛta ʾɛ
 zine
-səttiye ʾu
+ʾu səttiye
 xarɛθa ʾɛ
 zurta
 məre
 ʾanna
 xaθwaθuxila
 məre
-yxaləf ma
+ma yxaləf
 mara
 qimela
 xa yoma
 məra
-ṱ azəx
+azəx ṱ
 saxəx
 ʾanna
 qimela
@@ -148668,30 +148668,30 @@ xa ʾu laxxa
 xa ʾu laxxa
 kepa
 məre
-səttiye ṭla
+ṭla səttiye
 tu laxxa
 səttiye
 tu laxxa
 xarɛθa
 ʾu zine
 tiwla
-ʾa baθra t
-ʾu naze
+t ʾa baθra
+naze ʾu
 qamɛθa ʾɛ
 qamɛθa ʾɛ
 goṛta
 nazela
-w a t tərte
+t w tərte a
 zurta
 zine
-a w ṭəḷḷəθ t
+t w a ṭəḷḷəθ
 səttiye
-xa ʾu kepa
+xa kepa ʾu
 muttɛθəlle
 tamaʾha
 məra
 farxo
-tamaʾha tu
+tu tamaʾha
 farxo
 tiwɛle
 rəš waʾha d
@@ -148699,7 +148699,7 @@ kepa
 naze
 məra
 mur
-mənnən ʾɛni
+ʾɛni mənnən
 šapirtɛla biš
 ʾamər
 naze
@@ -148715,7 +148715,7 @@ yoma
 b xazənnəx
 ʾati
 ʾɛni
-b gawrət
+gawrət b
 məre
 zine
 ʾati
@@ -148727,12 +148727,12 @@ zine
 ṭalbən
 mən marya
 ʾalaha
-yomət ʾo t ta
+t ta ʾo yomət
 gorət
-hawən t ta
+t ta hawən
 mənnəx
 marɛle
-rəš m kulla
+m rəš kulla
 ani d
 ʾila
 səttiye
@@ -148740,7 +148740,7 @@ səttiye
 farxo
 iwən ṱ
 ʾana
-b hiwi
+hiwi b
 diya
 ʾayya
 naze
@@ -148769,7 +148769,7 @@ muttule
 qamɛθa
 ʾu zine
 baθra
-səttiye ʾu
+ʾu səttiye
 xarɛθa
 ʾaw tuwle
 tamaʾha
@@ -148789,7 +148789,7 @@ dɛrewa ʾu
 kepe
 hatxa
 biyɛni
-la qabəlwa
+qabəlwa la
 ʾaxni
 saxəxwa
 draya
@@ -148798,7 +148798,7 @@ kepe
 sxaya
 šluxayaθa
 ʾaw
-azəlwa y
+y azəlwa
 xayərwa
 hatxa
 biyən
@@ -148812,16 +148812,16 @@ məre
 ʾana
 mbaqrena
 zine
-ʾa tərte t
+t ʾa tərte
 məre
 ha
 brati
 mot
 mara
 ʾati
-wawa modi
+modi wawa
 qəṣṣət
-farxo t
+t farxo
 diyɛxu
 məra
 babi
@@ -148836,10 +148836,10 @@ məra
 mattu
 xa kepa
 laxxa
-xa ʾu kepa
+xa kepa ʾu
 laxxa
 xa ʾu laxxa
-xa muttɛθəlle ʾu
+muttɛθəlle xa ʾu
 ṭla farxo
 məra
 ʾɛni
@@ -148850,7 +148850,7 @@ biya
 diya
 məre
 naze
-w hatxa
+hatxa w
 zmirre
 b zine
 məre
@@ -148863,13 +148863,13 @@ sittiye qa
 bayən
 ʾamər
 qəṭma
-b rešɛxu
+rešɛxu b
 xona
 mənnɛxule
 lɛla
-ta t ʾamrati
+t ta ʾamrati
 ṭliba
-ṭliba ma
+ma ṭliba
 xona
 mənnɛxule
 pišle
@@ -148879,14 +148879,14 @@ xa yoma
 qimla
 zilla
 məra
-ṱ azəx
+azəx ṱ
 l ʾərwe
 zilla
 l ʾərwe
 ga ʾɛ
 ʾiθən
 čixalo
-ʾašebaṭalo ʾu
+ʾu ʾašebaṭalo
 ʾanna
 traθna
 šavanə
@@ -148894,15 +148894,15 @@ t malkɛla
 ku bratə
 ila ṱ
 briθa
-malka mən
+mən malka
 qamaya
 bayewa
 naze
 məre
-šawwa šənne
+šənne šawwa
 pɛšən
 xulama
-bas yatla
+yatla bas
 naze
 ʾəlli
 šetə
@@ -148919,23 +148919,23 @@ zille
 məre
 malka
 ʾati
-yatli har t
+t yatli har
 bratux
 yatla
 zine
 ʾəlli
 məre
-yxaləf ma
+ma yxaləf
 ʾati
 tumla
 šawwa
 šənnux
 ʾana
-yanna t
+t yanna
 zine
 ʾəllux
 mara
-šetə ṭəḷḷəθ
+ṭəḷḷəθ šetə
 witɛla
 səttiye
 ham zilɛle
@@ -148943,9 +148943,9 @@ kəsle
 diye
 məre
 malka
-awət t
+t awət
 ati basima
-yatli har t
+t yatli har
 ða brata
 la
 məre
@@ -148954,15 +148954,15 @@ məre
 yatli
 səttiye
 məre
-yxaləf ma
-yannux t
+ma yxaləf
+t yannux
 səttiye
 ʾati
 tumla
 ṣawwa
 šənnux
 ʾana
-yannux t
+t yannux
 səttiye
 mara
 pišela
@@ -148973,7 +148973,7 @@ ila ṱ
 wita
 səttiye
 ʾay
-xamθɛla biš
+biš xamθɛla
 m kulla
 qimela
 zile
@@ -148986,17 +148986,17 @@ dana
 miṣela
 ʾərbe
 paṛe
-mən yəmmaθey
+yəmmaθey mən
 məre
 paršəxla
-ġðaðe m
+m ġðaðe
 ʾašebaṭalo
 ʾawwa
 maxe
 b zorna
 ʾərbe
 maxe
-l ġðaðe
+ġðaðe l
 azi ṱ
 xa fatra
 saliqə ʾal
@@ -149007,34 +149007,34 @@ xa saliqa
 xena
 ʾərbe
 b dɛri
-b ganey
-madoṛe la t
-šavana la
-ʾap xa la ʾu
+ganey b
+t la madoṛe
+la šavana
+ʾap la xa ʾu
 ʾo xena
 čixalo
 bligɛle ʾaw
 baye
-gawər t
+t gawər
 mara
 ʾimət
 zilla
 məre
 paršəx
 ʾərwe
-bejiye ʾu
+ʾu bejiye
 l xa gota
 ʾərwe ʾu
 l xa gota
 xa paṛa
 wiðale
 gane
-qəšta max
+max qəšta
 farxo
-səttiye ʾu
+ʾu səttiye
 hola
 ġðaðe kəs
-ʾu hatxa
+hatxa ʾu
 hola
 dwiqe
 kulla
@@ -149042,7 +149042,7 @@ reza
 ʾərwe ʾu
 yawəlla
 hatxa
-bejiye ʾu
+ʾu bejiye
 mpaloṭəlla
 xa paṛa
 ʾawədla
@@ -149061,10 +149061,10 @@ səttiye
 xalqa
 nčille
 farxo
-qəm xazele
+xazele qəm
 ṣadra
 čixalo
-gota yaha m
+m yaha gota
 xeta
 xazela qəm
 ʾina
@@ -149075,7 +149075,7 @@ krible
 qimɛle
 zila
 šəkya
-malka qa
+qa malka
 məre
 ʾiθən
 xaʾa
@@ -149114,14 +149114,14 @@ məre
 ʾawwa
 tahər mo
 našɛle
-ʾamrətti la
+la ʾamrətti
 zala
 škaya
 ʾəlli
 w ʾaxxa
 tamma
 har
-mara hole
+hole mara
 ʾəlle
 diye
 qimɛle
@@ -149137,7 +149137,7 @@ xa gota
 xa gota
 məre
 ʾaw
-ʾazəl xoš
+xoš ʾazəl
 yəmmət gu
 gane
 diye
@@ -149147,9 +149147,9 @@ bayən
 məre
 ʾana
 mo
-la xo
+xo la
 pɛšən
-šavana llux
+llux šavana
 farxo
 hole
 mara
@@ -149178,7 +149178,7 @@ qimɛle
 məḷyəllɛle
 kepe
 farxo
-rəpyɛləlla ʾu
+ʾu rəpyɛləlla
 kulla
 wiðəlla
 julle
@@ -149191,7 +149191,7 @@ diye
 ʾu zilɛle
 zilɛle
 məra
-farxo ʾən
+ʾən farxo
 hawnanɛle
 lazəm
 ʾaθe
@@ -149199,25 +149199,25 @@ lazəm
 naveže
 yaʿni
 mṣale
-ʾu baʿden
+baʿden ʾu
 ʾazəl
 bɛθa
 muttɛθəlla
 ṭəlləθ
 xəmməryaθa
-an m xməryaθə
+m xməryaθə an
 tabziye
 muttɛθəlla
-paršət rəš
+rəš paršət
 ʾɛna
-smoqta ða
-xwarta ða
-milanta ða
+ða smoqta
+ða xwarta
+ða milanta
 farxo
 ʾəθyɛle
 məre
-ʾawrən la
-gu maθa
+la ʾawrən
+maθa gu
 məre
 azən ṱ
 rəš ʾɛna
@@ -149226,9 +149226,9 @@ miya
 mxallən
 paθi
 mṣalən
-ʾu baʿden
+baʿden ʾu
 awrən ṱ
-gu maθa
+maθa gu
 mara
 zilɛle
 xəzyəlla
@@ -149257,7 +149257,7 @@ səttiyela
 muttɛθəlla
 laxxa
 yaðən
-malka la
+la malka
 mami
 hole
 yəmya
@@ -149267,12 +149267,12 @@ jallade
 ʾəlla
 b qaṭəlli
 ʾana
-azən le y
+le y azən
 mami kəs
-azən le y
-ga ʾay
+le y azən
+ʾay ga
 xayewa
-mame kəs
+kəs mame
 diye
 qimɛle
 zilɛle
@@ -149291,12 +149291,12 @@ məre
 mo
 ʾoðən
 ʾana
-modi ta
+ta modi
 hatxa
 wiða
 babəx
 məra
-amrənnux ṱ xzi
+xzi amrənnux ṱ
 hole
 yəmya
 b rešux
@@ -149311,20 +149311,20 @@ xalux be
 ṣligən
 puš ʾarxa
 xalux be
-ʾana bas
-yaðannux t
+bas ʾana
+t yaðannux
 ʾɛkɛwət
 məre
-yxaləf ma
+ma yxaləf
 qimela
 dmixe
 nšiqəlla
 ġðaðe
 ʾəθyɛle
-xa malla
-ʾarpa wela saʾət
+malla xa
+wela saʾət ʾarpa
 θele
-xa malla
+malla xa
 ʾina
 xazela
 xazela
@@ -149333,15 +149333,15 @@ dmixe
 məre
 malla qa
 məre
-ya malla
+malla ya
 mot
 mgašoqe
 biyi
 lɛðeti
 ʾayya
 ila ṱ
-həš mən
-la braya t
+mən həš
+t la braya
 ʾayya
 ʾila
 yiwta
@@ -149352,7 +149352,7 @@ malla
 ma
 ʾitli
 šula
-mən anna d
+mən d anna
 šwiqile
 tama
 ʾu zilɛle
@@ -149366,25 +149366,25 @@ xale
 tiwa
 l xaṣe
 diye
-ṣəlya ʾu
+ʾu ṣəlya
 ṣəlya
-ʾamrexi t
+t ʾamrexi
 mən dure
 θaya
 ṣlaya
-l ʾamediya
+ʾamediya l
 qimɛle
 tiwa
-l xaṣə
+xaṣə l
 suse
 diye
-w ʾu siqa
-w siqa
+siqa w ʾu
+siqa w
 siqa
-gu rešət
+rešət gu
 ʾamediya
 siqɛle
-gu rešət
+rešət gu
 ʾamediya
 ʾina
 nurət
@@ -149392,26 +149392,26 @@ xale
 iwa ṱ
 siqa
 l tama
-gu zoma
+zoma gu
 hala
 lɛle
 č̣əmya
 muttəlla
 čadre
 diye
-rəš d o
+o rəš d
 nura
-ʾu tiwɛle
+tiwɛle ʾu
 o rəš d nura
 θele
 talga
 xa θɛθa
-gu rešət
+rešət gu
 ʾamediya
-aθewa y
+y aθewa
 talga
 qumtət
-naša bəṛ
+bəṛ naša
 ramanɛle ʾu
 ṭura
 θele
@@ -149422,37 +149422,37 @@ talga
 t ha
 klele
 zaga
-rəš t čadra
+t čadra rəš
 klele
 ʾaw
 suse ʾu
 wire
-čadra gu
+gu čadra
 qimɛle
 pliṭɛle
 zmirɛle
-xa banda
-b talga
+banda xa
+talga b
 məre
 ʾana
-ʾəθya hon
+hon ʾəθya
 riqən
-qam mami
+mami qam
 bayən
 ṣalən
-xali kəs
-amər y
+kəs xali
+y amər
 ʾalaha ya
-mot qa
+qa mot
 hatxa
 waða
 biyi
 mɛθoye
 dwaqəlla
 ʾurxi
-la mṣən t ta
+t ta mṣən la
 ṣalən
-xali be
+be xali
 ʾu zilɛle
 muttəlle
 reše
@@ -149464,7 +149464,7 @@ qedamta
 ʾina
 xɛpuθa
 ryama
-mən ʾara
+ʾara mən
 kulle
 talga
 pšira
@@ -149475,7 +149475,7 @@ hola
 b θaya
 l qale
 raba
-zamara wewa
+wewa zamara
 ʾu qale
 diye
 raba
@@ -149483,10 +149483,10 @@ basimɛwa
 mut
 qala
 diyi
-gayəx kəma
+kəma gayəx
 tiwe
-mə ġðaðe
-lan har
+ġðaðe mə
+har lan
 məṣya
 ʾaxwaθe
 diye
@@ -149500,7 +149500,7 @@ mara
 ʾəθya
 siqa wewa
 xa naša
-b xmara
+xmara b
 siqa
 mɛθoye
 qɛse
@@ -149531,7 +149531,7 @@ riqɛle
 ja jalde
 ṣəlyɛle
 məre
-xale ṭla
+ṭla xale
 diye
 məre
 malka ya
@@ -149551,10 +149551,10 @@ zmara
 bulbule
 jmaʾela
 l qale
-ṭarpət ʾu
+ʾu ṭarpət
 dɛrubər
 hola
-b nθara
+nθara b
 ʾamər
 laʿat
 ʾaw
@@ -149563,23 +149563,23 @@ farxo
 xwarzayile
 ʾaw
 aθe ṱ
-ṱ awər
+awər ṱ
 gu mðita
 dɛre
 šlama
 ʾəllɛxu
 xa ʾup
 mənnɛxu
-mqabəlle la
+la mqabəlle
 šlame
-ṱ awər
+awər ṱ
 gu mðita
 dɛre
 šlama
-la mqablitule
+mqablitule la
 šlame
 mara
-xale ʾo
+ʾo xale
 diye
 modile
 wiða
@@ -149598,12 +149598,12 @@ hola
 mutte
 laxxa
 xa mənna
-bəsra wa
+wa bəsra
 gɛrme
 xa mənna
 yabiše
 qənne ʾu
-ġðaðe m
+m ġðaðe
 ʾu muttəlla
 laxxa
 hole
@@ -149614,19 +149614,19 @@ məre
 ile ʾən
 xwarzayi
 aθe ṱ
-yaðela t
+t yaðela
 ʾanna
 modila
-ʾu modi
+modi ʾu
 lɛla
-d xo awwa
+xo awwa d
 julla
 hole ʾu
 šwiqa
 xa dukθa
-xale kəs
+kəs xale
 diye
-yatu t
+t yatu
 ʾəθyɛle
 dəryɛle
 šlama
@@ -149636,31 +149636,31 @@ baʿden
 lɛle
 mqubləlle
 šlame
-b gane
+gane b
 məre
 b šɛna
 θelux
-ʾəmma šɛne
+šɛne ʾəmma
 ʾamər
 kəlyɛle
-tara gu
+gu tara
 hatxa
 ʾamər
 xwarza
 mquzədle
-xala kəs
+kəs xala
 ʾina
 mutta
 qame
-w nale
+nale w
 bəzmare
 ʾawwa
-w nale
+nale w
 bəzmarele
 məre
 xwarzaya
 mqazode
-xala kəs
+kəs xala
 mutta
 bəsra w
 gɛrme
@@ -149670,11 +149670,11 @@ kulla
 ʾanna
 mirile
 ðiyile
-ʾo parča
+parča ʾo
 b rešey
 məre
 ho
-yaðitu t ta
+t ta yaðitu
 ile ṱ
 xwarzayi
 dwiqəlle
@@ -149701,11 +149701,11 @@ məre
 xzayətəlla
 b durbin
 kəma
-it ṱ xzaya
+xzaya it ṱ
 b durbin
 ʾaw
 ʾuprile
-bas ʾawaʾha
+ʾawaʾha bas
 qaṣra
 ʾaw
 lɛle
@@ -149714,17 +149714,17 @@ məre
 xali
 modila
 qəṣṣət
-qaṣra d o
+o d qaṣra
 məre
 šuqla
 xwarzayi
 ʾay
 qəṣṣətta
 rixtɛla
-ʾaθya la
+la ʾaθya
 l mtanoye
 məre
-murra də
+də murra
 xazəx
 šaməxla
 modila
@@ -149734,7 +149734,7 @@ tama
 ðaʾa
 raba
 zamartɛla
-qaṣra ʾaw ʾu
+qaṣra ʾu ʾaw
 kulle
 b qarqupyaθət
 našele
@@ -149757,7 +149757,7 @@ dmixela
 qimɛle
 b lɛle
 tiwa
-l xaṣə
+xaṣə l
 suse
 diye
 ʾalaha ya
@@ -149766,40 +149766,40 @@ zille
 zille
 zille
 mṭele
-l qaṣra o
+l o qaṣra
 šurə
-qaṣra d o
+o d qaṣra
 ʾina
 ʾamrənnux
 xamši
 metrele
-metre xamši
+xamši metre
 ramuθe
 ṭḷa
 gaye
 suse
 diye
 θele
-šawər t ta
+t ta šawər
 la
 mṣele
 zmirre
-qala xa
+xa qala
 b suse
 diye
 suse
 diye
 šwirɛle
-rəš diye reša
+reša rəš diye
 ṣəlyɛle
 ʾay
 ʾitla
-xa bərke
+bərke xa
 goṛta
 hatxa
 dəryale ʾu
 gane
-gu bərke
+bərke gu
 sxayɛle
 suse
 diye
@@ -149814,15 +149814,15 @@ qəm xazyale
 təkθa
 ʾayya
 təkθa
-amrəxla y
+y amrəxla
 šəryoxe
 t xaddamθa
 nčille
-mən xazyale qəm
+mən qəm xazyale
 šapira
 pišla ʾu
 rəš ʾɛna
-siqla t ha
+t ha siqla
 drangɛθa
 siqla
 məra
@@ -149839,7 +149839,7 @@ modila
 qəṣṣət
 məra
 la
-təkθi hola
+hola təkθi
 nčilta
 xa yala
 raba
@@ -149852,13 +149852,13 @@ gu margax
 hole
 dəryəlla
 gane
-gu bərke
+bərke gu
 diyax
 hole
 sxaya
 yonaθa
 hola
-diye reše
+reše diye
 mut
 ʾati
 tiwta
@@ -149870,7 +149870,7 @@ diye
 qimta
 mgašoqe
 hatxa
-mo mgašqa
+mgašqa mo
 ʾina
 ʾaw
 kefe
@@ -149878,13 +149878,13 @@ basimta
 hole
 dəryəlle
 gane
-miya gu
+gu miya
 ṣrixtɛla
-barbehn gu m
-amrəx y
-panjara ʾay
+m gu barbehn
+y amrəx
+ʾay panjara
 barbehn
-amrəx y
+y amrəx
 ṣrixtɛla
 məra
 ha
@@ -149894,11 +149894,11 @@ mot
 waða
 tama
 ʾɛ ʾɛna
-la t našɛla
-la t
+t la našɛla
+t la
 marawaθɛle
 ʾo marga
-it susux ṱ
+it ṱ susux
 dəryəlle
 tama
 lat mtaxmone
@@ -149911,7 +149911,7 @@ kulle
 qarqupyaθa
 xa qarqupθɛla
 pyaša
-rešux qa
+qa rešux
 modit
 mara
 məre
@@ -149934,7 +149934,7 @@ məre
 diya
 diyila
 ʾana
-sxaya hon
+hon sxaya
 gawa
 bayət
 aθyət ṱ
@@ -149944,18 +149944,18 @@ sxa
 məra
 xzi
 ʾana
-amrannux ṱ
+ṱ amrannux
 ʾən šarəṭ
 diyi
 qəm yaðətla
-b xo gawrannux
+xo gawrannux b
 ʾən šarəṭ
 diyi
 la
 qəm yaðətla
 rešux
 mattanne
-gu d yaha
+gu yaha d
 kawe
 ila ṱ
 pyaša
@@ -149973,9 +149973,9 @@ məra
 pɛšən
 xa simɛrxa
 xa ṭɛra
-yatwən t
+t yatwən
 l xaṣux
-asqən t
+t asqən
 šmayya
 aθyən ṱ
 maxyən
@@ -149987,7 +149987,7 @@ t yamaθa
 məre
 pɛšən
 xa nəšra
-yatwən t
+t yatwən
 l xaṣəx
 mṭamrənnəx
 gu ʾupra
@@ -150003,19 +150003,19 @@ jutyara
 yaʿni
 pɛšən
 ʾakara
-mu amri y
+y amri mu
 zaraya
 kulla
-ʾan wariðəx
+wariðəx ʾan
 qaṭənna
 kulla
 wariðəx
 qaṭənna
-ku məndit
+məndit ku
 məra
 ʾaw
 qəm mjawəbla
-mṣela la
+la mṣela
 biye
 diye
 xarθa
@@ -150027,18 +150027,18 @@ baxtux
 qimɛle
 siqa
 diya kəsla
-xilela ʾu
+ʾu xilela
 məndi
-ʾu mṣuθela
-ġðaðe m
-ʾu yiwtəlle
+mṣuθela ʾu
+m ġðaðe
+yiwtəlle ʾu
 ʾisəqθa
 mšuxəlpəlla
 ʾisəqyaθa
 w ʾaxxa
 tamma
 məre
-xza amrənnəx ṱ
+amrənnəx xza ṱ
 ʾana
 ʾəθya lan
 l gwara
@@ -150049,12 +150049,12 @@ azən ṱ
 bɛθa
 azən ṱ
 bɛθə
-xali be
+be xali
 ʾən θeli
 xo
 baxtiwət
-ʾən la ʾu θeli
-ku məndit
+la ʾən θeli ʾu
+məndit ku
 ʾawðət
 wuð
 ṭlibɛle
@@ -150071,15 +150071,15 @@ zilɛle
 dmixɛle
 xale
 diye
-yaðe le y
+le y yaðe
 dmixela
-xa bena
+bena xa
 ṛišela
 qedamta
 qimela
 xile
 məndi
-ʾaw lɛle
+lɛle ʾaw
 dmixa
 qimela
 xile
@@ -150089,27 +150089,27 @@ xali
 la
 ʾamrətli
 qəṣṣət
-d awwa
+awwa d
 qaṣra
 modila
 farxo
 hole
 mara
-xale ṭla
+ṭla xale
 diye
 ʾamər
 lat munšəlla
 kulla
 lɛlela
-l balux
+balux l
 məre
-lan ṭliya
+ṭliya lan
 kulla
 lɛle
 bayən
-yaðənna t
+t yaðənna
 qəṣṣəttə
-d awwa
+awwa d
 qaṣra
 modila
 məre
@@ -150122,10 +150122,10 @@ məri
 brata
 zamartɛla
 ʾap xa
-lɛle mṣaya
+mṣaya lɛle
 biya
 diya
-ku ile ṱ
+ile ku ṱ
 zila
 hola
 reše
@@ -150148,7 +150148,7 @@ hatxa
 mšuyðənne
 məre
 liθ
-məndi hatxa
+hatxa məndi
 məre
 hola
 ʾisəqθa
@@ -150163,12 +150163,12 @@ məre
 daxi
 məre
 zmirra
-mṣela la
+la mṣela
 biyi
-mṣela la
+la mṣela
 məre
 hoya
-brixta llux
+llux brixta
 pišela
 hadəx
 mtanəx
@@ -150227,7 +150227,7 @@ xyapa
 zilɛle
 yawna
 zdiθəlle
-səttiye lɛka
+lɛka səttiye
 səttiye
 ziltɛla
 dwiqtəlla
@@ -150238,11 +150238,11 @@ kθawa
 qriθəlle
 qimtɛla ʾu
 mjuwabtəlle
-ʾu yiwtəlle
+yiwtəlle ʾu
 yawna qa
 məra
 ṭla naze
-sa duqla
+duqla sa
 ʾayya yawna
 zilla
 dwaqəlla
@@ -150253,19 +150253,19 @@ dwaqəlla
 prixla
 səttiye
 zilla
-qəm dawqala
+dawqala qəm
 klela
-qəm yawala
+yawala qəm
 waraq ʾo
 ʾəlla
 diya
-qəm maṣlale
+maṣlale qəm
 ṭla farxo
 məra
 aθyən ṱ
 ʾəllux
 la jawjət
-mən xalux kəs
+xalux mən kəs
 ga ʾɛ
 lɛða
 dax ṣalya
@@ -150278,7 +150278,7 @@ yaða
 farxo
 babə
 səttiye
-ʾu naze
+naze ʾu
 ʾu zine
 məre
 ʾati
@@ -150296,17 +150296,17 @@ hatxa
 bayanni
 ʾəmma
 bnaθa
-ṱ awa
+awa ṱ
 ʾabu
 taj
 ʾəmma ʾu
 bnaθa
-ṱ awa
+awa ṱ
 ʾaqall
 mənna
 ʾəmma ʾu
 bnaθa
-ṱ awa
+awa ṱ
 yaʿni
 xamša ʾəmma
 ʾaskarayaθa
@@ -150316,7 +150316,7 @@ kulla
 b rutba
 ḍubbaṭ ʾu
 kulla
-mən anna d
+mən d anna
 ʾaskar
 xɛlanta
 bayanna
@@ -150327,7 +150327,7 @@ diyey
 kulla
 ta ṣalyən
 maθyanne
-la ʾaw ʾən
+la ʾən ʾaw
 ʾana
 la mṣən
 maθyanne
@@ -150336,7 +150336,7 @@ awðətla ṱ
 ʾayya
 məre
 he
-ṱ awðənna
+awðənna ṱ
 malkɛle
 qimɛle
 muθyɛle
@@ -150350,7 +150350,7 @@ jullət
 ʾurze
 ḍubbaṭila ʾu
 kulla
-b ʾaskarayela
+ʾaskarayela b
 ṣəlyela
 ṣəlyela
 məṭyela
@@ -150361,20 +150361,20 @@ yaʿni
 yomanela
 məṭye
 yaʿni
-mən maθət
+maθət mən
 amrəx ṱ
 dure
 hal ṣali
 l ʾamedia
-ṭḷa yome
+yome ṭḷa
 ʾaw
-b xa yoma
+xa b yoma
 ṣəlyəllɛle
 mara
 ṣəlyela
 ṭḷaθa yomət
 məṭyela
-l amedia
+amedia l
 ʾamedia
 mṭuwəqəlla
 ʾaskarayela
@@ -150383,7 +150383,7 @@ mṭuwəqəlla
 črixəlla
 məra
 ʾap xa
-jawəj la
+la jawəj
 mən gu ʾamedia
 səttiye
 qimtɛla
@@ -150423,7 +150423,7 @@ xðirta
 ʾamedia
 ʾamər
 farxo
-xale ṭla
+ṭla xale
 diye
 ʾamər
 xali
@@ -150438,12 +150438,12 @@ məre
 xa məndi
 lɛla
 qaračaye
-aθi y
+y aθi
 hatxa
 pɛši ʾu
-xa tre yomane ṭḷa
+yomane xa ṭḷa tre
 xarθa
-azi y
+y azi
 jawji
 xarθa
 mšurela
@@ -150461,25 +150461,25 @@ xali
 hola
 dwaqa
 naše
-xa bena
+bena xa
 dawqile
 dawqile
 mawrile
-səttiye kəs
+kəs səttiye
 səttiye
 hola
 lwišta
 jullət
 ʾaskaraye
-qaʾədila ʾu
+ʾu qaʾədila
 ʿaqidila
 goṛta
-xa bena
+bena xa
 hadəx
 məra
 ʾəlle
 diye
-ʾaw lɛðe
+lɛðe ʾaw
 ila ṱ
 baxta
 xšiwɛle ʾaw
@@ -150492,11 +150492,11 @@ hot waða
 xakma
 šulane
 baxta
-gawṛa mən
+mən gawṛa
 hot šqaləlla
-hot ʾu baroxəlla
+baroxəlla ʾu hot
 l ganux
-ʾu hon šəmya
+hon ʾu šəmya
 hot waða
 raba
 xrawe
@@ -150505,7 +150505,7 @@ l qaṣrə
 naše
 zala ʾu
 maxrowe
-ʾu ʾaxxa
+ʾaxxa ʾu
 l tamma
 šurela
 ṣraxa
@@ -150516,12 +150516,12 @@ məra
 hatxət
 waða
 lɛwət
-d awwa
+awwa d
 ʾaθṛa
 kizle ʾu
 ʾana
-lan wiða
-ču məndi w
+wiða lan
+w ču məndi
 b ayya gota
 b gota ʾu ay
 du
@@ -150547,19 +150547,19 @@ xazəx
 səttiye
 məre
 gwirtət
-la gwara t ʾən
+t la ʾən gwara
 məra
-lan gwirta
+gwirta lan
 ʾana
 sparən
 ʾəllux
 ʾana
-gorən lɛ
+lɛ gorən
 la ʾati
 gawrət
 məre
 ʾap ana
-lɛn gwira
+gwira lɛn
 məre
 ha
 xer
@@ -150577,18 +150577,18 @@ məre
 farxo
 yaðela
 mɛθɛle ṣla
-ʾana ʾu
-muθɛθa hon
+ʾu ʾana
+hon muθɛθa
 ʾayya
 quwwət
 laxxa
 b xabra
-diyi ta
-ʾasqeti t ta
+ta diyi
+t ta ʾasqeti
 awðətla ṱ
 ʾɛ šarəṭ
 məre
-yxaləf ma
+ma yxaləf
 qimɛle
 məre
 ʾaxtu
@@ -150606,7 +150606,7 @@ mara
 qimela
 ʾani
 siqela
-ʾaw mruzgəlla
+mruzgəlla ʾaw
 gane
 diye
 yomət
@@ -150614,35 +150614,35 @@ ruta
 siqɛle
 ʾanna
 məṭyela
-ila ṱ ʾax
+ila ʾax ṱ
 məṭye
 səttiye
 mɛθa
 ṭḷaθa yomət
 səttiye
 mṭela
-gu maθa
+maθa gu
 mitla
 qimla
 primla
 ʾərbe
 siqla
-qəm mṭamrila
+mṭamrila qəm
 qedamta
 yale
 zore
 mṭawole
 b čəkke
-amrəxla y
+y amrəxla
 ʾanna
 čəkke
 mo
-amrila y
+y amrila
 hatxa
 mṭaləxwa
 ʾanna
 mən ʾərbe
-awa y
+y awa
 ʾaqlət
 ʾərba
 farxo
@@ -150654,7 +150654,7 @@ zorɛle
 məra
 la
 ʾati
-malka ṣli be
+be ṣli malka
 bratət
 malka
 hola
@@ -150664,7 +150664,7 @@ prime
 ʾərbe
 mɛθilən
 mɛθilən
-an d m čəkke
+m čəkke d an
 mṭaləx
 məre
 ʾɛni
@@ -150674,7 +150674,7 @@ zorta ʾɛ
 səttiye
 hola
 miθta
-la ʾaw ṣlele
+la ṣlele ʾaw
 l bɛθa
 ʾanna
 naše
@@ -150688,13 +150688,13 @@ hole
 spara
 ʾəlle
 diye
-aθe ṱ ta
+ta aθe ṱ
 farxo
 qimɛle
 siqa
-l qora bɛθ
+l bɛθ qora
 siqɛle
-l qora bɛθ
+l bɛθ qora
 gu qawraθa
 xaze
 ʾɛnila
@@ -150711,12 +150711,12 @@ pθixla
 qawra
 pθixla
 rəḥqa
-dukane anna m
+m dukane anna
 mpille
 ʾap ʾaw
 gawa
 diya
-har dmixle
+dmixle har
 reša
 diya
 hatxa
@@ -150735,19 +150735,19 @@ qedamta
 la
 farxo
 la
-ču mindi
+mindi ču
 liθ
 xaʾa
 məre
 ʾana
 šəmyənle
-qala xa
-gu qora bɛθ
+xa qala
+gu bɛθ qora
 zmara
 balki
 hawe
 ʾəθya
-l qora bɛθ
+l bɛθ qora
 ʾasqi
 ʾina
 xazɛla
@@ -150756,11 +150756,11 @@ pθixta
 ʾap ʾaw
 miθa
 gawa
-qəm ʾu mṭamrile
+qəm mṭamrile ʾu
 tama
 šwiqalən
 tama
-ʾu θelən
+θelən ʾu
 laxxa
 hawetu ʾu
 basime
@@ -150768,22 +150768,22 @@ raba
 hadiya
 mšarəx
 qəṣṣəttət
-mamo w
+w mamo
 zine
 mamo
 ʾiwewa
-gu ʾalan
+ʾalan gu
 ʾu zine
 ʾiwawa
-gu jazire
+jazire gu
 bota
 jənne
-šmayya t
+t šmayya
 qimla
 widla
 tagbir
 jmila
-lə ġðaðe
+ġðaðe lə
 məra
 bayəx
 xazexi
@@ -150795,12 +150795,12 @@ xa ʾu brata
 raba
 šapirta
 tərwəθna
-ṱ awa
+awa ṱ
 muqabəl
 ʾəġðaðe
 mɛθəxla ʾu
 mbarxəxla
-l ġðaðe
+ġðaðe l
 mara
 qimela
 tiwela
@@ -150810,29 +150810,29 @@ xəzyela
 zine
 gu jazira
 bota
-mamo ʾu
-gu ʾalan
+ʾu mamo
+ʾalan gu
 šurela
 mjawode
-ġðaðe m
+m ġðaðe
 ʾɛni
 nabləx
-ɛni d kəs
+ɛni kəs d
 zine
 nabləx
-mamo kəs
-mamo lo
+kəs mamo
+lo mamo
 nabləx
 kəs zine
 məra
 la
 baxta
-baxət ila be
+baxət be ila
 maqəṭlale
 gawṛa
 nablexi
 zine
-mamo kəs
+kəs mamo
 mara
 qimela
 b lɛle
@@ -150840,20 +150840,20 @@ b lɛle
 zine
 ʾu muθyəlla
 nubləlla
-mamo kəs
+kəs mamo
 nubləlla
-mamo kəs
+kəs mamo
 dmixela
 ṛištɛla
 ziptəllela
 ṭla mamo
 məra
-modit ṭla
+ṭla modit
 ʾəθya
 dmixa
-šwiθi gu
+gu šwiθi
 məre
-ya baxta
+baxta ya
 ʾana lan
 ʾəθya
 dmixa
@@ -150861,7 +150861,7 @@ dmixa
 ʾatit
 θiθa
 dmixta
-šwiθi gu
+gu šwiθi
 in ʾən
 ʾana
 ʾəθya
@@ -150871,10 +150871,10 @@ xaddaməx
 xaddamyaθəx
 šəmma
 šaləm
-ʾu surma
+surma ʾu
 qrɛla
-mjuwəbla ʾən
-ʾanən xo
+ʾən mjuwəbla
+xo ʾanən
 ʾəθya
 kəsləx
 la ʾən
@@ -150885,14 +150885,14 @@ kəsli
 qriθɛla
 qala
 b šaləm
-ʾu surma
+surma ʾu
 jwaba ču
 la yiwəllɛla
 šurela
 bxaya
 mamo
 qimɛle
-rəš gane
+gane rəš
 qəryɛle
 bangina
 xulame
@@ -150901,14 +150901,14 @@ məre
 bangina
 ʾati
 raba
-šarif našət
+našət šarif
 ču məndi
 bayən la
 mənnux
 xa lampa
 mɛθət
 b ʾiðux
-ʾu hayyo
+hayyo ʾu
 laxxa
 kəsli
 xzigən
@@ -150918,12 +150918,12 @@ brata
 ila ṱ
 dmixta
 kəsli
-təmməl t qa
-ʾana ʾən
+t qa təmməl
+ʾən ʾana
 mṣawθən
-pɛšən la t
+t la pɛšən
 duglana
-ʾati t ta
+t ta ʾati
 yawət
 ʾaziduθa
 amreti ṱ
@@ -150942,7 +150942,7 @@ diye
 wirɛle
 xəzyəlla
 zine
-mamo kəs
+kəs mamo
 diṛɛle
 bangina
 xulame
@@ -150956,22 +150956,22 @@ modila
 wiðe
 qimela
 mšoxəlpe
-b ʾisəqyaθa
+ʾisəqyaθa b
 b yaləxyaθa ʾu
 hal
 yomət mɛθi
 dmixela
 traθney
 xanjər
-ʾu sɛpa
+sɛpa ʾu
 muttəlla
 yaʿni
 xa
-l ʿaks
-d xena o
-la t ta
+ʿaks l
+o d xena
+t ta la
 daqri
-b ġðaðe
+ġðaðe b
 witɛla
 qedamta
 jənne
@@ -150989,11 +150989,11 @@ max šeðana
 lɛle
 xzayəlla
 bratə
-wawa t
+t wawa
 kəsle
 diye
-bas xzayəlla
-w ʾay yaləxta
+xzayəlla bas
+yaləxta w ʾay
 ʾisəqθa
 b iðe
 diye
@@ -151002,19 +151002,19 @@ məre
 ʾana
 lɛka
 ʾazən
-ʾu baθər
+baθər ʾu
 ɛni d
 ṭayən
-ɛni ʾu m
+m ɛni ʾu
 mbaqrən
-yaðən t qa
+t yaðən qa
 ʾayya
 lɛka
 zilla
 ʾɛni
 nublale
 ʾəθyɛle
-qam tarət
+tarət qam
 bɛθa
 tiwɛle
 hadəx
@@ -151024,7 +151024,7 @@ diye
 məre
 broni ha
 mamo
-ma lux
+lux ma
 tiwət
 xaššana
 məre
@@ -151040,8 +151040,8 @@ dmixta
 kəsli
 qimli ʾu
 qedamta
-la xəzyali
-lan ðaʾa
+xəzyali la
+ðaʾa lan
 lɛkɛla
 zilta
 ʾamər
@@ -151050,25 +151050,25 @@ la
 maṣiθət
 ʾani
 saṭanyaθɛla
-oðila y
+y oðila
 gana
 b yoma
 šapire
 b lɛle
-aθi y
+y aθi
 b xəlmət
 jwanqe
 ʾaxwaθux
 məre
 ʾap ʾana
-aθɛwa y
+y aθɛwa
 b reši
 hatxa
 ʾo yomə
-ṱ inwa
+inwa ṱ
 zora
-aθiwa y
-l xəlmi
+y aθiwa
+xəlmi l
 xəlmɛle
 xəzwɛle
 la
@@ -151077,7 +151077,7 @@ babi
 ʾina
 ʾayya
 ʾisəqθa
-ʾu yaləxta
+yaləxta ʾu
 d ɛnila
 hola
 ʾisəqθa
@@ -151086,7 +151086,7 @@ yaləxta
 maṭo
 mdaglənna
 gani
-amrən ṱ
+ṱ amrən
 ʾanna
 lɛla
 ʾani
@@ -151102,14 +151102,14 @@ qimɛle
 bena
 babət
 mamo
-goṛa wewa
-šex wewa
+wewa goṛa
+wewa šex
 qimɛle
 məre
-an ṭla d naše
+an ṭla naše d
 moθele
 swariye
-ʾəmma ṭla
+ṭla ʾəmma
 swariye
 yaʿni
 susawaθa
@@ -151117,7 +151117,7 @@ naše ʾu
 l xaṣa
 məre
 so
-kut qonəx
+qonəx kut
 yoma
 dɛṛi
 ʾəmma
@@ -151130,25 +151130,25 @@ bota
 lɛðəx
 ʾɛkɛla
 zilela
-ʾəmma ṭla
+ṭla ʾəmma
 swariye
-kut yoma
+yoma kut
 dɛṛiwa
 ʾəmma
-kut yoma
+yoma kut
 dɛṛiwa
 ʾəmma
-ʾəmma ṭla
+ṭla ʾəmma
 swariye
 diṛṛa
 məra
 ʾaxni
-xəzyalən la
+la xəzyalən
 jazira
 bota
 ʾɛkɛla
 mamo
-b gane
+gane b
 diye
 pišle
 majbur
@@ -151162,7 +151162,7 @@ diye
 θela
 b ʾurxa
 θela
-b ʾurxa w
+w b ʾurxa
 w θela
 w θela
 w θela
@@ -151171,23 +151171,23 @@ tre ṭḷa
 yomane
 wela
 b ʾurxa
-xala la t
-štaya la ʾu t
+t la xala
+t la ʾu štaya
 xulama
 bangina
 məre
 ṭla mamo
 məre
-e mir mən
+e mən mir
 lɛkəx
 zala
 qṭilalən
 ganən
 ʾanna
-ṭḷa yome
+yome ṭḷa
 ṭḷa
 lɛlawaθa
-x ʾaxni la
+la x ʾaxni
 xala
 la ʾu
 susawaθən
@@ -151204,15 +151204,15 @@ xazəx
 ʾɛkɛla
 mara
 tiwela
-xa bena
+bena xa
 hadəx
 šuryela
 mṣawoθe
-ʾu ʾaxxa
+ʾaxxa ʾu
 l tamma
-xilela ʾu
+ʾu xilela
 ʾani
-məndi w
+w məndi
 susawaθey
 dəryəlla
 məndi
@@ -151222,17 +151222,17 @@ hadəx
 ʾamər
 xulama
 ʾamər
-mira ṭla
+ṭla mira
 məre
-e mir mən
+e mən mir
 lɛka
 ʾazexi
 məre
-ṱ azəx
-xazəx qa
+azəx ṱ
+qa xazəx
 zine
 ʾɛkɛla
-ga lɛðəx
+lɛðəx ga
 ʾɛkɛla
 b ɛni
 dukθɛla
@@ -151260,9 +151260,9 @@ taxmanta
 ṭḷa
 yomane
 lɛle
-xila la w
-la šətya
-dmixa la ʾu
+la w xila
+šətya la
+la dmixa ʾu
 qəm ganwale
 šənθa
 ṭlile
@@ -151271,7 +151271,7 @@ jənne
 qəm šaqlile
 nablile
 mattile
-ṭurət ʾal
+ʾal ṭurət
 jazira
 bota
 ʾayya
@@ -151286,16 +151286,16 @@ l bɛθa
 ʾiθwala
 xaθa
 səttiye
-ʾu w naze
+w naze ʾu
 zine
 ṭəḷḷəθ
 xaθwaθɛwa
 səttiye
-goṛta wawa ʾɛ
-ʾu naze
+wawa goṛta ʾɛ
+naze ʾu
 gawɛθa
 ʾu zine
-zortət ʾɛ
+ʾɛ zortət
 kulla
 ʾayya
 məre
@@ -151309,7 +151309,7 @@ duqla
 ʾisəqθi
 ʾitli
 ṭliba
-lan mṣaya
+mṣaya lan
 mattanna
 b ʾiði
 ʾitli
@@ -151327,15 +151327,15 @@ b ʾiðət
 səttiye
 xaθa
 diya
-gwirta wawa
+wawa gwirta
 l qara
 teždin
-xa bena
+bena xa
 ʾaw
-ʾimə ile ṱ
+ile ʾimə ṱ
 ṣəlya
 məṭya
-gu rešət
+rešət gu
 ṭura
 zriqɛle
 yoma
@@ -151383,7 +151383,7 @@ hal ʾu laxxa
 mamo
 məre
 ʾanna
-ɛka m
+m ɛka
 qəm yaðile
 šəmmi
 mojəble
@@ -151397,14 +151397,14 @@ tama
 ṭəḷḷəθ
 bnaθa
 xene
-bakurku t
+t bakurku
 huðaya
 fassada
 ʾiθwale
 ʾupra
 raba
 xulamət
-zandin mir wewa
+zandin wewa mir
 məre
 zandin mir
 ʾanna
@@ -151412,21 +151412,21 @@ bnaθe
 diye
 azi ṱ
 mayəθ ʾaw
-ʾu ʾupra
+ʾupra ʾu
 payəš
 diyi
 ʾanna
 bnaθe
 diye
-ɛ rəš wawa d ʾɛna
+wawa d ɛ rəš ʾɛna
 ʾanna
 wawa šəmye
-mamo bəd
+bəd mamo
 mən zine
 sab
 xaddamət
 zine
-awawa y
+y awawa
 məre
 ʾamrənnɛxu
 xa
@@ -151448,28 +151448,28 @@ məre
 pɛšən
 ʾarxa
 məra
-it ʾən
-gawṛa xoš
-kəs qara
+ʾən it
+xoš gawṛa
+qara kəs
 teždin
-it ʾən
+ʾən it
 šulət
 miruθa
-zandin kəs mir
-ʾəθya it ʾən
+zandin mir kəs
+ʾən it ʾəθya
 šulət
 qaḥbuθa
-babən kəs
+kəs babən
 baku
 he
 ʾamər
 rəmyaθa
 hawetuwa
-hawənwa la t
+t la hawənwa
 mbuqrəllɛxu
 spay biš
 qimɛle
-rəš xaṣə
+xaṣə rəš
 susə
 diye
 ʾalaha ya ʾu
@@ -151488,7 +151488,7 @@ qedamta
 siqɛle
 di
 kəlyɛle
-qam tarət
+tarət qam
 qaṣrə
 qara
 teždin
@@ -151500,7 +151500,7 @@ rəš ṭura
 kulla
 mðita
 xazela
-ʾu siqɛle
+siqɛle ʾu
 suse
 kəlya
 tama
@@ -151508,10 +151508,10 @@ tak
 mxayəlla
 goyaθə
 susa
-dayəṛ t ta
+t ta dayəṛ
 susa
 m tama
-jwijle la
+la jwijle
 susa
 qimɛle
 ṣəlya
@@ -151520,13 +151520,13 @@ susət
 qara
 teždin
 grišəlle
-gəlla rəš m
-xala m
+m gəlla rəš
+m xala
 siṛəlle
-ʾo d aw
+ʾo aw d
 šope
 diye
-ʾu siqɛle
+siqɛle ʾu
 siqɛle
 məxyɛle
 l tara
@@ -151535,7 +151535,7 @@ məxya
 l tara
 pliṭṭɛla ʾu
 səttiye
-ila ṱ ʾax
+ila ʾax ṱ
 pliṭṭa
 səttiye
 xziθəlle
@@ -151549,12 +151549,12 @@ hedi
 hedi
 nubəlla
 muttəlla
-rəš qarawət
-šapira sab wewa
+qarawət rəš
+wewa šapira sab
 mamo
 muttəlla
-rəš qarawət
-xa bena
+qarawət rəš
+bena xa
 qara
 teždin
 məre
@@ -151563,11 +151563,11 @@ diya
 wuð
 xa məndi
 xafif
-ta d awwa
+awwa ta d
 ʾarxən
 šarira
 ʾana
-har ṣalən
+ṣalən har
 mðita
 mɛθən
 ʾixala
@@ -151577,13 +151577,13 @@ qara
 teždin
 ṣəlyɛle ʾaw
 mðita
-qimtɛla ʾay
+ʾay qimtɛla
 wiðta
 qawa
 muθɛθəlla
 qawa
 muttɛθəlle
-ʾaw ʾɛne
+ʾɛne ʾaw
 diye
 npiltɛla
 ʾisəqθe
@@ -151591,28 +151591,28 @@ npiltɛla
 ha
 hola
 gwirta
-ʾana ʾu
-lan ðiya
+ʾu ʾana
+ðiya lan
 xaθwaθɛla
 di
 madmɛ
-l ġðaðe
+ġðaðe l
 ʾamər
 hola
 gwirta
-ʾana ʾu
-lan ðiya
+ʾu ʾana
+ðiya lan
 qimɛle
 lɛle
 šətya
 qawa
 tiwɛle
-l xaṣə
+xaṣə l
 suse
 diye
-ʾu diṛɛle
+diṛɛle ʾu
 ṣəlyɛle
-rəš ɛ d ʾɛna
+rəš d ɛ ʾɛna
 ʾɛ ʾɛna
 ile ṱ
 ʾəθya
@@ -151648,7 +151648,7 @@ hadəx
 yaba
 modi
 ṭla modi
-lat mirta xo
+xo lat mirta
 xa məndi
 ʾaxxa
 l tamma
@@ -151656,9 +151656,9 @@ məra
 rešux
 rešux
 mo
-amrən t
+t amrən
 ʾana
-ya qara
+qara ya
 teždin
 məre
 ʾana
@@ -151671,7 +151671,7 @@ barjət
 boṭanaye
 aθe ṱ
 xa ʾarxa
-ʾax d awwa
+awwa ʾax d
 gu bɛθi
 paləṭ ʾu
 lɛðən
@@ -151679,12 +151679,12 @@ lɛkɛle
 zala
 lɛka
 la
-ʾana ʾu
+ʾu ʾana
 miya
-ʾɛwən m
+m ʾɛwən
 štaya
-yatu ʾu
-xaṣ suse
+ʾu yatu
+suse xaṣ
 diye
 bare ʾu
 bare ʾu
@@ -151695,19 +151695,19 @@ diye
 gani ha
 ṭla modi
 pliṭlux
-gu m bɛθi
+m gu bɛθi
 ʾina
 ʾana
 l modinwa
 ṣəlya
 ʾamər
 suq
-ya gani
+gani ya
 yoma
 hole
 zriqa
 ʾu gənya
-zarəq le y
+le y zarəq
 ʾawwa
 lɛle
 ðiya
@@ -151721,7 +151721,7 @@ suq mɛθi
 hawnux
 siqɛle
 məre
-ṭla baxta
+baxta ṭla
 məre
 hatxa
 mirəlli
@@ -151729,14 +151729,14 @@ hatxa
 mut
 mara
 məra
-ṣli ʾəlle mur
+ʾəlle ṣli mur
 yoma
 hadele
 zriqa
 šəmša
 mxiθa
-l ṭurane
-heš lɛla
+ṭurane l
+lɛla heš
 kmilta
 šəmša
 ʾati
@@ -151756,14 +151756,14 @@ məre
 ʾəlle
 diye
 məre
-ya gani
+gani ya
 yoma
 hadele
 zriqa
 šəšma
-heš lɛla
+lɛla heš
 mxiθa
-l ṭurane
+ṭurane l
 qimɛle
 pišɛle
 majbur
@@ -151779,21 +151779,21 @@ məre
 ʾisəqθa
 diyila
 məra
-diyux ile
+ile diyux
 he
 xaθi
 zine
 hiwala
 ʾəlli
 məra
-lan mṣaya
+mṣaya lan
 doqanna
 b ʾiði
 šqiltəlla hon
 ʾana
 mxiθəlla
 b ʾiði
-hoya ʾu
+ʾu hoya
 brixta
 ṭlalux
 məre
@@ -151811,7 +151811,7 @@ qara
 teždin
 čəkko ʾu
 səppo ʾu
-ati ʾup ʾu
+ati ʾu ʾup
 pɛšət
 mənnən
 ʾarpa
@@ -151856,7 +151856,7 @@ la ʾati
 ṣligən
 qamθa
 ṣawθa
-gu pummət
+pummət gu
 marɛla
 šəklanta
 qimɛle
@@ -151866,7 +151866,7 @@ xaṣə
 suse
 diye
 ṣəlyɛle
-rəš pummət
+pummət rəš
 ʾɛna
 θiθɛla
 zine
@@ -151893,7 +151893,7 @@ diya
 mqubaltəlle
 šlame
 diye
-rəš reša
+reša rəš
 θiθɛla
 məre
 halli
@@ -151917,9 +151917,9 @@ pišla
 tama
 ʾanna
 xmilla
-ġðaðe m
+m ġðaðe
 xmilla
-ġðaðe m
+m ġðaðe
 məre
 ʾəlla
 diya
@@ -151938,12 +151938,12 @@ kəslɛxu
 l bɛθa
 məra
 xziθən
-b xəlmi
+xəlmi b
 xoni
 dawəqlux
 darelux
 gu zəndana
-gu habsa
+habsa gu
 məre
 la
 taxmənnən
@@ -151961,7 +151961,7 @@ diye
 təmməl
 xoš ʾasqi
 l ṣɛda
-ana w
+w ana
 ṱ aθən
 kəsləx
 qimtɛla
@@ -151974,7 +151974,7 @@ xoni
 hole
 zala
 ləbbi
-ṱ asqət
+asqət ṱ
 ṣɛdət
 ʾərbət
 wala
@@ -151985,7 +151985,7 @@ wala
 ʾamər
 xaθi
 xazəx
-ču bena
+bena ču
 lat ṭlibta
 hatxa
 məndiyane
@@ -152008,14 +152008,14 @@ xabra
 siqela
 siqela
 l ṭura
-ʾu dunye
+dunye ʾu
 šurɛθɛla
 dwiqta
 raya
 mamo
 siqɛle
 l bɛθa
-qaṣrət gu
+gu qaṣrət
 zandin mir
 ʾimət
 dunye
@@ -152039,7 +152039,7 @@ hola
 raya
 ṣəlyɛle
 ʾina
-mamo w
+w mamo
 zine
 hola
 nšaqa
@@ -152048,22 +152048,22 @@ nšaqa
 ʾo xulama
 xəzyəlla
 məre
-e mir mən
+e mən mir
 marpo
-ġðaðe m
+m ġðaðe
 zandin mir
 hole
 θele
 ʾawwa
 tiwɛle
 hatxa
-rəš qanapa
+qanapa rəš
 ga ʾɛ
 kulla
 ʾaġawaθa
 šexiye
 kulla
-b ʾabbaye wawa
+ʾabbaye wawa b
 dəryəlle
 ʾabbaya
 b rešey
@@ -152076,7 +152076,7 @@ wira
 ʾəllɛxu
 b šɛna
 b ṭawaθa
-qəm qabəlle
+qabəlle qəm
 šlame
 tiwa
 l ʾara
@@ -152088,37 +152088,37 @@ mira
 draya
 šlami
 ʾəllux
-ʾati ʾu
+ʾu ʾati
 tiwa
 l ṭizux
 ləmu
-qimlux la
+la qimlux
 ʾamər
-e mir mən
+e mən mir
 ʾɛbɛle
 gu diwən
 amreti ṱ
 ṭiza
-mɛθət la
+la mɛθət
 ṭiza
 gu diwən
 qara
 teždin
 qimɛle
-rəš gane
+gane rəš
 diye
 məre
 mbaqər
 balki
 ile ṱ
-mraʾa lle kase
+kase mraʾa lle
 balki
 ile ṱ
-mraʾa lle reše
+reše mraʾa lle
 balki
 ile ṱ
-mraʾa xa lle dukθa
-ṭla har hatxa
+xa mraʾa dukθa lle
+hatxa ṭla har
 tiwɛle
 ga ʾɛ
 qimɛle
@@ -152134,18 +152134,18 @@ diye
 məre
 qara
 teždin
-ʾana w
+w ʾana
 ʾati
 xonawaθɛwəx
 braye
 bar
 axrate
-amrila ṱ ʾax
+amrila ʾax ṱ
 hayyo
 halla
 ʾiðux
 gu ʾiði
-amrənnux ʾu ṱ
+ʾu amrənnux ṱ
 xa
 məndi
 mara
@@ -152157,7 +152157,7 @@ yiwəlla
 gu ʾiðət
 mamo
 mamo
-qəm šaqəlla
+šaqəlla qəm
 ṣoṣiyaθət
 zine
 mattula
@@ -152176,7 +152176,7 @@ diye
 dərya
 b reša
 qimɛle
-čira w
+w čira
 zila
 məre
 ṭla baxte
@@ -152187,34 +152187,34 @@ səttiye
 hal
 qəṣṣət ʾu
 hatxɛla
-mamo w
+w mamo
 zine
 hola
 npile
 ʾoqana gu
 dɛrəxle
 nura
-b bɛθa
+bɛθa b
 maqðəxle
 bɛθən
-barya t ta
+t ta barya
 hawər
 naše ʾu
 kulla
 aθi ṱ
 mač̣moye
 bɛθa
-mamo w
+w mamo
 zine
 arqi ṱ
-bɛθa gu m
+m bɛθa gu
 məra
-ila hatxa ʾən
+hatxa ʾən ila
 ʾap
 zora yala
 k̭awe
-gu dudiya
-žigən qurʾən ʾu
+dudiya gu
+qurʾən žigən ʾu
 maqədla ʾu
 kulla
 ʾamər
@@ -152223,31 +152223,31 @@ la mur
 hatxa
 yala
 mpaləṭle
-ʾu qurʾən u
+qurʾən u ʾu
 maṭpəxle
 bɛθa
 bɛθət
 qara
 teždin
 šawwa
-ṭabaqe wewa
+wewa ṭabaqe
 šawwa
 ʾotaxe
 mara
 dəryəlle
 nura
-b bɛθa
+bɛθa b
 dəryəlle
 nura
-b bɛθa
+bɛθa b
 šuryɛle
 qaða
 brela ʾu
 hosa
-ila ʾu hawər
+ila hawər ʾu
 zandin mir
 məre
-bakurko ṭla
+ṭla bakurko
 xa wewa huðaya
 dagala
 ʾawwa
@@ -152260,7 +152260,7 @@ məre
 diye
 xzigən
 ʾawwa
-mut qalɛle
+qalɛle mut
 qimɛle
 pliṭa
 xəzya
@@ -152270,16 +152270,16 @@ qara
 teždin
 qaða
 ʾamər
-e mir mən
+e mən mir
 ču məndi
 lɛla
 šarrət
 kalwela
-ʾu yale
+yale ʾu
 hola
 mparoje
 biya
-ṣraxa ʾu
+ʾu ṣraxa
 xoθa
 bɛθət
 qara
@@ -152297,7 +152297,7 @@ qalɛle
 məre
 ṭla xulame
 diye
-ʾo t wewa
+t wewa ʾo
 ʾəθya
 mən ṣɛda
 məre
@@ -152309,7 +152309,7 @@ modila xzi
 qəṣṣət
 ʾaw
 dax paləṭ
-tara gu
+gu tara
 xaze
 ʾina
 bɛθət
@@ -152317,8 +152317,8 @@ qara
 teždin
 qaða
 ʾamər
-e mir mən
-xa la
+e mən mir
+la xa
 gaya
 b šawwa
 gaye
@@ -152338,7 +152338,7 @@ zandin ile mir
 šqila
 qara
 teždin
-xa bena
+bena xa
 ʾawwa
 kribɛle
 zandin mir
@@ -152353,10 +152353,10 @@ napla
 tama
 ʾu ʾazi
 hawərila
-ʾazi t ta
+t ta ʾazi
 zilela
 xa fatra
-axxa m
+m axxa
 l tamaha
 ʾamər
 yalla
@@ -152386,29 +152386,29 @@ xazela
 w zine
 mamo
 hola
-mə ġðaðe
+ġðaðe mə
 mṣawoθe
 ʾamər
 halli
 xa məndi
-axlən ṱ
-pɛšən la t
+ṱ axlən
+t la pɛšən
 kətwa
-qam ʾaqlux
+ʾaqlux qam
 ʾamər
-ga k̭ora
+k̭ora ga
 ʾana
 mo
 yannux
-hawətwa ʾən
+ʾən hawətwa
 gu ʾaθṛa
 diyi
 ku məndi
 bayətwa
-yanwalux t
+t yanwalux
 ʾina
 ʾana
-ʾəθya hon
+hon ʾəθya
 gu ʾaθṛɛxu
 lazəm
 ʾaxtu
@@ -152417,15 +152417,15 @@ mhayərituli
 laʿət
 pɛšən
 kətwa
-qam ʾaqlux
+ʾaqlux qam
 ʾamər
-de si
+si de
 ču məndi
 ʾəllux
 la tarəṣ
 huðaya
 spisa
-qəm ṭarədle
+ṭarədle qəm
 zille
 zille
 ʾanna
@@ -152441,7 +152441,7 @@ diye
 səttiye
 zine
 mšadore
-səttiye ṭla
+ṭla səttiye
 xaθa
 diya
 hadaya
@@ -152467,7 +152467,7 @@ gu ʾəšta
 šawwa
 yomane
 ʾaširət
-rabθa wawa
+wawa rabθa
 jazire
 bota
 qəm banɛle
@@ -152483,14 +152483,14 @@ xa yoma
 bakurko
 qlible
 məre
-zandin ṭla mir
+ṭla zandin mir
 mire
 amrənnux ṱ
 xa
 məndi
 ʾina
 dus ila
-hammənət ʾəlli
+ʾəlli hammənət
 məre
 modila
 bakurko
@@ -152504,12 +152504,12 @@ zine
 zine
 ʾiθən
 treʾe
-xaθela ða
-ʾu ða baxtela
+ða xaθela
+ða baxtela ʾu
 ʾawwa
 xšiwɛle
 zandin mir
-bahs baxte
+baxte bahs
 diyele
 lɛwa
 xšiwa
@@ -152520,7 +152520,7 @@ xaθux
 məre
 baye
 zine
-ga ʾɛni
+ʾɛni ga
 zine
 ʾaxni
 lɛðəx
@@ -152529,30 +152529,30 @@ məre
 yaʿni
 baxta
 šarifɛla
-litla ʾu
+ʾu litla
 hatxa
 šulane
-məndi ʾu
-ʾana ʾu
+ʾu məndi
+ʾu ʾana
 yaðən
 ʾaxxa
 l tamma
 bakurko
 məre
-lɛla ʾən
+ʾən lɛla
 hatxa
 tiwe
 mṭali
-b šətrənjane
+šətrənjane b
 xaʾa ʾo
 gale
 ʾasrar
-d xena o
-lɛla ʾən
+o d xena
+ʾən lɛla
 hadəx
 reši
 prumle
-ʾap mal ʾu
+ʾap ʾu mal
 məndi
 diyi
 k̭awe
@@ -152564,11 +152564,11 @@ məndi
 raba
 xa wewa huðaya
 ʾiθwale
-bnaθa ṭḷa
+ṭḷa bnaθa
 mara
 qimɛle
 qəryɛle
-mamo qa
+qa mamo
 ʾəθyɛle
 tiwa
 b diwən
@@ -152578,7 +152578,7 @@ tiwela
 gu diwən
 šuryela
 mṭawole
-b šətrənjane
+šətrənjane b
 gaye ṭḷa
 mṭuwəlla
 riqle
@@ -152589,7 +152589,7 @@ məre
 ʾana
 mo
 ʾoðən
-b awwa
+awwa b
 naša
 bakurko
 qimɛle
@@ -152597,7 +152597,7 @@ riqa
 siqɛle
 məre
 ṭla zine
-bayela t
+t bayela
 mamo
 siqɛle
 məre
@@ -152605,16 +152605,16 @@ zine
 mut
 waða
 laxxa
-mparəj qu
+qu mparəj
 panjara
 xzɛgən
 xonəx
-mamo ʾu
+ʾu mamo
 ila ṱ
 tiwe
 mṭawole
-b šətrənjane
-ʾaw ʾalma
+šətrənjane b
+ʾalma ʾaw
 ile ṱ
 jmiya
 tama
@@ -152638,13 +152638,13 @@ diye
 ṣəlyɛle
 məre
 ṭla mamo
-zandin ʾu mir
+zandin mir ʾu
 məre
-e mir mən
+e mən mir
 zawdɛla
 mənni
 ʾana
-ṱ amrənnɛxu
+amrənnɛxu ṱ
 mšaxəlpu
 dukane
 mšaxəlpu
@@ -152663,7 +152663,7 @@ gu panjara
 šurele
 la draya
 bala
-l šətrənjane
+šətrənjane l
 šurele
 gašoqe
 b zine
@@ -152682,17 +152682,17 @@ lɛla
 ayya d
 dardi
 ʾila
-ʾa t
+t ʾa
 gu panjariye
 ʾay
-qəm qaṭlali
-ʾu marəqali
+qaṭlali qəm
+marəqali ʾu
 bakurko
 məre
-e mir mən
+e mən mir
 naθux
-le yatla y
-l hatxa
+le y yatla
+hatxa l
 naše
 mṣawθi
 məre
@@ -152702,7 +152702,7 @@ gu šwiθa
 ʾəḷḷɛθa
 gu parrət ʾu
 name
-ila ʾay
+ʾay ila
 ṭlibti
 qara
 teždin
@@ -152727,15 +152727,15 @@ məre
 qara
 teždin
 ʾiwən
-ʾu ʾitli
+ʾitli ʾu
 ṭḷa
 xonawaθa
 braye
 bar wəx axrate
 ʾo mənnɛxu
-daqər t
+t daqər
 b mamo
-axxa m
+m axxa
 hal
 qaṣrət mira
 oðəxle ṱ
@@ -152752,28 +152752,28 @@ məre
 ʾawwa
 sɛpi
 šqilənne
-b əmma dawe
+əmma b dawe
 ʾo mənnɛxu
-ḥarrək t
+t ḥarrək
 maxe
 l mamo
 reše
 diye
 mqadəqdənne
 ʾaqle
-iθaθe w
-ʾu reše
+w iθaθe
+reše ʾu
 pɛrmənna
 qimɛle
-xone ʾo
+ʾo xone
 diye
 səppo
-ṭḷaθa ʾo t
-ʾaw biš
+t ṭḷaθa ʾo
+biš ʾaw
 šeðana
 ʾap xa
 mənna
-ṣbirre la
+la ṣbirre
 rhiwle
 gu diwən
 zandin mir
@@ -152781,7 +152781,7 @@ zandin mir
 siqle
 l bɛθa
 məre
-yəmme ṭla
+ṭla yəmme
 diye
 məre
 yəmmi
@@ -152811,31 +152811,31 @@ xaθux
 xaθux
 bayale
 ʾati
-qam ʾɛnə
-anna d
+ʾɛnə qam
+d anna
 botanaye
 mšadərra
 azi ṱ
 mɛθi
 xarje
-ʾati ʾu
+ʾu ʾati
 xa šeta xəlal
 ʾati
 duqle
 gu səjən
 qam aθi ṱ
 mpaləṭle
-mən habsa
+habsa mən
 mbarəxla
 xaθux
 ʾəlle
-ap ʾaw w
+w ap ʾaw
 xa bronət
 malkɛle
 goṛɛle xa
-ʾu šapirɛle
-mo qa
-le yatla y
+šapirɛle ʾu
+qa mo
+le y yatla
 xaθux
 ʾəlle
 ʾawwa
@@ -152854,19 +152854,19 @@ bayət
 məre
 sogən
 mɛθo
-u xarj
+xarj u
 barjət
 botanaye
-ʾana ʾu
+ʾu ʾana
 xaθi
-yanna t
+t yanna
 ṭla mamo
 məra
-ʾaxni ʾən
-ṱ azəx
+ʾən ʾaxni
+azəx ṱ
 la
 mtalpətle
-daqrət la
+la daqrət
 biye
 məre
 laʾa
@@ -152886,14 +152886,14 @@ səjən
 dəryəlle
 tama
 yoma ʾu
-ṭla yoma w
+ṭla w yoma
 hal məṭya
 šeta
-xa bena
+bena xa
 ʾəθyela
 qara
 teždin
-čəkko w ʾu
+w čəkko ʾu
 səppo
 ʾəθyela
 ṭḷaθna
@@ -152904,28 +152904,28 @@ səttiye
 siqtɛla
 l gare
 hola
-qəm xazyala
+xazyala qəm
 θela
 ṭḷa
 swariye
 l ṭarət
 bɛθa
-rəš gare har m
+m rəš har gare
 məra
 qara
 teždin
-yomə m
-ṱ itu
+m yomə
+itu ṱ
 zile
 mɛθoye
 xarje
 mɛθoye
 zuze
-zandin ṭla mir
-yoma m o
+ṭla zandin mir
+m yoma o
 dwiqəlle
 mamo
-gu habsa
+habsa gu
 hal ʾədyo ʾu
 ʾanna
 zilela
@@ -152944,26 +152944,26 @@ pərṣət
 diya
 qaṭləxlux
 yaba
-mo qa
+qa mo
 məra
 ʾaxni
 mərəx
 ʾati
-daqrət la
+la daqrət
 b mamo
 hot
-o yomə m
+m o yomə
 ix ṱ
-zile ʾaxni
+ʾaxni zile
 ʾati
 dəryəlle
 gu zəndana
-gu habsa
+habsa gu
 məra
 hadiya
 baye
 mpalṭətle
-ʾu xaθux
+xaθux ʾu
 mbarxətla
 ʾəlle
 diya
@@ -152993,14 +152993,14 @@ bnaθa
 mpalṭala
 axni w
 ʾaxxa
-oðəx ṱ
+ṱ oðəx
 xlula
 məre
 dus ila
 bakurko
 qimtɛla
 ʾay
-bligtɛla w
+w bligtɛla
 mara
 an ṭla d
 xaddamyaθa
@@ -153015,11 +153015,11 @@ gana
 bakurko
 raqa
 ṣale
-mamo kəs
+kəs mamo
 ʾamər
 mamo
 mamo
-llux məri
+məri llux
 halli
 xa məndi
 axlena ṱ
@@ -153037,7 +153037,7 @@ laxxa
 lɛla
 mbaqorəllux
 hadiya
-ṱ aθya
+aθya ṱ
 zine
 ʾarbi
 barbiyaθa
@@ -153053,19 +153053,19 @@ la
 hummənne
 qamaye
 məre
-gawra xoš də
-lan xo
+xoš də gawra
+xo lan
 ʾana har
 gawṛa
 ʾiθən
 guṛe biš
 mənni
-šapire biš
-mənni w
-guṛe biš xoš
+biš šapire
+w mənni
+xoš biš guṛe
 la
 hummənne
-xazela t ha
+t xazela ha
 brata
 θaya
 bena ʾɛ
@@ -153073,35 +153073,35 @@ bena ʾɛ
 zine
 hola
 ṭlaba
-mən ʾalaha
+ʾalaha mən
 hola
 mara
 ʾalaha ya
 hawe
 ṣaxi
-hal gət ʾɛ
+hal ʾɛ gət
 ʾana
 maṭyən
 ʾəlle
 diye
 ṣlayɛla
 zine
-qurbət m
+m qurbət
 habsa
-ʾu aw
+aw ʾu
 xzayəlla
 ʾarbi
 bnaθa
 mənna
 diya
-θaya ʾu
+ʾu θaya
 kəsle
 diye
 hummənne
 l bakurko
 məre
 diya
-ṱ aθya
+aθya ṱ
 ṭalba
 xaṭər
 mənni
@@ -153110,10 +153110,10 @@ dəryɛle
 xɛla
 siṛɛwa
 zənjire
-b rušane
+rušane b
 dəryɛle
 xɛla
-šarəṭla t ta
+t ta šarəṭla
 gane
 ʾayya ʾu
 zənjir
@@ -153129,7 +153129,7 @@ dəmma
 m naxire
 diye
 ʾay
-jal jalde
+jalde jal
 wirra
 ʾəlle
 diye
@@ -153140,17 +153140,17 @@ ganux
 ʾana
 θiθən
 mpalṭannux
-gu səjən m
+m gu səjən
 məre
 lat θiθa
 ʾana
 mpaloṭəlli
-gu səjən m
+m gu səjən
 θiθət
 šqala
 ʾayya
 roxi
-mən gu gani
+gani mən gu
 məra
 laʾa
 ʾana
@@ -153168,8 +153168,8 @@ mayəθ ʾu
 mitle
 šurela
 jnana
-bxaya ʾu
-mṣawore ʾu
+ʾu bxaya
+ʾu mṣawore
 ṭla w xona
 bakurko
 qimela
@@ -153180,15 +153180,15 @@ kulla
 jnanyaθɛla
 ga ʾɛ
 zmarɛla
-b tabut
+tabut b
 diye
 marɛla
 tabut
 diye
 hoya
-smoqta w
-xwarta w
-mamo ʾu
+w smoqta
+w xwarta
+ʾu mamo
 mitle
 qedamta w
 ʾana
@@ -153201,7 +153201,7 @@ biye
 diye
 məra
 bakurko
-ʾaw ile
+ile ʾaw
 sabab
 wiya
 məra
@@ -153212,9 +153212,9 @@ bakurko
 kəsla
 diya
 ʾaw
-asəqwa qam ṱ
+asəqwa ṱ qam
 məre
-bnaθe ṭla
+ṭla bnaθe
 məre
 maṣiθu
 hadiya
@@ -153223,9 +153223,9 @@ asqən ṱ
 zine
 maštali
 samma
-ʾu maqðali
+maqðali ʾu
 ʾina
-baθər m
+m baθər
 maqðali
 ʾaw qəṭma
 šaqlitule
@@ -153233,12 +153233,12 @@ mxamitule
 ʾap zine
 mɛθa
 mattila
-mamo kəs
+kəs mamo
 traθney
 hatxa
 ʾo qəṭma
 dɛritule
-b w reša
+w b reša
 litlɛxu
 šula
 qimɛle
@@ -153248,19 +153248,19 @@ siqa
 kəs zine
 zine
 məra
-mo qa
+qa mo
 widlux
 hatxa
 ʾamər
 ʾana
 ču məndi
-lan wiða
+wiða lan
 ʾamər
 bas ṣawθa
 ʾana
 mṣawθən
 ču məndi
-lan wiða
+wiða lan
 ʾana lan
 qṭiləlle
 məra
@@ -153269,13 +153269,13 @@ hallule
 ṭasət
 miya
 mḷola
-w samma
-lle hallule
+samma w
+hallule lle
 yiwəlle
 samma
 baθər
 ġðaðe
-ha ile ṱ
+ile ha ṱ
 npila
 dəryəlla
 nuṭa
@@ -153289,14 +153289,14 @@ diye
 ʾo qəṭma
 kulla
 dəryəlle
-xa gu julla
+xa julla gu
 muttəlle ʾu
 tamaha
-ayya w
+w ayya
 šurela
 ṭlaba
-mən ʾalaha
-mɛθa t ta
+ʾalaha mən
+t ta mɛθa
 ʾup ay
 mrila
 ʾixala
@@ -153315,16 +153315,16 @@ bxɛgən
 bassa
 wuð tazi
 kut bayət
-yannəx t
+t yannəx
 ʾəlle
 diye
 mur
 ʾana
-yannəx t
+t yannəx
 ʾəlle
 diye
 məra
-baθər m
+m baθər
 mamo
 bayən la
 la
@@ -153340,21 +153340,21 @@ mɛθən
 baθər
 mamo
 šurela
-jnana w
+w jnana
 šurela
 mxaya
-b gana w
+w b gana
 šurela
-xala la
-ʾayya ʾup t ha
+la xala
+t ʾup ha ʾayya
 mitla
 ʾaθela
 myaθa
-ʾup ʾay
+ʾay ʾup
 mattoyəlla
 gu qawra
 traθna
-mə ġðaðe
+ġðaðe mə
 saqela
 bnaθə
 bakurko
@@ -153379,10 +153379,10 @@ jawəttət
 prama
 qɛse
 ʾi qɛma
-daliθət xa
+xa daliθət
 xuwwe
-xaða ʾi
-l an
+ʾi xaða
+an l
 tre xoriyaθa
 kut
 ʾasəq
@@ -153391,7 +153391,7 @@ xazela
 daliθa ʾɛ
 ani briθəll
 parəmla
-hal ʾu hadiya
+hal hadiya ʾu
 pyašɛla
 ʾɛ dukθa
 šwiqali
@@ -153402,11 +153402,11 @@ laxxa
 mərza
 pamət
 pliša wewa
-mən mðite
+mðite mən
 diye
 xa
 gawṛa
-xɛlana w
+w xɛlana
 zaxma
 wewa
 la
@@ -153417,18 +153417,18 @@ l ṭura
 pliṭle
 mxele
 l ṭura
-ʾu awəðwa y
+y awəðwa ʾu
 genawuθa
-ʾu qačaxuθa
-ʾu qaṭəlwa
+qačaxuθa ʾu
+qaṭəlwa ʾu
 naše
 raba
 ẓaləmwa
 pišle
-gu har ṭura
+gu ṭura har
 xmele
 gu ṭura
-asəqwa ʾu y
+y asəqwa ʾu
 l ṣɛda
 mɛθewa
 ṭɛre
@@ -153461,7 +153461,7 @@ dwiqɛle
 diye
 muθyəlle ʾu
 dwiqɛle
-qa ʾarya
+ʾarya qa
 muθyəlle ʾu
 dəryəlle
 bɛθa gu
@@ -153473,11 +153473,11 @@ qaṣra
 goṛa
 tre
 ṭabaqe
-xa bena
+bena xa
 hadəx
 zilla ʾu
 dana
-ʾu θela
+θela ʾu
 siqle
 dwiqle
 dəbba
@@ -153492,13 +153492,13 @@ tiwle
 l xoðe
 diye
 tamaha
-ʾan heywane
+heywane ʾan
 hola
 tamaha
 tela ʾu
 qimle
 məre
-ṱ amrənnɛxu
+amrənnɛxu ṱ
 gallək
 naše
 gallək
@@ -153507,12 +153507,12 @@ məre
 ʾaxni
 heywanewəx
 ʾawaha
-bəṛ našɛle
+našɛle bəṛ
 ʾaxni
-hox xmala
-b ġðaðe
+xmala hox
+ġðaðe b
 ʾaw
-l xa xoðe
+xa l xoðe
 diye
 tamaha
 lɛle
@@ -153521,8 +153521,8 @@ xa mənnən
 lazəm
 payəš
 goṛa
-mtagəbrəxle t ta
-naša ʾo
+t ta mtagəbrəxle
+ʾo naša
 məre
 ʾati har
 xakma
@@ -153544,16 +153544,16 @@ he
 məra
 šəmmux
 ʾile
-ḥasan aġa
-ḥasan aġa
+aġa ḥasan
+aġa ḥasan
 məra
 he
-ḥasan aġa
-ya ḥasan aġa
+aġa ḥasan
+aġa ḥasan ya
 rayux
 modila
 məre
-ṱ amrənnɛxu xzo
+xzo amrənnɛxu ṱ
 ʾawaha
 ile ṱ
 xoðe
@@ -153571,11 +153571,11 @@ baxta
 šarṭux
 modila
 məre
-dəbba ṭla
+ṭla dəbba
 dəbba
 bayənnəx
 xəlal
-xa šabθa
+šabθa xa
 ʾazət
 dawqət
 xa ʾərba
@@ -153589,14 +153589,14 @@ axləxle ṱ
 gəlda
 diye
 nablatle
-zaringər kəs
+kəs zaringər
 məre
-kut məsta
+məsta kut
 xa zaga
 daryət
 biya
 yatla
-ani d qa
+ani qa d
 ʾina
 gəldəx
 šalxənne
@@ -153619,7 +153619,7 @@ ziltɛla
 zilta
 zilta
 xziθɛla
-xa ʾərba w
+xa w ʾərba
 muθɛθəllɛla ʾu
 qimela ʾu
 dəbba
@@ -153627,13 +153627,13 @@ dəbba
 ṭabbaxta
 yaʿni
 mbašalta
-ʾu ʾarya
+ʾarya ʾu
 xa gotɛle
-ʾu nəmra
+nəmra ʾu
 xa gota
 ʾanna
-ila ḥurras
-ʾu ʾanna
+ḥurras ila
+ʾanna ʾu
 xene
 heywane
 xene
@@ -153645,39 +153645,39 @@ litla
 mara
 dəbba
 muθɛθəlla
-wana ʾay
+ʾay wana
 xiləlle ʾu
 bəsra w
 qimtɛla
 šqiltɛla
-gəlda ʾo w
+w ʾo gəlda
 nobaltəlle
-zaringər kəs
+kəs zaringər
 zaringər
 qimɛle
 wiðɛle
-kut məsta
+məsta kut
 zaga
 dəryəlle
 muθyəlle ʾu
 muθyəlle
 hiwtəllɛla
-tela ṭla
+ṭla tela
 məre
-dəbba ṭla
+ṭla dəbba
 xza
 ʾati
 lawšatle
 ʾawwa
 gəlda
 l ganəx
-ʾana ʾu
+ʾu ʾana
 marəqðənnəx
-ṱ azəx
+azəx ṱ
 gu mðita
 ʾana
 marəqðənnəx
-ʾati ʾu
+ʾu ʾati
 raqðət də
 šɛšatla
 ganəx
@@ -153686,10 +153686,10 @@ malka
 palṭa
 l gare
 simarxa
-ṱ aθya
+aθya ṱ
 šaqlala
 maθyala ʾu
-magurəxla t ta
+t ta magurəxla
 mərza
 pamət
 məra
@@ -153698,7 +153698,7 @@ litlux
 xaṭər
 ḥasan
 ʾaġa
-xa bena
+bena xa
 zilela
 simarxa
 wiðtɛla
@@ -153709,12 +153709,12 @@ yaðət
 modila
 ṭɛrɛla
 ʾap ʾay
-xa bena ʾu
+bena xa ʾu
 simarxa
 ziltɛla
 xðara
-rəš mðita
-dəbba ʾu
+mðita rəš
+ʾu dəbba
 tela ʾu
 zalela
 hedi
@@ -153723,7 +153723,7 @@ mašila
 zala
 dəbba
 ziltɛla
-qam tarət
+tarət qam
 qaṣrət
 malka
 mṭašoyəlla ʾu
@@ -153732,7 +153732,7 @@ hatxa
 t ta
 bratət
 malka
-asqa t
+t asqa
 rəš gare
 ʾina
 gu panjara
@@ -153743,17 +153743,17 @@ modi
 lɛle
 mara
 tela
-har mxayɛle
+mxayɛle har
 ʾəlla
-w diya
+diya w
 ṣraxɛle
 ʾay waðtɛla
 nara
 diya
-ʾaw ʾu
+ʾu ʾaw
 zmarɛle
 biya
-xa bena
+bena xa
 bratət
 malka
 pliṭṭɛla
@@ -153766,17 +153766,17 @@ mxiθəlla
 gana
 ʾəlla
 diya
-muθɛθəlla ʾu w
+w muθɛθəlla ʾu
 kəs mərza
 pamət
-xa bena
+bena xa
 brela
 hawər
 diya
 ʾaxxa
 l tamma
-ʾu baθər
-tela w
+baθər ʾu
+w tela
 baθər
 dəbba
 riqla
@@ -153788,7 +153788,7 @@ pamət
 ʾimət
 mṭela
 tama
-qəm xazɛla ʾay
+ʾay qəm xazɛla
 tama
 kəsle
 diye
@@ -153802,30 +153802,30 @@ diye
 zilla
 xa fatra
 ṭḷaθa
-ʾarpa yarxe
+yarxe ʾarpa
 mənne
 diye
-kut ʾaw yom
-asəqwa y
+yom kut ʾaw
+y asəqwa
 l ṣɛda
 mɛθewa
 ʾilana
-rəš rušane
+rušane rəš
 diye
-wewa zaxma
-ʾu tahɛrət
+zaxma wewa
+tahɛrət ʾu
 ṭɛre
 reša
 qəqwane u
 yawne u
 məndiyane
 rabe
-ʾu mɛθewala
+mɛθewala ʾu
 an ṭla d
 heywane
-axliwa ʾu ṱ
+ṱ ʾu axliwa
 ʾap ʾaw
-axəlwa y
+y axəlwa
 mšurela ʾu
 ʾap ʾay
 xala
@@ -153838,7 +153838,7 @@ yarxe
 malka
 məre
 ʾana
-dax kut ṱ ila
+dax ila kut ṱ
 brati
 bayən
 ʾɛni
@@ -153872,12 +153872,12 @@ gu lina
 line
 maṭərya
 masine
-amrəxwala y
+y amrəxwala
 yaʿni
 ʾay
 halikoptər
-awa y
-ṭla d aw
+y awa
+ṭla aw d
 zawna
 mara
 tiwtɛla
@@ -153892,34 +153892,34 @@ mṭušɛθəlle
 lina
 diya
 ʾap pliṭṭɛla
-gawe m
+m gawe
 diye
 ʾoy
 ʾoy
 ʾoy
-ləx ma
+ma ləx
 mṭiθɛla
 l qaṣra
 ʾarya
 hole
 l xa gota
-ʾu nəmra
+nəmra ʾu
 xa gota
 ṣrixɛle
 xa kut
 ṭla gane
 bayi
-ṱ axlila
+axlila ṱ
 ḥasan
 ʾaġa
-rap ʾiðe
-l dabanje
+ʾiðe rap
+dabanje l
 ʾamər
-lɛxu ma
+ma lɛxu
 lɛtu
 xəzye
-naša bəṛ
-lɛxu ma
+bəṛ naša
+ma lɛxu
 hedi
 hedi
 xazəx
@@ -153951,7 +153951,7 @@ xamyən
 hay wur
 wirtɛla
 pištɛla
-xa yarxa
+yarxa xa
 tama
 diya
 diya
@@ -153959,17 +153959,17 @@ diya
 ʾaxxa
 l tamma
 baya
-yaða t
+t yaða
 dax
 mašərṭala
 ʾayya brata
-malka t
-nablala t ta
+t malka
+t ta nablala
 məra
 ʾɛni
 mənnɛxu
 wakil
-d awwa
+awwa d
 bɛθa
 ḥasan
 ʾaġa
@@ -153977,24 +153977,24 @@ məre
 ʾana
 modi
 bayət
-de xur
+xur de
 b yaha
 de
 xzola
 mitla
-šəxta m
+m šəxta
 ʾanna
 ʾəšta yarxe
 lɛla
 xipta
-sogo də
+də sogo
 xa mənnɛxu
 xayəpla
 məre
 ʾaxni
 lɛle
 šulən
-sa xupla har
+xupla sa har
 ʾati
 b ganəx
 qimtɛla
@@ -154003,10 +154003,10 @@ nubaltəlla
 hedi
 hedi
 hedi
-xɛpala t ta
+t ta xɛpala
 driθəlla ʾu
 gu lina d o
-xa bena ʾu
+bena xa ʾu
 mupraxtəlla
 nubaltəlla
 l bɛθa
@@ -154017,16 +154017,16 @@ diya
 ḥasan
 ʾaġa
 sparɛle
-dɛṛa t ta
-ʾu sparɛle
-dɛṛa t ta
+t ta dɛṛa
+sparɛle ʾu
+t ta dɛṛa
 liθ
 zilla
 bara
 diya
-xazɛla t ta
+t ta xazɛla
 ʾina
-la ču har dukθa
+la har ču dukθa
 liθwa
 hola
 prixta
@@ -154043,21 +154043,21 @@ daxi
 ʾayya bena
 məre
 ʾana
-lawšən t
-ati w
+t lawšən
+w ati
 marqədli
-la t ʾamri ta
-har ʾanna
+t ta ʾamri la
+ʾanna har
 qamayela
-ʾu hadiya
+hadiya ʾu
 bratət
 malka
 har xazya
 ʾaxni
-zmara w
+w zmara
 rqaða
 ʾay
-jal jalde
+jalde jal
 asqa ṱ
 l gare
 mara
@@ -154067,7 +154067,7 @@ tela
 lwišəllɛle
 gane
 diye
-gəlda ʾo
+ʾo gəlda
 bena ʾo
 goṛɛle
 hole
@@ -154084,8 +154084,8 @@ mšurɛθɛla
 dəbba
 mxayəlle
 hawər
-w warwartɛla
-ṣraxɛla w ʾu
+warwartɛla w
+w ʾu ṣraxɛla
 modila
 modila
 hayyo
@@ -154096,7 +154096,7 @@ tela
 dəbba
 marqoðe
 tela
-ʾu bratət
+bratət ʾu
 malka
 siqtɛla
 l gare
@@ -154104,16 +154104,16 @@ bratət
 malka
 siqtɛla
 l gare
-xa bena
+bena xa
 simarxa
 θiθɛla
-əlla mxiθ
+mxiθ əlla
 diya
-ʾu nubaltəlla
-w nubaltəlla
-ʾu pištɛla
+nubaltəlla ʾu
+nubaltəlla w
+pištɛla ʾu
 bɛθa gu
-xa bena
+bena xa
 xeta
 yaba
 malka
@@ -154128,15 +154128,15 @@ mɛθela kut
 ʾana
 t yanne
 zuze
-in ṱ hiwəlle ʾax
-xa bena
+in hiwəlle ʾax ṱ
+bena xa
 xeta
 məra
 ʾana
 maθyanne
 dax
 in muθɛθəlla ṱ
-ʾa bena
+bena ʾa
 xeta
 bena ʾay
 ʾana
@@ -154146,11 +154146,11 @@ məre
 maθyatla
 məra
 he
-sa də qu
+də sa qu
 tiwtɛla
 gu lina
 diya
-xa bena
+bena xa
 xeta
 ziltɛla ʾu
 ziltɛla
@@ -154163,15 +154163,15 @@ lina
 l xa gota
 θiθɛla
 siqtɛla
-ga ɛ d ʾax
+ʾax ga d ɛ
 qamaye
 ʾoy
 mitli
-kəpna m
-axxa w
+m kəpna
+w axxa
 tamma
-ləx ma
-ɛkət m
+ma ləx
+m ɛkət
 θaya
 mən dukθa
 rəḥqən
@@ -154181,18 +154181,18 @@ xamyən
 mənnɛxu
 məre
 ṭla ʾarya
-xzi ʾarya
+ʾarya xzi
 šqille
 dabanjə
 gane
 diye
 məre
 xzi
-ʾati w
+w ʾati
 nəmra
 ʾimə
 θela
-ʾa baxta
+baxta ʾa
 laxxa
 bayənna
 muqlabta
@@ -154204,26 +154204,26 @@ mənnɛxu
 dawəq
 aqla p
 diya
-xa mənnɛxu ʾən
+xa ʾən mənnɛxu
 ʾazəl
-bar d o xena
+bar o d xena
 qaṭlənne
-har ʾaxtu
+ʾaxtu har
 kəlye
 dus
 č̣alxitula
-ġðaðe m
-mpalitula ʾu
-anna d qa
+m ġðaðe
+ʾu mpalitula
+qa d anna
 heywane
 kulla
-ṱ axlila
+axlila ṱ
 ʾayya
 θiθɛla
 ləbba
 basimɛle
 θiθɛla
-ga ɛ d ʾax
+ʾax ga d ɛ
 qamɛθa
 θiθɛla
 mṭiθɛla
@@ -154245,18 +154245,18 @@ dəryəlla
 l ʾaqla
 murməlla
 ʾaqlaθa
-l bar eli
-ʾu reša
+eli l bar
+reša ʾu
 xtaya
 dwiqəlla ʾu
 č̣lixəlla
 qəm č̣alxila
 ʾoðila
 tərte
-ʾu pačəpčila
-w axlila
+pačəpčila ʾu
+axlila w
 heywane
-ayya w
+w ayya
 xeta
 pišla
 tamaha
@@ -154280,21 +154280,21 @@ quwwət
 šqilɛle
 quwwət
 nubla ʾu
-azi ṱ ta
+ta azi ṱ
 xazi
 brate
 diye
-ku ile ṱ
+ile ku ṱ
 ʾəθya
 məṭya
 tama
 heywane
-wawa rabe
+rabe wawa
 heywane har
 mpurəpsəlla
 lɛla
 məṣye
-xarɛθət ʾɛ
+ʾɛ xarɛθət
 xarɛθa
 pišle
 majbur
@@ -154302,13 +154302,13 @@ mərza
 pamət
 šqilale
 baxta
-ʾu riqle
+riqle ʾu
 siqle
 mṭošele
 xa dukθa
 xeta
 ʾaw
-ʾu baxte
+baxte ʾu
 diye
 xa yoma
 məre
@@ -154317,7 +154317,7 @@ heywane
 ḥasan
 ʾaġa
 məre
-ṱ amrənnɛxu
+amrənnɛxu ṱ
 xa
 məndi
 ʾina
@@ -154325,21 +154325,21 @@ dus
 galitu
 məre
 ʾalaha
-la ʾawəð də
+də la ʾawəð
 ʾən
 mrili
 modi
-oðitu ṱ
+ṱ oðitu
 dəbba
 məra
 ʾalaha
-la ʾawəð də
+də la ʾawəð
 ʾati
 mareti
 daryannux
 hatxa
-rəš ʾiθaθi
-ʾəsri saʾate w ʾarba
+ʾiθaθi rəš
+w ʾəsri saʾate ʾarba
 oyən ṱ
 hatxa
 waðəllux
@@ -154349,14 +154349,14 @@ məndi
 hale
 mdarəmnannux
 ʾana
-ʾu ʾarya
+ʾarya ʾu
 məre
 ṭla gane
 diye
 šalla ʾən
 la
 mareti
-ʾu nəmra
+nəmra ʾu
 hadəx
 ʾu kulla
 hadəx
@@ -154364,7 +154364,7 @@ kulla
 sqiðela
 mənne
 diye
-ẓaləmwa t ma
+t ma ẓaləmwa
 ʾəlley
 xa yoma
 mumiθale
@@ -154375,19 +154375,19 @@ b dugle
 lɛla
 ṣbara
 jawji
-qame m
+m qame
 diye
 ʾarya
 hole
 mara
-dəbba ṭla
-de ʾati
+ṭla dəbba
+ʾati de
 ṭabbaxtət
 sa wuð ʾixala
-mxa ʾaqləx
+ʾaqləx mxa
 ʾəlle
 diye
-miθɛle xza
+xza miθɛle
 ʾəlla
 ʾayya
 θiθɛla
@@ -154402,34 +154402,34 @@ biye
 qimɛle
 rab
 ʾiðe
-l dabanje
+dabanje l
 ʾatitwa
 mara
 dawqannux
-rəš ʾiθaθi
+ʾiθaθi rəš
 w ʾaxxa
 tamma
 p̣enane
 maxyatli
-w hatxa
+hatxa w
 hatxa
 mənna
 rab
 ʾiðe
 diye
-l dabanje
+dabanje l
 xaṭər
 ʾalaha
 la
 mbašolənwa
 raqənwa
-mbašlanwa w t ta
+t ta w mbašlanwa
 qitli
 biyux
 w ʾaxxa
 tamma
 xa yoma
-har mitle
+mitle har
 b duzuθa
 mitle
 b duzuθa
@@ -154454,7 +154454,7 @@ l tama
 mbašla
 pišɛle
 majbur
-ha ile ṱ
+ile ha ṱ
 rixa
 ʾəθya
 mənne
@@ -154467,7 +154467,7 @@ hodəx
 məxyɛle
 ʾaqle
 diye
-l gəlda o
+l o gəlda
 murməlle
 gəlda
 qripəlle
@@ -154486,7 +154486,7 @@ dukθe
 diye
 šwiqale
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 xa brata
@@ -154496,11 +154496,11 @@ nasimo
 wiðɛwa
 gu ʾumra
 qurbana
-ṱ qa azawa
+qa ṱ azawa
 qarwawa
 yomaθa
 la palṭawa
-ṱ awa ma
+awa ma ṱ
 xamθa
 šapirta
 kawsa
@@ -154531,7 +154531,7 @@ xonawaθa
 la θela
 ʾazawa
 ʾumra
-qarwawa t qa
+t qa qarwawa
 dašta
 ṃaḷyawa
 rakawe
@@ -154545,12 +154545,12 @@ muṣəlyəlla
 ʾəθyɛle
 xona
 diya
-goṛa ʾo
+ʾo goṛa
 lɛle
 xəzyəlla
 xaθe
 dax xanum
-tiwta ʾay
+ʾay tiwta
 bɛθa gu
 la
 xazela qəm
@@ -154571,10 +154571,10 @@ xamši
 yome
 ṣimila
 qurbane
-la t
+t la
 qriwila
 yoma ʾo
-qarwawale t
+t qarwawale
 dašta
 ṃḷela
 rakawe
@@ -154584,14 +154584,14 @@ jliwtɛla
 l ʾarabaye
 muṣlyəlla
 l ʾaθṛa
-xtaye t
-bxele ʾaw
-ʾu mquhərre
+t xtaye
+ʾaw bxele
+mquhərre ʾu
 tiwle
 bxaya
-ʾap xena o
+ʾap o xena
 hadəx
-ʾap xena o
+ʾap o xena
 hadəx
 zorət ʾo
 kulla
@@ -154609,10 +154609,10 @@ xamši
 yome
 ṣimila
 qurbane
-la t
+t la
 qriwila
 yoma ʾo
-qarwawale t
+t qarwawale
 dašta
 ṃḷela
 rakawe
@@ -154623,7 +154623,7 @@ xaθux
 nasimo
 muṣlyəlla
 l ʾaθṛa
-xtaye t
+t xtaye
 kɛla
 xaθi
 nasimo
@@ -154659,10 +154659,10 @@ muttule ʾu
 kosiθət
 prəzla
 b reše
-ʾu šqille
+šqille ʾu
 ṣawlət
 prəzla
-aqle p
+p aqle
 zille
 mxele
 b dunye
@@ -154685,7 +154685,7 @@ l xa maθa
 məre
 ʾayyɛla
 maθət
-fulan naša
+naša fulan
 məre
 he
 məre
@@ -154701,14 +154701,14 @@ diyele
 qima
 siqɛle
 kəlya
-qam ṭarət
+ṭarət qam
 bɛθa
 ʾitle
-xa yaləxta
+yaləxta xa
 mnuqašta
 l babe
 zqirta
-b qɛse
+qɛse b
 xaθe ʾu
 diye
 mnuqaštəlla
@@ -154743,7 +154743,7 @@ xadamta
 bena
 ʾəstaðti
 məra
-ʾaw sawa
+sawa ʾaw
 modi
 pišle
 sawa
@@ -154764,25 +154764,25 @@ mṣaya
 maṭe
 ču dukθa
 mṭele
-gu d ay maθa
+maθa gu d ay
 ham zen
 mṭele
 gu d ay
 maθa
 ʾay maθa
-an d našela
+an našela d
 tiwɛle
 tama
 məra
 baye mo
-naša ʾo
+ʾo naša
 məra
 ʾəstaðta
-mara hola
+hola mara
 hole
 bxaya
 jnana
-mara hole
+hole mara
 ʾayya
 yaləxta
 babila
@@ -154802,7 +154802,7 @@ mṣuwaθta
 mənne diye
 sawa ʾo
 qu
-ruq m tama
+m ruq tama
 kaləbθi
 axlalux bəṱ
 qaṭuθi
@@ -154815,19 +154815,19 @@ ya babi
 ʾəstaðta
 nasimola
 mnuqašta
-ʾana ʾu
-šawwa šənne ʾanna
-θaya hon
+ʾu ʾana
+ʾanna šənne šawwa
+hon θaya
 ʾina
 kupali
 pišla
 šmiṭṭa
-ʾu pilawe
+pilawe ʾu
 pišla
 šmiṭe
 julli
 litli
-lošena t
+t lošena
 bayən
 xazən
 xaθi
@@ -154840,17 +154840,17 @@ hatxa
 xonile
 siqtɛla
 l ṭabaq
-ṭḷaθa t
+t ṭḷaθa
 zdiθəlla
 gana
 diya
 kəsle diye
 məre
 ʾana
-bəd mɛθena
+mɛθena bəd
 məra
 ʾap ʾana
-mɛθən bəd
+bəd mɛθən
 gotux
 zədyala
 gana
@@ -154875,16 +154875,16 @@ mxaməxla
 ʾayya
 šuqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
-malka xa
+xa malka
 ʾiθwale
 ṭḷa
 bnone
-malka ʾo
+ʾo malka
 wirre
-b ʾumṛa
+ʾumṛa b
 taqriban
 mṭele
 ʾəšti
@@ -154904,15 +154904,15 @@ xa čara
 xzoli
 xa daṛmana
 ʾɛni qa
-qa t amṣən y
+t y qa amṣən
 xazən
-bəṛ našuθa
+našuθa bəṛ
 məndi
 hale
 smeli
-lɛš in
+in lɛš
 xzaya
-lan mṣaya
+mṣaya lan
 jwaja
 qimɛle
 yiwəlla
@@ -154925,14 +154925,14 @@ mənna
 ʾumma
 dinare
 məre
-mɛθo so
+so mɛθo
 daṛmana
 ʾɛni qa
 qimela
 ṭḷaθna
-bnone t
+t bnone
 diye
-ʾu zilela
+zilela ʾu
 ṭḷaθna
 bnone
 diye
@@ -154941,28 +154941,28 @@ gu dunye
 ṭayela
 ʾal d o
 daṛmana
-xazi t ta
-ʾɛnət qa
+t ta xazi
+qa ʾɛnət
 babey
 zilela
 məṭye
-gu ða
+ða gu
 mðita
-goṛa ʾo
+ʾo goṛa
 məre
 ʾana
 pɛšən
 laxxa
-ayya gu d
+gu ayya d
 mðita
 mo
-ṱ oðət
+oðət ṱ
 məre
 xazənne
 xa šula
 mbaqrən ʾu
 xazən
-daṛmana bud
+bud daṛmana
 ṭla
 ʾɛnət
 babi
@@ -154981,36 +154981,36 @@ kəslux
 mapəlxətli
 məre
 he
-mo qa
+qa mo
 la
 məre
 kəma
-yatli t
+t yatli
 məre
-yannux t
+t yannux
 xamši
 dinare
-kut yarxa
-kut yarxa
-yannux t
+yarxa kut
+yarxa kut
+t yannux
 xamši
 dinare
 plux ʾu
-mən anna d
+mən d anna
 paloxaye
 məre
-yxaləf ma
-goṛa ʾo
+ma yxaləf
+ʾo goṛa
 pišle
 tama
 qimela
-tre ʾan xene
+tre xene ʾan
 zile
 zilela
 tre ʾan
-ʾap ʾo gawaya
+ʾap gawaya ʾo
 mṭele
-mðita ða
+ða mðita
 məre
 xoni
 ʾap ana
@@ -155021,13 +155021,13 @@ bud šula
 xazəx
 xa šula
 laxxa
-daṛmana qa
+qa daṛmana
 ṭla babi
 mbaqrəx
 zilɛle
 xəzyɛle
-šavana xa
-amrile y
+xa šavana
+y amrile
 b surəθ
 ʾatiqta
 ṛiya
@@ -155042,14 +155042,14 @@ pɛšən
 bayituli
 la
 məre
-mo qa
+qa mo
 la
-yaxlux t
+t yaxlux
 xamši
 dinare
-kut yarxa
+yarxa kut
 məre
-yxaləf ma
+ma yxaləf
 ʾap ʾaw
 pišɛle
 tama
@@ -155075,7 +155075,7 @@ dəryɛle
 ʾəlle
 diye
 məre
-šlama llux
+llux šlama
 sawi
 šopət
 babi
@@ -155090,14 +155090,14 @@ b alaha
 bayən
 ṱ azena
 hon šəmya
-bud qəṣṣəttət
-warda w
+qəṣṣəttət bud
+w warda
 nɛrgis
 parizada
 ʾitla
 xa ṭɛra
 ʾo ṭɛra
-an mən parre d
+an mən d parre
 diye
 maxən
 b ʾɛnət
@@ -155111,32 +155111,32 @@ hole ʾu
 səmya
 ʾitle
 ʾumre
-tmani šənne
+šənne tmani
 məre
 broni he
 ʾana
 amrənnux ṱ
 xa naṣiyət
-yanna t
+t yanna
 ṭlalux
 ʾina
-mxalləfət la
+la mxalləfət
 la ʾawðət
-mdi xa
+xa mdi
 xena
-b diyi la t
-ʾana ʾup ʾu
+t la b diyi
+ʾu ʾana ʾup
 sawən
-žigən ʾɛni ʾu
+ʾɛni žigən ʾu
 hola
 bṣire
 balki
 ʾazeti
 maṭeti
-l ṭɛrət o
+l o ṭɛrət
 parizada
 mɛθətli
-maxən t ta
+t ta maxən
 ʾap ʾana
 b ʾɛni
 basmi
@@ -155153,7 +155153,7 @@ lli murrɛ
 məre
 ʾana
 amrənnɛ llux ṱ
-lazəm ʾu
+ʾu lazəm
 hadəx
 hawi
 məre
@@ -155162,7 +155162,7 @@ məre
 ʾiθən
 xa ṭura
 ṭura
-ṱ asqət
+asqət ṱ
 biye
 diye
 kulle
@@ -155175,13 +155175,13 @@ saqa
 ʾu susux
 susux
 baye
-kale t
-šoqət la
-kale t
+t kale
+la šoqət
+t kale
 maxət
 ʾəlle
 diye
-ʾasəq t ta
+t ta ʾasəq
 payədle
 ʾo ṭura
 ʾimət
@@ -155207,25 +155207,25 @@ mṣarṣore
 ʾo ṭura
 pɛðətle
 gu ṣlɛθa
-d o
+o d
 galliya
 maxi
 tre pənxe
-ṱ ərxe
+ərxe ṱ
 goṛe
-l ġðaðe
+ġðaðe l
 awe ʾo ṱ
 l xaṣət
 dawɛra
-b ʾaw napəl
+napəl b ʾaw
 baxta
 yaqurta
 ʾi mabra
 an mən d kepe
 t maxəlla
 ġðaðe
-ʾu ṣalət
-miya rəš
+ṣalət ʾu
+rəš miya
 xazətla
 tərte
 bnaθa
@@ -155237,12 +155237,12 @@ qahwa
 mənna
 maxətle
 sɛpux
-l qðaley
+qðaley l
 pɛrmətle
 rešey
-ʾu taxrətli
-mṣalət ʾu
-an rəš d miya
+taxrətli ʾu
+ʾu mṣalət
+an d rəš miya
 miya ʾan
 pɛši
 qəsme tre
@@ -155258,26 +155258,26 @@ hole
 ʾarya
 l ayya
 gota
-ʾu ʾəzza
+ʾəzza ʾu
 hola
 l ayya
 gota
-qam ʾarya
+ʾarya qam
 hole
 ʾiθən
 gəlla
-qam ʾu ʾəzza
+ʾəzza ʾu qam
 hole
 ʾiθən
 bəsra
 šqul
 bəsra
-qam ʾəzza m
+m ʾəzza qam
 drile
-qam ʾarya
+ʾarya qam
 gəlla ʾu
 šqulle
-m kəs ʾarya
+m ʾarya kəs
 drile
 ʾəzza qa
 awreti ʾu ṱ
@@ -155287,27 +155287,27 @@ hola
 č̣ime
 ʾani
 paθxətla
-ila ʾan ṱ
+ila ṱ ʾan
 pθixe
 ʾač̣mətla
 maṭət
-xarɛθət ʾɛ
+ʾɛ xarɛθət
 ʾotəx
 hole
 ṭɛra
 diya
 mutta
-gu kawe
+kawe gu
 qam
 t qare
 diga ʾax
 šaqlət
-mən d o
+mən o d
 ʾixala
 dɛrət
-ṭɛra qa
+qa ṭɛra
 ṭɛra
-axəl bṱ
+bṱ axəl
 awreti ṱ
 hola
 ʾarbi
@@ -155343,16 +155343,16 @@ bayət
 kθawa
 ʾaθət ʾu
 šaqlətlux
-mən d o
+mən o d
 ʾixalət
 ṭɛra
 dɛrət
-gu jebanux
+jebanux gu
 ʾu ṭɛra
-haru la
+la haru
 šaqlətle
 mattətle
-gu čantux
+čantux gu
 ʾaθeti ʾu
 məre
 p̣uṛmelux
@@ -155366,7 +155366,7 @@ he
 qimɛle
 zilɛle
 zilɛle
-b urxa
+urxa b
 məxyɛle
 l ṭura
 siqɛle
@@ -155388,22 +155388,22 @@ baθər
 hadəx
 šurele
 ṣlaya
-məlxa gu
+gu məlxa
 ʾap məlxa
 piðale
 mṭele
-l an
+an l
 tre kepe
-qitla t
-b ġðaðe
+t qitla
+ġðaðe b
 ʾap ʾani
 piðile
 mṭele
-miya rəš
+rəš miya
 θela
-bnaθa tre
-qəm parəmle
-rešey u
+tre bnaθa
+parəmle qəm
+u rešey
 pidle
 xulaṣa
 ʾayyət
@@ -155429,9 +155429,9 @@ moθeli
 ṭɛra
 qimɛle
 šqilɛle
-parra xa
+xa parra
 məxyəlle
-b ʾɛne
+ʾɛne b
 diye
 ʾɛne
 diye
@@ -155444,30 +155444,30 @@ broni
 hawya
 brixta
 guṛuθux
-nabəl si
+si nabəl
 ṭla babux
-ʾu basəm
+basəm ʾu
 babux
 biya
 ʾaw
 ʾitle
 ʾumma
 dinare
-gu jebe
+jebe gu
 diye
 lɛle
 ṣrifəlla
 qimɛle
 diṛɛle
 zilɛle
-xone ʾo
+ʾo xone
 diye
-paləx t
+t paləx
 ṛiya
 šavana
 zilɛle
 məre
-marət ṭla
+ṭla marət
 ʾərbe
 məre
 la
@@ -155492,10 +155492,10 @@ yanwale
 xamši
 dinare
 ʾaw
-yalli t
+t yalli
 xamši
 dinare
-yxaləf ma
+ma yxaləf
 məre
 hal
 qimɛle
@@ -155513,16 +155513,16 @@ zilɛle
 məṭyɛle
 l xone
 diye
-mzabənwa d t o
+t o mzabənwa d
 kababe
 ʾap ʾaw
-qəm šaqəlle
-ʾu xamši
+šaqəlle qəm
+xamši ʾu
 dinare
 xene
 hiwile
 pišle
-zuze la t
+t la zuze
 qimela
 ʾəθye
 ʾəθyela
@@ -155533,14 +155533,14 @@ məṭyela
 l qurbət
 qaṣrət
 malka
-xa bena
+bena xa
 ʾiθwa
-bustana xa
+xa bustana
 ʾiθwa
 xabuše
 gawa
 xa ʾɛna
-wawa palga be
+be palga wawa
 xoney ʾo
 zora
 məre
@@ -155548,8 +155548,8 @@ xonawaθi
 ʾana
 lan
 dmixa
-b la lɛle
-b yoma la
+la b lɛle
+la b yoma
 hola
 θaya
 šənθi
@@ -155557,26 +155557,26 @@ damxən
 xanči
 manixəx
 xačča
-ʾu baʿden
-ṱ asqexi
+baʿden ʾu
+asqexi ṱ
 l bɛθa
 məre
-yxaləf ma
-xa bena
-dmixɛle ʾaw
+ma yxaləf
+bena xa
+ʾaw dmixɛle
 xona
-goṛa ʾo
+ʾo goṛa
 modi
 məre
 məre
-xone ṭla d o
+ṭla o d xone
 gawaya
 duqle qu
 xonux
 xarṭəxla
 ʾɛne
 diye
-ʾu šaqləxle
+šaqləxle ʾu
 ṭɛra
 masqəxle
 amrəx ṱ
@@ -155588,7 +155588,7 @@ qimɛle
 xona
 diya
 dmixɛle
-xa bena
+bena xa
 ʾəθyela
 dwiqəlle
 yala
@@ -155606,7 +155606,7 @@ l bɛθa
 babey
 lɛle
 dyala
-axxa m
+m axxa
 l axxa
 məre
 ha
@@ -155622,13 +155622,13 @@ mšurela
 mraya
 ʾɛne
 diye
-lɛle sab
+sab lɛle
 xila
-mən d o
+mən o d
 ʾixale
 diye
 hole
-gu jebət
+jebət gu
 xoney
 mara
 qimɛle
@@ -155637,17 +155637,17 @@ hadəx
 θiθɛle
 xa yawna
 tiwta
-rəš ɛ d
+d rəš ɛ
 ʾilana
-xabuše t
+t xabuše
 məra
 ʾəlle
 diye
 xzi
-it ʾən
+ʾən it
 ṛiša
 maṣyəθ
-it ʾu ʾən
+ʾən it ʾu
 ṭliʾa
 ṛuš
 hadiya
@@ -155660,18 +155660,18 @@ kəslux
 mjamətla
 maqðətla
 ʾɛnux
-čappe t
+t čappe
 hola
 fəllən
 dukθa
 ʾɛnux ʾu
-yamne t
+t yamne
 hola
 fəllən
 dukθa
 šaqlətla
 mattətla
-b šopey
+šopey b
 gamṣətla ʾu
 ʾanna
 miyət
@@ -155701,15 +155701,15 @@ vərra
 pišle
 qəm dɛrela
 miya ʾan
-an mən parre d
-rəš ʾɛne
+an mən d parre
+ʾɛne rəš
 diye
 bsimla
 xanči
 siqɛle
 siqɛle
 məre
-an ṭla d naše
+an ṭla naše d
 yaba
 la
 yawituli
@@ -155717,30 +155717,30 @@ xa šula
 xa məndi
 hale
 palxən
-malka be
+be malka
 məra
-pəlxana ču
+ču pəlxana
 litlən
 bas
 ʾitlɛni
 mtamaztət
 gomə
 susawaθa
-mtaməzətla t ta
+t ta mtaməzətla
 ʾani
 bas
 məre
-yxaləf ma
+ma yxaləf
 qimɛle
 ṣəlya
 pišɛle
-goma gu
+gu goma
 knaša
-ʾu mšaya
+mšaya ʾu
 tagbore
 susawaθa
 mtanəx
-bud parizada
+parizada bud
 parizada
 ṛišla
 ṭɛra
@@ -155756,14 +155756,14 @@ diya
 θiθa
 tiwta
 baθər
-ɛ d maθa
+maθa d ɛ
 tiwtɛla
 mxiθəlla
 čadra
 diya
 məra
 hey
-ku ile ṱ
+ile ku ṱ
 muθyəlle
 ṭɛri
 ʾana
@@ -155771,11 +155771,11 @@ gawranne
 b bas šarəṭ
 dax ile
 muθyəlle
-ʾamərra lli
+lli ʾamərra
 mara
 siqɛle
 xona
-goṛa ʾo
+ʾo goṛa
 siqɛle
 məre
 məre
@@ -155791,7 +155791,7 @@ reše
 qimɛle
 tre ʾo
 qimɛle
-tre ʾo t
+t tre ʾo
 siqɛle
 məre
 ʾanən
@@ -155804,12 +155804,12 @@ mut ʾurxət
 muθyəlle
 modit
 xəzya
-qam ɛnux
+ɛnux qam
 modit
 xəzya
 məre
 ču məndi
-lan xəzya
+xəzya lan
 ʾana
 ṭɛra
 muθyəlle hon
@@ -155827,7 +155827,7 @@ pišle
 pišle
 ʾo
 ile ṱ
-gu gomət
+gomət gu
 susawaθa
 qimɛle
 siqɛle
@@ -155869,14 +155869,14 @@ skinyaθa
 piðən əlle
 xa ṭura
 xena
-məlxa t
+t məlxa
 ʾaw
 piðən əlle
 tərte
 xamaθa
 ʾaxwaθəx
 ʾəθyela
-primən əlle
+əlle primən
 reša
 ʾiθwa
 nara
@@ -155885,70 +155885,70 @@ muklən əlle
 šwirən
 ʾiθwaləx
 ʾarya
-l gota ey
-ʾu ʾəzza
-l gota ey
-qam ʾarya
+l ey gota
+ʾəzza ʾu
+l ey gota
+ʾarya qam
 ʾiθwa
 gəlla
-qam ʾəzza
+ʾəzza qam
 ʾiθwa
 bəsra
 šqilən
 bəsra
-kəs ʾəzza m
+m kəs ʾəzza
 mutta
 ṭla ʾarya
-mən ʾu ʾarya
+ʾarya mən ʾu
 šqilən
 gəlla
 muttəlle
 ʾəzza qa
 wirən
-ʾarbi ʾotaxe
+ʾotaxe ʾarbi
 ʾiθwaləx
 ʾəsri
 mənna
 pθixe wawa
-əlla dwirən
+dwirən əlla
 ʾəsri ʾu
 mənna
-dwire wawa
-əlla pθixən
+wawa dwire
+pθixən əlla
 ṭɛrəx
-gu kawe wewa
-dəryən əlle
+kawe gu wewa
+əlle dəryən
 laqṭa
 xilɛle
 wirən
 gu bɛθəx
 kθawəx
-šqiləlle hon
-qalunkəx mən
+hon šqiləlle
+mən qalunkəx
 grišən
 mən ʾixala
 grišən
-gaye ʾu ʾarbe
+ʾarbe gaye ʾu
 nšiqən əlləx
-ʾu ʾəθyən
+ʾəθyən ʾu
 məra
-iwət ṱ madam
+iwət madam ṱ
 ʾayya
 wiðəlla
 kulla
-mɛθili si
+si mɛθili
 qəṣṣəttət
 w wɛrda
 nɛrgis
 məre
-yxaləf ma
+ma yxaləf
 qimɛle
 ṣəlya
 šqilɛle
-mən d o
+mən o d
 ʾixala
 dəryəlle
-ṭɛra qa
+qa ṭɛra
 ṭɛra
 xilɛle
 šqilɛle
@@ -155968,14 +155968,14 @@ bronət
 malkɛle
 lwišɛle
 julle
-ʾu siqɛle
+siqɛle ʾu
 məra
 hayyo
 hayyo
-iwət ṱ madam
+iwət madam ṱ
 ʾati
 hayyo
-ʾazət la
+la ʾazət
 məre
 na mumkən
 məre
@@ -155993,7 +155993,7 @@ zila
 zila
 zila
 xa tre
-ṭḷa yomane
+yomane ṭḷa
 tiwɛle
 l susa
 diye
@@ -156009,16 +156009,16 @@ gawa
 diya
 zilɛle
 wirɛle
-gu ɛ d maθa
+maθa gu d ɛ
 pišɛle
 ʾarxa
-xa baxta kəs
+baxta xa kəs
 sawta
 ṱoṱo
 məre
 ʾəlla
 diya
-yatli le y
+le y yatli
 xačča
 miya
 qimtɛla
@@ -156028,16 +156028,16 @@ miya
 pliṭṭɛla
 baraya
 jirtɛla
-gu qawwa
-ʾu yiwtəlle
+qawwa gu
+yiwtəlle ʾu
 ʾəlle
 diye
 šətyəlle
 miðe ʾaw
-ləbbe bəd
+bəd ləbbe
 miya
 məlxanela
-ṱoṱi ha
+ha ṱoṱi
 xazəx
 ʾanna
 miyɛxu
@@ -156067,7 +156067,7 @@ miya
 məra
 kut šawwa
 yomane
-axəl y
+y axəl
 xa brata
 t marpelən qa
 miya
@@ -156088,8 +156088,8 @@ bratət
 malka
 ʾay
 masqila
-axəlla ṱ ta
-maxzɛle ʾu t ta
+ta axəlla ṱ
+t ta ʾu maxzɛle
 ʾəllux
 ʾɛkɛle
 qimɛle
@@ -156097,13 +156097,13 @@ tre yomət
 siqɛle
 l ʾurxa
 xəzyɛle
-malka brat
+brat malka
 məre
 ha
 lɛka
 məra
 asqən ṱ
-axəlli ṱ ta
+ta axəlli ṱ
 xuwwe
 məre
 ʾana
@@ -156125,7 +156125,7 @@ damxən
 xačča
 mattənne
 reši
-rəš aqləx
+aqləx rəš
 danət kut
 ʾaθe
 xuwwe
@@ -156133,7 +156133,7 @@ marəšatli
 məra
 spay
 mara
-xa bena
+bena xa
 dmixɛle
 ʾaw
 dmixɛle
@@ -156165,29 +156165,29 @@ ku rešət
 xuwwe
 θele
 qəm maxele
-qəm parəmle ʾu
+parəmle qəm ʾu
 reše
 diye
 xuwwe
 məre
 ʾana
 lan
-b xa reša
+xa b reša
 b šawwa
 rešawaθən
-ʾaw məre
+məre ʾaw
 ʾana
 lan
-b xa rumxa
+xa b rumxa
 b šawwa
 rumxewən
 ku rešət
 θele
-qəm parəmle
+parəmle qəm
 ku rešət
 θele
-qəm parəmle
-qəm qaṭəlle
+parəmle qəm
+qaṭəlle qəm
 qəm parəmla
 naθyaθa
 an xuwwawe d
@@ -156196,14 +156196,14 @@ dɛrela
 brata
 modi
 widla
-qəm maxyala
+maxyala qəm
 ʾiða
 gu dəmma
 maxyala ʾu
-xaṣe gu
+gu xaṣe
 diye
 gu xaṣa
-d o yala
+o d yala
 məre ʾu
 ṭla brata
 ruq
@@ -156211,8 +156211,8 @@ ruq
 mṭɛgən
 naše
 mur
-la šati t
-mən anna d
+t la šati
+mən d anna
 miya
 ʾanna
 miya
@@ -156236,15 +156236,15 @@ qṭila
 w ʾaxxa
 tamma
 ʾani
-ṣraxɛla har biya
+biya har ṣraxɛla
 draya
 kepe
-ta t ʾasqa
-axəlla ṱ ta
+t ta ʾasqa
+ta axəlla ṱ
 xuwwe
 xuwwe
 qṭilɛle
-xa bena
+bena xa
 hadəx
 ʾəθyela
 ṣəlye
@@ -156272,22 +156272,22 @@ xačča
 ṣapi
 miya
 sogən ʾu
-miya duq
+duq miya
 malka
 yiwle
 xabra
-ku ile ṱ
+ile ku ṱ
 qṭiləlle
 xuwwe
 ʾaθe
 payəš
 malka
-ana w
+w ana
 pɛšən
 wazir
 ʾəlle
 diye
-xa bena
+bena xa
 zilela
 xakma
 yale
@@ -156296,7 +156296,7 @@ məra
 qṭiləlle
 w axnix
 qṭiləlle
-dugle ta
+ta dugle
 brata
 marɛla
 marmu
@@ -156307,7 +156307,7 @@ lɛla
 xzaya
 ʾiða
 mxiθa
-xaṣe gu
+gu xaṣe
 mara
 prumu
 reše
@@ -156325,7 +156325,7 @@ məre
 hole
 ʾiθən
 xa
-kəs ṱoṱo
+ṱoṱo kəs
 sawta
 balki
 ile ṱ
@@ -156351,18 +156351,18 @@ xziθa
 bratət
 malka
 mxiθa
-xaṣe gu
+gu xaṣe
 diye
 mxiθəlla
 gu dəmma
 mxiθəlla
-xaṣe gu
+gu xaṣe
 məra
 ʾawwɛle
 babi
 məre
-malka puš
-ʾana ʾu
+puš malka
+ʾu ʾana
 pɛšən
 wazir
 məre
@@ -156386,7 +156386,7 @@ maṭənne
 šulux
 modile
 məre
-le ʾamrənne y
+le y ʾamrənne
 ṭlalux
 qimɛle ʾu
 zilɛle
@@ -156394,31 +156394,31 @@ məṭyɛle
 xa derubər
 xa ʾilana
 goṛta
-amrəxla y
+y amrəxla
 xura
 simɛrxa
 simɛrxa
 ʾitla
 zaye
-gu qənna
+qənna gu
 xa xuwwe
 hammaša
-asəqwa y
-axəlwala y
+y asəqwa
+y axəlwala
 zaye ʾan
-naša ʾo
+ʾo naša
 bronət
 malka
 modi
 widle
-qəm qaṭəlle
+qaṭəlle qəm
 xuwwe ʾo
 mqadqədle qəm
-ʾu dɛrele
+dɛrele ʾu
 yalət qam
 simɛrxa
 ʾimət
-qəm ʾaxlila
+ʾaxlila qəm
 xere
 zille
 mṭušyale
@@ -156426,10 +156426,10 @@ gane
 mṭušyale
 gane
 diye
-la t ta
+t ta la
 ʾaxlale
 simɛrxa
-xa bena
+bena xa
 hadəx
 simɛrxa
 θiθɛla
@@ -156440,39 +156440,39 @@ ha
 rixət
 naša
 naxrayɛle
-mṭušyɛle ʾaw
+ʾaw mṭušyɛle
 gane
-ʾu ʾanna
+ʾanna ʾu
 bnonət
 simɛrxa
 ṣrixela
 məra
 hayyo
 hayyo
-ʾo ile ṱ
-axəlwala y
+ile ʾo ṱ
+y axəlwala
 bnonəx
 hole
 qṭiləlle
 ṣrixela
-gaye tre ṭḷa
+tre ṭḷa gaye
 məra
 hayyo
 pluṭ
-ku məndit
+məndit ku
 bayət
 ʾana
-yannux t
+t yannux
 lɛle
 pliṭa
 məra
 waʿduθa
-ku məndit
+məndit ku
 bayət
 ʾana
 awðannux ṱ
 pliṭɛle
-xa bena
+bena xa
 ʾəθyɛle
 məra
 modi
@@ -156489,15 +156489,15 @@ majal
 xa ʾəšta
 šawwa
 yome
-ṱ axlənne
+axlənne ṱ
 xačča
 bəsra
-ʾu ʾəlyaθət
+ʾəlyaθət ʾu
 ʾərba
-ʾu t ta
+t ta ʾu
 mačili
 parri
-ta t amṣən y
+t ta y amṣən
 mamṭannux
 rəḥqɛle
 qaṣra
@@ -156513,21 +156513,21 @@ zilɛle
 šawwa
 yomane
 spirɛle
-θiθɛla ʾu
+ʾu θiθɛla
 simɛrxa
 məra ʾu
-l tu xaṣi
+tu l xaṣi
 tiwɛle
-l xaṣə
+xaṣə l
 simɛrxa
 ṭayyarɛla
 zilela
 hal məṭyela
 l qaṣra
-rəš qaṣra
+qaṣra rəš
 məra
 šqul
-tre ʾanna
+ʾanna tre
 parri
 mənni
 ku danə
@@ -156539,7 +156539,7 @@ laxxa
 qimɛle
 šqila
 məre
-yxaləf ma
+ma yxaləf
 siqɛle
 l xaṣa
 diya
@@ -156553,8 +156553,8 @@ pθux
 pθixəlla
 ʾɛne
 diye
-tiweley ʾu
-rəš qaṣra
+ʾu tiweley
+qaṣra rəš
 qaṣra
 hole
 kulle
@@ -156569,10 +156569,10 @@ diya
 yiwtəlla
 ʾəlle
 diye
-θiθɛla ʾu
+ʾu θiθɛla
 diṛtɛla
 ʾay
-xa bena
+bena xa
 ʾaw
 qimɛle
 ṣəlyɛle
@@ -156580,16 +156580,16 @@ qimɛle
 dəryɛle
 šlama
 w har wɛrda
-ila nɛrgis
+nɛrgis ila
 latla
 la
 bnone
 la
 ču məndi
-b šɛna ya w
+w b ya šɛna
 ṭawaθa
 θelux
-ɛka m
+m ɛka
 θelux
 məre
 b alaha
@@ -156610,9 +156610,9 @@ qəṣṣəttɛxu
 modila
 modi
 lɛla
-lli tanitula
+tanitula lli
 məra
-xzayət əlle
+əlle xzayət
 ʾawwa
 qaṣra
 kulle
@@ -156621,20 +156621,20 @@ bənyɛle
 pyaša
 xa kawe
 ʾayya ži
-rešux ila šop
+ila šop rešux
 ʾaxni
 amrəxlux ṱ
-qəṣṣəttən əllux
-ʾu baθər
+əllux qəṣṣəttən
+baθər ʾu
 priqalən
 qəṣṣəttən
 rešux
 pɛrməxle
 mattəxle
-ayya gu d
+gu ayya d
 kawe
 məre
-yxaləf ma
+ma yxaləf
 bayitu ʾax
 məre
 xazəx
@@ -156664,7 +156664,7 @@ pišla
 susta
 tiwɛle
 l xaṣa
-w diya
+diya w
 zilɛle
 gu ʾaqara
 gəlla gu
@@ -156672,15 +156672,15 @@ w ʾaxxa
 tamma
 ʾu muθyəlla
 məre
-malka bron
+bron malka
 ʾəlle
 diye
 məre
 wudla
-xa bena
+bena xa
 xeta
-dɛṛa t
-xa bena
+t dɛṛa
+bena xa
 xeta
 məre
 bayət
@@ -156689,7 +156689,7 @@ məxyəlla
 ṭḷa
 šarbəṭane
 xene
-qɛse t
+t qɛse
 məxyɛle
 ʾəlla
 diṛtɛla
@@ -156709,17 +156709,17 @@ diye
 ziltɛla ʾu
 maxðorəlle
 gu ʾaqara
-xa bena
+bena xa
 hadəx
 məre
 madərre
 xṭiθi
 diye
-wudle la
+la wudle
 hadəx
 qimtɛla
 mxiθɛla
-ṭḷa qɛse
+qɛse ṭḷa
 xene
 ʾap ʾaw
 diṛɛle
@@ -156727,14 +156727,14 @@ pištɛla
 lɛle
 ʾiθwala
 xmərta
-šənθa t
+t šənθa
 mattawala
-rəš ṣadrət
+ṣadrət rəš
 wɛrda
 y ʾu azawa
 ʾiθwa
 hambišaye
-amrəxla y
+y amrəxla
 ʾiθwa
 xa gəppa
 gawe
@@ -156742,16 +156742,16 @@ diye
 ʾarbi
 hambišaye
 y azawa
-atwawa y
+y atwawa
 gawey
 xamlawa
 mənney
-aθyawa ʾu y
+y aθyawa ʾu
 xa yoma
 yoma
-tre t
+t tre
 yoma
-ṭḷaθa t
+t ṭḷaθa
 ʾaw yala
 qimle
 npille
@@ -156783,11 +156783,11 @@ diya
 qimɛle
 zilɛle
 qṭiləlla
-ʾarbi ʾan
+ʾan ʾarbi
 hambišaye
 dəryəlla ʾu
 naθyaθey
-priməlla w
+w priməlla
 dəryəlla
 gu xurje
 diye
@@ -156797,64 +156797,64 @@ siqa
 l gare
 siqa
 l gare
-ʾu qðixilla
-tre ʾan parre
+qðixilla ʾu
+tre parre ʾan
 ʾu xarθa
 simɛrxa
 θiθɛla
 simɛrxa
-θiθɛla w
+w θiθɛla
 tiwɛle
 l xaṣət
-simɛrxa w
-xa bena
+w simɛrxa
+bena xa
 ʾəθyɛle
 ʾəθyɛle
-azəl ṱ ta
+ta azəl ṱ
 bɛθe
 diye
 ṛišɛle ʾu
 wɛrda
 wiðɛle
 gane
-nəšra ʾax
+ʾax nəšra
 ʾu ṣəṭyɛle
 bara
 diya
 ṣəṭyɛle
 bara
 diya
-t maxele ta
-xa bena
+t ta maxele
+bena xa
 parizada
 ṣrixtɛla
 pliṭṭɛla
 ʾap ʾay
-hawa gu
+gu hawa
 ziltɛla
 məra
-daqrət la
+la daqrət
 biye
 diye
-xətnux ile
-daqrət la
+ile xətnux
+la daqrət
 biye
 diye
-xətnux ile
+ile xətnux
 qimɛle ʾu
 diṛɛle
 wɛrda
 zila
 l qaṣre
-ʾap ʾaw ʾu
+ʾap ʾu ʾaw
 ʾəθyɛle
 muttɛθəlle
 bɛθa kəs
 diya
-w m tama
+m w tama
 hodəx
 tiwɛle
-l xaṣə
+xaṣə l
 suse
 diye
 ʾəθyɛ
@@ -156881,9 +156881,9 @@ murra
 ʾana
 mp̣uṛmali
 hot muθyəlla
-ʾu ganux
-w basma
-b gawrannux
+ganux ʾu
+basma w
+gawrannux b
 qime
 m tama
 hodəx
@@ -156891,33 +156891,33 @@ gwirela
 ġðaðe
 šwiqali ʾu
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 xa rustam
 šəmmət
 babe
 diye
-zal wewa
+wewa zal
 ʾawwa
 siqa wewa
 l ṭura
 l ṣɛda
 ʾəθyɛle
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 mən ʾirən
 ʾəθyɛle
 gu ṭura
 xəzyɛle
 plišela
-ġðaðe m
-tatar i
-i sleman
+m ġðaðe
+i tatar
+sleman i
 səndi
 qṭilɛle
-zal qa
+qa zal
 zille
 l ʾirən
 pišle
@@ -156965,11 +156965,11 @@ dunye
 talga
 ʾawwa
 biye
-b suse bə
+b bə suse
 ʾawər
 xa gu gəppa
 mṭošele
-qam talga
+talga qam
 yaʿni
 talga
 xɛlanɛle
@@ -156977,11 +156977,11 @@ wirre
 gu gəppa
 gašəq
 hatxa
-l bar eli
+eli l bar
 ʾina
 kake
 gašəq
-təxti bar
+bar təxti
 ʾina
 kake
 gašəq
@@ -156993,14 +156993,14 @@ he
 ʾamər
 ʾawwa
 rešət
-bəṛ našɛle
+našɛle bəṛ
 dwiqtəlle
 šaθa
 məryɛle
-šuryɛle ʾu
+ʾu šuryɛle
 margode
-ʾu tiwa
-l xaṣə
+tiwa ʾu
+xaṣə l
 suse
 diye
 ṣəlyɛle ʾu
@@ -157009,7 +157009,7 @@ yəmme
 ðila
 məre
 broni
-ma lux
+lux ma
 məre
 yəmmi
 mo
@@ -157022,7 +157022,7 @@ hole
 ləbbi
 pqiya
 məre
-ma lux
+lux ma
 babi
 mur
 kaza
@@ -157053,7 +157053,7 @@ gawaya
 balota
 ləbbi
 pqile
-hal ʾu diya
+hal diya ʾu
 šaθana
 məra
 broni
@@ -157061,7 +157061,7 @@ la yaðət
 ʾaw
 modile
 məre
-yəmmi la
+la yəmmi
 lɛðən
 modile
 məra
@@ -157071,30 +157071,30 @@ məre
 dax it
 mara
 məre
-babi rešət
+rešət babi
 məre
 ʾɛnile
 qṭiləlle
 məra
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
-gu m ʾirən
+m gu ʾirən
 ʾəθyɛle
 qṭiləlle
 mara
 qimɛle
-rešət ʾən
+ʾən rešət
 babe
 diye
-ṭura ʾax
+ʾax ṭura
 hole ʾu
 qṭila
-l tatar i
-i sleman
+l i tatar
+sleman i
 səndi
 lɛka
-azəl bṱ
+bṱ azəl
 məre
 azən ṱ
 šaqlən
@@ -157117,15 +157117,15 @@ xa maθa
 xwarzaye
 bejəm
 ʾaw
-dana gu ɛ d
+dana gu d ɛ
 bəryɛle
-dana gu ɛ d
+dana gu d ɛ
 ile ṱ
 xale
 diye
 pliṭa
 zala
-šaqəl t ta
+t ta šaqəl
 tole
 bejəm
 bəryɛle
@@ -157169,7 +157169,7 @@ di
 ṭapele
 xale
 diye
-gu d ay maθa
+maθa gu d ay
 lɛðele ʾaw
 xale
 diye
@@ -157196,11 +157196,11 @@ manit
 ʾawwa
 šluxayɛle
 ṭripəlla
-l ġðaðe
+ġðaðe l
 xale
 diye
 napəl
-qam bejəm
+bejəm qam
 bejəm
 hade
 bərya
@@ -157216,7 +157216,7 @@ maniwət
 məre
 ʾana
 bronət
-iwən zal
+zal iwən
 məre
 xali
 ʾati
@@ -157229,7 +157229,7 @@ qu
 mara
 qimela
 piše
-b ġðaðe
+ġðaðe b
 məre
 xali
 məre
@@ -157246,10 +157246,10 @@ dewa
 zar
 dewa
 zar
-gnay la yoma m
+m la gnay yoma
 hole
 ʾəθya
-ʾax xa kəxwa
+xa ʾax kəxwa
 hole
 tiwa
 baθər
@@ -157268,8 +157268,8 @@ barya
 ʾana
 pɛšən
 laxxa
-ʾati ʾu
-ṱ asqət
+ʾu ʾati
+asqət ṱ
 ʾap ʾana
 asqən ṱ
 mənnux
@@ -157283,7 +157283,7 @@ asqən ṱ
 ʾana
 l xoði
 marɛle
-brela la
+la brela
 ʾamər
 amrənnux ṱ
 xa məndi
@@ -157339,14 +157339,14 @@ xa
 šapirta
 bratət
 malka
-maġrəb t
+t maġrəb
 hole
 šqiləlla
 dewa
 zar
 hole
 muθyəlla
-gu ɛ d
+gu d ɛ
 gəppiθa
 hola
 šqala
@@ -157370,33 +157370,33 @@ xəzyəlla
 baxta
 məra
 baxta
-it ʾən
+ʾən it
 ṣiya
 hoʾla
 miya
-it kpina ʾən
+ʾən kpina it
 hoʾle
 xul
 məre
 maṛəšle
 ʾana
-ʾəθya hon
-qaṭlənne t ta
+hon ʾəθya
+t ta qaṭlənne
 mara
 muṛaštəlle
 qimɛle
-ʾax ile ṱ
+ile ʾax ṱ
 qima
-šuryela ʾu
+ʾu šuryela
 plaša
-ġðaðe m
+m ġðaðe
 ʾawwa
 maxele
 sɛpe
 l qðala
-d o dewa
+o d dewa
 zar
-ʾu ṣale
+ṣale ʾu
 kəndala
 bejəm
 ʾiθaθe
@@ -157410,15 +157410,15 @@ qiða
 dɛre
 xɛla
 načəlle
-ʾo šəryoxa
+šəryoxa ʾo
 ʾu ʾaθe
 šaqəlla
-xa ʾaqrət
+ʾaqrət xa
 bəṭma
 šaqəlla
 šaməṭla ʾu
 taqane
-ʾu mattule
+mattule ʾu
 b reše
 ʾamər
 hayyo
@@ -157427,19 +157427,19 @@ hatxa
 mənnux
 ʾati
 xali
-qəm qaṭlətle
+qaṭlətle qəm
 lɛka ʾu
 b šarṭət
-qam ʾiθaθi
+ʾiθaθi qam
 ʾawwa
 siqɛle
-l gəppa o
+l o gəppa
 ʾo qɛsa
 bəṭma ʾɛ
 hola
 rš ruše
 siqɛle
-xa bena
+bena xa
 ʾamər
 xwarzayi
 ʾana
@@ -157447,7 +157447,7 @@ qṭiləlle hon
 dewa
 zar
 ʾaθət la
-ṱ awðət
+awðət ṱ
 ču məndi
 qimɛle
 muθyəlla
@@ -157460,11 +157460,11 @@ mənne
 mənne
 diye
 zilela
-bejəm ile
+ile bejəm
 bratɛla ʾu ʾɛ
-ʾu rustam
+rustam ʾu
 rustam
-zal bronət
+bronət zal
 mara
 qimela
 zilela
@@ -157481,11 +157481,11 @@ maθa
 gu ɛni d
 mðita
 xaye
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 muttəllɛle
-ʾo čadre
+čadre ʾo
 diye
 suse
 diye
@@ -157494,8 +157494,8 @@ tama
 ʾani
 tre
 wawa susawaθa
-ap w
-brata ʾɛ
+w ap
+ʾɛ brata
 mənney
 pišela ʾu
 tama
@@ -157504,8 +157504,8 @@ ile ṱ
 rustam
 ʾaw
 mbaqorəlle
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 bejəm
 litle
@@ -157525,15 +157525,15 @@ bejəm
 diye
 widla
 hujum
-qəm čarxile
-qəm čarxile
+čarxile qəm
+čarxile qəm
 dawqile
 ʾimət
-qəm dawqile
+dawqile qəm
 məra
 bratət
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 hallule
 l ʾiði
@@ -157548,8 +157548,8 @@ mara
 yiwəlle
 l ʾiðət
 bratət
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 qimtɛla
 šqilta
@@ -157558,22 +157558,22 @@ neriya
 goṛa
 primtəllela ʾu
 yiwtəlle
-an d ta
+an ta d
 xulame
 priməlle
-ʾu bəsre
+bəsre ʾu
 zədyəlle
-gəlde ʾo
+ʾo gəlde
 mubyəlle
 škaθe
 wawa goṛe
 mubyəlle
 muttəlle ʾu
 gu dukθa
-plaša ta
+ta plaša
 məra
 ʾawwa
-bejəm ile
+ile bejəm
 hola
 qəm qaṭlile
 hole ʾu
@@ -157582,8 +157582,8 @@ hole ʾu
 mare
 škaθa wawa
 mara
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 ʾaw
 sparɛle
@@ -157594,21 +157594,21 @@ rumxa
 atwi ṱ
 l xaṣət
 susa
-aθi ʾu ṱ
+ʾu aθi ṱ
 maxa
 b rumxa
-l ġðaðe
+ġðaðe l
 mara
 plišela
 rustam
-tatar ʾu i
-i sleman
+i ʾu tatar
+sleman i
 səndi
 məxyela
-l ġðaðe
+ġðaðe l
 məxye
 məxyela
-l ġðaðe
+ġðaðe l
 məxyela
 ʾap xa
 lɛle
@@ -157628,15 +157628,15 @@ daṛmane
 bejəm
 hole
 kəs bratət
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 ʾaw
 xumɛθəlle
 tagborəllela
 mənna
 diya
-gawrale t ta
+t ta gawrale
 mara
 mšudrəlle
 suse
@@ -157647,14 +157647,14 @@ zilɛle
 l bɛθa
 yəmme
 diye
-ʾu baxte
+baxte ʾu
 diye
 tama
 xəzyəlle
 susa
 ʾina
 sapiqa
-kəmət wawa
+wawa kəmət
 yəmme
 diye
 mp̣uṛmela
@@ -157701,24 +157701,24 @@ drayɛla
 b səkθa
 drayɛla
 xɛla
-axxa w
+w axxa
 tamma
 di
 bare
 bronət
 rustam
-gu danət ɛ d
+gu d danət ɛ
 brele
 bronət
 rustam
 modi
 widla
 qimla
-maṭəmile qəm
+qəm maṭəmile
 xəlya
 qəm maštile
 di
-ʾu malušile
+malušile ʾu
 julle
 w ʾaxxa
 tamma
@@ -157743,9 +157743,9 @@ məre
 mattuli
 l xaṣe
 muttəlle
-l xaṣə
+xaṣə l
 susa
-daṛmana ʾu
+ʾu daṛmana
 yiwəlla
 l ʾiðe
 diye
@@ -157777,7 +157777,7 @@ mxaya
 goyaθət
 susa
 susa
-jwijle la
+la jwijle
 pišɛle
 majbur
 ṣəlyɛle
@@ -157809,14 +157809,14 @@ mənnux
 ʾamər
 ʾana
 bronət
-iwən rustam
+rustam iwən
 ʾamər
 broni
 qaṭlətli
 ʾap ati
 qimɛle
-dwiqɛle w ʾu
-šwiqɛle w
+w ʾu dwiqɛle
+w šwiqɛle
 yiwəlle
 daṛmane w
 mbusməlle
@@ -157826,11 +157826,11 @@ mara
 qimɛle
 mšurya
 zila
-xa bena
+bena xa
 xeta
 yiwəlla
 xabra
-palši t ta
+t ta palši
 našə
 ʾalma
 kulle
@@ -157838,7 +157838,7 @@ jmiyela
 tama
 xa kut
 tiwɛle
-l xaṣə
+xaṣə l
 susət
 gane
 diye
@@ -157850,20 +157850,20 @@ gaye
 šurela
 mxaya
 hadəx
-ʾa t ʾarbe
+t ʾarbe ʾa
 məxyale
 rumxe
 diye
-gu ṣadrət
+ṣadrət gu
 ʾawwa
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
-qəm xašəlle
+xašəlle qəm
 ʾara
-qəm qaṭəlle
+qaṭəlle qəm
 baθər
-qəm qaṭəlle
+qaṭəlle qəm
 ʾanna
 xene
 kulla
@@ -157875,12 +157875,12 @@ zilla
 qimɛle
 θiθɛla
 bratət
-tatar i
-i sleman
+i tatar
+sleman i
 səndi
 θela
 mən bejəm
-qəm šaqəlla
+šaqəlla qəm
 mɛθela
 ʾap yaha ʾu
 brata
@@ -157890,10 +157890,10 @@ bratət
 malkət
 maġrəb
 ʾap ʾay
-qəm šaqəlla
+šaqəlla qəm
 bejəm
 mɛθela qəm
-ʾu θela
+θela ʾu
 ṭḷaθney
 θela
 bɛθa
@@ -157905,20 +157905,20 @@ xa tuniθa
 ila ṱ
 θaya
 l bali
-amriwala y
+y amriwala
 rustamo
-zalo ʾu
+ʾu zalo
 rustam
 bron t
-zal wewa
+wewa zal
 ʾanna
 xakma
 naše
-gabbare wɛwa
+wɛwa gabbare
 xɛlane
 paxrey
 xɛlane wɛwa
-ʾu goṛe wɛwa
+wɛwa goṛe ʾu
 gabbare
 ʾap xa
 la mṣaya
@@ -157927,8 +157927,8 @@ ga ʾɛ
 rustamo
 mtanɛ
 mənne
-amri y
-gət ʾɛ
+y amri
+ʾɛ gət
 daməxwa
 ṭḷaθa
 yomaθa
@@ -157948,11 +157948,11 @@ xa naša
 maqrəṭwa
 kawse
 diye
-amrile y
+y amrile
 ḥallaqa
 tiwɛle
 zalo
-qam tarət
+tarət qam
 qaṣre
 diye
 ḥallaqa ʾo
@@ -157969,23 +157969,23 @@ goṛa
 la
 maṭyawa
 ʾiðe
-gu rešət
+rešət gu
 zalo
 mattuwa
 semalta
-xaṣe gu
+gu xaṣe
 diye
-asəqwa ʾu y
-gu rešə
+y asəqwa ʾu
+rešə gu
 semalta
 maqrəṭwa
 kawsət
 zalo
-qəm qayəṣle
+qayəṣle qəm
 kawse
 diye
 xirre
-gu rešət
+rešət gu
 zalo
 ʾiθwa
 šaqyaθa
@@ -157993,11 +157993,11 @@ brinane
 goṛe
 raba
 məre
-zalo ṭla
+ṭla zalo
 zalo
 ʾanna
 modila
-rešux gu
+gu rešux
 ʾanna
 šaqyaθa
 modila
@@ -158006,16 +158006,16 @@ brinane
 məre
 hadiya
 kawsi quṣ
-ʾaw lɛle
+lɛle ʾaw
 šulux
 məre
-b la alaha
+la b alaha
 la ʾən
 galətli
 ʾanna
 šaqyaθa
 modi
-rešux gu
+gu rešux
 ʾanna
 brinanət
 modila
@@ -158028,12 +158028,12 @@ twira
 rešux
 wiða
 brinane
-rešux gu
+gu rešux
 məre
 la ʾən
 galətli
 ʾana
-qɛṣənne lɛ
+lɛ qɛṣənne
 kawsux
 zədyale
 maqaṣte
@@ -158048,22 +158048,22 @@ guda
 mare
 naθyaθɛle
 məre
-b la alaha
+la b alaha
 la
 qɛṣənne
 rešux
-qaṭlətli ʾən
+ʾən qaṭlətli
 la
 qɛṣənne
 kawsux
 ʾəlla
-ṱ amrətli
+amrətli ṱ
 ʾanna
 brinanela ma
-rešux gu
+gu rešux
 məre
 amrənnux ṱ
-de hayyo
+hayyo de
 tu tiwa
 məre
 ʾana
@@ -158071,17 +158071,17 @@ bayənwala
 xa brata
 bratət
 ʾaprəsyaw
-fəllən t
+t fəllən
 ʾaθṛa
 xa ʾaθṛa
 rəḥqa wewa
 məre
-azənwa y
+y azənwa
 mɛθoyəlla
 lɛ
 yawiwala
 ʾəlli
-azənwa y
+y azənwa
 b xɛla
 mɛθoyəlla
 palšəxwa
@@ -158089,9 +158089,9 @@ palšəxwa
 ʾap ʾani
 naše
 ferəsse
-ʾu gabbare
+gabbare ʾu
 palšəxwa
-ʾu ʾanna
+ʾanna ʾu
 brinane
 kulla
 an d
@@ -158102,7 +158102,7 @@ gu reši
 riqən ʾu
 ʾəθya
 brata
-lan məṣya
+məṣya lan
 in ṱ muθyəlla
 rustamo
 brone
@@ -158116,11 +158116,11 @@ qəm šamela
 šmiyale ʾimə
 krible
 raba
-ʾap ʾaw sab
+ʾap sab ʾaw
 raba
-ferəssa wewa
-xɛlana ʾu
-naša ču
+wewa ferəssa
+ʾu xɛlana
+ču naša
 gu d ʾaθṛa o
 la maṣe
 biye
@@ -158143,7 +158143,7 @@ kriba
 ruše
 diye
 qiθɛle
-b yaṣilət
+yaṣilət b
 tara
 tlixɛle
 guda
@@ -158156,7 +158156,7 @@ zalo
 məre
 ṭla ḥallaqa
 xzelux
-la məri
+məri la
 guda
 mare
 naθyaθɛle
@@ -158171,7 +158171,7 @@ məre
 diye
 garəg
 ʾamrət
-brata ʾay
+ʾay brata
 ʾɛkɛla
 nəmu
 ʾiθ
@@ -158189,17 +158189,17 @@ qəṣṣət ʾu
 hatxɛla
 kulla
 tuniθa
-ɛ d brata
-qəm mtanela
-ʾaθṛa ʾu
+d ɛ brata
+mtanela qəm
+ʾu ʾaθṛa
 ʾɛkɛle
-ʾɛni ʾu wewa
+wewa ʾɛni ʾu
 twirəlle
 reše
 diye
 rustamo
 kribɛle
-raba w
+w raba
 qimɛle
 pliṭɛle
 ʾəθyɛle
@@ -158207,26 +158207,26 @@ zala w
 šqiləlle
 suse
 diye
-dəryəlle ʾu
+ʾu dəryəlle
 sarga
-l xaṣe w
+l w xaṣe
 gurza
 ga ʾɛ
 ʾiθwa
 gurza
-geb m sɛpa
+m geb sɛpa
 xa qɛsa
 rixɛle
 gu reše
 diye
 guttɛle
 qirɛle
-amriwala y
+y amriwala
 gurza
-ži ʾay
+ʾay ži
 šqiləlla
-naša ču
-mṣewa la
+ču naša
+la mṣewa
 taqəlwala
 gurzət ʾa
 rustamo
@@ -158238,7 +158238,7 @@ yaʿni
 zawda
 m əmma kiloʾe
 yuqra
-ɛ d gurze
+gurze d ɛ
 wawa diye
 qimle
 zala
@@ -158249,15 +158249,15 @@ zala
 pliṭle
 m maθa
 ʾitwale
-xa xurzaya
+xurzaya xa
 bɛθe
 diye
 šəttət
-wewa maθa
+maθa wewa
 šəmme
 diye
 bežəm wewa
-qəm xazele
+xazele qəm
 xale
 diye
 rustamo
@@ -158280,21 +158280,21 @@ xorta
 makyopəlle
 yalunke
 zore
-θaya hola
+hola θaya
 saqa ʾu
-b a xorta
+b xorta a
 marpoyəlle
 rešət
 xorta
 xorta
 hola
 zyana
-ʾan yalunke
+yalunke ʾan
 zore
 xa kut
 hole
 zdayəlle
-bar ða gotət
+ða bar gotət
 dunye
 rustamo
 məre
@@ -158302,7 +158302,7 @@ xwarza
 la wuð
 hatxa
 qṭul
-bnonə ʾanna
+ʾanna bnonə
 naše
 kulla
 məre
@@ -158316,7 +158316,7 @@ azən ṱ
 ʾitli
 šula
 ʾati
-bɛθa si
+si bɛθa
 məre
 la
 xali
@@ -158333,11 +158333,11 @@ qimɛle
 šlixəlla
 xorta
 muttəlla
-rəš w ruše
+w rəš ruše
 zilɛle
 xirre
 rustamo
-qəm xazele
+xazele qəm
 ʾa xorta
 šlixəlla
 muttəlla
@@ -158345,13 +158345,13 @@ rəš ruše
 məre
 ʾawwa
 balayɛle
-ʾawwa yan
+yan ʾawwa
 dawəq
 wajju
 ʾawwa ʾu
-zora wewa ṭəfl
+wewa zora ṭəfl
 b šəmma
-ʾu zilela
+zilela ʾu
 zilela
 xa yoma
 tre
@@ -158364,13 +158364,13 @@ dmixlay
 xa dukθa
 bena
 rustamo
-gət ʾɛ
+ʾɛ gət
 daməx
 ṭḷaθa
 yomaθa
 ṭḷaθa ʾu
 lɛlawaθa
-awe y
+y awe
 dmixa
 lɛ ṛayəš
 məre
@@ -158378,11 +158378,11 @@ bežəm ṭla
 xwarzaye
 diye
 ʾati
-la damxeti də
+də la damxeti
 ʾana
 damxən
 laxxa
-ʾaθi la t
+t la ʾaθi
 genawe
 ganwile
 susa
@@ -158392,31 +158392,31 @@ bežəm
 hole
 tiwa
 ḥaras ile
-xale t
+t xale
 diye
 ʾa ʾu xorta
-b ho ʾiðe
+ho b ʾiðe
 diye
 hole
 zala w
 θaya
 mṭawole
-b a xorta
+b xorta a
 ʾay
 ʾasas ʿal
 kupale
 diyela
 la
 xorta
-xa bena
+bena xa
 pišle
 lɛle
-qəm xazele
+xazele qəm
 xa məndi
 θaya
 raqa
 susa xaṣ
-lhaya ʾax
+ʾax lhaya
 bərqa ʾax
 lhaya
 beṛa
@@ -158426,22 +158426,22 @@ naše
 lɛðəx
 modi
 θele ʾu
-beṛa ʾo
+ʾo beṛa
 ʾo nura
-məndi ʾo
+ʾo məndi
 la ðile
-susa wewa
-naša wewa
+wewa susa
+wewa naša
 l xaṣe
 b lɛle wewa
 xzele
-nura ʾax
-beṛa w
+ʾax nura
+w beṛa
 siqle
 siqle
 wirre
 xa gu gəppa
-o gu d ṭura
+gu d ṭura o
 t wewa
 baθər
 xaṣey
@@ -158486,7 +158486,7 @@ qaṭiya
 mxaya
 ʾəlle
 diye
-lɛle ʾu
+ʾu lɛle
 npila
 ču məndi
 ʾina
@@ -158496,11 +158496,11 @@ hola
 npile
 tamaha
 mazloqe
-lan ðaʾa
+ðaʾa lan
 modile
-hole siqa
+siqa hole
 wirre
-gu waha d
+waha gu d
 gəppa
 ʾawwa
 məre
@@ -158510,12 +158510,12 @@ xzele
 ʾina
 kulla
 dawe
-anna ʾu m
+m ʾu anna
 mujawharat
-wɛwa t
+t wɛwa
 təlye
-b qðalə
-ɛ d brata
+qðalə b
+d ɛ brata
 npile
 l ara
 məre
@@ -158546,7 +158546,7 @@ kaze
 ʾati kli
 məre
 la
-ʾana ṱ asqena
+ṱ ʾana asqena
 ʾati
 tu laxxa
 ʾana
@@ -158554,15 +158554,15 @@ tu laxxa
 hatxa
 wewa rəqqiyana
 yalunka
-zora wewa
+wewa zora
 b šəmma
 ʾina
 ʾap aw
-ferəssa wewa
+wewa ferəssa
 qimɛle
 siqa
 siqa
-gu d aw
+gu aw d
 gəppa
 ʾina
 ʾaw
@@ -158572,7 +158572,7 @@ dmixa
 reše
 diye
 muttəlle
-gu xanət
+xanət gu
 ða brata
 ða brata
 raba
@@ -158590,15 +158590,15 @@ nablənnəx
 məra
 ʾəlle
 diye
-qima qu
+qu qima
 sigən
 ʾati
 ṣligena
-la ṛayəš t
+t la ṛayəš
 ʾawwa
 ʾawwa
 naša
-ṛišle ʾən
+ʾən ṛišle
 ʾawwa
 ferəssɛle
 qaṭəllux ʾati
@@ -158608,17 +158608,17 @@ b alaha
 ʾəlla
 maṣlənnəx
 ʾana
-ʾile ʾən
+ʾən ʾile
 ʾurza
 gawṛa
-qayəm xoš
+xoš qayəm
 mjarbənne
 ṛišle ʾaw
-ʾiman t
+t ʾiman
 ṛišle
-qəm xazele
+xazele qəm
 kaze
-ṣligən xoš
+xoš ṣligən
 yalunka
 ʾati
 zorɛwət
@@ -158627,12 +158627,12 @@ qaṭlənnux
 məre
 la
 b alaha
-qaṭlənnux ʾən
+ʾən qaṭlənnux
 ʾayya
 brata
 šaqlənna
-ʾən palṭən la
-axxa m
+la ʾən palṭən
+m axxa
 pišle
 majbur
 ʾap
@@ -158641,7 +158641,7 @@ t wewa
 murqəlla
 ʾa brata
 ʾap ʾaw
-ferəssa wewa
+wewa ferəssa
 raba
 ʾayya
 baxta
@@ -158651,13 +158651,13 @@ twira
 twira
 reše
 diye
-ayya m reš wawa d
+reš wawa m ayya d
 ʾawwa
-ferəssa wewa
+wewa ferəssa
 zila
 šqiləlla
-mən w baba
-yəmma w
+w mən baba
+w yəmma
 jliwəlla
 muθyəlla
 murəlla
@@ -158671,13 +158671,13 @@ dwiqəlle
 bežəm
 siṛəlla
 ʾaqle
-iθaθe w
+w iθaθe
 zədyəlle
 b tarət
 gəppa
 zədyəlle
 b tarət
-gəppa w
+w gəppa
 ṣəlyɛle
 mčonəgla
 mčonəgla
@@ -158693,7 +158693,7 @@ dwiqəlle
 dwiqəlle
 ʾu šəryəlla
 ʾaqlaθe
-iθaθe w
+w iθaθe
 məre
 modi ha
 məre
@@ -158701,24 +158701,24 @@ hal
 qəṣṣət ʾu
 hatxɛla
 məre
-ʾaw lɛle kli
+kli lɛle ʾaw
 šulux
 asqən ṱ
 ʾana
-b gani
+gani b
 qimɛle
 rustamo
-ʾu siqɛle
+siqɛle ʾu
 gu gəppa d o
 xirre
-ʾina naša ʾo
+ʾina ʾo naša
 tama
 ʾawwa
 danət ʾɛ
-qəm xazele
+xazele qəm
 qəm yaðele
 ðile
-rustamo ile ṱ
+ile rustamo ṱ
 yaðewa
 xa naša
 gabbarɛle
@@ -158744,13 +158744,13 @@ b rešət
 babux
 ʾayya
 brata
-pɛša la
+la pɛša
 biyux
 qima
 məxyəlla
 gurza
-gu rešət
-naša d o
+rešət gu
+o d naša
 qṭiləlle
 ʾu ʾa brata
 šqiləlla
@@ -158764,9 +158764,9 @@ susa xaṣ
 azəl ṱ
 ʾaθṛət
 babə
-ɛ d brata
+d ɛ brata
 babə
-d a brata
+d brata a
 ʾile
 ʾap ʾaw
 w gabbara
@@ -158774,7 +158774,7 @@ w gabbara
 naše
 rabe
 gabbare
-ʾaθṛa ta
+ta ʾaθṛa
 xrena
 šəmme
 diye
@@ -158795,30 +158795,30 @@ məre
 la
 azən ṱ
 nablənna
-baba kəs
+kəs baba
 diya
 ṭalbənna
 mənne
 diye
-lɛle ʾən
+ʾən lɛle
 yawəlla
 qaṭlənne
 šaqlənna
-b xɛla w
+w b xɛla
 xaraye
 maqəlbənna
 hatxa sab
-gabbara wewa
+wewa gabbara
 la baye
-ṱ awəðwa
+awəðwa ṱ
 lebe
-ʾu zilela
-azi ṱ ha
+zilela ʾu
+azi ha ṱ
 maṭi
 l ʾaθṛət
-d aw
+aw d
 babə
-d a brata
+d brata a
 hadiya
 rustamo
 šqilale
@@ -158830,10 +158830,10 @@ diye
 zilla ʾu
 b ʾurxa
 məre
-xwarzaye ṭla
+ṭla xwarzaye
 diye
 bežəm
-ṱ azəx
+azəx ṱ
 l ʾaθṛət
 ʾaprəsyaw
 babət
@@ -158842,7 +158842,7 @@ brata
 diye
 rəḥqɛle
 zilla
-b yomaθa
+yomaθa b
 bežəm
 xwarzaye
 diye
@@ -158861,48 +158861,48 @@ la
 babila
 nablənna
 ṭla babi
-azexi bas ṱ
+bas azexi ṱ
 ṭalbəxla
-baba m
+m baba
 diya
-sab ʾanna
+ʾanna sab
 ʾaširattela
 naše
 gabbarela
-barya la
+la barya
 ganwi
 ʾən salbi
 azəl ṱ
 ṭaləbla
-be baba m
+m be baba
 diya
 xaraye
 mɛθela
 nabəlla
 ṭla babe
 diye
-b rəš d ayya
+b ayya rəš d
 brata
 rešət
 babe
 diye
-zalo t
+t zalo
 θele
 twira
 rabe
 gaye
 zilela
 yomaθa
-xa yoma w
+xa w yoma
 tre
 ṭḷaθa ʾu
-ila ṱ ha
+ila ha ṱ
 məṭye
 ʾaθṛət
 baba
-d a brata
+d brata a
 məṭyela
-mðita ða
+ða mðita
 qimela
 məxyela
 k̭winay
@@ -158917,25 +158917,25 @@ diye
 ʾati
 tu tiwa
 laxxa
-ʾu susi
+susi ʾu
 payəš
 laxxa
-ʾana ʾu
+ʾu ʾana
 brata
 masqənna
-baba be
+be baba
 diya
 qimɛle
 dwiqəlla
 ʾið brata
-ʾu siqa
+siqa ʾu
 siqa
 mbuqrɛle
 moxəzyəlle
 naše ʾan
 bɛθət
 babə
-d a brata
+d brata a
 məra
 ʾawwɛle
 siqle
@@ -158952,7 +158952,7 @@ məra
 xa naša
 hole
 muθyəlla
-ʾu lɛðəxle
+lɛðəxle ʾu
 ʾawwa
 naša
 m ɛkɛle
@@ -158962,17 +158962,17 @@ brata
 pliṭle
 qamθe
 diye
-qəm xazele
+xazele qəm
 mguzgəzla
 lašše
 diye
 zdile
 məre
-ʾo ile ṱ
+ile ʾo ṱ
 murqəlla
 brati
 raba
-gabbara wewa
+wewa gabbara
 kulla
 ʾaskarwaθi
 lɛwa
@@ -158984,27 +158984,27 @@ xoðe
 diye
 məṣya
 šqille
-brata ʾɛ
-mən d aw
+ʾɛ brata
+mən aw d
 lazəm
-raba ʾawwa
+ʾawwa raba
 ferəssɛle
 zdile
 qima
 siqɛle
 dəryɛle
-šlama ʾəlle
+ʾəlle šlama
 wira
 tiwa
 gu diwən
-ʾu ʾəθyela
+ʾəθyela ʾu
 guṛane
-naša d o w
+w o d naša
 ferəsse
 diye
 kulla
 tiwe
-gu diwən ila
+gu ila diwən
 ʾu brata
 murəlla
 xa gu manzəl
@@ -159013,22 +159013,22 @@ lɛla
 mbaqorəlle
 m ɛkɛwət
 naše ʾan
-y le mbaqri
+le y mbaqri
 mən ʾarxa
 ʾati
 m ɛkɛwət
 tiwela
 muθye
-ʾixala w
+w ʾixala
 xilela
 ʾaw baba
-ɛ d brata
+d ɛ brata
 šəmme
 diye
 ʾaprəsyaw
 hole
 məre
-xa ṭla
+ṭla xa
 xulame
 diye
 məre
@@ -159038,8 +159038,8 @@ qawa
 mpaleti
 mattətla
 ʾaqlux
-rəš qalunka
-d awwa
+qalunka rəš
+awwa d
 naša
 torətle
 torətle
@@ -159053,13 +159053,13 @@ litwa
 qalunka
 maḷɛwa
 tutun
-ʾu garšiwa
+garšiwa ʾu
 rustamo
 qalunke
 diye
 grišle
 rzigle
-qəm mattule
+mattule qəm
 hatxa
 l ʾara
 muθye
@@ -159069,11 +159069,11 @@ yawi
 diye
 šqille
 qawa
-šate ṭla
+ṭla šate
 qawači ʾo
 qəm mattula
 ʾaqle
-rəš qalunka
+qalunka rəš
 qəm tawərre
 rustamo
 danə ʾɛ
@@ -159081,24 +159081,24 @@ xzele
 qalunke
 twira
 brikɛwa
-rəš bərke
+bərke rəš
 dəryəlla
 ʾiðe
 diye
-l d o qawači
+qawači l o d
 tqiləlle
 məxyəlle
 l ʾara
 miθɛle
-naša ʾo
+ʾo naša
 danə ʾɛ
 ile ṱ
 wiðəlle
 ʾawwa
 šula
-goṛa ʾo
-d a maθa
-a mðita d
+ʾo goṛa
+maθa d a
+mðita d a
 ʾaprəsyaw
 amrəxle ṱ
 rayyəs
@@ -159121,7 +159121,7 @@ biyɛni
 lɛle
 w mṣuθa
 qimɛle
-naša ʾo
+ʾo naša
 šqiləlle
 nubləlle
 tiwɛle
@@ -159131,7 +159131,7 @@ tama
 ʾo lɛle
 dmixɛle
 rustamo
-ani d kəs
+kəs ani d
 ʾarxa
 diyeyile
 dəryəlle
@@ -159139,11 +159139,11 @@ dəryəlle
 xa gu manzəl
 dmixɛle
 ʾaw
-daməx ʾi
+ʾi daməx
 ṭḷaθa
 yomaθa
-qayəm la
-anna w
+la qayəm
+w anna
 la ṣbara
 azi ṱ
 marəšile
@@ -159158,15 +159158,15 @@ zala
 ða gotət
 maθa
 mxayəlla
-xorta ʾɛ
+ʾɛ xorta
 an gu d bate
 kulla
 tlaxəlla
 b lɛle
-b rəš naše
+b naše rəš
 ʾu raqa
 θayɛle
-qam payəš
+payəš qam
 yoma
 θaya
 dmaxa
@@ -159190,13 +159190,13 @@ kɛla
 ṭalbɛni
 mara ʾu
 xəzya lɛle
-naša ču
-bas yaðəx
+ču naša
+yaðəx bas
 hola
 tlixe
 ʾanna
 bate
-lɛla xəzye ʾu
+lɛla ʾu xəzye
 ʾaskarwaθa
 yoma ʾo
 zille
@@ -159206,19 +159206,19 @@ zille
 bežəm
 xa gota
 xeta
-a mðita d
+mðita d a
 ʾap yoma ʾo
 ʾa xorta
 ila ṱ
 b ʾiðe
 diye
 mxayəlla
-gu anna d
+gu d anna
 bate
 tlaxəlla
 ʾap a maḥalle
 tlixale
-ʾu riqle
+riqle ʾu
 zille
 dmixle
 gu čadre
@@ -159230,7 +159230,7 @@ l malka
 məra
 ða gotət
 maθa
-mðita t
+t mðita
 tlixta hola
 ʾawwa
 zdile
@@ -159241,13 +159241,13 @@ məre
 waðəlle
 ʾawwa
 šula
-ðila la
+la ðila
 ʾɛnile
 xaraye
 ṛišle
 rustamo
 ṛišle
-malka ʾo
+ʾo malka
 məre
 ṭla rustamo
 hal
@@ -159268,7 +159268,7 @@ xrawe
 rustamo
 məre
 ʾana
-le yaðən y
+le y yaðən
 modile
 bərya
 ṭliyənwa
@@ -159276,30 +159276,30 @@ qlible
 malka
 mšodərre
 ʾaskar
-qam d a čadra
+qam čadra d a
 ṣlele
-xaze ṭla t
+t ṭla xaze
 modi
-čadra gu d a
+gu čadra d a
 bežəm
 pliṭle
-qəm šaqəlle
+šaqəlle qəm
 qaṭiye ʾo
 diye
-ʾaw qaṭiya
+qaṭiya ʾaw
 xortɛla
 krele
-ʾaskar gu d a
-qəm mpatpətla
+gu ʾaskar d a
+mpatpətla qəm
 xa kut
-qəm xašəlle
-gota ða
+xašəlle qəm
+ða gota
 malka
 zdile
 məre
 ʾawwa
 šula
-axxɛle m
+m axxɛle
 traṣa
 məre
 ṭla rustamo
@@ -159324,20 +159324,20 @@ lɛle
 θaya
 laxxa
 balki
-ʾawwa ile ṱ
+ile ʾawwa ṱ
 tlaxəlla
 ʾanna
 bate
 məre
 lɛle
 ʾaw
-ʾitlux ʾən
+ʾən ʾitlux
 ferəsse
 bayət
 palšət
 hadiya
 ʾana
-ʾəθya hon
+hon ʾəθya
 ṭlaba
 bratux
 bayət
@@ -159350,22 +159350,22 @@ la
 b alaha
 ʾana
 brati
-y yawənna le llux
-yaðənnɛxu le y
-ɛkɛtu m
+le y llux yawənna
+le y yaðənnɛxu
+m ɛkɛtu
 məre
-y le yaðətli
+le y yaðətli
 məre
 la
 ṣəlyɛle
 ʾani
 qari
 qabux
-l ġðaðe
+ġðaðe l
 ṣəlyɛle
 dašta gu
 məre
-ku ile ṱ
+ile ku ṱ
 ferəssa
 ʾaθe
 ʾaxxane
@@ -159376,7 +159376,7 @@ mšadorəlle
 ferəsse
 diye
 ṭla gðala
-ku ile ṱ
+ile ku ṱ
 ṣlaya
 tama
 lɛla
@@ -159390,22 +159390,22 @@ ferəssɛle
 zala w
 plaṭa
 məre
-xale ṭla
+ṭla xale
 diye
 məre
 xali
 šuqla
 ʾanna
 ṭlali
-ʾan yalunke
+yalunke ʾan
 zore
 šuqla
 ṭlali
 rustamo
 məre
 la
-dmux si
-čadra gu
+si dmux
+gu čadra
 ʾanna
 k̭awa
 xammi
@@ -159415,7 +159415,7 @@ pišle
 majbur
 kul
 ʾaskarwaθa
-malka d o
+o malka d
 qəm tayəmla
 lɛla
 mṣaya
@@ -159435,24 +159435,24 @@ mənne
 məre
 ʾana
 bayən
-yaðen t
+t yaðen
 ʾati
 ʾɛniwət
 məre
 ʾana
 ʾiwən
 rustamo
-zalo bron t
-aθewa t y
+bron t zalo
+t y aθewa
 ṭlabəlla
 bratux
-maxituwale ʾu t
-ʾu reše
+t maxituwale ʾu
+reše ʾu
 diye
 torituwale
 brinane
 gu reše
-ʾəθya hon
+hon ʾəθya
 ṭlabəlla
 bratux
 nablənna
@@ -159474,19 +159474,19 @@ palga
 qṭilile
 məre
 ʾaxni
-yawəxla t
+t yawəxla
 ʾina
 ṭlalux
 məre
 la
 ʾana
-yəmya hon
+hon yəmya
 ʾayya
 brata
-ʾəθya hon
+hon ʾəθya
 nablənna
-b ʾən našuθa
-b xɛla ʾən
+našuθa ʾən b
+ʾən b xɛla
 nablənna
 ṭla babi
 bənta
@@ -159516,7 +159516,7 @@ xaṭər
 mənney
 ʾu zilɛle
 zilɛle
-xa yoma w
+xa w yoma
 tre w
 ṭḷaθa
 ʾəθyɛle
@@ -159534,20 +159534,20 @@ xlula
 šawwa
 yomaθa w
 šawwa
-lɛlawaθa w
-dawla w
+w lɛlawaθa
+w dawla
 zorna
-qəm magwərra ʾu
+qəm ʾu magwərra
 l babe
 diye
 ʾa brata
-ʾana ʾu
+ʾu ʾana
 šwiqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
-malka xa
+xa malka
 aθɛwa ṱ
 naše
 magəḥkile
@@ -159561,7 +159561,7 @@ babi
 səgoli
 xona
 plišla
-ġðaðe m
+m ġðaðe
 məre
 gawṛa
 dawəqle
@@ -159573,46 +159573,46 @@ brata
 doqale
 bɛθa
 məre
-mot ta
+ta mot
 mara
 hatxa
 məra
 babi
 hatxɛla
-amri y
+y amri
 gawṛa
 mərya
 baxta
 xapɛθa
 baxta
-hawnanta ila ṱ
+ila hawnanta ṱ
 maθya
-bɛθa ta
+ta bɛθa
 məre
 babi
 raba
 hawnantət
-rəqqi bas ta
+ta bas rəqqi
 b yawənnəx
-xa naša qa
+xa qa naša
 špila
-gu tanura
-yxaləf ma
+tanura gu
+ma yxaləf
 halli
 yawəlla qəm
 baba
 diya
-xa naša qa
+xa qa naša
 špila
-gu tanura
+tanura gu
 yoma
-axəlwa y
+y axəlwa
 yoma
-le axəlwa y
+le y axəlwa
 hatxa
 faqira
 məre
-d qa awwa
+awwa qa d
 b yawənnəx
 yaʿni
 ʾati
@@ -159623,7 +159623,7 @@ hatxɛle
 dwaqət har
 rəqqi
 məra
-lan dwaqa
+dwaqa lan
 rəqqi
 baba
 ʾayya
@@ -159631,44 +159631,44 @@ baba
 dus ila
 qimɛle
 hiwəlla
-xa špila ta
+ta xa špila
 widla mo
-b naša o
+b o naša
 špila
 qəm šaqlale
-qəm xɛpale
-qəm masyale
+xɛpale qəm
+masyale qəm
 muttula
 zuze
 gu ʾiðe
-amrawa y
+y amrawa
 xoš bazar
-amər y
+y amər
 lɛðena
-amrawa y
-yaðət t
+y amrawa
+t yaðət
 yomiyya
-šawwa qɛse
+qɛse šawwa
 maxyawale
-amrawa y
+y amrawa
 garəg
 ʾazət
 šuqa
 yawənnux
 zuze
 xɛpət ʾu
-ʾu masət
+masət ʾu
 qamaye
-šuqa w qazdət
+w šuqa qazdət
 zawnət
-mɛθət ʾu
+ʾu mɛθət
 lɛpət
-qəm oðale
+oðale qəm
 hadəx
 pišle
-naša ʾo
+ʾo naša
 jalde
-mðita har gu d a
+d har a gu mðita
 ʾaw
 liple
 muttule
@@ -159676,18 +159676,18 @@ dəkkanane
 zille
 ða maθa
 xeta
-gu ða maθa
+ða gu maθa
 xeta
 mgurəlla
 la
 gu maθə
 ganey
-xa bena
+bena xa
 brate
 diye
 muttula
 qaṣre
-ʾu qaṣore
+qaṣore ʾu
 tarət
 bɛθa
 diya
@@ -159697,7 +159697,7 @@ mšuwɛθa
 ʾamane
 diya
 seniyye
-ʾaxli t
+t ʾaxli
 ʾixala
 gawa
 dawa
@@ -159710,23 +159710,23 @@ zilla
 nubəlla
 swariyye
 ʾaxni
-amrəx y
+y amrəx
 swariyye
 yaʿni
 gu barwər
-yatwiwa t
-koðənyaθa xaṣət
+t yatwiwa
+xaṣət koðənyaθa
 dawɛre
 kulla
 zilla
-malka kəs
+kəs malka
 nubəlla
 xa kθawa
-iðət m
+m iðət
 brate
 diye
 zilla
-čɛdale qəm
+qəm čɛdale
 məra
 malka
 awət ṱ
@@ -159746,9 +159746,9 @@ məre
 ʾay
 brati
 hiwənna
-xa naša ta
+ta xa naša
 špila
-gu tanura
+tanura gu
 čɛdali qəm
 məra
 malka
@@ -159774,18 +159774,18 @@ məre
 kɛle
 bɛθa
 diya
-ʾaw xašu
-xa badəkkɛle
+xašu ʾaw
+badəkkɛle xa
 məra
 ʾawaʾha
 qaṣra
-it ṱ xzayəlle
+xzayəlle it ṱ
 məre
 lan
 hamone
 məra
 dax
-ṱ orət
+orət ṱ
 gawe
 xazətle
 xazətle
@@ -159807,8 +159807,8 @@ mšuwɛθa
 kulle
 marmar
 mutte
-gota m ay
-gota ʾu ay m
+m gota ay
+m gota ʾu ay
 wirra
 bɛθa gu
 pliṭla
@@ -159820,7 +159820,7 @@ paqəð
 baba
 ʾaziza
 xqira
-ayya gu d
+gu ayya d
 dunye
 mxuqra
 paqəð
@@ -159835,18 +159835,18 @@ məra
 he
 ʾujəble
 məra
-babi la
-majbət la
+la babi
+la majbət
 dunyela
-asqa w y
+y w asqa
 ṣalya
-malka mən
+mən malka
 ṣala
-l sulta
-mən sulta
+sulta l
+sulta mən
 ṣala
 malke
-məndi kul
+kul məndi
 bare
 ʾujəble
 b anna
@@ -159866,10 +159866,10 @@ kulla
 wiðtəlla
 hadəx
 xa ʾotəx
-an d xene ta
+an ta xene d
 xa ʾotəx
-an d xene ta
-an d ta
+an ta xene d
+an ta d
 guṛane
 xa kut
 muttɛθəlle
@@ -159903,21 +159903,21 @@ pɛša
 ṭlaləx
 weləx
 hawnanta
-b ʾiqarət
+ʾiqarət b
 ṣawθa
 basimta
-ʾu maqul
+maqul ʾu
 plixləx ʾu
 jurəbli
 ʾana
-ʾana t qa
+t qa ʾana
 xazənwa
 hawnəx
 dax wewa
 la
-la bayənwaləx t
+t la bayənwaləx
 ʾina
-qəm xazənnəx
+xazənnəx qəm
 ʾati
 raba
 hawnanta
@@ -159931,7 +159931,7 @@ xqirta ʾu
 ʾayya
 pišla
 maləkθa
-b šawpət
+šawpət b
 baba
 diya
 ʾana
@@ -159939,7 +159939,7 @@ diya
 yuwəl
 yuḥanna
 ʾisḥaq
-maθət t
+t maθət
 dure
 t bɛrwər
 ʾayya
@@ -159948,7 +159948,7 @@ hola
 hola
 mara
 ʾiθwa
-malka xa
+xa malka
 ʾawwa
 malka
 xzele
@@ -159957,11 +159957,11 @@ qedamta ʾu
 məre
 kul
 naša
-yaðe t
+t yaðe
 modin
 xəzya
-b xəlmi
-bəd yawənne
+xəlmi b
+yawənne bəd
 ʾəmma
 dawe
 yaʿni
@@ -159981,7 +159981,7 @@ dawe
 šuryela
 naše
 xaša
-malka kəs
+kəs malka
 ʾawwa
 mara
 ʾatxət
@@ -160017,24 +160017,24 @@ xa xuwwe
 biye
 xuwwe ʾo
 məre
-naša ha
+ha naša
 lɛkət
 zala
 məre
 b alaha
 zala hon
-malka kəs
+kəs malka
 malka
 hole
 xəzya
 xa xəlma
 mara
-yaðe kut
+kut yaðe
 modile
 xəzya
 b xəlme
 w amərre
-šaqəl bəd
+bəd šaqəl
 ʾalpa
 dawe
 ga ʾɛ
@@ -160042,19 +160042,19 @@ ga ʾɛ
 bayən
 ʾazən
 amrənne ṱ
-xabra xa
+xa xabra
 balki
 kepa
 qitle
 b gawza
-npille ʾara
+ʾara npille
 gawza
 balki
 qrimli
 xuwwe ʾo
 məre
 ʾəlle diye
-ʾana ʾən
+ʾən ʾana
 ʾamrənnux
 modile
 xəzya
@@ -160073,7 +160073,7 @@ naša
 ʾana
 ʾəmma
 bassi
-ʾan xene
+xene ʾan
 kulla
 ṭlalux
 məre
@@ -160086,36 +160086,36 @@ məre
 mqawolən
 məre
 ʾamrət
-malka ṭla
+ṭla malka
 xzelux
-b xəlmux
+xəlmux b
 dunye
 raya
 tele
 ʾap aw zilɛle
 xiša
 məṭya
-malka kəs
+kəs malka
 mṭele
 garre
 diye
 wirre
-malka kəs
+kəs malka
 məre
 hax
 xazəx
 maṣət
-ṱ amrətli
+amrətli ṱ
 modin
 xəzya
-b xəlmi
+xəlmi b
 məre
 hɛ
 malka
 məre
 ʾati
 xəzyət
-b xəlmux
+xəlmux b
 dunye
 raya
 tele
@@ -160125,17 +160125,17 @@ dax
 ðilux
 qayəm
 yawəlle
-ʾalpa dawe
-ʾalpa dawe
+dawe ʾalpa
+dawe ʾalpa
 ʾu zilɛle
 pliṭɛle
-b urxa
+urxa b
 mtuxmənne
 məre
 xuwwe
 ma
 awəð ṱ
-b an alpa
+an b alpa
 dawe
 azən ṱ
 hawənna
@@ -160159,10 +160159,10 @@ diye
 xišɛle
 xišɛle
 l bɛθa
-lɛle hiwa
+hiwa lɛle
 ʾatxa
 pišɛle
-xa yarxa
+yarxa xa
 malka
 xzele
 xa xəlma
@@ -160171,17 +160171,17 @@ mədre
 xzele
 xəlma
 məre
-yaðe kut
+kut yaðe
 modi
 mira
 ʾalpa
 dawe
 xene
 t yawənne
-ʾaw šmile
+šmile ʾaw
 ʾay
-xuwwe m
-muxərwəlla hon
+m xuwwe
+hon muxərwəlla
 maṭo
 oya ṱ
 məre
@@ -160191,18 +160191,18 @@ wiða
 modit
 mara
 məra
-ṭlub si
+si ṭlub
 paxalta
 mənne
 diye
 ʾu mur
-yawənnux t
+t yawənnux
 zuzux
 məre
 azən ṱ
 xazəx
 balki
-hawe la
+la hawe
 tama
 balki
 la pliṭle
@@ -160213,19 +160213,19 @@ mədre
 xuwwe
 pliṭɛle
 qamθe
-pəllən ha
+ha pəllən
 lɛkət
 zala
 məre
 b alaha
-šlama llux
+llux šlama
 pšamən
 raba
 yaðət
 b ganux
 ʾiqənwa
 dananənwa
-zuze ʾan
+ʾan zuze
 šqilili
 zilli
 hiwili
@@ -160242,11 +160242,11 @@ məre
 malka
 hole
 xəzya
-ga xa
+xa ga
 xeta
 xəlma
-ʾalpa dawe
-bəd yawəl
+dawe ʾalpa
+yawəl bəd
 ṭla kut
 ʾamərre
 modile
@@ -160265,10 +160265,10 @@ dax
 la palənna
 ʾayya
 bena
-har kulla
+kulla har
 ṭlalux
 ʾən bayət
-ani geb d m
+m geb ani d
 məre
 laʾ
 palga
@@ -160287,21 +160287,21 @@ hadiya
 xišɛle
 mədre
 mṭiθɛla
-dane diye
+diye dane
 wirre
-malka kəs
+kəs malka
 malka
 məre
 ʾah
 pəllən
 modin
 xəzya
-b xəlmi
+xəlmi b
 malka
 awət ṱ
 basima
 xəzyət
-b xəlmux
+xəlmux b
 dunye
 raya
 dewe
@@ -160322,7 +160322,7 @@ dawe
 ʾalpa
 dawe
 diye
-ga xa ʾu
+xa ga ʾu
 xeta
 zilɛle
 zille
@@ -160334,11 +160334,11 @@ wiða
 šqille
 xa
 šəndoxa
-plaṭṭət gu
+gu plaṭṭət
 xuwwe
 dɛrele
 šəndoxa ʾo
-b xuwwe
+xuwwe b
 t qa
 qaṭəlle
 xuwwe
@@ -160347,8 +160347,8 @@ xuwwe
 mudwa
 riqa
 wirre
-boye gu
-boye gu
+gu boye
+gu boye
 diye
 mṭušyəlla
 gane
@@ -160358,12 +160358,12 @@ zilɛle
 l bɛθa
 ʾalpa
 dawe
-ga xa
+xa ga
 xeta
 nubləlla
 ta baxte
 diye
-xa tre yarxe
+xa yarxe tre
 xene
 mədre
 xzele
@@ -160375,10 +160375,10 @@ mədre
 xəzya
 xa xəlma
 marɛle
-kuṱ amər
+amər kuṱ
 modin
 xəzya
-b xəlmi
+xəlmi b
 t yawənne
 ʾalpa
 dawe
@@ -160388,17 +160388,17 @@ qimɛle
 məre
 ʾayya
 bena
-mo ṱ oðən
+oðən mo ṱ
 məre
-ʾa bena
+bena ʾa
 ʾap kepa
 dəryən
-b xuwwe
+xuwwe b
 ʾap qṭala
 bayənwa
 qaṭlənwale
 məre
-b nayəsli
+nayəsli b
 axəlli ṱ
 mo
 oðena ṱ
@@ -160421,12 +160421,12 @@ in ṱ
 palənna
 palge
 ʾap
-šqiləlla ʾan in ṱ
+in ʾan ṱ šqiləlla
 qamaye
 qimɛle
 zila
 məṭyɛle
-ga xa
+xa ga
 xeta
 xuwwe
 pliṭɛle
@@ -160435,8 +160435,8 @@ məre
 ha
 dosti
 xazəx
-b šəndoxe
-wətwa t
+šəndoxe b
+t wətwa
 kipa
 biyi
 lɛkət
@@ -160453,7 +160453,7 @@ mpaxlətli
 murri
 modile
 mqawolən
-in kəma ṱ
+kəma in ṱ
 šqila
 zuze
 mɛθənna
@@ -160467,10 +160467,10 @@ dus
 məre
 dus
 məre
-llux mhuymənni
+mhuymənni llux
 ya ʾalla
 ʾamrət
-malka ṭla
+ṭla malka
 dunye
 raya
 paṛe
@@ -160481,23 +160481,23 @@ hadiya
 qimɛle
 zila
 məṭyɛle
-malka kəs
+kəs malka
 wirɛle
 məṭyɛle
 garre
 diye
 modit
 xəzya
-b xəlmux
+xəlmux b
 məre
-b xəlmux
+xəlmux b
 xzayət
 dunye
 raya
 paṛe
 ʾamər
 b alaha
-dus iwət
+iwət dus
 ʾap ayya
 bena
 ðilux
@@ -160512,12 +160512,12 @@ m tama
 si qu
 l bɛθa
 ʾap
-ʾalpe tre ʾan
+tre ʾalpe ʾan
 dawe
 xene
 mɛθila
-ʾu hayyo
-šlama llux
+hayyo ʾu
+llux šlama
 xoni
 xuwwe
 b šɛna
@@ -160534,32 +160534,32 @@ dawe
 hola
 kəsli
 ʾanna
-ʾalpa w
+w ʾalpa
 xamša mma
 diyuxila
 ʾanna
-ʾalpa w
+w ʾalpa
 xamša mma
 diyila
 ʾati
 hawət
 basima
-ʾamrət la t
+t la ʾamrət
 baxət ile be
 məre
 tu
 amrənnux ṱ
 ʾana
-lan mirəllux
-baxət iwət be
-mira lan ʾu
+mirəllux lan
+baxət be iwət
+mira ʾu lan
 qaṭolɛwət
-mira lan ʾu
-našɛwət xoš
-mira lan ʾu
+mira ʾu lan
+xoš našɛwət
+mira ʾu lan
 lebanɛwət
 ʾina
-amrənnux tu ṱ
+tu amrənnux ṱ
 məre
 ʾo gaya
 qamɛθa
@@ -160573,7 +160573,7 @@ b xəlme
 dunye
 raya
 tele
-yomət ʾo
+ʾo yomət
 məri
 ṭlalux
 hadəx
@@ -160588,15 +160588,15 @@ welux
 lebana
 zawna ʾax
 zawna
-qəm ʾawədlux
+ʾawədlux qəm
 lebana
 la θelux
 kəsli
 mxelux
-čarxa xa
+xa čarxa
 hal
 zillux
-kəs baxtux
+baxtux kəs
 θelux ʾu
 mdagole
 ṭlali
@@ -160605,7 +160605,7 @@ mdagole
 dananənwa
 miðən
 modi
-ʾu ʾanna
+ʾanna ʾu
 məndiyane
 məre
 gaʾat
@@ -160618,9 +160618,9 @@ dewe
 xəlmət
 malka
 ʾiwa
-ʾup aw
+aw ʾup
 zawna
-yomət ʾo
+ʾo yomət
 xəzya
 dunye
 raya
@@ -160629,21 +160629,21 @@ zawnət
 lebewa
 ʾawwa
 zawna
-xzelux t
+t xzelux
 dunye
 raya
 dewe
 ʾiwa
 zawnət
-qəṭla w
+w qəṭla
 w dəmma
 prama
-xala xa
+xa xala
 ʾo xena
 xa qṭala
 ʾo xena
 ʾap ati
-geb m
+m geb
 aθətwa ṱ
 mɛθətwali
 zuze
@@ -160663,30 +160663,30 @@ lɛwa
 mədre
 gnayux
 zawnət
-qəṭla wewa
+wewa qəṭla
 ʾap ati
 welux
-gu d aw zawna
+zawna gu aw d
 t wewa
-qəṭla t
+t qəṭla
 pišlux
 qaṭola
 diya
-xzele t
+t xzele
 malka
 dunye
 raya
 paṛe
-šlamɛle zawn
-ʾati lɛt
+zawn šlamɛle
+lɛt ʾati
 wiya
-naša xoš
+xoš naša
 it ṱ muθyəlla
 ʾanna
 zuze
 zawna
 wiyɛle
-šlama t
+t šlama
 ʾap ati
 pišlux
 našət
@@ -160699,8 +160699,8 @@ hadiya
 bayət
 palətla
 məre
-šqul də
-zuze ʾanna
+də šqul
+ʾanna zuze
 kulla
 ṭlalux
 ʾana
@@ -160711,7 +160711,7 @@ puš
 b šɛna
 šuqali
 tama
-ʾu θeli
+θeli ʾu
 laxxa
 ʾiθwa
 xa naša
@@ -160723,20 +160723,20 @@ xa
 taqriban
 saʾəta palgə
 xa saʾəta
-b urxa
+urxa b
 xa yala
 zora
-zora la
+la zora
 yaʿni
 məṭya
 tmanessər
-ʾəsri šənne
+šənne ʾəsri
 zille
 bare
 zille
 bare
 diye
-qəm xazele
+xazele qəm
 xa naša
 miθa
 naboləlle
@@ -160744,9 +160744,9 @@ mṭamorəlle
 ʾo yala
 zora
 ʾabu
-ʾəsri šənne
+šənne ʾəsri
 məre
-ṭla d o
+ṭla o d
 goṛa
 naša
 goṛa
@@ -160755,14 +160755,14 @@ xali
 ʾawwa
 naša
 miθɛle
-b xayele ʾən
+xayele ʾən b
 məre
-w hatxa hay
+hatxa w hay
 hatxa
 mənnux
 la hole
 miθa
-lɛt xzaya
+xzaya lɛt
 biye
 diye
 ile ṱ
@@ -160770,10 +160770,10 @@ miθa
 hola
 naboləlle
 mṭamorəlle
-ati w
+w ati
 hot mara
 miθɛle
-b xaye ʾən
+ʾən xaye b
 la hole
 miθa
 zilɛle
@@ -160794,35 +160794,35 @@ gəšra
 šawrəx
 reša
 reša
-anna d
+d anna
 miya
 ham mṣawore
 ʾəlle
 diye
 məre
 ʾana
-ɛka m
+m ɛka
 mɛθənnux
 qɛse
-ɛka m
+m ɛka
 mɛθənnux
 bəzmare
-ɛka m
+m ɛka
 mɛθənnux
 nasarta
-nasrənnux t ta
+t ta nasrənnux
 qɛse
-ṱ oðənnux
+oðənnux ṱ
 gəšra
 šawrəx
 reše
 reše
 diye
-məre ham
-yxaləf ma
+ham məre
+ma yxaləf
 qimela
 siqela
-b xa ṭura
+xa b ṭura
 məre
 ʾəlle
 diye
@@ -160834,30 +160834,30 @@ la ʾawðəxle
 darajyaθa
 daraje
 asqəx ṱ
-l awwa
+awwa l
 ṭura
 məre
 hay
 kalba
-kalba brət
+brət kalba
 iwət ṱ
 xa xena
-ɛka m
+m ɛka
 pišlux
 balaya
 ʾəlli
 məre
 ʾana
-ɛka m
+m ɛka
 mɛθənnux
 kulənga
-ʾu mɛθənnux
+mɛθənnux ʾu
 kepe
-ʾu mɛθənnux
+mɛθənnux ʾu
 čimanto
-ʾu ṱ oðənnux ta
+ta oðənnux ʾu ṱ
 daraje
-ʾu ta ṱ asqət
+ta asqət ʾu ṱ
 reša
 diya
 ʾawwa
@@ -160869,18 +160869,18 @@ siqela
 ṭura
 siqela
 dašta wawa
-ʾu ða
+ða ʾu
 mðita
 goṛta
 tama
 ʾawwa
 litle
 naše
-gu a mðita d
-naša ʾo
+gu mðita d a
+ʾo naša
 sawa
 məre
-ṭla d o yala
+ṭla o d yala
 zora
 məre
 ʾɛka
@@ -160897,16 +160897,16 @@ qima
 zila
 l bɛθe
 diye
-naša ʾo
+ʾo naša
 goṛa
 ʾiθwale
 xa brata
-zangin ʾu wewa
+wewa zangin ʾu
 ʾiθwale ʾu
 qaṣra
 qaṣre
 diye
-spay wewa
+wewa spay
 mara
 qimɛle
 wirɛle
@@ -160918,14 +160918,14 @@ ha
 babi
 dax wawa
 ʾurxux
-itwa spay
+spay itwa
 ʾəθyət
 raḥat
 la ʾən
 məre
 brati
 raba
-raḥat inwa
+inwa raḥat
 ʾina
 ʾəθyɛle
 xa yala
@@ -160947,7 +160947,7 @@ mṭamorəlle
 hole
 mara
 miθɛle
-b xaye ʾən
+ʾən xaye b
 la hole
 miθa
 zala hola
@@ -160958,12 +160958,12 @@ mo
 əlle mərux
 məre
 ṣarənne qəm
-mo ta
+ta mo
 babi
-dus la ʾaw wewa
+ʾaw la dus wewa
 məre
 dax
-dus ile ṱ
+ile dus ṱ
 hola
 zala
 mṭamorəlle
@@ -160971,7 +160971,7 @@ məra
 he
 babi
 he
-xenət ʾu modi
+modi xenət ʾu
 xəzya
 məre
 ʾəθyəx
@@ -160983,14 +160983,14 @@ babi
 oðəxle ṱ
 gəšra
 məri
-ɛka m
+m ɛka
 mɛθənne
 qɛse
-ɛka m
+m ɛka
 mɛθənne
 bəzmare
 nasarta ʾu
-oðənne ṱ ta
+ta oðənne ṱ
 gəšra
 šawər
 reše
@@ -161003,7 +161003,7 @@ mṣuwərri
 diye
 məre
 θelən
-b awwa
+awwa b
 ṭura
 šima
 hole
@@ -161014,18 +161014,18 @@ daraje
 xali
 məri
 ʾana
-ɛka m
+m ɛka
 mɛθən
 kulənga
-ɛka m
+m ɛka
 mɛθena
 čimanto
-ɛka m
+m ɛka
 mɛθən
 kepe
-oðənne ṱ ta
+ta oðənne ṱ
 daraje
-asəq ṱ ta
+ta asəq ṱ
 gu reše
 modi
 əlle mərux
@@ -161039,7 +161039,7 @@ zille
 zille
 gu jama
 məra
-yxaləf ma
+ma yxaləf
 mšadrən
 mɛxolta
 ʾəlle
@@ -161053,7 +161053,7 @@ beʾe
 muttɛθɛla ʾu
 ṭḷaθi
 ləxme
-čanta gu
+gu čanta
 məra
 babi
 nabəlla
@@ -161062,8 +161062,8 @@ halle
 ʾawwa
 zilɛle
 b ʾurxa
-xa beta
-xa ʾu ləxma
+beta xa
+xa ləxma ʾu
 xiləlla
 zilɛle
 nubləlla
@@ -161078,7 +161078,7 @@ xul
 pθixəlla
 xəzyəlla
 ʾina
-beʾe ʾəšta
+ʾəšta beʾe
 ləxma
 pθixle
 ʾina
@@ -161097,15 +161097,15 @@ məre
 kəslən
 šabθa
 ʾila
-šawwa yome
-ʾu yarxa
+yome šawwa
+yarxa ʾu
 ʾile
-yome ṭḷaθi
+ṭḷaθi yome
 ʾaxtu
 šabθɛxu
-ʾəšta yomela
+yomela ʾəšta
 yarxɛxu
-ʾəč̣č̣a ʾəsri w yomele
+w ʾəsri ʾəč̣č̣a yomele
 la
 bayənna
 šqul
@@ -161114,7 +161114,7 @@ qimɛle
 ʾani šqila
 mudəṛəlla ʾu
 nubləlla
-brate qa
+qa brate
 diye
 məra
 ha
@@ -161132,22 +161132,22 @@ hole
 mara
 ṭlali
 le
-axlənna y
+y axlənna
 ʾaxni
 šabθɛni
 šawwa
 yomanela
-yarxɛni ʾu
+ʾu yarxɛni
 ṭḷaθi
 yomele
 məre
 ʾaxtu
 šabθɛxu
 ʾila
-ʾəšta yome
-ʾu yarxɛxu
+yome ʾəšta
+yarxɛxu ʾu
 ʾile
-ʾəsri yome w ʾəč̣č̣a
+w ʾəsri ʾəč̣č̣a yome
 məre
 la
 bayənna
@@ -161158,32 +161158,32 @@ babi
 b ʾurxa
 lat xila
 xa w ləxma
-xa beta
+beta xa
 məre
 ye
 məre
-ɛka m
+m ɛka
 ðile
 məra
 ʾana
 muttɛθənwa
 yomanə
 šabθa
-ʾu muttɛθənwa
+muttɛθənwa ʾu
 yomanət
 yarxa
 ʾati
-xa beta
+beta xa
 hot šqiləlla
-mən šabθa
+šabθa mən
 piše
-ʾəšta yome
-xa ʾu ləxma
+yome ʾəšta
+xa ləxma ʾu
 hot šqiləlle
-mən yarxa
+yarxa mən
 hola
 piše
-ʾəsri yome w ʾəč̣č̣a
+w ʾəsri ʾəč̣č̣a yome
 məra
 babi
 hawnanɛle
@@ -161191,28 +161191,28 @@ mɛθəlle si
 laxxa
 məra ʾu
 ʾimə
-ṱ itu
+itu ṱ
 ʾəθye
 xəzye
-naša ʾo
+ʾo naša
 miθa
 yaðət
-wawa modi
+modi wawa
 qazde
 diye
 marɛwa
-har ʾawwɛle
-ʾən ʾitle
+ʾawwɛle har
+ʾitle ʾən
 nawage
-ʾən ʾitle
+ʾitle ʾən
 baba
-ʾən ʾitle
+ʾitle ʾən
 yəmma
-ʾən ʾitle
+ʾitle ʾən
 xonawaθa
-ʾimə t
+t ʾimə
 məre
-har ʾawwɛle
+ʾawwɛle har
 la ʾən
 miθɛle
 la ʾən
@@ -161221,9 +161221,9 @@ l xoðe
 litle
 la baba
 la yəmma
-ʾap xa la
+ʾap la xa
 ʾaw
-amrile y
+y amrile
 litle
 naše
 ʾawwa
@@ -161240,15 +161240,15 @@ naše
 lɛle
 miθa
 məre
-dus iwət
+iwət dus
 məre
 ʾina
-ɛka m
+m ɛka
 oðənwale ṱ
 gəšra
-ʾaw məre
+məre ʾaw
 la
-ṱ oðətli
+oðətli ṱ
 gəšra
 b qɛsa
 w ʾaxxa
@@ -161274,23 +161274,23 @@ b ṭura
 θelɛxu
 saqa
 l ṭura
-ʾaw wewa la
+la wewa ʾaw
 qazde
 diye
-xapritu t ta
+t ta xapritu
 ṭura
 məre
-ṱ amritu
+amritu ṱ
 tuniyaθa
 mṣawθitu
-ġðaðe m
-t ṭura ta
+m ġðaðe
+t ta ṭura
 ja jalde
 parəq
-ʾaw lɛwa
+lɛwa ʾaw
 qazde
 diye
-azət ṱ ta
+ta azət ṱ
 ʾawðətle
 xaprətle
 ṭura
@@ -161301,12 +161301,12 @@ tamma
 məre
 b alaha
 dus it
-murre si
+si murre
 aθe ṱ
 laxxa
 qimɛle
 zila
-ga xa
+xa ga
 xeta
 mirəlle
 ʾu ʾəθyɛle
@@ -161324,7 +161324,7 @@ brata
 mara
 m ɛkɛle
 pč̣ila
-ix har gubban
+gubban ix har
 wiðəlle
 ya naša
 hot mara
@@ -161340,7 +161340,7 @@ l tamma
 xarθa
 məra
 mṣuwətla
-ġðaðe m
+m ġðaðe
 w yala
 yalta
 məra
@@ -161350,9 +161350,9 @@ məre
 ʾap ʾana
 bayənnəx
 gwirela
-l ġðaðe
+ġðaðe l
 gwire
-l ġðaðe
+ġðaðe l
 malka
 šmile
 ʾasas ʿal
@@ -161363,7 +161363,7 @@ tama
 kəsley
 raba
 hawnanɛle
-ʾup ʾu baxte
+baxte ʾu ʾup
 diye
 ile ṱ
 gwirəlla
@@ -161371,7 +161371,7 @@ raba
 hawnantɛla
 yiwle
 xabra
-ta d o yala
+ta o d yala
 məre
 azət ṱ
 ʾaskariya
@@ -161390,13 +161390,13 @@ lazəm
 ʾawwa
 ʾaskariya
 diye
-ṭla kəma
+kəma ṭla
 danɛla
 ṭḷa yarxe qa
 mara
 qimɛle
 məre
-yxaləf ma
+ma yxaləf
 ṱ azena
 ʾawwa
 ðile
@@ -161418,9 +161418,9 @@ bəzmare
 ʾitle
 tara
 gu ḥadiqa
-ʾu ʾitle
+ʾitle ʾu
 žigən darga
-xa bena
+bena xa
 ʾawwa
 zilɛle
 l askar
@@ -161435,13 +161435,13 @@ b lɛle
 siqle
 gawət gawa
 ḥadiqa
-siqle ʾu
-b daraje
+ʾu siqle
+daraje b
 siqle
 wirre
-brata kəs
+kəs brata
 wirre
-brata kəs
+kəs brata
 məre
 ʾana
 ʾədlɛle
@@ -161459,32 +161459,32 @@ maθyən
 xačča
 štɛθa
 mazza
-məndi hale
-atwəx ṱ
+hale məndi
+ṱ atwəx
 šatəx
 ʾana
-ati w
+w ati
 qimtɛla
 ziltɛla
 ja jalde
 muθɛθəlla
 štɛθa
-tiwela ʾu
+ʾu tiwela
 muθɛθɛla
 tre
 glase
 ṭla d ay
 drayɛla
 xačča
-ṭla d aw
+ṭla aw d
 raba
 ʾa d ay
 ṃḷayəlla
 kulle
 miya
-ʾa d aw
+ʾa aw d
 məḷya har
-štayɛla w
+w štayɛla
 praqɛla
 biya
 diya
@@ -161492,12 +161492,12 @@ məra
 yalla də
 jalde
 šti
-damxəx t ta
+t ta damxəx
 malka
 rwele
 rwele
-doqale qəm
-aqle p
+qəm doqale
+p aqle
 xrrr
 garšale
 nablale
@@ -161546,7 +161546,7 @@ yala
 yala
 zille
 raʾsan
-qəm xazele
+xazele qəm
 daraje
 ʾina
 dawa
@@ -161561,19 +161561,19 @@ malka
 ʾiwɛwa
 dawa
 muttəlla
-an d rš
+an rš d
 bəzmare
 bəzmara ʾo
 xila
-mən dawa
+dawa mən
 šqila
-mən dawa
+dawa mən
 məre
 malka
 hole
 ʾəθya
 laxxa
-baxti kəs
+kəs baxti
 ʾəθyɛle
 qəryəlle
 xəmyane
@@ -161593,29 +161593,29 @@ la
 bayənna
 məre
 si mur
-malka ṭla
+ṭla malka
 ʾiθwali
-xa karma
+karma xa
 zriyənwale
-mutta wewa
+wewa mutta
 dalyaθa
 xabuše ʾu
 kull ʾu
 xa məndi
-mutta wewa
+wewa mutta
 ʾixala
 θele
 xa naša
-qəm šaqəlle
+šaqəlle qəm
 karmi ʾo
-karmi la
+la karmi
 madoṛe lɛle
 la ḥaqqət ʾu
 karmi
 yawa lɛle
-si hatxa
+hatxa si
 murgən
-malka ṭla
+ṭla malka
 mo xzi
 b mjawəblux
 malka
@@ -161623,10 +161623,10 @@ qimɛle
 xəmyana
 diye
 zille
-malka kəs
+kəs malka
 ʾimə
 zille
-malka kəs
+kəs malka
 diwənt
 malka
 hole
@@ -161638,11 +161638,11 @@ kulla
 ʾitley
 šaraṭe
 amrila ṱ
-malka qa
-ʾaw tiwɛle
+qa malka
+tiwɛle ʾaw
 xaraya
 mboqərre
-mən qamaya d o
+mən o qamaya d
 modit
 ʾəθya
 modi
@@ -161653,9 +161653,9 @@ mquma
 ʾəllux
 qamaya ʾo
 mirale
-tre ʾo t
+t tre ʾo
 mirale
-mṭele t ha
+t ha mṭele
 garra
 ʾəlle
 diye
@@ -161676,14 +161676,14 @@ hole
 ʾəθya
 xa naša
 ʾiθwale
-xa karma
+karma xa
 zriyənwale
-b iθaθi
-ʾu rabənwa
+iθaθi b
+rabənwa ʾu
 kčixa
 biye
 diye
-mamṭənna ha t qa
+t ha mamṭənna qa
 ṭunte
 diye
 ʾimət
@@ -161692,12 +161692,12 @@ mṭela
 diye
 θele
 xa naša
-qəm šaqəlla
+šaqəlla qəm
 ṭunte ʾɛ
 diye
 karmi ʾo
-qəm šaqəlle
-karmi la
+šaqəlle qəm
+la karmi
 lɛle
 madoṛe
 la ʾu
@@ -161707,22 +161707,22 @@ lɛle
 yawa
 ʾana
 hirən
-b gani
+gani b
 mo
 bayən
 oðena ṱ
-lan mṣaya
+mṣaya lan
 ču məndi
-ati w
+w ati
 mo
-ṱ amrətli
+amrətli ṱ
 məre
 ʾana
 əllux marən
 he
 dus
 ʾiθwalux
-ʾo karma
+karma ʾo
 ʾina
 wirɛle
 gawe
@@ -161764,11 +161764,11 @@ dus
 karma
 θele ʾu
 naša
-qəm šaqəlle
+šaqəlle qəm
 mənnux
-ḥaqqa la ʾu
+la ʾu ḥaqqa
 yiwle
-karmux la ʾu
+la karmux ʾu
 mudəṛṛe
 ʾina
 wirɛle
@@ -161777,8 +161777,8 @@ diye
 ʾarya
 ʾina
 pliṭɛle
-tala max
-gu m karma
+max tala
+m gu karma
 məre
 dus
 hatxa
@@ -161787,33 +161787,33 @@ məre
 he
 məre
 ʾana
-diya m
-baθər m
+m diya
+m baθər
 bratux
 bayənna
 xətna ʾu
 l bɛθa
 pɛšena
-ʾu hadiya
+hadiya ʾu
 ðili
 ʾana
 manay
 diyux
 modila
-malka ʾu t
+t malka ʾu
 hawət ʾu
 basima
 raba
 ʾiθwa
 brona
-ṣəlya wewa
+wewa ṣəlya
 l ʾaskar
 baxte
 diye
 bratət
 faqire wawa
 ʾiθwala
-ʾa baxta
+baxta ʾa
 šawwa
 kalaθa
 šawwa
@@ -161828,7 +161828,7 @@ xena
 kulley
 la
 baxtaθa
-pyaša wɛwa
+wɛwa pyaša
 yaqure
 la
 bnone
@@ -161839,7 +161839,7 @@ la
 kulla
 bṭilla
 zilla
-xa naša kəs
+xa kəs naša
 drela
 xa pala
 məra
@@ -161852,9 +161852,9 @@ hatxɛla
 məra
 kalθa ða
 qṭulla
-ʾu š ða ʾarxe
+ða ʾarxe š ʾu
 mabṭəlla
-ʾu ða ʾəzza
+ða ʾəzza ʾu
 xeta
 qṭulla
 kulla
@@ -161872,7 +161872,7 @@ qaṭlən
 babi
 ʾina
 kulla
-ʾan xene
+xene ʾan
 bnaθət
 guṛane
 ʾayya
@@ -161910,7 +161910,7 @@ mama
 məra
 babi
 zilta
-š tanura
+tanura š
 zille
 tanura
 məre
@@ -161953,7 +161953,7 @@ hal lɛla
 glaya
 pišle
 zala
-b xa ʾalola
+xa b ʾalola
 qariwte
 diye
 ile ṱ
@@ -161971,7 +161971,7 @@ bəxyona
 lɛle
 diyux
 bəxyona
-šošət t
+t šošət
 xere
 ila qṭilta ṱ
 ṭmirta ʾu
@@ -161984,7 +161984,7 @@ məre
 qariwti
 mazyəd
 qalax
-kawdi w
+w kawdi
 raθi
 mxurxalax
 šošət
@@ -162001,16 +162001,16 @@ modi
 mazida
 qala
 daqiqe
-ʾərbala t xo
+t xo ʾərbala
 daqiqe
-ʾərbala t xo
+t xo ʾərbala
 yaʿni
 ṭmirtɛla
 ða dukθa
 daqiqta
 la mṣət
 xazətla
-ga xa
+xa ga
 xeta
 zille
 ʾawwa bxele
@@ -162026,20 +162026,20 @@ miðət
 ʾayya
 modila
 mṣoθe
-ga xa
+xa ga
 xeta
 zille
 b o
 ʾalola
-ga xa
+xa ga
 xeta
 hola
-mara ʾay
+ʾay mara
 hadəx
 məra
-de sigən
-b an ʾalole
-de mbaqər
+sigən de
+an b ʾalole
+mbaqər de
 m yale
 zore
 ʾani t
@@ -162048,11 +162048,11 @@ mdagole
 ʾani t
 lɛði
 mdagole
-de sigən
+sigən de
 gare
 gare
 mbaqər
-kima w
+w kima
 gabbare
 ʾani t
 lɛla
@@ -162060,7 +162060,7 @@ dagale
 ʾani t
 lɛla
 dagale
-ga ʾanna
+ʾanna ga
 pišla
 ləbbe gu
 diye
@@ -162071,7 +162071,7 @@ yəmmi
 halli
 kulənga
 halli
-kalena t ma
+t ma kalena
 ṭla modi
 babi
 məre
@@ -162100,14 +162100,14 @@ pliṭla
 šamala
 šave
 lhaya
-amər y
+y amər
 babi
 brati
 ʾayya
 dus ila
 widle mo
 ʾap ʾaw
-qəm qaṭəlle
+qaṭəlle qəm
 diye gan
 zadele
 diye gan
@@ -162118,7 +162118,7 @@ tre xure
 mara
 məndi
 ṭəšwa
-payəš bət
+bət payəš
 škara
 kaziwa
 praməlla
@@ -162160,7 +162160,7 @@ k̭at cosu
 ⁺mak̭rəṱvalə
 cəs
 ⁺mak̭rəṱṱan cosa
-naša ʾo
+ʾo naša
 ⁺mak̭rəṱṱan cosa
 šk̭əllə
 cosət
@@ -162185,21 +162185,21 @@ mattuyə
 ⁺ʾalle
 ⁺malla
 ɟuššək̭lə
-ɟu nora
+nora ɟu
 ʾina
 palɟət
 rišu
 viyyəl
 ctana
-naša k̭a do
+k̭a do naša
 mərrə
 la
 la
 xina
 bassa
 bassa
-vud la
-ɟibi ʾo
+la vud
+ʾo ɟibi
 xina
 ɟani
 azən ṱ
@@ -162213,7 +162213,7 @@ vidut
 ʾana
 azən ṱ
 ⁺ʾamra
-b ⁺zarrən
+⁺zarrən b
 ɟavu
 ʾa ɟibu
 ʾat ⁺zrilux
@@ -162305,14 +162305,14 @@ leša
 ta laxxa
 ʾana
 bašlannə
-tanuyra ɟu
+ɟu tanuyra
 k̭atux
 ⁺hayyurəna
 k̭a da yala
 b nošulə
 švavələ
 xa yuma
-suriya k̭a
+k̭a suriya
 bəxzayələ
 mara
 suriyya
@@ -162326,7 +162326,7 @@ mu
 bəxšavət
 xa
 brata
-mən dannə
+dannə mən
 ⁺xavəryatax
 ⁺šulə
 k̭ati
@@ -162348,7 +162348,7 @@ brata
 ʾana
 matpək̭k̭anna
 biyyux
-mən dannə
+dannə mən
 ⁺xavəryati
 mara
 tanənnax
@@ -162382,7 +162382,7 @@ k̭a diyyi
 ɟorat
 ʾana
 ⁺raba
-xadən p
+p xadən
 ʾayya
 mara
 len
@@ -162396,28 +162396,28 @@ yan
 la
 mara
 ʾana
-⁺ʾamsan la
+la ⁺ʾamsan
 tanyan
-diyyux k̭a
+k̭a diyyux
 ʾat
 ɟari
 ʾatət
 xa yuma
 beta
-yəmmi mən
+mən yəmmi
 hamzəmmət
 mən babi
 hamzəmmət
 xazzan
 ʾani
 mu
-p tani
+tani p
 ʾana
-⁺ʾamsan la
+la ⁺ʾamsan
 tayan
-diyyux k̭a
+k̭a diyyux
 hi
-la yan
+yan la
 mara
 ⁺raba
 ⁺spay
@@ -162470,13 +162470,13 @@ našə
 matal
 pyašəna
 ʾa
-mu ila
+ila mu
 masala
 ʾina
 ⁺p̂armuyəna
 k̭at
 masala
-mu ila
+ila mu
 mara
 ʾana
 bratət
@@ -162488,7 +162488,7 @@ həč naša
 lətli
 ⁺bayyən
 ɟorənna
-ʾan da
+da ʾan
 mara
 ⁺raba
 ⁺spay
@@ -162533,9 +162533,9 @@ brata
 ⁺raba
 ⁺byayələ
 ʾayya
-da brata
+brata da
 ʾaha
-⁺šula mən
+mən ⁺šula
 bitayələ
 miyya
 mayəla
@@ -162546,9 +162546,9 @@ patu
 ⁺xalləllun
 xa
 xurrac
-ila ⁺hazər
+⁺hazər ila
 ʾaha
-ci davək̭
+davək̭ ci
 nuynə
 mayyə
 beta
@@ -162556,7 +162556,7 @@ beta
 ⁺dana
 ʾatxa
 məndyanə
-⁺axliva c
+c ⁺axliva
 mayələ
 ʾa
 xa
@@ -162574,10 +162574,10 @@ k̭amta
 lela
 k̭a daha
 ʾa
-har vela
+vela har
 ʾo yala
 šk̭əltu
-xpak̭o ɟu
+ɟu xpak̭o
 xina
 ⁺ɟora but
 ⁺raba
@@ -162585,15 +162585,15 @@ lela
 taxmunə
 ʾa da
 bəcrabələ
-b məndi da
+b da məndi
 ⁺šula ʾa
 let
 vəttu
 ⁺ʾavva
-mu k̭a
+k̭a mu
 let
 vəttu
-dani mən
+mən dani
 məndyanə
 ʾaha
 muyyələ
@@ -162619,7 +162619,7 @@ mut
 nuynəna
 bušəltət
 ʾannə
-ʾavi le
+le ʾavi
 ⁺xala
 mxayələ
 k̭ato
@@ -162628,7 +162628,7 @@ k̭ato
 k̭ala
 lela
 vada
-yuma ʾo
+ʾo yuma
 xina
 mədrə
 bərrəšxələ
@@ -162646,7 +162646,7 @@ len ⁺bədda
 mudi
 ʾa da
 bəšk̭aləla
-danə tre
+tre danə
 miyya ɟu
 bašulela
 mattuyela
@@ -162674,7 +162674,7 @@ tayan
 duna
 xina
 k̭amta
-ʾan ət
+ət ʾan
 miyya ɟu
 bušəltela
 mayela
@@ -162689,7 +162689,7 @@ ci bašlilun
 ʾannə
 lena
 basimə
-mu k̭a
+k̭a mu
 let
 ʾannə
 ⁺ṱuyatə
@@ -162716,10 +162716,10 @@ mara
 məšxa ɟu
 k̭uliten
 ⁺xul
-mən dannə
+dannə mən
 ʾa
 ʾaslan
-mu k̭a
+k̭a mu
 ʾannə
 bušlelax
 ʾatən
@@ -162736,7 +162736,7 @@ nayəna
 ⁺bayyət
 ɟanux
 bašlətlun
-k̭u šk̭ul
+šk̭ul k̭u
 bašəllun
 mara
 ʾat
@@ -162744,7 +162744,7 @@ mara
 bašlətlun
 šk̭ul
 bašəllun
-mu k̭a
+k̭a mu
 clitət
 xa ʾaxča
 ⁺bar
@@ -162766,7 +162766,7 @@ bas
 mu
 ⁺bayyət
 ⁺ʾaxlət
-da ɟu
+ɟu da
 ⁺dana
 ʾa yala
 sura
@@ -162774,7 +162774,7 @@ xač̭č̭a
 ⁺tama
 šəxta
 vadələ
-da ʾaha
+ʾaha da
 xa
 sala
 maxpuyəla
@@ -162783,12 +162783,12 @@ mara
 ⁺hala
 xazzax
 ʾa
-mən ⁺ɟori
+⁺ɟori mən
 ⁺hala
 hamzuməx
 ⁺xarta
 ʾani
-taməzzannun p
+p taməzzannun
 mara
 balcət
 ʾana
@@ -162819,7 +162819,7 @@ la
 vud
 ʾaxnan
 ɟvirəx
-dana xa da
+xa dana da
 bruna
 ʾətlan
 mədrə
@@ -162833,9 +162833,9 @@ hal ʾadiyya
 ʾadiyya
 mu
 vitəla
-ʾatxa k̭at
+k̭at ʾatxa
 vadət
-cu məndit
+məndit cu
 ʾat
 tanət
 ʾana
@@ -162851,11 +162851,11 @@ xašvət
 k̭ala
 len
 vada
-cu məndit
+məndit cu
 vadət
 xa
 yuma
-b daryannux
+daryannux b
 k̭at
 cullə
 ⁺ʾalma
@@ -162874,7 +162874,7 @@ mara
 xa ilə
 xob
 k̭ala
-ʾodan le
+le ʾodan
 ʾana
 ⁺xulasa
 ʾaha
@@ -162887,11 +162887,11 @@ bərrəšxən
 damxən
 ⁺raba
 šuršiyyən
-xa məndi da
+xa da məndi
 lətva
 ʾana
 ⁺ʾaxlənva
-mu k̭a
+k̭a mu
 lətva
 xa ʾaxča
 nuynə
@@ -162907,7 +162907,7 @@ məndi
 k̭edamta
 ʾana
 p̂ṱ azən
-⁺šula ⁺ʾal
+⁺ʾal ⁺šula
 ʾatən
 ⁺ṱamta
 k̭ati
@@ -162935,12 +162935,12 @@ nišank̭a
 nomur
 address
 lətva
-ci taniva
+taniva ci
 carmət
 baba
 masalan
-mən babe
-carma xa
+babe mən
+xa carma
 pišələ
 ilə ⁺ʾavun
 ya
@@ -162957,7 +162957,7 @@ len ⁺bədda
 ʾica
 ʾatxa
 šəmma
-yavvi ci
+ci yavvi
 mara
 ʾe
 ⁺ʾarrət
@@ -162971,7 +162971,7 @@ cutan
 palxən
 ⁺tama
 mara
-mu avə p̂ṱ
+p̂ṱ avə mu
 k̭edamta
 ʾana
 mayyan
@@ -163016,11 +163016,11 @@ ducta
 šk̭əlla
 xa məndi
 ⁺k̭irala
-danə tre
+tre danə
 nuynə
 laxxa
 muttila
-danə tre
+tre danə
 ⁺tamma
 ⁺tamma
 ʾatxa
@@ -163033,7 +163033,7 @@ mubyənnun
 xəšlə
 ⁺šula
 k̭edamta
-zə ʾayən
+ʾayən zə
 k̭əmla
 ṱamta
 ⁺hazər
@@ -163062,9 +163062,9 @@ m ⁺uydalə
 prək̭lun
 mərrə
 ⁺bəddayət
-mu ila
+ila mu
 ʾana
-ʾe dan
+dan ʾe
 ʾa
 ducta
 cutan
@@ -163072,18 +163072,18 @@ mxayonva
 cma
 nuynə
 pləṱlun
-axxa m
+m axxa
 ʾaslan
 ʾana
-xayyi ɟu
+ɟu xayyi
 lenva
 xəzya
 nuynə
-⁺ʾarra mən
+mən ⁺ʾarra
 ⁺palṱi
 ʾayya
 mara
-mu k̭a
+k̭a mu
 k̭am
 let
 xəzya
@@ -163096,13 +163096,13 @@ babi
 len ⁺bədda
 savuni
 ⁺danət ʾe
-azəlva c
+c azəlva
 ptana
-avədva c
+c avədva
 nuynə
-⁺ʾarra ɟu
-ci ⁺palṱiva
-mayyiva ci
+ɟu ⁺ʾarra
+⁺palṱiva ci
+ci mayyiva
 beta
 məjjət
 marət
@@ -163116,7 +163116,7 @@ lenva
 ⁺šəmya
 xa ʾaxča
 məndi
-len xəzya
+xəzya len
 xob
 let
 xəzya
@@ -163148,7 +163148,7 @@ nuynə
 šk̭əlla
 lublela
 ⁺ruppela
-šak̭ita ɟu
+ɟu šak̭ita
 xəšlun
 ʾani
 ʾadi
@@ -163159,10 +163159,10 @@ cena
 nuynə ʾan
 mut
 nuynə
-ʾan t
+t ʾan
 ʾana
 mən
-⁺ʾarra ɟu
+ɟu ⁺ʾarra
 pulṱenva
 ʾəm
 ⁺ʾarra
@@ -163172,7 +163172,7 @@ nara
 ʾina
 ʾat
 mərrax
-ʾe ⁺dan
+⁺dan ʾe
 sel
 bitayəla
 ʾannə
@@ -163182,12 +163182,12 @@ sel
 mayela
 miyya
 mayena
-marza ⁺ʾal
+⁺ʾal marza
 ʾita
 ʾannə
 bərrəšxəna
 ʾupra ɟu
-ṱina ɟu
+ɟu ṱina
 ɟarvusəna
 vayəna
 nuynə
@@ -163227,7 +163227,7 @@ našə
 mən mata
 bitayəna
 mara
-mu k̭a
+k̭a mu
 mxayot
 ʾa
 brata
@@ -163245,12 +163245,12 @@ ptana
 ⁺bar
 marzət
 nara
-⁺ʾarra xa
+xa ⁺ʾarra
 ʾətli
 ʾayən
 ptana
 vadonva
-⁺ʾarra mən ɟu
+mən ɟu ⁺ʾarra
 ⁺pləṱlun
 danə cma
 ⁺ʾəsra danə
@@ -163260,7 +163260,7 @@ muyyeli
 beta
 mərri
 k̭a da
-k̭udmə k̭at
+k̭at k̭udmə
 bašlatlun
 ʾaha
 mərra
@@ -163271,12 +163271,12 @@ bušəlte
 ʾani
 našə
 mərrun
-⁺ʾarra mən ɟu
+mən ɟu ⁺ʾarra
 nuynə
 ⁺pliṱəna
 hi
 mərrun
-⁺ʾarra m ɟu
+m ɟu ⁺ʾarra
 nuynə
 le
 ⁺palṱi
@@ -163289,13 +163289,13 @@ la
 ɟano
 mərra
 savuni da
-ʾe ⁺dan
+⁺dan ʾe
 ʾazəlva
 ⁺ʾarra
 xapərvala
 nuynə
-ci ⁺palṱiva
-ɟavo m
+⁺palṱiva ci
+m ɟavo
 mərra
 ʾana
 len
@@ -163317,7 +163317,7 @@ dvək̭lun
 ʾak̭lu
 ⁺sirelun
 beta ɟu
-avə c
+c avə
 stuyna
 betət
 sətva
@@ -163339,16 +163339,16 @@ napli
 ʾavə
 ⁺sərrun
 k̭a daha
-stuyna ⁺ʾal
+⁺ʾal stuyna
 mərrun
-axxa m
+m axxa
 la
 jojət
 k̭edamta
 b lablaxlux
 ⁺ʾumra ⁺ʾal
 ʾatən
-dana xa
+xa dana
 ⁺nədra
 parmax
 ⁺tama
@@ -163362,9 +163362,9 @@ len
 mərtəla
 k̭ati
 mərrə
-mu avə p̂ṱ
+p̂ṱ avə mu
 k̭a dannə
-xinə da
+da xinə
 našə
 mərrun
 k̭udmə
@@ -163387,7 +163387,7 @@ parmilə ci
 k̭am ⁺tarrət
 ⁺ʾumra
 dəvxa
-odilə c
+c odilə
 mərrun
 ʾayya
 p̂ṱ odaxla
@@ -163395,7 +163395,7 @@ p̂ṱ odaxla
 xa lelə
 ɟari
 damxət
-⁺ʾumra do ɟu
+⁺ʾumra ɟu do
 b basmət
 ʾannə
 našə
@@ -163418,11 +163418,11 @@ vudlun
 yala
 sura
 ʾatən
-da ɟu
+ɟu da
 beta
 ɟari
 xayyax
-b xubba
+xubba b
 la
 ʾatxa
 ⁺šulanə
@@ -163431,16 +163431,16 @@ bəxzayət
 ʾida
 ʾak̭lux
 ⁺sirə
-da k̭edamta
+k̭edamta da
 b k̭emi
-b lablilux
+lablilux b
 xa lelə da
 ɟu
 ⁺ʾumra
 ɟari
-do ɟu
+ɟu do
 xəšca
-b nošux
+nošux b
 damxət
 ʾatən
 čun
@@ -163453,7 +163453,7 @@ mərri
 k̭atux
 xa ⁺ʾal
 yuma
-b daryannux
+daryannux b
 k̭at
 ʾatən
 šaddənnət
@@ -163473,7 +163473,7 @@ biyyo
 šrilun
 ʾana
 xina
-mən dannə
+dannə mən
 ⁺šulanə
 lətli
 ʾana
@@ -163495,7 +163495,7 @@ našə
 tilun
 mərra
 hammən
-lelə ʾad
+ʾad lelə
 ʾana
 hal k̭edamta
 təvli
@@ -163509,8 +163509,8 @@ viyyələ
 xa yuma
 ⁺malla
 bərrəxšələ
-xa naša cəs
-naša ʾo
+cəs xa naša
+ʾo naša
 bəxzayələ
 k̭at
 ⁺malla
@@ -163519,23 +163519,23 @@ b davə
 ʾatxa
 ⁺ṱavulələ
 biyye
-naša ʾo
+ʾo naša
 bitayələ
 mara
 ⁺mallələ
 xmarələ
-mut ⁺yaṱṱə
+⁺yaṱṱə mut
 dava
-mu ilə
+ilə mu
 sima
-mu ilə
+ilə mu
 bərrənč
-mu ilə
-li ⁺yaṱṱə
+ilə mu
+⁺yaṱṱə li
 k̭emən
 ʾazən
 šak̭lən
-mənnu ʾan davə
+mənnu davə ʾan
 mara
 ⁺malla
 ʾannə
@@ -163547,9 +163547,9 @@ yavvətlə
 ʾana
 ʾəmma
 ⁺dinarə
-zuyzə k̭ax
+k̭ax zuyzə
 b yavvən
-mən xmara
+xmara mən
 ⁺bak̭urələ
 mara
 ʾatən ʾən
@@ -163557,7 +163557,7 @@ mara
 ɟahə
 hurhəmlax
 ʾana
-b ⁺yaṱṱən
+⁺yaṱṱən b
 ʾat k̭at
 duz
 marət
@@ -163568,7 +163568,7 @@ xmara
 ɟahə
 harhumələ
 ⁺bəddarəl
-naša k̭a do
+k̭a do naša
 marələ
 xmara
 b xmaruytu
@@ -163593,19 +163593,19 @@ na bərrənč
 ʾat
 ⁺bayyət
 dava
-ʾidi mən
+mən ʾidi
 šak̭lətlə
 ʾina
-⁺bak̭ər si
+si ⁺bak̭ər
 mən xmarti
 xmarti
-diyyux k̭a
+k̭a diyyux
 malpa
 ʾətva
 lətva
 ɟu matət
 ⁺spurġan
-dana xa
+xa dana
 naša
 k̭at pəlxanəva
 ⁺bayyəva
@@ -163613,14 +163613,14 @@ baxta
 ɟavərva
 ⁺ṱavvuyələ
 ⁺ṱavvuyələ
-xa baxta
+baxta xa
 bəɟvarələ
 šəmmo
 ⁺mahəva
 ʾa
 ⁺mahə
 ⁺ʾuxča
-naša k̭a da
+k̭a da naša
 ⁺ʾajjuzəla
 la
 pəlxanəla
@@ -163629,7 +163629,7 @@ hatta
 cipə
 ⁺rappuyəla
 b riš
-naša da
+da naša
 ʾiman
 bitayələ
 beta
@@ -163645,13 +163645,13 @@ sk̭idələ
 xa yuma
 palɟət
 lelə
-k̭a ⁺mahə
+⁺mahə k̭a
 ⁺marrušələ
 mara
 ⁺mahə
-dana xa
+xa dana
 marɟanitəla
-dana xa ɟu
+xa dana ɟu
 k̭unya
 vela
 ⁺ɟurta
@@ -163663,19 +163663,19 @@ k̭a diyyax
 xošax
 ʾatya
 mənno
-xzilə ta
-mu ilə
+ta xzilə
+ilə mu
 mara
 ʾazəx
 bərrəxšələ
 xa ⁺xola
 ⁺bəsyarələ
-da ⁺ʾal
+⁺ʾal da
 ⁺mahə
 ⁺sara
 ⁺baru
 ⁺rappuyələ
-de ɟu k̭unya
+ɟu k̭unya de
 max
 marganita
 ⁺raba
@@ -163686,7 +163686,7 @@ xa ⁺xola
 ⁺mahə da
 ⁺bəsyarələ
 ⁺šadurolə
-de ɟu
+ɟu de
 k̭unya
 k̭at
 ʾe
@@ -163703,11 +163703,11 @@ mara
 hi
 ⁺xola
 ⁺rappuyulə
-dana xa
+xa dana
 cipa
-zə ⁺ɟura
+⁺ɟura zə
 mattuyələ
-de ⁺ʾal
+⁺ʾal de
 ⁺bəzza
 ⁺mahe
 bəšvak̭olə
@@ -163722,11 +163722,11 @@ manši
 basət
 baxta
 xina
-cma šənnə
+šənnə cma
 ⁺varəla
-cma šənnə
+šənnə cma
 ⁺vərtəla
-dana xa
+xa dana
 ⁺čoban
 velə
 ʾərbə
@@ -163737,20 +163737,20 @@ bətyavələ
 cəs
 cipa do
 cəs
-do cipət
-ʾe ⁺mahə k̭at
-do ⁺bəzzəla ɟu
+cipət do
+⁺mahə k̭at ʾe
+⁺bəzzəla do ɟu
 ʾatxa
-bətyavələ k̭at
+k̭at bətyavələ
 cipa
 dulə
 bəjvaja
 xač̭č̭a
 xarbusulə
-b xa ɟa
-dana xa
+ɟa xa b
+xa dana
 tanina
-⁺bəzza mən do
+mən ⁺bəzza do
 bək̭yamələ
 ⁺ʾullul
 bəsyak̭ələ
@@ -163772,11 +163772,11 @@ mu
 vitəla
 mara
 xa
-cma šənnə
-k̭am m ʾadi
-xa baxta
+šənnə cma
+m k̭am ʾadi
+baxta xa
 ⁺pušṱalun
-mən ⁺tama
+⁺tama mən
 šəmmo
 ⁺mahəva
 xa
@@ -163790,33 +163790,33 @@ xina
 ʾadi
 cum
 ⁺bayyət
-da dunyə ɟu
+ɟu dunyə da
 ʾana
-diyyux k̭a
+k̭a diyyux
 yavvən
 k̭at
 xayyi
 purk̭elux
 mara
 len ⁺bədda
-mu tanən
-mu ⁺bayyən
+tanən mu
+⁺bayyən mu
 mara
 ʾana
 ⁺bəddayən
 mu
-odən ṱ
+ṱ odən
 k̭atux
-dana xa
+xa dana
 bratəla
-de ɟu
+ɟu de
 ⁺ʾatra
 xita
 brat malcəla
 azən ṱ
 xardən
 marzananət
-de brata
+brata de
 cut
 tilə
 ⁺axlənnə ṱ
@@ -163828,11 +163828,11 @@ tilux
 ɟani
 park̭ənna
 ⁺ʾazad
-ṱ odənna
+odənna ṱ
 k̭at
 brati
 yavvila
-diyyux k̭a
+k̭a diyyux
 ʾavət
 brun malca
 mara
@@ -163843,7 +163843,7 @@ har
 vadulə
 bərrəxšələ
 ⁺xarduyələ
-de brata ⁺ʾal
+⁺ʾal brata de
 k̭ošun
 bərrəxšəla
 mən ⁺ʾatravay
@@ -163856,13 +163856,13 @@ lena
 k̭a da
 tanina
 majvəjji
-⁺čoban ʾa
+ʾa ⁺čoban
 nixa
 nixa
 ʾurxa
 bərrəxšələ
 ⁺mṱayələ
-de ⁺ʾal
+⁺ʾal de
 mdita
 bərrəxšələ
 k̭a malca
@@ -163877,7 +163877,7 @@ purk̭alux
 ʾana
 malcən
 malcuyti
-diyyux k̭a
+k̭a diyyux
 yavvənna
 mara
 ⁺raba
@@ -163894,25 +163894,25 @@ da
 ⁺čoban
 brata
 ⁺rappuyolə
-⁺čoban zə k̭a
+k̭a ⁺čoban zə
 marələ
 mara
 ʾən
-xa ɟa
+ɟa xa
 xita
 ʾana
-xa ɟa
+ɟa xa
 ⁺šula ʾa
 k̭atux
 odənnə ṱ
 čun
 ʾat
-xa ɟa
+ɟa xa
 xayyi
 purk̭et
 ʾina
 ʾən
-xa ɟa
+ɟa xa
 xita
 tilux
 xa mdita
@@ -163923,13 +163923,13 @@ xita
 našə
 xinə
 park̭əttun
-⁺axlənnux ṱ
+ṱ ⁺axlənnux
 ʾatət la
-diyyi ⁺bar
-diyyi ⁺bar
+⁺bar diyyi
+⁺bar diyyi
 ʾatət la
 fak̭at
-xa ɟa
+ɟa xa
 ʾatət
 mara
 ⁺raba
@@ -163940,7 +163940,7 @@ brata
 ⁺rappuyolə
 bərrəxšələ
 malca
-⁺čoban k̭a da
+k̭a da ⁺čoban
 malcuyta
 yavolə
 brun
@@ -163948,20 +163948,20 @@ malca
 vayələ
 malca
 vayələ
-cma šənnə
+šənnə cma
 mədrə
 ⁺varəla
-cma šənnə
+šənnə cma
 ⁺varəla
 ⁺xabra
 mayəna
-k̭a da malca
+k̭a malca da
 k̭at
 malca
 ʾavət
 basima
-de mdita ɟu
-zə xita
+ɟu mdita de
+xita zə
 ʾo
 taninət
 k̭at
@@ -163990,20 +163990,20 @@ mara
 ⁺raba
 ⁺spay
 bitayələ
-xətnu k̭a da
+k̭a da xətnu
 marələ
 k̭əssat
 marolə
 marələ
 k̭at
 xuš
-de mdita ɟu
+ɟu mdita de
 xita
 xa
 tanina
 velə
 ⁺ʾal
-xa brat malca
+xa malca brat
 xita
 purtəllələ
 parək̭la
@@ -164013,7 +164013,7 @@ mənnux
 čun
 ʾani
 ⁺raba
-ina dost
+dost ina
 k̭urba
 mditəla
 mən diyyan
@@ -164028,11 +164028,11 @@ b cma
 racavə
 bərrəxšəna
 ⁺tama
-de mdita ⁺ʾal
+mdita ⁺ʾal de
 ⁺mṱayəna
 bərrəxšelə
 bəsyak̭ələ
-ductət ʾo
+ʾo ductət
 k̭at
 tanina
 brata
@@ -164040,13 +164040,13 @@ xurdiyyolə
 tanina
 har
 ⁺ʾayno
-⁺čoban da ⁺ʾal
+da ⁺ʾal ⁺čoban
 ⁺bəmṱayəla
 brata
 ⁺rappuyolə
 bitayələ
 k̭at
-⁺čoban k̭a
+k̭a ⁺čoban
 ⁺ʾaxəl
 partulələ
 marzananət
@@ -164057,7 +164057,7 @@ cli
 cli
 ʾana
 tanən
-⁺ʾaxlətti mən k̭am
+k̭am mən ⁺ʾaxlətti
 tanənnox
 ʾat
 xayyi
@@ -164069,27 +164069,27 @@ vidət
 šidana
 len
 ʾatən k̭at
-diyyux k̭a
+k̭a diyyux
 məndi
 ʾat ʾət
 ⁺ʾaxlətti
 bas
 mara
-mu k̭a
+k̭a mu
 tilux
 ʾana
 len
 mira
 k̭atux
 k̭at
-xa ɟa
+ɟa xa
 ʾana
 k̭atux
 ʾatxa
-odən ṱ
+ṱ odən
 ɟat
 tre
-⁺axlənnux ṱ
+ṱ ⁺axlənnux
 mara
 hi
 ⁺bəddayən
@@ -164098,7 +164098,7 @@ mirət
 ʾina
 ʾana
 tiyyən
-diyyux k̭a
+k̭a diyyux
 park̭ən
 mara
 mut
@@ -164106,7 +164106,7 @@ k̭a diyyi
 park̭ət
 mara
 ⁺šəmyən
-cipa ʾo
+ʾo cipa
 bətxarət
 mara
 hi
@@ -164125,7 +164125,7 @@ diyyux
 ʾa har
 ⁺tama
 tanina
-ʾe brata
+brata ʾe
 ⁺rappuyolə
 xina
 bərrəxšələ
@@ -164183,7 +164183,7 @@ mərrə
 cačaləva
 cačala
 ⁺bəddayət
-mu ilə
+ilə mu
 cosa
 lətvalə
 k̭a brunu
@@ -164196,9 +164196,9 @@ masət
 daray
 canšət
 ctayay
-b yavvət
+yavvət b
 ⁺k̭aṱunyay
-b yavvət
+yavvət b
 suysavay
 vobšem
 ʾatən
@@ -164213,7 +164213,7 @@ pəlxanəna
 hada
 cullə
 paryadak̭
-bete ɟu
+ɟu bete
 ʾaha
 msayələ
 bašulələ
@@ -164262,7 +164262,7 @@ cut
 lelə
 xa
 mənnoxun
-ṱ atitun
+atitun ṱ
 ⁺ʾalli
 ⁺k̭aravul
 ʾatitun
@@ -164272,9 +164272,9 @@ calitun
 ba
 mara
 ba
-p̂ṱ atax
+atax p̂ṱ
 ba
-ʾatax le
+le ʾatax
 ʾa
 lubəllun
 ⁺ṱumərrun
@@ -164306,14 +164306,14 @@ p̂ṱ azəl
 ⁺ɟura
 mərrə
 ʾana
-lelə ʾad
+ʾad lelə
 ʾana
 p̂ṱ azən
 xəšlə
 muttilə
 rišu
 rək̭k̭a
-axxa m
+m axxa
 ⁺k̭uyra ⁺ʾal bat
 muttilə
 rišu
@@ -164341,7 +164341,7 @@ xəzya
 ʾo
 lelə
 xina
-ʾo t
+t ʾo
 ⁺ʾaralləġ
 ʾaxuna
 bəššələ
@@ -164359,7 +164359,7 @@ məndi
 di
 mərrə
 ʾa spar
-lelə ʾad
+ʾad lelə
 nobət
 diyyilə
 ʾana
@@ -164388,12 +164388,12 @@ xa
 poxa
 tilə
 xa
-dana xa
+xa dana
 ʾatxa
 ⁺savanta
 poxa
 ⁺hava
-dana xa
+xa dana
 danə ⁺ṱla
 ⁺məsyay
 ⁺ruppilə
@@ -164407,24 +164407,24 @@ tilə
 šk̭ul
 labəl
 ⁺ṱašilun
-xa k̭a
+k̭a xa
 naša
 sərrux
 la
 tanilə
 ʾannə
-diyyux k̭a
+k̭a diyyux
 na ⁺lazəm
 ʾannə
-diyyux k̭a
+k̭a diyyux
 na ⁺lazəm
-xa k̭a
+k̭a xa
 naša
 la tani
 labəl
 ⁺ṱašilun
 tilə
-sus pus u
+pus u sus
 k̭əmlə
 ʾannə
 ⁺məsyay
@@ -164463,7 +164463,7 @@ yarxə
 ɟušək̭lə
 ⁺ʾamman
 abyavlyeniye
-mu ila
+ila mu
 məxyəna
 cəs
 hənna
@@ -164512,16 +164512,16 @@ cačala
 mara
 lətlan
 xela
-ʾazax le
+le ʾazax
 mərrə
 de
-ʾe ⁺danta
+⁺danta ʾe
 ʾatən
 cačala
 puš
 beta
 ʾaxnan
-ṱ azax
+azax ṱ
 tre
 ʾaxunvay
 k̭əmlun
@@ -164547,7 +164547,7 @@ cullə
 ⁺šulu
 vədlə
 ⁺vərrə
-paɟa ɟu
+ɟu paɟa
 ⁺slutu
 ⁺sulyalə
 mərrə
@@ -164597,22 +164597,22 @@ talxənna
 ya
 šok̭ənna
 mərrə
-brat malca
+malca brat
 dəžmən
 bitayələ
 maxə
-brat malca
-ʾe ⁺ɟurta
+malca brat
+⁺ɟurta ʾe
 labulona
 mərrə
 ʾadiyya
 ⁺bussahat
 tuy
-ɟu m ⁺hava
+m ɟu ⁺hava
 suysa
 prəxlə
 ⁺ʾallo
-dana xa
+xa dana
 ⁺sumurk̭uš
 tanila
 cumta
@@ -164628,7 +164628,7 @@ mara
 xač̭č̭a
 cup
 bəcyapələ
-cut mənne
+mənne cut
 xa
 k̭amči
 tapuvvelə
@@ -164644,9 +164644,9 @@ cačala
 ʾat
 həč
 duca
-ʾazət le
+le ʾazət
 xəšlə
-sepu da
+da sepu
 ɟubbaz
 cumta
 sepa
@@ -164655,16 +164655,16 @@ xəšlə
 cullə
 purziyyelə
 ⁺vərrə
-xa ɟa
-malca ɟu bet
+ɟa xa
+bet ɟu malca
 mxilə
 ⁺č̭uxč̭əxlə
-brat malca
-ʾe ⁺ɟurta
+malca brat
+⁺ɟurta ʾe
 šk̭ilalə
 muyyalə
 muttalə
-paɟa ɟu
+ɟu paɟa
 parda
 ɟrəšlə
 mərrə
@@ -164693,7 +164693,7 @@ parmənnax
 la
 la
 la
-ʾodan le
+le ʾodan
 tilə
 təvlə
 ʾaxunvatu
@@ -164740,7 +164740,7 @@ tre
 gona
 ʾazax
 mara
-ʾe t ⁺ʾaralləġ
+t ⁺ʾaralləġ ʾe
 mayyax
 mərrə
 xuš
@@ -164803,13 +164803,13 @@ dəžmən
 maxaxlə
 šak̭lax
 mayyax
-ʾe ⁺dan
+⁺dan ʾe
 la
 vuuu
-ɟu m ⁺hava
+m ɟu ⁺hava
 ʾax
 samalyot
-ʾe ⁺dan
+⁺dan ʾe
 la
 mxilə
 xəšlə
@@ -164824,7 +164824,7 @@ tilə
 taza
 bəšša
 ⁺mṱayəna
-cut mənne
+mənne cut
 xa
 k̭amči da
 tupyelə
@@ -164835,7 +164835,7 @@ mərrə
 lena
 nata
 bədvak̭a
-baba ⁺ʾal
+⁺ʾal baba
 nata
 la
 dvək̭lun
@@ -164890,7 +164890,7 @@ tuy
 tuy
 tuy
 tuy
-diyyux k̭a
+k̭a diyyux
 lela
 ⁺lazəm
 ʾaha
@@ -164911,7 +164911,7 @@ bəššəx
 brata
 surṱa
 gona
-diyyux k̭a
+k̭a diyyux
 mayyaxxa
 cačala
 mara
@@ -164928,16 +164928,16 @@ betu
 cnəšlə
 ⁺k̭urkəzlə
 xəšlə
-ʾe ⁺dan
+⁺dan ʾe
 la
 ⁺vərrə
-paɟa ɟu
-ʾe ⁺dan
+ɟu paɟa
+⁺dan ʾe
 la
 ʾe
 ⁺məsta
 šk̭ilalə
-ʾe ⁺dan
+⁺dan ʾe
 la
 məxyalə
 šəp̂p̂əšk̭a
@@ -164953,7 +164953,7 @@ sepa
 ⁺xvarta
 mən
 ⁺ṱup̂p̂urtu
-⁺k̭ərk̭əptu ⁺ʾal
+⁺ʾal ⁺k̭ərk̭əptu
 biyya
 suysu bi
 cullə
@@ -164962,7 +164962,7 @@ xanjal
 ʾa da
 dəpnu
 mxilə
-ɟu m ⁺hava
+m ɟu ⁺hava
 puuuu
 xəšlə
 xəšlə
@@ -164976,7 +164976,7 @@ sepu
 švik̭al
 ⁺tama
 məxyalə
-ɟuyda ɟu
+ɟu ɟuyda
 švik̭alə
 švik̭al
 brata
@@ -165014,7 +165014,7 @@ cumta
 tilun
 təvlun
 mara
-diyyux k̭a da
+k̭a diyyux da
 la
 ⁺məslan
 brata
@@ -165059,10 +165059,10 @@ cullə
 k̭atu
 cullə
 beti
-zə malcuyti
+malcuyti zə
 cullə
 k̭atu
-mət cu
+cu mət
 ʾətlə
 lətlə
 ʾe
@@ -165075,12 +165075,12 @@ bitayələ
 ⁺ɟura
 mara
 ⁺ṱve
-do t ⁺ʾal
+t ⁺ʾal do
 ʾaha
 vidələ
 ⁺ṱve
 ⁺ʾallu
-ɟu cullə
+cullə ɟu
 xayyu
 la
 xəšša
@@ -165125,19 +165125,19 @@ dməxloxun
 ba
 ⁺karavul
 mu tar
-avə c
-xu ʾazəl le
+c avə
+le ʾazəl xu
 daməx
 ⁺karavul
 darəc
 calə
-u ⁺ʾal p̂osṱ
+p̂osṱ u ⁺ʾal
 xazzə
 mu
 ʾət
 mu
 lət
-mattə ci
+ci mattə
 rišu
 ci ⁺ṱallə
 bəxzayətun
@@ -165170,7 +165170,7 @@ jəns
 cul
 davəlta
 k̭ate
-⁺ʾal p̂osṱ
+p̂osṱ ⁺ʾal
 cullə
 mattuvvena
 xayye
@@ -165190,20 +165190,20 @@ yavvəllun
 k̭a diyyan
 yavvəl
 basimuyta
-diyyux k̭a da
+k̭a diyyux da
 ʾalaha
 yavvəl
 basimuyta
 ʾətva
 lətva
 xa p̂ək̭k̭a
-ʾe p̂ək̭k̭a
-ɟvarəva k̭a
-cut yum
-cut yum
+p̂ək̭k̭a ʾe
+k̭a ɟvarəva
+yum cut
+yum cut
 sak̭lava
 bak̭lava
-oyava c
+c oyava
 bərrəšša
 ndaya
 ndaya
@@ -165211,7 +165211,7 @@ yan
 mačxava
 xa
 ⁺ɟora
-ɟano k̭a
+k̭a ɟano
 ⁺xarta
 iva ṱ
 xa yuma
@@ -165248,15 +165248,15 @@ mirəva
 ta
 mənni
 ʾana
-b ɟorənnax
-ʾa ⁺buk̭rači
+ɟorənnax b
+⁺buk̭rači ʾa
 mirəva
 ʾita
 mirəva
 ʾən
 carbitən
-mu bi
-b maxətti
+bi mu
+maxətti b
 mirəva
 bi da
 k̭esi
@@ -165264,7 +165264,7 @@ maxənnax
 ho
 ʾay
 day
-mu jura
+jura mu
 bi da
 kesi
 ⁺k̭əṱma ʾu
@@ -165278,7 +165278,7 @@ le
 xəšla
 p̂ək̭k̭a
 xəšla
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 mədrə
 ⁺pləṱla
@@ -165324,7 +165324,7 @@ hi
 ʾita
 mərrə
 ʾana
-b ɟorənnax
+ɟorənnax b
 p̂ək̭k̭a
 ⁺boci
 ʾita
@@ -165333,9 +165333,9 @@ k̭atu
 ʾən
 ɟorətti
 ʾərbači
-mu bi
+bi mu
 maxətti
-mu bi
+bi mu
 maxənnax
 mərrə
 bi da
@@ -165396,21 +165396,21 @@ hi
 mərra
 ʾita
 ʾana
-b ɟorənnax
+ɟorənnax b
 ʾita
 mərra
 ʾən
 ɟorətti
-mu bi
+bi mu
 maxətti
 mərtəva
 pək̭k̭a
 ʾa
 ṱup̂ri
 b maxənnə
-k̭amxa ɟu
+ɟu k̭amxa
 hi
-b ⁺šešənnə
+⁺šešənnə b
 ⁺xasax ɟu
 hi
 mərtəva
@@ -165425,7 +165425,7 @@ tila
 ʾa
 p̂ək̭k̭a
 ⁺boca
-da ham
+ham da
 ʾo
 ⁺ʾak̭ubra
 ɟvərre
@@ -165439,7 +165439,7 @@ rək̭da
 xa
 švara
 p̂ək̭k̭a
-da ham
+ham da
 ⁺ʾak̭ubra
 ɟvərre
 ɟvərrə
@@ -165449,24 +165449,24 @@ hi
 ⁺dana
 ʾannə
 p̂ək̭k̭a
-da ham
+ham da
 ʾak̭ubra
 viyyelə
-yal sur
-yal sur
+sur yal
+sur yal
 ʾita
 xa yuma
 ⁺xluylət
 malcəva brun
 ʾadiyya
-riš šita da
+riš da šita
 bitayəla
 ʾadiyya
 həč
 məndi
 lətle
 p̂ək̭k̭a
-da ham
+ham da
 ⁺ʾak̭ubra
 mu
 ʾətle
@@ -165481,14 +165481,14 @@ mu
 ⁺maxlile
 ⁺xarta
 mirəva
-⁺zdi la
+la ⁺zdi
 baxta
 ʾatən
 tuy
 beta
 velə
 ⁺xluylət
-malcələ brun
+brun malcələ
 ʾana
 p̂ṱ azən
 xač̭č̭a
@@ -165502,7 +165502,7 @@ yal surə
 p̂ṱ odax
 xa
 zak̭usk̭a
-yal k̭a surə
+k̭a yal surə
 riš šita
 p̂ṱ oraxla
 da hi
@@ -165517,18 +165517,18 @@ xəšlə
 štilə
 ⁺rvilə
 ⁺k̭əṱma
-b rišət
+rišət b
 ⁺ʾak̭ubra
 tilə
 pəšlə
 dməxlə
 ⁺tama
 ʾa
-da p̂ək̭k̭a
+p̂ək̭k̭a da
 ⁺ʾayno
 ʾurxəla ⁺ʾal
 clitəla
-da ⁺ʾal
+⁺ʾal da
 ⁺ʾak̭ubra
 lət
 ⁺ʾak̭ubra
@@ -165558,7 +165558,7 @@ da hi
 ⁺xarta
 ⁺ʾak̭ubra
 šk̭əlla
-cut jur
+jur cut
 iva ṱ
 muyyila
 beta
@@ -165585,13 +165585,13 @@ pəlla
 ʾak̭lət ɟu
 calla
 pəlla
-ɟu ⁺ṱina
+⁺ṱina ɟu
 hada ʾu
 pəlla
 ⁺tama
-cma t
+t cma
 vadəla
-cma t
+t cma
 vadəla
 lela
 ⁺myasa
@@ -165628,25 +165628,25 @@ si
 si
 mənnux
 čərtən
-da čərtət
+čərtət da
 čərtət
 mxilə
 xa
-da ⁺rapsa
+⁺rapsa da
 har
 xa ca da
 buš
 muṱmərralə
-de ⁺ʾarra ɟu
+ɟu ⁺ʾarra de
 švək̭lə
 ⁺ʾak̭ubra ʾo
 tilə
 tilə
-cəs yalu
+yalu cəs
 ʾe
 p̂ək̭k̭a
 švik̭alə
-de ɟu
+ɟu de
 ʾak̭lət
 calla
 hi
@@ -165664,20 +165664,20 @@ xmaru
 taluk̭ulə
 xmara
 bətlak̭a
-lət xmara
+xmara lət
 bədrayələ
 k̭alə
-ʾay ⁺havar
+⁺havar ʾay
 xmari
 tlik̭ələ
-cut mačəxlə
-dana xa
+mačəxlə cut
+xa dana
 ⁺dinar
 b yavvənnə
 xmara
 bətlak̭a
 bərrəxšələ
-da ⁺malla
+⁺malla da
 mara
 xodɑ
 šucr
@@ -165700,7 +165700,7 @@ təžbuxta
 ʾalaha ⁺ʾal
 našə
 mara
-k̭a mudi
+mudi k̭a
 xmarux
 tlik̭ələ
 ʾina
@@ -165714,8 +165714,8 @@ massuk̭ən
 k̭at ɟani
 lenva
 xmara ⁺ʾal
-ʾavənva ʾən
-da ɟani
+ʾən ʾavənva
+ɟani da
 xmara ⁺ʾal
 k̭ay da
 b labliva
@@ -165730,11 +165730,11 @@ beta ɟu
 lelə
 mačuxo
 ⁺plaṱələ
-darta ɟu
-darta ɟu
+ɟu darta
+ɟu darta
 ⁺tamma
 ⁺ṱavvuyəl
-ʾisak̭ta ⁺bar
+⁺bar ʾisak̭ta
 baxtu
 marəla
 ⁺malla
@@ -165742,9 +165742,9 @@ marəla
 ʾisak̭tux
 beta ɟu
 tulk̭ot
-mu k̭a
+k̭a mu
 xišət
-darta ɟu
+ɟu darta
 ⁺ṱavvuyə
 ⁺baro
 mara
@@ -165753,7 +165753,7 @@ beta
 xəšcələ
 ɟari
 ⁺palṱən
-darta ɟu
+ɟu darta
 ⁺barəl
 ⁺ṱavvuyən
 ⁺baro
@@ -165774,7 +165774,7 @@ savuni
 ʾiliyyəva
 ⁺roba
 iva jil
-mən k̭am
+k̭am mən
 ⁺p̂laš k̭ameta
 yalə
 jil
@@ -165797,7 +165797,7 @@ bəɟrašəla
 bitayəna
 ʾamerica
 duz
-chicago ɟu
+ɟu chicago
 ⁺mṱayəna
 chicago
 ⁺tama
@@ -165821,41 +165821,41 @@ jil
 ʾiliyyəva
 ʾiliyya
 daniyyəl
-babu k̭a
+k̭a babu
 zuyzə
 ⁺šadurələ
 mən
 chicago
 pəlxanələ
 mara
-b xa dana
+xa b dana
 bita
-xayyənva ci
+ci xayyənva
 le
 ⁺ʾaxlənva
 zuyzə
 ⁺jammənva ci
-babi k̭a
+k̭a babi
 ⁺šadrənva
 ⁺ʾatra ɟu
-ci taniva
-ʾurmi k̭a
-ci taniva
+taniva ci
+k̭a ʾurmi
+taniva ci
 ⁺ʾatra
 zuyzə
-⁺šadərva ci
+ci ⁺šadərva
 xa ʾəsri
 xamša
 šənnə
 ⁺varəna
 ⁺bəddayələ
-⁺bayyə k̭at
+k̭at ⁺bayyə
 ɟavər
 mara
 le
 ɟorən
 laxxa
-de ɟu
+ɟu de
 ⁺ʾatra zə
 ⁺yanə
 ⁺spurġan
@@ -165866,23 +165866,23 @@ helinəva
 ⁺roba
 šap̂ərta
 vitəla
-ʾe ⁺dan ɟano
+ɟano ⁺dan ʾe
 nanunti
 vayəla
 ʾa brata
 ⁺roba
 šap̂ərta
 vita
-ʾiliyya ʾa
+ʾa ʾiliyya
 b surutu
 ⁺biyyolə
 mədrə
 bətyavələ
 ɟami ɟu
 ⁺bəddarələ
-⁺spurġan ⁺ʾal
+⁺ʾal ⁺spurġan
 mara
-ʾe ⁺dan k̭at
+k̭at ⁺dan ʾe
 ⁺bəddarəxva
 k̭alət
 ⁺topə
@@ -165911,7 +165911,7 @@ xa naša
 ⁺rama
 ⁺ʾaynu
 miləva
-dana xa
+xa dana
 suysa
 ⁺xvara
 bəzvanələ
@@ -165930,7 +165930,7 @@ zvinəva
 bitayələ
 ʾurmi ɟu
 bərrəxšələ
-nanunti k̭at
+k̭at nanunti
 xazzila
 nanunti
 ⁺roba
@@ -165944,8 +165944,8 @@ savuyni
 laxuyməva
 jibatu
 məlyəva
-mən dannə
-ə pencil
+dannə mən
+pencil ə
 ⁺xodkarə
 davanayə
 masalan
@@ -165953,20 +165953,20 @@ tanuyə
 ⁺ʾəsra danə
 ⁺xodkarə
 ʾətvalə
-dana xa da
+xa dana da
 ⁺saʾat
-mən ⁺saʾattə dan
+mən dan ⁺saʾattə
 ʾamricayə
 ⁺ɟurə
-da ɟu
+ɟu da
 jibu
 vitəla
 nanunti
 savuni har
 bəxzayula
-mən dannə
+dannə mən
 ⁺xodkarə
-de mən ⁺saʾat
+⁺saʾat mən de
 xošo
 bitayəla
 savuni k̭a
@@ -165986,7 +165986,7 @@ xa
 ⁺varəla
 ʾa
 sapar
-k̭ala k̭oxa
+k̭oxa k̭ala
 bitayələ
 palɟət
 lelə
@@ -166022,7 +166022,7 @@ yarxə
 ya
 ⁺ṱla
 yarxə
-talɟa ɟu
+ɟu talɟa
 vayəna
 ʾurxa
 bərrəxša
@@ -166038,9 +166038,9 @@ mavat
 ⁺hayəstan
 ⁺mṱayəna
 mara
-ʾurxət da ɟu
-bərrəxšəxva k̭at
-da talɟa ɟu
+da ɟu ʾurxət
+k̭at bərrəxšəxva
+ɟu talɟa da
 ⁺roba
 našə
 yal surə
@@ -166056,17 +166056,17 @@ yal surə
 lablivalun
 ya
 ⁺roba
-soyatə ʾətva
+ʾətva soyatə
 bənpaləva
 ⁺hayyurəxva
-dani k̭a
+k̭a dani
 labuləxva
 anyway
 ⁺mṱayəna
 ⁺ʾal
 ⁺hayəstɑn
 xa ɟu matət
-ʾarmanəs ⁺tɑn la
+la ʾarmanəs ⁺tɑn
 ⁺tama
 pyašəna
 tre šənnə
@@ -166106,7 +166106,7 @@ foreman
 nak̭šə
 ⁺bašurələ
 ⁺k̭arə
-zə ⁺tama
+⁺tama zə
 mantuyələ
 savuni
 duccananət
@@ -166114,7 +166114,7 @@ duccananət
 šteta
 ptaxəl
 ⁺tama
-⁺rusya ɟu
+ɟu ⁺rusya
 xob
 vazyatte
 ⁺spay
@@ -166125,13 +166125,13 @@ vazyatte
 vayəla
 revolution
 vayəla
-⁺rusya ɟu
+ɟu ⁺rusya
 ⁺yanə
 comunəsti
 vayəla
 šəmmət
 savuni
-ɟu list ət
+list ət ɟu
 k̭ametət
 dannə
 šəmmanələ
@@ -166157,7 +166157,7 @@ zvinelə
 dava
 videlə
 mapšurelə
-dan ɟu
+ɟu dan
 ⁺mublə
 k̭attatət
 sandaliyyə
@@ -166178,7 +166178,7 @@ yurup
 mən
 da
 ɟibət
-darya ye
+ye darya
 xazar
 bətyavəna
 ɟami ɟu
@@ -166189,7 +166189,7 @@ mən
 nanunti
 bitayəna
 ⁺ʾarp̂a
-yal zə surə
+yal surə zə
 vayelə
 ʾe
 ⁺danta
@@ -166197,32 +166197,32 @@ yal surə
 xina
 ⁺ɟurə
 viyyəna
-⁺rusya ɟu
+ɟu ⁺rusya
 viyyəna
 ⁺k̭əryə
-b ɟami
+ɟami b
 bitayəna
-l a ybət
+l ybət a
 ⁺ʾiran
 mədrə
 bərrak̭əna
-mən ⁺tama
+⁺tama mən
 la ⁺k̭aṱlivalun
 ⁺yanə
 mar
 zuyzəna
 ʾannə
 bitayəna
-l ɟu a yba
+a l ɟu yba
 ⁺ʾiran
-zə ⁺ʾiran ɟu
+ɟu ⁺ʾiran zə
 ⁺sultanabad
 surayə
 ⁺roba
 surayə
 mən ʾarəmnayə
 ⁺roba
-⁺sultanabad ɟu
+ɟu ⁺sultanabad
 ʾurmi
 cərmanšar
 ⁺hamadan
@@ -166254,13 +166254,13 @@ b yaxsər
 ⁺ʾiranayə
 bəxšavəna
 ʾannə
-ina communist
+communist ina
 k̭ate
 communist
 ⁺šula
 leva
 yave
-zə cullə
+cullə zə
 ⁺k̭əryanəva
 ⁺k̭əryəva
 ʾina
@@ -166279,7 +166279,7 @@ anyway
 babi
 k̭at
 ⁺rabi
-va daryavuš
+daryavuš va
 bitayələ
 mu
 vadələ
@@ -166291,11 +166291,11 @@ bəɟrašulə
 reza
 ⁺šah
 k̭at
-dana xa ⁺ʾal
+xa dana ⁺ʾal
 tanina
 velə
 cəlya
-xa k̭a
+k̭a xa
 tanina
 velə
 ⁺bək̭ṱala
@@ -166328,22 +166328,22 @@ lelə
 šəcla ʾa
 k̭a malca
 k̭at reza
-⁺šah ilə
+ilə ⁺šah
 maxzilə
 čun
 ⁺bəzdayəna
 xošu
-ʾatya la
+la ʾatya
 ⁺nak̭k̭aš k̭a zə
 ⁺k̭aṱəl
 bitayəna
-brun k̭a malca
+k̭a brun malca
 k̭at
-vali ʾahd ilə
+ʾahd vali ilə
 mahamat
 reza
 ⁺šah
-malcələ brun k̭at
+k̭at brun malcələ
 k̭a ⁺davun
 maxzuyəna
 mən tariġət
@@ -166353,16 +166353,16 @@ baba
 ʾət k̭ošunayə
 ⁺dostə
 ʾətvalə
-dana xa
-dani mən zə
+xa dana
+mən dani zə
 ʾalam iva
 šəcla
 bəšk̭alələ
-mahamad k̭a do
+k̭a do mahamad
 reza
 ⁺šah
-brun malca k̭at
-vali ʾahd ilə
+brun k̭at malca
+ʾahd vali ilə
 maxzuyulə
 ⁺roba
 xošu
@@ -166376,11 +166376,11 @@ mara
 mu
 ⁺bayyət
 babi
-xa ⁺nak̭k̭aš va
-ʾe ⁺danta
+⁺nak̭k̭aš xa va
+⁺danta ʾe
 k̭at
 marən
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 masala
 ⁺nak̭k̭aš
 arzeš
@@ -166388,14 +166388,14 @@ lətvalə
 artist
 arzeš
 lətvalə
-⁺ʾiran ɟu
-zə ⁺roba
+ɟu ⁺ʾiran
+⁺roba zə
 məscinəva
-mar zuyzə
+zuyzə mar
 leva
 c ⁺aməsva
 taniva
-xa beta
+beta xa
 halli
 zuyzə
 halli
@@ -166409,21 +166409,21 @@ snik̭əva
 ʾina
 čun
 artist va
-məllattət k̭a
+k̭a məllattət
 ɟanu
 viyyələ
 taxmuna
-məllattət k̭a
+k̭a məllattət
 ⁺ʾaturayə
 taxmunələ
-dan k̭a našə
-na yaxsər k̭at
+k̭a dan našə
+na k̭at yaxsər
 bəxzayeva
 k̭at
 mu
 ʾodən
 mu
-ʾodən la
+la ʾodən
 k̭a malca
 mara
 malca
@@ -166437,9 +166437,9 @@ mən
 dur
 našət
 diyyan
-mən do ⁺ʾatrət
+mən ⁺ʾatrət do
 ⁺rusya
-k̭at tiyyəna
+tiyyəna k̭at
 l a yba
 na yaxsər
 laxxa
@@ -166450,7 +166450,7 @@ la
 ⁺šula
 yavena
 la
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bayyi
 masalan
 ʾazi
@@ -166473,7 +166473,7 @@ mədrə
 masalan
 la ⁺spurġan
 ya
-ʾurmi la
+la ʾurmi
 ⁺deri
 ⁺barayə
 malca
@@ -166510,7 +166510,7 @@ xina
 ⁺ʾazad
 bərrəxša
 bitayəna
-da ɟu
+ɟu da
 ⁺ʾarra
 ʾa
 xa
@@ -166522,11 +166522,11 @@ xina
 tanənna
 k̭amta
 ʾətva
-dana xa
+xa dana
 naša
 xəšlə
 cəs ⁺haji
-šk̭əllə mənnu
+mənnu šk̭əllə
 zuyzə
 mərrə
 ⁺haji
@@ -166534,15 +166534,15 @@ mərrə
 ʾətli
 ʾəhtəyɑj
 snik̭ən
-ʾalpa ⁺ʾal
+⁺ʾal ʾalpa
 ⁺dinarə
 zuyzə
-danət ⁺ʾe
+⁺ʾe danət
 prək̭li
 mayyən
 b yavvənnun
 šita
-cma t
+t cma
 ⁺bayyət
 nuzul
 bahre
@@ -166608,14 +166608,14 @@ basima
 ⁺raba
 k̭nili
 biyye
-cma t
+t cma
 ⁺bayyət
 bahre
 šk̭ul
 mara
 la
 ʾana
-ʾo məndit
+məndit ʾo
 mirun
 ilə ⁺ʾavun
 mara
@@ -166623,7 +166623,7 @@ mudi
 mara
 ʾana
 xa məsk̭al
-ʾəštux mən
+mən ʾəštux
 parmən
 mara
 dax
@@ -166661,11 +166661,11 @@ bərrak̭ələ
 bərrak̭ələ
 bərrak̭ələ
 bəxzayəle
-dana xa
+xa dana
 xmara
 ʾina
 velə
-ɟu ⁺ṱina
+⁺ṱina ɟu
 ṱina
 ⁺ṱmirələ
 marət
@@ -166693,25 +166693,25 @@ idu p̂
 bərrak̭ələ
 bərrak̭ələ
 marət
-da xmara
+xmara da
 ⁺baru
 marət
-da xmara
+xmara da
 ⁺bara
 bərrak̭a
 bərrak̭əl
 bərrəxšələ
-mən beta
+beta mən
 bəsyak̭əl
 ⁺ʾullul
 ⁺ṱla
 tabak̭ə
-mən ⁺tama
+⁺tama mən
 ɟanu
 ʾannə
 bitayəna
 ⁺baru
-parmi k̭at
+k̭at parmi
 mən ⁺ṱizu
 ⁺busra
 ⁺haji
@@ -166728,25 +166728,25 @@ mən ⁺ṱla
 tabak̭ə
 ɟanu
 ⁺rappuyolə
-⁺rappeta ɟu
+ɟu ⁺rappeta
 ʾətva
 ⁺tama
 xa naša
 muttəva
-k̭am šəmša
-k̭am šəmša
+šəmša k̭am
+šəmša k̭am
 daməxva
 ⁺məryəva
 muttuva
 ⁺tama
-darta ɟu
+ɟu darta
 ⁺ʾavva
-mən ⁺tama
+⁺tama mən
 ⁺ruppilə
 ɟanu
-cisət ɟu
+ɟu cisət
 ⁺davva
-da ⁺ʾavva
+⁺ʾavva da
 mətlə
 di
 marət
@@ -166757,16 +166757,16 @@ marət
 ⁺baru
 ⁺bərxaṱa
 ⁺rxəṱlə
-⁺xyavand ɟu
-dana xa
+ɟu ⁺xyavand
+xa dana
 sarhanj
 jɑndɑr
-mən baxtu
+baxtu mən
 ʾayya ʾu
 ⁺yak̭urta
 vela
 bərrəxša
-⁺marəsxana ɟu
+ɟu ⁺marəsxana
 ⁺ʾavva
 k̭ətlə
 biyyo
@@ -166784,18 +166784,18 @@ labuluna
 cəs
 mujtayyəd
 labuluna
-mujtayyəd cəs
+cəs mujtayyəd
 dəryuna
 k̭ama
 k̭ame
-ʾarək̭ la k̭at
+la k̭at ʾarək̭
 ʾadiyya
 ⁺hajilə
 marət
 xmarələ
 marət
 motanələ
-ʾu ʾaha
+ʾaha ʾu
 sarhanj
 ⁺ɟurələ
 ʾannə
@@ -166810,12 +166810,12 @@ k̭amta
 bəptaxulə
 k̭at
 ⁺ʾavər
-mujtayyəd cəs
+cəs mujtayyəd
 ⁺tarra
 ɟu ptaxtu
 bəxzayələ
 mujtayyəd
-mən xa baxtələ
+xa mən baxtələ
 mara
 climun
 climun
@@ -166829,7 +166829,7 @@ mujtayyəd
 prak̭ələ
 baxta
 bərrəxšəla
-⁺tarra do m
+m ⁺tarra do
 xina
 mujtayyəd
 pummu
@@ -166838,7 +166838,7 @@ mšaya
 mara
 maniva
 mərrə
-mujtayyəd k̭at
+k̭at mujtayyəd
 ⁺sluta
 ⁺saluyələ
 mərrə
@@ -166857,7 +166857,7 @@ temun
 ɟavay
 bətyavəna
 mara
-mu ila xob
+xob ila mu
 masala
 k̭amtət
 cullə
@@ -166868,7 +166868,7 @@ maɟar
 ʾana
 xərba
 vidən
-naša k̭a da
+k̭a da naša
 yuvvən
 ʾalpa
 ⁺dinarə
@@ -166880,7 +166880,7 @@ bahre
 len ⁺bya
 nuzul
 ʾaxči
-dana xa
+xa dana
 məsk̭al
 mən ⁺ṱizux
 parmən
@@ -166900,7 +166900,7 @@ betu ɟu
 mara
 memun
 scənta
-ʾu maseta
+maseta ʾu
 k̭a do
 yala
 mara
@@ -166924,11 +166924,11 @@ prum
 mən məsk̭al
 ʾoya
 ⁺raba
-ʾəštux mən
+mən ʾəštux
 parmənna
 ʾoya
 xač̭č̭a
-ʾəštux mən
+mən ʾəštux
 parmənna
 ʾaxči
 xa
@@ -166944,15 +166944,15 @@ len xu
 maseta
 mərrə
 bas
-calba ⁺bər
+⁺bər calba
 ʾatən
-mu ⁺bayyət
-mən naša da
+⁺bayyət mu
+da mən naša
 ⁺bayyət
-xa ɟa
+ɟa xa
 ʾəštu
 šak̭lətla
-xa k̭a məsk̭al
+k̭a xa məsk̭al
 matti
 xamšamma
 ⁺dinarə
@@ -166971,8 +166971,8 @@ mara
 ʾavən
 xlapux
 xmari
-⁺ṱinəva ɟu
-naša k̭a da
+ɟu ⁺ṱinəva
+k̭a da naša
 mərri
 ⁺hayyərri
 xmari
@@ -166985,11 +166985,11 @@ tilə
 xmari
 xmari
 pəšlə
-la d ṱupra
+la ṱupra d
 mara
 ʾa
 ⁺raba
-catun la
+la catun
 mujtayyəd
 mərrə
 ʾaha
@@ -167000,20 +167000,20 @@ vidələ
 ʾaha
 xmarux
 pəšlə
-la d ṱupra
+la ṱupra d
 mərrə
-riɟavay k̭a
+k̭a riɟavay
 ⁺palṱun
 xmarə
-darta ɟu
+ɟu darta
 muštayyəd
 ʾətlə
 ⁺raba
 riɟavatə
 ⁺puləṱlun
 xmarə
-darta ɟu
-marət k̭a
+ɟu darta
+k̭a marət
 xmara
 mərrə
 šluɟ
@@ -167026,7 +167026,7 @@ xmara
 jum
 jum
 mxilun
-cisu ɟu
+ɟu cisu
 pəllə
 ʾarra ⁺ʾal
 mərrə
@@ -167034,7 +167034,7 @@ len
 ⁺bašurə
 mərrə
 bas
-mu ⁺bayyət
+⁺bayyət mu
 balcət
 ʾatən
 ṱuprət
@@ -167046,12 +167046,12 @@ matti
 xamšamma
 dinarə
 bitayələ
-k̭a mar motana
+k̭a motana mar
 mara
 ʾatən
 mudi
 mara
-⁺k̭urban ʾa
+ʾa ⁺k̭urban
 ʾavən
 xlapux
 ʾaxuni
@@ -167059,9 +167059,9 @@ xlapux
 duk̭tuyrə
 yuvvəllun
 dastur
-ʾana k̭at
+k̭at ʾana
 mattənnə
-ɟuyda xut
+xut ɟuyda
 šəmša
 šak̭əl
 ʾa
@@ -167071,21 +167071,21 @@ mən tabak̭ət
 ⁺ṱla
 ɟanu
 ⁺ruppalə
-cisət ɟu
+ɟu cisət
 ʾaxuni
 ʾaxuni
 mətlə
 mara
 xob
-ʾa xina
+xina ʾa
 ⁺k̭əṱla
-⁺k̭əṱləla k̭a
+k̭a ⁺k̭əṱləla
 ⁺surun
 ʾidət
 da
-calba ⁺bər
+⁺bər calba
 mattimul
-ɟuyda xu
+xu ɟuyda
 suk̭
 betət
 diyyi
@@ -167108,13 +167108,13 @@ la
 la ⁺ʾamsən
 mara
 bas ʾaxtun
-mu ituva
+ituva mu
 vidə
-b riš da
+b da riš
 naša
-b riš da
-bad baxt
-mən tabak̭ət k̭at
+b da riš
+baxt bad
+mən k̭at tabak̭ət
 ⁺ṱla
 ɟanu
 čumčəmmolə
@@ -167140,23 +167140,23 @@ mara
 ʾavən
 ⁺xlapux
 ʾannə
-⁺šavva šənnə
+šənnə ⁺šavva
 ɟvirənva
 yal surə
 lətvali
 ⁺ʾuxča
 xəšli
-ʾumranə ⁺ʾal
+⁺ʾal ʾumranə
 ⁺ʾuxča
 xəšli
-duk̭tuyrə ⁺ʾal
+⁺ʾal duk̭tuyrə
 ⁺ʾuxča
 xəšli
-⁺darmananə ⁺ʾal
+⁺ʾal ⁺darmananə
 ʾaha
 ⁺ʾavva
 purpəlli
-b ʾalaha
+ʾalaha b
 baxti
 ⁺yak̭urta
 vila
@@ -167165,23 +167165,23 @@ vila
 ⁺šavva
 dak̭ik̭ə
 lablənvala k̭at
-⁺marəsxana ⁺ʾal
+⁺ʾal ⁺marəsxana
 ʾaviva
 yal suri
 ʾa
-b rišu ⁺k̭əṱma
+⁺k̭əṱma rišu b
 mxilə
 b cisət
 baxti
 baxti
 yalo
 vilə
-⁺xyavand ɟu
+ɟu ⁺xyavand
 mara
 ɟari
 baxtux
 yavvətla
-⁺davva k̭a
+k̭a ⁺davva
 baxtux
 yavvətla
 k̭atu
@@ -167201,7 +167201,7 @@ mara
 ʾana
 həč ⁺danta
 ⁺šula ʾa
-ʾodənnə le
+le ʾodənnə
 baxti
 yavvənna
 k̭atu
@@ -167213,7 +167213,7 @@ yavvənna
 k̭atu
 mara
 xob
-bas matti
+matti bas
 xamšamma
 ⁺tuyman
 ⁺tamma
@@ -167261,14 +167261,14 @@ mərrə
 ʾannə
 ʾalpa
 dinarə
-diyyux k̭a
+k̭a diyyux
 ʾannə
 ʾalpə tre
 dinarə
 k̭a diyyi
 jaldə
-axxa m xuš
-mən k̭am ət
+m axxa xuš
+k̭am mən ət
 ʾana
 ⁺xiyali
 šaxləppənna
@@ -167276,14 +167276,14 @@ xa yuma
 ⁺malla
 denanəva
 denanəva
-xa naša k̭a
+k̭a xa naša
 ʾaha
 naša
 xa yuma
 tilə
 k̭am ⁺tarra
 ⁺malla
-rək̭k̭a m
+m rək̭k̭a
 xzilə
 bitayələ
 ⁺tarra
@@ -167292,7 +167292,7 @@ bitayələ
 mərrə
 ʾən tilə
 ⁺malla
-k̭a baxtu
+baxtu k̭a
 mərrə
 tanyat
 ⁺malla k̭at
@@ -167320,7 +167320,7 @@ mirələ
 ʾana
 calyan
 k̭am ⁺tarra
-cma t
+t cma
 ʾəttən
 ʾannə
 ʾərbə
@@ -167332,9 +167332,9 @@ pəlla k̭at
 ⁺jammanna
 ʾodanna
 ɟəddalə
-ʾu ⁺zak̭ranna
+⁺zak̭ranna ʾu
 svetar
-zabnanna ʾu
+ʾu zabnanna
 k̭at mayyan
 diyyux zuyzə
 yavvannə
@@ -167347,7 +167347,7 @@ denanəxva
 k̭at
 yavvannə
 denux
-naša ʾo
+ʾo naša
 bərrəxšələ
 xa yuma
 ⁺malla
@@ -167356,9 +167356,9 @@ tivəva
 beta ɟu
 ⁺sluta
 ⁺saluyəva
-ʾalaha k̭a
+k̭a ʾalaha
 mara
-b ʾalaha
+ʾalaha b
 halli
 ʾalpa
 ⁺dinarə
@@ -167366,7 +167366,7 @@ zuyzə
 ʾalpa
 ⁺dinarə
 ʾaxči
-ʾavi la
+la ʾavi
 ⁺ʾəč̭č̭ammo
 ʾəč̭č̭i
 ⁺ʾəč̭č̭a
@@ -167379,9 +167379,9 @@ mənnux
 ⁺saluyəva
 ⁺sluta
 ⁺saluyəva
-cut yum
+yum cut
 ʾətvalə
-dana xa
+xa dana
 švava
 yala
 iva jil
@@ -167391,7 +167391,7 @@ yala
 ⁺bilə
 mattiva
 riša
-b riša
+riša b
 mən ⁺malla
 ⁺ʾavva
 mərrə
@@ -167400,7 +167400,7 @@ k̭emən
 ʾaha
 ʾa da yala
 ⁺raba
-⁺bayyiva ci
+ci ⁺bayyiva
 zuyzə
 ⁺bilə
 k̭at
@@ -167411,7 +167411,7 @@ beta
 mattuyələ
 ⁺ʾəč̭č̭ammo
 ʾəč̭č̭i
-danə ʾəč̭č̭a
+ʾəč̭č̭a danə
 ⁺dinarə
 xa ɟu
 ⁺torba
@@ -167421,12 +167421,12 @@ cəsta
 ⁺ʾəč̭č̭a
 ⁺dinarə
 mattuyəl
-ɟu ⁺torba
-ʾu yavelə
+⁺torba ɟu
+yavelə ʾu
 ⁺šadurelə
 mən ⁺bəzzət
 buxari
-mən ⁺tama
+⁺tama mən
 ⁺šadurelə
 bitayəna
 ⁺malla
@@ -167446,7 +167446,7 @@ yala
 k̭a ⁺malla
 čun ⁺malla
 marəva
-vilun ʾən
+ʾən vilun
 ⁺ʾəč̭č̭ammo
 ʾəč̭č̭i
 ʾəč̭č̭a
@@ -167454,12 +167454,12 @@ le ⁺bayyənnun
 le
 šak̭lənnun
 ʾana
-mənnux dun
+dun mənnux
 mara
-diyyux k̭a
+k̭a diyyux
 marən
 ʾaxči
-⁺dinarə ʾalpa
+ʾalpa ⁺dinarə
 xa ⁺dinar
 ʾoya
 ⁺basurta
@@ -167471,7 +167471,7 @@ xazə
 duz
 marəl
 ⁺malla
-la yan
+yan la
 ⁺torba
 ⁺pušṱalə
 ⁺ʾəč̭č̭ammo
@@ -167486,7 +167486,7 @@ xzilə
 ʾina
 xa ⁺dinar
 ⁺basura
-ʾo našət
+našət ʾo
 ⁺ʾullul
 ɟaššuk̭əl
 xazə
@@ -167500,8 +167500,8 @@ xob
 ⁺spay
 mu
 p̂ṱ avə
-ʾa sapar
-xamənnun p
+sapar ʾa
+p xamənnun
 cəsli
 ʾannə
 zuyzə
@@ -167523,7 +167523,7 @@ mən ɟarə
 cəs ⁺malla
 mara
 ⁺malla
-⁺torbət ʾe
+ʾe ⁺torbət
 k̭at
 ʾadi
 k̭atux
@@ -167541,12 +167541,12 @@ muttən
 ʾat
 k̭ol
 vidət
-mən ʾalaha
+ʾalaha mən
 ʾaxči
 ʾalpa
 ʾalpa
 ⁺dinarə
-bas ʾannə
+ʾannə bas
 ⁺ʾəč̭č̭ammo
 ʾəč̭č̭i
 ⁺ʾəč̭č̭a
@@ -167557,7 +167557,7 @@ k̭at
 ʾodənva
 k̭atux
 ⁺jarbənvalux
-ʾət diyyina
+diyyina ʾət
 hallun
 mərrə
 boro
@@ -167565,7 +167565,7 @@ baba
 ʾalaha
 k̭atux
 yavvəl
-mən xa ducta
+xa mən ducta
 xita
 mu
 tiyyət
@@ -167579,26 +167579,26 @@ məndi
 mərrə
 ʾavən
 ⁺xlapux
-har ʾadiyya
+ʾadiyya har
 ʾana
 ⁺torba
 ⁺šudrali
 k̭atux
-ʾət diyyina
+diyyina ʾət
 hallun
-yavvənnə le
+le yavvənnə
 di
 ⁺šurilun
 ⁺p̂laša zə
 č̭arč̭urə
 mərrə
-b lablənnux
+lablənnux b
 ⁺ʾal
 court
-⁺k̭azi cəs
+cəs ⁺k̭azi
 mərrə
 p̂ṱ atən
-⁺k̭azi cəs
+cəs ⁺k̭azi
 tilə
 labəlvalə k̭at
 mərrə
@@ -167614,7 +167614,7 @@ max diyyi
 ⁺pyada
 ʾana
 ɟari
-xmarta xa ʾavili
+xa ʾavili xmarta
 yatvən
 ʾallo
 ʾatən
@@ -167623,9 +167623,9 @@ naša
 yala
 ⁺bərxaṱəl
 mayəl
-xmarta xa
+xa xmarta
 k̭atu
-yatu k̭at
+k̭at yatu
 mara
 la
 ʾana
@@ -167643,10 +167643,10 @@ yatvən k̭at
 mujjur
 ʾatən
 ʾatxa
-⁺k̭azi cəs
+cəs ⁺k̭azi
 bərrəxšələ
 ʾa yala
-ʾe dasta
+dasta ʾe
 buš
 šap̂ərta
 mayol
@@ -167666,10 +167666,10 @@ k̭əssat
 ʾatxəla
 ʾa naša
 ⁺malla
-cut ⁺danta
+⁺danta cut
 ⁺saluyəva
 ⁺sluta
-ʾana k̭at
+k̭at ʾana
 ⁺bayyən
 ʾalpa
 ⁺dinarə
@@ -167700,7 +167700,7 @@ k̭atu
 mara ʾa
 la
 mara
-ʾət diyyina
+diyyina ʾət
 mara
 le
 yavvənnun
@@ -167716,15 +167716,15 @@ məndi
 lelə
 viyya
 mərrə
-ʾadiyya ʾən
+ʾən ʾadiyya
 ⁺bak̭rətlə
 tanət
 ʾannə
 jullət
 ⁺malla
 m ica
-tanə p
-ʾət diyyina
+p tanə
+diyyina ʾət
 ⁺dilux
 mu
 vila
@@ -167732,42 +167732,42 @@ tanət
 jullət
 ⁺malla
 m ica
-tanə p
-ʾət diyyina
+p tanə
+diyyina ʾət
 xob
 ʾo yala
 mara
-ʾət diyyina
+diyyina ʾət
 mara
 xzilux
 xzilux
 k̭azi
 mərrə
-ʾazət ʾən
+ʾən ʾazət
 ⁺raba
 pata
 yavvətlə
-tanə ʾu p
-da xmara
+p tanə ʾu
+xmara da
 diyyilə
 mərrə
-da xmara
-diyyilə ʾət
+xmara da
+ʾət diyyilə
 mərrə
 xzilux
 la
 mərri
 la
 mərri
-diyyux k̭a
+k̭a diyyux
 xmara
 ʾət ⁺davvələ
 jullə
 ʾət ⁺davvəna
 zuyzə
 ʾət ⁺davvəna
-ʾana bas
-mu ʾətli
+bas ʾana
+ʾətli mu
 həč məndi
 ⁺ʾavva
 yala
@@ -167775,7 +167775,7 @@ yala
 ⁺narahat
 vayələ
 bitayələ
-maxə k̭at
+k̭at maxə
 k̭a ⁺malla
 ⁺k̭azi ʾu
 lelə
@@ -167788,26 +167788,26 @@ dok̭ilə
 ʾa yala
 bədvak̭una
 bədrayuna
-⁺dussak̭ ɟu
+ɟu ⁺dussak̭
 ⁺k̭azi
 bəšk̭alələ
-dana xa
+xa dana
 ⁺dinar
-mən ɟu jibu
+jibu mən ɟu
 yavəl
 k̭a ⁺malla
 mara
 šk̭ul
 xa ʾa
 ⁺dinar
-diyyux k̭a
+k̭a diyyux
 ʾavət
 basima
 k̭at
 ʾatxa
 našə
 xrivə
-mən mdita ɟu
+mən ɟu mdita
 mačuxet
 mayet
 k̭ati
@@ -167816,17 +167816,17 @@ mara
 ʾavət
 basima
 ʾalaha
-jaldə k̭at
+k̭at jaldə
 denux
 yuvvəllux
 ⁺dinar
 yuvvəllux
 xa yuma
 ⁺harun
-ʾar rašid
+rašid ʾar
 k̭əmlə
 ⁺bəxdara
-mdita ɟu
+ɟu mdita
 xazə k̭at
 našə
 mu
@@ -167843,7 +167843,7 @@ xəšlə
 xa salət
 ⁺xurmə
 mutta
-⁺ruyšu ⁺ʾal
+⁺ʾal ⁺ruyšu
 sala
 ⁺ɟura
 ⁺bəxdarəva
@@ -167876,7 +167876,7 @@ naša
 ⁺pšima
 ⁺narahat
 mərrə
-mu k̭a
+k̭a mu
 ʾatxa
 ⁺xori
 k̭am
@@ -167890,7 +167890,7 @@ mərrə
 tilux
 tilux
 laxxa
-dars xa k̭at
+xa k̭at dars
 yavvət
 mu
 p̂ṱ odət
@@ -167905,7 +167905,7 @@ xina k̭atux
 lelə ⁺bədda
 ʾaha
 ⁺harun
-rašid ilə ar
+ilə rašid ar
 ⁺harun
 rašid ar
 ⁺yanə
@@ -167934,7 +167934,7 @@ k̭atux
 ʾa
 tani
 xazən
-mu ila
+ila mu
 ⁺raba
 k̭ətlə
 biyyu
@@ -167946,7 +167946,7 @@ biyyu
 mar
 duccana
 mərrə
-mən ʾalaha
+ʾalaha mən
 lela
 ⁺ṱšita
 mənnux
@@ -167962,7 +167962,7 @@ b riši
 tilun
 cəsli
 yuvvənnun
-dane ⁺ṱlamma
+⁺ṱlamma dane
 davə
 yuvvəllun
 k̭ati
@@ -167983,9 +167983,9 @@ yavvən
 davə
 tujjɑrat
 vadən
-b məndi da
-bas ʾannə
-⁺ṱla našə
+b da məndi
+ʾannə bas
+našə ⁺ṱla
 tilun
 cəsli
 k̭ati
@@ -168030,7 +168030,7 @@ xa mənne
 ⁺dərrə
 tilə
 xa
-mən ⁺xorə
+⁺xorə mən
 ⁺dərrə
 tilə
 k̭ati
@@ -168072,7 +168072,7 @@ yuvvəlli
 trəmma
 xšivəl
 ⁺ṱlamməna
-me ta
+ta me
 banənnun
 mara
 ʾana
@@ -168081,14 +168081,14 @@ banilun
 ⁺ʾavun
 ⁺ʾav
 bnayeva
-de ⁺danta ɟu
+ɟu ⁺danta de
 ⁺tarra
 mxilun
 xəšli
 ⁺tarra
 patxən
 xzili
-xinə tre ʾan ⁺xuravay
+tre ⁺xuravay xinə ʾan
 tilə
 mərri
 ha
@@ -168114,7 +168114,7 @@ bnaye
 tilan
 ⁺vərran
 xazax
-mu k̭a
+k̭a mu
 bnayelə
 ʾina
 ləttən
@@ -168122,7 +168122,7 @@ la
 davə
 ʾəttən
 la
-naša ʾo
+ʾo naša
 ʾəttən
 šk̭ila
 mən panjara
@@ -168155,7 +168155,7 @@ k̭atu
 k̭udmə
 mara
 ɟrišina
-dɑdgɑh ⁺ʾal
+⁺ʾal dɑdgɑh
 dɑdgɑh
 ʾila
 court
@@ -168163,7 +168163,7 @@ mara
 k̭udmə
 k̭ati
 ɟrišəna
-court ⁺ʾal
+⁺ʾal court
 ɟari
 ʾazən
 k̭udmə
@@ -168176,25 +168176,25 @@ mərrə
 ʾavət
 ⁺tama
 ʾana da
-xazənnux p
+p xazənnux
 ⁺tama
 k̭edamta
 bərrəxšələ
 ʾa naša
-court ⁺ʾal
+⁺ʾal court
 ɟrišuna
-court ⁺ʾal
+⁺ʾal court
 bəxzayələ
 ʾina
 ⁺harun ʾa
-ʾar rašid
+rašid ʾar
 velə
 tiva
 ʾilə
 ⁺k̭azi
 mən hada ⁺bar
 ʾannə
-danə tre
+tre danə
 našə
 ⁺vərrun
 tilun
@@ -168220,7 +168220,7 @@ cəslu
 vidətun
 la k̭at
 yavvəl
-həč naša k̭a
+k̭a həč naša
 ⁺ṱulvuntoxun
 m ⁺uydalə
 ʾavitun
@@ -168239,7 +168239,7 @@ xušun
 memunlə
 ⁺xoroxun ʾo
 davoxun
-na ⁺hazər
+⁺hazər na
 temun
 šk̭ulunlə
 mərrun
@@ -168267,7 +168267,7 @@ b yavvənnun
 davoxun
 ʾannə
 bədrayel
-⁺dussak̭ ɟu
+ɟu ⁺dussak̭
 k̭a do yala
 muraxxas
 vadələ
@@ -168296,18 +168296,18 @@ mara
 maniva
 mərrun
 ⁺harun
-ʾar rašid ilə
+ilə rašid ʾar
 ⁺bavam
 ʾavva
-⁺ɟur cullə
-lə baġdad
+cullə ⁺ɟur
+baġdad lə
 dax
 let
 ⁺diyyu
-ʾe ⁺danta
+⁺danta ʾe
 ⁺dilə
 ⁺harun k̭at
-ʾar rašid
+rašid ʾar
 tyava
 duccanu ɟu
 ⁺rəzza
@@ -168349,7 +168349,7 @@ duca mən
 xita
 mayyiva
 šatlivalə
-de ⁺ʾarra ɟa har
+ɟa ⁺ʾarra har de
 k̭at
 ⁺ṱəryona
 čun
@@ -168360,8 +168360,8 @@ racəxta
 miyyantəla
 ⁺ham
 ⁺ṱinantəla
-har šətla
-matteta ɟa
+šətla har
+ɟa matteta
 bətpayələ
 ⁺dayət
 ⁺ʾavva
@@ -168371,7 +168371,7 @@ xəzyən
 ʾita
 balcət
 k̭əsmattə
-xinə da
+da xinə
 viyyəna
 ʾina
 ʾatxa
@@ -168409,16 +168409,16 @@ cardə
 c avivalə
 marzəbbanə
 k̭at
-ʾe ⁺dan
+⁺dan ʾe
 malilə
 miyya
 cul
 duca
 miyya
-ʾavi la
+la ʾavi
 ɟari
 taġriban
-ʾe ⁺dan
+⁺dan ʾe
 maštuvvuna
 ʾəsri
 ⁺santime
@@ -168429,11 +168429,11 @@ miyya
 ʾita
 c avivalə
 k̭ošanə
-ɟudananə ʾax
-maxivala ci
+ʾax ɟudananə
+ci maxivala
 carda
 ⁺ɟurta
-oyava c
+c oyava
 tanax
 ʾalpa
 metrə
@@ -168442,7 +168442,7 @@ metrə
 ʾina
 marzəbbano
 dvik̭ə
-k̭at malya
+malya k̭at
 miyya
 čun
 ⁺raba
@@ -168452,11 +168452,11 @@ mlayona
 ʾay
 miyya
 xa xča
-xina miyya
-⁺ʾamsi la
+miyya xina
+la ⁺ʾamsi
 ʾazi
 l a yba
-l yba o
+l o yba
 ɟudananə
 ci maxiva
 tanax
@@ -168473,7 +168473,7 @@ maɟəsta
 ⁺xazdiva
 dastə
 dastə
-mattiva ci
+ci mattiva
 ʾita
 ⁺xarta
 ʾət
@@ -168487,14 +168487,14 @@ c odivalə
 maxiva
 ⁺ʾal ⁺ʾarabana
 labliva
-⁺budratə ɟa
+ɟa ⁺budratə
 xašlivalə
 ⁺dayət
 xašlivalə
-⁺ʾav k̭at
+k̭at ⁺ʾav
 tapəxva
 hi
-k̭at tapəxva
+tapəxva k̭at
 xina ʾita
 ⁺tama
 tamməzzivalə
@@ -168505,9 +168505,9 @@ beta
 tuynət
 ⁺rəzza
 hi
-da ⁺ʾavun
+⁺ʾavun da
 ci mapləxxivalə
-k̭ənyanə k̭a
+k̭a k̭ənyanə
 ⁺dayət
 xina
 ⁺ʾavun
@@ -168515,14 +168515,14 @@ xšiluna
 tpixələ
 ʾo
 ɟəllu
-k̭ənyanə k̭a
+k̭a k̭ənyanə
 c aməs
 tuynu
 ʾavə
 ⁺ʾarra
 criva
-odaxvala c
-ʾe ⁺dan
+c odaxvala
+⁺dan ʾe
 ⁺bayyaxva
 ⁺spay
 ⁺xəṱṱə
@@ -168535,10 +168535,10 @@ madməxxaxvala
 b ptana
 damxava
 xa šita
-šit tre
+tre šit
 odaxvala ṱ
 k̭ošanə
-b ɟaršaxva
+ɟaršaxva b
 ɟavo
 ⁺bar
 ṱəryalan
@@ -168548,7 +168548,7 @@ mašteta
 ⁺bar
 ⁺zəryux
 k̭ošanə
-b ɟaršaxva
+ɟaršaxva b
 miyya k̭at
 la
 bazbək̭k̭i
@@ -168556,9 +168556,9 @@ bazbək̭k̭i
 lablalun
 ʾa
 taxta
-ɟano k̭a
+k̭a ɟano
 ʾayya
-ɟano k̭a
+k̭a ɟano
 ʾita
 ɟav
 dannə
@@ -168572,7 +168572,7 @@ xa
 duca
 ʾa
 ⁺yəssura
-aviva c
+c aviva
 xač̭č̭a
 cərya
 miyya k̭at
@@ -168589,48 +168589,48 @@ taxta
 tlay
 ʾarp̂i
 danə
-aviva c
+c aviva
 ⁺ʾuydalə ⁺bar
 ʾina
-dana xa
+xa dana
 k̭oša
 ʾannə
 miyya
 mən ⁺ʾullul
 cullə
-labəlvalun ci
+ci labəlvalun
 cut
 taxta
-ɟano k̭a
+k̭a ɟano
 paraxva
-napliva ci
+ci napliva
 ɟa da
 taxta
 šatyava
 dok̭axvala
 daraxva
-de ɟa xita
+ɟa xita de
 hi
 cullə
 ʾatxa
 maštaxvala
 hi
 xina ʾaha
-avivalan c
+c avivalan
 ⁺dana
-tre ɟa
+ɟa tre
 maštaxvala
 miyya
 ⁺muṱratə
 ⁺raba
 ʾaviva
-həč le
+le həč
 maštaxvala
 ʾay
 čun
-maštaxvala ʾən
+ʾən maštaxvala
 ⁺raba
-damxava ʾi
+ʾi damxava
 ⁺xarta
 ⁺xazdaxvala
 dastə
@@ -168641,7 +168641,7 @@ maɟəsta
 dastə
 dastə
 darzə
-odaxvala c
+c odaxvala
 ⁺bar
 darzə
 vidalan
@@ -168661,14 +168661,14 @@ maxaxva ci
 ⁺ʾalle
 ɟaršaxva
 mayyaxva
-⁺budratə ɟa
+ɟa ⁺budratə
 ʾatxa
 dori
 ham
 maxaxva
 čambara
 k̭ato
-tanaxva ci
+ci tanaxva
 ⁺xarta
 mən daha
 xa
@@ -168677,7 +168677,7 @@ ci ⁺rappaxva
 xa
 k̭esa
 ⁺yasraxva
-do ⁺ʾal
+⁺ʾal do
 ⁺ʾaralləġ
 k̭at
 ⁺yaṱṱaxva
@@ -168690,12 +168690,12 @@ xa
 darza
 daraxva
 ʾak̭la
-ʾi daraxva
+daraxva ʾi
 tanaxva
 bazbək̭k̭axvalə
 ⁺xarta
 janjar
-mattaxva ci
+ci mattaxva
 b torə
 ⁺yasraxva
 ⁺xadriva
@@ -168704,7 +168704,7 @@ hal
 ʾodivala
 tuyna
 ⁺xəṱṱo
-xina tapxiva
+tapxiva xina
 ⁺xarta
 ʾannə
 šaraxvalun
@@ -168716,7 +168716,7 @@ cullə
 culaš
 b da
 ⁺pəsla
-xa yarxa
+yarxa xa
 ɟašk̭ət
 ʾəsri
 yumanə
@@ -168728,7 +168728,7 @@ yumanə
 cullə
 taxnaxvala
 hal tuyna
-ṱ odaxva
+odaxva ṱ
 ⁺jammaxva
 ⁺xarta
 yask̭axva
@@ -168744,11 +168744,11 @@ l a yba
 ʾita
 b ⁺jammaxvalun
 k̭uxa
-ɟanan ʾət
+ʾət ɟanan
 ʾaviva
 mayyaxvalun ci
 ʾina
-ʾət ⁺ʾarbab
+⁺ʾarbab ʾət
 ʾaviva
 ɟari
 ʾativa
@@ -168777,13 +168777,13 @@ mayyiva
 ⁺nasvivala
 c oyavala
 čəllalə
-yavvava ci
+ci yavvava
 ⁺xarta
 ɟari
 ʾaviva
 bavatə
 šatlivala
-da ʾay
+ʾay da
 taġriban
 ɟav bava
 xa
@@ -168793,20 +168793,20 @@ tre
 taybərrivala
 ⁺xarta
 ⁺ʾanvə
-yavvavalun ci
+ci yavvavalun
 ⁺ʾanvə
 hi
 ʾannə
 ⁺ʾanvə
 zoda
 ʾaviva
-ʾe ⁺danta
+⁺danta ʾe
 ɟabiva
 savza
 odivalun c
 varazan
 ʾətvalun
-⁺mač̭raxvala ci
+ci ⁺mač̭raxvala
 varazan
 ʾita
 bi
@@ -168829,21 +168829,21 @@ b šatxivalun
 ʾani
 ʾax
 šalk̭iva
-jaldə k̭at
+k̭at jaldə
 barzini
-varazan ⁺ʾal
+⁺ʾal varazan
 šaṱxivalun
 ʾita
 bak̭i
-da ⁺šulanə
+⁺šulanə da
 ⁺xamra
-mayyiva ci
+ci mayyiva
 dariva
 cəšmišə
 odiva c
 nipuxta
-bašliva ʾi
-mən den
+ʾi bašliva
+den mən
 ⁺ʾanvə
 tluvvə
 odiva c
@@ -168852,22 +168852,22 @@ məndiyyanə
 ⁺ʾəstifada
 odiva c
 mənne
-⁺dašə k̭alya
+k̭alya ⁺dašə
 xa ɟəlla
 ʾətva
 ɟəlla ʾo
-mak̭divalə ci
+ci mak̭divalə
 ⁺bar
 k̭ədvalə
-aviva c
-cipa ʾax
+c aviva
+ʾax cipa
 cuma
-mayyiva ci
+ci mayyiva
 mənnu
 ⁺šamṱiva
 xašliva
-zambul ɟa
-mattivalə ci
+ɟa zambul
+ci mattivalə
 ɟa miyya
 hal
 pašərva
@@ -168893,36 +168893,36 @@ lablaxva
 šaṱxaxvalun
 čun
 ʾani
-ʾu ⁺ʾavun
+⁺ʾavun ʾu
 c avədvalun
 ranɟə
 zarda
 hi
-jaldə da
+da jaldə
 šalk̭iva
 ɟa den
 miyya
 jaldə
 ʾi barziva
-oyava c
+c oyava
 sabza
 hi
 ʾayya
-mən ⁺dašə k̭alya
+mən k̭alya ⁺dašə
 tluvvə
 ⁺k̭anune
 mayyaxva
 paršaxvalun
-ʾen šap̂irə
+šap̂irə ʾen
 tluvvə
 xa cma
 yumanə
-šatxaxvalun ʾax
-varazan ⁺ʾal
+ʾax šatxaxvalun
+⁺ʾal varazan
 xač̭č̭a
-⁺č̭amč̭iva ʾax
+ʾax ⁺č̭amč̭iva
 ⁺xarta
-⁺yasrivalun ci
+ci ⁺yasrivalun
 bi
 ʾe
 ⁺dana
@@ -168938,10 +168938,10 @@ tandəllivalun
 pešiva
 sətva
 mənne
-⁺axliva c
+c ⁺axliva
 cəšmišəva
 mabrəzzivalun
-⁺axliva c
+c ⁺axliva
 ⁺xamrəva
 xina
 ⁺ʾav da
@@ -168983,13 +168983,13 @@ xač̭č̭a
 miyyət
 dani
 jis
-pulluš ʾo
+ʾo pulluš
 ⁺rappiva
 mayyiva
 ʾətvalan
 ⁺linə
 ⁺ɟurə
-ci malivalun
+malivalun ci
 ɟa den
 ⁺linə
 cma
@@ -169013,10 +169013,10 @@ bi
 maliva
 mayyiva
 mattiva
-ɟa pi palgət
+ɟa palgət pi
 majləs
 ʾita
-⁺maxdərriva ci
+ci ⁺maxdərriva
 bi
 ⁺tasa
 ʾat
@@ -169024,7 +169024,7 @@ b šatətva
 xina ʾo
 b šativa
 ʾatxa
-l ɟiba a
+ɟiba l a
 mən do
 ⁺xamra
 ⁺ʾəstifada
@@ -169034,11 +169034,11 @@ odiva c
 k̭uxa
 čun
 ʾannə
-ina ʾət ⁺ʾarbab
+⁺ʾarbab ʾət ina
 daj
 mxayena
 k̭at
-ʾida ʾən
+ʾən ʾida
 k̭ətla
 ʾa
 daj
@@ -169052,28 +169052,28 @@ naša
 b lelə
 b yuma
 ⁺k̭aravul
-c avaxva
+avaxva c
 k̭atu
 k̭at
-ʾa daj
+daj ʾa
 ʾida
 la
 k̭eta
 čun
 ⁺ʾarbab
-ṱ ativa
+ativa ṱ
 taniva
 ʾat
 ɟnivət
 mən
-mən dannə
+dannə mən
 ⁺xəṱṱə
 ʾita
 daj
 maxivalə ci
 hal
-de ⁺dan
-ʾativa k̭at
+⁺dan de
+k̭at ʾativa
 ⁺pallivalun
 ⁺ʾəsra
 yumanə
@@ -169081,7 +169081,7 @@ yumanə
 yumanə
 ⁺dana
 ʾoyava
-ṱ ativa
+ativa ṱ
 ⁺pallivalun
 palɟə
 ⁺ʾav
@@ -169106,12 +169106,12 @@ k̭uxa
 ⁺berašə
 b lablaxvalun
 ʾən
-ʾət ⁺ʾarbab
+⁺ʾarbab ʾət
 ʾaviva
 ʾəm ⁺dan
 xošu
 tivala
-ṱ ativa
+ativa ṱ
 pallivalə
 ʾita
 daj
@@ -169125,7 +169125,7 @@ mahlum
 ʾodani
 k̭at
 ʾati
-mən dannə
+dannə mən
 ɟnivət
 ʾətvalə
 xa
@@ -169133,7 +169133,7 @@ naša
 ⁺berašə
 ʾativa
 maxivalun
-azəlva c
+c azəlva
 moriša
 c ativa
 cullə
@@ -169142,12 +169142,12 @@ xazzə
 ʾəm
 daj
 xrivələ
-ʾən ʾavə
+ʾavə ʾən
 xriva
 taniva
 ʾati
 ɟnivət
-lelə ʾad
+ʾad lelə
 mən daha
 xina
 cut
@@ -169158,26 +169158,26 @@ carma
 k̭a
 ɟanu
 ʾana
-mar carməvən
+carməvən mar
 zarzənva
-dana xa
+xa dana
 ⁺čola
 ʾita
 ʾavənva
-mar zuyza
+zuyza mar
 xa
 ⁺čola
 banənvala
 b carpəč
-ṱ odənvala
+odənvala ṱ
 beta
 k̭a ɟani
 ʾita
 lətli
 len
-mar zuyza
+zuyza mar
 b k̭esə
-dana xa
+xa dana
 ⁺čola
 b zarzənva
 b yask̭ənva
@@ -169199,7 +169199,7 @@ məndiyyi
 k̭am
 bəɟnavut
 hal
-de ⁺danət
+⁺danət de
 ʾannə
 ⁺ʾanvə
 ⁺maṱiva
@@ -169207,7 +169207,7 @@ de ⁺danət
 k̭at
 mayyaxvalun
 beta
-c avaxva
+avaxva c
 ⁺tama
 b lelə
 damxaxva ʾi
@@ -169221,19 +169221,19 @@ b lelə
 jam ʾax
 damxaxva
 k̭ame
-de ⁺ʾal ⁺čola
+⁺ʾal ⁺čola de
 damxaxva ʾi
 hal moriša
 la k̭at
 lablivalun
-ʾen carmanan
+carmanan ʾen
 ⁺ʾanvan
-⁺budratə ɟa
-ʾe ɟa
+ɟa ⁺budratə
+ɟa ʾe
 poxa
 ⁺raba
 xač̭č̭a
-aviva c
+c aviva
 ʾadi
 ʾannə
 ⁺xəṱṱə
@@ -169253,7 +169253,7 @@ poxa
 lelə
 bitaya
 ʾita
-ʾe ⁺dan
+⁺dan ʾe
 bitayələ
 xina
 ʾadi
@@ -169261,7 +169261,7 @@ xina
 ivax ṱ
 ⁺bərxaṱəx
 bəsyak̭a
-da ⁺ʾal
+⁺ʾal da
 xayyan
 ⁺daruvvəx
 ʾita
@@ -169281,7 +169281,7 @@ mayəla
 ⁺daruvvələ
 ʾita
 rək̭k̭a
-axxa m
+m axxa
 ⁺tvaletu
 bitayəla
 marələ
@@ -169296,8 +169296,8 @@ lel
 ⁺bədda
 cavutra
 ⁺ʾaxəl
-ʾazəl yan
-do riša ⁺ʾal
+yan ʾazəl
+riša ⁺ʾal do
 yan
 poxa
 ⁺darə
@@ -169321,7 +169321,7 @@ našəna
 ⁺xabra
 tanuvvulə
 tuttun
-⁺zarro ⁺bər
+⁺bər ⁺zarro
 ⁺raba
 dayk̭ələ
 ⁺raba
@@ -169330,7 +169330,7 @@ dayk̭ələ
 ʾaha
 ʾadiyya
 ⁺zarraxla
-odax c
+c odax
 bava
 tarsaxla
 ʾatxa
@@ -169339,8 +169339,8 @@ tarsaxla
 mašvaxla
 ⁺taptəppaxla
 ʾo
-⁺zarra ⁺bər
-ʾi daraxlə
+⁺bər ⁺zarra
+daraxlə ʾi
 ⁺tama
 bazbək̭k̭axlə
 ⁺xarta
@@ -169360,7 +169360,7 @@ miyya
 ʾarp̂i
 yumanə
 miyya
-yavvaxla ci
+ci yavvaxla
 ʾa
 oya c
 šətla
@@ -169390,7 +169390,7 @@ xa
 tre
 ⁺ʾək̭ṱarəla
 cullə
-b napla
+napla b
 ⁺k̭aṱk̭əṱṱaxla
 ⁺xarta
 cullə
@@ -169399,11 +169399,11 @@ cullə
 bavatə
 surə
 surə
-odaxla ṱ
+ṱ odaxla
 xob
 ⁺xarta
-ṱ azax
-cardə m den
+azax ṱ
+m den cardə
 b načlax
 mayyax
 dannə ⁺ʾal
@@ -169419,7 +169419,7 @@ b yavvaxla
 xa cma
 ⁺dana
 ʾaha
-b šok̭axla
+šok̭axla b
 ɟano
 dok̭ala
 ⁺xarta
@@ -169450,7 +169450,7 @@ yuvvəlla
 ɟašk̭ax
 ⁺məṱyəna
 mən ʾəltəx
-ʾəltixo mən
+mən ʾəltixo
 c avax
 cul
 ⁺dana
@@ -169460,12 +169460,12 @@ cul
 moriša
 jaldə
 c azax
-xəmma ɟa
+ɟa xəmma
 la ʾavini
-ʾe ⁺dan
+⁺dan ʾe
 xəmma
 ʾoyani
-ʾoya le
+le ʾoya
 šanšəlla
 la ⁺ʾamsax
 ɟabaxla
@@ -169478,9 +169478,9 @@ zrak̭a
 c azax
 ɟabaxən
 malax
-⁺k̭ərṱalə ɟa
+ɟa ⁺k̭ərṱalə
 ⁺ṱenax
-⁺ʾal ⁺xasan
+⁺xasan ⁺ʾal
 mayyaxən
 beta
 b yatvi
@@ -169496,11 +169496,11 @@ cut
 k̭a ɟanu
 b ⁺xmaṱa
 ⁺morila
-⁺xmaṱa m
-b darila
-ɟəddala ⁺ʾal
+m ⁺xmaṱa
+darila b
+⁺ʾal ɟəddala
 ɟaršila
-ɟəddala ⁺ʾal
+⁺ʾal ɟəddala
 ʾətlan
 xarraɟə
 ⁺tursəx
@@ -169515,7 +169515,7 @@ metrələ
 xa
 rišu
 mak̭k̭əttaxlə
-l yba o
+l o yba
 xa
 rišu
 l a yba
@@ -169547,7 +169547,7 @@ xina
 dəšta mən
 ⁺jummox
 prək̭təla
-ṱ atax
+atax ṱ
 mən ⁺ʾambar
 ⁺k̭erax
 xa
@@ -169562,9 +169562,9 @@ nammənna
 čun
 baruztəla
 ⁺tama
-de ɟa
+ɟa de
 ⁺čalə
-⁺ʾarra ɟa
+ɟa ⁺ʾarra
 ⁺k̭irox
 tandəllaxla
 ⁺tama
@@ -169574,7 +169574,7 @@ xa
 lelə
 peša
 ⁺xarta
-b racxa
+racxa b
 mayyaxla
 daraxla
 beta
@@ -169582,18 +169582,18 @@ beta
 sapk̭axlə
 dana
 dana
-ʾət paršaxla
+paršaxla ʾət
 smuk̭ta
-xa yba ⁺ʾal
+xa ⁺ʾal yba
 ʾe
 xrəvta
-xa yba ⁺ʾal
+xa ⁺ʾal yba
 zarda
-xa yba ⁺ʾal
+xa ⁺ʾal yba
 cullə
 dasti
 dastə
-odaxla ṱ
+ṱ odaxla
 ⁺dayət
 ⁺bar
 dastə
@@ -169631,7 +169631,7 @@ b ⁺yasraxlə
 jvala
 tuttun
 peša
-ɟvala ɟa
+ɟa ɟvala
 ʾita
 cullə
 ʾa
@@ -169648,16 +169648,16 @@ mubrəzzox
 ⁺ṱarpa
 ⁺ṱarpa
 paršaxla bət
-odaxla ṱ
+ṱ odaxla
 dasta
 maxaxla
 ɟa da
 sanduk̭a
-mən sanduk̭a
+sanduk̭a mən
 ⁺xarta
 b lablaxla
 mdita
-b zabnaxla
+zabnaxla b
 tuttun
 xa xča
 ⁺šula
@@ -169666,14 +169666,14 @@ taryəssar
 yarxə
 ⁺šula
 ʾətla
-dana xa
+xa dana
 tuttun
 ⁺šulo
 dayk̭ələ
 ⁺raba
 ⁺ʾajjəzzanələ
 ⁺heyvanə
-avivalan c
+c avivalan
 cut
 naša
 ⁺ṱla
@@ -169687,10 +169687,10 @@ ducət
 ⁺tursexva
 laxxa
 ⁺asraxva c
-⁺tamma m
+m ⁺tamma
 xurrac
 daraxva
-⁺axliva c
+c ⁺axliva
 yonja
 tuyna
 ʾita
@@ -169698,9 +169698,9 @@ sətva
 le
 ⁺palṱiva
 k̭arta
-oyava c
+c oyava
 har
-pešiva ci
+ci pešiva
 ɟa paɟa
 yuma
 ṱla ⁺danə
@@ -169708,7 +169708,7 @@ xute
 tamməzzaxvalə
 ⁺xalta
 yavvaxvalə
-b vadra
+vadra b
 mayyaxva
 maštaxvalun
 ʾita
@@ -169728,7 +169728,7 @@ k̭ənyanət
 ⁺xalva
 ⁺xalvivalun ci
 šita
-xa ɟa
+ɟa xa
 yadliva
 ʾita
 ⁺xalvət
@@ -169739,19 +169739,19 @@ odiva c
 ⁺xalva
 šativa
 ⁺carra
-ci ⁺palṱiva
+⁺palṱiva ci
 mən do
 ⁺xalva
 ⁺ṱla
 ⁺ʾarp̂a
 məndiyyanə
 zarziva
-mən den
+den mən
 tavəryay
 xayyutət
-naša ⁺bar
+⁺bar naša
 ⁺dana ʾe
-mavay ɟa
+ɟa mavay
 bi
 k̭ənyanəva
 lətva
@@ -169789,7 +169789,7 @@ culpat
 xamša rišə
 ʾəšta rišə
 cullə
-xa ɟa
+ɟa xa
 beta
 damxaxva ci
 tanuyra
@@ -169800,8 +169800,8 @@ tanuyra
 k̭ənyanə
 ʾe
 šəxte
-ci mabrəzzaxvala
-oyava c
+mabrəzzaxvala ci
+c oyava
 camrə
 sətva
 ʾay
@@ -169816,36 +169816,36 @@ cullə
 ʾani
 ⁺p̂aṱuxə
 camrə
-aviva c
+c aviva
 k̭əṱma
 ⁺tama
 šaxina
 hal
-do moriša
+moriša do
 xina
 ʾa
 tanuyra
-aviva c
+c aviva
 šaxina
 ⁺jammaxva
 ʾatxa
 marzəbbanu
-dana xa
+xa dana
 jannə
 ɟaršaxva
 ʾak̭latan ⁺ʾal
 c atvaxva
 ʾita
 k̭arta
-oyava c
+c oyava
 ⁺raba
 xelanta
 talmə
 miyya
-avivalan c
+c avivalan
 ɟa dannə
 talmə
-c avaxva
+avaxva c
 mutte
 ɟa beta
 ʾatxa
@@ -169864,7 +169864,7 @@ talmə
 muɟdəllə
 ʾatxa
 k̭arta
-oyava c
+c oyava
 lətvalan
 ⁺raba
 šxunta
@@ -169872,7 +169872,7 @@ lətvalan
 ʾo
 tanuyra
 b yuma
-b ⁺dav
+⁺dav b
 šaxnaxva
 b lelə da
 oraxva ṱ
@@ -169881,7 +169881,7 @@ xlepa
 damxaxva
 k̭arta
 ⁺raba
-oyava c
+c oyava
 ɟa batvatə
 mərri
 miyya
@@ -169899,35 +169899,35 @@ miyya
 muɟdəlləna
 ʾatxa
 k̭arta
-oyava c
+c oyava
 ʾətvalan
 xa
 dana
 šak̭iyya
-atyava c
+c atyava
 mən
 mata
 ʾita
 ʾayya
-maɟdəllava ci
+ci maɟdəllava
 ⁺raba
 ʾalaha
 manəx
 motanux
 babi
 cul mata
-atyava c
+c atyava
 ⁺tama
 malyava
 miyya
 ʾita
 cul
 duc
-ci maɟdəlva
+maɟdəlva ci
 ɟdila
 ⁺šaməṱvalə
-yuma ʾo
-maliva bət
+ʾo yuma
+bət maliva
 b lelə
 xina
 muɟdəllələ
@@ -169955,7 +169955,7 @@ yum
 ɟdila
 xa xča
 muɟdəllələ
-b ⁺šamṱaxvalə
+⁺šamṱaxvalə b
 k̭udmə
 xina
 muɟdəllələ
@@ -169963,7 +169963,7 @@ muɟdəllələ
 ⁺xlimuytu
 xa xča
 ɟdila
-oyava c
+c oyava
 xayyuta
 ⁺raba
 ⁺ʾajjəzzanta
@@ -170036,9 +170036,9 @@ cullə
 ʾen šənnə
 ⁺raba
 ʾaxnan
-surəxva k̭at
+k̭at surəxva
 mənnan
-⁺dana k̭am
+k̭am ⁺dana
 ʾatyanət
 rusya
 ⁺ʾurusnayə
@@ -170057,7 +170057,7 @@ mačxi
 məššəlmanə
 ʾətva
 k̭urbət
-mat diyyan
+diyyan mat
 ʾaxnan
 čaruyxə
 ɟəldət
@@ -170066,7 +170066,7 @@ c odivalə
 čaruyxə
 ⁺solə
 ʾita
-aviva c
+c aviva
 ⁺priṱə
 ⁺rappivalun
 ⁺k̭əṱma ⁺ʾal
@@ -170150,7 +170150,7 @@ lətva
 xa
 məndi
 ⁺ʾalle
-rappaxva ci
+ci rappaxva
 parduvvə
 ⁺ʾal
 parduvvə
@@ -170180,7 +170180,7 @@ daraxva
 dašdəššaxvalə
 ʾa
 ⁺ṱina
-odaxvalə c
+c odaxvalə
 k̭uya
 ⁺maleta
 tanaxvala
@@ -170194,14 +170194,14 @@ daraxvala
 k̭at
 zila
 dəryux
-do ⁺ʾal
+⁺ʾal do
 zila
 k̭at
 la
 napəl
 ʾəltəx
 xamivalə
-ʾen parduvvə
+parduvvə ʾen
 ʾen
 ⁺k̭aryatə
 la
@@ -170217,14 +170217,14 @@ daraxva
 ⁺xarta
 ʾe
 ⁺maleta
-b daraxva
+daraxva b
 dašdəššaxvala
 ci ⁺mamṱaxvala
 ʾatxa
 ⁺spay
 ʾax
-oyava c
-⁺data ʾax
+c oyava
+ʾax ⁺data
 k̭at
 ⁺spay
 tapya
@@ -170248,7 +170248,7 @@ le
 ʾa
 ⁺ṱina
 p̂ak̭k̭ini
-aviva c
+c aviva
 ʾatxa
 dvik̭u
 ɟav
@@ -170256,7 +170256,7 @@ dvik̭u
 tuyna
 ci ⁺xoṱaxva
 ⁺mač̭raxvalə
-dana xa
+xa dana
 tanuyra
 ⁺ʾak̭raxva
 mən mdita
@@ -170279,7 +170279,7 @@ marzəbbanu
 xa julla
 ɟaršaxva
 ʾak̭latan ⁺ʾal
-šxunta k̭at
+k̭at šxunta
 yavvəlva
 k̭atan
 xayyuta
@@ -170309,45 +170309,45 @@ cəšmišə
 ɟozə
 tuttun
 ʾavivalan
-⁺ʾal ⁺k̭aryay den
+⁺k̭aryay den ⁺ʾal
 tuttun
 maxaxva ci
 xarzaxvala
 pešava
 ⁺tama
-da beta
-dana xa
-avə c
+beta da
+xa dana
+c avə
 ɟašk̭ət
 ⁺ʾəsra
 rišə
 taryəssar
 rišə
-xa ɟa
+ɟa xa
 beta
 damxaxva ʾi
 cullə
 ʾatxa
 šavaxva
-da k̭arta
+k̭arta da
 ⁺raba
-oyava c
+c oyava
 ʾina
 xina
 lipəxva
-do ⁺ʾal
+⁺ʾal do
 ⁺havət
-de ⁺danta
-xa ɟa
+⁺danta de
+ɟa xa
 xina
 mədrə
 ⁺malla
 ⁺nasradən
 bərrəxšələ
-k̭a baxtu
+baxtu k̭a
 marələ
 k̭at
-ʾana ʾən
+ʾən ʾana
 mətli
 ⁺paġri
 mu
@@ -170360,7 +170360,7 @@ p̂ṱ avə
 avə ṱ
 ⁺k̭ayra
 həč məndi
-⁺yaṱṱət le
+le ⁺yaṱṱət
 biyyu
 avət ṱ
 ⁺k̭ayra
@@ -170373,7 +170373,7 @@ k̭esə
 maya
 k̭a sətva
 talɟa
-palɟət pi
+pi palɟət
 ʾurxa
 ⁺jamuyəl
 k̭esə
@@ -170387,21 +170387,21 @@ vilun
 xabulələ
 mərrə
 ʾaha
-ʾana bas
+bas ʾana
 myata dun
-baxti k̭at
+k̭at baxti
 mərra
 ⁺paġra
-avə c
+c avə
 ⁺k̭ayra
 ʾana
 myata dun
 nixa
 ⁺rəxlə
-talɟa ⁺ʾal
+⁺ʾal talɟa
 ⁺rəxlə
 ʾal talɟa
-yba a m
+m a yba
 xina
 divə
 tilun
@@ -170423,11 +170423,11 @@ da
 ɟani
 k̭at levən
 xaya
-ʾavənva ʾən
+ʾən ʾavənva
 xaya
 ⁺bəddayən
-mu odənva p̂ṱ
-b xina rišoxun
+odənva p̂ṱ mu
+xina rišoxun b
 xa yuma
 ⁺malla
 ⁺nasradən
@@ -170458,20 +170458,20 @@ let
 mabyunə
 mərrə
 bəxzayətun
-ʾa ʾordac
+ʾordac ʾa
 məttəla
 yəmmu
 ʾaha
 ⁺zayələ
 ʾina
-dana xa
+xa dana
 ɟəddala
 ɟəddala
 dərya
 b ʾak̭lət
-da ʾordac
+ʾordac da
 muttol
-havuz ⁺ʾal
+⁺ʾal havuz
 labulolə
 mayolə
 labulolə
@@ -170497,18 +170497,18 @@ mara
 ʾətva
 lətva
 ʾətva
-dana xa
+xa dana
 malca
 sanxiro
 malcət
 ⁺ʾaturayəva
-⁺ʾaxik̭ar ʾu
+ʾu ⁺ʾaxik̭ar
 xaccima
 maruna
 xaccima
 ⁺yan
 lipa
-diyyux ʾax
+ʾax diyyux
 ivət professor
 ⁺ʾav da
 ⁺raba
@@ -170517,12 +170517,12 @@ lipəva
 cullə
 dunyə
 ⁺yaṱṱavalə
-⁺ʾaxik̭ar ʾu
+ʾu ⁺ʾaxik̭ar
 cəs
 babət
-zə malca
+malca zə
 plixəva
-babu cəs da
+cəs babu da
 vidəva
 vazziruyta
 vazzər
@@ -170533,7 +170533,7 @@ lətvalə
 yalə
 lətvalə
 ʾətvalə
-danə ʾəšti
+ʾəšti danə
 baxtatə
 ʾəšti
 baxtatə
@@ -170550,7 +170550,7 @@ lətvalə
 xa yuma
 ⁺k̭rilə
 ⁺raba
-mən dannə
+dannə mən
 našə
 lipə
 rammɑl dɑrə
@@ -170577,17 +170577,17 @@ hada
 ət ⁺bar
 ⁺xabra
 la vilə
-mən dannə
+dannə mən
 ⁺bar
 hada
 ⁺dərrə
-cəs ʾalahət
+ʾalahət cəs
 ɟanu
 ⁺dərrə
-cəs ʾalahət
+ʾalahət cəs
 ɟanu
 ⁺dərrə
-ʾalaha cəs
+cəs ʾalaha
 mərrə
 k̭atu
 ʾalaha ya
@@ -170600,7 +170600,7 @@ xa bruna
 yuvvəllə
 k̭atu
 mərrə
-ʾavilux le
+le ʾavilux
 bruna
 sabab
 k̭amta
@@ -170611,7 +170611,7 @@ k̭at
 ida p̂
 plixəna
 la
-ʾalaha cəs
+cəs ʾalaha
 xəšlux
 cəs našə
 xinə
@@ -170620,13 +170620,13 @@ la ⁺msiva
 k̭atux
 ʾodiva
 ʾat
-ʾavilux le
+le ʾavilux
 bruna
 brunət
 xatux
 natan
 šəmmu
-natan iva
+iva natan
 vudlə
 k̭a ɟanux
 bruna
@@ -170637,24 +170637,24 @@ vudlə
 bruna
 ⁺ʾavun
 p̂ṱ avə
-sebuytux k̭a
-ʾe ⁺dan səvlux
+k̭a sebuytux
+səvlux ⁺dan ʾe
 avə ṱ
 bruna
 k̭atux
-ʾe ⁺dan mətlux
+mətlux ⁺dan ʾe
 ⁺ʾaynux
 ⁺č̭amla p̂
 ʾaha
 bitayələ
-natan k̭a
+k̭a natan
 xatu brun
 vadu
-brun ɟanu
+ɟanu brun
 malupulə
 ⁺raba
 məndyanə
-ɟu k̭at
+k̭at ɟu
 malcuyta
 betət
 darbɑr
@@ -170674,12 +170674,12 @@ paləx
 javəj
 ⁺ʾaxəl
 šatə
-məndi cul
+cul məndi
 ʾavəd
 ʾaxči
-ɟu bət malcuyta
+malcuyta ɟu bət
 la
-vaddar ⁺ʾal
+⁺ʾal vaddar
 malupulə
 ⁺raba
 məndyanə
@@ -170721,7 +170721,7 @@ la
 ɟaxcət
 bi
 našət
-ina ⁺dostux
+⁺dostux ina
 sabab
 mumcən
 ʾani
@@ -170740,31 +170740,31 @@ laxma
 duz
 ⁺spay
 ⁺raba
-mən dannə
+dannə mən
 məndyanə
 malupulə
 la
 ʾavət
-mən xa baxta
+baxta xa mən
 k̭at
 ⁺ɟoro
 mitələ
 la
 ɟorətla
 sabab
-ʾiman ət
+ət ʾiman
 cu ⁺danta
-p̂ṱ oya
+oya p̂ṱ
 mara
 ⁺ɟori
 ⁺ɟori
-ʾazət la
+la ʾazət
 ⁺bar
 ⁺šup̂ra
 ⁺šupra
-paš le
+le paš
 k̭atux
-ʾazət la
+la ʾazət
 ⁺bar
 ⁺raba
 davəlta
@@ -170775,26 +170775,26 @@ vi
 xa naša
 macixa
 ⁺ʾarra
-cma t
+t cma
 ʾoya
 macəxta
-buš miyya
-azi c
+miyya buš
+c azi
 ɟavo
 ʾina
-⁺ʾarra ʾoya
+ʾoya ⁺ʾarra
 k̭vita
 miyya
-drete ɟu
+ɟu drete
 miyya
-azi c
+c azi
 vi
 ʾax
 ⁺ʾarra
 vi
 ʾax
 tuyta
-vi la
+la vi
 ʾax
 ⁺šada
 ⁺šada
@@ -170845,7 +170845,7 @@ macriyyannə
 xa yuma
 malca
 marəl
-⁺ʾaxik̭ar k̭a
+k̭a ⁺ʾaxik̭ar
 ⁺ʾaxik̭ar
 ʾat
 ⁺raba
@@ -170858,11 +170858,11 @@ mattətlə
 sabab
 ləttən
 xa naša
-diyyux ʾax
+ʾax diyyux
 ləbbu
 ⁺bəṱlaba
-xa naša ⁺ʾal
-diyyu ʾax
+xa ⁺ʾal naša
+ʾax diyyu
 ʾavə
 ⁺ʾaxik̭ar
 marələ
@@ -170880,10 +170880,10 @@ mulpun
 k̭a daha
 məndi
 ʾaxči
-avə k̭aṱ
+k̭aṱ avə
 ɟu ʾidət
 diyyux
-k̭a malcuyta
+malcuyta k̭a
 mara
 ⁺raba
 ⁺spay
@@ -170893,7 +170893,7 @@ xa yuma
 bəšk̭aləl
 brunu
 viyyələ
-jvank̭a xa
+xa jvank̭a
 ⁺məṱya
 labulu
 cəs
@@ -170901,12 +170901,12 @@ cəs
 ⁺noxadnasər
 malca
 k̭a daha
-məndi cul
+cul məndi
 tanuyəl
 bəxzayələ
 he
-⁺spay ilə
-ɟu k̭at
+ilə ⁺spay
+k̭at ɟu
 malcuyta
 avə ṱ
 vazzər
@@ -170917,7 +170917,7 @@ mattuyul
 ⁺ʾaxik̭ar
 bərrəxšəl
 beta
-natan ʾa
+ʾa natan
 ʾətval
 xa ʾaxuna
 ʾaxik̭ar
@@ -170932,17 +170932,17 @@ xina
 ʾannə tre
 yalə
 surəna
-xa mənne k̭a
+k̭a mənne xa
 xubba
 maxzuyət
 xina ʾo
 ⁺narahat
 vayələ
-ʾiman ət
+ət ʾiman
 ⁺ʾaxik̭ar
 xubba
 muxzil
-ʾaxuna k̭a do
+k̭a do ʾaxuna
 sura
 natan
 brunu
@@ -170952,7 +170952,7 @@ malcuytəva
 ⁺narahat
 vilə
 buxxəllə
-məndi da ʾu
+ʾu da məndi
 ⁺ʾaxik̭ar
 yuvvəllə
 k̭a da yala
@@ -170977,22 +170977,22 @@ muttilə
 ⁺tapavut
 muttilə
 ⁺tapavut
-bəl bruna da
-bəl ⁺davva
+bruna bəl da
+⁺davva bəl
 mu
 vədlə
-xa ctava
+ctava xa
 ctəvlə
-mən pummət
+pummət mən
 ⁺ʾaxik̭ar
-malcət k̭a
+k̭a malcət
 məssər
-ʾana k̭at
+k̭at ʾana
 ⁺ʾaxik̭ar
-k̭u talux
+talux k̭u
 nənvə
 ʾatxa har
-⁺p̂laša la
+la ⁺p̂laša
 b yavvənna
 k̭atux
 ⁺bayyən
@@ -171004,7 +171004,7 @@ lətlə
 natan
 ʾa məndi
 vadulə
-ʾo brunu
+brunu ʾo
 k̭a malca
 bəctavələ
 malca
@@ -171027,46 +171027,46 @@ muyyelə
 ʾatə k̭at
 ⁺p̂aləš
 mənnux
-ʾa ctava
+ctava ʾa
 samələ tre
 xa furʾun k̭a
 ⁺šadurələ
-pummət m
+m pummət
 ⁺ʾaxik̭ar
 xa
 k̭a malca
 ⁺šadurələ
-malca k̭at
+k̭at malca
 avət ṱ
 basima
 furʾun
 ⁺bayyə
 ⁺p̂aləš
 mənnux
-furʾun k̭a
+k̭a furʾun
 marələ
-k̭u talux
+talux k̭u
 ⁺pəllan ducta
 xazənnux
 k̭at
 yavvənna
 ⁺ʾatra
-diyyux k̭a
+k̭a diyyux
 la
 ⁺p̂laša
-ʾa ctava
+ctava ʾa
 natan
 yavulə
 k̭a
 ⁺noxadnasər
 malca
 ʾita
-hada m ⁺bar
+m hada ⁺bar
 natan
 k̭a malca
 marələ
 bəxzayət
-mu vadələ
+vadələ mu
 babi
 b rišux
 ʾadi
@@ -171079,7 +171079,7 @@ betux ɟu
 ɟurvəssələ
 ʾina
 ʾadiyya
-velə viyya
+viyya velə
 ⁺xayən
 ⁺ʾallux
 ⁺xayən
@@ -171090,24 +171090,24 @@ mamxilux
 bo
 furʾun
 malca
-let ʾən
+ʾən let
 hammunə
-mənni k̭u ta
+ta mənni k̭u
 ʾazax
 ⁺pəllan
 ducta
 k̭a
 ⁺ʾaxik̭ar
-pummət m
+m pummət
 malca
 bəctavəl
 ⁺ʾaxik̭ar
-pummət m
+m pummət
 malca
 bəctavəl
 ctava
-⁺ʾaxik̭ar k̭a
-ʾaxik̭ar k̭a
+k̭a ⁺ʾaxik̭ar
+k̭a ʾaxik̭ar
 furʾun
 hamla
 vadəl
@@ -171116,8 +171116,8 @@ k̭ošun
 ʾətlə
 ⁺jammila
 k̭ošun ʾe
-xelanta buš
-xazzənna k̭at
+buš xelanta
+k̭at xazzənna
 k̭am furʾun
 ⁺ʾaxik̭ar
 lelə
@@ -171125,12 +171125,12 @@ lelə
 ⁺jammuyol
 cullə
 k̭ošun
-ʾiman ət
-ʾa ctava
+ət ʾiman
+ctava ʾa
 k̭abululə
 ⁺jammuyol
 k̭ošun
-ʾa xina da yba
+xina ʾa da yba
 furʾun
 bitayələ
 k̭a malca
@@ -171143,13 +171143,13 @@ tilə
 laxxa
 hamla
 vada
-⁺ʾaxik̭ar da ʾu
+ʾu da ⁺ʾaxik̭ar
 k̭ošun
 ⁺jummelə
 malca
 ⁺narahat
 vayələ
-natan k̭a
+k̭a natan
 marələ
 k̭at
 melə
@@ -171164,19 +171164,19 @@ idət p̂
 diyyi
 ʾana
 ⁺yaṱṱən ci
-mu odən p̂ṱ
+p̂ṱ mu odən
 b rišu
 xzi
 ha
 ʾaxuna
 bruna
 malca
-natan k̭a
+k̭a natan
 marələ
 k̭at
 melə
 xazzən
-mu k̭a ilə
+k̭a ilə mu
 ʾatxa
 vida
 ⁺ʾaxik̭ar
@@ -171198,7 +171198,7 @@ k̭ošun
 ⁺jummevət
 ⁺ʾal ɟani
 furʾun
-yba a m
+m a yba
 xina
 bitayələ
 ⁺ʾal ɟani
@@ -171217,7 +171217,7 @@ lelə
 ⁺bašurə
 hamzəm
 ⁺mṱilan
-de ⁺ʾal ducta
+⁺ʾal ducta de
 k̭at
 malca
 marələ
@@ -171232,13 +171232,13 @@ k̭ati
 ʾana
 mu
 vidən
-diyyux k̭a
-ʾaha k̭at
+k̭a diyyux
+k̭at ʾaha
 ʾatxa
 vədlux
 b šənnə
 viyyət
-beti ɟu
+ɟu beti
 ʾina
 ⁺ʾaxik̭ar
 ⁺ʾuxča
@@ -171254,14 +171254,14 @@ bədvak̭ələ
 lelə
 ⁺masa
 hamzəm
-cma t
+t cma
 ⁺byayələ
 ʾatə
 hamzəm
 lelə
 ⁺bašurə
 yavulə
-ʾidət ⁺ʾal
+⁺ʾal ʾidət
 xa naša
 mara
 lablun
@@ -171270,27 +171270,27 @@ lablun
 lablun
 ⁺k̭ṱulunlə
 mayuna
-⁺k̭aṱlilə k̭at
+k̭at ⁺k̭aṱlilə
 ⁺xabra
 yavələ
-k̭a baxtu
+baxtu k̭a
 šəmmət
 baxtu
 munšitun
-xa šəmma ʾətla
-k̭a baxtu
+ʾətla xa šəmma
+baxtu k̭a
 ⁺xabra
 yavələ
-ʾana k̭at
+k̭at ʾana
 bitayən
 beta
 ⁺mhadər
 ⁺ramša ⁺xa
 šteta
-məndi cul
+cul məndi
 baxta
 ⁺bəddayəla
-mu ila
+ila mu
 k̭əssat
 mara
 ⁺raba
@@ -171298,12 +171298,12 @@ honantəva
 ⁺raba
 ⁺bəddayəla
 k̭əssat
-mu ila
+ila mu
 bitayəna
 beta
 ⁺maxuləla
 maštuyəla
-⁺k̭aṱula da ʾo
+⁺k̭aṱula ʾo da
 xina
 vayələ
 bəštaya
@@ -171314,7 +171314,7 @@ mara
 šəmma bas
 ⁺ʾuxča
 munšitun
-⁺k̭aṱula ʾo
+ʾo ⁺k̭aṱula
 ʾətlə
 šəmma
 marələ
@@ -171341,7 +171341,7 @@ la
 malca
 ⁺pšəmlə
 ⁺pšəmlə
-mu k̭a k̭at
+k̭a k̭at mu
 ⁺k̭ṱəllun
 ʾina
 ʾana
@@ -171373,11 +171373,11 @@ lablənnə
 mərrə
 xa naša
 ʾəttən
-⁺dussak̭ ɟu
+ɟu ⁺dussak̭
 bədmayələ
 ⁺ʾalli
 ʾu
-da cullə
+cullə da
 ⁺sarbazə ʾan
 iva ṱ
 mənnu
@@ -171385,20 +171385,20 @@ cullə
 šətyəna
 ⁺ruyəna
 ʾannə
-həč xa mənne
+xa mənne həč
 lena
 ⁺bəddaya
 ⁺ʾavun
-labəllə ⁺k̭ṱul
+⁺k̭ṱul labəllə
 bəšk̭alulə
-naša ʾo
+ʾo naša
 ⁺bək̭ṱalulə
 labululə
 k̭a malca
-⁺ʾaxik̭ar k̭at
+k̭at ⁺ʾaxik̭ar
 ʾana
 ⁺k̭ṱəlli
-⁺ʾaxik̭ar k̭a
+k̭a ⁺ʾaxik̭ar
 k̭am
 ⁺tarra
 k̭am ⁺tarrət
@@ -171414,30 +171414,30 @@ mətrə
 ⁺ʾaxik̭ar
 mattuyuna
 ⁺tama
-⁺bəzza xa
+xa ⁺bəzza
 bəšvak̭əna
-k̭at napasu
-⁺k̭aṱṱa la
+napasu k̭at
+la ⁺k̭aṱṱa
 mattuyəna
 miyya
 laxma
-məndi cul
+cul məndi
 mattuyəna
 k̭atu
-ʾo rišət
-naša do
+rišət ʾo
+do naša
 labululə
 k̭a
 ⁺nuxadnasar
-ʾana k̭at
+k̭at ʾana
 ⁺axik̭ar
 ⁺k̭ṱəlli
 yavulə
 k̭atu
-natan ʾa
+ʾa natan
 brunu
 malca
-natan k̭a
+k̭a natan
 brunu
 marələ
 xuš
@@ -171451,7 +171451,7 @@ bitayələ
 həč məndi
 lelə
 vada
-babu k̭a
+k̭a babu
 ʾatxa har
 čamčumulə
 bitayələ
@@ -171463,7 +171463,7 @@ bəzmarələ
 bərk̭adələ
 bəšvarələ
 ʾu ⁺byayələ
-de mən yəmmu
+mən yəmmu de
 k̭aṱ ila
 xumitu
 baxtət
@@ -171494,9 +171494,9 @@ k̭ate
 bərrəxšəla
 xa yuma
 furʾun
-xa ctava
+ctava xa
 bəctavələ
-k̭a ⁺nuxadnasər
+⁺nuxadnasər k̭a
 marələ
 ⁺bəddayələ
 k̭at
@@ -171507,14 +171507,14 @@ mətlə
 myatələ
 ⁺furʾun
 bəctavələ
-xa ctava
+ctava xa
 k̭a
 ⁺nuxadnasər
 marələ
 k̭at
 ʾana
 ⁺byayən
-našux mən
+mən našux
 lipə
 mən ɟu
 ⁺ʾatrət
@@ -171532,7 +171532,7 @@ maʿammɑ
 len ⁺bədda
 xa
 xa məndilə
-⁺cətrələ xa
+xa ⁺cətrələ
 šarilə
 k̭ati
 šrilun ʾən
@@ -171542,7 +171542,7 @@ k̭a diyyi
 tlay
 šənnə
 mən
-darɑmad ət
+ət darɑmad
 ⁺ʾatri
 darɑmad
 ⁺yanə
@@ -171550,10 +171550,10 @@ məndi
 k̭at
 ʾatə
 mən ⁺ʾatri
-mən ⁺xəṱṱə
+⁺xəṱṱə mən
 mən
 dava
-sima mən
+mən sima
 mən məndi cul
 ʾana
 yavvən
@@ -171567,7 +171567,7 @@ məndit
 ⁺ʾatri
 bitayələ k̭at
 məndi
-mən cul ducta
+mən ducta cul
 k̭a tlay
 šənnə
 yavvənnə
@@ -171577,7 +171577,7 @@ mujjurra
 yanə
 ⁺palaṱṱət
 məndi
-mən ɟav ⁺ʾatrət
+mən ⁺ʾatrət ɟav
 diyyi
 tlay
 šənne
@@ -171586,8 +171586,8 @@ k̭atux
 b yavvənna
 ⁺yanə
 mən ⁺xəṱṱələ
-mən ⁺ʾanvəna
-⁺xamrələ mən
+⁺ʾanvəna mən
+mən ⁺xamrələ
 mən davələ
 mən simələ
 mən k̭ənyanəna
@@ -171598,7 +171598,7 @@ darɑmad
 ⁺yanə
 ⁺palṱən
 mən ɟu ʾatri
-məndi cul
+cul məndi
 davəlta
 ⁺palṱən
 k̭a tlay
@@ -171637,7 +171637,7 @@ yavvəllə
 məndi
 ⁺juvvab
 yavvəllə
-furʾun k̭a
+k̭a furʾun
 ilə cuṱ
 bitaya
 mara
@@ -171653,7 +171653,7 @@ natan
 ɟurvəslə
 ɟu ʾidət
 ⁺ʾaxik̭ar
-natan k̭a
+k̭a natan
 ⁺bək̭rayəna
 natan
 mara
@@ -171661,7 +171661,7 @@ mara
 len
 ⁺bəddaya
 ʾana
-⁺msən la
+la ⁺msən
 ʾannə
 ⁺juvvabə
 yavvənnun
@@ -171670,19 +171670,19 @@ mən
 ⁺nuxadnasər
 furʾun
 k̭at
-dana xa beta
+beta xa dana
 zarəzlə
-ɟu ⁺hava
+⁺hava ɟu
 furʾun
 ⁺bəṱlabələ
 xa
 mən
 ⁺nuxadnasər
 k̭at
-dana xa
+xa dana
 beta
 tundəlla
-ɟu ⁺hava
+⁺hava ɟu
 ʾu
 ⁺raba
 məndyanə
@@ -171711,13 +171711,13 @@ k̭ati
 he
 naša
 lət
-ʾa məndi k̭at
+k̭at ʾa məndi
 ʾavədlə
 ⁺nuxadnasər
-de ⁺dana ɟu
+ɟu ⁺dana de
 bəxyələ
 mxayələ
-rišu ɟu
+ɟu rišu
 mara
 ʾo
 ⁺ʾaxik̭ar
@@ -171725,7 +171725,7 @@ mara
 vardət
 beti
 ʾatətva
-ɟu cullə
+cullə ɟu
 ʾannə
 ⁺xabrane
 ci yavvətvalə
@@ -171733,7 +171733,7 @@ ci yavvətvalə
 ʾa
 mu
 vədli
-b riš ɟani
+b ɟani riš
 la
 ⁺bak̭urə
 la
@@ -171741,7 +171741,7 @@ hamzumə
 la
 tanuyə
 xa məndi
-diyyux k̭a
+k̭a diyyux
 ⁺muk̭ṱəlli
 ʾatən
 ʾitva
@@ -171750,12 +171750,12 @@ diyyux k̭a
 bəxyələ
 ⁺raba
 bracələ
-bərcacu ⁺ʾal
+⁺ʾal bərcacu
 mara
 ya
 ʾalaha
-xa ɟa
-zə xita
+ɟa xa
+xita zə
 ⁺axik̭ar
 xazənvalə
 tapək̭va
@@ -171764,14 +171764,14 @@ biyyi
 pati
 k̭etava
 patu ɟu
-iva bass
+bass iva
 ʾatxa
 marələ
 ⁺raba
 hamzumələ
 ʾatxa
 məndyanə
-⁺k̭aṱula ʾo
+ʾo ⁺k̭aṱula
 šəmmu
 ⁺bəddayunva
 munšili
@@ -171787,11 +171787,11 @@ basima
 xa məndi
 tanənnux
 mara
-mu ilə
+ilə mu
 tani
 bitayələ
-⁺k̭aṱula ʾo
-ʾo riɟu
+ʾo ⁺k̭aṱula
+riɟu ʾo
 riɟət
 malca
 ⁺k̭aṱula
@@ -171802,31 +171802,31 @@ malca
 avət ṱ
 basima
 ʾana
-⁺bayyən ci
+ci ⁺bayyən
 ⁺xṱiti
 tanənna
 modənna
 k̭atux
-ʾo našət
+našət ʾo
 k̭at
-malcət ⁺ʾal
+⁺ʾal malcət
 ɟanu
 xayɑnat
 ʾavəd
 ⁺xəlṱa
 ʾavəd
-ʾalaha zə ⁺ʾal
+ʾalaha ⁺ʾal zə
 vadələ
 ⁺xəlṱa
 fark̭
 lela
 vada
-malca ⁺ʾal
-ʾalaha yan ⁺ʾal
+⁺ʾal malca
+yan ʾalaha ⁺ʾal
 ʾana
 ⁺xəlṱa
 vidən
-šuk̭ ʾən
+ʾən šuk̭
 mən ⁺xəlṱi da
 xa məndi
 xina
@@ -171841,7 +171841,7 @@ məndi
 tanənnə
 k̭atux
 mara
-mu ilə
+ilə mu
 hamzəm
 mara
 ⁺ʾaxik̭ar
@@ -171879,12 +171879,12 @@ betu
 xayələ
 ʾita
 ⁺bayyət
-da ⁺k̭aṱlətlə
+⁺k̭aṱlətlə da
 ⁺k̭ṱullə
 mara
 dax
 ⁺k̭aṱlənnə
-ʾən ʾavə
+ʾavə ʾən
 xaya
 palɟət
 malcuyti
@@ -171902,7 +171902,7 @@ de
 hənnə
 mut ina
 tanuyə
-malcə k̭at
+k̭at malcə
 bətyavəna
 ɟavo
 mayulə
@@ -171927,14 +171927,14 @@ bəxpak̭ulə
 mara
 ʾay
 ⁺ʾaxik̭ar
-xayyi ʾay
+ʾay xayyi
 ɟanivət
 ʾatən
 ʾana
 mu
 tila
 b riši
-mu k̭a
+k̭a mu
 pəšli
 ⁺ʾuldiyya
 b natan
@@ -171954,10 +171954,10 @@ k̭am yavvənnux
 bədrayulə
 betət ʾa
 malcuytu
-⁺ʾaxik̭ar ⁺ʾal
+⁺ʾal ⁺ʾaxik̭ar
 mara
 ʾətli
-ʾəhtiyɑj ⁺ʾallux
+⁺ʾallux ʾəhtiyɑj
 bəsp̂arən
 ⁺ʾallux
 yani
@@ -171969,8 +171969,8 @@ halli
 ⁺dana
 yavolə
 ⁺dana
-⁺ʾaxik̭ar k̭a
-ʾarp̂i k̭a
+k̭a ⁺ʾaxik̭ar
+k̭a ʾarp̂i
 yumanə
 ʾarp̂i
 yumanə
@@ -171980,8 +171980,8 @@ mara
 xup
 xač̭č̭a
 ta
-ɟanux ⁺ʾal
-k̭u talux
+⁺ʾal ɟanux
+talux k̭u
 cəsli
 ʾana
 ⁺bayyən
@@ -172036,13 +172036,13 @@ xamša
 məndyanə
 mənni
 ⁺ṱlibələ
-videlan ʾən
+ʾən videlan
 videlan
 la
 videlan
 tlay
 šənnət
-darɑmad ət
+ət darɑmad
 ⁺ʾatrət
 diyyi
 ɟarə
@@ -172051,7 +172051,7 @@ k̭a
 furʾun
 la ʾən
 ⁺msili
-⁺msili ʾən
+ʾən ⁺msili
 ⁺ʾav
 bət yavvəlla
 k̭ati
@@ -172073,14 +172073,14 @@ xa mənne
 k̭at
 ʾana
 ɟari
-dana xa
+xa dana
 beta
 zarzən
-furʾun k̭a
-ɟu ⁺hava
+k̭a furʾun
+⁺hava ɟu
 ʾavə
 cəlya
-ɟu ⁺hava
+⁺hava ɟu
 xa xina
 ʾəttən
 k̭at
@@ -172099,12 +172099,12 @@ la ʾavilux
 ⁺šula
 ⁺xabra
 yavələ
-k̭a baxtu
+baxtu k̭a
 mərri
 baxtu
 ⁺raba
 honantəva
-k̭a baxtu
+baxtu k̭a
 ⁺xabra
 yavələ
 ʾayya k̭at
@@ -172131,18 +172131,18 @@ jaldə
 hallun
 la climun
 yalə ʾu
-da surə
+surə da
 mattuyəna
-xa ⁺k̭ərṱala ɟu
+xa ɟu ⁺k̭ərṱala
 ʾannə
 ⁺nəšrə
 bəšk̭alena
 massuk̭ena
-ɟu ⁺hava
+⁺hava ɟu
 cullə
 ʾannə
 bəlyapəna
-məndi cul
+cul məndi
 vayələ
 duz
 ʾarp̂i ⁺bar
@@ -172150,7 +172150,7 @@ yumanə
 ⁺ʾaxik̭ar
 k̭a malca
 marələ
-k̭u xzi ta
+ta k̭u xzi
 bitayələ
 bəxzayələ
 ⁺tama
@@ -172159,7 +172159,7 @@ bəxzayələ
 ⁺k̭ərṱala
 sək̭la
 ⁺ʾullul
-ʾu ⁺tama
+⁺tama ʾu
 vena
 bədraya
 k̭alə
@@ -172170,7 +172170,7 @@ luġnə
 ʾannə
 ⁺k̭ašiyyə
 carpuycə
-ʾu ⁺ṱina
+⁺ṱina ʾu
 miyya
 k̭am
 cəlyətun
@@ -172187,7 +172187,7 @@ mara
 ⁺ʾaxik̭ar
 ⁺xabra
 yavələ
-furʾun k̭a
+k̭a furʾun
 našət k̭at
 diyyi
 bitayəna
@@ -172212,7 +172212,7 @@ cullə
 marələ
 marələ
 k̭at
-ʾana ʾən
+ʾən ʾana
 ʾavən
 ⁺sara
 našət
@@ -172227,22 +172227,22 @@ mara
 lelə
 yavəvət
 ʾani da
-palaxux na
+na palaxux
 mara
 bəlvašələ
-xa lvəšta
+lvəšta xa
 ɟanu ⁺ʾal
 zardə
 mara
 ʾa
-mu ⁺ʾal
+⁺ʾal mu
 madmuyivət
 mara
 madmuyuxvən
-xa šəmša ⁺ʾal
+šəmša xa ⁺ʾal
 yavvantət
 ⁺bara
-ʾa sapar
+sapar ʾa
 xita
 bəlvašələ
 xač̭č̭a
@@ -172254,11 +172254,11 @@ ranɟət
 ⁺xvara
 mara
 ʾannə
-mu ⁺ʾal
+⁺ʾal mu
 madmuyevət
 mara
 madmuyevən
-cəxvə ⁺ʾal
+⁺ʾal cəxvə
 ʾavi
 šmayya ɟu
 ⁺balbusə
@@ -172273,30 +172273,30 @@ b momita
 mara
 marət
 diyyux
-mu ⁺ʾal
+⁺ʾal mu
 bədmayələ
 marux
-⁺ʾaxik̭ar k̭a
+k̭a ⁺ʾaxik̭ar
 mara
 marət
 diyyux
-mu ⁺ʾal
+⁺ʾal mu
 bədmayələ
-mu ⁺ʾal
+⁺ʾal mu
 madmuyut
 mara
 k̭u
-ʾak̭lux ⁺ʾal
+⁺ʾal ʾak̭lux
 marət
 diyyi
 lelə
 xšixa
-ʾana k̭at
+k̭at ʾana
 ʾatxa
 hamzəmmən
 bazu
 ʾat
-k̭u ʾak̭lux ⁺ʾal
+⁺ʾal ʾak̭lux k̭u
 cli
 ʾana
 hamzəmmən
@@ -172305,21 +172305,21 @@ bazu
 hamzumələ
 bazət
 marət
-zə ɟanu
+ɟanu zə
 ʾət
 nənvə
 ⁺nuxadnasər
 marələ
 k̭at ⁺ʾavun
-tanə ʾən
-k̭a šəmša
+ʾən tanə
+šəmša k̭a
 cli
-bət calya
-tanə ʾən
+calya bət
+ʾən tanə
 ⁺muṱra
 ⁺ri
 ⁺rayya bət
-tanə ʾən
+ʾən tanə
 dunyə
 cli
 calyani bət
@@ -172330,19 +172330,19 @@ bazət
 malcu
 marələ
 mammuyuxvən
-b rišət
+rišət b
 do
 marux
 tanili
 manivət
 marələ
 ʾat manivət
-malca k̭at
-lə ⁺šudrux
+k̭at malca
+⁺šudrux lə
 mara
 ʾana
-xa mən šəcvanə dan
-xa mən šəcvanəvən dan
+xa šəcvanə mən dan
+xa mən dan šəcvanəvən
 xut ʾak̭lət
 malca
 tiyyən
@@ -172356,10 +172356,10 @@ našə
 xinə
 lətva
 k̭at
-diyyux k̭a
+k̭a diyyux
 šəcvana xa
 ⁺šudrələ
-xa malcət cəs
+cəs xa malcət
 məssər
 ⁺xarta
 mammuyulə
@@ -172369,7 +172369,7 @@ tani
 manivət
 mammuyuxvən
 momita
-b rišət
+rišət b
 do
 marux
 tanili
@@ -172378,7 +172378,7 @@ mara
 ʾana
 ʾivən
 ⁺ʾaxik̭ar
-ʾe ⁺dan
+⁺dan ʾe
 ilə ṱ
 šəmmu
 ⁺bəšmayu
@@ -172387,14 +172387,14 @@ furʾun
 brazələ
 šopu
 ⁺bəddayələ
-məndi cul
+cul məndi
 zrəzlə
-məndi cul
-⁺spay vilə
+cul məndi
+vilə ⁺spay
 mara
 ⁺ʾax
-bas ⁺šəmyənva
-diyyux k̭a
+⁺šəmyənva bas
+k̭a diyyux
 ⁺k̭ṱəllun
 mərrə
 he
@@ -172405,10 +172405,10 @@ basmalə
 xa məndi
 ʾavə
 le ʾavə
-xa məndit ʾən
+məndit xa ʾən
 ʾalaha
 basmalə
-avə c
+c avə
 ʾina
 ʾalaha
 bsəmlə
@@ -172426,7 +172426,7 @@ k̭a diyyi
 ʾina
 ʾalaha
 la švək̭lə
-ʾatənva k̭at
+k̭at ʾatənva
 laxxa
 ⁺juvvab
 diyyux
@@ -172435,24 +172435,24 @@ mara
 xob
 xuš
 dmux
-hotel ux ɟu
+hotel ɟu ux
 k̭udmə
 ʾatət
 k̭udmə
 bitayələ
 mədrə
 mara
-mu ⁺byayət
+⁺byayət mu
 mara
 ⁺bayyən
-dana xa
+xa dana
 sɑxtumɑn
 ʾoya
-ɟu ⁺hava
+⁺hava ɟu
 mara
 xob
 tani
-našux k̭a
+k̭a našux
 ṱina
 ⁺k̭ašiyyə
 carpuycə
@@ -172463,19 +172463,19 @@ cullə
 ʾana
 k̭udmə
 ṱ atən
-diyyux k̭a
+k̭a diyyux
 banən
 beta
 ⁺ʾullul
 cullə
 našət
-da dunyə
+dunyə da
 ⁺jmitəla
-ʾaha k̭at
+k̭at ʾaha
 beta
-bət banə
+banə bət
 ⁺ʾullul
-ɟu ⁺hava
+⁺hava ɟu
 ⁺xabra
 yavələ
 k̭a dannə
@@ -172484,37 +172484,37 @@ marələ
 k̭at
 yavvi
 laxma
-yal da surə
-de ⁺k̭ərṱala ɟu
+yal surə da
+⁺k̭ərṱala ɟu de
 bəsyak̭əna
 ⁺ʾullul
 bəsyak̭əna
 ⁺ʾullul
 hal
-⁺dana cma
-ʾatxa ⁺ʾullul
+cma ⁺dana
+⁺ʾullul ʾatxa
 bəsyak̭əna
 balcət
 ʾalpa
 mətrə
-ina ⁺ʾullul
-mən ⁺tama
+⁺ʾullul ina
+⁺tama mən
 ⁺šaruyəna
-k̭alə bədra
+bədra k̭alə
 ʾannə
 yal surə
-hallun k̭at
+k̭at hallun
 cipə
 hallun
 miyya
 hallun
 ⁺ṱina
-⁺ʾaxik̭ar da
+da ⁺ʾaxik̭ar
 bəšk̭alələ
-mən ⁺sarbazu
-mxayələ k̭a dannə
+⁺sarbazu mən
+k̭a dannə mxayələ
 mara
-mu k̭a itun
+k̭a itun mu
 cəlyə
 hallun
 ⁺ṱina
@@ -172544,7 +172544,7 @@ beta
 zarzən
 k̭atux
 ʾatən ʾən
-⁺bašrət le
+le ⁺bašrət
 yavvət
 cipə
 miyya
@@ -172563,7 +172563,7 @@ bitayələ
 mara
 ʾana
 ⁺byayən
-dana xa
+xa dana
 ⁺xola
 ⁺xola
 ʾatxa
@@ -172574,16 +172574,16 @@ dana xa
 b sila
 taxmunələ
 taxmunələ
-mu ʾavəd
-mu ʾavəd la
+ʾavəd mu
+ʾavəd la mu
 mattuyələ
-dana xa
+xa dana
 panjara
 cavə
-ʾu šamašuyta
+šamašuyta ʾu
 šəmša
 bitayəla
-mən ⁺tama
+⁺tama mən
 ci ⁺k̭arila
 šamašuyta
 šamašuyta
@@ -172594,7 +172594,7 @@ sila
 bədrayələ
 sila
 bədrayələ
-mən ⁺tama
+⁺tama mən
 ⁺bəzzə
 ⁺bəzzə
 ⁺ʾavva
@@ -172615,7 +172615,7 @@ partulə
 tay
 našux
 ⁺zak̭rilə
-cma t
+t cma
 ⁺byayəna
 lena
 ⁺bašurə
@@ -172636,7 +172636,7 @@ həč k̭at
 naša
 la ʾavə
 ⁺šəmyu
-dunyə ɟu
+ɟu dunyə
 ʾaxči
 taza
 ʾavə
@@ -172645,8 +172645,8 @@ bitayələ
 ɟu
 hotel u
 taxmunələ
-mu ʾavəd
-mu ʾavəd la
+ʾavəd mu
+ʾavəd la mu
 bəctavələ
 ctava ɟu
 ʾatən k̭at
@@ -172685,7 +172685,7 @@ tazələ
 ʾatən
 ⁺bəšmayovət
 mədrə
-da ⁺tama
+⁺tama da
 ⁺bək̭ramələ
 ʾina
 xač̭č̭a
@@ -172696,15 +172696,15 @@ marolə
 ⁺xarta
 bitayələ
 mədrə
-hotel u ɟu
+hotel ɟu u
 mara
-dmux si
+si dmux
 k̭a k̭edamta
 bitayələ
 k̭a
 ⁺ʾaxik̭ar
 marələ
-k̭a mudi
+mudi k̭a
 suysavatət
 diyyoxun
 ɟavət
@@ -172720,10 +172720,10 @@ munpəllun
 ⁺ʾaxik̭ar
 ⁺plaṱa
 bərrəxšələ
-dan k̭a našət
+k̭a našət dan
 mənnu
 mara
-dana xa
+xa dana
 ⁺k̭aṱu
 duk̭un
 ⁺k̭aṱu
@@ -172734,7 +172734,7 @@ k̭a daha
 mxayələ
 ⁺ʾuxča
 mxayələ
-⁺xyavand ɟu
+ɟu ⁺xyavand
 ⁺ʾajjuzolə
 č̭arč̭urəla
 ⁺bəddayət
@@ -172747,7 +172747,7 @@ wa
 bitayəna
 našə
 k̭a malca
-furʾun k̭a
+k̭a furʾun
 marəna
 k̭at
 ⁺ʾaxik̭ar
@@ -172756,7 +172756,7 @@ velə
 biyyan
 dvik̭ələ
 xa ⁺k̭aṱu
-⁺xyavand ɟu
+ɟu ⁺xyavand
 mxaya
 ⁺šadurələ
 ⁺baru
@@ -172770,14 +172770,14 @@ mu
 vəttəla
 mu
 vəttəla
-diyyux k̭a
-xa xča k̭at
+k̭a diyyux
+xa k̭at xča
 mxayot
 mara
 ʾaha
 marət
 ɟnayəla
-mu ila
+ila mu
 ɟnayo
 mara
 ʾaha
@@ -172800,16 +172800,16 @@ malca
 ʾətlə
 ⁺šula
 mənni
-c azənva
+azənva c
 cəslu
 ʾina
 ʾa
 ⁺k̭aṱuntət
 diyyux
-axxa m
+m axxa
 k̭əmla
 xəšla
-lelə ʾad
+ʾad lelə
 k̭dalu
 ⁺k̭č̭itula
 titəla
@@ -172826,7 +172826,7 @@ mu
 marət
 šuddənnət
 ⁺ṱup̂p̂ənnət
-mu ivət
+ivət mu
 ʾa
 mujjurra
 xəšla
@@ -172843,14 +172843,14 @@ k̭dalət
 ⁺k̭aruvvət
 diyyux
 ⁺k̭č̭ila
-tila ʾu
+ʾu tila
 ⁺dərra
 tila
 mərrə
-xamšamma bas ʾən
+ʾən bas xamšamma
 ʾəštamma
 cilomətrəna
-mujjurra ba
+ba mujjurra
 susavatət
 marət
 diyyi
@@ -172874,7 +172874,7 @@ mərrə
 xuš
 ʾalaha
 ⁺barəxlux
-xa ʾaxča k̭at
+xa k̭at ʾaxča
 hona
 k̭ark̭əpta
 k̭atux
@@ -172889,15 +172889,15 @@ jullə
 cullə
 yuvvelə
 k̭atu
-ʾu tlay
+tlay ʾu
 šənnət
-darɑmad ət
+ət darɑmad
 ⁺ʾatra
 cullə
 yuvvelə
-⁺k̭a ʾaxik̭ar
+ʾaxik̭ar ⁺k̭a
 muttilə
-susavatə ⁺ʾal
+⁺ʾal susavatə
 ⁺šudərrə
 k̭a
 malca
@@ -172913,27 +172913,27 @@ malca
 ⁺pləṱlə
 k̭amaytu
 xurdilə
-b k̭dalu
+k̭dalu b
 nšək̭lə
 ⁺raba
 xdilə
 biyyu
-cul məndit k̭at
+məndit cul k̭at
 ⁺bayyət
 b yavvənnux
 mərrə
 ʾana
 həč məndi
-⁺bayyən le
+le ⁺bayyən
 cullə
 məndi
 ʾətli
-məndi cul
+cul məndi
 ʾətli
 ʾannə zə
 tlay
 šənnət
-darɑmad ət
+ət darɑmad
 mən ⁺ʾatrət
 furʾun
 məssər
@@ -172963,8 +172963,8 @@ bruni
 natan
 bruni
 hallə
-ʾidi ⁺ʾal
-ʾe darsət
+⁺ʾal ʾidi
+darsət ʾe
 yuvvonva
 k̭atu
 k̭amta
@@ -172973,25 +172973,25 @@ lipo
 bəxšavən
 ⁺spay
 hallə
-ʾidi ⁺ʾal
+⁺ʾal ʾidi
 ʾana
 yavvənnə
-dars xa
+xa dars
 xita
 mara
 šk̭ullə
-natan ʾa
+ʾa natan
 idux p̂
 cullət
 ⁺bayyət
 ʾodət
 b rišu
 vud
-naša həc
-hamzəm le
+həc naša
+le hamzəm
 natan
 bəxzayələ
-babu k̭at
+k̭at babu
 xayələ
 ləbbu
 p̂k̭ayələ
@@ -173008,10 +173008,10 @@ məndyanət
 k̭amta k̭at
 mireva
 k̭atu
-⁺spay vi k̭at
-xubbana vi
+vi k̭at ⁺spay
+vi xubbana
 ɟaxcana vi
-ʾatxa vi
+vi ʾatxa
 ʾatxa
 ɟurvəssuva
 ⁺raba
@@ -173021,13 +173021,13 @@ xurjəva
 ⁺raba
 mulpuva
 ⁺biyyuva
-xa baba ʾax
+xa ʾax baba
 xa bruna
-ʾa sapar
+sapar ʾa
 k̭atu
 mərrə
-ʾana k̭at
-diyyux k̭a
+k̭at ʾana
+k̭a diyyux
 muləpli
 ʾavət
 ⁺spay
@@ -173042,24 +173042,24 @@ naša
 k̭a diyyi
 dušdəšlux
 ʾana
-diyyux k̭a
+k̭a diyyux
 muttili
-ɟu malcuyta bet
+bet ɟu malcuyta
 ʾatən
 k̭a diyyi
 muttilux
-⁺ʾarra ɟu
+ɟu ⁺ʾarra
 ʾana
-diyyux k̭a
+k̭a diyyux
 ⁺mumṱili
-zuyza ⁺ʾal
+⁺ʾal zuyza
 ⁺ʾal
 mok̭ɑmat
 ⁺yanə
 xa ⁺darġa ⁺ʾal
 ⁺darġa
 ʾatət k̭at
-bət malcuyta
+malcuyta bət
 ʾina
 ʾatən
 k̭a diyyi
@@ -173069,14 +173069,14 @@ xa ⁺darġa ⁺ʾal
 motana
 yəmmət
 diyyux
-diyyux k̭a
+k̭a diyyux
 tuybərra
 ʾina
 ʾat
 ⁺bilux
 mənno
 ʾavətva
-xa ⁺ɟora ʾax
+ʾax xa ⁺ɟora
 riɟavatə
 cullə
 məxyelux
@@ -173086,7 +173086,7 @@ məndyanə
 marulə
 ⁺yanə
 dark̭ul
-do məndit
+məndit do
 k̭amta
 tunyuva
 marulə
@@ -173104,7 +173104,7 @@ viyyət
 baba
 k̭ati
 mədrə
-har ʾo baba
+ʾo har baba
 k̭ati vi
 mara
 la
@@ -173125,14 +173125,14 @@ avəd ṱ
 ⁺divan
 ⁺bəddayət
 ⁺divan
-mu ila
+ila mu
 bədvak̭ulə
 natan
 ⁺bəsyarulə
 b xəžbuyna
 yavulə
 laxma
-ʾu miyya
+miyya ʾu
 ⁺ṱla
 yumanə
 lela
@@ -173146,7 +173146,7 @@ p̂k̭ayələ
 myatələ
 natan
 ʾayya da
-⁺ʾaxik̭ar ila
+ila ⁺ʾaxik̭ar
 ʾana
 hamzuməvan
 bazət
@@ -173155,17 +173155,17 @@ bazət
 ʾəšta
 ɟu matət
 ⁺hassar
-⁺baba čanɟa
+čanɟa ⁺baba
 ʾəttən
 matət
-⁺hassar ila
+ila ⁺hassar
 ɟu
 ⁺serə
 ʾay
 la
 ʾina
 ⁺hassar
-⁺baba čanɟa
+čanɟa ⁺baba
 b ⁺aralləġġət
 matvatə
 xinəla
@@ -173176,7 +173176,7 @@ k̭arajalu
 ʾannə
 cullə
 ⁺tamela
-b e ducta
+b ducta e
 ʾita
 ʾana
 ʾivan
@@ -173187,11 +173187,11 @@ b e ducta
 tilun
 našə
 məššəlmanə
-ʾu yuvvəllun
+yuvvəllun ʾu
 tup̂p̂anɟə
 k̭a mata
 mən ⁺bar
-xa ⁺ʾəsri
+⁺ʾəsri xa
 yumanə
 tilun
 tup̂p̂anɟə
@@ -173218,19 +173218,19 @@ tup̂p̂anɟu
 surṱa
 ⁺tapanča
 šk̭ilalun
-da ʾay
+ʾay da
 mənnu
-ʾu ⁺puləṱlun
+⁺puləṱlun ʾu
 vaddar
 lubəllun
-de ɟu
+ɟu de
 matət
-⁺baba čanɟa
+čanɟa ⁺baba
 sabab
-⁺dana mən k̭am
+k̭am mən ⁺dana
 babi
-bne k̭a
-⁺baba čanɟa
+k̭a bne
+čanɟa ⁺baba
 məššəlmanə
 xumyəva
 leva
@@ -173253,7 +173253,7 @@ məššəlmanə
 ⁺pləṱlun
 ⁺ʾallu
 lubəllun
-ʾu cullə
+cullə ʾu
 məndiyyət
 diyyan
 šk̭əllun
@@ -173267,12 +173267,12 @@ məndi
 xzuyrət
 diyyan
 dəryelun
-tanuyra ɟu
+ɟu tanuyra
 bak̭iyya
 məndiyyan
 cullə
 lubəllun
-xa yarxa
+yarxa xa
 viyyəna
 məndi
 bəɟraša
@@ -173285,8 +173285,8 @@ məššəlmanəxva
 ⁺tama
 babi
 puləṱlun
-⁺ʾal tarra
-yəmmi k̭a
+tarra ⁺ʾal
+k̭a yəmmi
 mərrun
 me xuš
 trəmma
@@ -173295,12 +173295,12 @@ zuyzə
 ⁺ɟorax
 le
 ⁺k̭aṱlaxlə
-yəmmi ʾu
+ʾu yəmmi
 xəšla
 ɟu matət
 ⁺hošarə
 məššəlmanə
-ʾamsava le
+le ʾamsava
 mačxava
 xa naša
 trəmma
@@ -173316,7 +173316,7 @@ mənne
 ⁺barabar mən
 babi
 xəšli
-talɟa ɟu
+ɟu talɟa
 yəmmi
 tila
 babi ʾu
@@ -173332,20 +173332,20 @@ xazzənnoxun
 ⁺ṱləblə
 ⁺p̂ap̂rus
 yuvvəllun
-dana xa
+xa dana
 ⁺p̂ap̂rus
 ɟrišalə
 mərrə
 ʾadi
 mximunli
-⁺bayyən le
+le ⁺bayyən
 xazzənnoxun
 sabab
 ⁺xuyravatuva
 cullə
 cullə
 ʾət matəva
-matvatə ʾət
+ʾət matvatə
 švavəva
 cullə
 mərrə
@@ -173364,25 +173364,25 @@ yalə
 surə
 surə
 ʾətli
-ʾu ⁺ruppela
+⁺ruppela ʾu
 yalə
 surə
 k̭amayte
-b ʾu ⁺rapsa
+b ⁺rapsa ʾu
 mxilun
-cisət ɟu
+ɟu cisət
 xati
 tre
 šənnə
-ʾaxuni ʾu
+ʾu ʾaxuni
 ⁺ʾarp̂a
 šənnə
 mətlun
-babi k̭a ʾu
+k̭a babi ʾu
 mxilun
-axxu m
+m axxu
 npəllə
-təvlun ʾu
+ʾu təvlun
 ⁺ʾal
 suysavatə
 xəšlun
@@ -173391,11 +173391,11 @@ bas
 pəšlan
 ⁺tama
 mxaya
-rišan ɟu
+ɟu rišan
 šk̭ala ʾu
 dəmma
 ⁺bəššaya
-rišan ɟu
+ɟu rišan
 yəmmi
 č̭arč̭urə
 ʾaxnan
@@ -173404,8 +173404,8 @@ babi
 ⁺hala
 napas
 bəšk̭aləva
-b de ⁺danta har
-dana xa
+b ⁺danta har de
+xa dana
 suysə
 tilə
 suysə
@@ -173418,15 +173418,15 @@ mərra
 ⁺k̭ṱulun
 k̭a da diyyi
 ⁺k̭ṱulunli
-ʾe ⁺danta
-naša ʾo
+⁺danta ʾe
+ʾo naša
 ɟanu
 ⁺ruppalə
 ʾəltəx
 la
 švək̭lə
 suysə
-yəmmi k̭a
+k̭a yəmmi
 ⁺marəč̭va
 dašva
 bas ⁺slilə
@@ -173434,7 +173434,7 @@ našə
 xinə
 məššəlmanə
 mərrun
-⁺vur k̭u ta
+k̭u ta ⁺vur
 ⁺čay
 šti
 ⁺ʾavva
@@ -173452,10 +173452,10 @@ la
 švik̭o
 b da
 jurra
-⁺bayyən le
+le ⁺bayyən
 ⁺čay
 diyyoxun
-šk̭əllə ʾu
+ʾu šk̭əllə
 k̭a diyyan
 muttilə
 xa ɟu
@@ -173463,11 +173463,11 @@ ducta
 ʾatxa
 xač̭č̭a
 muccesta
-ʾe ducta
+ducta ʾe
 k̭at šəxtə
 məxtət
 k̭ənyanə
-xamilun ci
+ci xamilun
 ⁺tama
 k̭a diyyan
 muttilə
@@ -173486,13 +173486,13 @@ xač̭č̭a
 drilun
 ⁺ʾallu
 ⁺bar
-yumanə tre
+tre yumanə
 tilun
-yəmmi k̭a
+k̭a yəmmi
 mərrun
 tilun
 mərrun
-yəmmi k̭a
+k̭a yəmmi
 ⁺ɟorax k̭at
 vena
 ʾupra
@@ -173509,7 +173509,7 @@ xišəva
 cicət
 dava
 šk̭iləva
-pummu m
+m pummu
 švik̭uva
 ɟəlya
 bas
@@ -173541,7 +173541,7 @@ lilank̭a
 muttilun
 ɟavo
 lublaxlun
-de ɟu matət
+ɟu matət de
 savuni bi
 k̭arajalu
 ⁺tama
@@ -173555,7 +173555,7 @@ savuni bi
 ʾayya
 hal ⁺tama
 bətxaron
-mu k̭at
+k̭at mu
 vila
 ⁺bar
 hada
@@ -173568,29 +173568,29 @@ betət ɟu
 ʾana
 pəšli
 tre šənnə
-⁺rabbanyatə ɟu bet
+bet ɟu ⁺rabbanyatə
 ʾaxuni
 muttilun
-məsyoyə ɟu bet
-k̭ašə ʾət
-⁺k̭araxva k̭at
+bet məsyoyə ɟu
+ʾət k̭ašə
+k̭at ⁺k̭araxva
 ⁺tama
 ⁺xarta
 mədrə
 ⁺dərrun
-mata ⁺ʾal
+⁺ʾal mata
 našət
 mata
 ⁺dərrun
 cullə
-mata ⁺ʾal
+⁺ʾal mata
 ʾina
 cullə
 ʾaxči
 vido
 tənna
 ɟavo
-k̭ənyanə ʾu
+ʾu k̭ənyanə
 ɟavo
 cullə
 tumməzzalun
@@ -173607,15 +173607,15 @@ diyyan
 cullə
 šk̭ileva
 ʾina
-⁺dana k̭am m
+m k̭am ⁺dana
 cullə
-⁺zrutət da
+da ⁺zrutət
 diyyan
 ⁺zrutəva
 bi babi
 yəmmi
 tiyyəva
-⁺rusya m
+m ⁺rusya
 muyyəva
 ⁺raba
 məndi
@@ -173625,7 +173625,7 @@ zuyza
 cullə
 məndi
 muyyə
-⁺rusya m
+m ⁺rusya
 ʾina
 cullə
 šk̭əl lublelun
@@ -173645,8 +173645,8 @@ yəmmo
 ⁺tehran
 k̭ate
 lubəllun
-tehran ⁺ʾal
-ʾana xur
+⁺ʾal tehran
+xur ʾana
 ɟvərri
 k̭a
 ⁺behnam
@@ -173669,32 +173669,32 @@ mavatə ɟu
 šəmmane
 ʾatxa
 bitayəna
-ʾe k̭ameta
+k̭ameta ʾe
 tayanna
 mutxərralux
 k̭ay
 banoša
 banoša
-aviva c
+c aviva
 tre
 dastə
 yalə
 bnatə
 ⁺xviṱə
-⁺ṱalaxva ci
+ci ⁺ṱalaxva
 hammaša
 k̭at
 xa
 dasta
 la yba
-bət calya
+calya bət
 xa
 dasta
 xacma
 mətrə
 ʾatxa
 ⁺ʾarranə
-bət cali
+cali bət
 m ⁺uydalə
 ʾita
 xa mənne
@@ -173714,7 +173714,7 @@ doša
 ʾalbatta
 turcət
 ⁺xviṱəna
-heməzmanan ɟu
+ɟu heməzmanan
 banoša
 bandən
 šoša
@@ -173724,17 +173724,17 @@ may
 peša
 ʾita
 xa
-mən dannə
-b ⁺raxəṱ
+dannə mən
+⁺raxəṱ b
 xa
-dani mən
+mən dani
 ʾina
 paršilun bət
 may
 ⁺bayyə
 ⁺raxəṱ
-⁺ṱusa k̭a
-ʾa ɟiba
+k̭a ⁺ṱusa
+ɟiba ʾa
 ʾan
 xelanə
 ʾo
@@ -173746,7 +173746,7 @@ mən do yba
 mayyilə
 ʾita
 ʾaha
-b ⁺raxəṱ
+⁺raxəṱ b
 p̂ṱ azəl
 parəmla
 ʾidət
@@ -173759,45 +173759,45 @@ dvik̭əna
 ⁺raxəṱ
 ʾazəl
 maxə
-⁺ʾaralləġġət mən
+mən ⁺ʾaralləġġət
 ʾide
 ʾita
-ʾe ⁺dan
+⁺dan ʾe
 ⁺k̭aṱṱila
 ʾide
 ʾəmnət
 ⁺bayyə
-dani mən
-b šak̭əl
+mən dani
+šak̭əl b
 mayyilə
 ʾannə
-b zedi
+zedi b
 bənyanət
 dannə
-b zayəd
+zayəd b
 ʾayya
 ʾiva
 xaʾa
-⁺ṱalyatan mən
+mən ⁺ṱalyatan
 hal t
 ʾe ɟət
 ʾani
 park̭i
-ʾe dasta
+dasta ʾe
 ʾita
 vayəla
 ⁺k̭ramta
 bəl
-da ɟiba
+ɟiba da
 mən
 ɟiba do
 ⁺k̭rəmlə
-ʾe xita
+xita ʾe
 ʾiva
 tabyul
 dašən
 mədrə
-turcət ilə
+ilə turcət
 šəmma
 tabyul
 dašən
@@ -173817,7 +173817,7 @@ b dok̭iva
 xa
 zoɟa
 ʾaxči
-⁺raxṱiva bət
+bət ⁺raxṱiva
 ⁺bar
 cullə
 dan xinə
@@ -173833,9 +173833,9 @@ dvik̭əna
 k̭at
 dəm
 ⁺xorət
-d dvək̭lun
+dvək̭lun d
 ci maxiva
-⁺xasu ɟu
+ɟu ⁺xasu
 la
 raba
 k̭uya
@@ -173848,7 +173848,7 @@ maṱiva
 release
 ʾavədvalə
 yan
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 parək̭valə
 mən mxeta
 ʾayya
@@ -173867,13 +173867,13 @@ or
 treat
 ⁺tama
 ʾaxnan
-odaxvala c
+c odaxvala
 mabyunə
 xina
 ʾət diyyan
-ʾət ⁺ʾaturayəla
+⁺ʾaturayəla ʾət
 ʾayya
-mən sabab
+sabab mən
 čiriyyavatəva
 cullə
 ⁺hasəl
@@ -173893,12 +173893,12 @@ yalə
 bnatə
 surə
 yal surə
-c azaxva
-ɟaravayəva ⁺ʾal
-ʾe ⁺ṱalta
+azaxva c
+⁺ʾal ɟaravayəva
+⁺ṱalta ʾe
 mən
 ɟarə
-⁺pašṱaxva ci
+ci ⁺pašṱaxva
 ⁺xola
 ⁺sirəxva
 xa
@@ -173907,8 +173907,8 @@ salta
 k̭alta
 b de
 ⁺xola
-cavə mən
-ci ⁺pašṱaxvala
+mən cavə
+⁺pašṱaxvala ci
 našət
 beta
 cullə
@@ -173928,19 +173928,19 @@ beta
 b k̭emava
 b yavvava
 mattava
-de salta ɟu
+ɟu salta de
 ʾən
-cu məndit
+məndit cu
 ʾətva
 sənjiyyəva
 cəšmišəva
 ɟozəva
 matta bət
-salta ɟu
+ɟu salta
 ʾaxnan
 ɟaršaxlə
 cullə
-ʾe mata
+mata ʾe
 hada
 b ⁺xadraxvala
 ɟarə
@@ -173952,31 +173952,31 @@ dasyatə
 ⁺raba
 prišə
 prišəva
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 dastət
 diyyan
 ʾəšta
 ɟanayə
-p̂ṱ avaxva
-ʾe dasta
+avaxva p̂ṱ
+dasta ʾe
 xita
 ⁺ʾəsra
 ɟanayə
 ʾatxa
 cullə
-surət yal
+yal surət
 mata
 lelə ʾo
 bliɟəxva
 b da
 čiriyyavatə ɟu
-oyava c
+c oyava
 ʾita
 len
 ⁺bədda
 tlay
 xa
-b october iva
+b iva october
 ʾax
 dannə
 vaduna
@@ -173984,7 +173984,7 @@ vaduna
 len
 ⁺bəddayo
 ʾannə
-odi c
+c odi
 trick
 or
 treat
@@ -174012,14 +174012,14 @@ cut
 b ⁺k̭ariva
 ⁺baru
 ⁺ʾav
-b ⁺raxəṱ
-mən dannə
+⁺raxəṱ b
+dannə mən
 ⁺bəzzazə
 ʾatxa
 p̂ṱ ⁺avər
 hal
 davək̭lə
-ilə ṱ ʾo
+ilə ʾo ṱ
 prišu
 ⁺baru
 ⁺bərxaṱəl
@@ -174029,7 +174029,7 @@ davək̭lə
 noba
 ⁺maṱiva ci
 k̭a cullə
-k̭a xacma
+xacma k̭a
 mənne
 le
 ⁺maṱiva
@@ -174043,11 +174043,11 @@ xita
 ⁺raba
 ⁺raba
 damyantəva
-da ⁺ʾal
+⁺ʾal da
 baseball
-ṱ amricayə
+amricayə ṱ
 ʾənɟləznayə
-ina ṱ
+ṱ ina
 ⁺ṱavlo
 baseball ⁺al
 ʾaxnan
@@ -174068,7 +174068,7 @@ mxayolə
 ʾe ɟət
 mxayolə
 rəxk̭a
-ʾa t
+t ʾa
 laxxa
 cəlyələ
 ⁺bərxaṱələ
@@ -174078,7 +174078,7 @@ cəlyələ
 muttəna
 ⁺raba
 damyanta
-baseball iva ⁺ʾal
+baseball ⁺ʾal iva
 ʾayya zə
 bəxšavən
 ʾatyanət
@@ -174089,7 +174089,7 @@ lipova
 k̭a diyyan
 mulpova
 pəštəva
-de mən ɟa
+ɟa mən de
 ʾana
 bəxšavən
 ʾətvalan
@@ -174105,10 +174105,10 @@ kərya
 xa
 k̭esa
 ⁺yarixa
-p̂ idan
+idan p̂
 dok̭axvalə
 ⁺ʾavən
-b ⁺rappaxvalə
+⁺rappaxvalə b
 k̭uya
 maxaxvalə
 b do
@@ -174116,13 +174116,13 @@ k̭esa
 b k̭esa
 ⁺ɟura
 maxaxva bət
-k̭esa ⁺ʾal
+⁺ʾal k̭esa
 sura
-cma t
+t cma
 rəxk̭a
 ʾazəlva
 b ⁺pasulyatə
-ci banaxvalun
+banaxvalun ci
 ʾaxnan
 xa ʾaxča
 ⁺pasulyay
@@ -174152,7 +174152,7 @@ dəcci
 ⁺ʾal
 tanuyra
 xina
-la ⁺ʾamsaxva
+⁺ʾamsaxva la
 ⁺palṱaxva
 talɟa
 ⁺raba
@@ -174166,21 +174166,21 @@ beta
 ⁺ṱalaxva
 ⁺čara
 lətvalan
-zə cəlpat
+cəlpat zə
 təvtəla
 cullə
 k̭at
 mabləɟɟivalan
-iva mulpan
+mulpan iva
 xa mənne
-b capva
+capva b
 dax t
 tivəna
-tanuyra ⁺ʾal
+⁺ʾal tanuyra
 xinə ʾan
 maxi
-⁺xasu ⁺ʾal
-ci taniva
+⁺ʾal ⁺xasu
+taniva ci
 dəcca
 dəccət
 ⁺ṱana
@@ -174194,7 +174194,7 @@ xuda
 canda
 ʾidət
 mani
-xut banda
+banda xut
 ʾadi
 ʾidatan
 cullə
@@ -174203,26 +174203,26 @@ mattuyəx
 hi
 ʾatxa
 mattuyəx
-ʾo t
+t ʾo
 cipələ
 ɟari
 ⁺yaṱṱə
 ʾidət
-may la
-ʾe t
+la may
+t ʾe
 xuta
 ʾita
-ʾe la ⁺dan ⁺dilə
+⁺dan la ⁺dilə ʾe
 mədrə
 har
-payəš bət
+bət payəš
 ⁺tama
 mədrə
 maxi
-⁺xasu ɟu
+ɟu ⁺xasu
 hal de ɟət
 ⁺yaṱṱə
-ʾe ʾidət
+ʾidət ʾe
 təvtəla
 k̭amta
 ʾannə
@@ -174243,26 +174243,26 @@ k̭at
 ⁺ɟullatəva
 yalə
 ⁺raba
-⁺ṱalivala ci
+ci ⁺ṱalivala
 ʾa
 ⁺ṱalta
 odiva c
-⁺bəzza xa
+xa ⁺bəzza
 sura
-ɟuyda xut
+xut ɟuyda
 ʾita
 ⁺ɟullatə
 ʾatxa
-⁺rappiva ci
+ci ⁺rappiva
 cma
-b napli
-čənna ɟu
+napli b
+ɟu čənna
 cma
-b napli
+napli b
 ⁺xadərvanə ⁺ʾal
 ʾaxči
-ʾan t
-čənna ɟu
+t ʾan
+ɟu čənna
 banivalun
 ʾani
 ⁺k̭rimevalun
@@ -174274,7 +174274,7 @@ xina ʾo
 ⁺ɟullatə
 ʾatxa
 b ⁺rappiva
-čənna ɟu
+ɟu čənna
 ⁺darvaza
 ⁺darvaza
 ʾadi
@@ -174294,14 +174294,14 @@ xina ʾo
 ⁺baru
 ʾatxa har
 p̂ṱ azi
-xut m ʾide
+m ʾide xut
 ⁺palṱi
 ⁺tammo
 cullə
 ʾannə
 ⁺darvazə
 dvik̭əna
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 hal ʾidux
 yosəp
 ʾatxa
@@ -174310,12 +174310,12 @@ cullan
 ʾadi
 ⁺ʾəsra
 zoɟə
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 ʾatxa
 dvik̭əx
 ʾatən
 mən ⁺xavərtux
-axxa m
+m axxa
 p̂ṱ ⁺oritun
 calitun
 prak̭ta ⁺ʾal
@@ -174325,7 +174325,7 @@ p̂ṱ ⁺avər
 di
 xina ʾo
 p̂ṱ ⁺avər
-da ɟu
+ɟu da
 ʾurxa
 k̭am
 ʾurxe
@@ -174344,7 +174344,7 @@ ci ⁺yaṱṱax
 ʾat
 ⁺spay
 zamarət
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 ʾa
 maccupux
 lex
@@ -174352,7 +174352,7 @@ bəšvak̭a
 ⁺ʾorət
 mara
 ⁺russu
-mu ilə
+ilə mu
 mu
 ɟari
 ʾavəd
@@ -174363,29 +174363,29 @@ k̭at
 mara
 xa zmarta
 ʾita
-zamərva ci
+ci zamərva
 ʾadi
-mən zoɟa da
+zoɟa mən da
 xa mənne
 ɟari
 zamər
 k̭at
 ⁺ʾavər
-axxa m
+m axxa
 zmərrə
 prək̭lə
 ʾaha
-iva bulɟanan
+bulɟanan iva
 ʾita
 ta
-⁺vur xuš
+xuš ⁺vur
 ʾaha
 ʾətva
 ʾup
-marət ɟu
+ɟu marət
 šənnə
 našə
-⁺ṱalivala ci
+ci ⁺ṱalivala
 la
 ⁺raba
 b šənnə
@@ -174403,20 +174403,20 @@ bətxarən
 ʾita
 ⁺šup̂ro ʾo
 ʾahəva
-ʾidavatə ɟu
-⁺ṱalivala ci
+ɟu ʾidavatə
+ci ⁺ṱalivala
 ⁺ɟura ʾida
 ʾida sura
 cəslan
 ⁺raba
-dok̭axvalə ci
+ci dok̭axvalə
 b k̭əšya
 ⁺yanə
 ⁺raba
 xelana
 xa
 šabta
-ɟarəšva ci
+ci ɟarəšva
 balcət
 cut
 ʾida
@@ -174434,7 +174434,7 @@ vitəla
 ⁺dana
 mən da
 mata
-de ⁺ʾal
+⁺ʾal de
 b ⁺darvaza
 xišəna
 har
@@ -174454,7 +174454,7 @@ moriša
 yuma
 la
 zrak̭a
-c azaxva
+azaxva c
 k̭at
 xina
 k̭upšina
@@ -174464,18 +174464,18 @@ lela
 ⁺bəšmaya
 moriša
 jaldə
-ṱ azaxva
+azaxva ṱ
 ⁺tor
 ʾətvalan
 ⁺tor
-do ⁺ʾal
+⁺ʾal do
 ⁺ʾaralliġu
 k̭attatə
 ʾətvalə
-do ⁺ʾal
+⁺ʾal do
 ⁺ʾaralliġu
 ʾətva
-dana xa
+xa dana
 k̭esa
 ʾatxa
 mattaxvalə ci
@@ -174489,9 +174489,9 @@ məxyuxva
 xa
 ʾatxa
 ⁺sirəxva
-axxa m
+m axxa
 mən camaran
-dana xa
+xa dana
 ⁺čadra
 ɟrišəxva
 ⁺ʾallu
@@ -174510,15 +174510,15 @@ mattaxvalə
 ⁺tammo
 k̭amay
 ⁺ʾavva
-madmivalan ci
+ci madmivalan
 calla ⁺ʾal
-k̭ənyanə ⁺ʾal
-mən ⁺dav
+⁺ʾal k̭ənyanə
+⁺dav mən
 ⁺tor
 k̭at
 ʾatxa
 c odaxva
-ci taniva
+taniva ci
 masalan
 k̭ənyanəna
 šak̭laxva
@@ -174577,11 +174577,11 @@ xa
 mən xut
 ⁺tor
 bədvak̭əx
-p̂ idan
+idan p̂
 mattuyəx
 ɟa daha
 bədvak̭ex
-p̂ idan
+idan p̂
 ʾadi
 xamšəna
 ʾəštəna
@@ -174640,11 +174640,11 @@ xina
 ʾannə
 cərvišə
 cərvišə
-aviva c
+c aviva
 ʾe
 ⁺dana
 aziva c
-b tup
+tup b
 cərvišət
 dməxta
 xazzivala
@@ -174657,8 +174657,8 @@ carma
 ⁺ʾayne
 xazzivala
 dməxtəla
-b tup
-maxivala ci
+tup b
+ci maxivala
 ʾina
 ⁺xarta
 ʾannə
@@ -174669,9 +174669,9 @@ tup̂p̂anɟə
 ⁺pləṱlun
 ci mak̭k̭əmmivala
 ⁺raxṱava ci
-maxivala ci
+ci maxivala
 ʾina
-ʾe ⁺dan
+⁺dan ʾe
 ʾaxnan
 k̭at
 surəxva
@@ -174688,13 +174688,13 @@ malivala
 ʾita
 lətvalun
 ⁺raba
-iva majbur
+majbur iva
 ⁺xadriva
 ʾica
 dməxtəla
 maxivala
 čun
-k̭əmvala ʾən
+ʾən k̭əmvala
 balcət
 ʾark̭ava
 tup
@@ -174719,18 +174719,18 @@ yalə
 jilə
 mak̭k̭əmmivala
 ⁺raxṱava ci
-maxivala ci
+ci maxivala
 ⁺dayət
 ʾina
 k̭amta
-oyava c
+c oyava
 dməxta
 babavatan
 surəxva
 lətva
 ⁺ʾuxča
 vasila
-danə tre
+tre danə
 danə ⁺ṱla
 ⁺čarparə
 ⁺barut
@@ -174788,7 +174788,7 @@ la
 ⁺dana
 ʾaxnan
 ɟa
-mat diyyan
+diyyan mat
 lətva
 xzuyrə
 aziva c
@@ -174804,10 +174804,10 @@ aziva ṱ
 ṱuranə
 maxiva
 xzuyra
-dana xa
-danə tre
+xa dana
+tre danə
 xzuyrə
-mayyiva ci
+ci mayyiva
 ʾina
 cullə
 la
@@ -174827,7 +174827,7 @@ miyya
 ʾətva
 ⁺ʾaynatə
 miyya
-ci ⁺palṱiva
+⁺palṱiva ci
 šaxinə
 k̭emiva
 aziva c
@@ -174858,7 +174858,7 @@ b lelə
 ⁺bərrayələ
 ⁺p̂uzo
 maxyavalə
-ʾatxa ɟa
+ɟa ʾatxa
 ⁺maramta
 ʾa
 ɟdala
@@ -174866,14 +174866,14 @@ maxyavalə
 halk̭a
 napəlva
 b k̭dalo
-la ⁺ʾamsava
+⁺ʾamsava la
 parxava
-da laxxa
+laxxa da
 sitəla
 ⁺dayət
 moriša
 jaldə
-p̂ṱ aziva
+aziva p̂ṱ
 ɟašk̭ət
 ⁺ṱla
 ⁺ʾarp̂a
@@ -174892,7 +174892,7 @@ babi
 ⁺ruppələ
 ⁺sona
 ʾordac
-aviva c
+c aviva
 šap̂irə
 ⁺ṱrisə
 ⁺ʾavva
@@ -174902,7 +174902,7 @@ aviva c
 dok̭ivalə
 ʾət
 ⁺dana
-b tup
+tup b
 ci maxiva
 ʾina
 ɟa dannə
@@ -174917,22 +174917,22 @@ suysə
 ṱupru
 zarziva
 ⁺šariṱə
-tanivalun ci
-axxa m
-dana xa
+ci tanivalun
+m axxa
+xa dana
 sita
 maxiva
 b ⁺yasriva
 b sita
 laxxa
-ṱ ativa
+ativa ṱ
 ʾaha
 xa xča
 ⁺yarixa
 laxxa
 xa xča
 halk̭a
-ṱ odivalə
+odivalə ṱ
 ʾa
 ducta
 ⁺xəṱṱə
@@ -174943,15 +174943,15 @@ mxeta
 rišo
 ɟa ⁺maramta
 ʾaha
-b ⁺xaləsva
+⁺xaləsva b
 halk̭a ʾa
 ⁺xaləsva
 ʾordac
 pešava
 ⁺tama
 moriša
-p̂ṱ aziva
-aviva ṱ
+aziva p̂ṱ
+ṱ aviva
 ⁺ʾarp̂a
 xamša
 ⁺ʾəsra
@@ -174964,8 +174964,8 @@ muttəna
 ʾət ʾordaɟəva
 səprə
 səprə
-⁺oriva c
-mulavatə ɟa
+c ⁺oriva
+ɟa mulavatə
 tuyna
 ʾətvalan
 cavatə
@@ -174997,13 +174997,13 @@ cavə
 patxaxvalə
 ʾaha
 b ⁺repa
-atyava c
+c atyava
 ⁺palṱava
 da ⁺tor
 ʾatxa
 ⁺xalsaxvalə
 tlay
-danə ʾarp̂i
+ʾarp̂i danə
 danə xamši
 pešiva
 ɟa ⁺tor
@@ -175016,10 +175016,10 @@ načlaxva
 ⁺tamma
 tamməzzaxvalun
 ⁺šurva
-odaxvalun c
-⁺axlaxva c
+c odaxvalun
+c ⁺axlaxva
 k̭uyə
-aviva c
+c aviva
 ʾita
 ʾət
 našə
@@ -175031,18 +175031,18 @@ bi
 ɟarme
 cəptə
 ʾatxa
-oyava c
+c oyava
 ⁺raba
 k̭vita
 basəmta
 səprə
 ʾayya da
-ʾət səprə
+səprə ʾət
 ba
 ⁺raba
 dvik̭ən
 ʾana
-b səprə
+səprə b
 ⁺ṱerə
 xinə
 mərri
@@ -175058,16 +175058,16 @@ k̭umriyyə
 ʾətva
 ⁺yahuyə
 ʾətva
-dəšta ɟa
+ɟa dəšta
 yonay
 ʾətva
 ci maxiva
 tup ʾən
 ʾətvalun
 ci maxiva
-mayyiva ci
+ci mayyiva
 bašliva
-⁺axliva c
+c ⁺axliva
 ʾətvalan
 tre
 ɟanayə
@@ -175080,7 +175080,7 @@ yarxət
 sətva
 k̭arta
 ⁺rabəva
-danə ⁺ṱlamma
+⁺ṱlamma danə
 cərvišə
 məxyəva
 ⁺ṱlamma
@@ -175090,7 +175090,7 @@ məxyəva
 ɟəlde
 xumyuva
 mubrəzzuva
-dana xa
+xa dana
 ⁺ʾaṱṱar
 tanax
 duccandar
@@ -175098,35 +175098,35 @@ duccandar
 šəmmu
 mixayəl
 ʾətvalan
-labliva ci
+ci labliva
 k̭a ⁺dav
 xa
 zuyza
-ci yavvivalun
+yavvivalun ci
 zavənvalun
 ⁺dana ʾe
 len ⁺bədda
 odivalun c
 k̭a ⁺p̂alṱuynə
-k̭a k̭dalə
+k̭dalə k̭a
 ɟəlde
 šap̂irəva
 šaxinə
 zavənvalun
 ⁺ʾavun
 ⁺ʾav
-yavvəlvalun ci
-huydayə k̭a
+ci yavvəlvalun
+k̭a huydayə
 huydayə
 zonivalun
 ⁺xeṱiva
 ⁺p̂alṱuynə
 k̭dale ⁺ʾal
-aviva c
-de mən ɟəldət
+c aviva
+ɟəldət mən de
 cərvəš
 ⁺məstana
-aviva c
+c aviva
 ⁺dayət
 ʾita
 ʾannə
@@ -175135,25 +175135,25 @@ məndyanə
 ɟa mata
 xəzyəx
 nuynə
-c azaxva
+azaxva c
 bi
 ⁺tor
 nuynə
 nuynə
 nara
-axxa m
+m axxa
 bitayələ
 nara
-axxa m
+m axxa
 bitayələ
 ʾa
 duca
-bumbast ila
+ila bumbast
 tanax
 miyya
 ⁺bəddara
 ⁺ʾal laxxa
-bumbast ila
+ila bumbast
 ⁺dayət
 ataxva ṱ
 ⁺tor
@@ -175175,7 +175175,7 @@ dok̭axvala
 mattaxva
 ɟa miyya
 xa mənnan
-ṱ azaxva
+azaxva ṱ
 mən do yba
 b k̭esa
 cašcəššaxva
@@ -175194,18 +175194,18 @@ b čanɟal
 la
 b ⁺tor
 dok̭axva
-ʾe ⁺danta
-narət ɟa
+⁺danta ʾe
+ɟa narət
 diyyan
 ʾətva
 tre
 jurrə
 nuynə
-dana xa
+xa dana
 nuyna
 ⁺xvarta
 tanaxvala
-dana xa
+xa dana
 marət
 sumbulalə
 tanaxvala
@@ -175221,7 +175221,7 @@ nuyna
 ʾay
 ⁺raba
 basəmtəva
-oyava c
+c oyava
 dok̭ax
 ɟa do
 narət
@@ -175246,12 +175246,12 @@ nuynə
 dok̭axva ci
 sətva
 dok̭axva
-zə ⁺k̭eṱa
+⁺k̭eṱa zə
 dok̭axva
-⁺axlaxva c
+c ⁺axlaxva
 nuynə
 mayyaxva
-mən dannə
+dannə mən
 surə
 nuynə
 dok̭axva
@@ -175272,7 +175272,7 @@ savuni
 ʾa
 ⁺čaluvva
 mattivalə
-tanuyra ɟa
+ɟa tanuyra
 cut
 ⁺pava
 tre
@@ -175292,10 +175292,10 @@ tandəlvalun
 bi
 dani
 mattivalə
-tanuyra ɟa
+ɟa tanuyra
 ʾani
 b samk̭iva
-⁺halala ʾax
+ʾax ⁺halala
 moriša
 k̭at
 tanuyra
@@ -175307,7 +175307,7 @@ pəštəla
 mattiva
 cullə
 k̭alivalun
-do ⁺ʾal
+⁺ʾal do
 ⁺čaluvva
 cullə
 bašliva
@@ -175321,7 +175321,7 @@ taniva
 ⁺ɟurə
 ʾatxa
 ⁺č̭aləpvalun
-ci malivalun
+malivalun ci
 ⁺buslə
 ⁺nanə
 ʾəryanə
@@ -175331,7 +175331,7 @@ smuk̭ta
 malivalə
 b ɟdala
 ⁺yasərvalun
-⁺rappivalun ci
+ci ⁺rappivalun
 ʾəštət ⁺ʾal
 tanuyra
 coz
@@ -175355,7 +175355,7 @@ cullə
 ⁺yasərvalun
 b ɟdala
 mattivalun
-tanuyra ɟa
+ɟa tanuyra
 ʾal do
 ⁺k̭əṱma
 bašliva
@@ -175366,13 +175366,13 @@ cullə
 tre
 c avədvalun
 ⁺šayyivalun
-do ⁺ʾal
+⁺ʾal do
 marzət
 tanuyra
 ʾatxa
 malivalə
 samk̭iva
-⁺halala ʾax
+ʾax ⁺halala
 paləṱva
 xa xča
 majma
@@ -175381,24 +175381,24 @@ mattiva
 ⁺cərṱopə
 ⁺xulun
 mamləxxaxva
-axlaxva c
+c axlaxva
 ⁺raba
 basimə
-aviva c
+c aviva
 ⁺cabab
-aviva c
+c aviva
 xa yuma
 ⁺malla
 ⁺malla
 ⁺nasradən
 bitayələ
-ʾurxa mən
+mən ʾurxa
 xmara
 zənjliġə
 ⁺rappuyələ
-ʾu ⁺malla
+⁺malla ʾu
 bənpala
-mən xmara
+xmara mən
 pyašəl
 ⁺tama
 lel
@@ -175414,26 +175414,26 @@ ləttən
 k̭ati k̭at
 ʾatə
 mak̭k̭əm
-⁺ʾarra mən da
+mən ⁺ʾarra da
 xa naša
 litən
 taxmən
-diyyi but
+but diyyi
 mara
 k̭emən
 ⁺raxṱən
 ʾazən
-baxti k̭a
+k̭a baxti
 tanən
 bək̭yamələ
-mən ⁺tama
+⁺tama mən
 ⁺bərxaṱəl
 bitayəl
-k̭a baxtu
+baxtu k̭a
 marələ
 baxta
 ⁺k̭əṱma
-b rišo
+rišo b
 ⁺ɟorax
 mitələ
 ⁺xabra
@@ -175442,7 +175442,7 @@ lətlax
 mitələ
 ⁺pəllan
 ducta
-k̭u ɟanax ta
+ta ɟanax k̭u
 maxzənna
 ʾicələ
 ⁺tamələ
@@ -175450,7 +175450,7 @@ mita
 xa naša
 la tilə
 šak̭əllə
-k̭a baxtu
+baxtu k̭a
 maxzuyol
 ducta
 mitələ k̭at
@@ -175506,7 +175506,7 @@ beta
 baxtu
 vayəla
 təvta
-havuz ⁺ʾal
+⁺ʾal havuz
 manə
 ⁺xallulə
 ⁺k̭aṱu
@@ -175514,7 +175514,7 @@ manə
 təvtəla
 ⁺tama
 ɟaššuk̭ə
-k̭a baxta
+baxta k̭a
 marələ
 k̭at
 baxta
@@ -175543,10 +175543,10 @@ muyyəl
 k̭a diyyi
 jiɟar
 k̭ulve
-dəl u k̭ulve
+k̭ulve dəl u
 bərrəxšəla
-ʾa ⁺šulo ⁺bar
-da ⁺k̭aṱu
+⁺šulo ʾa ⁺bar
+⁺k̭aṱu da
 bərrəxšəla
 cullə
 ⁺bixaləla
@@ -175557,7 +175557,7 @@ bitayələ
 mara
 ʾana
 muyyənva
-dəl u k̭ulve
+k̭ulve dəl u
 k̭a diyyax
 dax
 vilun
@@ -175574,7 +175574,7 @@ nɑdɑn
 ʾana
 ʾatxa
 mərri
-⁺k̭aṱu k̭at
+k̭at ⁺k̭aṱu
 la
 ⁺šammava
 la
@@ -175592,7 +175592,7 @@ dunyə
 ⁺xadrən
 ⁺ṱavvən
 mačxən
-xa naša k̭at
+xa k̭at naša
 ⁺ʾax
 lətlə
 ʾahhhh
@@ -175608,8 +175608,8 @@ lətlə
 taxmanta
 ⁺bəddayət
 mu marən
-dayya k̭a
-ci tani
+k̭a dayya
+tani ci
 ⁺ʾax
 ⁺ʾax
 vay
@@ -175633,12 +175633,12 @@ mərrə
 ʾazena
 xa naša
 mačxənnə
-la ʾavilə k̭at
-da dunyə ɟu
+la k̭at ʾavilə
+ɟu dunyə da
 ⁺ṱavvən
 ⁺bar
 xa naša
-⁺ʾax k̭at
+k̭at ⁺ʾax
 la ʾavilə
 xəšša
 la ʾavilə
@@ -175653,22 +175653,22 @@ bək̭yamələ
 mu ina
 čaruxə
 čaruxə
-dahəna ʾax
+ʾax dahəna
 daha ʾax
 ʾina
-axxa m
-axxa m
-axxa m
-axxa m
+m axxa
+m axxa
+m axxa
+m axxa
 ʾəttən
 ɟəddalə
 k̭amta
 našə
 ci lošiva
-ʾannə čaruxə
+čaruxə ʾannə
 lətva
 ⁺solə
-ci taniva
+taniva ci
 čaruxə
 k̭ate
 čaruxə
@@ -175690,22 +175690,22 @@ məndyanə
 xəšle
 xəšlə
 yuma
-xa mdita ɟu
+xa ɟu mdita
 yuma
 xa ɟu cuča
 cuča
 ⁺ʾalula
 ⁺bəxdara
-ʾa mdita
+mdita ʾa
 prək̭la
-ʾe mdita
+mdita ʾe
 xita
-ʾe mdita
+mdita ʾe
 xita
 prək̭la
-ʾe xita
+xita ʾe
 har
-vilə ⁺bəxdara
+⁺bəxdara vilə
 b yarxə
 b šənnə
 vilə
@@ -175723,7 +175723,7 @@ xdita
 tanya
 ʾana
 xditən
-həč xəšša
+xəšša həč
 lətli
 bərrəxša
 bərrəxša
@@ -175740,7 +175740,7 @@ mačuxə
 ⁺darva
 ʾativa
 xzilə
-dana xa
+xa dana
 duccana
 ⁺maġazya
 ʾina
@@ -175768,10 +175768,10 @@ našə
 bərrəxšəna
 məndi
 bəzvanəna
-b ʾidu da
+ʾidu b da
 zuyzə
 bəšk̭ala
-b de ʾidu
+ʾidu b de
 zuyzə
 bəšk̭ala
 ʾu
@@ -175780,17 +175780,17 @@ bəšk̭ala
 laxuyma
 ʾu
 palaxə
-duccana ɟu
+ɟu duccana
 mərrə
 ʾaha
 ɟari
 ʾavə
-ʾo našət
+našət ʾo
 ʾana
 ⁺byayun
-la ʾavilə k̭at
+la k̭at ʾavilə
 ⁺ʾax
-la ʾavilə k̭at
+la k̭at ʾavilə
 xəšša
 la ʾavilə
 taxmanta
@@ -175804,13 +175804,13 @@ zuyza
 duccana
 ⁺ɟurta
 palaxə
-xut ʾidu
+ʾidu xut
 bas ʾaha
 lətlə
 xəšša
 sap̂rən p
 xazzən
-mu oya p̂ṱ
+oya p̂ṱ mu
 ʾannə
 našə
 mən k̭edamta
@@ -175822,7 +175822,7 @@ məndi
 bəzvana
 ʾina
 ⁺ʾavva
-vilə har tiva
+tiva vilə har
 ⁺tama
 bərrəxšəna
 bitayəna
@@ -175871,7 +175871,7 @@ mu
 ⁺byayəvət
 ⁺marrət
 diyyux
-mu ilə
+ilə mu
 mara
 həč məndi
 ʾaxuni
@@ -175891,7 +175891,7 @@ mən k̭edamta
 laxxəvət
 mərrə
 hammən
-mən ʾalaha
+ʾalaha mən
 lela
 ⁺ṱšita
 mənnux
@@ -175920,8 +175920,8 @@ b diyyux
 bəxzayux vən
 laxuyma
 bəxzayux vən
-b da ʾidux
-b de ʾidux
+b ʾidux da
+b ʾidux de
 zuyzə
 bəšk̭ala
 bəxzayux ʾu vən
@@ -175931,20 +175931,20 @@ palaxə
 harhurəvət
 ʾaslan
 ⁺bədda let
-ʾa dunyə
+dunyə ʾa
 m ica
 titəla
 ʾana
 tuxmənni
 ʾatən
 ʾəmma
-ʾəmma k̭a
+k̭a ʾəmma
 ʾatən
-ʾo našət
+našət ʾo
 mərrə
 ⁺ʾaha
 ʾadiyya
-lelə ʾad
+ʾad lelə
 ʾatən
 p̂ṱ avət
 k̭ay
@@ -175968,15 +175968,15 @@ la
 b yattət
 laxxa
 cəsli
-cma t
+t cma
 ⁺bayyə
 k̭am
 yavələ
 dastur
-palaxu k̭a
-šuk̭un la k̭at
+k̭a palaxu
+la šuk̭un k̭at
 ʾazəl
-lelə ʾad
+ʾad lelə
 mara
 ʾarxivət
 k̭udmə
@@ -176017,7 +176017,7 @@ mən da
 naša
 ʾa
 ⁺bayyə
-di k̭a
+k̭a di
 ⁺k̭aṱəl
 ⁺bayyə
 ʾarək̭
@@ -176026,15 +176026,15 @@ mara
 la
 la
 la
-lelə ʾad
+ʾad lelə
 ʾarxivət
 maɟar
 let
 ⁺ṱavvuyə
 ⁺bar
-məndi da
+da məndi
 xob
-lelə ʾad
+ʾad lelə
 ʾarxivət
 k̭at
 xazzət
@@ -176050,7 +176050,7 @@ vadələ
 bitayələ
 bəšk̭alelə
 čaruxu
-ʾarək̭ k̭at
+k̭at ʾarək̭
 yala
 bədvak̭ulə
 mara
@@ -176066,7 +176066,7 @@ mara
 ⁺hayyərri
 ʾana
 mut ʾa
-iva k̭alat
+k̭alat iva
 vədli
 ʾa
 mut
@@ -176075,9 +176075,9 @@ vədli
 ʾa
 k̭am
 humzəmli
-lelə ʾad
+ʾad lelə
 ʾa
-parək̭li p
+p parək̭li
 ⁺k̭aṱəlli p̂
 ʾətlə
 nak̭ša
@@ -176088,7 +176088,7 @@ b alaha
 ⁺bixala
 prak̭əna
 bərrəxšəna
-damxi k̭at
+k̭at damxi
 labululə
 mənnu
 ʾ⁺otax ɟu
@@ -176104,14 +176104,14 @@ b riši
 mara
 ʾayya
 ⁺k̭aravattət
-diyyux ila
+ila diyyux
 ʾa da
 ⁺k̭aravattət
 diyyila
 turvəntan
 damxax
 xa ⁺ʾotax ɟu
-lelə ʾad
+ʾad lelə
 mədrə
 bəcyapələ
 šak̭əl
@@ -176119,7 +176119,7 @@ bəcyapələ
 ʾarək̭
 ⁺ʾaynu
 l a yba
-l yba o
+l o yba
 mara
 la
 tuy
@@ -176127,7 +176127,7 @@ bətyavələ
 xa ⁺saʾat
 ⁺varəla
 ɟu
-de ⁺ʾotax
+⁺ʾotax de
 ʾətva
 panjara
 parda
@@ -176143,13 +176143,13 @@ bəxzayən
 bəxzayən
 velə
 xa yala
-mən xa baxta
+baxta xa mən
 ⁺tamma
 šulxayə
 vena
 ⁺tamma
 ʾita
-ʾat diyyi k̭a ⁺k̭əryət
+k̭a ʾat ⁺k̭əryət diyyi
 ʾannə
 xazzənnun
 mara
@@ -176158,11 +176158,11 @@ la
 ɟu
 duccani
 ʾinva
-dax ʾudyu ət
+dax ət ʾudyu
 k̭ati
 xzilux
-duccana ɟu
-xədya ʾu
+ɟu duccana
+ʾu xədya
 ⁺psixa
 ʾayya
 baxtila
@@ -176187,19 +176187,19 @@ zuyzə
 ʾatə
 cəs
 baxti
-baxti k̭at
-mən beta
+k̭at baxti
+beta mən
 la
 ⁺palṱa
-⁺bayyənna ci
+ci ⁺bayyənna
 ⁺raba
 baxti
 ʾina
 ʾana
 xa yuma
 ʾinva
-duccana ɟu
-diyyux ʾax
+ɟu duccana
+ʾax diyyux
 k̭ati k̭at
 tilux
 xzilux
@@ -176208,8 +176208,8 @@ xa naša
 k̭ati
 mərrə
 k̭at
-jaldə ta
-ʾu baxtux
+ta jaldə
+baxtux ʾu
 mətla
 ʾana
 har
@@ -176228,7 +176228,7 @@ beta
 ⁺maxleta
 ⁺raba
 ⁺maxleta
-məndiyani ʾo
+ʾo məndiyani
 prəmli
 ⁺ruppili
 ⁺xiyavand ɟu
@@ -176241,7 +176241,7 @@ prəmli
 xina k̭at
 baxta
 xita
-baxti šop
+šop baxti
 la
 mayyən
 tili
@@ -176255,7 +176255,7 @@ beta
 ⁺mṱili
 beta
 ʾəttəfɑk̭an
-yuma ʾo
+ʾo yuma
 baxti
 ⁺tarra
 ptəxla
@@ -176265,7 +176265,7 @@ riɟavay
 k̭ay
 ⁺tarra
 patxivalə
-yuma ʾo
+ʾo yuma
 baxti
 ⁺tarra
 ptəxla
@@ -176282,7 +176282,7 @@ mut ʾa
 ⁺šulələ
 mərra
 meti
-cma t
+t cma
 ʾətlux
 lətlux
 meti
@@ -176294,7 +176294,7 @@ mara
 ʾana
 ʾatxa
 vidən
-b riš ɟani
+b ɟani riš
 ⁺yanə
 ʾana
 xina
@@ -176308,12 +176308,12 @@ let
 ʾana
 ⁺bayyan
 ʾurza
-mən yuma do
-l ɟiba a
+mən do yuma
+ɟiba l a
 ʾana
 mara
 ɟari
-⁺danta cul
+cul ⁺danta
 xa
 ʾurza
 ʾay
@@ -176348,7 +176348,7 @@ diyyux
 ⁺xvarə
 zardəna
 ʾana
-pešən xina le
+le xina pešən
 laxxa
 bək̭yamələ
 cullə
@@ -176356,12 +176356,12 @@ jullu
 čənɟərru
 bəšk̭alelə
 ⁺plaṱələ
-mən beta
+beta mən
 mara
 xina
 ləttən
 xa naša
-da dunyə ɟu
+ɟu dunyə da
 ⁺ʾax
 la ʾavelə
 ʾiman
@@ -176381,7 +176381,7 @@ xa yuma
 ⁺raba
 ⁺raba
 k̭esə
-⁺xasət ⁺ʾal
+⁺ʾal ⁺xasət
 xmara
 ʾatxa
 ⁺muṱṱənnəva
@@ -176397,7 +176397,7 @@ lelə
 ʾurxa
 k̭əmlə
 clilə
-ʾak̭lu ⁺ʾal
+⁺ʾal ʾak̭lu
 mərrə
 ʾatən
 ivət ⁺narahat
@@ -176405,11 +176405,11 @@ ivət ⁺narahat
 spur
 ʾana
 xač̭č̭a
-⁺yuk̭rux mən
+mən ⁺yuk̭rux
 šak̭lən
 k̭yama
 bəclayəl
-ʾak̭lu ⁺ʾal
+⁺ʾal ʾak̭lu
 našə
 xuyravatət
 ⁺malla
@@ -176421,7 +176421,7 @@ bətyava
 xmara ⁺ʾal
 ham k̭at
 xmara
-⁺rahat ʾavə
+ʾavə ⁺rahat
 ʾatən ham
 mara
 ʾana
@@ -176460,7 +176460,7 @@ zuyzə
 ⁺ṱumrən
 laxxa
 ʾadi
-cma t
+t cma
 ⁺ṱavvuyən
 ⁺bare
 lit
@@ -176477,15 +176477,15 @@ zuyzə
 muttili
 laxxa
 ʾiva
-dana xa
+xa dana
 ⁺ʾayva
 clitəva
 ⁺ʾullul
-rišan m
+m rišan
 ʾina
 ʾadiyya
 litən
-ʾe ⁺ʾayva da
+⁺ʾayva da ʾe
 xəštəla
 len ⁺bədda
 ʾicəna
@@ -176493,7 +176493,7 @@ zuyzə
 xa yuma
 ⁺malla
 ⁺bəxdarəva
-⁺xyavand ɟu
+ɟu ⁺xyavand
 xa naša
 ⁺raba
 ⁺ɟura
@@ -176506,7 +176506,7 @@ mxilə
 ⁺malla
 npəllə
 k̭əmlə
-ʾak̭lu ⁺ʾal
+⁺ʾal ʾak̭lu
 hərk̭ul ʾo
 tilə
 xa xina k̭at
@@ -176516,7 +176516,7 @@ la
 ⁺xəlṱa
 məxyulə
 lelə
-naša ʾo
+ʾo naša
 k̭at
 ⁺bayyə
 maxivalə
@@ -176538,13 +176538,13 @@ mut ⁺maxleta
 azən ṱ
 lablənnux
 k̭a
-⁺k̭azi cəs
+cəs ⁺k̭azi
 labululə
-⁺k̭azi cəs
+cəs ⁺k̭azi
 ⁺k̭azi
 marələ
 xob
-xa mušta da
+xa da mušta
 mxilə
 mən
 ɟibu
@@ -176570,7 +176570,7 @@ zuyzə
 mayyən
 yavvənnun
 k̭atu
-jarima k̭a
+k̭a jarima
 ⁺malla
 bəsp̂arəl
 bəsp̂arəl
@@ -176579,9 +176579,9 @@ lət
 ⁺hala
 ⁺malla
 bək̭yaməl
-dana xa
+xa dana
 mušta
-⁺k̭azi k̭a
+k̭a ⁺k̭azi
 mxayələ
 mara
 ʾa da
@@ -176607,7 +176607,7 @@ bərrəxšələ
 ⁺ʾal
 ⁺bazar
 mdita
-k̭a baxtu
+baxtu k̭a
 marələ
 mu
 ⁺bayyat
@@ -176627,7 +176627,7 @@ həč məndi
 ⁺malla
 ⁺nasradən
 vilə har
-mən ⁺tarrət
+⁺tarrət mən
 beta
 ⁺plaṱa
 vilə
@@ -176656,7 +176656,7 @@ nuynə
 dvak̭əna
 ʾina
 ⁺malla
-cəs dannə m
+m cəs dannə
 bərrəxšələ
 mara
 həč
@@ -176675,7 +176675,7 @@ tilun
 mxayu
 ⁺bənpasu
 mərrə
-mu k̭a
+k̭a mu
 marət
 həč
 mən k̭edamta
@@ -176692,7 +176692,7 @@ marət
 həč
 həč
 mərrə
-mu bas
+bas mu
 tanən
 mərrə
 tani
@@ -176725,15 +176725,15 @@ surə
 ⁺ɟurə
 surə
 ⁺ɟurə
-⁺dana da ɟu
+ɟu ⁺dana da
 bəxzayələ
 ʾina
-dana xa
+xa dana
 motana
 ⁺paluṱuna
 labuluna
 ⁺ṱamrilə
-da ⁺ʾavva
+⁺ʾavva da
 velə
 bəzmara
 marələ
@@ -176744,18 +176744,18 @@ surə
 ʾannə
 bəxyəna
 mxayəna
-riše ɟu
+ɟu riše
 ⁺ʾavva
 yala
 mitələ
-da ⁺ʾavva
+⁺ʾavva da
 velə
 mara
 surə
 ⁺ɟurə
 ʾannə
 našə
-mar mita
+mita mar
 bitayəna
 k̭a daha
 ⁺bənpasəna
@@ -176763,7 +176763,7 @@ k̭a daha
 ⁺ʾuxča
 mxayuna
 mara
-mu ba
+ba mu
 tanən
 mara
 tani
@@ -176780,7 +176780,7 @@ məššəlmanələ
 manəxlə
 ʾaha
 ⁺šurilə
-k̭alə bədra
+bədra k̭alə
 məššəlmanəl
 ʾalaha
 manəxlə
@@ -176797,15 +176797,15 @@ bərrəxšəl
 bərrəxša
 bəxzayələ
 ʾina
-dana xa
+xa dana
 calba
 velə
 mita
-ʾu dvik̭əna
+dvik̭əna ʾu
 mən ʾak̭lu
 ɟarɟušuna
 labuluna
-⁺rappilə k̭at
+k̭at ⁺rappilə
 xa ɟu
 ɟuyba
 ⁺ṱamrilə
@@ -176832,7 +176832,7 @@ dəmma
 mərrə
 dax
 marət
-calba k̭a
+k̭a calba
 məššəlmanəl
 ʾalaha
 manəxlə
@@ -176851,7 +176851,7 @@ javəjva
 vilə
 mara
 mədrə
-calba k̭a
+k̭a calba
 k̭at
 mətlə
 mərrə
@@ -176862,20 +176862,20 @@ alasin
 tani
 mədrə
 həč
-calba k̭a
+k̭a calba
 mərrə
 həč
 ʾa
 mədrə
 pəllə
-de həč ⁺ʾal
+həč ⁺ʾal de
 tilə
 nixa
 həč
 həč
 həč
 həč
-b xa ɟa
+ɟa xa b
 ⁺ʾuxča
 šuršiyyəva
 mən šak̭ita
@@ -176894,7 +176894,7 @@ beta
 cullə
 ɟvila
 ɟu dəmma
-k̭a baxtu
+baxtu k̭a
 mərrə
 ʾatən
 le ⁺bayyat
@@ -176903,7 +176903,7 @@ le ⁺bayyat
 həč
 məndi
 ʾina
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bayyat
 cotacət
 dunyə
@@ -176933,9 +176933,9 @@ zurzət
 cotac
 ⁺xilət
 ɟnay diyyi
-mu ila
+ila mu
 mədrə
-mat ɟu zumallan
+ɟu zumallan mat
 ʾətva
 ⁺ʾalma
 ʾətvalə k̭at
@@ -176943,23 +176943,23 @@ carmanə
 cut ⁺ʾalma
 ʾətvalə
 xa taxta
-ya tre taxtə
-xa ya tanap
+tre taxtə ya
+xa tanap ya
 carmanə
 ʾita
 b ⁺danət
 ⁺k̭eṱa
 ⁺ʾalma
-azəlva c
+c azəlva
 carmanə
 ⁺ʾanvə
 ci ⁺jammivalun
 ʾannə
 ⁺ʾanvə
-pešiva ci
+ci pešiva
 ⁺jummiyyə
 b ⁺k̭ərṱalə
-mayyivalun ci
+ci mayyivalun
 ⁺xase ⁺ʾal
 bətvatə ɟu
 cut
@@ -176972,11 +176972,11 @@ xa čaraz
 ⁺ʾanvə
 ɟari
 ɟaršivalun
-b ⁺xase
+⁺xase b
 mən
 carma
 hal
-čaraz ɟu
+ɟu čaraz
 caraz ɟu
 ʾannə
 ⁺ʾanvə
@@ -176997,11 +176997,11 @@ xacma ɟu
 ci ⁺k̭araxlun
 ʾannə
 ⁺taġarə
-aviva c
+c aviva
 ⁺k̭irə
 ⁺ʾarra
 mutte
-⁺ʾarra ɟu
+ɟu ⁺ʾarra
 hal
 palɟe
 ⁺bar
@@ -177009,17 +177009,17 @@ palɟe
 miyyət
 ⁺ʾanvə
 ci darivalun
-⁺taġarə ɟu
+ɟu ⁺taġarə
 ʾətva
 xa
 mən
 ʾupra
 aziva c
-mən xacma
+xacma mən
 ⁺rumyatə
 tamməz
 mačxivalə ci
-b šəmmət
+šəmmət b
 ⁺xorana
 ci mayyivalə
 xač̭č̭a
@@ -177031,31 +177031,31 @@ miyyət
 b lelə
 ⁺ʾorava
 ⁺ʾal moriša
-ʾe ⁺dan
+⁺dan ʾe
 ʾativa
 ʾannə
 miyyət
 ⁺ʾanvə
 k̭at
-aviva c
+c aviva
 xviṱə
 ʾax
 miyya
 ⁺ṱinanə
 k̭a moriša
-aviva c
-ət ʾamri ʾax
+c aviva
+ət ʾax ʾamri
 ⁺səpyə
-ziɟa ʾax
+ʾax ziɟa
 ʾita
-mən dannə
+dannə mən
 miyyət
 ⁺ʾanvə
 ⁺səpyə
 ci šak̭liva
 xač̭č̭a
 ci darivalun
-ɟu ⁺tiyan
+⁺tiyan ɟu
 xač̭č̭a
 ⁺xvarət
 bita
@@ -177064,7 +177064,7 @@ ci maxiva
 ɟave
 ʾa
 ⁺tiyan
-mattivala ci
+ci mattivala
 ⁺ʾojaxta ⁺ʾal
 ʾojaxta
 b šənnə
@@ -177072,7 +177072,7 @@ k̭amayə
 ʾax
 bətxarən
 k̭esə
-mattiva ci
+ci mattiva
 ⁺ʾallo
 ʾina
 šənnə
@@ -177081,14 +177081,14 @@ k̭at
 ⁺ʾalma
 ʾətvalə
 zuyzə
-⁺amsiva c
+c ⁺amsiva
 zoniva
 ⁺nuyṱa
 b ⁺nuyṱa
 buš zoda
 ⁺ʾojaxyatə
 zurzəva
-⁺šula ʾo har
+ʾo ⁺šula har
 c odivalə
 ʾina
 buš
@@ -177098,7 +177098,7 @@ tamməz
 ʾa
 miyyət
 ⁺ʾanvə
-⁺mardəxxivalun ci
+ci ⁺mardəxxivalun
 xa palɟət
 ⁺saʾat
 balcət
@@ -177106,39 +177106,39 @@ balcət
 xamša
 dak̭ik̭ə
 clitəla
-⁺ɟuruytət ⁺ʾal
+⁺ʾal ⁺ɟuruytət
 ⁺tiyan
 ⁺xarta
 ʾannə
-⁺palṱava ci
+ci ⁺palṱava
 nipuxta
 ʾa
 nipuxta
-aviva c
+c aviva
 ranɟo
 cuma
 ci ⁺jammivala
-k̭adalə ɟu
+ɟu k̭adalə
 b yumanə
 ɟari
 ʾaviva
 ʾa
 nipuxta
 k̭esa
-mattiva ci
+ci mattiva
 ɟavo
-⁺ṱarpivala ci
+ci ⁺ṱarpivala
 b ⁺ṱraptət
 nipuxta
 ranɟo
 mən ranɟət
 cuma
-⁺xavərva ci
-aviva c
+ci ⁺xavərva
+c aviva
 ⁺xvara
 ʾita
-k̭ašyava ci
-oyava c
+ci k̭ašyava
+c oyava
 tak̭riban
 ʾax
 ⁺carra
@@ -177171,8 +177171,8 @@ bitayələ
 šəmmət ⁺ʾal
 nipuxta
 ʾaxnan
-xa šəmmələ
-har ⁺šəmyuvax
+šəmmələ xa
+⁺šəmyuvax har
 ʾina
 lex
 ⁺raba
@@ -177180,10 +177180,10 @@ lex
 ⁺ʾallu
 mut ⁺manay
 ʾətlə
-b xa tahar
+xa b tahar
 bitayələ
 b ⁺xabrət
-poxte na
+na poxte
 ⁺yanə
 balcət
 xa
@@ -177200,13 +177200,13 @@ xa məndi
 balcət
 mirələ
 ʾaha
-poxte na la
+la na poxte
 ⁺yanə
 lela
 bšəlta
 ʾa
 ⁺xabra
-b mətxət
+mətxət b
 šənnə
 ⁺xdirələ
 šk̭ilələ
@@ -177216,7 +177216,7 @@ xa sama
 xina da
 ⁺ʾalma
 ʾəttən
-ci k̭at tani
+tani ci k̭at
 mən ɟibət
 nipuxta
 meye
@@ -177225,11 +177225,11 @@ sabab
 me
 b lišanət
 ⁺farsət
-har mədrə
+mədrə har
 ⁺manayət
 ⁺xamra
 yavəla
-zə har nipuxta
+nipuxta zə har
 mən miyyət
 ⁺ʾanvə
 pyašəla
@@ -177242,7 +177242,7 @@ mirəna
 meye
 poxte
 mədrə
-b mətxət har
+mətxət b har
 šənnə
 ʾa
 ⁺xabra
@@ -177264,37 +177264,37 @@ nipuxta
 ʾudyu
 yuma zə
 laxxa
-ɟu ʾamerica
-ɟu mditət
+ʾamerica ɟu
+mditət ɟu
 turlock
 hatta
 laxxa
-ɟu mditət
+mditət ɟu
 angeles los
 ʾaxnan
 zə ɟanan
 mədrə
-⁺šula ʾo
+ʾo ⁺šula
 c odaxlə
 ⁺yanə
 c azax
 zonax ci
 ⁺ʾanvə
-⁺marč̭axlun ci
+ci ⁺marč̭axlun
 ci bašlaxlun
-b de har
+b har de
 səstimət
-mata ɟu
-odaxvala c
+ɟu mata
+c odaxvala
 ⁺šula ʾa
-zə laxxa
+laxxa zə
 c odaxlə
 ʾita
-zə ʾaha
+ʾaha zə
 xa
 mən ⁺ʾadattət
-bne ʾurmila
-mətxət ɟu k̭at
+ʾurmila bne
+mətxət k̭at ɟu
 šənnə
 vidona
 ʾudyu
@@ -177311,7 +177311,7 @@ xuš
 xač̭č̭a
 laxma
 melan
-ʾana čun
+čun ʾana
 bləɟtən
 b bašulə
 xuš
@@ -177329,7 +177329,7 @@ sapa
 sapət
 našə
 cəlyələ
-ʾəmma ɟanə
+ɟanə ʾəmma
 zodəla
 mərrə
 ʾana
@@ -177353,7 +177353,7 @@ mu
 xəšlə
 k̭amay
 p̂uč̭p̂əč̭lə
-mən xa mənne
+xa mənne mən
 ʾatxa
 nixa
 p̂uč̭p̂əč̭lə
@@ -177361,7 +177361,7 @@ mərrə
 k̭at
 ⁺bəddayət
 k̭at
-naša ʾo
+ʾo naša
 xišəva
 ⁺haj
 hassan ʾabdul
@@ -177389,14 +177389,14 @@ len
 ⁺šəmya
 mərrə
 ʾana da
-⁺šmili ʾadi
+ʾadi ⁺šmili
 ⁺bayyən
 ʾazən
 ⁺tama
 ʾannə
 našə
 xinə
-xa k̭a do xina
+xa xina k̭a do
 mərrun
 cullə
 xəšlun
@@ -177409,7 +177409,7 @@ xəšlə
 k̭amay
 laxma k̭at
 šak̭əlva
-dan tre laxmə
+tre dan laxmə
 šk̭əllə
 mərrə
 k̭at
@@ -177419,7 +177419,7 @@ mərrə
 pah
 ʾat
 xina
-mu ivət
+ivət mu
 ⁺pəllan
 naša
 velə
@@ -177433,20 +177433,20 @@ tiyyələ
 ʾatən
 laxxa
 yavət
-danə tre
+tre danə
 laxmə
-b xa ʾaxča
+xa b ʾaxča
 ⁺ṱima
 mərrə
 xob
-xuš šk̭ul
-mən ⁺tama
+šk̭ul xuš
+⁺tama mən
 ʾana da
 ʾadi
 azən ṱ
 šak̭lən p
-mən ⁺tama
-⁺ʾav ʾən
+⁺tama mən
+ʾən ⁺ʾav
 yavələ
 ⁺bərxaṱa
 bərrəxšəl
@@ -177456,14 +177456,14 @@ bərrəxšəl
 naše
 ⁺tama
 cəlyəna
-ʾan našə
-mən sap ɟu k̭at
+našə ʾan
+sap mən k̭at ɟu
 xəšlun
 ⁺tama
 vena
 ⁺tama
 ɟan ⁺malla ⁺ʾal
-maxilə k̭at
+k̭at maxilə
 mərrə
 ʾa naša
 ⁺hala
@@ -177472,14 +177472,14 @@ tiyya
 mən
 ⁺haj
 mən macca
-ʾa m ica
+m ica ʾa
 k̭a diyyan
 tunilux
 k̭at
 laxma da
 prək̭lə
 pəšlan
-laxma d la
+laxma la d
 ⁺malla
 bərrak̭ələ
 bərrəxšəl
@@ -177495,24 +177495,24 @@ xa yuma
 vayələ
 cpina
 marələ
-cut yum k̭at
+k̭at yum cut
 baxti
 ⁺bəšyarəla
 nuyra
-ʾa sapar
+sapar ʾa
 ʾana
 ɟani
 ⁺bayyən
 nuyra
 ⁺šerən
-bašlən ʾu
+ʾu bašlən
 xa
 ⁺k̭usarta
 k̭a ɟani
 baxtu
 ⁺pləṱṱəva
 bitayələ
-cma t k̭at
+t k̭at cma
 ⁺bayyə
 nuyra
 tapə
@@ -177575,7 +177575,7 @@ la
 hamzəm
 ʾatxa
 nuyra
-b ⁺yaṱṱə
+⁺yaṱṱə b
 b ⁺č̭ammə
 leva
 bətpaya
@@ -177585,7 +177585,7 @@ vidon
 baxta
 xšəvlə
 ʾat itva k̭at
-⁺yaṱṱiva ʾən
+ʾən ⁺yaṱṱiva
 mədrə
 ʾana
 le
@@ -177594,7 +177594,7 @@ nuyra
 xšəvlə
 ʾat itva
 tpilə
-⁺danta da ɟu
+ɟu ⁺danta da
 xa jaraqqe
 mən nuyra
 ⁺plaṱəla
@@ -177608,7 +177608,7 @@ bək̭yadələ
 bək̭yadələ
 mara
 xzilax
-mu vədlax
+vədlax mu
 b riši
 k̭ati
 ⁺muddilax
@@ -177628,7 +177628,7 @@ xayyi
 vəktur
 ʾuršan
 ʾana
-mat ʾət ivən zumallan
+ʾət zumallan ivən mat
 zumallan
 xa
 matvatət mən
@@ -177636,16 +177636,16 @@ matvatət mən
 ʾurmila
 npəltəla
 k̭urbət
-⁺nazlu ⁺čay
+⁺čay ⁺nazlu
 hak̭yat
 bitayələ
-dana xa ⁺ʾal
+xa dana ⁺ʾal
 mən ⁺ʾadattət
 ʾaxnan
 ʾətlan
 ɟu matət
 zumallan
-b šəmmət
+šəmmət b
 mərtuxət
 ⁺marezə
 mərtuxət
@@ -177653,30 +177653,30 @@ mərtuxət
 ʾatxa
 ⁺šaruyələ
 k̭at
-⁺dana xa
+xa ⁺dana
 ɟu
 ʾurmi
-ʾe ⁺dan
-iva bet diyyan
+⁺dan ʾe
+bet diyyan iva
 ʾaxnan
 mən ⁺ʾamti
-mən xa
+xa mən
 cəlpat
 xita
-b šəmmət
+šəmmət b
 yuʾav
 ⁺muradxan
 šəmmət
 ⁺xanimu
 ⁺xlita
-ci xayyaxva
+xayyaxva ci
 ʾaha
 ⁺myuk̭ərta
-ʾavivala le
+le ʾavivala
 bruna
 ⁺ṱləbla
 ⁺zayya mən ⁺mar
-ʾavila k̭at
+k̭at ʾavila
 xa
 bruna
 ʾita
@@ -177688,7 +177688,7 @@ vilə
 muttila
 ʾodišu
 ʾita
-da ⁺ʾal
+⁺ʾal da
 niyyat
 ⁺šurilun
 ʾannə
@@ -177696,23 +177696,23 @@ niyyat
 bətvatə
 cut
 šita
-⁺jammiva ci
-bəl ɟane
+ci ⁺jammiva
+ɟane bəl
 k̭amxa
 məšxa
-ci zarziva
+zarziva ci
 mərtuxa
 ci ⁺pallivalə
-bəl ɟane
+ɟane bəl
 ⁺xarta
 ʾa
 ⁺xabra
 pəšlə
 prisa
-bne ɟu
+ɟu bne
 matan
-⁺šmilun k̭at
-masala ʾa
+k̭at ⁺šmilun
+ʾa masala
 ʾatxa
 vayəla
 ʾa
@@ -177734,7 +177734,7 @@ cullə
 bətvatət
 mata
 ⁺hayyurə
-da ⁺ʾal
+⁺ʾal da
 nəsbat
 xa
 yuma
@@ -177743,24 +177743,24 @@ k̭at
 k̭a da
 yuma
 ci ⁺hadriva
-ʾaziva ci
-matət ⁺ʾal
+ci ʾaziva
+⁺ʾal matət
 zumallan
-aviva c
+c aviva
 zvinə
-k̭am m
+m k̭am
 ⁺dana
 ⁺raba
 k̭amxa
 məšxa
 ʾu
-zə ⁺mixulta
-labliva ci
+⁺mixulta zə
+ci labliva
 xa
 sama
 ɟəllalə
 laxma
-dan k̭a
+k̭a dan
 našət
 c ativa
 ⁺šuraya
@@ -177770,9 +177770,9 @@ c ativa
 ʾiva
 xa
 ⁺ʾadat
-bne k̭a
+k̭a bne
 matan
-⁺jammiva ci
+ci ⁺jammiva
 xa yuma
 mən moriša
 hal
@@ -177782,7 +177782,7 @@ yuma
 ʾa
 ⁺šula
 c odivalə
-tapk̭iva ci
+ci tapk̭iva
 ⁺uydalə p̂
 hamzəmmiva ci
 m ⁺uydalə
@@ -177792,12 +177792,12 @@ yuma
 ci ⁺morivalə
 m ⁺uydalə
 b ⁺xalta
-šteta ʾu
+ʾu šteta
 b da
 mərtuxa
 xa
 txara
-aviva c
+c aviva
 ʾina
 ʾa
 masala
@@ -177806,7 +177806,7 @@ buš
 ⁺šurila
 bəšk̭ala
 šopa
-ɟu cullə
+cullə ɟu
 ʾurmi
 ⁺danət ʾe
 ʾa yuma
@@ -177818,13 +177818,13 @@ diyyan
 ⁺budratə
 čimanə
 ⁺raba
-da našə
+našə da
 maxsusan
 k̭at
 ʾannə
 šənnə
 ⁺xarayə
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 vilə
 xa
 k̭uyama
@@ -177837,23 +177837,23 @@ lətvalun
 ducanət
 ʾaziva
 k̭a mabsamta
-ʾu ⁺šulə
+⁺šulə ʾu
 b da
 ⁺mahana
-ʾe ⁺dan
+⁺dan ʾe
 ʾa yuma
 ʾativa
-⁺jammiva ci
-b ʾalpə
+ci ⁺jammiva
+ʾalpə b
 našə
 balcət
-da ɟu
+ɟu da
 yuma
 ⁺mašṱaxət ɟu
 matət
 zumallan
-bne zumallan
-aviva c
+zumallan bne
+c aviva
 sabab
 ʾa
 ⁺šula
@@ -177866,13 +177866,13 @@ cma
 ɟanatə
 taɟbərranə
 k̭at
-k̭am m
+m k̭am
 ⁺dana
 xa
 tre yumə
-yumə ṱla
+ṱla yumə
 aziva c
-k̭a zvantət
+zvantət k̭a
 məndi
 ⁺masalla
 ⁺xalta
@@ -177880,35 +177880,35 @@ məndi
 ⁺hadaryatə
 ⁺šulə
 odiva c
-yuma ʾo
+ʾo yuma
 ʾa
 ⁺šula
 cullə
 c odivalə
-mata ɟu
-mata ɟu
+ɟu mata
+ɟu mata
 ʾətva
 tre
 ⁺ʾumranə
 xa mənne
-b šəmmət
+šəmmət b
 ⁺mar ʾaprəm
 xa mənne
-b šəmmət
-⁺maryam ⁺mat
+šəmmət b
+⁺mat ⁺maryam
 dartət ɟu
 ⁺ʾumrət
-⁺maryam ⁺mat
+⁺mat ⁺maryam
 moriša
 ⁺xanimə
-aviva c
+c aviva
 ⁺jəmyə
 maxivalə ci
 ʾa
 mərtuxa
 k̭at
-aviva c
-b ⁺tiyanə
+c aviva
+⁺tiyanə b
 balcət
 oya c
 tanuyə
@@ -177920,7 +177920,7 @@ c odivalə
 ʾax
 cundə
 surə
-carməxxivalə ci
+ci carməxxivalə
 laxma ɟu
 balcət
 hal k̭a
@@ -177929,7 +177929,7 @@ xamšamma
 oya c
 tanuyə
 ʾannə
-⁺hadrivalə ci
+ci ⁺hadrivalə
 ʾa
 məndi
 ʾita
@@ -177941,11 +177941,11 @@ masala
 buš
 ɟurvəsla
 mən
-de t
+t de
 ʾaxči
 ʾavilun
 ⁺mixulta
-⁺cavutra k̭a
+k̭a ⁺cavutra
 laxma
 ɟəllalə
 ya
@@ -177958,12 +177958,12 @@ ci maxiva
 ʾina
 ⁺šurilun
 bəzvana
-zə ⁺busra
-ci bašlivalə
+⁺busra zə
+bašlivalə ci
 ʾax
 taharət
 ⁺duxrana
-⁺hadrilə ci
+ci ⁺hadrilə
 sabab
 məllat
 ⁺rabəva
@@ -177997,16 +177997,16 @@ bitaya
 ⁺ʾatrət ⁺ʾal
 ʾamerca
 ⁺jmilun
-k̭oluniyyət ɟu
+ɟu k̭oluniyyət
 california
-zə laxxa
+laxxa zə
 sabab
 bətvatət
-bne matət
+matət bne
 zumallan
 zədlun
 tuxmənnun
-da ⁺ʾal
+⁺ʾal da
 yuma
 sabab
 ⁺bəddayəva
@@ -178014,7 +178014,7 @@ xa
 yuma
 ʾəttən
 ɟu zumallan
-⁺jammilə ci
+ci ⁺jammilə
 mərrun
 buš
 ⁺spayəla
@@ -178023,9 +178023,9 @@ buš
 ⁺šula
 laxxa
 ʾodaxlə
-da ⁺ʾal
+⁺ʾal da
 nəsbat
-zə laxxa
+laxxa zə
 šuttəslun
 xa
 ⁺sita
@@ -178041,10 +178041,10 @@ turlock ʾu
 sabab
 našət
 diyyan
-⁺ṱullunte ɟu
-dannə m
+ɟu ⁺ṱullunte
+m dannə
 mdinatə
-xayyiva ci
+ci xayyiva
 ʾaha
 ⁺šula
 ⁺šurilə
@@ -178054,7 +178054,7 @@ angeles
 šita
 k̭ameta
 bəxšavən
-ɟu šitət
+šitət ɟu
 ʾalpo
 ⁺ʾəč̭č̭ammo
 ʾəč̭č̭i
@@ -178064,8 +178064,8 @@ xa
 ⁺šula
 ⁺šurilə
 xa šita
-aviva c
-san ɟu
+c aviva
+ɟu san
 jose
 xa šita
 turlock ɟu
@@ -178091,7 +178091,7 @@ c odila
 mədre
 mən ⁺ruyta
 ⁺berašə
-⁺hadartət ⁺ʾal
+⁺ʾal ⁺hadartət
 ⁺duxrana
 buš
 zoda
@@ -178110,7 +178110,7 @@ vaya
 xa
 yuma
 ⁺mavurə
-b ⁺xaltət
+⁺xaltət b
 mərtuxa
 but
 daha
@@ -178126,11 +178126,11 @@ mən ⁺ʾadattət
 bne matan
 zumallan
 b ɟaššak̭tət
-da ⁺ʾal
+⁺ʾal da
 ⁺šula
 ʾup
 matvatə
-xinə zə
+zə xinə
 ⁺šurilun
 ⁺ʾadattət
 ɟane
@@ -178146,10 +178146,10 @@ matət
 muyšava
 cut
 šita
-⁺jamma ci
+ci ⁺jamma
 matət
 ⁺ʾada
-ci dok̭a
+dok̭a ci
 marɑsəm ət
 ʾani
 ɟane
@@ -178167,7 +178167,7 @@ rezə ⁺mar
 k̭at
 pyašəla
 tunita
-b yad
+yad b
 vəktur
 ʾuršan
 mən matət
@@ -178188,7 +178188,7 @@ hi
 brunu
 ⁺roba
 xošu
-atyava c
+c atyava
 ⁺seda
 ⁺xdarta
 təvlə
@@ -178199,10 +178199,10 @@ suysa ⁺ʾal
 ⁺k̭aravašu da
 mənnu
 xəšle
-seda ⁺ʾal
+⁺ʾal seda
 iva ṱ
 xəšle
-seda ⁺ʾal
+⁺ʾal seda
 ɟašk̭i
 xa ʾal
 ʾilana
@@ -178222,7 +178222,7 @@ vitəva
 brata
 iva ṱ
 təvta
-ʾilana ⁺ʾal
+⁺ʾal ʾilana
 ⁺roba
 ⁺rədyalə
 ʾa
@@ -178250,9 +178250,9 @@ malcəvət
 brun
 ⁺casibəvan
 ʾana
-mu jurra
+jurra mu
 ɟoran
-diyyux k̭a
+k̭a diyyux
 mərtəva
 la
 la
@@ -178276,7 +178276,7 @@ mərre
 ʾatən
 didari vət
 ʾayya
-⁺casəb la
+la ⁺casəb
 ⁺xarta
 pəllə
 ⁺mrilə
@@ -178301,7 +178301,7 @@ xəšle
 ⁺k̭aravašu
 ⁺šudrelə
 cəs
-de c̭əč̭č̭ə
+c̭əč̭č̭ə de
 ʾe
 ⁺casəb
 iva ṱ
@@ -178311,9 +178311,9 @@ tila
 tila
 vila
 mən
-ybu da
+da ybu
 mən
-ybu do
+do ybu
 mak̭yumu
 mattuyu
 madmuxu
@@ -178325,8 +178325,8 @@ maynts
 har
 ⁺məryəva
 pəllə
-jul maxə ɟu
-cu jur
+jul ɟu maxə
+jur cu
 iva ṱ
 ⁺xartət
 ⁺xarta
@@ -178355,8 +178355,8 @@ mətlə
 c̭əč̭č̭ə da
 i ṱ
 ⁺ʾavun
-mətlə i ṱ
-da ʾayən
+i mətlə ṱ
+ʾayən da
 ɟano
 ⁺k̭ṱilala
 šk̭əlla
@@ -178369,7 +178369,7 @@ m ⁺uydalə
 muttelə
 ʾo
 brun malca
-da ham
+ham da
 ʾe
 calu
 ṱumrelə
@@ -178377,12 +178377,12 @@ m ⁺uydalə
 ʾita
 ⁺xarta
 mərre
-axxa m
-l yba o
+m axxa
+l o yba
 xina
 ʾatxa
 k̭alattə
-ʾavi le
+le ʾavi
 brata
 yala
 ⁺bayyi
@@ -178390,13 +178390,13 @@ yala
 ʾusa
 le
 ⁺bayyini
-⁺casəb na
+na ⁺casəb
 ʾusa
 ʾən
 marət
 davəltəna
 ʾusa
-malcələ brun
+brun malcələ
 ʾannə
 həč
 naša
@@ -178411,7 +178411,7 @@ xadi
 bi
 ⁺ʾuydalə
 mən
-de ɟa
+ɟa de
 y la ba
 xina
 uže
@@ -178431,7 +178431,7 @@ leva
 xina
 ⁺šulət ɟu
 brata
-da ham
+ham da
 yala
 ʾani
 bəšvak̭eva
@@ -178446,28 +178446,28 @@ vila
 k̭ate
 tamba
 vila
-de ɟu
+ɟu de
 mata
 ⁺xarta
 ʾayən
 cullə
-ɟu cullə
+cullə ɟu
 mdiyay
 xəšla
 yan
 yan
 brata
 yala
-ina ṱ
+ṱ ina
 ⁺byaya
 ⁺ʾuydalə
 ʾani
 ɟarət
 hammaša
 ʾavi
-cəs ⁺ʾuydalə
+⁺ʾuydalə cəs
 ɟori
-k̭a ⁺ʾuydalə
+⁺ʾuydalə k̭a
 xa yuma
 ⁺malla
 beta
@@ -178478,7 +178478,7 @@ pəlxana
 baxtu
 tila
 mərra
-ivət k̭amu k̭at
+k̭at k̭amu ivət
 piša
 beta
 let
@@ -178498,7 +178498,7 @@ plaxtət
 cisu
 pəlxanəva
 mərrə
-ʾan cma
+cma ʾan
 šənnə
 ʾana
 plixən
@@ -178521,7 +178521,7 @@ malca
 ⁺ṱla
 bnunə
 šəmmət
-do brunu
+brunu do
 sura
 ʾiva
 ⁺ʾašur
@@ -178536,11 +178536,11 @@ xa baxca
 xa ʾilanət
 xabušə
 šita
-dana xa
+xa dana
 xabuša
 ṱanva ci
 cul našət
-do m
+m do
 xabuša
 ʾo
 xabuša
@@ -178549,12 +178549,12 @@ xabuša
 sava
 haviva ci
 jil
-⁺darva ci
+ci ⁺darva
 mədrə
 xayyutət ⁺ʾal
 ʾulaymuta
 jiluta
-ʾa malca
+malca ʾa
 səvlə
 səvlə
 mərri ʾax
@@ -178569,24 +178569,24 @@ xuš
 ʾo
 xabuša
 ⁺nṱurrə
-hal ⁺maṱə t
-ʾana k̭at
+hal t ⁺maṱə
+k̭at ʾana
 ⁺ʾaxlənnə
 ʾavən
 jil
-ʾo brunu
+brunu ʾo
 hammaša
-da c ativa
+c ativa da
 xa
 ⁺heyvan
-mən ⁺hava
+⁺hava mən
 c ativa
-xabuša ʾo
-⁺axəlvalə c
-azəlva c
-šavək̭va le
+ʾo xabuša
+c ⁺axəlvalə
+c azəlva
+le šavək̭va
 payəšva
-ʾo brunu
+brunu ʾo
 ⁺ɟura
 xəšlə
 b lelə da
@@ -178600,7 +178600,7 @@ xabuša
 muttilə
 rišu
 ⁺ṱlilə
-⁺heyvan ʾo
+ʾo ⁺heyvan
 tilə
 xabuša
 ⁺xəllə
@@ -178615,7 +178615,7 @@ tilə
 beta
 ⁺raba
 ⁺pšima
-babu k̭a
+k̭a babu
 huk̭ilə
 mərrə
 k̭at
@@ -178623,7 +178623,7 @@ xob
 ʾana
 ⁺ṱlili
 tiyyələ
-⁺heyvan ʾo
+ʾo ⁺heyvan
 b lelə
 xabuša
 ⁺xilulə
@@ -178633,12 +178633,12 @@ xa šita
 m ⁺bar
 xa šita
 ⁺šudərrə
-brunu ʾo t
+t brunu ʾo
 tre d
-brunu ʾo t
+t brunu ʾo
 tre d
 xəšlə
-zə ⁺ʾavun
+⁺ʾavun zə
 b lelə
 ⁺danət ʾe
 xabuša
@@ -178651,20 +178651,20 @@ xač̭č̭a
 macruyən
 ⁺ʾa
 ⁺yarəxtəla
-zə ʾaha
+ʾaha zə
 ⁺bəṱlayələ
 bitayələ
-⁺heyvan ʾo
+ʾo ⁺heyvan
 xabuša
 ⁺bixalulə
 bərrəxšələ ʾu
-ʾe šitət
+šitət ʾe
 m ⁺baro
 k̭at
 xabuša
 mədrə
 ⁺ṱinəva
-dana xa
+xa dana
 xabuša
 brunu
 sura
@@ -178682,7 +178682,7 @@ marələ
 mənnux
 mu vədlun
 ʾat
-mu odət p̂ṱ
+p̂ṱ mu odət
 ʾat
 k̭am ʾazət
 mərrə
@@ -178707,7 +178707,7 @@ xabuša
 vila
 ʾaha
 tilə
-k̭at ⁺ṱaliva
+⁺ṱaliva k̭at
 ⁺suppu
 primalə
 məlxa
@@ -178727,13 +178727,13 @@ b lelə
 palɟət
 lelə
 ɟuššək̭lə
-⁺heyvan xa
+xa ⁺heyvan
 ⁺raba
 ⁺ɟura
 cuma
 tilə
 yatəv k̭at
-do ⁺ʾal
+⁺ʾal do
 xabuša
 ⁺ʾaxəllə
 ʾazəl
@@ -178756,12 +178756,12 @@ k̭edamta
 tilə
 xabuša da
 muyyuva
-babu k̭a
-babu k̭a
+k̭a babu
+k̭a babu
 yuvvəllə
-ʾaxunvatu k̭a da
+k̭a ʾaxunvatu da
 mərrə
-⁺heyvan ʾo
+ʾo ⁺heyvan
 ʾana
 məxyuvən
 mərrun
@@ -178780,9 +178780,9 @@ dəmma
 xišəl
 xa darya
 ʾita
-turcət lišan
+lišan turcət
 ʾaha
-tanilə ci
+ci tanilə
 az
 getti
 uz
@@ -178791,12 +178791,12 @@ dərə təpətə
 duz
 getti
 ⁺mṱilun
-xa k̭unya ⁺ʾal
+xa ⁺ʾal k̭unya
 xa cipa
 ⁺raba
 ⁺ɟura
 ⁺ʾallu
-xa k̭unya ⁺ʾal
+xa ⁺ʾal k̭unya
 dəmma
 ⁺tama
 xina
@@ -178807,15 +178807,15 @@ prak̭əva
 xina
 ⁺bəddayəva
 k̭at
-ɟu da k̭unya
+ɟu k̭unya da
 ⁺səlyəle
-⁺heyvan ʾo
+ʾo ⁺heyvan
 xa cipa
 ⁺raba
 ⁺ɟura
 ʾətva
 ⁺ʾallu
-cipa ʾo
+ʾo cipa
 bəšk̭aluna
 ⁺šadurəna
 mavəna
@@ -178842,7 +178842,7 @@ k̭unya
 bruna ʾo
 ⁺ɟura
 marələ
-ʾe ⁺dan
+⁺dan ʾe
 ⁺šudərroxun
 k̭a diyyi
 ʾəltəx
@@ -178850,7 +178850,7 @@ mərri har
 k̭ədli
 bšəlli
 ⁺palṱunli
-šok̭itun la
+la šok̭itun
 ʾana
 pešən
 ⁺tama
@@ -178862,18 +178862,18 @@ mara
 k̭ədli
 bšəlli
 ⁺paluṱuna
-xina da ʾo
+xina ʾo da
 ⁺šaduruna
-tre ʾo d t
+t tre ʾo d
 ⁺ʾav zə
 bərrəxšələ
 k̭ədli
 bšəlli
 ⁺ʾav zə
 ⁺paluṱuna
-ʾo d t ⁺ṱla
+t ʾo d ⁺ṱla
 marələ
-cma t
+t cma
 tanən
 k̭ədli
 bšəlli
@@ -178890,7 +178890,7 @@ bərrəxšələ
 k̭unya
 ⁺raba
 k̭əšya
-sepu zə
+zə sepu
 vayəla
 b dəpnu
 sepu
@@ -178902,7 +178902,7 @@ k̭am
 la k̭at
 rišu
 k̭at
-duca xa
+xa duca
 ⁺šulə
 sepa
 ʾatxa
@@ -178914,12 +178914,12 @@ b sepa
 sepa
 bərrəxšələ
 ⁺mṱayələ
-duca xa
+xa duca
 ⁺bəzrač̭ələ
 velə
-ɟuyda xa
+xa ɟuyda
 ⁺mṱayələ
-ɟuyda ʾax
+ʾax ɟuyda
 b sepu
 ⁺šulə
 ⁺bəzrač̭ələ
@@ -178939,11 +178939,11 @@ xa baxčəla
 šap̂ərta
 ⁺rozə
 l pato a
-l pato ʾu e
+l e pato ʾu
 ʾurxatə
-da baxča ɟu
-mən da ɟiba
-mən ɟiba do
+baxča ɟu da
+ɟiba mən da
+ɟiba mən do
 ʾina
 xa
 ʾurxa
@@ -178958,12 +178958,12 @@ bərrəxšələ
 bərrəxšələ
 ⁺mṱayələ
 ⁺tarrət ⁺ʾal
-ʾe apɑrtmɑn
+apɑrtmɑn ʾe
 ptaxulə
 ⁺varələ
 bəxzayələ
 ʾina
-dana xaʾ
+xaʾ dana
 huri
 pari
 xaʾa
@@ -178972,25 +178972,25 @@ baxta
 šap̂ərta
 təvtəla
 ʾina
-dana xa
+xa dana
 dev
-mən dannə
+dannə mən
 devə
 rišu
 muttulə
-bərco ⁺ʾal
+⁺ʾal bərco
 xa yacca
 dev
 ʾaha
 bərrəxšələ
 k̭amay
-ʾe baxta
+baxta ʾe
 marəla
 k̭atu
 ʾoyan
 ⁺xlapux
 ʾaxuni
-cli la
+la cli
 laxxa
 ʾa ʾadi
 k̭am bət
@@ -179068,18 +179068,18 @@ maxzənnə
 dəžmənnu
 bitayələ
 bəšk̭alələ
-mən dannə
+dannə mən
 cipət
 ʾərxə
-matvatə ɟu
+ɟu matvatə
 ʾətva
 ⁺dana ʾe
 ʾərxə
 ⁺xəṱṱə
 ⁺šulə
-taxnivalu ci
+ci taxnivalu
 biyye
-k̭amxa k̭a
+k̭a k̭amxa
 k̭at
 našə
 ʾaxliva
@@ -179097,21 +179097,21 @@ xa mənne
 b ⁺davva
 ṱəlpu
 partulelə
-ɟu ⁺hava
+⁺hava ɟu
 ʾatxa
 mxayelə
 ⁺rappuvvelə
 ⁺ʾallu
-payəš k̭at
+k̭at payəš
 b ⁺aralləġġe
 bəndayələ
-ɟu ⁺hava
+⁺hava ɟu
 ⁺ʾašur
 ⁺bəslayələ
 ʾəltəx
 marələ
 ha
-naša ⁺bar
+⁺bar naša
 ⁺hala
 xayəvət
 marələ
@@ -179123,17 +179123,17 @@ laxxa
 ɟanux
 šak̭lənna
 marələ
-xob xeyli
+xeyli xob
 ʾat
 mxi
 zarbux
 ʾaha
 sepu
 ⁺marumul
-dana xa
+xa dana
 mxayəl
 duz
-axxa m
+m axxa
 b ⁺aralləġġət
 rišu
 vadulə
@@ -179147,7 +179147,7 @@ hal
 sepu
 marələ
 ʾa
-naša ⁺bar
+⁺bar naša
 ʾa
 sepux
 cma
@@ -179170,24 +179170,24 @@ mən ⁺bar
 rk̭ədlux
 tilux
 xa xta
-maxən bət
+bət maxən
 ʾaha
 har
 ⁺bayyə
 rak̭əd
 palɟu
 npalələ
-l ɟiba a
+ɟiba l a
 palɟu
-l yba o
+l o yba
 myatələ
-k̭a da dannə
+k̭a dannə da
 ci hak̭ənvalun
-yalə k̭a
+k̭a yalə
 suri
 ʾannə
 cullə
-tayənvalun ci
+ci tayənvalun
 ʾana
 ʾaha
 bənpalələ
@@ -179206,19 +179206,19 @@ bassa
 šk̭ul
 ʾazax
 ʾina
-axxa m
-l zə ɟiba o
+m axxa
+ɟiba l o zə
 ʾəttən
 tre
 devə
-xinə da
+da xinə
 tre
 xatvatət
 diyyi
 šk̭ilena
 mən da diyyi
 buš šap̂irəna
-da davəlta
+davəlta da
 ⁺raba
 ʾətlun
 mara
@@ -179227,11 +179227,11 @@ p̂ṱ azən
 ʾani da
 ɟari
 ⁺maṱən
-dani da ⁺ʾal
+⁺ʾal dani da
 bərrəxšələ
-xina da ʾo
+xina ʾo da
 ⁺bək̭ṱalulə
-ʾo t da d ⁺ṱla
+⁺ṱla da d t ʾo
 ⁺bək̭ṱalulə
 xina
 le
@@ -179245,14 +179245,14 @@ məndiyye
 ⁺šulə
 ⁺jammuyuna
 bitayəna
-do k̭unya ⁺ʾal
+⁺ʾal k̭unya do
 k̭at
 ʾaha
 ⁺səlyəva
 xina
 bədrayəl
 k̭ala
-ʾaxunvatu k̭a
+k̭a ʾaxunvatu
 mara
 ⁺xoloxun
 ⁺šadərrun
@@ -179260,15 +179260,15 @@ mara
 ⁺xola
 k̭ameta
 ⁺šadurolə
-ʾe t
+t ʾe
 məṱyəva
 ⁺ʾallo
 k̭amta
 ʾay
 ʾe
 ⁺ɟurtəva
-bnatə ɟu
-k̭a ʾaxunu do
+ɟu bnatə
+k̭a do ʾaxunu
 ⁺ɟura
 mara
 ʾaxuni
@@ -179279,7 +179279,7 @@ mara
 mara
 ʾaxuni
 ʾaha
-diyyux k̭a
+k̭a diyyux
 ʾay
 ⁺marumolə
 bəxzayələ
@@ -179294,7 +179294,7 @@ bəxdayələ
 xina
 lelə
 bəxšava
-ʾan t
+t ʾan
 mən ⁺bar
 day
 bitayəna
@@ -179302,9 +179302,9 @@ buš
 šap̂irəna
 mən dayən
 məndi
-da ⁺šulə
+⁺šulə da
 ⁺šadurulə
-tre k̭a da ʾaxun
+k̭a tre ʾaxun da
 marələ
 ʾaxuni
 ⁺xolux
@@ -179314,9 +179314,9 @@ marələ
 ʾe
 huri
 pari
-da xita
+xita da
 ⁺šadurolə
-ʾe d ⁺ṱla t
+t d ⁺ṱla ʾe
 mara
 ⁺šadrun
 ⁺šaduruna
@@ -179334,7 +179334,7 @@ xinə
 šap̂ərtəla
 bəcrabəna
 mara
-mu k̭a
+k̭a mu
 k̭a diyyan
 ʾe
 šap̂ərta
@@ -179346,9 +179346,9 @@ k̭a ɟanu
 massuk̭ona
 ⁺xola
 ⁺šaduruna
-⁺ʾav yasək̭ k̭at
+yasək̭ k̭at ⁺ʾav
 bəxzayəna
-⁺ʾav ilə
+ilə ⁺ʾav
 ⁺xola
 ⁺bəkṱayuna
 npalələ
@@ -179364,7 +179364,7 @@ b ⁺xola
 b de
 sepu
 mədrə
-xəšca ɟu
+ɟu xəšca
 balbuyələ
 ⁺šulə
 laxxa
@@ -179381,9 +179381,9 @@ bənpalələ
 čol ɟu
 ⁺šulə
 ⁺mṱayələ
-duca xa
+xa duca
 ⁺mṱayələ
-duca xa
+xa duca
 ʾina
 xa
 ʾax
@@ -179397,7 +179397,7 @@ bəxyəna
 našə
 bəxyəna
 ⁺bak̭urələ
-mu k̭a
+k̭a mu
 bəxyətun
 xa brata
 k̭atu
@@ -179405,7 +179405,7 @@ marəla
 laxxa
 ʾaxnan
 ʾətlan
-dana xa
+xa dana
 tanina
 xa
 tanina
@@ -179417,7 +179417,7 @@ hammaša
 miyyət
 nara
 cullə
-šatilun ci
+ci šatilun
 k̭a diyyan
 miyya
 le
@@ -179435,18 +179435,18 @@ tre
 yalə
 surə
 ⁺rappax
-⁺ʾal marzət
+marzət ⁺ʾal
 nara
 ⁺ʾavun
-⁺paləṱ ci
+ci ⁺paləṱ
 k̭at
 ʾani
 ⁺ʾaxəllun
 ʾita
 miyya
-⁺xutu m
+m ⁺xutu
 c ⁺ori
-ati c
+c ati
 ʾaxnan
 miyya
 šatax
@@ -179470,13 +179470,13 @@ bərrəxšələ
 ɟan ⁺ʾal
 tanina do
 marələ
-ʾe brata
+brata ʾe
 marələ
 ʾat
 ɟanax
-tuy ta
+ta tuy
 ⁺tama
-de k̭a brata
+k̭a brata de
 k̭at
 ʾannə
 məndyanə
@@ -179492,7 +179492,7 @@ dəpnax
 mattuyona
 ⁺tama
 xuvvə
-mən ⁺tama
+⁺tama mən
 plaṱələ
 bitayələ k̭at
 k̭a daha
@@ -179500,14 +179500,14 @@ k̭a daha
 ʾaha
 bəmxayələ
 b sepa
-mən pummu
-axxa m
+pummu mən
+m axxa
 xuvvə
 ⁺bək̭ṱalulə
 xuvvə
 ⁺bək̭ṱalulə
 bəšk̭aləl
-de ⁺ʾal
+⁺ʾal de
 brata
 xina
 xa
@@ -179550,7 +179550,7 @@ bitayələ
 mədrə
 marələ
 ʾana
-mən xa dunyə
+xa mən dunyə
 xita
 tiyyən
 mən
@@ -179558,11 +179558,11 @@ dunyət
 ⁺ʾullul
 tiyyən
 marəna
-cu məndit
+məndit cu
 ⁺bayyət
-de bne
+bne de
 mata
-cu məndit
+məndit cu
 ⁺bayyət
 ʾaxnan
 k̭atux
@@ -179586,7 +179586,7 @@ xa
 k̭a diyyi
 ⁺maddərritun
 ⁺ʾal
-de dunyət
+dunyət de
 ⁺ʾullul
 ʾannə
 marəna
@@ -179619,13 +179619,13 @@ biyyə
 ⁺zayə
 xa
 xuvvə
-atə c
-ʾen ⁺zayo
+c atə
+⁺zayo ʾen
 biyyo
 ⁺axəllun c
 ʾe
-da ⁺simaxur
-da ʾadi
+⁺simaxur da
+ʾadi da
 xina
 vela
 šurita
@@ -179648,7 +179648,7 @@ cəs
 de
 ⁺simaxur
 xazzən
-mu ila
+ila mu
 bərrəxšəl
 ⁺tama
 ʾaha
@@ -179710,7 +179710,7 @@ de k̭ənno
 ʾina
 bitayələ
 mədrə
-dana xa
+xa dana
 xuvvə
 ⁺raba
 ⁺yarixa
@@ -179739,7 +179739,7 @@ xuvvə
 ⁺zayo
 vayolə
 ⁺zayə
-biyyo mən
+mən biyyo
 ⁺plaṱəna
 ⁺zayə
 ɟarvusəna
@@ -179769,13 +179769,13 @@ mudit
 ⁺bayyət
 ʾana
 k̭atux
-ṱ odan
+odan ṱ
 marələ
 ʾaxci
 ʾana
 ⁺bayyən
 ⁺palṱən
-de ⁺ʾal
+⁺ʾal de
 dunyət
 ⁺ʾullul
 ʾaha
@@ -179792,15 +179792,15 @@ xub
 ⁺čalləššax
 marəla
 ʾina
-vattət k̭a
+k̭a vattət
 ⁺šula da
 ɟarəc
 ʾatən
 ʾazət
 ⁺šavva
 danə
-axxa m
-de dunyət ⁺ʾal
+m axxa
+dunyət ⁺ʾal de
 diyyoxun
 ⁺šavva
 manzilə
@@ -179811,10 +179811,10 @@ manzəl
 xač̭č̭a
 calax
 manyəxxax
-de xita ⁺ʾal
-de xita ⁺ʾal
+xita ⁺ʾal de
+xita ⁺ʾal de
 hal ⁺maṱax
-de dunyət ⁺ʾal
+dunyət ⁺ʾal de
 diyyoxun
 ʾina
 ɟarəc
@@ -179822,12 +179822,12 @@ diyyoxun
 k̭a dannə
 ⁺šavva
 manzilə
-ʾaxnan k̭at
+k̭at ʾaxnan
 hal ⁺maṱax
 cul ⁺ʾal
 manzəl
 ʾana
-dana xa
+xa dana
 ʾərba
 yavvət
 ʾodila
@@ -179851,7 +179851,7 @@ k̭amta
 laxma
 ⁺xarta
 ⁺rappət
-dana xa
+xa dana
 ʾərba
 k̭ulyotun k̭at
 ⁺rappətta
@@ -179865,14 +179865,14 @@ xa
 ⁺xamra
 darət
 ɟu ⁺xərxərri
-p xallənnan
+xallənnan p
 ʾana
 bət yask̭an
 ʾaha
 ⁺šula
 vadulə
 bərrəxšəl
-dan k̭a našət
+k̭a našət dan
 mata
 tanuyələ
 marələ
@@ -179881,20 +179881,20 @@ jarayɑn
 ʾatxəla
 lubəlloxun
 k̭a diyyi
-de cəs
+cəs de
 ⁺simaxur
 ʾe
-da ⁺simaxur
+⁺simaxur da
 ʾadiyya
 ⁺zayo
 ʾətla
 vidən
-⁺šula xa
+xa ⁺šula
 ʾətla
 ⁺zayə
 ⁺bayya va
 ⁺palṱali
-de dunyət ⁺ʾal
+dunyət ⁺ʾal de
 ⁺bara
 ʾina
 ʾannə
@@ -179931,8 +179931,8 @@ tanapə
 ʾannə
 cullə
 ⁺surun
-xasi ⁺ʾal
-ɟanux da
+⁺ʾal xasi
+da ɟanux
 tu
 b ⁺aralləġġe
 ʾaha
@@ -179943,17 +179943,17 @@ k̭at
 mṱayəva
 marəva
 ⁺rappi
-cut mən mənne
-dana xa
+mənne mən cut
+xa dana
 ʾaha
 ⁺rappuyə
 ⁺xulasa
 bəsyak̭əva
 hal
 mṱila
-de ⁺ʾal
+⁺ʾal de
 puləṱla
-⁺bara ⁺ʾal
+⁺ʾal ⁺bara
 puləṱla
 dunyət ⁺ʾal
 ⁺bara
@@ -179985,9 +179985,9 @@ xa ɟu
 k̭unjita
 mučəxlə
 xa
-mən ʾaxunvatu
+ʾaxunvatu mən
 xa
-mən ʾaxunvatu
+ʾaxunvatu mən
 mučəxlə
 mərrə
 cena
@@ -179996,11 +179996,11 @@ mərrə
 ʾe
 xati
 ʾətvalan
-dana xa
+xa dana
 xata
 ʾat
 bətxarət
-da ci ⁺k̭arivala
+⁺k̭arivala ci da
 ⁺ʾaxla
 mditət
 babo
@@ -180010,7 +180010,7 @@ mərrə
 cullə
 ⁺xəltela
 cullə
-bne da
+da bne
 mdita
 našo
 k̭ənyano
@@ -180024,20 +180024,20 @@ pišən
 ʾana da
 c avən
 bərrak̭a
-k̭am m
+m k̭am
 ʾido
 ʾatya har
 laxxa
-azən c
+c azən
 ⁺tamma
 mən ⁺tamma
 c avən
-da m
+m da
 duca
-de ⁺ʾal
+⁺ʾal de
 duca
 bərrak̭a
-mən k̭amay
+k̭amay mən
 mərrə
 ʾicəla
 mərrə
@@ -180054,7 +180054,7 @@ vi
 atya ṱ
 ʾay
 bitayəla
-da ʾaha
+ʾaha da
 b suysa
 vayələ
 tiyya
@@ -180062,16 +180062,16 @@ xina
 suysu
 vayələ
 məxyu
-paɟa ɟu
-cut ⁺dana
+ɟu paɟa
+⁺dana cut
 bitayəla
 cəslu
 marəla
 ʾaxuni
 suysux
-⁺ṱla ʾak̭lə
+ʾak̭lə ⁺ṱla
 ʾətvalə
-ʾe ⁺dan
+⁺dan ʾe
 tilux
 xa ʾak̭lu
 vayəla
@@ -180084,9 +180084,9 @@ vena
 tre
 ʾak̭lu
 pišə
-t da ʾe d ⁺ṱla
+⁺ṱla da d ʾe t
 ⁺bixalola
-ʾe da t ⁺ʾarpa
+t ⁺ʾarpa da ʾe
 ⁺bixalola
 ⁺bəddayələ
 xina
@@ -180120,7 +180120,7 @@ xa
 məlxa
 xa
 ⁺janta
-da ⁺ɟurta
+⁺ɟurta da
 ʾət
 mixə
 ʾaha
@@ -180134,7 +180134,7 @@ k̭at
 mixə
 ⁺rappuvvel
 xač̭č̭a
-ʾak̭lo ʾa ɟu
+ʾak̭lo ɟu ʾa
 ⁺bəṱṱasəna
 ʾa
 xač̭č̭a
@@ -180199,7 +180199,7 @@ bəsyak̭ələ
 ʾaha
 bitayəla
 ⁺baru
-yask̭a k̭at
+k̭at yask̭a
 ⁺k̭aṱlalə
 ⁺ʾaxlalə
 xina
@@ -180228,33 +180228,33 @@ məndyanə
 ⁺bixaləla
 ⁺ʾuxča
 ⁺ɟurtəla
-da ʾay
+ʾay da
 ⁺bək̭ṱalolə
 ⁺bək̭ṱalolə
 vayələ
 xina
 ⁺raba
 rəxk̭a
-cəs m
+m cəs
 ʾaxunu
-cəs m
+m cəs
 babu
 xina
 xa
 duca
 bəxzayələ
 ʾina
-dana xa
+xa dana
 beta
 xa ⁺ʾal
 k̭unjita
 velə
 bərrəxša
 bərrəxšəl
-do ⁺ʾal
+⁺ʾal do
 beta
 ɟašuk̭ələ
-do beta ɟu
+beta ɟu do
 ʾina
 xa
 baxta
@@ -180266,18 +180266,18 @@ xa
 sota
 təvtəla
 ⁺tama
-do ɟu
+ɟu do
 beta
 mara
 bruni
 ʾay
 k̭am tilux
-da beta ɟu
+beta ɟu da
 ʾadi
 c̭ura
 xambaša
-atə ṱ
-ṱ ⁺axəllux
+ṱ atə
+⁺axəllux ṱ
 c̭ura
 xambaša
 ⁺ɟorolə
@@ -180286,25 +180286,25 @@ xina
 xa ilə dev
 c̭ura
 xambaša
-atə ṱ
-ṱ ⁺axəllux
+ṱ atə
+⁺axəllux ṱ
 p̂ṱ atə
-ṱ ⁺axəllux
+⁺axəllux ṱ
 mara
 la
 ʾana
-tanən p
+p tanən
 brunuvən
 mərra
 la
 ⁺baba
 p̂ṱ ⁺axəllux
 ⁺ʾav
-li ⁺yaṱṱə
+⁺yaṱṱə li
 ʾatxa
 məndi
 mərrə
-mu pṱ avə
+pṱ avə mu
 ʾana
 tanən
 brunuvən
@@ -180340,14 +180340,14 @@ har
 ptaxul
 ⁺varəl
 ɟavay
-k̭a baxtu
+baxtu k̭a
 marələ
 baxta
 rixət
-naša ⁺bar
+⁺bar naša
 bitayələ
 marəla
-mu k̭a
+k̭a mu
 letva
 ⁺bədda
 ʾaxnan
@@ -180363,7 +180363,7 @@ dax
 ʾətvalan
 bruna
 marələ
-ʾana ʾən
+ʾən ʾana
 ʾətvali
 bruna
 ⁺raba
@@ -180373,7 +180373,7 @@ b yask̭ən
 ɟarə ⁺ʾal
 b ⁺jerən
 b rišu
-ɟarə m ⁺al
+m ⁺al ɟarə
 b ⁺jerən
 b rišu
 la ʾən
@@ -180408,7 +180408,7 @@ babivət
 ʾat
 xa naša
 savəvət
-da c̭urəva
+c̭urəva da
 c̭ura
 c̭ura
 xambaša
@@ -180417,10 +180417,10 @@ xina
 mujjurra
 ʾannə
 ʾərbə
-ʾatxa xa
+xa ʾatxa
 ⁺narahat vət
 ʾadi
-da talk̭i
+talk̭i da
 ʾat
 ⁺yaṱṱət xu li
 ʾana
@@ -180436,19 +180436,19 @@ azət ṱ
 ⁺ṱuyra
 ʾəttən
 ⁺tammoha
-l ɟiba a
+ɟiba l a
 xač̭č̭a
-⁺ramələ da
+da ⁺ramələ
 ⁺raba da
 ʾilanə
 ʾəttən
 ⁺ʾallu
-⁺davva ⁺ʾal
+⁺ʾal ⁺davva
 ⁺ṱuyra
-ʾazət la
+la ʾazət
 ⁺tamma
 ʾəttən
-dana xa
+xa dana
 šədda
 bololo
 ʾayən
@@ -180457,7 +180457,7 @@ diyyi
 c̭urə
 vəttela
 ⁺tama
-ʾazət la
+la ʾazət
 ʾay
 ⁺raba
 ⁺janavar
@@ -180483,16 +180483,16 @@ marələ
 xa
 ʾazən
 yask̭ən
-⁺davva ⁺ʾal
+⁺ʾal ⁺davva
 ⁺ṱuyra
 xazzən
 ⁺tamma
-mu ʾət
+ʾət mu
 ⁺baba
 mu
 marəla
 bərrəxšələ
-⁺ṱuyra ⁺ʾal
+⁺ʾal ⁺ṱuyra
 ⁺mṱayələ
 vayələ
 ʾərbu
@@ -180522,12 +180522,12 @@ tila
 bruni
 b šena
 tiyyət
-da ⁺ʾal
+⁺ʾal da
 ⁺ṱuyrət
 diyyan
 ʾa
 ⁺ṱuyra
-diyyux k̭a
+k̭a diyyux
 len ⁺bədda
 mudi
 marələ
@@ -180549,13 +180549,13 @@ xina
 k̭at
 xazə
 mu
-ṱ oda
+oda ṱ
 bitayəla
 bətyavəla
 dəpnu
 rišo
 mattuvvula
-bərcu ⁺ʾal
+⁺ʾal bərcu
 bədmaxəla
 mattuvvula
 rišo
@@ -180609,7 +180609,7 @@ palɟət
 dani
 ʾana
 ʾərbə
-b yavvannux
+yavvannux b
 ʾən
 ʾana
 ⁺k̭rəmli
@@ -180684,11 +180684,11 @@ zodəna
 marələ
 len
 mira
-diyyux k̭a
-do ⁺ṱuyra ⁺ʾal
+k̭a diyyux
+⁺ʾal ⁺ṱuyra do
 la
 yask̭ət
-mu k̭a
+k̭a mu
 sik̭ət
 ʾayən
 ʾannə
@@ -180696,15 +180696,15 @@ sik̭ət
 ⁺paluṱela
 ⁺xarta
 c̭ura
-ṱ odalux
-⁺ṱ axlalux
+odalux ṱ
+axlalux ⁺ṱ
 marələ
 la
 babi
 xina
 le ʾazən
 mədrə
-yuma ʾo
+ʾo yuma
 xina
 mədrə
 ⁺bəṱrayələ
@@ -180712,7 +180712,7 @@ bərrəxšəl
 ⁺tama
 mədrə
 marəla
-xamši ⁺ʾal
+⁺ʾal xamši
 danə
 mədrə
 ⁺ṱalax
@@ -180755,14 +180755,14 @@ nonuvvən
 biyyux
 parpulən
 biyyux
-⁺xṱitux la
+la ⁺xṱitux
 la xuš
 ʾatxa
-ṱ oda
+oda ṱ
 mədrə
 bərrəxšələ
 bərrəxšələ
-yuma ʾo
+ʾo yuma
 xina
 marəla
 mədrə
@@ -180806,7 +180806,7 @@ marələ
 la xuš
 bruni
 la xuš
-yuma ʾo
+ʾo yuma
 xina
 bərrəxšəl
 bərrəxšələ
@@ -180872,7 +180872,7 @@ yavattun
 ⁺ṱulvunte
 bnatax
 ⁺k̭aṱlənnun bət
-⁺ʾaynət ʾən
+ʾən ⁺ʾaynət
 babi
 la
 yavattun
@@ -180892,7 +180892,7 @@ cəsli
 babux
 marələ
 la
-cəslax na
+na cəslax
 ɟari
 tanyat
 marəla
@@ -180906,18 +180906,18 @@ xzi
 ʾannə
 bnatax
 mattənnun bət
-ɟu ⁺tiyanə
+⁺tiyanə ɟu
 šalk̭ənnun p
 miyya ɟu
 šaxinə
-cepax la
+la cepax
 ʾat
 la
 tani
 bnato
 ⁺bəddayəna
 ʾicəna
-ʾen ⁺ʾaynət
+⁺ʾaynət ʾen
 do
 c̭ura
 xambaša
@@ -180945,19 +180945,19 @@ mavələ
 miyya
 ⁺marduxələ
 xa
-mən dannə
+dannə mən
 mattuvvolə
 miyya ɟu
 ʾaha
 ⁺data da
 muttuvvələ
-pummo ɟu
+ɟu pummo
 ʾaha
 xina
 bəšlak̭əla
 ⁺data da
 vayəla
-pummo ɟu
+ɟu pummo
 ʾannə
 xinə
 mara
@@ -180995,12 +180995,12 @@ babu
 mavəla
 bəyyavəla
 k̭atu
-ɟano k̭a da
+k̭a ɟano da
 ⁺bək̭ṱalələ
 ⁺bəšk̭alələ
 ⁺bəslayələ
 bitayələ
-babu k̭a
+k̭a babu
 marələ
 babi
 ta
@@ -181045,7 +181045,7 @@ cəs
 ʾina
 ʾen
 ʾaxunvatu
-xinə da
+da xinə
 mčixəna
 bitayəna
 marəna
@@ -181056,7 +181056,7 @@ k̭at
 brata
 k̭at
 šap̂ərta
-mu ila
+ila mu
 k̭at
 hənna
 mən ɟu
@@ -181069,7 +181069,7 @@ vadəna
 ⁺xluyla
 k̭at
 xa
-dani mən
+mən dani
 ɟavərra
 ⁺mṱayələ
 marələ
@@ -181093,7 +181093,7 @@ npulun
 ⁺ʾavva
 ⁺k̭ṱulunlə
 ⁺ʾavva
-lə dəžmənnan
+dəžmənnan lə
 ʾaha
 bənpaləna
 ⁺baru
@@ -181114,7 +181114,7 @@ cullə
 k̭atu
 tanuvvolə
 k̭at
-mu la
+la mu
 jarayɑn
 k̭at
 ʾana
@@ -181124,7 +181124,7 @@ brun malcəvən
 ʾannə
 ʾatxəla
 ʾayya
-da brata
+brata da
 k̭at
 ⁺bayyi
 ɟorila
@@ -181138,19 +181138,19 @@ cut
 yum
 cut
 ⁺berašə
-b xa
+xa b
 suysə
-bət ⁺palṱən
+⁺palṱən bət
 xa
 ranɟ
 suysə
 cut
 ⁺berašə
-bət ⁺palṱən
+⁺palṱən bət
 cullə
-mən dannə
+dannə mən
 košuynu
-ʾan t
+t ʾan
 bitayəna
 k̭at
 k̭a diyyi
@@ -181158,9 +181158,9 @@ masalan
 ⁺k̭aṱli
 xa
 same
-⁺k̭aṱlənnə bət
+bət ⁺k̭aṱlənnə
 ʾark̭ən bət
-bət ⁺palṱən
+⁺palṱən bət
 m mdita
 b lelə
 ⁺derən bət
@@ -181190,7 +181190,7 @@ pəlxanəl
 ɟozə
 ⁺axlax ṱ
 b lelə
-kut lelə
+lelə kut
 ʾaha
 ⁺šula
 vadulə
@@ -181198,7 +181198,7 @@ lelət
 ṱla
 ⁺xulasa
 ⁺xdərtət
-dana xa
+xa dana
 ʾaxunu
 bədvak̭lolə
 marələ
@@ -181237,11 +181237,11 @@ b xak̭yan
 ⁺raba
 ⁺bəddayən
 ⁺raba
-xak̭yannux p
+p xak̭yannux
 məttəlta
 ʾətva
 lətva
-mən ʾalaha
+ʾalaha mən
 ⁺ɟura
 həč məndi
 lətva
@@ -181261,11 +181261,11 @@ təvlun
 ⁺ɟora
 baxta
 ɟane
-ɟane k̭a
+k̭a ɟane
 taxmunə
 mərrə
 ⁺ɟora
-k̭a baxta
+baxta k̭a
 marələ
 ʾay
 baxta
@@ -181310,7 +181310,7 @@ mərrə
 mu
 ʾitən
 ⁺puləṱlə
-m ɟu jibu
+m jibu ɟu
 xa
 xabuyša
 smuk̭a
@@ -181343,7 +181343,7 @@ vil
 ṱ atən
 lablənnə
 clilun
-pat ɟu
+ɟu pat
 ⁺ʾuydalə
 ⁺ɟora
 baxta
@@ -181351,7 +181351,7 @@ baxta
 pucərrun
 mərrun
 ba
-mu ʾodax
+ʾodax mu
 lətlan
 gone
 xa
@@ -181367,17 +181367,17 @@ yalə
 malcələ
 xina
 maləcta
-xa ⁺mak̭reta
+⁺mak̭reta xa
 ⁺muk̭riyyelun
 xa
 šap̂irə
-mən xa
+xa mən
 xabuyša
 viyyəna
 laxuymə
 mən da
 ⁺tarra
-⁺ʾori le
+le ⁺ʾori
 šəcla
 šəcla
 laxuymə
@@ -181392,10 +181392,10 @@ baxta
 tuxmənnun
 mərrə
 ⁺map̂rəmmaxxə
-atə ṱ
+ṱ atə
 b labəllə
 ⁺bahar
-atə ṱ
+ṱ atə
 ʾa
 naša
 b labəllə
@@ -181409,7 +181409,7 @@ b rišan
 ʾatxa
 titəla
 mərrə
-mu oya p̂ṱ
+oya p̂ṱ mu
 ʾana
 p̂ṱ azən
 ⁺bahar
@@ -181430,11 +181430,11 @@ ptəxlə
 ⁺vərrə
 ʾa
 naša
-ilə ṱ ma
+ilə ma ṱ
 ⁺rama
 mərrə
 ⁺bahar
-ʾət diyyi vət
+ʾət vət diyyi
 mərrə
 ⁺ʾayni ⁺ʾal
 ʾana
@@ -181448,7 +181448,7 @@ mərrə
 la
 xmul
 ʾana
-dana xa
+xa dana
 ʾazən
 ⁺bazar
 ʾatən
@@ -181514,13 +181514,13 @@ xa
 naša
 sava
 tivələ
-dəpnət ⁺ʾal
+⁺ʾal dəpnət
 šak̭ita
 dək̭nu
 ⁺xvara
 ⁺bahar
 mərrə
-šlama ⁺ʾallux
+⁺ʾallux šlama
 ⁺mamuni
 mərrə
 b šena
@@ -181544,7 +181544,7 @@ k̭at
 ʾatən
 ʾa
 ʾurxa
-azətta ṱ
+ṱ azətta
 xina
 mərrə
 ⁺ʾavva
@@ -181555,11 +181555,11 @@ huydayələ
 ilə dev
 dev
 ⁺ʾavva
-lə labulux
+labulux lə
 ⁺ʾaxəllux
 mara
 ʾana
-diyyux k̭a
+k̭a diyyux
 tanuvvən
 b labəllux
 b labəllux
@@ -181607,19 +181607,19 @@ k̭atu
 ɟu ptaxta
 xa
 ⁺rapsa
-⁺xasu ɟu
+ɟu ⁺xasu
 maxət
 ʾazəl
 napəl
-yaccə xa
+xa yaccə
 ⁺k̭azanča
 miyya
 ⁺bərdaxa
 ⁺ʾavun
-diyyux k̭a
-b ⁺rappə
+k̭a diyyux
+⁺rappə b
 ⁺tama
-ṱ ⁺axəllux
+⁺axəllux ṱ
 ilə dev
 ʾat
 hada
@@ -181633,7 +181633,7 @@ mərrə
 ⁺mamuni
 ʾavət
 basima
-da ⁺ʾal
+⁺ʾal da
 nasyat
 k̭a diyyi
 yuvvalux
@@ -181651,12 +181651,12 @@ vay
 ⁺bar
 ⁺šavva
 ⁺ṱuyranə
-dana xa
+xa dana
 meša
 palɟu pi
-yaccə xa
+xa yaccə
 ⁺ɟurta
-əla zdany
+zdany əla
 ʾatxa
 beta
 ⁺ɟurələ
@@ -181664,9 +181664,9 @@ k̭dilə
 ⁺pulṱelə
 huydaya
 yuvvelə
-ʾidət ⁺ʾal
+⁺ʾal ʾidət
 da yala
-ʾidət ⁺ʾal
+⁺ʾal ʾidət
 ⁺bahar
 mərrə
 ptuxlun
@@ -181677,7 +181677,7 @@ ptixelə
 tlay ⁺ʾal
 ⁺ʾəč̭č̭a
 ⁺mṱilə
-ʾarpi dət ⁺ʾal
+dət ⁺ʾal ʾarpi
 mərrə
 ʾana
 xina
@@ -181690,10 +181690,10 @@ har
 ⁺tarra
 ⁺ʾav
 ɟu ptaxtu
-dana xa
+xa dana
 b ⁺rapsa
 mxilə
-⁺xasu ɟu
+ɟu ⁺xasu
 xəšlə
 pəllə
 bak̭bak̭bak̭
@@ -181710,18 +181710,18 @@ pucərrə
 mərrə
 xač̭č̭a
 ⁺ʾorən
-dan ⁺ʾotaġ ɟu
+ɟu dan ⁺ʾotaġ
 xazən
-dan ⁺ʾotaġə ɟu
+⁺ʾotaġə dan ɟu
 mu
 ʾitən
 ⁺vərrə
 xa ʾotaġ
 mlitəla
 dava
-ʾe ⁺ʾotaġ
+⁺ʾotaġ ʾe
 xita
-havuz la
+la havuz
 ʾina
 cullə
 šk̭əltəla
@@ -181744,13 +181744,13 @@ buš
 vilə
 xəšlə
 šk̭əllə
-dana xa
+xa dana
 ʾatxa
 max xurjun
 məlyalə
 davə
 xəšlə
-l yba o
+l o yba
 xina
 ⁺ʾotaġ
 ptixalə
@@ -181764,17 +181764,17 @@ xa suysa
 xa jəns
 suysa
 praxələ
-ɟu m ⁺hava
+m ɟu ⁺hava
 šk̭əllə
 təvlə
 suysa ⁺ʾal
 ʾannə da
 muttelə
 xurjun
-⁺xasu ⁺ʾal
+⁺ʾal ⁺xasu
 ⁺bəryama
 bitayələ
-ʾaxči la beta
+beta la ʾaxči
 tilə
 ⁺raba
 tilə
@@ -181788,7 +181788,7 @@ tilə
 ʾaha
 ⁺mṱilə
 mədrə
-dana xa ⁺ʾal
+xa dana ⁺ʾal
 max beta
 ⁺šra
 ⁺bəllayələ
@@ -181796,7 +181796,7 @@ xəšlə
 ⁺vərrə
 ɟavo
 ʾayya
-tanila ci
+ci tanila
 ⁺čayxana
 cut
 bitayəna
@@ -181828,13 +181828,13 @@ məndita
 ɟušək̭lə
 xašcunəla
 ɟušək̭lə
-dana xa
+xa dana
 beta
 sura
 ʾitən
 mərrə
 xa ⁺ʾorən
-lelə ʾad
+ʾad lelə
 pešən
 laxxa
 ʾarxa
@@ -181847,7 +181847,7 @@ xa sota
 mərrə
 ʾay
 xaltu
-lelə ʾad
+ʾad lelə
 xamili
 cəslax
 moriša
@@ -181868,7 +181868,7 @@ duca ʾax
 lətli
 clilə
 pucərrə
-da ⁺ʾal
+⁺ʾal da
 sota
 xurjunu
 muttalə
@@ -181899,31 +181899,31 @@ k̭atux
 pəšlə
 cəslo
 b lelə
-di xina
+xina di
 ʾa
 yala
 lipələ
 moriša
 jaldə
 bək̭yamələ
-fiz zaryadk̭a
+zaryadk̭a fiz
 ʾavəd
 ɟušək̭lə
 protiv
 ʾatxa
-dana xa
+xa dana
 zdanya
 ⁺ɟurtəla
 danə ⁺ṱla
 bnatə
-⁺balk̭un ɟu
+ɟu ⁺balk̭un
 cəlyəna
 mərrə
 ʾay
 xaltu
 ʾay
 nana
-xa ta
+ta xa
 laxxa
 ʾannə
 na mani
@@ -181943,7 +181943,7 @@ yala
 mərrə
 b ayye
 havuz
-k̭am la
+la k̭am
 ⁺tarra
 ʾazən
 saxən
@@ -181952,7 +181952,7 @@ mu
 tanyana
 xəšlə
 sxilə
-xut ɟanu riš
+ɟanu xut riš
 ⁺vərrə
 sxilə
 ʾannə
@@ -181985,8 +181985,8 @@ k̭ate
 šəclələ
 bəššəla
 tanuvvəla
-k̭a bax malca
-bax malca
+k̭a malca bax
+malca bax
 mara
 ʾatə xuš
 ʾətlan
@@ -182011,7 +182011,7 @@ partululə
 xamša
 xamša
 bədrayelə
-⁺ʾal ⁺rušananu
+⁺rušananu ⁺ʾal
 bitayələ
 mavelə
 ʾaha
@@ -182041,9 +182041,9 @@ b rišan
 mara
 ʾat
 k̭ala
-vud la
+la vud
 hi
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 mədrə
 xəšlə
@@ -182052,7 +182052,7 @@ muyyilə
 la
 mərra
 ʾatxa
-ʾoya le
+le ʾoya
 mərrə
 ʾay
 xaltu
@@ -182088,7 +182088,7 @@ dəryalə
 mən da
 brata
 humzəmlə
-da šəmmo
+šəmmo da
 ʾa
 brata
 šacar
@@ -182133,22 +182133,22 @@ babo
 muttot
 ⁺mrilə
 pəllə
-jul maxə ɟu
+jul ɟu maxə
 pəllə
-jul maxə ɟu
+jul ɟu maxə
 mən xəššu
 yəmmola
 yəmmo
 lela
 ⁺bədda
-mu ʾoda
+ʾoda mu
 mxayəla
 rišo ɟu
 ⁺məryələ
 cma
 ⁺doxtorə
 muyyilun
-da malca ⁺ʾal
+⁺ʾal malca da
 xina
 mu
 tanət
@@ -182177,17 +182177,17 @@ len
 ⁺byayən
 ⁺xalvət
 ʾarya
-ɟu ɟudət
+ɟudət ɟu
 ʾarya
 k̭a malca
 ⁺mərya
 ʾaha
-ʾan da bnatu
+bnatu da ʾan
 ɟvirə
 tre
 xətnavay
 ʾətlə
-da ʾaha
+ʾaha da
 ⁺ṱla
 mara
 ʾani
@@ -182201,7 +182201,7 @@ xušun
 k̭a diyyi
 ⁺xalvət
 ʾarya
-ɟu ɟudət
+ɟudət ɟu
 ʾarya
 k̭a malca
 ⁺mərya
@@ -182220,7 +182220,7 @@ matal
 mu ʾodi
 ʾannə
 bətyavəna
-susavay ⁺ʾal
+⁺ʾal susavay
 bərrəššəna
 ʾa
 šacar
@@ -182235,14 +182235,14 @@ marəla
 ʾay
 yəmmi
 tani
-k̭a jaju
+jaju k̭a
 k̭amta
 k̭a baba
-ci taniva
+taniva ci
 jaju
 tani
-k̭a jaju
-da ⁺bahar
+jaju k̭a
+⁺bahar da
 ʾazəl xuš
 marani
 ʾaha
@@ -182254,7 +182254,7 @@ tani
 bəššəla
 tanuvvəla
 mara
-dana xa
+xa dana
 ⁺k̭atərta
 ʾətlan
 ⁺tama
@@ -182272,7 +182272,7 @@ bitayəla
 ⁺k̭atərta
 ʾatxa
 bədvak̭ələ
-b rišo
+rišo b
 ⁺rapuvvula
 ʾa
 ⁺katərta
@@ -182284,16 +182284,16 @@ babax ʾo
 ʾana
 lximən
 ʾadiyya
-de ⁺k̭atərta ⁺ʾal
+⁺ʾal ⁺k̭atərta de
 yatvən
 ʾa
 varələ
-paɟa ɟu
-suysət ʾo
+ɟu paɟa
+ʾo suysət
 k̭at muyyulə
 mənnu
-ʾo marən t
-ɟu m ⁺hava k̭at
+t ʾo marən
+m k̭at ɟu ⁺hava
 praxələ
 ʾaha
 bətyavələ
@@ -182305,7 +182305,7 @@ xač̭č̭a
 jullə
 bəlvašələ
 suysu k̭at
-ɟu m ⁺hava
+m ɟu ⁺hava
 praxələ
 bərrəššələ
 bərrəššələ
@@ -182314,7 +182314,7 @@ bərrəššələ
 xač̭č̭a
 bərrəššələ
 ɟušək̭lə
-sava xa
+xa sava
 mədrə
 tivələ
 har
@@ -182325,7 +182325,7 @@ mara
 ʾalaha
 xer
 ʾavədla
-šlama ⁺ʾallux
+⁺ʾallux šlama
 ⁺mamu
 mara
 b šena
@@ -182343,7 +182343,7 @@ bəššət
 ʾica
 bəššət
 mara
-mu ʾodən
+ʾodən mu
 xəmyani
 malcələ
 ʾatxa
@@ -182378,7 +182378,7 @@ dməxtəla
 ʾarya
 ⁺sadro
 zirələ
-⁺bərra ⁺bərrola
+⁺bərrola ⁺bərra
 lela
 ⁺myasa
 joja
@@ -182398,7 +182398,7 @@ maxzətta
 parpəssalux
 ʾatxa
 mən rək̭k̭a
-p calət
+calət p
 nixa
 ⁺pašṱəttə
 ⁺sadro ʾo
@@ -182408,29 +182408,29 @@ dvik̭ələ
 ⁺bazzəttə
 ⁺ʾav
 cullə
-atə ṱ
+ṱ atə
 tamməz
 ⁺tama
 ⁺ʾax
 tanya
 munyəxli
 k̭ala
-ʾodət la
+la ʾodət
 ʾay
 tanya
 mani vət
-ivət ʾəns
+ʾəns ivət
 jəns ivət
 k̭ala
 vud
 ʾat
 k̭ala
-ʾodət la
+la ʾodət
 ɟa ⁺ṱla
 b darya
 k̭ala
 k̭ala
-ʾodət la
+la ʾodət
 tanya
 bi
 momatət
@@ -182464,14 +182464,14 @@ tiyyən
 ⁺bar
 ⁺xalvət
 ʾarya
-ɟuydət k̭a
+k̭a ɟuydət
 ʾarya
 k̭a malca
 ⁺mərya
 vay
 mara
 ʾalaha
-taləx la
+la taləx
 bet babux
 ʾətli
 lətli
@@ -182480,7 +182480,7 @@ bruna
 velə
 k̭ənna ɟu
 dmixa
-b lablət
+lablət b
 ⁺bar
 ⁺šavva
 ⁺ṱuyranə
@@ -182493,7 +182493,7 @@ la
 k̭alu
 ⁺šmili
 ⁺šmili
-xa xut cici
+cici xa xut
 mattannux
 ⁺ʾavva
 ⁺barbər
@@ -182511,7 +182511,7 @@ cici
 ʾaha
 bəšk̭alulə
 mattuvvulə
-xp̂ak̭u ɟu
+ɟu xp̂ak̭u
 suysa ⁺ʾal
 xəšlə
 xəšlə
@@ -182526,13 +182526,13 @@ hada
 mavulə
 k̭ato
 ⁺bəxlavəla
-⁺spay ʾo
+ʾo ⁺spay
 ⁺xalva
-ɟuyda ɟu
+ɟu ɟuyda
 ʾan ʾak̭lay
 ʾe šəxta
 məxta da
-ʾak̭lay ɟu
+ɟu ʾak̭lay
 ⁺bəsyarelə
 mara
 ʾoyat
@@ -182562,7 +182562,7 @@ pyašələ
 yaysu
 ʾen
 xatvatət
-de baxtu
+baxtu de
 la
 ʾani da
 tiyyəna
@@ -182613,17 +182613,17 @@ mara
 ʾana
 zabunən
 mara
-mu bi
+bi mu
 zabunət
 mara
-dana xa
+xa dana
 ʾatxa
 ⁺ʾabasi
 ʾatxa
 ⁺ɟurta
 k̭amta
 viyyəna
-b day
+day b
 ʾana
 b yavvənnoxun
 ⁺xalva
@@ -182633,7 +182633,7 @@ patət ɟu
 ⁺ʾuydalə
 mara
 ʾayya
-jəns buš la
+la buš jəns
 čəm
 k̭am malca
 k̭dalan
@@ -182645,7 +182645,7 @@ vayəna
 ʾen
 ʾak̭lay
 ʾo
-⁺spay la
+la ⁺spay
 ⁺xalva
 ʾani
 yavelə
@@ -182676,7 +182676,7 @@ jəns
 ⁺xalva
 lelə
 mara
-k̭a baxtu
+baxtu k̭a
 mara
 xa xuš
 xa xzi
@@ -182688,8 +182688,8 @@ pərda
 pərdət
 mata
 šil ⁺xalva
-tanila ci
-b pərda
+ci tanila
+pərda b
 bušləna
 ⁺muxluna
 buš
@@ -182717,7 +182717,7 @@ mara
 k̭u
 ⁺kazanča
 mattila
-mən da ⁺xalva
+mən ⁺xalva da
 jəns
 matti
 bašəl
@@ -182727,7 +182727,7 @@ mattuvvəla
 bašuləla
 mara
 k̭amta
-sota man
+man sota
 mlilə
 ⁺ɟurta
 baxtəla
@@ -182749,7 +182749,7 @@ manə
 ʾətva
 mli
 labəlla
-babax k̭a do
+k̭a babax do
 bəšk̭aləla
 labuləla
 har
@@ -182769,7 +182769,7 @@ basiməl
 ⁺bixalələ
 marani
 ⁺bəddayət
-mu ʾət
+ʾət mu
 marani
 xina
 mən ʾudyu
@@ -182778,7 +182778,7 @@ yuma
 xətnilə
 melə
 beta
-k̭a baxtu
+baxtu k̭a
 mara
 bəšk̭aləna
 labuluna
@@ -182786,7 +182786,7 @@ beta
 labuluna
 beta
 ⁺k̭arkəzzi
-xluyla k̭at
+k̭at xluyla
 ʾodi
 nu
 ʾa
@@ -182800,19 +182800,19 @@ yala
 moriša
 bək̭yamələ
 jaldə
-darta ɟu
+ɟu darta
 vadələ
-fiz zaryadk̭a
+zaryadk̭a fiz
 darta
 b mayk̭a
 ʾatxa
 ɟašuk̭ələ
 xa xta
 tila
-dana xa
+xa dana
 ⁺jayran
 mxila
-xut xaču m
+m xut xaču
 xəšla
 mərra
 ʾana
@@ -182833,29 +182833,29 @@ xazzən
 mu
 ⁺jayran
 xina
-k̭a baxtu
+baxtu k̭a
 lelə
 tunya
 xəšlə
 ⁺baro
 xəšlə
 xəšlə
-b ⁺raba
+⁺raba b
 xač̭č̭a
 ⁺raba
 xəšla
 ⁺vərra
-dana xa ɟu
+xa dana ɟu
 ʾatxa
 sura
 max beta
-tanilə ci
+ci tanilə
 ⁺k̭allayča
 ⁺vərra
 muttila
-grafink̭ ət
+ət grafink̭
 ʾarak̭
-dana xa
+xa dana
 ⁺ʾustol
 vila
 brata
@@ -182864,7 +182864,7 @@ vila
 brata
 grafink̭a
 muttila
-ʾustol ⁺ʾal
+⁺ʾal ʾustol
 tre
 ⁺sticanə
 muttila
@@ -182878,7 +182878,7 @@ mən
 ʾatxa
 bəštayələ
 bədrayula
-ɟu ⁺sadru
+⁺sadru ɟu
 tapuxula
 yala
 ⁺murvila
@@ -182886,7 +182886,7 @@ yala
 xa k̭amči
 yala
 mxila
-ɟu ⁺xasu m
+m ɟu ⁺xasu
 vədla
 cipa
 ⁺ruppila
@@ -182898,18 +182898,18 @@ yavvax
 mən ⁺ʾalmas
 bəšša
 bitayələ
-ʾak̭ušk̭a ɟu
+ɟu ʾak̭ušk̭a
 pacurələ
 ɟušək̭lə
 vardə
 ⁺č̭məč̭lun
 ʾo
 mara
-babu k̭a
+k̭a babu
 yəmmu
 ʾaxuni
 mara
-mu ila
+ila mu
 tpək̭ta
 biyyu
 ʾana
@@ -182917,7 +182917,7 @@ bətyavən
 suysa
 ʾana
 xəšli
-sepu da
+da sepu
 ⁺ɟurta
 mattuvvolə
 ʾatxa
@@ -182945,13 +182945,13 @@ b lelə
 vila
 tilə
 ⁺mṱilə
-mdita ɟu
+ɟu mdita
 ⁺buk̭ərrə
 ⁺buk̭ərrə
 mərrun
 ⁺hana laxxa
 ʾa
-malcələ bet
+bet malcələ
 manilə
 man
 lelə
@@ -182973,9 +182973,9 @@ xzilux
 ⁺ʾalmas
 let
 ⁺bədda
-lə ⁺bahar
+⁺bahar lə
 ⁺yuxsa
-lə ⁺ʾalmas
+⁺ʾalmas lə
 ʾaha
 bitayələ
 ⁺tama
@@ -182997,7 +182997,7 @@ bitayəla
 ʾaha
 mattuvvəla
 laxma
-bət ləbbo
+ləbbo bət
 ⁺ṱlibolə
 šacar
 nuš
@@ -183015,9 +183015,9 @@ sepu
 ⁺paluṱolə
 duca
 šavuvvəla
-duca xa
+xa duca
 bədmaxəna
-bət ləbbo
+ləbbo bət
 ⁺ɟoro
 mattuvvolə
 ⁺ʾaralləġ
@@ -183030,9 +183030,9 @@ bədmaxələ
 bədmaxələ
 moriša
 bək̭yamələ
-darta ɟu
+ɟu darta
 bəššələ
-fiz zaryadk̭a
+zaryadk̭a fiz
 ʾavəd
 ⁺jayran
 tila
@@ -183051,7 +183051,7 @@ mərrə
 lət
 ʾaxun diyyi
 ʾaha
-yuma da ⁺ʾal
+da ⁺ʾal yuma
 dritula
 xəšlə
 ⁺baro
@@ -183136,7 +183136,7 @@ brata
 ⁺ʾuxča
 šap̂ərtəla
 xina
-ʾoya le
+le ʾoya
 tanuvvə
 ʾa
 brata
@@ -183212,7 +183212,7 @@ beta
 bitayələ
 beta
 baxtu
-bət ləbbo
+ləbbo bət
 ⁺ɟoro
 lela
 ⁺bədda
@@ -183225,13 +183225,13 @@ praša
 bitayələ
 mara
 ba
-mu ila
+ila mu
 vita
 laxxa
 mara
 həč
 məndi
-mu ila
+ila mu
 vita
 ba
 našə
@@ -183240,7 +183240,7 @@ tiyyə
 lena
 dmixə
 mara
-ʾati tva
+tva ʾati
 ba
 k̭am
 sepux
@@ -183254,7 +183254,7 @@ la diyyi
 ʾatxa
 xak̭uvvəla
 k̭atu
-mu tahar va
+tahar mu va
 ʾo
 ʾədmu
 dmixələ
@@ -183263,7 +183263,7 @@ dmixələ
 ⁺bək̭raṱolə
 mara
 ʾana
-na ivən mard
+na mard ivən
 ʾaxun diyyi
 značet
 tamməz lə
@@ -183271,7 +183271,7 @@ taza
 ⁺bərxaṱələ
 taza
 ⁺bərxaṱələ
-do ⁺ʾal
+⁺ʾal do
 k̭unya
 mara
 ʾaxun
@@ -183287,7 +183287,7 @@ tilun
 supilun
 babu
 yəmmu
-mən ⁺tama
+⁺tama mən
 tilun
 ⁺šavva
 yumanə
@@ -183297,21 +183297,21 @@ vədlun
 ⁺šavva
 yuman da
 vədlun
-lab babe
+babe lab
 babu lab
 lubəllun
 ⁺šavva
 yumanə
 ⁺xluyla
 vədlun
-bi la
+la bi
 brata
 a
 patom
 ⁺šavva
 yuman da
 vədlun
-bi la
+la bi
 yala
 k̭at
 uže
@@ -183322,16 +183322,16 @@ lublalə
 šacar
 nuš
 ⁺xanəm
-da ham
+ham da
 šacar
 nuš
 ⁺xanəm
 k̭a ⁺bahar
 ʾe
-⁺jayran da
+da ⁺jayran
 lublalun
 k̭a hənna
-da ʾay
+ʾay da
 bratəva
 lublalun
 k̭a ⁺ʾalmas
@@ -183340,7 +183340,7 @@ yuman da
 ⁺tama
 vədlun
 ⁺xluyla
-tanila ci
+ci tanila
 ʾatxa
 mən ⁺ʾata
 ⁺baba
@@ -183349,7 +183349,7 @@ xabuyšə
 pəllun
 xa mənne
 p̂erviy
-diyyux k̭a
+k̭a diyyux
 xa mənne
 k̭a
 ⁺maryana
@@ -183373,15 +183373,15 @@ hənna
 maləcta
 mədrə
 ʾətvalun
-dana xa
+xa dana
 brata
 cu šita
 aziva c
 ⁺yaylaġ
 ⁺yaylaġ
-mu ila
+ila mu
 k̭ənyanə
-lablivalun ci
+ci lablivalun
 dax ⁺ṱuyra
 k̭eṱa
 hal
@@ -183414,13 +183414,13 @@ beta
 k̭amu
 brati
 mərrə
-⁺xṱitax la
+la ⁺xṱitax
 ʾat
-mu tahar
+tahar mu
 b xamyattun
 ʾannə
 ⁺ʾambarə
-ʾatxa xa
+xa ʾatxa
 davə
 mara
 ʾana
@@ -183438,9 +183438,9 @@ spartivni
 simalta
 muttala
 clila
-marza xa ⁺ʾal
+xa ⁺ʾal marza
 ɟušək̭la
-⁺ʾambar ɟu la
+la ɟu ⁺ʾambar
 ɟušək̭la
 mən ⁺ʾullul
 ⁺ruppilun
@@ -183458,13 +183458,13 @@ b sepa
 k̭dalu
 mxila
 ʾəmnət
-zə tilə
+tilə zə
 k̭dalu
 mxila
 tlay
 ⁺ʾəč̭č̭a
 məxyela
-ʾarp̂i dət ⁺ʾal
+dət ⁺ʾal ʾarp̂i
 ⁺k̭əssu
 ɟrədla
 xa rək̭lə
@@ -183495,7 +183495,7 @@ nšək̭lə
 basma
 ɟanax
 brati
-ʾatxa k̭at
+k̭at ʾatxa
 xumitət
 mərra
 ⁺p̂ap̂a
@@ -183503,7 +183503,7 @@ dəžmən
 ʾətli
 ʾana
 dəžmən
-mu ila
+ila mu
 mərra
 ⁺hal
 naġəl
@@ -183551,14 +183551,14 @@ təflito
 davəla
 bənpala
 ɟu hənna
-de havuz
+havuz de
 ʾa
 marəla
 di
 m odan
-xu ⁺msan la
+la ⁺msan xu
 palṱanna
-riɟavay ʾan da
+riɟavay da ʾan
 lena
 ⁺myasa
 ⁺palṱila
@@ -183583,14 +183583,14 @@ bitayəla
 laxxa
 ⁺tama
 ⁺masyudə
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 bərrəššəla
 bədvak̭olə
 mattuvvolə
 suysa ⁺ʾal
 labulolə
-cma t
+t cma
 č̭arč̭urəna
 ʾannə
 riɟavay
@@ -183634,7 +183634,7 @@ zila
 k̭esa
 nazuc
 dax
-xa txa
+txa xa
 ɟanay
 ⁺k̭ṱəltet
 ʾat
@@ -183642,7 +183642,7 @@ dəmmət
 cullə
 dəžmənnax
 šak̭lənnə
-ʾu ⁺sirolə
+⁺sirolə ʾu
 ʾaha
 ʾaha
 mərra
@@ -183657,19 +183657,19 @@ parək̭li
 ɟambulə
 ɟambulə
 ɟambulə
-⁺sadrət m
+m ⁺sadrət
 ⁺ṱuyra
 nixa
 candurə
 npala
-da ⁺tama
+⁺tama da
 ʾurxəla
 ʾazanə
 ʾatyanə
 vayəna
 ⁺carvan
 bitayəla
-tanila ci
+ci tanila
 ⁺carvan
 dax
 ʾannə
@@ -183685,7 +183685,7 @@ b dava
 ⁺bəddayot
 ⁺carvan
 ʾen
-xa txa
+txa xa
 ɟumlə
 ⁺šulə
 k̭at
@@ -183696,11 +183696,11 @@ vadəna
 biznes
 ʾaha
 ɟašuk̭ələ
-da ⁺tama
+⁺tama da
 hənna
-malcələ brun
+brun malcələ
 ⁺ɟure
-malcələ brun
+brun malcələ
 ɟašuk̭ələ
 yala
 ⁺ʾamma
@@ -183718,12 +183718,12 @@ k̭a diyyoxun
 ʾaɟar
 jəns
 məndilə
-diyyilə k̭a
+k̭a diyyilə
 ʾa
 brun malca
 bəšk̭alona
 mattuvvona
-ɟu xurjun
+xurjun ɟu
 se ʾu
 bəɟrašona
 labulona
@@ -183739,7 +183739,7 @@ bitayələ
 ɟašuk̭ələ
 litən
 bitayələ
-b suysu
+suysu b
 k̭am
 ⁺carvan
 ⁺bək̭ṱayolə
@@ -183768,7 +183768,7 @@ ptaxulə
 ʾina
 mu
 xa
-la ⁺ʾənsan
+⁺ʾənsan la
 xa
 šap̂ərta
 bratəla
@@ -183786,11 +183786,11 @@ laxumta
 marani
 ʾatən
 manivat brat
-mən manivat
+manivat mən
 ⁺bak̭urolə
 ⁺ʾav da
-malcələ brun
-mən manivat
+brun malcələ
+manivat mən
 mara
 ⁺hal
 naġəl
@@ -183828,11 +183828,11 @@ beta
 ⁺maṱrəssən
 ṱryox
 ʾaṱṱaš
-xa k̭am
+k̭am xa
 ⁺tarra
 mattən
 ⁺ʾaslan
-xa k̭am
+k̭am xa
 ⁺tarra
 ⁺k̭aplan
 ⁺šəmyet
@@ -183850,12 +183850,12 @@ xina
 čeresčur
 ṱryox
 ʾaṱṱaš
-xa k̭am
+k̭am xa
 ⁺tarra
 mattuvvələ
 palacan
 ⁺ʾaslan
-xa k̭am mənne
+k̭am mənne xa
 ⁺k̭aplan
 ʾa
 bəššələ
@@ -183899,7 +183899,7 @@ k̭alax
 la ʾatə
 ⁺pluṱ
 ⁺yuxsa
-k̭a da diyyax
+k̭a diyyax da
 k̭aṱlən
 ⁺ɟorax k̭a da
 k̭aṱlən
@@ -183909,14 +183909,14 @@ nixa
 ṱlibo
 rišu
 mattuvvola
-marza ⁺ʾal
+⁺ʾal marza
 mutacca ⁺ʾal
 mara
 ʾat
 xuš
 k̭amay
-ṱlibi k̭at
-diyyux k̭a
+k̭at ṱlibi
+k̭a diyyux
 la
 xazzə
 ⁺ʾav zə
@@ -183930,7 +183930,7 @@ palɟu
 ⁺ʾaslan k̭am
 palɟu
 k̭am ⁺k̭aplan
-k̭at sik̭ələ
+sik̭ələ k̭at
 mara
 xuš
 k̭amay
@@ -183946,7 +183946,7 @@ yala
 ʾana
 ⁺ʾazad
 oyan ṱ
-diyyux k̭a
+k̭a diyyux
 ʾavə
 ⁺duxrana
 k̭a diyyi
@@ -183995,17 +183995,17 @@ tunilax
 mara
 ʾana
 ɟani
-diyyux k̭a
+k̭a diyyux
 la
 tunili
 ba
 mara let
 ʾana
-ču m yala
+m ču yala
 b mayyan
 ⁺duxrana
 tunitun
-ʾalaha k̭a
+k̭a ʾalaha
 mara
 jəns
 vəttət
@@ -184013,7 +184013,7 @@ bitayəla
 xa brata
 vayolə
 šəcla
-mən ɟano
+ɟano mən
 buš
 šap̂ərta
 ⁺xamsar
@@ -184043,7 +184043,7 @@ titəla
 titəla
 ⁺hala
 babi
-yəmmi da
+da yəmmi
 len
 xzite
 k̭a diyyax
@@ -184051,13 +184051,13 @@ tunitən
 ⁺duxrana
 len
 ⁺bədda
-mu tahar
+tahar mu
 ʾa
 ⁺duxrana
 ʾalaha
 k̭abəl p̂
-mu tahar
-p̂ṱ oya
+tahar mu
+oya p̂ṱ
 mara
 ʾana
 xditən
@@ -184069,7 +184069,7 @@ jəns
 mu
 p̂ṱ oditun
 ⁺ʾav
-⁺šul lə diyyoxun
+⁺šul diyyoxun lə
 yəmmo
 bərrəššəla
 len
@@ -184078,16 +184078,16 @@ len
 ʾica
 ⁺plaṱəla
 babo
-pəlxana ⁺ʾal
+⁺ʾal pəlxana
 ɟašuk̭əla
-sava xa
+xa sava
 tilə
 ⁺vərrə
 ⁺tarra
 ptəxlə
 ⁺tarra
 ptəxlə
-dək̭na mar
+mar dək̭na
 naša
 mərrə
 šlama ⁺ʾallax
@@ -184106,7 +184106,7 @@ yəmmi
 k̭a diyyi
 tunitəla
 ʾadiyya
-⁺spay buš
+buš ⁺spay
 k̭a diyyi
 labəl
 ʾatxa
@@ -184169,20 +184169,20 @@ mən pummo
 ⁺plaṱəna
 yəmmo
 bəclayəla
-b xa
-ila ɟa ṱ
+xa b
+ɟa ila ṱ
 hušo
 ʾaza
 brati
 ʾa
-mu ilə
+ilə mu
 ⁺mama
 mara
 hi
 munšili
 xa ⁺pira
 tani
-k̭a yəmmax
+yəmmax k̭a
 šak̭la
 k̭aṱla
 ⁺duxrana
@@ -184205,19 +184205,19 @@ k̭a diyyi
 ʾatxa
 juvvəblə
 tani
-k̭a yəmmax
+yəmmax k̭a
 šak̭la
-dana xa
+xa dana
 ⁺pira
 ⁺palliyya
 ⁺duxrana
 k̭bəllə
 xazzənnax
-pummax m
+m pummax
 vardə
 ⁺rozə
 tapxi
-da m ⁺susyatax
+m ⁺susyatax da
 davə
 har
 ⁺xarxərri
@@ -184249,7 +184249,7 @@ yala
 yavvax
 mən malcət
 čin
-čin ma
+ma čin
 yala
 ʾannə
 məttəlyay
@@ -184259,7 +184259,7 @@ huk̭yena
 ʾana
 cullə
 ⁺šmiten
-tanuyra ⁺ʾal
+⁺ʾal tanuyra
 bratənva
 ʾatxa
 surṱa
@@ -184269,7 +184269,7 @@ babu
 mara
 malcət
 čin
-čin ma
+ma čin
 bruna
 tac̭
 bruna
@@ -184298,13 +184298,13 @@ mənni
 ʾazax
 ⁺ṱavvax
 ʾicət
-ɟu dəm məndit
+məndit ɟu dəm
 suysi
 clilə
 k̭am ⁺tarra dəm
 ʾana
 ⁺orən ṱ
-do beta ɟu
+beta ɟu do
 mara
 ⁺spay
 vazzər
@@ -184320,7 +184320,7 @@ yala
 ⁺raba
 məndiyay
 ⁺bəxdarəna
-xa mdita ɟu
+xa ɟu mdita
 ⁺varəna
 suysa
 bəcla
@@ -184341,7 +184341,7 @@ riɟavay
 ʾitən
 mara
 xa xušun
-⁺ʾaġayoxun k̭a
+k̭a ⁺ʾaġayoxun
 tanimun
 k̭abulə
 k̭abli p̂
@@ -184372,7 +184372,7 @@ zənga
 zəng
 davə
 bətpaxəna
-⁺susyato m
+m ⁺susyato
 k̭a
 vazzər
 hənna
@@ -184413,7 +184413,7 @@ bratoxun
 xoši
 titəla
 ʾana da
-brun malcən
+malcən brun
 ʾana da
 len
 tlik̭a
@@ -184433,7 +184433,7 @@ honana
 brun malca
 mara
 sapi
-ʾati xuš
+xuš ʾati
 babux
 yəmmux
 bitayəna
@@ -184444,7 +184444,7 @@ vadəna
 ⁺xluyla
 ⁺šavva
 lelavay
-ʾa sapar
+sapar ʾa
 lablila
 lab yala
 ⁺tama
@@ -184480,12 +184480,12 @@ k̭at
 ʾavvo
 yala
 ɟoralə
-brat ʾaxuno
+ʾaxuno brat
 ⁺byayəla
 ɟano brat
 ⁺šadrala
 ⁺byayəla
-riš da brata
+da brata riš
 ⁺ʾaxlalə
 ⁺sadda
 b məlxa
@@ -184495,11 +184495,11 @@ mattuvvona
 ⁺šadurona
 ʾayya
 mattuvvona
-⁺fayṱun ɟu
+ɟu ⁺fayṱun
 yalə
-xa ⁺fayṱun ɟu
+xa ɟu ⁺fayṱun
 xita
-k̭ošun la
+la k̭ošun
 xina
 riša
 lətla
@@ -184508,7 +184508,7 @@ lətla
 bərrəššəna
 cəs calu
 man
-b yatəv
+yatəv b
 ʾanto
 mən brat
 ʾanto
@@ -184541,7 +184541,7 @@ cadə
 mara
 k̭am
 ʾatxa
-ina ⁺šor
+⁺šor ina
 mara
 yəmmax
 pitela
@@ -184558,7 +184558,7 @@ xa
 ʾannə
 miyya
 yavena
-b ⁺ʾaynə
+⁺ʾaynə b
 xa ⁺ʾayno
 ⁺paluṱola
 yavola
@@ -184568,7 +184568,7 @@ brata
 bək̭yadəla
 bəšk̭alola
 mattuvvola
-ɟu jibo
+jibo ɟu
 ⁺ʾantu
 vay
 bək̭yadən
@@ -184579,13 +184579,13 @@ k̭ədli
 mara
 ʾe
 ⁺ʾaynax
-da xita
+xita da
 ⁺paləṱla
 ʾe
 ⁺ʾayno
-da xita
+xita da
 mattuvvola
-ɟu jibo
+jibo ɟu
 vayəla
 c̭urə
 nixunta
@@ -184601,10 +184601,10 @@ xa
 mən hənna
 ⁺fayṱun
 ⁺rappuvvola
-šak̭ita ɟu
+ɟu šak̭ita
 brato
-ʾe buk̭eṱ
-da vardə
+buk̭eṱ ʾe
+vardə da
 mattuvvəla
 brato k̭am
 ʾaxči
@@ -184622,7 +184622,7 @@ mən da
 brata
 k̭əzza
 k̭əzzo
-da ɟu
+ɟu da
 šak̭ita
 xa
 naša
@@ -184631,8 +184631,8 @@ naša
 ʾəšta
 bnatə
 c̭uriyyə
-atə c
-cut yum
+c atə
+yum cut
 moriša
 ⁺tama
 k̭esa
@@ -184645,14 +184645,14 @@ labəl
 laxma
 ɟašuk̭ələ
 xa mənne
-har k̭alu
+k̭alu har
 bitayələ
 ʾa
 ʾa
 ʾa
 mara
-mu ila
-mu ila
+ila mu
+ila mu
 vita
 k̭a diyyax
 mara
@@ -184662,11 +184662,11 @@ mara
 našəvən
 mara
 ⁺mamuvət
-de ʾurzet
+ʾurzet de
 labəlli
 mənni
 xer
-b xazzət
+xazzət b
 brati
 k̭am
 ʾatxa
@@ -184676,13 +184676,13 @@ mara
 ⁺pulṱena
 brati
 ʾətli
-danə ʾəšta
+ʾəšta danə
 c̭uriyyə
-k̭a da diyyax
+k̭a diyyax da
 lablən
 ⁺šavva
 ʾana
-mu tahar
+tahar mu
 xamənnoxun
 ⁺mamu
 mara
@@ -184693,23 +184693,23 @@ cma
 davə
 ʾitən
 ʾana
-diyyux k̭a
+k̭a diyyux
 xer
 b yavvan
 ʾana
-diyyux k̭a
+k̭a diyyux
 ⁺raba
 maġġəbban
 ʾatxa
 ʾannə
 buk̭eṱ vardə
-har lablət
+lablət har
 zabnəttun
 ʾannə
 davə
 zabnəttun
 bnatux da
-b xaməttun
+xaməttun b
 yala
 mara
 deystvityelna
@@ -184764,7 +184764,7 @@ diyyi
 ⁺ʾanti
 ⁺puləṱtela
 cəslola
-ʾen ⁺ʾayni
+⁺ʾayni ʾen
 balcət
 mayyəttun
 ⁺ʾamman
@@ -184775,9 +184775,9 @@ lublona
 pacurol har
 lela
 bədma
-de brata ⁺ʾal
+⁺ʾal brata de
 ʾannə
-da vardə
+vardə da
 ⁺č̭mič̭əna
 ɟašuk̭ələ
 nu
@@ -184817,9 +184817,9 @@ neynen
 dersin
 mara
 yuzinnen
-bi ⁺ʾaynə
+⁺ʾaynə bi
 yuzinnen
-⁺hošarə lišan
+lišan ⁺hošarə
 let
 ʾatən ⁺bədda
 le
@@ -184827,7 +184827,7 @@ yaṱtət
 mara
 zabunən
 vardə
-mu bi
+bi mu
 zabunət
 mara
 ʾana
@@ -184851,7 +184851,7 @@ mara
 ʾətli
 ʾayna
 ʾadiyya
-b yavənnux
+yavənnux b
 ⁺paluṱolə
 xa ⁺ʾayna
 yavolə
@@ -184878,7 +184878,7 @@ bitayələ
 ⁺ʾayna
 mavolə
 mara
-ɟanux ba
+ba ɟanux
 basma
 babi
 mara
@@ -184892,9 +184892,9 @@ xa
 ⁺č̭mič̭əna
 šk̭ul
 xa
-da k̭arzink̭a
+k̭arzink̭a da
 labəlla
-ʾe ⁺ʾayna
+⁺ʾayna ʾe
 xita
 mela
 bərrəššələ
@@ -184908,18 +184908,18 @@ satıram
 mara
 neynen
 dersin
-mu bi
+bi mu
 yavevət
 vardə
 zabunən
-mu bi
+bi mu
 yavet
 mara
 yuzinnen
-b ⁺ʾaynə
+⁺ʾaynə b
 ʾe
 ⁺ʾayna
-da xita
+xita da
 bəšk̭alolə
 bitayələ
 ʾaha
@@ -184953,7 +184953,7 @@ duz
 mattattun
 k̭at
 čaš
-ʾoyat la
+la ʾoyat
 ʾaha
 bəšk̭aləla
 mattuvvela
@@ -184973,8 +184973,8 @@ mara
 mu
 ʾitən
 mara
-sava k̭a
-ʾana mara
+k̭a sava
+mara ʾana
 xina
 la
 cli
@@ -184989,9 +184989,9 @@ hənna
 vadəla
 rišo
 bəsrak̭ula
-⁺ʾəsra ɟa
+ɟa ⁺ʾəsra
 ɟəxcəla
-ʾəmma ɟa
+ɟa ʾəmma
 ɟəxcəla
 ʾa
 ɟruš
@@ -185001,11 +185001,11 @@ bəsrak̭ula
 bətvay
 bədrayəla
 riɟavay
-povar ə
+ə povar
 xaliyyə
 mən
 ⁺ʾultux
-⁺ʾal ⁺ʾullul
+⁺ʾullul ⁺ʾal
 cullə
 cullə
 ʾannə
@@ -185036,9 +185036,9 @@ mu
 mara
 cullə
 malcavay
-b ⁺k̭arəttun
+⁺k̭arəttun b
 ʾarxa
-cma t
+t cma
 ʾət
 malcavay
 ⁺ʾax
@@ -185046,11 +185046,11 @@ babo
 yəmmo da
 malcəna
 mu
-cma t
+t cma
 ʾət
 malcavay
 cullə
-b ⁺k̭arəttun
+⁺k̭arəttun b
 ʾarxa
 ʾayya
 ⁺byayəla
@@ -185074,7 +185074,7 @@ xa
 malvašta
 mulvəštela
 ʾeni
-povar ə
+ə povar
 xa
 malvašta
 mulvəštela
@@ -185084,7 +185084,7 @@ pərpirəna
 yunayəna
 cullə
 parpurəna
-daratu ɟu
+ɟu daratu
 šəcla
 daratu
 videna
@@ -185115,17 +185115,17 @@ ido p̂
 fruk̭ṱ
 ʾaxči
 marəla
-ʾe ⁺dan
+⁺dan ʾe
 sini
 bəšk̭aləla
 ido p̂
-ʾe ⁺dan
+⁺dan ʾe
 lela
 ⁺vara
-da ⁺ṱlibo
+⁺ṱlibo da
 ⁺tama
 tivələ
-ʾe ⁺dan
+⁺dan ʾe
 lela
 ⁺vara
 ɟəxcəla
@@ -185138,7 +185138,7 @@ bətpaxa
 ⁺ṱlibo
 hušu
 bəššəla
-axxa m
+m axxa
 ⁺tammo ⁺ʾal
 bənpalələ
 hi
@@ -185167,8 +185167,8 @@ huše
 bitayəla
 b riše
 marani
-mu ila
-mu ila
+ila mu
+ila mu
 hal
 na dir
 ⁺ʾantu
@@ -185205,13 +185205,13 @@ dax
 b yavvənna
 mara
 ba
-mu ʾodax
-axxa m
+ʾodax mu
+m axxa
 hal
 betux
 cullə
-b fayṱon
-b lablət
+fayṱon b
+lablət b
 ⁺xluyla
 p̂ṱ odət
 ⁺šavva
@@ -185226,7 +185226,7 @@ p̂ṱ odət
 taza
 p̂ṱ odət
 ⁺xluyla
-b lablətta
+lablətta b
 ⁺šavva
 yumanə
 ⁺šavva
@@ -185242,10 +185242,10 @@ xabuyšə
 ⁺k̭uxə
 ⁺k̭uxə
 npəllun
-⁺maryana k̭a
-diyyux k̭a
+k̭a ⁺maryana
+k̭a diyyux
 k̭a ʾedo
-k̭a cullan
+cullan k̭a
 xa yuma
 ⁺malla
 ⁺məryəva
@@ -185255,18 +185255,18 @@ xərba
 xərba
 ⁺məryəva
 bitayəva
-matva k̭at
-k̭a baxtu
+k̭at matva
+baxtu k̭a
 marələ
-jɑn ayɑl
-jɑn ayɑl
+ayɑl jɑn
+ayɑl jɑn
 ⁺yanə
 ⁺baxti
 ⁺xlita
-jɑn ayɑl
+ayɑl jɑn
 farsət lišan
 mara
-k̭u xuš
+xuš k̭u
 cullə
 jullax ʾan
 šap̂irə
@@ -185276,7 +185276,7 @@ mxi
 ʾu
 ɟanax
 šap̂rənna
-k̭u ta
+ta k̭u
 tuy
 xut riši
 ʾana
@@ -185285,7 +185285,7 @@ mara
 it k̭amu
 ʾatxa
 mara
-naše k̭at
+k̭at naše
 masxərri
 biyyi
 tani
@@ -185340,7 +185340,7 @@ tmanyammo
 ʾəsri
 tmanya
 bərrak̭əna
-mən ⁺hošaruyta
+⁺hošaruyta mən
 ⁺tmanəssar
 batə
 ⁺varəna
@@ -185359,7 +185359,7 @@ tre
 šənnə
 pyašəna
 ɟašuk̭əna
-da ɟu
+ɟu da
 meša
 ⁺roba
 dəbbabə
@@ -185410,7 +185410,7 @@ la
 xazzax
 mu
 vadəx
-mən ⁺tama
+⁺tama mən
 ⁺bəddarəna
 ⁺tmanəssar
 batə
@@ -185438,7 +185438,7 @@ xumyəna
 k̭ošunət
 ⁺ʾurusnay
 vitəla
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 baba
 savət
 diyyan
@@ -185482,7 +185482,7 @@ dana
 ⁺k̭alla
 k̭amta
 ⁺hošarə
-mən ʾarəmnay
+ʾarəmnay mən
 ⁺p̂alšiva ci
 ʾitar
 ⁺k̭alla
@@ -185499,7 +185499,7 @@ pyašəna
 laxxa
 mara
 laxxa
-ila jəns
+jəns ila
 dəpnət
 ⁺k̭alla
 ⁺hošarə
@@ -185508,8 +185508,8 @@ vayələ
 ɟor
 ɟorət
 ⁺hošarə
-da laxxa
-da ɟu
+laxxa da
+ɟu da
 tsentr ət
 diyyan
 ʾicət
@@ -185532,7 +185532,7 @@ marəx
 lena
 ⁺mumməddə
 ʾaxnan
-⁺k̭uravayə bat
+bat ⁺k̭uravayə
 marəx
 məllattət
 diyyan
@@ -185543,12 +185543,12 @@ diyyan
 lela
 ⁺mamməddə
 max
-de t diyyan
+t diyyan de
 ʾay
-dani k̭a
+k̭a dani
 marəna
 ɟor
-k̭uravay bat
+bat k̭uravay
 lena
 mara
 ʾannə
@@ -185581,18 +185581,18 @@ babu
 k̭at
 hammanuyta
 viyyələ
-⁺jamahat ɟu
+ɟu ⁺jamahat
 tanuvva
 xina
-babu k̭a
+k̭a babu
 ⁺k̭ṱiləna
-k̭a baxtu
+baxtu k̭a
 mirəna
 ʾanɟa
 ʾat da
 b ʾurxət
 ⁺ɟorax
-ṱ azatən
+azatən ṱ
 brunux
 k̭am
 ⁺ʾaynax
@@ -185636,7 +185636,7 @@ bəšk̭aləna
 k̭a yala
 sura
 xarbusuna
-⁺al m pallacanə
+m ⁺al pallacanə
 candurə
 candurələ
 bitayələ
@@ -185658,8 +185658,8 @@ mu ina
 mujja
 ⁺deran
 ⁺baray
-hammanuyta mən
-k̭a da day
+mən hammanuyta
+k̭a day da
 ⁺ʾallu
 ⁺bək̭ṱaləna
 ʾadiyya
@@ -185678,7 +185678,7 @@ bi
 ʾiyyul
 ʾəsri
 tmanya
-b yarxa
+yarxa b
 ʾaxnan
 ʾo
 yuma
@@ -185719,13 +185719,13 @@ yacca
 ⁺ṱurəslan
 ⁺ʾav da
 ʾitən
-⁺dav k̭a da
+k̭a ⁺dav da
 ɟašuk̭ən
 ʾadiyya
 ʾitar
 laxxa
 pyašəna
-axxa m
+m axxa
 ⁺varəla
 šənnə
 šabay
@@ -185818,8 +185818,8 @@ vayələ
 ⁺roba
 ʾatxa
 k̭ašə
-lə viyyan
-cul prak̭ta m
+viyyan lə
+m cul prak̭ta
 vayələ
 k̭aša
 mixayəl
@@ -185857,7 +185857,7 @@ aksor
 videlun
 dax
 tanaxən
-ət p̂alk̭onik̭
+p̂alk̭onik̭ ət
 diyyan
 ⁺rabi
 ⁺bark̭araxan
@@ -185980,7 +185980,7 @@ mərrə
 man
 ʾicət
 bəxxayəl
-lišana ʾo
+ʾo lišana
 ɟar
 ⁺yaṱṱilə
 ʾaxnan
@@ -186006,7 +186006,7 @@ lišanət
 laxxa
 dax
 pyašəxva
-⁺hayəstan ɟu
+ɟu ⁺hayəstan
 xa
 dars
 vadəx
@@ -186036,7 +186036,7 @@ taxmənnini
 bi
 xa
 məndi
-cut xa
+xa cut
 basət
 ɟanu
 taxmunələ
@@ -186054,12 +186054,12 @@ bitayəna
 ʾe
 cmayutət
 ⁺ʾaturayə
-har ⁺tama
+⁺tama har
 pyašəla
-ʾe danət
+danət ʾe
 k̭urəš
 bitayələ
-ʾe danət
+danət ʾe
 ʾani
 bitayəna
 ⁺varəna
@@ -186080,7 +186080,7 @@ b mšixa
 marəna
 tre mənne
 ʾiva
-mən ʾurmi
+ʾurmi mən
 xa mənne
 ʾiva
 mən ⁺maraġa
@@ -186112,16 +186112,16 @@ k̭aṱ ila
 tuma
 ʾiman
 bitayələ
-⁺ʾal ʾurhey
-mən ⁺tama
+ʾurhey ⁺ʾal
+⁺tama mən
 bitayələ
 ʾurmi ⁺ʾal
 bitayələ
-⁺mušava ⁺ʾal
+⁺ʾal ⁺mušava
 bitayələ
-ɟu yamət
+yamət ɟu
 ʾurmi
-ci ⁺k̭arilə
+⁺k̭arilə ci
 šəlxət
 yamatə
 ⁺mar
@@ -186161,12 +186161,12 @@ bəxzayəx
 ⁺raba
 bitayələ
 ʾurmi
-ʾu cullə
+cullə ʾu
 našə
 k̭abuluna
 b šena
 bas
-ʾan t
+t ʾan
 k̭ubluna
 b šena
 ʾiva
@@ -186179,13 +186179,13 @@ k̭at
 ⁺ʾaturayə
 b ⁺danət
 mšixa
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 ʾurmi ɟu
 ⁺mar sab
 tuma
 bne
 ʾurhey
-mabyunə ʾət
+ʾət mabyunə
 ʾətvalun
 ⁺xabra
 mən dan ⁺ʾaturayə
@@ -186196,11 +186196,11 @@ xuš
 ʾurmi ɟu
 ʾətlan
 našə
-⁺zdi la
+la ⁺zdi
 xuš
-dani ɟu
+ɟu dani
 ⁺macrəz
-ʾan ʾu
+ʾu ʾan
 ⁺ʾaturayət
 ʾurmi
 ⁺ʾumrət
@@ -186221,19 +186221,19 @@ xa
 mən dan ⁺ʾumranə
 ʾatik̭ət
 mšixayuta
-mu k̭a
+k̭a mu
 ⁺ʾumra
 matrusəna
 ⁺tama
-mu k̭a
+k̭a mu
 lena
 ⁺matrusə
 xa ɟu
 matət
 ⁺supurġan
 yan
-xa mata ɟu
-mən sabab
+xa ɟu mata
+sabab mən
 ʾətvalun
 xa
 taxmanta
@@ -186263,7 +186263,7 @@ k̭at
 ⁺ʾumra
 matti
 sab
-ʾalahələ bet
+bet ʾalahələ
 but
 dayya
 tiyyəna
@@ -186275,10 +186275,10 @@ k̭at
 ʾa
 beta
 ci zaġdivalə
-mən k̭am
+k̭am mən
 diyyan
 ⁺dorət
-mən k̭am
+k̭am mən
 diyyan
 balcət
 xamšamma
@@ -186295,26 +186295,26 @@ zarduštayə
 duna
 ⁺ruppə
 xišə
-axxa m
+m axxa
 ʾaha
 ⁺bəddayəx
 buš
-tamməz ila
+ila tamməz
 mən dan ducanə
 xinə
 bas ⁺ʾumran
 mattaxlə
 laxxa
 duz
-de ⁺ʾal
+⁺ʾal de
 ductət
 zġattət
 zarduštayə
 ⁺ʾumrət
-⁺maryam ⁺mat
+⁺mat ⁺maryam
 ʾo
 k̭amaya
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 pyašələ k̭at
 bənya
 ʾiva
@@ -186339,52 +186339,52 @@ našə
 b ⁺danət
 mšixayuta
 bitayəx
-ʾalpa šənnə
+šənnə ʾalpa
 l a yba
 xina
 bəxzayəx
-⁺supurġan ɟu
+ɟu ⁺supurġan
 xacma ɟu
 mən matvatə
 ʾəttən
 ʾalpo
-ʾəmma šənnə
+šənnə ʾəmma
 cipət
 bət ⁺k̭uravatə
-xacma ʾu ɟu
+xacma ɟu ʾu
 ⁺ʾumranə
 bəxzayəx
 cipa
 ⁺bəddayuna
 ⁺bəddayəna
-ʾaha k̭at
+k̭at ʾaha
 b ⁺pəllan
 ⁺dana
 pišələ
 zurza
 bas
 ɟu ʾalpo
-ʾəmma šənnə
+šənnə ʾəmma
 mən ⁺bar
 mšixa
 ʾalpa
-⁺əč̭č̭amma šənnə
+šənnə ⁺əč̭č̭amma
 mən ⁺bar
 mšixa
 bəxzayəx
 ʾəttən
 nišank̭ət
 ʾurmi ɟu
-k̭at ʾətva
+ʾətva k̭at
 mšixayə
 ⁺ʾaturayə
 vadəna
 mšixayə
-mən zə zarduštayə
+zarduštayə mən zə
 ⁺maddurəna
 ʾina
 bəxzayəx
-dan ⁺ʾumranə ⁺ʾal
+⁺ʾumranə dan ⁺ʾal
 nišank̭ət
 ctəvtət
 ⁺ʾaturayə
@@ -186395,7 +186395,7 @@ pahlavi
 bas
 ʾən
 ʾila
-ʾət ⁺ʾaturayə
+⁺ʾaturayə ʾət
 bas
 ⁺ʾaturaya
 ctivolə
@@ -186454,7 +186454,7 @@ suryoyo
 humzəmlun
 b turcət
 ʾup
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 k̭a ⁺ʾaturayə
 la
 švək̭lun
@@ -186467,7 +186467,7 @@ lišana
 ⁺raba
 la ⁺msilun
 hamzəmmiva
-⁺xlulane ɟu
+ɟu ⁺xlulane
 la ⁺msilun
 b lišanət
 ɟanan
@@ -186504,16 +186504,16 @@ malcavatət
 k̭amta
 ⁺šapur
 tre
-da ʾu xač̭č̭a
+ʾu xač̭č̭a da
 la yba
 ⁺xarta
 ⁺zlumya
 cəlyələ
 sab
-⁺danət ɟu
+ɟu ⁺danət
 ⁺harun
-ʾar rašid
-ʾu brunu
+rašid ʾar
+brunu ʾu
 k̭at
 ʾiva
 mən
@@ -186550,7 +186550,7 @@ empire
 viyyələ
 ⁺zlumya
 ʾina
-de ɟu
+ɟu de
 pipalɟa
 ⁺šavvamma
 tmanyamma
@@ -186559,7 +186559,7 @@ tmanyamma
 viyyəvax
 ⁺raba
 ⁺rahat
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 xiyyə
 xiyyəvax
 ⁺ʾam zarduštayə
@@ -186567,7 +186567,7 @@ xiyyəvax
 mšixayə ʾax
 ʾina
 la
-har zarduštayə
+zarduštayə har
 xina
 tila
 ⁺ʾiran
@@ -186602,15 +186602,15 @@ buš
 ⁺bilun
 xela
 muttilun
-malcət ⁺ʾal
+⁺ʾal malcət
 ʾiran
 ⁺reza ⁺šah
 k̭at
-zə ⁺ʾiran
+⁺ʾiran zə
 ʾoyava
 mənne
 xa
-mu k̭a
+k̭a mu
 k̭at
 la
 šok̭iva
@@ -186621,29 +186621,29 @@ la
 ⁺bəxdara
 ʾannə zə
 ⁺dilun
-mən k̭am
+k̭am mən
 ⁺dana
 tilun
 xzilun
 ʾiran
 ʾila
-ʾe ductət
+ductət ʾe
 k̭at
 ɟarəc
 la
-mən ⁺tama
+⁺tama mən
 ⁺hayyarta
 ⁺maṱya
-⁺rusya k̭a
+k̭a ⁺rusya
 tilun
 ʾalbal
 ʾida
 muttilun
-⁺ʾiran ⁺ʾal
+⁺ʾal ⁺ʾiran
 šk̭ilalun
-zə ⁺ʾiran
+⁺ʾiran zə
 ʾila
-ʾe ductət
+ductət ʾe
 ʾe
 ɟəšra
 k̭at
@@ -186660,7 +186660,7 @@ tilun
 k̭a⁺ʾaturayə
 k̭at
 ⁺p̂alši
-zə ⁺ʾaturayə
+⁺ʾaturayə zə
 dəžmənne
 vilun
 ⁺raba
@@ -186671,7 +186671,7 @@ marzanane ʾu
 cullə
 ʾiva
 məššəlmanə
-ʾiman t
+t ʾiman
 ⁺rusya
 ⁺dərra
 ʾiman
@@ -186685,7 +186685,7 @@ prək̭lan
 mən da
 ductət
 ⁺ʾiran
-xina lətlan
+lətlan xina
 ⁺šula
 ʾadiyya
 ʾazax
@@ -186712,10 +186712,10 @@ la
 ʾannə
 ⁺ʾaširattə
 k̭emi
-ɟane k̭a
+k̭a ɟane
 ⁺ʾaširattət
 ʾarabayə
-de ɟu
+ɟu de
 ⁺dana
 ʾumtət
 diyyan
@@ -186724,32 +186724,32 @@ b nošo
 majbur
 vila
 ʾumtət
-zə diyyan
+diyyan zə
 ⁺rxəṱla
 ʾənɟləznayə ⁺bar
-xəšla ʾu
-⁺hamadan ⁺ʾal
+ʾu xəšla
+⁺ʾal ⁺hamadan
 ⁺tama
 xa
 same
 pəšlun
 xa
-zə sama
+sama zə
 ʾurxe ɟu
 ⁺cərmanšah
 pəšlun
-ʾu ʾətva
+ʾətva ʾu
 ʾənɟləznayə
 mənne
 mərrun k̭at
-b lablaxloxun
+lablaxloxun b
 ⁺bak̭uba ⁺ʾal
 xa ʾu
 sama
-zə ⁺ɟura
+⁺ɟura zə
 vərrun
 ⁺bak̭uba ɟu
-da ɟu
+ɟu da
 ʾurxa
 xa
 mənyana
@@ -186757,17 +186757,17 @@ mənyana
 ⁺ʾaturayə
 pəšlə
 xiša
-⁺ʾara mən
+mən ⁺ʾara
 ⁺danət ʾe
 ⁺mṱayəna
-zə ʾirak̭ ɟu
+ʾirak̭ ɟu zə
 ⁺duraša
 vadəna
-mən t ⁺bar
+t mən ⁺bar
 ⁺k̭aṱk̭uṱəna
 xa
 sama
-⁺ʾaturayət mən
+mən ⁺ʾaturayət
 haccarə
 le
 ⁺bayyi
@@ -186775,13 +186775,13 @@ le
 yavvilun
 xa
 sama
-⁺ʾaturayət mən
+mən ⁺ʾaturayət
 haccarə
 vilun
 mən
 ⁺faysal
 ⁺yanə
-mən ⁺ʾirak̭
+⁺ʾirak̭ mən
 mən do
 hucma
 xatət
@@ -186796,8 +186796,8 @@ b noše
 ⁺ʾaturayət
 ⁺ʾiran
 mərrun
-b ⁺derax
-ʾiman t
+⁺derax b
+t ʾiman
 ⁺dərrun
 tilun
 ʾurmi
@@ -186817,12 +186817,12 @@ xina
 viyyəna
 communist
 tilun
-⁺dana xa da
+xa ⁺dana da
 k̭urbabət
 ⁺p̂lašət
 tre
 ⁺vərrun
-⁺ʾiran ɟu
+ɟu ⁺ʾiran
 ⁺tama
 xa
 jvuja
@@ -186848,7 +186848,7 @@ samət
 ⁺ʾazarbayjan
 b šak̭laxlə
 mən ⁺ʾiran
-zə balcət
+balcət zə
 cullə
 ⁺ʾiran
 šak̭laxla
@@ -186863,24 +186863,24 @@ vilun
 k̭at
 ⁺ʾamme
 bəxxayəva
-dəštət har ɟu
+dəštət ɟu har
 ʾurmi
 vilun
 ⁺ʾamma
 ⁺ʾamme
 ʾiman
-ʾa məndi zə
+ʾa zə məndi
 la
 muntilə
 m sabab
 ʾamricayə
 ⁺huyyərrun
-malcət k̭a
+k̭a malcət
 ⁺ʾiran
 ⁺ʾurusnayə zə
 la
 ⁺huyyərrun
-dan k̭a
+k̭a dan
 turcayət
 ʾurmi
 mədrə
@@ -186888,7 +186888,7 @@ mədrə
 pəšlun
 xut
 ⁺zlumyə
-mu k̭a
+k̭a mu
 m sabab
 məššəlmanə
 buš
@@ -186904,7 +186904,7 @@ xliṱəxva
 ʾalbal
 šuxləplun
 vilun
-malca m
+m malca
 xa
 ⁺ʾaturaya
 pəšlə
@@ -186913,13 +186913,13 @@ pəšlə
 nixa
 b nixa
 xina
-mən ʾurmi
+ʾurmi mən
 ⁺šurilun
 ⁺plaṱa
 sabab
 xele
 ⁺bsərrə
-zə ⁺ʾaturaya
+⁺ʾaturaya zə
 mayələ
 ʾaxči
 tre
@@ -186934,13 +186934,13 @@ tmanya
 k̭at
 ⁺hayyərrivalun
 ⁺ʾaccaruta ɟu
-ɟu ⁺zruta
+⁺zruta ɟu
 məššəlmana
 bəɟvarəva
 ⁺ṱla
 ⁺ʾarp̂a
 baxtatə
-b xa
+xa b
 mətxət ɟu
 ⁺ʾəsra
 šənnə
@@ -186950,11 +186950,11 @@ bas
 ⁺ʾaturaya
 la
 ⁺msilə
-da ɟu
+ɟu da
 bi
 mənyanu
 zadva
-pašva ʾu
+ʾu pašva
 ʾurmi ɟu
 ⁺naṱərvala
 ʾurmi
@@ -186966,23 +186966,23 @@ lətva
 ʾurmi ɟu
 ⁺šulanə
 pləṱlə
-mən ⁺tama
+⁺tama mən
 nixa
 b nixa
 baxta
 pəšla
 b nošo
-zə məššəlmanə
+məššəlmanə zə
 marzananə
 ⁺rabəna
 ⁺ɟora
 ⁺šurilə
 ⁺niɟaran
 va
-k̭a baxta
+baxta k̭a
 ctəvlə
 talax
-mdita ɟu
+ɟu mdita
 mən ⁺bar
 hada
 hal
@@ -186991,7 +186991,7 @@ cəsli
 cərmanša ɟu
 yan
 talax
-⁺ʾabadan ɟu
+ɟu ⁺ʾabadan
 yan
 talax
 ⁺teran ɟu
@@ -187004,7 +187004,7 @@ nixa
 nixa
 xəšla
 xa
-xina do ⁺ʾal
+xina ⁺ʾal do
 ɟuššək̭lun
 xəšlun
 ʾayyəva
@@ -187029,20 +187029,20 @@ samə
 xa
 sama
 ʾila
-ʾa ybət
+ybət ʾa
 ⁺sulduz
 yanə
 ʾila
 tayməna
 ⁺maʾərvaya
-ʾət yamta
+yamta ʾət
 yamtət
 ʾurmi
 xa mənne
 ʾila
 ɟano
 ʾurmi
-ʾe xita
+xita ʾe
 ʾila
 ⁺ɟarbiyya
 madənxeta
@@ -187071,10 +187071,10 @@ mənyanət
 našə
 xilə
 ɟu ⁺sulduz
-mu k̭a
+k̭a mu
 m sabab
 naravatət
-mən dannə
+dannə mən
 ⁺ṱuranə
 iva ṱ
 ⁺bəslaya
@@ -187095,7 +187095,7 @@ xilun ʾu
 ⁺tama
 ʾətva
 naravatə
-mən da ybət
+mən ybət da
 ⁺sulduz
 mən
 dannə
@@ -187117,7 +187117,7 @@ mən ⁺ṱuranət
 xač̭č̭a
 peša
 ⁺ʾural
-ʾan ət
+ət ʾan
 jilu
 ⁺bəslayəva
 yamta ɟu
@@ -187143,7 +187143,7 @@ k̭at
 tre
 matvatə
 ⁺ʾaturayə
-mən k̭am
+k̭am mən
 ⁺dana
 viyyan ilə
 buš
@@ -187161,7 +187161,7 @@ zəttəla
 ʾani
 ⁺zədyəna
 tiyyəna
-matvatə ɟu
+ɟu matvatə
 ɟurə
 xiyyəna
 yanə
@@ -187179,7 +187179,7 @@ dannə ɟu
 matvatət
 ʾurmi
 ⁺mṱayəna
-ʾəmmo ⁺ʾal
+⁺ʾal ʾəmmo
 tlay
 ʾəmmo
 ʾarp̂i
@@ -187187,19 +187187,19 @@ matvatə
 ʾina
 ɟu ʾalpo
 ⁺ʾəč̭č̭amma
-⁺tmanəssar ʾu
+ʾu ⁺tmanəssar
 pyašəna
 šavvi
 tre
 matvatə
-xayyiva ci
+ci xayyiva
 ʾaxči
 ⁺ʾaccaruta ⁺ʾal
 samət ʾu
 ⁺ɟarbiyya
-bəxxayəva k̭at
+k̭at bəxxayəva
 ⁺ṱuranə ɟu
-xayyiva ci
+ci xayyiva
 b ʾərbə
 ʾup
 k̭ənyanə
@@ -187216,12 +187216,12 @@ bušayute
 ʾətvalun
 ʾərbə
 cat
-mən dannə
+dannə mən
 ʾərbə
 b ⁺xalviva
-mən ⁺ʾamrət
+⁺ʾamrət mən
 ʾərbə
-b zabniva
+zabniva b
 ⁺carra
 ɟupta
 ʾatxa
@@ -187257,13 +187257,13 @@ k̭at
 məšməššə
 məšməššə
 mabrəzzivalun
-b zabnivalun
+zabnivalun b
 sab
 məšməšša
 hasanay
 mabruzona
-b ⁺xarta
-mən dannə
+⁺xarta b
+dannə mən
 xabušə
 ⁺camutrə
 ʾən
@@ -187272,39 +187272,39 @@ xabušə
 ʾən
 ʾaviva
 snik̭ə
-b zabniva
+zabniva b
 ʾən
 la
-b xamivalun
-ɟane k̭a
-zə ʾani
+xamivalun b
+k̭a ɟane
+ʾani zə
 ci mabrəzzivalun
 k̭at
-sətve k̭a
+k̭a sətve
 pešiva
 ⁺k̭axə
-⁺k̭arivalun ci
+ci ⁺k̭arivalun
 ⁺k̭axə
 yanə
 ⁺k̭aṱkəṱṱivalə
 ⁺xabuša
 mabrəzzivalə
-k̭am šəmša
-b xamivalə
+šəmša k̭am
+xamivalə b
 k̭a sətva
 ʾadi
 ʾətvalun
 ⁺ʾanvə
 ⁺ʾanvə
-p̂ṱ odiva
+odiva p̂ṱ
 cəšmišə
-p̂ṱ odiva
+odiva p̂ṱ
 savza
 odiva ṱ
 nipuxta
 odiva ṱ
 ⁺xamra
-p̂ṱ odiva ʾu
+odiva p̂ṱ ʾu
 tluvvə
 mədrə
 k̭a sətva
@@ -187312,7 +187312,7 @@ tluvvə
 ʾətvalun
 yanə
 ⁺ʾanvə
-b xamivalun
+xamivalun b
 xa ɟu
 ⁺hava
 xač̭č̭a
@@ -187348,16 +187348,16 @@ xamša yarxə
 k̭eṱa ɟu
 ⁺zarriva bət
 mən ⁺cərṱopə
-mən ⁺buslə
-mən səlk̭a
+⁺buslə mən
+səlk̭a mən
 cul
 xa məndi
-ʾət snik̭əva
-iva ⁺lazəm
+snik̭əva ʾət
+⁺lazəm iva
 ⁺jammivalə
 k̭a sətva
 ʾup
-k̭ənyanə k̭a
+k̭a k̭ənyanə
 ⁺jammiva
 ɟəlla
 ⁺jammiva
@@ -187367,7 +187367,7 @@ xəṱṱət
 ⁺xazdivalun
 ⁺k̭aṱkəṱṱivalun
 xəṱṱə
-ɟane k̭a
+k̭a ɟane
 tuyne
 k̭a kənyanə
 ⁺ʾav
@@ -187376,7 +187376,7 @@ tuyna
 šəmmu
 ⁺ʾav
 xamivalə
-mən ɟəlla
+ɟəlla mən
 m ⁺uydalə
 maxivalə bət
 ɟu
@@ -187384,7 +187384,7 @@ mulavatə ɟu
 b ⁺naṱrivalə
 k̭a sətva
 k̭at yavviva
-k̭ənyanə k̭a
+k̭a k̭ənyanə
 sabab
 k̭ənyanə
 ⁺jarbiva
@@ -187392,7 +187392,7 @@ xamivalun
 hal
 xamša
 yarxə
-zə balcət
+balcət zə
 ʾəšta
 yarxə
 dəšta ɟu
@@ -187401,7 +187401,7 @@ dəšta ɟu
 ʾəšta yarxə
 xinə
 pešiva bət
-paɟa ɟu
+ɟu paɟa
 k̭at
 ʾavivalun
 ⁺mixulta
@@ -187409,12 +187409,12 @@ k̭ate
 ⁺ʾalma
 ⁺ʾaturaya
 ʾurmi ɟu
-mən k̭am
+k̭am mən
 ⁺p̂laša
 ⁺raba
 šənnə
 ʾalbatta
-mən k̭am
+k̭am mən
 ⁺p̂laša
 bi
 ʾalpo
@@ -187460,7 +187460,7 @@ mattuyəna
 madrasə
 k̭a dannə
 mšixayə
-nixa ʾu
+ʾu nixa
 b nixa
 ⁺ʾalmət
 diyyan
@@ -187472,7 +187472,7 @@ hal t
 ⁺p̂laša ʾo
 k̭amaya
 vayələ
-dan k̭a
+k̭a dan
 madrasə
 parpusəna
 ʾannə
@@ -187484,7 +187484,7 @@ mən ⁺fransa
 bitayəna
 mən england
 bitayəna
-america mən
+mən america
 bitayəna
 mən
 ⁺rusiyya
@@ -187502,10 +187502,10 @@ de
 taxmantət
 ɟanu
 ⁺bayyə
-mən dannə
+dannə mən
 mšixayə
 k̭anə
-ɟane k̭a
+k̭a ɟane
 ⁺tama
 xa
 prašta
@@ -187524,13 +187524,13 @@ yanə
 vilun
 prišə
 mən ⁺ʾudalə
-da ɟu
+ɟu da
 ⁺dana
 ʾətva
 ⁺duraša
 bilət
 community
-ʾət ⁺ʾaturayə
+⁺ʾaturayə ʾət
 xa
 mən xina do
 ⁺duraše
@@ -187583,28 +187583,28 @@ sabab
 vila
 ʾo
 xelət
-xina ⁺ʾaturayə
+⁺ʾaturayə xina
 ⁺bsərrə
 ʾay
 vila
 xa
 mən
-dan sababət
+sababət dan
 k̭at
 marzananət
 diyye
-ʾan məššəlmanə
+məššəlmanə ʾan
 xina
 ⁺šurilun
 bəxza
-ʾa k̭at
+k̭at ʾa
 məllat
 ila zabbun
 lela
 ⁺raba
 xelanta
 k̭amta
-ci ⁺zadiva
+⁺zadiva ci
 mənno
 ʾina
 ʾadi
@@ -187613,7 +187613,7 @@ xina
 la
 ⁺bəzda
 mənno
-zvanta ɟu
+ɟu zvanta
 zabanta zə
 ⁺raba
 ⁺car
@@ -187632,16 +187632,16 @@ k̭atulik̭ayə
 bəzvanəva
 xa
 sama
-mən məššəlmanə
+məššəlmanə mən
 k̭at
 ʾiva
-ʾamricayə mən
+mən ʾamricayə
 xa
 ⁺raba buš
 mən ʾumranət
 ʾivanɟalayə
 yan
-ʾan našət
+našət ʾan
 k̭at
 ʾiva
 mən prəsbətrayə
@@ -187679,7 +187679,7 @@ xina
 xuyada
 ⁺yəssurət
 k̭at
-⁺udalə m
+m ⁺udalə
 palxiva
 ⁺k̭ṱilə
 xayyute
@@ -187687,7 +187687,7 @@ xayyute
 nixa
 nixa
 bəxrava
-mdita ɟu
+ɟu mdita
 b ⁺danət
 k̭at
 məššinerə
@@ -187706,7 +187706,7 @@ l america
 ⁺bədyarəva
 haccimə
 vayəva
-⁺spay iva
+iva ⁺spay
 yanə
 k̭a do
 mətxa
@@ -187717,7 +187717,7 @@ b do
 yulpane
 ʾətvalan
 ⁺madrašyatə
-dan ɟu ⁺madrašyatə
+⁺madrašyatə ɟu dan
 ⁺rabiyyət
 yan
 ⁺rabiyyatət
@@ -187730,7 +187730,7 @@ tanax
 ʾən
 duccana
 ʾoyava
-xa k̭a
+k̭a xa
 zabanta
 zvanta
 zabanta
@@ -187757,12 +187757,12 @@ yan
 ⁺tarsiva
 marɟəlyatə
 hajattə
-bašalta k̭a
+k̭a bašalta
 ʾani
 buš
 raba
 məššəlmanə
-p̂ṱ odivalun
+odivalun p̂ṱ
 ⁺ʾalmət
 diyyan
 našət
@@ -187795,10 +187795,10 @@ sabza
 ʾani
 hamzumən
 ʾaxči
-ʾan t
+t ʾan
 mdita
 xa ʾu
-zə mənyana
+mənyana zə
 ⁺raba
 sura
 viyyələ
@@ -187821,7 +187821,7 @@ viduna
 xač̭č̭a
 našə
 viyyan ilə
-ʾavilun k̭at
+k̭at ʾavilun
 restaurant
 yanə
 ductət
@@ -187859,7 +187859,7 @@ ducta
 ʾətva
 xacma
 duccanə
-⁺k̭arivalun ci
+ci ⁺k̭arivalun
 ⁺musafər
 ⁺xana
 ʾayən
@@ -187868,7 +187868,7 @@ duccanə
 xa
 ductət
 k̭at
-k̭a xacma
+xacma k̭a
 ⁺saʾattə
 ʾe
 ⁺ʾatnabəl
@@ -187884,17 +187884,17 @@ xacma
 ⁺saʾattə
 azava ṱ
 yan
-yumu do ⁺ʾal
+⁺ʾal yumu do
 xina
 p̂ṱ azava
 ʾo
 naša
-pašva bət
-de ɟu
+bət pašva
+ɟu de
 ⁺musafər
 ⁺xana
 yan
-mən k̭am
+k̭am mən
 buses
 k̭at
 ʾativa
@@ -187920,13 +187920,13 @@ našə
 šavvi
 ɟanatə
 dmixəna
-xa ⁺ʾotaġ ɟu
+xa ɟu ⁺ʾotaġ
 ⁺ɟora
 baxta
 sava
 sota
 ʾita
-dayya k̭a but
+k̭a dayya but
 našət
 diyyan
 la
@@ -187973,7 +187973,7 @@ məndi
 bək̭nayuva
 ʾo
 ⁺ʾalmət
-mdita ɟu
+ɟu mdita
 ⁺ʾalmət
 matvatə
 ʾay
@@ -188001,18 +188001,18 @@ lela
 ⁺bayyət
 b ʾak̭la
 ʾazət
-mən xa ɟibo
-ɟibo do ⁺ʾal
+xa mən ɟibo
+⁺ʾal ɟibo do
 xina
 balcət
 ⁺masət
 ɟu
-ʾəsri ɟu
+ɟu ʾəsri
 dak̭ikə
 palɟət
 ⁺saʾat
 ⁺maṱət
-ɟibo do ⁺ʾal
+⁺ʾal ɟibo do
 xina
 ʾəm
 zulət
@@ -188026,7 +188026,7 @@ diyyan
 ⁺raba buš
 viyyəna
 ɟu
-⁺ɟarbiyyət ɟu
+ɟu ⁺ɟarbiyyət
 ʾurmi
 xa ʾu
 sama
@@ -188034,11 +188034,11 @@ sura
 viyyəna
 ɟu
 ⁺lap
-ɟibət ʾo
+ʾo ɟibət
 madənxa
 k̭at
 bərrəxšəla
-matvatə la
+la matvatə
 yanə
 samət ʾo
 k̭at
@@ -188048,11 +188048,11 @@ k̭at
 ⁺jadət
 k̭at
 bərrəxšəla
-matvatət la
+la matvatət
 tre
 naravatə
 ʾina
-ɟibət ⁺ʾal
+⁺ʾal ɟibət
 madənxət
 mditət
 ʾurmi
@@ -188064,16 +188064,16 @@ matvatə
 ʾe
 ʾurxət
 bərrəxšəva
-l ɟibət a
+l a ɟibət
 madənxa
-l ɟibət a
+l a ɟibət
 torəz
-l ʾu ɟibət a
+l a ʾu ɟibət
 dan
 matvatə
 xa
 samət
-zə našə
+našə zə
 ⁺ʾaturayə
 ʾətvalan
 ⁺tama
@@ -188099,7 +188099,7 @@ bi
 yan
 bi
 buses
-ṱ ativa
+ativa ṱ
 k̭urba
 ⁺tama
 ʾita
@@ -188128,12 +188128,12 @@ yanə
 ductət
 marət
 davəltəva
-ʾan našət
+našət ʾan
 buš
 ⁺ʾəllayət
 ʾurmi
 ⁺tama
-xayyiva ci
+ci xayyiva
 ⁺xarta
 ʾo
 sama
@@ -188156,7 +188156,7 @@ bušayutət
 ⁺ʾaturayə
 xa
 ducta
-xayyiva ci
+ci xayyiva
 batvate
 har
 ʾax
@@ -188173,7 +188173,7 @@ yanə
 bšəlta
 batvate
 ʾiva
-b čarpəc
+čarpəc b
 bšəlta
 darate
 ʾiva
@@ -188208,7 +188208,7 @@ məššəlmanə
 xa ⁺hammam
 ⁺raba
 šap̂ərta
-do ⁺ʾal
+⁺ʾal do
 rišət
 darta
 muttova
@@ -188224,7 +188224,7 @@ məššəlmanə
 ⁺raba
 buš
 šap̂ərta
-mən sabab
+sabab mən
 lipəva
 dax mərri
 lipəva
@@ -188257,15 +188257,15 @@ mən mata
 mayyivalun bət
 tluvvə
 mən mata
-mayyiva bət
-mata ɟu sab
+bət mayyiva
+ɟu mata sab
 cullə
 ʾannə
 našət
 bəxxayəva
-mdita ɟu
+ɟu mdita
 yan
-mata ɟu
+ɟu mata
 ʾətvalun
 carmanə
 yan
@@ -188276,13 +188276,13 @@ cəšmišə
 ⁺xərṱmanə
 cul
 xa məndi
-mayyiva bət
-mdita ɟu
-xayyiva ʾu bət
+bət mayyiva
+ɟu mdita
+xayyiva bət ʾu
 ⁺raba
 ⁺ʾəllayə
 lvəšte
-oyava c
+c oyava
 ⁺raba
 šap̂ərta
 yale
@@ -188290,13 +188290,13 @@ madrasə ɟu
 k̭at
 ʾiva
 ⁺bək̭ra
-aviva c
+c aviva
 ⁺raba
 zərrac
 yanə
-ʾan k̭amayə
+k̭amayə ʾan
 tanax
-ʾəmma k̭a
+k̭a ʾəmma
 ʾəč̭č̭i
 tmanya
 ʾəč̭č̭i
@@ -188307,7 +188307,7 @@ cyula
 k̭amaya
 ʾiva
 ⁺ʾaturayə
-mdita ɟu
+ɟu mdita
 ʾətva
 lətva
 xa
@@ -188317,17 +188317,17 @@ yala
 rišu ⁺ʾal
 ⁺raba
 lətva
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 cačaluna
-zə ⁺raba
+⁺raba zə
 naxupəva
-zə ⁺raba
+⁺raba zə
 ⁺zaduyəva
 həc
-mən beta
+beta mən
 leva
 ⁺plaṱa
-vaddar ⁺ʾal
+⁺ʾal vaddar
 xa yuma
 babu
 yəmmu
@@ -188339,14 +188339,14 @@ brune
 le har
 ⁺bayyə
 ⁺paləṱ
-vaddar ⁺ʾal
+⁺ʾal vaddar
 ⁺yanə
 ʾazəl
 dəšta ⁺ʾal
 ⁺ṱavəl
 mən ⁺xavəryatu
 ⁺xoravatu
-zə ⁺raba
+⁺raba zə
 ɟərdeyə
 ci maġġəbva
 ɟərdeyə
@@ -188361,7 +188361,7 @@ xa yuma
 yəmma
 mən ⁺ɟoro
 mən baba
-⁺udalə m
+m ⁺udalə
 taxmunəna
 mudi
 ʾodi
@@ -188370,7 +188370,7 @@ yala
 mavvəddilə
 k̭at
 ⁺paləṱ
-vaddar ⁺ʾal
+⁺ʾal vaddar
 marələ
 baba
 marələ
@@ -188381,7 +188381,7 @@ xruzlun
 ʾan ɟərdeyə
 xruzlun
 ⁺ʾal
-darta ɟu
+ɟu darta
 ʾatxa
 ⁺xarta
 xa tre ⁺ṱla
@@ -188396,8 +188396,8 @@ bət
 mənne
 ⁺xarta
 p̂ṱ azəl
-⁺paləṱ bət
-vaddar ⁺ʾal
+bət ⁺paləṱ
+⁺ʾal vaddar
 yəmma
 mara
 hada
@@ -188412,14 +188412,14 @@ dannə
 cecə
 ⁺bixalelə
 ⁺tarrət
-zə darta
+darta zə
 švək̭tula
 ptixa
 bəxzayələ
 ⁺tarrət
-zə darta
+darta zə
 ʾəttən
-cut ⁺dana
+⁺dana cut
 ʾak̭lu
 mattuyolə
 xač̭č̭a
@@ -188437,7 +188437,7 @@ ceca
 piša
 b cul
 ʾurxa
-dana xa
+xa dana
 jaldə
 jaldə
 bəɟnavulə
@@ -188446,7 +188446,7 @@ bəɟnavulə
 ⁺xarta
 xina ʾo
 bəɟnavulə
-do ɟu
+ɟu do
 ⁺xaraya
 yəmma
 vitəla
@@ -188460,7 +188460,7 @@ vitəla
 č̭arč̭urələ
 tilə
 ⁺tala
-⁺axəlli ṱ
+ṱ ⁺axəlli
 diva
 p̂ṱ ⁺axəlli
 mara
@@ -188493,9 +188493,9 @@ bəšvak̭a
 ʾe
 ⁺č̭ap̂p̂alti
 mən
-de scənti
+scənti de
 ⁺rappilun
-l a pat
+l pat a
 ɟuyda
 k̭at
 ʾani
@@ -188517,7 +188517,7 @@ k̭atu
 xina
 bəšk̭alolə
 scəntu
-ʾe ʾu ⁺č̭ap̂p̂altu
+ʾu ⁺č̭ap̂p̂altu ʾe
 bərrəxšələ
 bərrəxšələ
 xa ducta
@@ -188531,9 +188531,9 @@ xa
 ʾita
 bəštayələ
 xač̭č̭a
-de mən ⁺ʾayna
+mən ⁺ʾayna de
 dəpnət
-de ⁺ʾayna
+⁺ʾayna de
 bədmaxəl
 sab
 ⁺raba
@@ -188550,27 +188550,27 @@ devə
 xa ca
 xa mənne
 c ativa
-xa mzida ɟu
+mzida xa ɟu
 ⁺ɟurta
 miyya
 ci maliva
-de mən ⁺ʾayna
+mən ⁺ʾayna de
 labəlva
 k̭a
 k̭a štete
 ⁺yanə
-ʾe mzida
+mzida ʾe
 xazyava ci
 k̭a
 cullə
 xa šabta
 diyye
 xa
-mən ʾaxunvatə
+ʾaxunvatə mən
 tiyyələ
 miyya
 labəl
-b xa
+xa b
 bəxzayələ
 marzət
 ⁺ʾayna
@@ -188581,12 +188581,12 @@ dmixa
 ⁺ha
 ⁺maxleta
 mən
-⁺dana k̭am
+k̭am ⁺dana
 iva ṱ
 iva ṱ
 sk̭ida
 marzət
-da ⁺ʾayna
+⁺ʾayna da
 ⁺bək̭yarələ
 b de scəntu
 ⁺bək̭yarəl
@@ -188612,7 +188612,7 @@ cas
 ⁺yanə
 šəmmu
 ⁺bək̭yarulə
-b xa
+xa b
 ⁺č̭ap̂p̂alta
 ʾana
 ʾarp̂i
@@ -188620,7 +188620,7 @@ danə
 devə
 ⁺masən
 ⁺k̭aṱlənnun
-b xa
+xa b
 mxetət
 da
 ⁺č̭ap̂p̂alta
@@ -188629,18 +188629,18 @@ viyyələ
 ctivo
 ⁺tama
 ʾita
-ila šer ʾax
+ila ʾax šer
 ʾayən
 viyyələ
 šuršiyya
 ⁺ṱəlya
-zə ʾay
+ʾay zə
 vitəla
 dəpnu
-deva ʾa
+ʾa deva
 ʾiman
 bitayələ
-xazzə k̭at
+k̭at xazzə
 ʾa naša
 mudilə
 ⁺bayyə
@@ -188653,12 +188653,12 @@ m ⁺uydalə
 ⁺ʾaynu
 bək̭yatəla
 ⁺ʾal
-de ctəvta
-b xa
+ctəvta de
+xa b
 bəxzayələ
 ʾa
 mara
-b xa
+xa b
 ⁺č̭ap̂p̂alta
 ʾa
 ʾarp̂i
@@ -188677,7 +188677,7 @@ b nixa
 ⁺marrušulə
 mara
 ya
-naša ⁺bar
+⁺bar naša
 ʾana
 parpuləvən
 b diyyux
@@ -188691,20 +188691,20 @@ laxxa
 ⁺bayyət cum
 b yavvaxlux
 ʾat zə
-vi ta
+ta vi
 ʾaxunət
 tmanya
 k̭a diyyan
 halbatta
 ʾa
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bərrašəl
 k̭amta
 bəxjalələ
 ʾina
 ʾiman
 bəxzayələ
-deva ʾa
+ʾa deva
 dulə
 parpulə
 la k̭at
@@ -188729,12 +188729,12 @@ mara
 ʾaxunvatəvax
 mən da
 ⁺ʾayna
-c atax
+atax c
 miyya
 šak̭lax ci
-ʾa mzida
-malyax ci
-xa k̭a
+mzida ʾa
+ci malyax
+k̭a xa
 šabtət
 diyyan
 mara
@@ -188749,19 +188749,19 @@ xina
 ʾaxunvatux
 maxzilun
 k̭a diyyi
-ʾa mzida
+mzida ʾa
 mlayolə
-deva ʾa
+ʾa deva
 ⁺bəṱṱanola
-⁺xasu ⁺al
+⁺al ⁺xasu
 turvənte
-⁺udalə m
+m ⁺udalə
 bərrəxšəna
 beta
 bərrəxšəna
 cəs
 devə
-ʾe ⁺dan
+⁺dan ʾe
 ⁺varəna
 ɟu
 de
@@ -188782,14 +188782,14 @@ dulə
 muyyilə
 xa
 ⁺seda
-⁺axlaxlə ṱ
+ṱ ⁺axlaxlə
 mara
 la
 ʾaxunvati
 la
-ʾa ilə
+ilə ʾa
 xa
-naša ⁺bar
+⁺bar naša
 ʾaxnan
 ɟari
 ⁺raba
@@ -188807,7 +188807,7 @@ har
 parpəslan
 har
 ⁺dardək̭lan
-b xa
+xa b
 ⁺č̭ap̂p̂altu
 ⁺masə
 maxə
@@ -188815,7 +188815,7 @@ maxə
 danə
 devə
 cullanaʾit
-zə ʾani
+ʾani zə
 cullə
 hammunəna
 pyašələ
@@ -188826,7 +188826,7 @@ tre
 ⁺ṱla
 šabay
 devə
-ɟane k̭a
+k̭a ɟane
 bərrəxšəna
 ⁺seda
 vadəna
@@ -188864,8 +188864,8 @@ k̭esə
 mayyi
 mara
 ʾat
-ʾe ⁺dan
-b ivət nošux
+⁺dan ʾe
+nošux b ivət
 k̭at
 zə ɟanux
 la
@@ -188885,7 +188885,7 @@ xacma
 k̭esə
 mayyətlan
 k̭at
-ʾe ⁺dan
+⁺dan ʾe
 bitayəvax
 mən ⁺seda
 ʾaxnan
@@ -188893,7 +188893,7 @@ mən ⁺seda
 jaldə
 ʾa ⁺sedan
 bašlaxlə
-⁺udalə m
+m ⁺udalə
 ⁺ʾaxlax
 yan
 ⁺danət ʾe
@@ -188913,16 +188913,16 @@ mara
 ⁺raba
 ⁺spay
 ⁺yanə
-b nobanə
+nobanə b
 ⁺bayyi
-zə ʾaha
+ʾaha zə
 ʾax
-ən ṱ paləx
+ən paləx ṱ
 xa yuma
-ʾe mzida
+mzida ʾe
 bəšk̭alolə
 bərrəxšələ
-⁺ʾayna ⁺ʾal
+⁺ʾal ⁺ʾayna
 k̭at
 miyya
 malila
@@ -188963,7 +188963,7 @@ poxa
 mlayolə
 poxa
 ⁺bəṱṱanolə
-⁺ruyšu ⁺ʾal
+⁺ʾal ⁺ruyšu
 bitayələ
 beta
 devə zə
@@ -188989,7 +188989,7 @@ viduna
 poxa
 xač̭č̭a
 ptaxulə
-ʾe ⁺hava
+⁺hava ʾe
 poxo
 cullə
 bəsp̂ak̭ələ
@@ -189003,16 +189003,16 @@ mara
 ʾayya
 xazyava ci
 k̭a diyyan
-xa k̭a
+k̭a xa
 šabta
 ʾina
 ʾaha
 dulə
-xa ɟa
+ɟa xa
 har
-xa ɟa
+ɟa xa
 šətyalə
-b xa
+xa b
 bina
 bas
 ʾaha
@@ -189028,12 +189028,12 @@ xač̭č̭a
 miyya
 mayyilun
 mara
-mu avə p̂ṱ
+p̂ṱ avə mu
 ʾat
 tuy
 manyəx
 xa yuma
-zə xina
+xina zə
 k̭esə
 xišəva
 mayyiva
@@ -189048,19 +189048,19 @@ xač̭č̭a
 ⁺xolə
 k̭atu
 mərrun
-mu ina k̭a
+k̭a mu ina
 ⁺raba
 mərrə
-ʾaviloxun la
+la ʾaviloxun
 ⁺šula
 xzilun
 ⁺raba
 murk̭əllə
 xəšlun
-ʾurxu ⁺ʾal
+⁺ʾal ʾurxu
 mərrun
 xazax
-mu k̭a
+k̭a mu
 ʾa
 xa xč̭a
 murk̭əllə
@@ -189083,14 +189083,14 @@ bərrəxša
 ⁺janam
 ʾaxnan
 ʾat
-mu k̭a
+k̭a mu
 xa xča
 murk̭əllux
 ʾa
 mut
 ilə ⁺šulux
 mərrə
-mu k̭a
+k̭a mu
 cul yum
 ʾatax
 k̭esə
@@ -189098,14 +189098,14 @@ mayyax
 ʾana
 ⁺bayyən
 cullə
-ʾa meša
-xa ɟa
+meša ʾa
+ɟa xa
 har
 ⁺ṱenənna
-⁺xasi ⁺ʾal
+⁺ʾal ⁺xasi
 mayyənna
 ⁺tama
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bilan
 mapləxxax
 mənno
@@ -189113,7 +189113,7 @@ mapləxxax
 ʾani
 mərrun
 ʾatxa
-ʾoya le
+le ʾoya
 ʾat
 har
 ʾida
@@ -189134,7 +189134,7 @@ cul
 daxi
 xzilun
 ʾatxa
-ʾoya le
+le ʾoya
 tilun
 mərrun
 vədlun
@@ -189143,12 +189143,12 @@ meeting
 k̭at
 ʾaha
 xa yuma
-xa ⁺cətra
+⁺cətra xa
 avə ṱ
 k̭a diyyan
 temun
 ⁺k̭aṱlaxlə
-ʾe ⁺dan
+⁺dan ʾe
 ʾayya
 meeting
 vaduva
@@ -189182,7 +189182,7 @@ miyya
 ⁺bərdaxa
 darax
 ⁺ʾallu
-ʾe ⁺dan
+⁺dan ʾe
 ilə ṱ
 ṱəlya
 marəna
@@ -189192,7 +189192,7 @@ marəna
 miyya
 ⁺hazər
 vadena
-ʾe dan
+dan ʾe
 ilə ṱ
 ṱəlya
 ⁺ʾavun
@@ -189214,7 +189214,7 @@ muttələ
 ʾatxa
 videlə
 ʾax
-ən ṱ dmixələ
+dmixələ ən ṱ
 ʾannə
 miyya
 ⁺maxdurena
@@ -189247,7 +189247,7 @@ taza
 dulə
 lelə
 mita
-mudyux iva
+iva mudyux
 mərrə
 ⁺raba
 ⁺ṱətli
@@ -189263,7 +189263,7 @@ mara
 dun
 ⁺ṱətli
 ⁺yanə
-ən ṱ ʾax
+ən ʾax ṱ
 ʾanna
 miyya
 mən
@@ -189283,11 +189283,11 @@ mədrə
 ɟanu
 ṱašuyolə
 mən do
-zə cipa
+cipa zə
 prak̭ələ
 bəxzayəna
 ʾatxa
-ʾoya le
+le ʾoya
 ʾətvalun
 ⁺raba
 davə
@@ -189323,7 +189323,7 @@ xayyax
 yavuna
 davə
 bədrayuna
-ʾurxa ⁺ʾal
+⁺ʾal ʾurxa
 bitayələ
 bet
 babu
@@ -189353,10 +189353,10 @@ xabuyšə
 ʾa
 masala
 tanənna
-diyyux k̭a
+k̭a diyyux
 ʾatən
 ʾila
-dana xa
+xa dana
 cačala
 ʾətva
 xa ɟu
@@ -189366,20 +189366,20 @@ mdita
 cačalə
 ⁺k̭urbət
 ⁺ʾəsra danə
-cačalə ʾətva
+ʾətva cačalə
 ʾətvalun
 suysət
 k̭esa
 xute
 ci maxiva
 ⁺ʾallu
-aviva c
+c aviva
 ⁺bərxaṱa
-da m riša
-do riša ⁺ʾal
-da m riša
-do riša ⁺ʾal
-aviva c
+m riša da
+riša ⁺ʾal do
+m riša da
+riša ⁺ʾal do
+c aviva
 vada
 nu
 bubəšk̭a
@@ -189393,11 +189393,11 @@ aziva c
 ⁺malyat
 šak̭liva
 mən našə
-mən duccananə
-⁺jammiva ci
+duccananə mən
+ci ⁺jammiva
 ⁺malyat
-b məndi do
-xayyiva ʾannə ci
+b do məndi
+ʾannə ci xayyiva
 ʾina
 ʾa
 ⁺ɟurət
@@ -189413,33 +189413,33 @@ mən
 dan xinə
 xəšlə
 cəs
-dana xa
+xa dana
 ⁺tajər
-⁺ʾo tajər
+tajər ⁺ʾo
 k̭a da
 cačala
 ⁺raba
-⁺bayyiva ci
+ci ⁺bayyiva
 ⁺raba
-⁺bayyiva ci
+ci ⁺bayyiva
 ⁺tajər
 ⁺bəddayət
-mu xina ilə
+ilə xina mu
 ⁺raba
-⁺bayyiva ci
+ci ⁺bayyiva
 k̭a da
 cačala
 xəšlə
 cəslu
 k̭at šak̭əlvalə
 zuyzə
-jaldə da moriša
+moriša da jaldə
 k̭emiva ci
-k̭am m
+m k̭am
 našə
 napliva
-⁺šula ⁺ʾal
-zuyze k̭at
+⁺ʾal ⁺šula
+k̭at zuyze
 šak̭livalə
 mənne
 našə
@@ -189450,7 +189450,7 @@ zuyzə
 aziva c
 xayyiva
 biyye
-yuma ʾo
+ʾo yuma
 ʾa
 cačala
 xəšlə
@@ -189460,16 +189460,16 @@ mərrə
 k̭atu
 ⁺tajər
 mərre
-cačala k̭a
-ʾana k̭at
+k̭a cačala
+k̭at ʾana
 bərrəxšəvən
 ⁺ʾal macca
 macca
 ⁺bəddayət
-mu ila
+ila mu
 ʾannə
 məššəlmanə
-azi c
+c azi
 macca
 madina
 macca
@@ -189478,7 +189478,7 @@ mərrə
 ʾana
 bərrəxšən
 ⁺ʾal macca
-tre k̭a
+k̭a tre
 yarxə
 ʾu zuyzət
 tre yarxə
@@ -189489,7 +189489,7 @@ k̭atux
 ⁺ʾaynux
 ʾoya
 ⁺ʾal məndiyyi
-xayyuyti ⁺ʾal
+⁺ʾal xayyuyti
 ʾiman
 tili
 ⁺dərri
@@ -189504,16 +189504,16 @@ nšək̭lun
 ⁺ʾuydalə
 cačala
 xəšlə
-⁺ʾu tajər
+tajər ⁺ʾu
 xəšlə
 beta
 ⁺tajər
 ʾətval
-xa baxta
+baxta xa
 ⁺raba
 šap̂ərta
 tuxmənnə
-ʾa baxta k̭at
+baxta k̭at ʾa
 ʾica
 mattila
 k̭at
@@ -189524,8 +189524,8 @@ tuxmənnə
 ⁺raba
 ⁺raba
 mərrə
-ʾətli k̭at
-dana xa
+k̭at ʾətli
+xa dana
 ⁺xora
 ⁺hajilə
 ⁺ʾav da
@@ -189554,7 +189554,7 @@ marələ
 həč ducta
 la
 mučəxli
-baxti k̭at
+k̭at baxti
 mattənna
 hemanta
 muyyon
@@ -189567,13 +189567,13 @@ k̭atux
 k̭at
 ʾən
 xurəjlux
-baxti k̭a
+k̭a baxti
 ʾən
 ⁺bsərrun
 ʾana
 p̂ṱ atən
 b yavvənnun
-ʾu ⁺haji
+⁺haji ʾu
 marələ
 ʾo
 ⁺raba
@@ -189581,7 +189581,7 @@ marələ
 ʾana
 baxtət
 diyyux
-xatila xa ʾax
+xa ʾax xatila
 ʾana
 ⁺raba
 ⁺spay
@@ -189603,7 +189603,7 @@ tre yarxə
 cačala
 bərrəxšələ
 betu
-ʾu baxta
+baxta ʾu
 mattuyona
 cəs ⁺haji
 xa
@@ -189616,7 +189616,7 @@ baxta
 bərrəxšəla
 ⁺hammam
 ʾu
-da ⁺haji
+⁺haji da
 bərrəxšələ
 ⁺hammam
 bəxzayolə
@@ -189637,7 +189637,7 @@ bəšvak̭a
 ⁺ʾavva
 ⁺haji
 ⁺raba
-lə ⁺nərvəs
+⁺nərvəs lə
 ⁺byayələ
 xela
 ʾavəd
@@ -189648,10 +189648,10 @@ baxta
 ʾu
 ⁺haji
 ʾətvalə
-dana xa
+xa dana
 riɟa
 ⁺raba
-⁺spay iva
+iva ⁺spay
 ʾo riɟa
 ⁺raba
 mhumnəva
@@ -189669,12 +189669,12 @@ baxta
 ⁺haji
 ⁺bəddayələ
 k̭əssat
-mu ila
+ila mu
 k̭a riɟa
 marələ
 k̭at
 bəxzayət
-ʾa baxta
+baxta ʾa
 ⁺raba
 ⁺srəxtəla
 ⁺srəxta
@@ -189698,15 +189698,15 @@ mən mdita
 meša ɟu
 ⁺k̭ṱulla
 riɟa
-ilə majbur
-ilə majbur
+majbur ilə
+majbur ilə
 šak̭əlla
 baxta
 labəlla
 ʾido
 ⁺bəsyarelə
 labulolə
-⁺k̭aṱəlla k̭at
+k̭at ⁺k̭aṱəlla
 ʾayya ʾu
 baxta
 ⁺raba
@@ -189723,11 +189723,11 @@ bənpala
 bənšak̭e
 la k̭at
 ⁺k̭ṱulli
-cul məndit
+məndit cul
 ⁺bayyət
 yavvannux
-ʾo julli
-cul məndit
+julli ʾo
+məndit cul
 ⁺bayyət
 davi
 ⁺raba
@@ -189739,7 +189739,7 @@ dava
 dava
 ʾisak̭tət
 dava
-cul məndit
+məndit cul
 ⁺bayyət
 šk̭ullun
 ʾaxči
@@ -189759,7 +189759,7 @@ jullo
 ʾina
 ⁺haji
 mirəva
-jullo k̭at
+k̭at jullo
 dəmmanə
 mayyətlun
 k̭ati
@@ -189767,23 +189767,23 @@ k̭a riɟu
 baxta
 marəla
 k̭at
-b yavvannux
+yavvannux b
 ⁺raba
 zuyzə
 ʾu
-ʾa zannatti
+zannatti ʾa
 zannatti
 ⁺yanə
 davi
 labəl
 zabənnun
 šk̭ullux
-dana xa
+xa dana
 ʾərba
 ⁺k̭ṱulla
 dəmmo
 mattilə
-ʾal julli
+julli ʾal
 labəlla
 k̭a
 marux
@@ -189803,12 +189803,12 @@ bəšvak̭ol
 riɟa
 bərrəxšələ
 bəšk̭ala
-dana xa
+xa dana
 ⁺ṱera
 ⁺bək̭ṱalulə
 dəmma
 mattuyulə
-jullo ⁺ʾal
+⁺ʾal jullo
 mayyelə
 k̭a ⁺haji
 mara
@@ -189837,7 +189837,7 @@ mdita
 ʾətva
 bət ⁺k̭uravatə
 ⁺bəddayət
-⁺k̭uravay bət
+bət ⁺k̭uravay
 mu ina
 našə
 ⁺ṱamrilun
@@ -189878,19 +189878,19 @@ xəšlə
 ⁺jar k̭at
 xzilə
 ʾina
-dana xa
+xa dana
 riša
 ⁺bəryamələ
 bəcyapələ
 ⁺bəryamələ
 bəcyapələ
 xač̭č̭a
-k̭urba buš
+buš k̭urba
 xəšlə
 xzilə
 našələ
 ⁺xarta
-da xač̭č̭a
+xač̭č̭a da
 k̭amta
 xəšlə
 mərra
@@ -189915,7 +189915,7 @@ ila bax ⁺tajər
 mara
 ʾa
 mu titəla
-b rišo
+rišo b
 mara
 xati
 sp̂ur
@@ -189925,7 +189925,7 @@ bətyavələ
 suysu ⁺ʾal
 k̭esa
 ⁺maṱruyələ
-duz beta
+beta duz
 k̭a yəmmu
 marələ
 ʾicət
@@ -189937,23 +189937,23 @@ k̭ati
 jaldə
 ʾoyan
 ⁺xlapux
-mu ina k̭a
+k̭a mu ina
 mara
 la
 hamzəm
 ʾaxči
 hallun
 ʾe
-šap̂ərta buš
+buš šap̂ərta
 lvəštax
 halla
 mara
-ʾa xina
+xina ʾa
 mut
 hucmələ
 hucmət
 malcələ
-mu ilə
+ilə mu
 ⁺raba
 jullə
 šk̭iləvət
@@ -189986,7 +189986,7 @@ bəlvašela
 bitayəla
 mara
 ⁺narahat
-ʾoyat la
+la ʾoyat
 ʾaxunax
 lelə
 mita
@@ -189996,11 +189996,11 @@ k̭a diyyax
 tu
 suysi ⁺ʾal
 lablənnax
-da ʾay
+ʾay da
 ʾak̭lo
 mattuyola
-l a pat
-l patət e
+l pat a
+patət l e
 k̭esa
 mxayəna ʾu
 bərrəxšələ
@@ -190025,7 +190025,7 @@ xati
 xa naša
 buk̭ərrə
 mənnax
-ʾaha k̭at
+k̭at ʾaha
 manila
 tanyat
 bratila
@@ -190034,12 +190034,12 @@ mərrax
 lela
 lišanax
 parmənnə
-cačala da ʾu
+da ʾu cačala
 yəmmu
 ⁺yaṱṱava
-xa məndi k̭at
+xa k̭at məndi
 tunilə
-avədlə ṱ
+ṱ avədlə
 k̭əmla
 zurəzla
 k̭ato
@@ -190055,13 +190055,13 @@ xəšle
 ⁺bar
 šulu
 xəšlə
-da ⁺ʾal
+⁺ʾal da
 duccana
-de ⁺ʾal
+⁺ʾal de
 duccana
-de ⁺ʾal
+⁺ʾal de
 duccana
-xa ɟa
+ɟa xa
 ⁺vərra
 xa
 ⁺dana
@@ -190093,7 +190093,7 @@ present
 ʾina
 k̭ala
 lət
-mən baxta
+baxta mən
 ⁺tajər
 marələ
 balcət
@@ -190120,14 +190120,14 @@ mən macca
 labulu
 k̭a ⁺haji
 xarduyəna
-b k̭dalət
+k̭dalət b
 ⁺duydalə
 bənšak̭əna
 ⁺ʾuydalə
 ʾu bətyavəna
-xa ⁺čay
+⁺čay xa
 bəštayəna
-ʾe pašcaš
+pašcaš ʾe
 yavol
 k̭a ⁺haji
 ⁺xarta
@@ -190142,18 +190142,18 @@ surə
 mən našə
 ⁺ɟurə
 masalan
-ʾiman ət
+ət ʾiman
 xa
 naša
 ⁺ɟura
 ⁺ʾavərva
 ɟari
 k̭emətva
-ʾak̭lux ⁺ʾal
+⁺ʾal ʾak̭lux
 k̭a xəmyanux
-xmatux k̭a
+k̭a xmatux
 k̭a savunux
-zə ʾaha
+ʾaha zə
 leva
 ⁺bašurə
 hamzəmva
@@ -190182,12 +190182,12 @@ k̭at
 ʾa
 mu
 tanən
-diyyux k̭a
+k̭a diyyux
 baxtux
-len ⁺bašurə
+⁺bašurə len
 tanən
 ʾina
-ən majbur
+majbur ən
 tanənnux
 k̭at
 hemantət
@@ -190195,7 +190195,7 @@ diyyux
 mətla
 ⁺tajər
 mxayələ
-rišu ɟu
+ɟu rišu
 bəxya
 ⁺bək̭ṱalol
 ɟanu
@@ -190245,7 +190245,7 @@ k̭əssat
 dɑstɑn u
 marol
 k̭a malca
-ʾana k̭at
+k̭at ʾana
 baxti
 muttonva
 cəs
@@ -190255,7 +190255,7 @@ tiyyən
 šak̭lənna
 marələ
 məttəla
-mujjur ⁺yanə ʾa ʾoya
+mujjur ʾoya ⁺yanə ʾa
 malca
 ⁺šadurələ
 ⁺bar
@@ -190279,7 +190279,7 @@ hemanta
 xati ʾax
 xumyonva
 ʾina
-b la ⁺xabra
+la b ⁺xabra
 diyyi
 xəštəla
 meša ⁺ʾal
@@ -190307,14 +190307,14 @@ riɟilə
 k̭a cullə k̭at
 da
 mdita
-avəd c
+c avəd
 ⁺k̭azi
 ⁺šulanə
 zarəzlun
 ʾu ⁺mallələ
 ʾu
-dana xa
-ilə ⁺k̭assab
+xa dana
+⁺k̭assab ilə
 ⁺k̭assab
 rišət
 cuča
@@ -190327,7 +190327,7 @@ məttəla
 malca
 marələ
 xub
-mu ⁺bayyət
+⁺bayyət mu
 mənnu
 xina
 mətta ⁺bar
@@ -190337,7 +190337,7 @@ cullə
 saduyta
 yavəna
 k̭əryel
-ʾannə da cullə
+ʾannə cullə da
 malca
 ⁺tama
 mərrə
@@ -190349,7 +190349,7 @@ marəna
 xub məttəla
 məttəla
 baxtux
-mu ⁺bayyət
+⁺bayyət mu
 mənnu
 laxxa
 cačala
@@ -190357,11 +190357,11 @@ cullə
 ʾannə
 ⁺bəšmayelə
 brata
-betula ɟu
+ɟu betula
 ʾina
 bəxzayələ
-⁺haji k̭at
-mu ilə
+k̭at ⁺haji
+ilə mu
 vada
 bəxzayələ
 ⁺ʾatra
@@ -190392,7 +190392,7 @@ xəžbuyna
 ʾodət
 ⁺ʾallu
 bərrəxša
-k̭a baxta
+baxta k̭a
 marələ
 mara
 ⁺raba
@@ -190402,13 +190402,13 @@ xati
 tiyyələ
 ʾina
 mirəna
-ʾat məttəvat k̭at
-ʾu zə malca
+ʾat k̭at məttəvat
+ʾu malca zə
 k̭ublolə
-⁺ʾu haji
+haji ⁺ʾu
 cullə
 k̭ublalun
-ʾat k̭at məttət
+məttət k̭at ʾat
 baxta
 bəxyəla
 mara
@@ -190423,7 +190423,7 @@ lablənnax
 ⁺ɟorax cəs
 cullə
 ⁺bəddayəna
-ʾat məttət
+məttət ʾat
 ʾən
 ʾadi
 ⁺yaṱṱi
@@ -190435,11 +190435,11 @@ k̭ati
 k̭a ɟorax
 k̭aṱli bət
 ⁺xabre k̭at
-⁺paləṱ la
+la ⁺paləṱ
 duɟla
-sp̂ur bas
+bas sp̂ur
 xazzən
-mu ⁺ʾamsən
+⁺ʾamsən mu
 ʾodən
 ʾa
 bəsp̂arələ
@@ -190451,14 +190451,14 @@ lelə
 bədmaxa
 bəlɑxara
 ⁺bək̭rayelə
-ʾan cačalə
+cačalə ʾan
 xinə
 cačalə
 xinə
 cullə
 ⁺bək̭rayelə
 k̭əssat
-da ⁺haji
+⁺haji da
 ʾu ⁺tajər
 baxtu
 hak̭uyol
@@ -190471,8 +190471,8 @@ p ⁺hayyərraxlux
 cačalə
 mara
 p ⁺hayyərraxlux
-mu ʾodax
-mu ʾodax le
+ʾodax mu
+le ʾodax mu
 mara
 k̭umun
 ⁺ṱalax
@@ -190519,18 +190519,18 @@ cullə
 mattuyelə
 vadelə
 šəmmət
-da vazziru
+vazziru da
 mattuyulə
-ʾalla vardi
+vardi ʾalla
 ⁺xan
 cuncət
 vazzirət
 malca
 ʾasli
 ʾilə
-ʾalla vardi
+vardi ʾalla
 ⁺xan
-da malca
+malca da
 malcələ
 ʾadi
 ʾannə
@@ -190541,10 +190541,10 @@ mu
 ɟari
 ʾodi
 ⁺bəddayona
-ʾadi cullə
+cullə ʾadi
 ʾa ⁺ṱalta
-mu ila
-da šəmmane
+ila mu
+šəmmane da
 cullə
 mattuyelə
 k̭a
@@ -190555,21 +190555,21 @@ həšyar
 xzimun
 malca
 cut
-⁺dana xa
-cut cma
-⁺dana xa
+xa ⁺dana
+cma cut
+xa ⁺dana
 cut
 tre yarxə
 cut
 ⁺ṱla yarxə
 xa
-⁺paləṱ ci
-azəl c
+ci ⁺paləṱ
+c azəl
 ⁺xdara
 saxbər
 ɟaššək̭
 ʾal ⁺ʾatru
-⁺xadər k̭at
+k̭at ⁺xadər
 mən vazziru
 bəlɑxara
 bitayəna
@@ -190583,7 +190583,7 @@ cačala
 ⁺ɟura
 marəna
 k̭at
-ʾa šabta
+šabta ʾa
 malca
 ⁺pəllan
 yuma
@@ -190592,7 +190592,7 @@ yuma
 ⁺pəllan
 ⁺saʾat
 ⁺plaṱələ
-da ⁺ʾal
+⁺ʾal da
 ʾurxa
 mara
 ⁺raba
@@ -190602,29 +190602,29 @@ lipotun
 darsoxun
 mara
 hi
-da cullə
+cullə da
 ⁺bəddayəna
 mu ʾodi
 cullə
 ʾannə
-malca k̭at
+k̭at malca
 bərrəxšələ
 ʾannə da
 bərrəxšəna
 ⁺tama
 ʾətva
-dana xa
+xa dana
 beta
 ʾina
 xriva
-ʾoya le
+le ʾoya
 našə
 ɟavu
 xayyiva
 bəxzayət
-vaddar ⁺ʾal
+⁺ʾal vaddar
 col ɟu
-⁺biyaban ɟu
+ɟu ⁺biyaban
 ʾəttən
 bətvatə
 tlixə
@@ -190635,7 +190635,7 @@ bərrəxšəna
 ⁺tama
 bətyavəna
 bəsp̂arəna
-malca k̭at
+k̭at malca
 ʾatə
 ʾətlə
 ⁺tama
@@ -190644,8 +190644,8 @@ tre
 cačalə
 jasusuyta
 vadəna
-malca k̭at
-⁺dana ʾəm
+k̭at malca
+ʾəm ⁺dana
 ʾadi
 ʾak̭lu
 mattila
@@ -190654,8 +190654,8 @@ malca
 ʾasli
 mən vazziru
 bəxzayəna
-rək̭k̭a m
-⁺davva ɟu
+m rək̭k̭a
+ɟu ⁺davva
 beta
 tlixa
 ʾəttən
@@ -190665,15 +190665,15 @@ malca
 marələ
 manilə
 bəxxa
-⁺davvo ɟu
+ɟu ⁺davvo
 beta
 ⁺ʾavva
 tlixa
 həč məndi
-lət ɟavu
+ɟavu lət
 ʾazax
 xazax
-mu ilə
+ilə mu
 bərrəxšəna
 ⁺mṱayəna
 ⁺ʾallu
@@ -190697,20 +190697,20 @@ hal ⁺tama
 cačala
 ʾasli
 malcələ
-xa k̭a vazziru
+k̭a xa vazziru
 šəmmu
 muttuyələ
-ʾalla ⁺xan vardi
-ʾu ʾa vazzirət
+vardi ⁺xan ʾalla
+ʾa vazzirət ʾu
 k̭aṱ ilə
 cəs malca
 šəmmu da
-ʾalla ⁺xan ilə vardi
+vardi ilə ⁺xan ʾalla
 cačala
-b xa ɟa
+ɟa xa b
 mərrə
-ʾalla ⁺xan vardi
-ʾalla ⁺xan vardi
+vardi ⁺xan ʾalla
+vardi ⁺xan ʾalla
 mərrə
 bale
 ⁺k̭urban
@@ -190725,7 +190725,7 @@ malca
 pummu
 dvək̭lə
 mərrə
-vud la
+la vud
 k̭ala
 betu
 ⁺šiyya
@@ -190740,12 +190740,12 @@ maɟar
 ʾəttən
 malca
 xina
-da ⁺ʾatrət ɟu
+ɟu ⁺ʾatrət da
 diyyi
 ʾana
 len ⁺bədda
 ɟaššək̭
-mu ilə
+ilə mu
 vaya
 mu
 k̭avvumələ
@@ -190757,14 +190757,14 @@ m ⁺tama
 cullə
 ⁺bəddayəna
 malca
-ilə ⁺ʾullul
+⁺ʾullul ilə
 cačala
 k̭aṱ ilə
 malca
 ⁺bəddayət
 xina
 prəšlux
-mu ila
+ila mu
 masala
 cačala
 ʾasli
@@ -190774,14 +190774,14 @@ malca
 ʾadiyya
 bədrayələ
 k̭alə
-xa k̭a
+k̭a xa
 mən cačalu
 ʾilə
 vazzər
 bədrayələ
 k̭alə
-ʾalla ⁺xan vardi
-ʾalla ⁺xan vardi
+vardi ⁺xan ʾalla
+vardi ⁺xan ʾalla
 cačala
 bitayələ
 k̭atu
@@ -190794,7 +190794,7 @@ mu
 ⁺byayət
 mərrə
 bətxarət
-k̭əssat xa
+xa k̭əssat
 ʾətva
 xa ⁺tajər
 ʾətva
@@ -190820,7 +190820,7 @@ cma
 xmarənva
 la
 ⁺buk̭ərri
-ʾa k̭at
+k̭at ʾa
 baxta
 b mut
 mota
@@ -190829,7 +190829,7 @@ daxi
 məttəla
 ʾana
 ⁺byayən
-k̭əssat ʾa
+ʾa k̭əssat
 taza
 patxənna
 ʾana
@@ -190839,7 +190839,7 @@ mara
 hi
 ʾavən
 ⁺xlapux
-xa məndi ʾaxča
+xa ʾaxča məndi
 ʾətva
 ʾina
 mara
@@ -190878,7 +190878,7 @@ xa ʾaxča
 k̭valta
 ʾətvalux
 mən ⁺haji
-k̭at baxtux
+baxtux k̭at
 litən
 məttəla
 ⁺raba
@@ -190935,7 +190935,7 @@ diva
 ⁺xilalə
 mətla
 mərrə
-⁺tamma xuš
+xuš ⁺tamma
 bitayələ
 ⁺malla
 mara
@@ -190963,7 +190963,7 @@ mən ɟarə
 mətla
 mərrə
 ʾat da
-⁺tamma xuš
+xuš ⁺tamma
 bitayələ
 ⁺k̭assab
 ⁺ʾav zə
@@ -190978,7 +190978,7 @@ mətla
 ʾana
 xzili
 pəlla
-havuz ɟu
+ɟu havuz
 xnək̭la
 xina ʾo
 ⁺malla
@@ -190989,7 +190989,7 @@ mu
 mara
 ʾana
 xzili
-ʾa baxta k̭at
+baxta k̭at ʾa
 ⁺raba
 xamxamta
 ʾətvala
@@ -191008,14 +191008,14 @@ tumun
 mara
 laxxa
 ʾəttən
-dana xa
+xa dana
 naša
 xina
 buš
-⁺spay ilə
+ilə ⁺spay
 yavəllan k̭at
 ⁺xabra
-da ⁺ʾavun
+⁺ʾavun da
 ʾilə
 riɟət
 ⁺haji
@@ -191026,7 +191026,7 @@ memunlə
 laxxa
 riɟa
 xa
-mən da cačalu
+mən cačalu da
 riɟəva
 riɟa
 bitayələ
@@ -191043,7 +191043,7 @@ tunilux
 la
 tunilux
 ɟəldux
-šalxənnə p
+p šalxənnə
 malənnə
 tuyna
 malənnə
@@ -191092,10 +191092,10 @@ xela
 ʾana
 ⁺rxəṱli
 xəšli
-ʾu ⁺haji
+⁺haji ʾu
 k̭ati
 mərrə
-ʾa baxta k̭at
+baxta k̭at ʾa
 xrəvta
 baxtəla
 šəmmi
@@ -191110,8 +191110,8 @@ lablət
 ʾana
 ʾido
 ⁺sireli
-lablən k̭at
-ʾa baxta
+k̭at lablən
+baxta ʾa
 ⁺k̭aṱlənna
 lublali
 meša ɟu
@@ -191123,7 +191123,7 @@ bxila
 nunila
 biyyi
 ⁺ʾuxča
-ʾak̭li ʾidə
+ʾidə ʾak̭li
 nšik̭ela
 ləbbi
 k̭ədlə
@@ -191134,7 +191134,7 @@ la
 švik̭ali
 laxxa
 mara
-ʾa baxta
+baxta ʾa
 xetəla
 mara
 len
@@ -191143,13 +191143,13 @@ len
 raxmə
 ʾavəd
 ⁺ʾallo
-ʾavi la k̭at
+la k̭at ʾavi
 divə
 xilo
-ʾana sab
+sab ʾana
 švik̭ali
 ⁺tama
-xəšca ɟu
+ɟu xəšca
 mara
 ʾa da
 mattunlə
@@ -191158,33 +191158,33 @@ mattuna
 ⁺tama
 mara
 ⁺bəddayətun
-mu ila
+ila mu
 mara
 la
 mara
 ʾəttən
 laxxa
-cačala xa
+xa cačala
 šopət
-zə ɟanu
+ɟanu zə
 muttələ
-cačala xa
+xa cačala
 xina
 ɟanu
 vidolə
 malca
 mara
-cačala ʾo
+ʾo cačala
 laxxa
 ʾa
 cačala
 ʾətlə
 ⁺xabra
-mən da baxta
+baxta mən da
 xušun
-cačala ⁺bar
+⁺bar cačala
 xacma
-mən dan da cačalə
+mən dan cačalə da
 bərrəxšəna
 xa
 cačala
@@ -191202,7 +191202,7 @@ xa ⁺xabra
 ʾətlux
 ⁺xabra
 ʾatən
-mən da baxta
+baxta mən da
 tlək̭ta
 ʾo
 mətta
@@ -191222,17 +191222,17 @@ xetəla
 ʾana
 mučxon
 ʾadi
-beti ɟu
+ɟu beti
 bəxxayəla
-cačala k̭a
+k̭a cačala
 marəna
 k̭at
 xob
 šk̭ul
 mela xuš
-ʾe baxta
+baxta ʾe
 xa
-mən da cačalə
+mən cačalə da
 vidulə
 baxtət
 ⁺tajər
@@ -191244,7 +191244,7 @@ baxta
 mulvišona
 baxta ʾax
 mayolə
-ɟu har ⁺varto
+ɟu ⁺varto har
 ⁺tama
 ʾo
 cačala
@@ -191258,7 +191258,7 @@ bək̭yaməl
 mara
 ʾay
 ⁺havar
-⁺k̭əṱma ʾay
+ʾay ⁺k̭əṱma
 b riši
 ʾaha
 baxtila
@@ -191271,7 +191271,7 @@ mətta
 bəxya
 bəxpak̭əna
 ⁺ʾuydale
-k̭a baxta
+baxta k̭a
 marələ
 ʾaha
 ⁺ɟorax lə
@@ -191291,9 +191291,9 @@ xob
 xpuk̭un
 ⁺ʾuydalə
 mattunla
-dana xa ɟu
+xa dana ɟu
 ⁺ʾarabana
-suysavatə ʾət
+ʾət suysavatə
 lablunla
 beta
 ʾannə
@@ -191302,7 +191302,7 @@ beta
 ʾina
 ⁺taməna
 ʾannə
-xinə da
+da xinə
 duk̭un
 cullə
 ⁺surunlun
@@ -191316,18 +191316,18 @@ dušunlun
 mattunlun
 ⁺tama
 ʾana
-⁺bayyən le
+le ⁺bayyən
 xa ʾaxča
 məndi
-⁺ʾatrət ɟu
+ɟu ⁺ʾatrət
 diyyi
 ʾavə
 ʾana
 levən
 ⁺bədda
-k̭a mudi
+mudi k̭a
 ʾana
-yuma ʾo
+ʾo yuma
 žġišənva
 lenva
 taxmune
@@ -191354,13 +191354,13 @@ marəl
 k̭u
 ⁺yarmax
 ʾazax
-k̭am m ət
-k̭a da diyyan
+m k̭am ət
+k̭a diyyan da
 capši
 ɟu
 ⁺dussak̭
 dešilan
-⁺dussak̭ ɟu
+ɟu ⁺dussak̭
 ʾidan
 ⁺ʾasrila
 ⁺k̭aṱlilan
@@ -191372,7 +191372,7 @@ marələ
 xa ɟaššək̭
 mu
 k̭avvumə
-⁺ʾatrət ɟu
+ɟu ⁺ʾatrət
 diyyan
 ʾannə
 nixa
@@ -191381,7 +191381,7 @@ nixa
 bərrəxšəna
 cačala
 ⁺bəddayələ
-malca k̭at
+k̭at malca
 xəšlə
 cačala
 ⁺bəddayələ
@@ -191392,7 +191392,7 @@ xəšlə
 moriša
 jaldə
 malca
-⁺šadər p
+p ⁺šadər
 ⁺baru
 ɟane
 ⁺hazər
@@ -191403,7 +191403,7 @@ malca
 moriša
 jaldə
 bək̭yamələ
-lelə cul
+cul lelə
 šima
 lelə
 dmixa
@@ -191423,7 +191423,7 @@ bədvak̭e
 mayena
 mayena
 ⁺tama
-cačala k̭a
+k̭a cačala
 marələ
 ⁺ʾe ṱaltət
 ⁺berašə
@@ -191434,7 +191434,7 @@ la
 ⁺ṱulalux
 yavvən bət
 dastur
-⁺k̭aṱlilux k̭at
+k̭at ⁺k̭aṱlilux
 maxilə
 rišux
 b sepa
@@ -191457,14 +191457,14 @@ hasanuyta
 šartə
 mənnux
 mattən
-b šart
+šart b
 odənnə ṱ
 ⁺šula ʾa
 mara
-mu ila
+ila mu
 šartux
 mara
-tre k̭a
+k̭a tre
 ⁺saʾattə
 malcutux
 halla
@@ -191499,7 +191499,7 @@ k̭a cullə
 ⁺ʾatra
 ʾatə
 tanimun
-malca k̭at
+k̭at malca
 ⁺byayələ
 xa
 ⁺divan
@@ -191555,14 +191555,14 @@ mayelə
 ⁺bar
 ⁺haji
 ʾina
-ʾan ʾasliyyə
+ʾasliyyə ʾan
 ⁺bare
-ʾati k̭at
+k̭at ʾati
 ʾadi
 ⁺hajile
 ilə ⁺tajər
 ⁺mallələ
-ilə ⁺k̭assab
+⁺k̭assab ilə
 cullə
 k̭at yuvvə
 saduyta
@@ -191572,7 +191572,7 @@ muyel
 ⁺tama
 muyel
 ⁺tama
-ʾe ⁺dan
+⁺dan ʾe
 xzilun
 ⁺haji
 ⁺šurilun
@@ -191594,10 +191594,10 @@ mərrə
 mu
 k̭avvumələ
 ʾana
-⁺bayyən le
+le ⁺bayyən
 loma
 mayyən
-malca ⁺ʾal
+⁺ʾal malca
 ʾasli
 ʾina
 xa ʾaxča
@@ -191630,8 +191630,8 @@ lelə
 ⁺k̭ṱilo
 ʾa məndi
 k̭abulutun
-cut xa
-b xa
+xa cut
+xa b
 k̭ala
 mərrə
 la
@@ -191654,7 +191654,7 @@ basima
 ʾana
 bərrəxšənva
 ⁺ʾal macca
-baxti ʾu
+ʾu baxti
 muyyali
 muttali
 cəs
@@ -191662,7 +191662,7 @@ cəs
 sabab
 ⁺raba
 mhumnəva
-ci ⁺bayyənvalə
+⁺bayyənvalə ci
 ⁺xoriva
 ⁺bəddayənva
 xišələ k̭at
@@ -191671,10 +191671,10 @@ xišəle
 ⁺haji
 viyəl
 ʾax
-dana xa
+xa dana
 xalifa
 ʾax
-dana xa
+xa dana
 ʾabuna
 patriyarca
 lətlə
@@ -191699,12 +191699,12 @@ mətta
 məttəla
 mu
 ⁺bayyət
-mən xa mita
-ʾu cullə
+xa mən mita
+cullə ʾu
 sadu
 yvəllun
 saduta
-məttəla k̭at
+k̭at məttəla
 malca
 ⁺haji
 k̭rilə
@@ -191732,10 +191732,10 @@ mattunlə
 ⁺tamma
 muttilun
 ⁺tamma
-dax har ət
+dax ət har
 mərri
 k̭amta
-ʾu tilə
+tilə ʾu
 ⁺k̭assab
 tilə
 ⁺malla
@@ -191751,7 +191751,7 @@ diva
 xa mənne
 mərrə
 pəlla
-havuz ɟu
+ɟu havuz
 xa mənne
 mərrə
 xumxəmla
@@ -191768,7 +191768,7 @@ tumun
 ʾani
 təvlun
 ⁺tamma
-de k̭a baxta
+baxta k̭a de
 mirəva
 mərrə
 ʾən
@@ -191777,7 +191777,7 @@ mərrə
 la
 ⁺zadyat
 ʾatyat
-dan k̭a cačalət
+k̭a cačalət dan
 ɟanu
 malca
 marələ
@@ -191802,7 +191802,7 @@ baxtu
 havar
 vadələ
 mxayələ
-rišu ɟu
+ɟu rišu
 ʾay
 ʾavən
 ⁺xlapux
@@ -191818,7 +191818,7 @@ cullə
 cullə
 ⁺narahat
 bəxya
-da baxta
+baxta da
 ⁺bərxaṱəla
 cəs ⁺ɟoro
 bəxpak̭ula
@@ -191844,7 +191844,7 @@ mara
 mattimunlun
 xa ɟu
 lilanka
-susavatə ʾət
+ʾət susavatə
 ⁺mamṱimunlun
 beta
 ʾannə
@@ -191852,7 +191852,7 @@ bərrəxšəna
 bitayələ
 ⁺haji
 ⁺malla
-ʾu ⁺k̭assab
+⁺k̭assab ʾu
 ʾu
 ⁺k̭azi
 ʾannə
@@ -191862,7 +191862,7 @@ mara
 ʾannə
 duk̭unlun
 cullə
-ʾak̭le ʾidə
+ʾidə ʾak̭le
 ⁺surunlun
 ⁺maxleta
 laxxa
@@ -191879,17 +191879,17 @@ hi
 vadəvən
 diva
 ⁺xilalə
-ʾu ⁺k̭assab
+⁺k̭assab ʾu
 ⁺ʾəmza
 vadələ
 k̭at
 hi
-ʾa baxta
+baxta ʾa
 pəlla
-havuz ɟu
+ɟu havuz
 mətla
 ʾu
-⁺ʾo malla
+malla ⁺ʾo
 xina
 mara
 k̭at
@@ -191915,13 +191915,13 @@ mara
 ʾannə
 lablunlun
 mattunlun
-⁺dussak̭ ɟu
+ɟu ⁺dussak̭
 hal k̭a
 mote
 hal k̭a ət
 meti
 bək̭yamələ
-ʾak̭lu ⁺ʾal
+⁺ʾal ʾak̭lu
 k̭a malca
 mara
 ʾavət
@@ -191934,7 +191934,7 @@ k̭ati
 ʾannə
 jullux
 ʾina
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bayyət
 ʾodət
 xa məndi
@@ -191952,21 +191952,21 @@ len
 xina
 malca
 bək̭yamələ
-ʾak̭lu ⁺ʾal
+⁺ʾal ʾak̭lu
 cačala
 ⁺bəzdayələ
 bəxšava
-ʾadiya k̭at
+k̭at ʾadiya
 rišu
 maxilə
 mərrə
 la
 la
 ʾatən
-mən cačalux
+cačalux mən
 xinə
 bṱ avitun
-dɑrbɑr ɟu ət
+ət dɑrbɑr ɟu
 diyyi
 dɑrbɑr
 ⁺yanə
@@ -191983,11 +191983,11 @@ vaccəl
 vazzər
 ⁺raba
 bəxdayəvən
-xa ʾaxĉa k̭at
+ʾaxĉa xa k̭at
 məndi
 ʾana
 mucəxli
-mallat ɟu
+ɟu mallat
 ʾavət
 ⁺raba
 basima
@@ -192001,7 +192001,7 @@ betuytət
 malcuyta
 basima
 ⁺raba
-⁺šmilux k̭at
+k̭at ⁺šmilux
 ʾətva
 lətva
 xa
@@ -192014,19 +192014,19 @@ vəttəva
 xa
 danta
 buda
-ɟano k̭a
+k̭a ɟano
 beta
 ʾen ⁺zayə
 biyyə
 muttila
 ⁺zayə
 brile
-cut yum
-cut yum
+yum cut
+yum cut
 cut
 šita
-cut yum
-cut yum
+yum cut
+yum cut
 ʾe
 səppərta
 ʾen
@@ -192035,8 +192035,8 @@ c ativa
 xa
 məndi
 c ⁺axəlvale
-azəlva c
-atyava c
+c azəlva
+c atyava
 ʾe
 məscənta
 səppərta
@@ -192044,10 +192044,10 @@ səppərta
 lət
 ʾannə
 ⁺zayə
-da ɟu
+ɟu da
 beto
 mədrə
-de ⁺ʾal
+⁺ʾal de
 šita
 xita
 mədrə
@@ -192067,7 +192067,7 @@ mədrə
 lət
 ⁺xilelə
 ⁺va
-mu iva
+iva mu
 ⁺janəm
 ʾaha
 mu
@@ -192096,7 +192096,7 @@ tani
 viyyələ
 ⁺tala
 lipəl
-dani bi
+bi dani
 bitayəl
 ʾen
 biyyət
@@ -192119,9 +192119,9 @@ xina
 ʾa
 ⁺tala
 bəsyak̭ələ
-ʾilana ⁺ʾal
+⁺ʾal ʾilana
 bəsyak̭ələ
-ʾilana ⁺ʾal
+⁺ʾal ʾilana
 ʾita
 ʾo
 ⁺sedači
@@ -192171,9 +192171,9 @@ k̭a da
 tila
 ʾe
 yəmma
-ʾe ʾu
+ʾu ʾe
 ɟašk̭a
-ʾen yan
+yan ʾen
 ⁺zayo
 i ṱ
 p̂urtəcle
@@ -192244,7 +192244,7 @@ xa
 ⁺busra
 ⁺batman
 ʾila
-turcət lišan
+lišan turcət
 ⁺batman
 ⁺yanə
 tre
@@ -192255,7 +192255,7 @@ ciloyə
 ⁺busra
 muyyəva
 beta
-k̭a baxtu
+baxtu k̭a
 mərrə
 k̭at
 ⁺xayəš
@@ -192267,7 +192267,7 @@ vadən
 ⁺berašə
 bašlatlə
 ʾana
-avili ṱ ʾarxə
+ʾarxə avili ṱ
 ⁺malla
 bərrəxšəl
 ⁺bar
@@ -192287,10 +192287,10 @@ bək̭rayəla
 bitayələ
 ⁺malla
 mara
-celə bas
+bas celə
 ⁺busra
 bušəltut
-la yan
+yan la
 mara
 la
 ʾana
@@ -192322,7 +192322,7 @@ la
 buš
 ⁺basurtəla
 ʾayya
-ʾoya ʾən
+ʾən ʾoya
 ciloyə ⁺ʾarp̂a
 xamša ciloyə
 ⁺busra
@@ -192332,10 +192332,10 @@ xamša ciloyə
 ʾadi
 ⁺ʾəsra
 ciloyə
-k̭a baxtu
+baxtu k̭a
 bək̭yamələ
 mxayələ
-⁺ʾal moto
+moto ⁺ʾal
 mara
 ʾatən
 daɟulət
@@ -192374,7 +192374,7 @@ zardə
 ʾe
 yəmma
 ʾuɟa
-de k̭a
+k̭a de
 ⁺ɟoro
 mərtəva
 ʾa
@@ -192410,7 +192410,7 @@ primalə
 tavərta
 zardə
 tunitəva
-de k̭a
+k̭a de
 c̭əč̭č̭ə
 yan
 ʾən
@@ -192419,12 +192419,12 @@ parmali
 ɟarmo
 ⁺jammatte
 ⁺rappatte
-xa ⁺č̭alə ɟu
+⁺č̭alə xa ɟu
 ⁺ṱašyatte
 ʾani
 k̭a diyyax
 ⁺lazəm
-ṱ avini
+avini ṱ
 da hi
 xina
 ʾe
@@ -192465,14 +192465,14 @@ xzilə
 ⁺rədyalə
 ʾe
 baxta
-da xita
+xita da
 yəmmo
 ʾuɟa
 ʾətvala
 tre
 bnatə
 xinə
-da ʾayən
+ʾayən da
 tre
 xa
 xinə
@@ -192502,13 +192502,13 @@ yəmma
 šk̭əlla
 ʾannə
 ⁺xəṱṱə
-da ham
+ham da
 ⁺rəzza
-da ham
+ham da
 mu
 ʾatxa
 dəryela
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 buzbək̭k̭ela
 dəryela
 k̭am
@@ -192533,10 +192533,10 @@ hadax
 xina
 ʾən
 tili
-ʾo ci
+ci ʾo
 yumax
 b yavvənnə
-da ʾayən
+ʾayən da
 ⁺hayvan
 təvla
 vila
@@ -192568,8 +192568,8 @@ tile
 cul
 ⁺jmile
 mərre
-⁺zdi la
-⁺zdi la
+la ⁺zdi
+la ⁺zdi
 mərre
 ʾati
 silax
@@ -192581,11 +192581,11 @@ silax
 ⁺ʾal
 xalta
 šteta
-⁺šara ɟu
+ɟu ⁺šara
 silax
 ʾaxnan
 ʾannə
-b ⁺jammaxle
+⁺jammaxle b
 ʾita
 hi
 k̭ak̭
@@ -192605,7 +192605,7 @@ mərra
 ⁺tama
 hi
 xəšla
-ptixela i ṱ
+i ṱ ptixela
 ʾani
 ɟušək̭la
 tilə
@@ -192621,18 +192621,18 @@ suk̭əlta
 buk̭əlta
 tila
 təvla
-de ⁺ʾal
+⁺ʾal de
 payṱun
 xəšla
 xəšla
 ʾadiyya
-ʾe yəmma
+yəmma ʾe
 ʾuɟa
 i ṱ
 xzila
 k̭a dexa
 brito
-da ham
+ham da
 ʾannə
 xatvato
 ʾuɟa
@@ -192668,15 +192668,15 @@ cullə
 ⁺xdirelə
 ʾo
 brun malca
-həč cəs
+cəs həč
 naša
 la
 rk̭ədlə
 xəšlə
 rk̭ədlə
-de cəs
+cəs de
 brata
-de cəs
+cəs de
 ⁺casəb
 xəšlə
 cəs dayən
@@ -192688,7 +192688,7 @@ k̭a dayən
 xa ca
 ʾa spar
 tre ca d
-do ⁺ʾal
+⁺ʾal do
 yumət
 tre ca d
 ʾa spar
@@ -192698,11 +192698,11 @@ cuma
 suysa
 tilə
 mədrə
-⁺payṱun ɟu
+ɟu ⁺payṱun
 ⁺xarta
 tilə
 yumət
-da ṱla
+ṱla da
 tilə
 xa
 suysa
@@ -192806,7 +192806,7 @@ brun malca
 mərrə
 ʾa
 ⁺savəlta
-cut k̭a
+k̭a cut
 ʾoya
 ʾana
 ʾayən
@@ -192818,16 +192818,16 @@ mavay
 ⁺roba
 mdiyay
 ⁺xdərrə
-həč k̭a
+k̭a həč
 naša
 la
 vila
-b ⁺xartət
+⁺xartət b
 ⁺xarta
 ⁺xartət
 ⁺xarta
 xəšlə
-de cəs
+cəs de
 casəb
 ⁺tama
 xəšlə
@@ -192839,7 +192839,7 @@ xatvay
 ʾayən
 ʾani da
 har
-xela i ṱ
+i xela ṱ
 vado
 b xela
 yan
@@ -192848,7 +192848,7 @@ lošavala
 ⁺savəlta
 la
 vila
-de k̭a
+k̭a de
 xita
 la
 vila
@@ -192875,7 +192875,7 @@ xa ɟu
 ⁺vərtəva
 čulluxta
 xina
-cut jur
+jur cut
 iva ṱ
 švavə
 ⁺pulṱale
@@ -192887,18 +192887,18 @@ mulvəššale
 raz k̭ak̭
 vila
 k̭a dayən
-de k̭a
+k̭a de
 casəb
 vila
 xina
 ʾaha
 k̭a diyyax
 vila
-da ʾayən
+ʾayən da
 ⁺pulṱala
 ʾe
 ⁺savəlta
-da xita
+xita da
 muxziyyala
 mərra
 ʾaha
@@ -192907,15 +192907,15 @@ diyyila
 brun malca
 šk̭ilalə
 mutyəvvalə
-suysət ⁺ʾal
+⁺ʾal suysət
 ɟanu
-⁺payṱunət ɟu
+ɟu ⁺payṱunət
 ɟanu
 lublalə
 beta
 beta
 lublalə
-babu cəs
+cəs babu
 yəmmu
 xina
 ⁺šavva
@@ -192928,12 +192928,12 @@ viyyələ
 ʾatxa
 prək̭la
 məttəlta
-xa baxta
+baxta xa
 ʾətva
 talma
 talma
 ⁺bəddayət
-mu ilə
+ilə mu
 miyya
 dari
 ɟavu
@@ -192955,7 +192955,7 @@ talma
 ⁺ṱənna
 xaso ⁺ʾal
 xəšla
-šak̭ita ⁺ʾal
+⁺ʾal šak̭ita
 miyya
 mayya
 urxət p̂
@@ -192972,14 +192972,14 @@ hi
 ʾatxa
 vədlə
 k̭ato
-yuma ʾo
+ʾo yuma
 xina
 xəšla
 ʾina
 k̭aša
 ʾatxa
 vədlə
-ʾa baxta
+baxta ʾa
 ⁺raba
 ⁺narahat
 vayəla
@@ -192998,7 +192998,7 @@ bitayəla
 k̭a ⁺ɟoro
 marəla
 mara
-ʾatxəla k̭at
+k̭at ʾatxəla
 k̭əssat
 ʾana
 xəšli
@@ -193010,7 +193010,7 @@ məxyannə
 k̭aša ʾu
 ⁺ʾayna
 məxyannə
-ʾu ʾabuna
+ʾabuna ʾu
 ⁺ʾayna
 məxyannə
 ʾaha
@@ -193026,7 +193026,7 @@ marələ
 la
 la
 ⁺narahat
-vi la
+la vi
 hallun
 ⁺dana
 ʾati
@@ -193043,7 +193043,7 @@ melun
 beta
 la ʾavilax
 ⁺šula
-šamaša k̭a
+k̭a šamaša
 tani
 ⁺saʾatət
 ʾəšta
@@ -193056,7 +193056,7 @@ la ʾatə
 ʾatə
 ʾavə
 beta ɟu
-k̭aša k̭a
+k̭a k̭aša
 tani
 ⁺saʾat
 ʾəšta
@@ -193072,7 +193072,7 @@ zoda
 la
 yavvat
 ⁺dana
-šamaša k̭a
+k̭a šamaša
 tani
 ⁺saʾat k̭at
 ʾəšta
@@ -193096,7 +193096,7 @@ myatən
 k̭atax
 mara
 xob
-b ⁺saʾat
+⁺saʾat b
 ʾəšta
 ʾatət
 beti
@@ -193104,7 +193104,7 @@ beti
 ductələ
 šamaša
 bitayələ
-har k̭at
+k̭at har
 xardə
 b k̭dalo
 našək̭la
@@ -193125,7 +193125,7 @@ xač̭č̭a
 šatax
 ʾita
 ⁺xarta
-ʾana xina
+xina ʾana
 diyyux van
 ⁺ɟori
 lelə
@@ -193135,21 +193135,21 @@ bətyavəna
 ⁺bixaləna
 šamaša
 xədyələ
-b xa ɟa
+ɟa xa b
 ⁺saʾatət
-palɟə ʾəšta
+ʾəšta palɟə
 vayəla
 k̭aša
 mxayəl
-⁺ʾal tarra
+tarra ⁺ʾal
 mara
-⁺k̭əṱma ʾay
+ʾay ⁺k̭əṱma
 b riši
 ⁺ɟori
 tilə
-mu ʾodən
-mu ʾodən
-zə ⁺ɟoro
+ʾodən mu
+ʾodən mu
+⁺ɟoro zə
 mirəva
 mattatlun
 ɟu bušk̭
@@ -193159,23 +193159,23 @@ bušk̭a
 bušk̭ə
 ⁺bəddayət
 bušk̭a
-mu ila
+ila mu
 bušk̭ə
-ɟave k̭at ⁺nuyṱa
+k̭at ⁺nuyṱa ɟave
 ⁺ɟurə
 mərrə
 mattatlə
 ⁺tama
 mərra
 lətli
-duca xa
+xa duca
 lətli
-duca xa
+xa duca
 ⁺k̭əṱma
 b riši
 ʾadi
-⁺k̭aṱəllux p̂
-⁺vur k̭u
+p̂ ⁺k̭aṱəllux
+k̭u ⁺vur
 bušk̭a ɟu
 ⁺varəl
 bušk̭a ɟu
@@ -193189,15 +193189,15 @@ mara
 la
 la
 ʾana
-ʾa ⁺supra
+⁺supra ʾa
 k̭ax
 vəttun
 yatvax
 ⁺ʾaxlax
 šatax
 ⁺xarta
-ʾana xob
-ivax ʾatən
+xob ʾana
+ʾatən ivax
 xa naša
 litən
 ⁺bəddayət
@@ -193221,22 +193221,22 @@ mxayəna
 ʾabuna
 bitayələ
 mara
-⁺k̭əṱma ʾay
+ʾay ⁺k̭əṱma
 b riši
 ɟori
 tilə
 ʾana
-lenva ⁺bədda
+⁺bədda lenva
 p̂ṱ ativa
-da ⁺ʾavva
+⁺ʾavva da
 mattuyula
 ⁺tama
 ʾabuna
 ⁺varəl
 ʾabuna
-dani mən
+mən dani
 buš xərba
-⁺davva k̭a
+k̭a ⁺davva
 mara
 xač̭č̭a
 spur
@@ -193254,9 +193254,9 @@ b riši
 ⁺ɟori
 ⁺vərrə
 ʾadi
-⁺k̭aṱəllux p̂
-mu ʾodən
-mu ʾodən
+p̂ ⁺k̭aṱəllux
+ʾodən mu
+ʾodən mu
 ʾana
 ʾabuna
 ⁺ʾabuyri
@@ -193265,8 +193265,8 @@ cullə
 našə
 ⁺bəddayina
 mara
-⁺vur k̭u
-do ɟu
+k̭u ⁺vur
+ɟu do
 bušk̭a
 ⁺varəl
 bušk̭a ɟu
@@ -193291,13 +193291,13 @@ hi
 ⁺raba
 k̭uya
 hamzumələ
-mən baxtu
+baxtu mən
 ʾani k̭at
 ⁺šammi
 mara
 baxta
 ⁺bəddayət
-mu ila
+ila mu
 masala
 mara
 la
@@ -193308,16 +193308,16 @@ mara
 viyyələ
 ⁺ṱima
 ʾana
-lelə ʾad
+ʾad lelə
 ɟari
 damxən
 yatvən
-bušk̭ət do ⁺ʾal
+bušk̭ət ⁺ʾal do
 ⁺nuyṱa
-la ʾati k̭at
+la k̭at ʾati
 ɟanvilə
 bətyavələ
-do ⁺ʾal
+⁺ʾal do
 bušk̭ət
 ⁺nuyṱa
 xob cullə
@@ -193353,10 +193353,10 @@ mətlə
 mattuyuna
 ʾatxa
 ⁺yarixa
-sanduyk̭u ɟu
+ɟu sanduyk̭u
 našə
 bitayəna
-labli k̭at
+k̭at labli
 ⁺ṱamrilə
 marəna
 xzi
@@ -193371,7 +193371,7 @@ mattimunlə
 tre
 mətrəva
 mita
-mattitunlə ci
+ci mattitunlə
 vudunlə
 ⁺ṱla
 mətrə
@@ -193403,19 +193403,19 @@ k̭atoxun
 mərran
 ʾaha
 b dar
-atə ṱ
+ṱ atə
 dulə
 laxxa
 bəšk̭alu
 labuluna
 mədrə
 mattuyuna
-⁺ʾarp̂a ɟu
+ɟu ⁺ʾarp̂a
 mətrə
 ⁺bək̭k̭arəna
 ⁺bək̭k̭arəna
 mattuyuna
-⁺ʾarp̂a ɟu
+ɟu ⁺ʾarp̂a
 mətrə
 maccusuna
 bitayəna
@@ -193423,7 +193423,7 @@ k̭at
 zuyzə
 šak̭li
 bəxzayəna
-ʾət da d ⁺ṱla
+⁺ṱla ʾət d da
 ⁺tamələ
 marət
 mita
@@ -193434,7 +193434,7 @@ mara
 ʾana
 k̭atoxun
 mərri
-xa ɟa
+ɟa xa
 mərri
 ʾaxtun
 ʾaxči
@@ -193444,10 +193444,10 @@ zuyzə
 ʾana
 k̭atoxun
 mərri
-mitə k̭at
+k̭at mitə
 diyyan
-k̭emi ci
-ati c
+ci k̭emi
+c ati
 dulə
 tilə
 ⁺ṱumrutun
@@ -193457,18 +193457,18 @@ tilə
 ʾannə
 taxmunəna
 mu ʾodi
-mu la ʾodi
-xina la
+la mu ʾodi
+la xina
 ⁺ṱamrilə
 ʾaha
 lablilə
 mask̭ilə
 ⁺raba
-xa ⁺ṱuyra ⁺ʾal
-xa ⁺ṱuyra ⁺ʾal
+xa ⁺ʾal ⁺ṱuyra
+xa ⁺ʾal ⁺ṱuyra
 ⁺raba
 ⁺rama
-mən ⁺tama
+⁺tama mən
 ⁺rappilə
 ʾəltəx
 le ⁺bayyi
@@ -193485,12 +193485,12 @@ masuk̭una
 masuk̭una
 ⁺ʾuxča
 šuršiyyəna
-mən ⁺tama
+⁺tama mən
 ⁺byayəna
 ⁺rappilə
 ʾəltəx
 xa
-mən məššəlmanə
+məššəlmanə mən
 dast
 ⁺namaz
 bəšk̭aləva
@@ -193503,7 +193503,7 @@ miyya ɟu
 ⁺bəddayət
 dast
 ⁺namaz
-mu ila xina
+xina ila mu
 ʾide
 ⁺xalli
 ʾak̭le
@@ -193533,15 +193533,15 @@ riše
 da zuyze
 ɟane da
 ʾaxnan
-⁺bayyax le
+le ⁺bayyax
 ʾazax
 ⁺hala
 ⁺ʾavva
 ʾarra ⁺ʾal
-k̭yata la
+la k̭yata
 vel bərrak̭a
-⁺bayyaxlə le
-naša ʾo
+le ⁺bayyaxlə
+ʾo naša
 k̭əmlə
 bərrak̭a
 bəxzayələ
@@ -193555,14 +193555,14 @@ mitələ
 mara
 ⁺hala
 ⁺ʾavva
-k̭yata la
+la k̭yata
 ʾarra ⁺ʾal
 velə
 bək̭yama
 rək̭lə
 xəšlə
 ʾaxnan
-⁺bayyaxlun le
+le ⁺bayyaxlun
 la
 zuyze
 ⁺bayyaxlun
@@ -193586,7 +193586,7 @@ k̭atu
 xina
 ⁺ɟura
 viyyət
-⁺amsət c
+c ⁺amsət
 ʾazət
 palxət
 ʾa
@@ -193638,7 +193638,7 @@ bərrəšxələ
 nuynə
 bədvak̭ələ
 mayələ
-mdita ɟu
+ɟu mdita
 zabunelə
 laxxa
 ⁺tamma
@@ -193661,7 +193661,7 @@ xa
 ⁺šulə
 bak̭urələ
 ʾaha
-mu ila
+ila mu
 laxxa
 mara
 ʾaha
@@ -193676,7 +193676,7 @@ daxila
 lablən
 laxxa
 ɟu
-malca bet
+bet malca
 ʾannə
 zabnənnun
 buš
@@ -193718,10 +193718,10 @@ k̭at
 ʾana
 nuynə
 ʾətli
-zabuna k̭a
+k̭a zabuna
 xatəna
 taza
-mən miyya
+miyya mən
 dvik̭en
 ⁺raba
 šap̂irəna
@@ -193739,7 +193739,7 @@ xa
 yala
 nuynə
 zabunələ
-brat malca
+malca brat
 mara
 ⁺k̭rilə
 ʾatə
@@ -193753,19 +193753,19 @@ yala
 ⁺raba
 šap̂irələ
 mara
-cut yum
+yum cut
 k̭a diyyan
 nuynə
 mayyə
-cut yum
+yum cut
 nuynə
 labulələ
 k̭a dannə
 ʾa brata
 marəla
-ʾaxuno k̭a
+k̭a ʾaxuno
 tani
-babi k̭a
+k̭a babi
 ʾana
 ʾa
 yala
@@ -193776,13 +193776,13 @@ yavvəlli
 k̭a daha
 ʾaha
 marələ
-babu k̭a
+k̭a babu
 babi
 xati
 k̭a da
 yala
 ⁺byayəla
-nuynə k̭at
+k̭at nuynə
 zabunələ
 xob
 mara
@@ -193798,13 +193798,13 @@ mənnu
 mu
 vadət
 ⁺šulux
-mu ilə
+ilə mu
 ʾaha
 mara
 ʾa
 nuynə
-dok̭ən ci
-lablən ci
+ci dok̭ən
+ci lablən
 zabnənnun
 mara
 ʾaxnan
@@ -193826,7 +193826,7 @@ mayyi
 ɟu dəccana
 našə
 ʾati
-mən ⁺tama
+⁺tama mən
 zonilun
 xina
 la
@@ -193837,7 +193837,7 @@ zabənnun
 mara
 ʾavitun
 basimə
-mu k̭a
+k̭a mu
 la
 ʾaha
 ⁺raba
@@ -193869,7 +193869,7 @@ k̭atu
 mara
 xuš
 k̭a ɟanux
-xa beta
+beta xa
 ⁺matrəs
 ⁺ɟura
 ʾatxa
@@ -193882,9 +193882,9 @@ xa
 beta
 ⁺šulə
 yəmmu da
-xa baxta
+baxta xa
 sotəla
-da ⁺ʾavun
+⁺ʾavun da
 mattuyolə
 ɟavu
 ⁺šulə
@@ -193922,7 +193922,7 @@ bədvak̭əla
 ⁺bar
 hada
 ʾa
-da brata
+brata da
 hamzuməla
 mənnu
 hamzuməna
@@ -193942,10 +193942,10 @@ k̭a daha
 bəɟvarəna
 ⁺xluyla
 maraca
-axxa m
-⁺tamma ⁺ʾal
+m axxa
+⁺ʾal ⁺tamma
 labulolə
-do ɟu
+ɟu do
 beta
 betu
 ⁺hala
@@ -193953,7 +193953,7 @@ həč məndi
 la
 va
 bəšvarələ
-b rišo
+rišo b
 k̭at
 našək̭la
 ʾayya da
@@ -193963,9 +193963,9 @@ k̭atu
 lela
 tabak̭ət
 nuynə
-rišux ⁺ʾal
+⁺ʾal rišux
 ʾicət
-cu məndit
+məndit cu
 ⁺bayyət
 ʾodət
 ʾaha
@@ -194011,7 +194011,7 @@ xina
 bərrəšxələ
 bərrəšxələ
 ⁺plaṱələ
-mən beta
+beta mən
 bərrəšxələ
 ʾa
 brata
@@ -194040,9 +194040,9 @@ mačxannə
 brata
 bərrəšxəla
 ⁺bəxdarəla
-da ɟu
+ɟu da
 mdita
-ʾaha k̭at
+k̭at ʾaha
 mačxalə
 lela
 mačuxu
@@ -194051,7 +194051,7 @@ mačuxu
 lelə
 hamzumə
 xina
-cu məndit
+məndit cu
 mənnu
 ⁺bak̭urəna
 lelə
@@ -194063,9 +194063,9 @@ mara
 bətyavəla
 ɟami ɟu
 bərrəšxəla
-b ɟami
+ɟami b
 ⁺ʾora
-da ⁺ʾal
+⁺ʾal da
 ɟibət
 ⁺ʾatra
 ʾaha
@@ -194097,7 +194097,7 @@ mara
 ʾannə
 xa yala
 laxxa
-davək̭lun ci
+ci davək̭lun
 bašəllun
 ʾina
 ʾa yala
@@ -194134,7 +194134,7 @@ mara
 marj
 dok̭ax
 mənnax
-xa ʾaxča ⁺ʾal
+xa ⁺ʾal ʾaxča
 davə
 ʾaha
 ⁺lalələ
@@ -194143,7 +194143,7 @@ k̭atu
 hamzəm
 marj
 dvik̭əna
-xa ʾaxča ⁺ʾal
+xa ⁺ʾal ʾaxča
 davə
 ⁺ʾavva
 mara
@@ -194159,9 +194159,9 @@ mara
 ⁺ʾal
 ɟamiyyi
 ʾana
-b ɟami
+ɟami b
 titəla
-de ɟamiyyi ⁺ʾal
+de ⁺ʾal ɟamiyyi
 ʾana
 marj
 bədvak̭ən
@@ -194174,7 +194174,7 @@ mara
 k̭atu
 hamzəm
 ɟami
-šak̭lila p
+p šak̭lila
 mara
 la
 ʾana
@@ -194190,7 +194190,7 @@ k̭avvulən
 ʾa
 la
 humzəmlə
-diyyi rišət
+rišət diyyi
 prumulə
 ʾannə da
 ⁺bək̭rayəna
@@ -194203,16 +194203,16 @@ bratət
 malcəla
 ⁺byayəna
 xa
-mir ⁺k̭azzab
+⁺k̭azzab mir
 bitayələ
 k̭at
-daha rišət
+rišət daha
 parəmlə
 mara
 riši
 ⁺byayəna
 parmilə
-b hamzəmmət
+hamzəmmət b
 yan
 la
 k̭ala
@@ -194220,7 +194220,7 @@ lelə
 vada
 ⁺ʾavva
 bəšk̭alələ
-sepa ʾo
+ʾo sepa
 idu p̂
 mara
 ʾaha
@@ -194233,14 +194233,14 @@ lela
 ʾaha
 rišət
 brat malcələ
-⁺ʾamsət la
+la ⁺ʾamsət
 parməttə
-ʾe ⁺dan
+⁺dan ʾe
 hamzumələ
 xina
 ʾaha
 cullə
-məndyanət ʾan
+ʾan məndyanət
 ⁺muk̭rəmmeva
 yavena
 k̭atu
@@ -194255,7 +194255,7 @@ marələ
 dok̭anət
 nuynəvən
 ʾatən
-xa brat malcəvat
+xa malcəvat brat
 ʾayya
 c ⁺amsax
 ʾaxnan
@@ -194278,14 +194278,14 @@ sapar
 mara
 ʾətva
 lətva
-mən ʾalaha
+ʾalaha mən
 həč
 məndi
 ⁺ɟura
 lətva
-dana xa
+xa dana
 ⁺pulad dev
-dana xa ɟu
+xa dana ɟu
 ⁺zaġa
 ʾətlə
 xamšamma
@@ -194308,18 +194308,18 @@ bədrayələ
 cipa
 ⁺ʾav
 xarbusulə
-ʾərbə k̭at
+k̭at ʾərbə
 la
 ⁺palṱi
-cma t
+t cma
 ʾəttən
-da ɟu
+ɟu da
 ⁺mazra
 ⁺casibə
 ⁺cusibə
 ʾərbə
 bəšk̭aləl
-ɟanu bet
+bet ɟanu
 ⁺bəxvaṱələ
 mayelə
 ʾaha
@@ -194342,9 +194342,9 @@ brata
 xela
 mayol
 bədyašolə
-do ɟu
+ɟu do
 ⁺zaġa
-do ɟu
+ɟu do
 ⁺zaġa
 bətyavəla
 dək̭nu
@@ -194390,18 +194390,18 @@ brunu
 labulolə
 ʾaha
 bərrəššəl
-parək̭la k̭at
+k̭at parək̭la
 ⁺ʾamma
 k̭atu
 mirəna
 xzi
 ʾat
-mən ⁺dav ʾid
+ʾid ⁺dav mən
 le
 parkətta
 k̭uč̭č̭a
 mxayulə
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 ɟəldət
 k̭uč̭č̭a
 bəlvašulə
@@ -194412,20 +194412,20 @@ b k̭uč̭č̭a
 ʾərbə
 jəns
 ⁺mavurel
-k̭at ⁺tama
+⁺tama k̭at
 naša
-⁺ʾavər la
+la ⁺ʾavər
 muyyolə
-naš cal
+cal naš
 ɟniva
 muyyol
-ču hu
+hu ču
 ⁺mavurolə
-mən ⁺tama
-ʾe ⁺danta
+⁺tama mən
+⁺danta ʾe
 ⁺varələ
 laxxa
-k̭atu ba
+ba k̭atu
 mirəna
 ⁺ʾavva
 dev
@@ -194438,9 +194438,9 @@ bitayələ
 mara
 ʾof
 rex
-naša ⁺bar
+⁺bar naša
 bitayələ
-axxa m
+m axxa
 mara
 mu
 ⁺dilux
@@ -194456,15 +194456,15 @@ našəl ⁺bar
 k̭uč̭č̭a
 mara
 ʾita
-idi m
-xu le
+m idi
+le xu
 park̭ət
 ʾatən
 b lelə
 bək̭yamələ
 ⁺danət ʾe
 ⁺ʾav
-ʾərbita k̭at
+k̭at ʾərbita
 muttuyolə
 nuyra
 bašli
@@ -194475,26 +194475,26 @@ bək̭yaməl
 šampur
 mašxunulə
 bədyašul
-ɟu ⁺ʾaynu
-ɟu ⁺ʾaynu
+⁺ʾaynu ɟu
+⁺ʾaynu ɟu
 ʾaxči
 k̭at
 ⁺palət
-mən ⁺tama
-ʾa da brata
+⁺tama mən
+brata ʾa da
 calu
 labəlla
-de mən
+mən de
 ʾe
 ⁺danta
 mərrə
-idi m
+m idi
 le
 park̭ət
 xayya
-ʾe ⁺dan
+⁺dan ʾe
 tilə
-cipa k̭at
+k̭at cipa
 xurbəslə
 dana
 dana
@@ -194503,10 +194503,10 @@ dana
 ⁺ʾav
 ziɟa
 b k̭dalulə
-k̭uč̭č̭əl da
+da k̭uč̭č̭əl
 xina
 ⁺ʾavva
-b k̭dalət
+k̭dalət b
 k̭uč̭č̭u
 dəryəl
 ziɟa
@@ -194514,19 +194514,19 @@ he
 k̭am cullə
 bitayələ
 ⁺plaṱələ
-ʾa t
+t ʾa
 k̭uč̭č̭a
 ⁺dav
 ⁺xarta
 dax
-atə ṱ
+ṱ atə
 ʾa
 ɟanu
 k̭amta
 dəryal
 ʾa
 sapar
-mən ⁺tama
+⁺tama mən
 k̭am cullə
 ⁺plaṱələ
 mərrə
@@ -194534,32 +194534,32 @@ ba
 beti
 muxrəvlux
 ⁺pliṱəl
-idi m
+m idi
 le
 park̭ət
-xayya ʾalaha
-ʾan ⁺ṱla
+ʾalaha xayya
+⁺ṱla ʾan
 dastət
 jullə
 ʾe
 calu
-ʾət ⁺davun
-ʾət yalu
+⁺davun ʾət
+yalu ʾət
 yuvvela
 k̭a do
 naša
-ʾo t
+t ʾo
 tilə
 paruk̭o
 paruk̭o
 mərra
 k̭am cullə
-ʾe dasta
+dasta ʾe
 ⁺ɟurta
 mattətta
 azət ṱ
 b rek̭ət
-b yatəv
+yatəv b
 day ⁺ʾal
 baxə
 baxə
@@ -194567,32 +194567,32 @@ hal ⁺dar
 mattila
 beta
 mədrə
-atə ṱ
+ṱ atə
 ⁺maṱilux
 mərra
 ʾa
 sapar
 mattətta
-ʾe dastət
+dastət ʾe
 do
 brunu
-ṱ ⁺aralləġ
+⁺aralləġ ṱ
 ʾadi
 baxə
 baxə
 ⁺ʾallo
 ⁺raba
 b ark̭əl
-atə ṱ
+ṱ atə
 mərra
 xač̭č̭a
 mazyəd
 oya ṱ
 ⁺ʾara mən žə k̭at
 ⁺ʾavər
-⁺ʾara mən žə
+mən žə ⁺ʾara
 ʾavər
-mən ⁺tama
+⁺tama mən
 ʾe
 dastət
 ⁺ʾallo
@@ -194603,31 +194603,31 @@ bəxyəle
 bitayələ
 mədrə
 ⁺tama
-de cəs
+cəs de
 brata
 ʾa
 sapar
-mən ⁺tama
+⁺tama mən
 mərra
 ʾət do
 brunu
 sura
 mattəttun
 jullu
-da ⁺ʾal
+⁺ʾal da
 ⁺raba
 baxə
 ʾat k̭at
-⁺ʾara mən žə
+mən žə ⁺ʾara
 ⁺ʾorət
 ʾazət
-k̭a diyyi k̭at
+k̭a k̭at diyyi
 park̭ət
 lablət
 k̭at
 le ⁺ʾaməs
 xina
-l pat e
+l e pat
 ⁺ʾara zə
 ⁺ʾavər
 ʾe
@@ -194637,10 +194637,10 @@ do
 sura
 mattuyela
 k̭amu
-bəxya xa
+xa bəxya
 bəxyələ
 xina
-⁺ʾamsan la
+la ⁺ʾamsan
 tayyan
 ʾe
 ⁺danta
@@ -194648,11 +194648,11 @@ tayyan
 bəšk̭alolə
 ʾe
 brata
-⁺ʾara mən zə
+mən ⁺ʾara zə
 ⁺varələ
 ⁺ʾav da
 npaləl
-⁺ʾara ɟu
+ɟu ⁺ʾara
 bəxnak̭əl
 bənpala
 bəxnak̭ələ
@@ -194676,7 +194676,7 @@ vayulə
 xa
 bruna
 brunu
-b suruytu
+suruytu b
 ⁺roba
 baxyana
 vayələ
@@ -194707,7 +194707,7 @@ sura
 k̭at
 dmixələ
 ɟašuk̭əna
-⁺ʾal ɟarɟušta
+ɟarɟušta ⁺ʾal
 xuvva
 tivələ
 rišu
@@ -194725,7 +194725,7 @@ malca
 ʾatxa
 məndi
 xəzyəx
-mu ila
+ila mu
 vita
 ba
 xa
@@ -194758,7 +194758,7 @@ k̭aṱṱilə
 ya
 xuvva
 bəxxayələ
-da ɟu
+ɟu da
 ⁺p̂alaṱət
 malca
 mən brunu
@@ -194769,14 +194769,14 @@ vayələ
 ʾəšta
 šənnə
 xa yuma
-mən xuvva
+xuvva mən
 ⁺ṱavalta
 ɟašuk̭ələ
-ɟuyda ⁺ʾal
+⁺ʾal ɟuyda
 xa
 dana
 sepa
-ɟuyda ⁺ʾal
+⁺ʾal ɟuyda
 vayəla
 čumbəlta
 sepa
@@ -194798,13 +194798,13 @@ mxayələ
 ⁺bək̭ṱayələ
 xuvva
 bəxzayələ
-ṱupru ⁺ʾal
+⁺ʾal ṱupru
 mən
 de
 ⁺marrət
 ⁺ṱupru
 bəšk̭aləl
-dana xa
+xa dana
 ⁺bənnasulə
 ya
 zə yala
@@ -194838,9 +194838,9 @@ yala
 bruni
 mitələ
 lipəxva
-do ⁺ʾal
+⁺ʾal do
 xuvva
-b bruni šop
+bruni b šop
 mayyən
 xamənnə
 gone
@@ -194873,11 +194873,11 @@ cum
 vitəla
 manšiyyaxxa
 ʾana
-diyyux k̭a
+k̭a diyyux
 dax
 bruna
 xamina
-ɟu diyyi bet
+bet ɟu diyyi
 ta
 b ɟarvəssənnux
 mara
@@ -194898,9 +194898,9 @@ k̭a diyyi
 pisuyta
 p̂ṱ odət
 ʾana da
-diyyux k̭a
+k̭a diyyux
 buš
-⁺spay la
+la ⁺spay
 ʾat
 k̭a ɟanux
 xuš
@@ -194913,10 +194913,10 @@ bərrəxšələ
 bəšk̭alələ
 ⁺k̭usarta
 dena
-mən švavu
+švavu mən
 marələ
 halli
-dana xa
+xa dana
 ⁺k̭usarta
 ⁺bayyən
 bašlən
@@ -194937,7 +194937,7 @@ k̭a
 švava
 ʾina
 tre
-surə ⁺k̭usaryay
+⁺k̭usaryay surə
 mattuyəl
 ɟavo
 švava
@@ -194959,7 +194959,7 @@ k̭atu
 ʾavət
 basima
 bitayələ
-ʾe šabta
+šabta ʾe
 xita
 ⁺malla
 ⁺nasradən
@@ -194974,16 +194974,16 @@ buš ⁺ɟurta
 ⁺nasradən
 ⁺ʾaynu
 pəltəva
-xa ⁺k̭usartət ⁺ʾal
+xa ⁺ʾal ⁺k̭usartət
 švavə
 nak̭ša
 ɟrišəva
-⁺bayyiva ʾay
+ʾay ⁺bayyiva
 mayyivala
-de k̭a
+k̭a de
 ⁺k̭usartu
 yuvvalə
-xinə tre da
+tre da xinə
 surə
 mənno
 xəšlə
@@ -194998,8 +194998,8 @@ bašlən
 xurrac
 ɟavo
 yavolə
-ʾe ⁺k̭usarta
-šap̂ərta buš
+⁺k̭usarta ʾe
+buš šap̂ərta
 ⁺ɟurta
 k̭a
 ⁺malla
@@ -195015,13 +195015,13 @@ xa yuma
 tre yumə
 xa šabta
 tre šabay
-xa yarxa
+yarxa xa
 tre yarxə
 ⁺k̭usarta
 litən
 dax ba
 vila
-ʾa ⁺k̭usarta
+⁺k̭usarta ʾa
 mu
 vila
 ⁺k̭usarta
@@ -195035,7 +195035,7 @@ basima
 ⁺k̭usarta
 muyyovət
 ʾatən
-⁺dana cma
+cma ⁺dana
 k̭am
 ʾadiyya
 ⁺bayyənna
@@ -195043,9 +195043,9 @@ mut
 ⁺k̭usarta
 mərrə
 ⁺k̭usarta
-ʾat muyyalux
-cəslan m
-bašlətva k̭at
+muyyalux ʾat
+m cəslan
+k̭at bašlətva
 xurrac
 ɟavo
 ʾa
@@ -195080,7 +195080,7 @@ xamiva
 mara
 k̭emən
 k̭a ʾazən
-⁺marya k̭a
+k̭a ⁺marya
 ʾalaha
 xaltana
 šəccayat
@@ -195095,7 +195095,7 @@ xač̭č̭a
 bərrəššələ
 ⁺raba
 bərrəššələ
-⁺baba ⁺ʾata
+⁺ʾata ⁺baba
 mirəna
 ʾicət
 yuma
@@ -195146,14 +195146,14 @@ naša
 ʾatxa
 ⁺marra
 viyyulə
-axxa m
+m axxa
 mərrə
 ʾaxuni
 ʾica
 bərrəššət
 mərrə
 bərrəššən
-ʾalaha k̭a
+k̭a ʾalaha
 šəccayat
 ʾodən
 len
@@ -195171,7 +195171,7 @@ xa
 vayəle
 ʾilanət
 pərdesa
-cut yal
+yal cut
 sur
 lel
 vayu
@@ -195191,11 +195191,11 @@ xabuša
 ⁺marru
 bərrəššəl
 parpusəl
-mən ʾalaha
+ʾalaha mən
 ʾita
 ʾa
 sapar
-mən ⁺tama
+⁺tama mən
 bərrəššələ
 ⁺ʾamma
 ʾa
@@ -195208,11 +195208,11 @@ pašva
 ⁺ʾamma
 ⁺ṱinəl
 piləl
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 xa
 dana
 xabuša
-⁺allu m
+m ⁺allu
 lel
 npala
 mənnu
@@ -195220,12 +195220,12 @@ k̭ala
 ⁺plaṱələ
 mara
 ha
-naša ⁺bar
+⁺bar naša
 ʾicət
 bərrəšša
 ʾana
 bərrəššən
-ʾalaha k̭a
+k̭a ʾalaha
 šəccayat
 vada
 bas da diyyi
@@ -195250,7 +195250,7 @@ viyyən
 xina
 ʾa
 sapar
-mən ⁺tama
+⁺tama mən
 xač̭č̭a
 bərrəššələ
 ⁺raba
@@ -195263,32 +195263,32 @@ diva
 ⁺ʾamma
 cullə
 ɟarmu
-⁺allu m
+m ⁺allu
 ⁺pliṱəna
 dmixələ
-mən ʾalaha
+ʾalaha mən
 ʾita
 k̭ala
 bitayələ
 hamzumələ
 diva
 mara
-naša ⁺bar
+⁺bar naša
 ʾicət
 bərrəšša
 mərrə
-ʾalaha k̭a
+k̭a ʾalaha
 šəccayat
 vada
 bas da diyyi
 tani
-ʾalaha k̭a
-mən ⁺tama
+k̭a ʾalaha
+⁺tama mən
 ⁺plaṱa
 bərrəššələ
-da xač̭č̭a
+xač̭č̭a da
 bərrəššələ
-l yba o
+l o yba
 bərrəššələ
 ɟašuk̭əl
 xa
@@ -195299,7 +195299,7 @@ yala
 hal
 laxxu
 pišələ
-cipa ɟu
+ɟu cipa
 bəxyələ
 ⁺sosuyələ
 ʾalaha
@@ -195316,7 +195316,7 @@ la
 parək̭li
 ʾica
 bərrəššət
-ʾalaha cəs
+cəs ʾalaha
 bas
 da diyyi
 hak̭ət
@@ -195325,7 +195325,7 @@ bərrəššələ
 ⁺marya
 ʾalaha
 xaltana
-mən ⁺tama
+⁺tama mən
 talmidu
 ⁺šadurulə
 mirələ
@@ -195349,9 +195349,9 @@ xayyən
 ʾatxa
 mərrə
 ʾatən
-axxa m
+m axxa
 p̂ṱ azət
-dana xa
+xa dana
 ⁺k̭usarta
 dava
 xut
@@ -195363,16 +195363,16 @@ pərdesa
 ɟnavta
 vitəla
 mumrəllə
-xabuša ʾo
+ʾo xabuša
 ʾatən
 ʾay
 ⁺palṱətta
-b lablət
+lablət b
 xayyət
 diyyu
 k̭a do
 naša
-cipələ ɟu k̭at
+cipələ k̭at ɟu
 tanət
 ⁺ʾavun
 hal dunyə
@@ -195381,24 +195381,24 @@ nuxama
 ⁺ʾav
 ɟarəc
 paš
-cipa ɟu
-pat ɟu
+ɟu cipa
+ɟu pat
 baba
 yəmma
 ⁺raba
 k̭imələ
 hada
 k̭imələ
-pat ɟu
+ɟu pat
 baba
 yəmma
 xina
-ʾoya le
+le ʾoya
 tanuyə
 ⁺ʾav
 ʾatxa
 pašni
-axxa m
+m axxa
 p̂ṱ azət
 mərrə
 k̭a do
@@ -195434,17 +195434,17 @@ b lavəšlun
 laxma
 p̂ṱ ⁺axəl
 parək̭
-naša ʾo
+ʾo naša
 bitayəl
 ⁺mṱayələ
-diva cəs
+cəs diva
 mara
 ⁺hala
 davə
 bəšk̭alel
 ⁺paluṱel
 mattuyel
-do lab
+lab do
 naša
 mara
 ʾazən
@@ -195466,9 +195466,9 @@ honu
 lelə
 ʾa
 sapar
-mən ⁺tama
+⁺tama mən
 bitayələ
-diva cəs
+cəs diva
 mara
 ʾaxuni
 mu
@@ -195478,7 +195478,7 @@ mərrə
 xaltana
 k̭a diyyi
 mara
-xač̭č̭a ta
+ta xač̭č̭a
 k̭urba
 len
 ⁺bəšmaya
@@ -195489,14 +195489,14 @@ c avən
 mu
 mirələ
 mara
-k̭urba ta
+ta k̭urba
 len
 ⁺bəšma
 bərrəššələ
 k̭urba
 ʾidu
 ⁺rappuyol
-mən cisu ɟu
+mən ɟu cisu
 ⁺marya
 ʾalaha
 xaltana
@@ -195505,25 +195505,25 @@ mirələ
 azət ṱ
 k̭a diva
 tanət p
-dana xa
+xa dana
 ʾaxmak̭
 naša
-tapək̭ p
+p tapək̭
 ⁺ʾal ʾidux
 ⁺axləttə ṱ
-k̭emət p̂
+p̂ k̭emət
 ⁺ʾav
 odət ṱ
-mən cəpnu
+cəpnu mən
 lel
 ⁺myasa
 k̭am
-mən ⁺tama
+⁺tama mən
 ʾa
 sapar
 ʾa
 naša
-atə c
+c atə
 tunilə
 k̭atu
 ʾa
@@ -195542,7 +195542,7 @@ mən cisu
 naša
 ⁺xəllə
 mərrə
-mənnux da
+da mənnux
 ʾaxmak̭
 naša
 lətva
@@ -195556,19 +195556,19 @@ nafarux
 xumyu
 k̭a diva ba
 ⁺juvvab
-ci mayyi
+mayyi ci
 cisu
 tupxalə
 k̭atu
 ⁺xəllə
-ʾan da davə
+davə da ʾan
 pəšlun
 k̭a do
 našət
 k̭at
 ⁺lam
 ⁺saṱana
-mən pummu ɟu
+pummu mən ɟu
 ⁺pləṱlə
 ʾaha
 ʾatxa
@@ -195587,13 +195587,13 @@ xa
 ʾətvalə
 xa
 bruna
-da ham
+ham da
 ɟanu
 baxtu
-ʾu da ham
-ʾo brunu
+ham ʾu da
+brunu ʾo
 bəxxayəva
-de ɟu
+ɟu de
 čulluxta
 xa
 ⁺čolə
@@ -195604,7 +195604,7 @@ sura
 ʾo
 naša
 sava
-azəlva c
+c azəlva
 hammaša
 yama ⁺ʾal
 davək̭va ci
@@ -195612,8 +195612,8 @@ nuynə
 bi
 hada
 riše
-ci xamivalə
-⁺axliva c
+xamivalə ci
+c ⁺axliva
 xa
 tica
 laxma
@@ -195644,7 +195644,7 @@ dvik̭alə ba
 ʾe
 nuyna
 xa
-b xa
+xa b
 hamzamta
 pəlla
 biyyo
@@ -195675,7 +195675,7 @@ mənni
 cum
 ṱalbət
 ʾana
-b yavvannux
+yavvannux b
 odannux ṱ
 da hi
 ʾa
@@ -195691,7 +195691,7 @@ xəšla
 xəšla
 ⁺xarta
 xəšlə
-k̭a baxtu
+baxtu k̭a
 huk̭ilə
 mərrə
 ʾay
@@ -195708,13 +195708,13 @@ bənda
 vila
 bətyava
 ʾay
-mu k̭a
+k̭a mu
 ⁺ruppalux
 ⁺k̭əṱma
 b rišux
 suyla
 b rišux
-mu k̭a
+k̭a mu
 ⁺ruppalux
 muyyo
 mirəva
@@ -195736,7 +195736,7 @@ k̭a diyyi
 ⁺danta
 mərra
 si
-di si
+si di
 ʾən
 ʾatxa
 la tunitux
@@ -195787,7 +195787,7 @@ mirəva
 vadəla
 b riši
 baxti
-mən beta
+beta mən
 ⁺rappuyila
 ⁺p̂lašəla
 ⁺bayyət
@@ -195799,14 +195799,14 @@ vudlə
 ⁺ɟura
 hi
 mərtəva
-⁺zdi la
+la ⁺zdi
 silux
 beta
 betux
 uže
 yacca
 p̂ṱ avini
-da məjjət
+məjjət da
 ʾa
 naša
 xəšlə
@@ -195828,7 +195828,7 @@ di
 ʾa
 baxtu
 bi do
-da beta
+beta da
 ⁺razi
 leva
 vita
@@ -195871,8 +195871,8 @@ bənxapələ
 ʾo
 naša
 yan
-cut yum
-cut yum
+yum cut
+yum cut
 ʾazəl
 k̭a da
 nuyna
@@ -195885,13 +195885,13 @@ zahmat
 ⁺ʾallo
 yan
 ʾana
-mu jurra
+jurra mu
 ʾazən
 mədrə
 ⁺ṱalbən
 mənno
 xina
-cut jur
+jur cut
 ila ṱ
 ʾa
 naša
@@ -195900,7 +195900,7 @@ xəšlə
 xəšlə
 mədrə
 ⁺k̭rilə
-de k̭a
+k̭a de
 nuyna
 ʾe
 nuyna
@@ -195924,7 +195924,7 @@ yacca
 beta
 hi
 ⁺spay
-⁺zdi la
+la ⁺zdi
 mara
 silux
 ʾati
@@ -195947,7 +195947,7 @@ naša
 sava
 ɟašək̭
 ʾina
-da məjjət
+məjjət da
 ʾo
 beta
 xa va
@@ -195995,13 +195995,13 @@ mətlə
 xəšlə
 ʾido ɟu
 xina
-cu jur
+jur cu
 iva ṱ
 xəšlə
-ca da ṱla
+ṱla ca da
 mərrə
 azən ṱ
-b ⁺jarbənna
+⁺jarbənna b
 xəšlə
 mərrə
 ʾatxa
@@ -196010,7 +196010,7 @@ baxti
 marəla
 mərtəva
 si
-⁺zdi la
+la ⁺zdi
 silux
 cul
 məndi
@@ -196041,7 +196041,7 @@ biyyu
 baxtu
 ⁺tama
 təvta
-de ɟu
+ɟu de
 ⁺čola
 ʾay
 mərrə
@@ -196058,7 +196058,7 @@ dvarətsi
 ʾadi
 mədrə
 tuy
-da ɟu
+ɟu da
 ⁺čola
 surṱa
 pəšle
@@ -196072,7 +196072,7 @@ sura
 mədrə
 hada
 pəšle
-de ɟu ⁺čola
+ɟu ⁺čola de
 vilə
 hada
 casəb
@@ -196082,7 +196082,7 @@ sava
 mədrə
 har
 hada
-azəlva c
+c azəlva
 max
 k̭amta
 nuynə
@@ -196090,21 +196090,21 @@ davək̭va ci
 c ativa
 riše
 xamuyəva
-bi den
+den bi
 nuynə
 ʾatxa
 vərre
 ʾen
 xayye
 ʾatxa
-⁺oriva c
+c ⁺oriva
 ʾen
 ⁺ɟora
 baxta
 ʾatxa
 xina
-mu jurra
-ci tani
+jurra mu
+tani ci
 parta
 ⁺tama
 k̭amxa
@@ -196124,13 +196124,13 @@ xmaru
 mətlə
 xəšlə
 ⁺bazar
-zavən k̭at
+k̭at zavən
 xmara
 ⁺jummilə
 zuyzə
 xəšlə
 zvənnə
-dana xa
+xa dana
 xmara
 našə
 ⁺raba
@@ -196151,11 +196151,11 @@ mən yala
 šk̭əllə
 šišəlta
 dəryalə
-b k̭dalu
+k̭dalu b
 xəšlə
 ⁺bara
 ⁺malla ⁺bar
-mən ɟibət xmara
+xmara mən ɟibət
 xina ʾo
 ⁺xoru
 šk̭əllə
@@ -196185,13 +196185,13 @@ astaxfurɑllɑ
 ʾo
 ʾalaha
 ʾaha
-mu ila
-mu ila
+ila mu
+ila mu
 vita
 ʾana
 xmara
 zvinən
-dulə ʾa
+ʾa dulə
 vilə
 naša
 mara
@@ -196206,12 +196206,12 @@ xmara
 zvinən
 ʾatən
 naša
-mu vila
+vila mu
 mərrə
 ʾana
 ⁺raba
 xərbənva
-yəmmi k̭a
+k̭a yəmmi
 yəmmi
 k̭ati
 ⁺ləṱla
@@ -196223,7 +196223,7 @@ vili
 xmara
 k̭ati
 zubənnun
-⁺danta da ɟu
+ɟu ⁺danta da
 ʾat
 k̭ay
 tiyyət
@@ -196241,9 +196241,9 @@ naša
 marələ
 ʾavən
 ⁺xlapux
-⁺bili la
-diyyux k̭a
-k̭u šuk̭ si
+la ⁺bili
+k̭a diyyux
+si šuk̭ k̭u
 ʾina
 dok̭ət
 nata
@@ -196262,10 +196262,10 @@ la
 ʾavən
 ⁺xlapux
 xina
-ʾodən le
+le ʾodən
 ⁺šula ʾa
 bitayələ
-⁺xoru cəs do
+cəs ⁺xoru do
 xina
 ilə ṱ
 xmarət
@@ -196273,7 +196273,7 @@ xmarət
 zubnu
 ⁺ʾavva
 ⁺bara
-naša ⁺bar
+⁺bar naša
 xəšlə
 xmara
 lubəllun
@@ -196282,12 +196282,12 @@ xəšlə
 zuyzə
 ⁺pulliyyelun
 ⁺malla
-k̭edamta ⁺ʾal
+⁺ʾal k̭edamta
 bərrəxšələ
 xmara k̭at
 zavən
 bəxzayəl
-xmarət ʾo
+ʾo xmarət
 k̭udmə
 zvinuva
 ʾina
@@ -196304,7 +196304,7 @@ k̭a yəmmux
 xmara
 xa
 ʾurxači
-naša ⁺bar
+⁺bar naša
 vayələ
 ʾurxa
 bərrəxša
@@ -196335,32 +196335,32 @@ cəlyəl
 da ʾilana
 mən xutu
 bək̭yadəl
-ʾu zultu
+zultu ʾu
 ⁺pašuṱulə
 idu p̂
 vayəl
 k̭esa
 p̂ id
-naša ⁺bar
+⁺bar naša
 ⁺pašuṱo
-l xuvva ʾo
+l ʾo xuvva
 mara
-⁺sli ta
+ta ⁺sli
 park̭ənnux
 xuvva
 bi k̭esa
 ⁺bəslayəl
 mən ʾidət
-naša ⁺bar
-ʾu carmuxəl
-b k̭dalu
+⁺bar naša
+carmuxəl ʾu
+k̭dalu b
 čarmuxələ
-l k̭dalu
+k̭dalu l
 mara
 ʾadi
-bət ⁺nesənnux
+⁺nesənnux bət
 mara
-mu k̭a but
+k̭a mu but
 ⁺byayət
 ⁺nesətti
 la
@@ -196372,9 +196372,9 @@ k̭yada
 mən nuyra
 purək̭li
 k̭atux
-naša ⁺bar
+⁺bar naša
 marəl
-xuvva k̭a
+k̭a xuvva
 mara
 k̭a diyyan
 mirəna
@@ -196384,7 +196384,7 @@ mirəna
 xuvva
 ⁺bəddayən
 k̭at
-naša ⁺bar
+⁺bar naša
 mən cullə
 xərba
 məndilə
@@ -196393,13 +196393,13 @@ xzilux
 ⁺tama
 ɟarəc
 ⁺nesəttə
-naša ⁺bar
+⁺bar naša
 ⁺raba
 xərba
 pis ʾu
-da brita ɟu
+brita ɟu da
 ʾitar
-naša ⁺bar
+⁺bar naša
 mara
 yala
 ⁺xlapux
@@ -196411,7 +196411,7 @@ lela
 dunyə
 ⁺ʾaxər
 ʾana
-diyyux k̭a
+k̭a diyyux
 xayyux
 purk̭eli
 mən nuyra
@@ -196424,7 +196424,7 @@ la k̭at
 ⁺naslə
 mara
 ⁺spay
-let ʾən
+ʾən let
 hammunə
 ⁺ʾalli
 xuvva
@@ -196432,8 +196432,8 @@ mara
 ⁺bak̭rax ta
 xa mən ⁺ṱla
 naš
-mən xa naša
-naš tre
+xa mən naša
+tre naš
 ⁺bak̭rax
 ya
 našə
@@ -196443,26 +196443,26 @@ biyyan
 tapək̭
 ⁺hayvana
 avəd ṱ
-cu məndit
+məndit cu
 ʾavəd
 ⁺bak̭rax
 xazzax
 ⁺hala
-ʾət məjjət
+məjjət ʾət
 ʾana
 ⁺xəlṱəvən
 yan
 ⁺ṱrusəvən
-⁺byayən k̭at
+k̭at ⁺byayən
 k̭atux
 ⁺nesən
-naša k̭a ⁺bar
+⁺bar k̭a naša
 mara
 ʾazax
 ʾatxa
 čurməxxa
-l k̭dalət
-naša ⁺bar
+k̭dalət l
+⁺bar naša
 xuvva
 ʾurxa
 bərrəxšəna
@@ -196471,7 +196471,7 @@ bi
 xa
 tora
 mara
-šlama ⁺ʾallux
+⁺ʾallux šlama
 ʾaxuni
 tora
 hənna
@@ -196482,11 +196482,11 @@ xuvva
 muyyona
 dax t
 xuvva
-mən tora
+tora mən
 ⁺bak̭urəl
 mara
 ʾa
-naša ⁺bar
+⁺bar naša
 ⁺byayən
 ⁺nesənnə
 mu
@@ -196503,39 +196503,39 @@ mara
 pruk̭
 jaldə
 ⁺nuslə
-cma t
+t cma
 lelə
 b rišux
 xa
 məndi
 tuxmənnə
-cma t
-⁺amsət c
+t cma
+c ⁺amsət
 jaldə
 ⁺nuslə
 ʾa naša
 mara
-mu k̭a
+k̭a mu
 ⁺ʾaxər
-naša ⁺bar
+⁺bar naša
 mara
 tora
-mu k̭a but
+k̭a mu but
 ʾatxa
 tanuyət
 ⁺ʾaxər
-mu k̭a but
+k̭a mu but
 ⁺nasli
 ʾana
 purk̭un
 mən
 nura
-xuvva k̭a da
+k̭a xuvva da
 purk̭un
-ʾak̭ədva la k̭at
+la k̭at ʾak̭ədva
 marən
 xuš
-b ʾurxux
+ʾurxux b
 ⁺ʾavva
 ⁺byayələ
 ⁺nasli
@@ -196544,13 +196544,13 @@ hadax but
 ʾaxtoxun
 ⁺raba
 pis
-naša ⁺bar
+⁺bar naša
 ⁺raba
 pis məndilə
-naša ⁺bar
+⁺bar naša
 mən moriša
 hal ⁺berašə
-⁺bara m
+m ⁺bara
 ⁺barranta
 k̭a diyyi
 hal yuma
@@ -196572,15 +196572,15 @@ yavilə
 ⁺bixalən
 k̭a da
 ʾaxtoxun
-naša ⁺bar
+⁺bar naša
 ɟarəc
 la
 xayyə
 mara
 ɟarəc
 ⁺nasni
-ʾica har
-⁺amsət c
+har ʾica
+c ⁺amsət
 ⁺nuslə
 pisuta
 ʾud
@@ -196589,11 +196589,11 @@ xuvva
 ⁺nuslə
 mara
 xuvva
-naša k̭a ⁺bar
+⁺bar k̭a naša
 mara
 ⁺šmilux
 ʾaxuni
-mu mərrə
+mərrə mu
 ʾa
 tora
 ʾadi
@@ -196611,9 +196611,9 @@ xač̭č̭a
 bitayəna
 ⁺raba
 bitayəna
-b urxa
+urxa b
 bətpak̭əna
-b xa ⁺ʾaynət
+xa b ⁺ʾaynət
 miyya
 ⁺ʾaynət
 miyya
@@ -196639,13 +196639,13 @@ m ica
 bita
 mara
 ʾa
-naša ⁺bar
+⁺bar naša
 ⁺byayən
 ⁺nesənnə
 mu
 marət
 duz ivən
-la yan
+yan la
 mara
 jaldə
 ⁺nuslə
@@ -196656,15 +196656,15 @@ pruk̭
 la šuk̭
 pašni
 mara
-mu k̭a but
-ʾa naša ⁺bar
+k̭a mu but
+⁺bar ʾa naša
 mara
 ⁺ʾaxər
-mu k̭a
+k̭a mu
 ʾana
 k̭a diyyax
-mu in
-ʾana vida
+in mu
+vida ʾana
 k̭a
 ⁺ʾayna
 mara
@@ -196675,13 +196675,13 @@ madənxa
 pratta
 k̭edamta
 ⁺hala
-həč xa
+xa həč
 ⁺hayvana
-həč xa
+xa həč
 məndi
 lel
 jvija
-naša ⁺bar
+⁺bar naša
 bitayəl
 patu
 ʾidu
@@ -196694,7 +196694,7 @@ miyya
 miyya
 bəštayəl
 mara
-da prak̭tu
+prak̭tu da
 bərrak̭əl
 miyya ɟu
 bərrəššəl ʾu
@@ -196704,7 +196704,7 @@ mara
 məndit
 pyaša
 let
-⁺davva k̭a
+k̭a ⁺davva
 jaldə
 ⁺nus
 xuš
@@ -196718,10 +196718,10 @@ mara
 ⁺šmilux
 xuvva
 mara
-naša k̭a ⁺bar
+⁺bar k̭a naša
 ⁺šmilux
 ʾaxuni
-mu mərrə
+mərrə mu
 ʾadi
 b ⁺nesənnux
 metət k̭at
@@ -196741,7 +196741,7 @@ xina
 ʾatxa
 ʾatxa
 ʾatxəla
-ʾət da d ṱla
+ʾət ṱla d da
 ⁺bak̭raxxə
 ʾita
 ⁺nusli
@@ -196752,9 +196752,9 @@ mara
 bərrəššəna
 mədrə
 ʾatxa
-ʾurxa bi
+bi ʾurxa
 bitayəna
-xa ɟa
+ɟa xa
 ɟašuk̭əna
 mən do
 riša
@@ -196779,7 +196779,7 @@ mənni
 mara
 cli
 k̭a da
-naša ⁺bar
+⁺bar naša
 ⁺byayən
 ⁺nesən
 mu
@@ -196794,16 +196794,16 @@ jaldə
 ⁺nuslə
 jaldə
 xuš
-⁺ʾavva matni
+matni ⁺ʾavva
 la
 šok̭ətlə
 ⁺saġ
 mara
-ʾa naša ⁺bar
+⁺bar ʾa naša
 mara
 k̭am
 ʾita
-⁺tala ʾa
+ʾa ⁺tala
 ⁺tala
 biša
 vayələ
@@ -196811,10 +196811,10 @@ la
 xač̭č̭a
 ⁺tala
 ptaləl
-xuvva k̭a da
+k̭a xuvva da
 mara
 ʾina
-mu ila
+ila mu
 vita
 k̭am
 ⁺bənnasut
@@ -196827,7 +196827,7 @@ dax
 ʾatxa
 samm
 dəryut
-b k̭dalu
+k̭dalu b
 čurməxxət
 mara
 ʾaxuni
@@ -196839,7 +196839,7 @@ bək̭yadəva
 bək̭yadənva
 črixənva
 l ilana
-ʾa naša ⁺bar
+⁺bar ʾa naša
 zultu
 muttalə
 k̭esu
@@ -196848,16 +196848,16 @@ k̭a diyyi
 purək̭lə
 ʾadi
 čurməxxən
-b k̭dalu
+k̭dalu b
 ⁺byayən
 ⁺nesənnə
 mara
 ʾaxuni
 jaldə
 ⁺nuslə
-ila ṱ cma
+ila cma ṱ
 jaldə
-cma t
+t cma
 lelə
 b rišux
 xa məndi
@@ -196869,7 +196869,7 @@ mara
 ⁺ʾalduyit
 ʾatən
 ⁺tala
-xuvva k̭a
+k̭a xuvva
 marələ
 ʾana
 len
@@ -196896,8 +196896,8 @@ c ⁺amsən
 mən ʾilana
 ⁺salən
 bi k̭esa
-ʾidət ⁺ʾal
-naša ⁺bar
+⁺ʾal ʾidət
+⁺bar naša
 mara
 len
 hammuna
@@ -196928,7 +196928,7 @@ mən k̭esa
 mən ʾilana
 ⁺salət
 l idət
-naša ⁺bar
+⁺bar naša
 mara
 ʾaɟar
 let
@@ -196936,32 +196936,32 @@ hammuna
 c ⁺amsən
 xač̭č̭a
 maxzənna
-diyyux k̭a
+k̭a diyyux
 xuvva
 marəl
-⁺tala k̭a
+k̭a ⁺tala
 mara
-d ⁺sli
+⁺sli d
 xazzən
 ⁺hala
-⁺amsət c
+c ⁺amsət
 ⁺šula ʾa
 ʾodəttə
 xazzən
 ʾita
 tanənnux
 ⁺nuslə
-la yan
-ʾa xuvva
+yan la
+xuvva ʾa
 ⁺bəslayələ
 ʾaxči
 čarəx
-ʾilana ⁺ʾal
+⁺ʾal ʾilana
 ⁺tala
-naša k̭a ⁺bar
+⁺bar k̭a naša
 mara
 bur
-⁺spay la
+la ⁺spay
 naša
 jaldə
 b rišu
@@ -196969,7 +196969,7 @@ bluslə
 rišət
 xuvva
 bluslə
-cma t
+t cma
 ⁺səlyəl
 m k̭dalux
 l ⁺arra
@@ -196980,7 +196980,7 @@ bluslə
 k̭am
 švik̭ut
 ʾa
-naša ⁺bar
+⁺bar naša
 ʾalbal
 mxayəl
 xuvva
@@ -196996,7 +196996,7 @@ marəl
 ʾat
 m ica
 brilux
-da ⁺ʾal
+⁺ʾal da
 duca
 m ica
 tpək̭lux
@@ -197004,13 +197004,13 @@ biyyan
 mut
 ⁺spayuta
 ʾodən
-diyyux k̭a
+k̭a diyyux
 k̭at
 park̭ən
-xut da m
+m xut da
 ⁺spay
 ⁺šul diyyux
-vədlux k̭at
+k̭at vədlux
 k̭a diyyi
 purək̭lux
 k̭a diyyi
@@ -197030,8 +197030,8 @@ lela
 piləna
 ⁺sayadə
 bi susavatə
-⁺taziyyə bi
-bi calbanan
+bi ⁺taziyyə
+calbanan bi
 ⁺byayəna
 dok̭i
 xank̭ili
@@ -197052,7 +197052,7 @@ xut hənna
 mənnux
 ⁺bak̭ri
 ʾat cli
-b ʾurxa da
+da b ʾurxa
 maxzi
 xuš
 ʾazi
@@ -197062,11 +197062,11 @@ mara
 ʾa ba
 mara
 ⁺spayutəla
-ɟarət ⁺ʾal
+⁺ʾal ɟarət
 ⁺ʾayni
 ⁺šula ʾa
 ʾodənnə
-diyyux k̭a
+k̭a diyyux
 mara d
 ʾana
 ⁺bəslayən
@@ -197083,8 +197083,8 @@ mara
 ʾa
 ⁺bəslayəl
 ⁺varel
-de ɟu ⁺čək̭k̭urta
-de ɟu ⁺čal
+ɟu ⁺čək̭k̭urta de
+ɟu de ⁺čal
 ɟanu
 ⁺ṱašuyol
 ⁺tala
@@ -197093,30 +197093,30 @@ bitayəna
 susavay
 ⁺ʾalle
 ⁺sayadə
-bi tup
-bi calbanan
+tup bi
+calbanan bi
 ⁺taziyyə ʾan
 mara
-šlama llux
+llux šlama
 ʾaxuni
-naša ⁺bar
+⁺bar naša
 b šena
 mara
 laxxa
-xzilux la
-⁺tala xa
+la xzilux
+xa ⁺tala
 bərrak̭əva
 la
 ⁺dilux
-ʾurxa bi dəm
+bi dəm ʾurxa
 xəšlə
 ⁺ʾavun
 ɟarəc
 taniva
-ʾurxa bi da
+da bi ʾurxa
 xəšlə
-⁺tala ʾa
-naša ⁺bar
+ʾa ⁺tala
+⁺bar naša
 mara
 dul laxxa
 ɟanu
@@ -197126,28 +197126,28 @@ dul
 ɟanu
 ⁺ṱušyo
 dbišəna
-calbə ʾan
+ʾan calbə
 b rišu
 bədvak̭una
 bəxnak̭una
 ⁺paluṱuna
 mayuna
-xina ɟa
+ɟa xina
 zambəllilə
 ⁺ʾaxlilə
-⁺tala ʾa
-naša k̭a ⁺bar
+ʾa ⁺tala
+⁺bar k̭a naša
 mara
 yala
 ʾaxuni
-k̭a mudi but
+mudi k̭a but
 ⁺ʾaxər
 k̭a diyyi
 ʾatxa
 vədlux
 la
 ʾana
-diyyux k̭a
+k̭a diyyux
 xayyux
 purkeli
 mara
@@ -197164,8 +197164,8 @@ zabnənvalux
 ʾayya da
 məttəltət
 ⁺ṱala
-naša ʾu ⁺bar
-⁺šəmyox k̭at
+ʾu naša ⁺bar
+k̭at ⁺šəmyox
 mən
 ʾavahatan
 baba
@@ -197174,11 +197174,11 @@ savan
 ⁺bayyən
 tanən
 ʾatxa
-naša ⁺bar
+⁺bar naša
 zabunəl
-⁺tala k̭a
+k̭a ⁺tala
 ⁺tala
-ʾo t
+t ʾo
 mən cullə
 bišələ
 k̭at
@@ -197187,15 +197187,15 @@ k̭at
 mujjur
 ʾazəl
 ʾina
-naša ⁺bar
+⁺bar naša
 k̭at
 vayəl
 ⁺tala
 xayyu
 purk̭e
 xayyət
-naša ⁺bar
-naša ⁺bar
+⁺bar naša
+⁺bar naša
 k̭a do
 ⁺tala
 zabunələ
@@ -197209,7 +197209,7 @@ len
 cma
 ⁺ṱusa
 muyyitəla
-naša ⁺ʾal ⁺bar
+⁺bar ⁺ʾal naša
 ɟana
 ʾannə
 ⁺tala
@@ -197221,28 +197221,28 @@ tora ʾu
 cullə
 ⁺ṱusəna
 ⁺ṱusə
-ʾana muyyen
+muyyen ʾana
 ila ṱ but
-⁺pəslət ⁺ʾal
+⁺ʾal ⁺pəslət
 xayyət
-naša ⁺bar
+⁺bar naša
 k̭at
 mətxət ɟu
 xayyu
-naša ⁺bar
+⁺bar naša
 cma
 ⁺masni
 ʾavəd
 ⁺spay
 ⁺šulan
-ʾu cma
+cma ʾu
 xərba
 ⁺šulan
-naša ɟav ⁺bar
+⁺bar ɟav naša
 ɟanu
 ʾəttən
 mən dayyən ʾu
-⁺uydal da m
+m ⁺uydal da
 ʾana
 le ⁺ʾamsən
 ʾadi
@@ -197254,29 +197254,29 @@ k̭at
 mədrə
 mən
 ʾavahati
-babi m
+m babi
 savi
 k̭at
-da ɟu
+ɟu da
 məttəlta
 huk̭yuna
-ʾe ⁺dan
+⁺dan ʾe
 prak̭ta
 k̭at
 calbanan
-ʾan ʾu ⁺ʾavčiyyə
+⁺ʾavčiyyə ʾu ʾan
 ⁺šaruyəna
 ⁺bixala
-⁺tala k̭a do
+k̭a do ⁺tala
 parpusu
 ⁺č̭amburuna
 ⁺tala
-naša k̭a ⁺bar
+⁺bar k̭a naša
 mara
 ʾe
 ʾaxuni
-ʾət da məjjət
-naša ⁺bar
+məjjət ʾət da
+⁺bar naša
 ⁺xalvanaya
 ⁺misələ
 ʾadi
@@ -197284,28 +197284,28 @@ naša ⁺bar
 ⁺davvo
 ⁺xalvanaya
 ⁺myasta
-mu ila
+ila mu
 ʾana
 len
 ⁺bəddaya
 ⁺xalva
 ⁺bəddayət
-mu ilə
+ilə mu
 ⁺xalvət
 yəmma
 ʾita
 ⁺tala
 k̭a
-naša ⁺bar
+⁺bar naša
 mara
 ʾay
 ʾaxuni
 k̭a diyyi
 zubənnux
 ʾatən
-ʾət da məjjət
+məjjət ʾət da
 tanuyəva
-naša k̭at ⁺bar
+⁺bar k̭at naša
 ⁺xalvanaya
 ⁺misəl
 mənnu
@@ -197350,7 +197350,7 @@ mən ⁺malla
 mara
 xəzyət
 ʾatən
-mən ɟanux šuk̭
+mən šuk̭ ɟanux
 ʾavə
 xa naša
 xina
@@ -197366,12 +197366,12 @@ mara
 hi
 xəzyən
 mara
-dana xa k̭a
+k̭a xa dana
 ⁺najjar
 muyyili
 laxxa
-beti ɟu
-⁺tarra k̭at
+ɟu beti
+k̭at ⁺tarra
 zarəzva
 k̭ati
 bas ʾu
@@ -197386,7 +197386,7 @@ b ʾidatu
 cyula
 cyula
 b ʾidatu
-da har ʾo jurra
+ʾo jurra da har
 k̭əmlə
 ʾidatu
 ptixə
@@ -197415,7 +197415,7 @@ məlya
 xač̭č̭əva
 našə
 tilun
-naša k̭a do
+k̭a do naša
 ⁺palṱiva
 mən ⁺tamma
 mərrun
@@ -197426,7 +197426,7 @@ mərrə
 la ⁺ʾamsən
 ʾidi
 yavvənna
-ʾidi ʾən
+ʾən ʾidi
 yavvənna
 cyulət
 ivən ṱ
@@ -197439,7 +197439,7 @@ buš
 xmarələ
 xa yuma
 xa brata
-madrasa mən
+mən madrasa
 balcət
 avivala ṱ
 ʾəštassar
@@ -197481,25 +197481,25 @@ brunan
 ⁺byayolə
 ʾaxnan da
 ⁺byayox
-xa brata ʾax
+xa ʾax brata
 b xamaxla
 ʾaxtun
 hallunla
-ʾaviloxun la
+la ʾaviloxun
 ⁺šula
 bəlʾaxare
-⁺danta cul
+cul ⁺danta
 bərrəxšəna
 bitayəna
 bərrəxšəna
 bitayəna
 k̭abulona
-brate k̭at
+k̭at brate
 yavvila
 mara
-cu məndit
+məndit cu
 ʾoyani
-b k̭dalət
+k̭dalət b
 diyyoxun
 ʾaxnan
 marəx
@@ -197542,7 +197542,7 @@ marəl
 k̭ato
 yala
 mara
-ʾatxa k̭am
+k̭am ʾatxa
 ranɟax
 zurdənnələ
 mara
@@ -197558,10 +197558,10 @@ cpəntən
 ʾana
 len
 ləpta
-b noši
+noši b
 ⁺ʾaxlan
 hal
-da bək̭yamən
+bək̭yamən da
 ⁺ʾaxlana k̭at
 cullə
 vayəna
@@ -197574,13 +197574,13 @@ marələ
 ⁺ɟoro
 mara
 k̭edamta
-bək̭yamət k̭at
+k̭at bək̭yamət
 k̭u
 xač̭č̭a
 dək̭k̭a
 dək̭k̭a
 dri
-tanuyra ɟu
+ɟu tanuyra
 ʾannə
 dayk̭ə
 mayk̭ə
@@ -197591,7 +197591,7 @@ tanilun ci
 dək̭k̭a
 dək̭k̭a
 dri
-tanuyra ɟu
+ɟu tanuyra
 ʾadi
 ⁺axlat ṱ
 ⁺ṱamta
@@ -197611,7 +197611,7 @@ manə
 ⁺axlat ṱ
 ⁺ramša ⁺xa
 laxxa
-da beta ɟu
+beta ɟu da
 xa cul
 naša
 ɟari
@@ -197628,22 +197628,22 @@ bək̭yaməla
 xač̭č̭a
 dək̭k̭a
 bədrayəla
-tanuyra ɟu
+ɟu tanuyra
 bəxzayəla
 ⁺ṱamta
 yuvvəllun
 k̭ato
-yuma ʾo
+ʾo yuma
 xina
 bək̭yaməla
 moriša
 jaldə
-mən k̭am t
+t k̭am mən
 ʾani
 k̭emi
 bək̭yama
 bəxyapəla
-ʾu miyya
+miyya ʾu
 pyašəna
 k̭ato
 k̭amta
@@ -197656,7 +197656,7 @@ bək̭yaməla
 tammuzəla
 bəcnaša
 k̭ark̭uzəla
-⁺ramša ʾu ⁺xa
+⁺ramša ⁺xa ʾu
 manə
 camcə
 ⁺xallulla
@@ -197665,11 +197665,11 @@ nixa
 nixa
 ləpla
 dannə ⁺ʾal
-ɟarə palxa k̭at
+palxa k̭at ɟarə
 mənne
 cullə
 pəlxanə
-da ʾay
+ʾay da
 palxa
 ʾayya
 ⁺xəlla
@@ -197685,14 +197685,14 @@ k̭a ⁺ɟoro
 marəla
 ʾazax k̭u
 xazzax
-ʾe bratan
-mu vila
-b rišo
+bratan ʾe
+vila mu
+rišo b
 ʾazax k̭u
 xazzax
-ʾe bratan
+bratan ʾe
 mu tila
-b rišo
+rišo b
 ʾannə
 ʾarp̂i
 yumane
@@ -197704,13 +197704,13 @@ pəštəla
 lex
 ⁺bədda
 mu tila
-b rišo
+rišo b
 ʾazax
 bərrəxšəna
 beta ɟu
 ⁺varəna
-har beta ɟu
-⁺varte ɟu
+beta ɟu har
+ɟu ⁺varte
 brata
 mayəla
 xač̭č̭a
@@ -197732,14 +197732,14 @@ k̭alpullə
 k̭alpullə
 pluxun
 ʾannə
-xa k̭a do xina
+xa xina k̭a do
 mara
-ʾa xita
+xita ʾa
 mulpona
-ʾa xita
+xita ʾa
 mulpona
 cut
-paləx la
+la paləx
 le
 ⁺ʾaxəl
 xa yuma
@@ -197791,7 +197791,7 @@ cisux
 mara
 la
 ⁺niɟaran
-vi la
+la vi
 p̂ṱ odən
 ʾaha
 bərrəšxələ
@@ -197816,7 +197816,7 @@ zuyzə da
 lətlan
 daxila
 xa
-mən dannə
+dannə mən
 torə
 parmaxlə
 bašlaxlə
@@ -197824,26 +197824,26 @@ bašlaxlə
 k̭alya
 ⁺dana ʾe
 sətva
-parmiva ci
+ci parmiva
 k̭ənyana
 ⁺busra
-ci bašlivalə
+bašlivalə ci
 məšxa ɟu
-mattivalə ci
+ci mattivalə
 ɟu
 ʾatxa
 k̭adalə
 ⁺ɟurə
 sətva
-dani mən
-⁺axliva c
+mən dani
+c ⁺axliva
 mara
 yəmmi
 ʾana
 ⁺dana ʾe
-b xa
+xa b
 tora
-ʾamsən la
+la ʾamsən
 palxən
 mara
 ʾalaha
@@ -197858,9 +197858,9 @@ mu
 ʾodax
 ʾaxnan
 ʾana
-b xa
+xa b
 tora
-ʾamsən la
+la ʾamsən
 palxən
 k̭a diyyax
 b ⁺yasrən
@@ -197890,7 +197890,7 @@ xəzmane da
 bašuləna
 ⁺bixaləna
 vayəla
-bi nisanə
+nisanə bi
 xina
 ⁺danət
 pəlxanəla
@@ -197899,7 +197899,7 @@ yəmmi
 ʾadiyya
 tora
 ⁺bəsyarun
-⁺šula ⁺ʾal
+⁺ʾal ⁺šula
 ɟari
 ʾatən da
 ʾatyat
@@ -197913,12 +197913,12 @@ mərtən
 daha ⁺ʾal
 pəlxanələ
 ⁺dana ʾe
-b ⁺darət
+⁺darət b
 šɑh
 abbɑs
 ⁺raba
 ⁺xadərva ci
-mdita ɟu
+ɟu mdita
 xaziva
 mu
 ʾət
@@ -197932,18 +197932,18 @@ jullə
 la k̭at
 yaṱṱivalə
 bəxzayələ
-ʾurxa ɟu
+ɟu ʾurxa
 ⁺varələ
 bəxzayələ
 xa
 yala
 jil
 ʾina
-xa baxta
+baxta xa
 sota
-xa tora
+tora xa
 ⁺sirelə
-cəs ⁺ʾuydalə
+⁺ʾuydalə cəs
 ʾaha
 pəlxanələ
 ⁺bəslayələ
@@ -197985,10 +197985,10 @@ yavələ
 k̭atu
 mara
 ʾazət
-xa tora
+tora xa
 zonət
 mayyət
-ʾa baxta
+baxta ʾa
 xina
 la
 mapləxxətta
@@ -198007,12 +198007,12 @@ malca
 xa brata
 həč
 məndi
-ʾodava le
+le ʾodava
 c ⁺axlava
-damxava ci
+ci damxava
 həč
 ⁺šula
-ʾodava le
+le ʾodava
 malca
 mərrə
 ʾa
@@ -198027,7 +198027,7 @@ k̭a daha
 ʾaha
 ʾa brata
 mayyila
-ʾurxa ⁺ʾal
+⁺ʾal ʾurxa
 mədrə
 bərrəšxələ
 xa yuma
@@ -198058,15 +198058,15 @@ mara
 lətli
 xa ʾaxča
 zuyzə
-ʾana k̭at
+k̭at ʾana
 ⁺ʾamsən
 ɟorən
 mara
 ʾana
-b ⁺hayyərrənnux
+⁺hayyərrənnux b
 ⁺xluyla
 p̂ṱ odənnə
-məndi cullə
+cullə məndi
 ʾana
 p̂ṱ odən
 brati
@@ -198083,7 +198083,7 @@ bəxzayolə
 mara
 mu
 xina
-⁺spay la
+la ⁺spay
 bəɟvarolə
 ⁺xluyla
 vadəna
@@ -198104,7 +198104,7 @@ muyyon
 ʾadiyya
 ʾa
 ʾən
-⁺šula xa
+xa ⁺šula
 vədla
 yavvat
 k̭atu
@@ -198166,7 +198166,7 @@ brata
 xa
 ⁺šula
 vəttəla
-la yan
+yan la
 mərra
 duz
 tanyannux
@@ -198184,7 +198184,7 @@ həč məndi
 la ⁺ʾamsat
 ⁺ʾaxlat
 ʾat
-da beta ɟu
+beta ɟu da
 ʾannə
 mattuyəna
 xurrac
@@ -198195,7 +198195,7 @@ yava
 ʾaha
 bədmaxəla
 cpənta
-yuma ʾo
+ʾo yuma
 xina
 bitayələ
 mara
@@ -198203,7 +198203,7 @@ yəmmi
 ʾa
 brata
 pləxtəla
-la yan
+yan la
 mara
 hi
 ʾana
@@ -198213,7 +198213,7 @@ tanuyra
 xač̭č̭a
 k̭esə
 ⁺ruppila
-tanuyra ɟu
+ɟu tanuyra
 mərrə
 xač̭č̭a
 laxma
@@ -198243,12 +198243,12 @@ məndi
 vadəla
 xina
 vitəla
-axxa m
+m axxa
 tamma ⁺ʾal
 ʾa
 malca
 mara
-k̭a baxtu
+baxtu k̭a
 ʾaxnan
 ʾe
 bratan
@@ -198272,7 +198272,7 @@ bitayəna
 b xač̭č̭a
 jullə
 ʾatik̭ə
-la t
+t la
 yaṱṱi
 ʾannə
 malcələ
@@ -198301,7 +198301,7 @@ labuləna
 ⁺hudrəna
 k̭ate
 ⁺ramša ⁺xa
-k̭at matti
+matti k̭at
 xač̭č̭a
 ⁺xoravatu da
 ⁺k̭əryelə
@@ -198311,9 +198311,9 @@ tivəna
 ⁺bixaləna
 k̭at
 ⁺ʾaxli
-ʾe brata
+brata ʾe
 bitayəla
-brat malca
+malca brat
 k̭a babo
 mara
 babi
@@ -198337,14 +198337,14 @@ baba
 ʾa
 mut
 ⁺šulələ
-ʾana ʾodən
+ʾodən ʾana
 mara
 ɟari
 ʾodətlə
 ʾaha
 ⁺čara
 lət
-yəmmo k̭a da
+k̭a yəmmo da
 mayəla
 cma
 ⁺lavašə
@@ -198389,7 +198389,7 @@ k̭atoxun
 malca
 ⁺ʾavva
 bəxšalulə
-da baxtu
+baxtu da
 laxma
 marcuxula
 mattuyəna
@@ -198428,7 +198428,7 @@ yavələ
 davə
 k̭atu
 mara
-cu məndit
+məndit cu
 ⁺bayyət
 ʾodət
 vud
@@ -198442,18 +198442,18 @@ la ʾən
 muyyilux
 ʾəsri
 ⁺dinarə
-da ɟu
+ɟu da
 beta
 la ⁺ʾorət
 la
 ⁺ʾorət
 bərrəxšələ
 ⁺malla
-ilə ṱ cma
+ilə cma ṱ
 l a yba
-l yba o
+l o yba
 bərrəxša
-paləx k̭at
+k̭at paləx
 ʾəsri
 ⁺dinarə
 mayyə
@@ -198466,26 +198466,26 @@ lel
 maya
 bərrəxšələ
 bətyavəl
-dana xa ɟu
+xa dana ɟu
 xaraba
 xaraba
 ʾila
 bətvay
 tlixə
-lət məndi həč
+həč məndi lət
 ⁺tama
 bətyavələ
 bəxzayələ
-dana xa
+xa dana
 naša
-mən dannə
+dannə mən
 ⁺hajiyyə
 ⁺majiyyə
 bitayələ
 ⁺paluṱəl
 xacma
 məndyane
-mən k̭uṱiyyu ɟu
+k̭uṱiyyu mən ɟu
 zaruzələ
 xava
 mara
@@ -198514,7 +198514,7 @@ mara
 ʾatən
 k̭a diyyax
 brilun
-ʾurxa k̭at
+k̭at ʾurxa
 duz
 ʾazatvala
 ʾina
@@ -198523,14 +198523,14 @@ xəšlax
 ⁺xilelax
 zyana
 vədlax
-k̭a da day
+k̭a day da
 ⁺bək̭ṱalələ
 mxayolə
 parpusolə
 bitayəl
 zaruzəl
-dana xa
-mən dannə
+xa dana
+dannə mən
 ⁺hajiyyə
 k̭at
 ʾatən
@@ -198575,7 +198575,7 @@ mənnu
 ⁺ʾavva
 ⁺haji
 xzilə
-xa naša k̭at
+xa k̭at naša
 xina
 ⁺tama
 tivəva
@@ -198590,10 +198590,10 @@ rək̭lə
 xəšlə
 rək̭lə
 xəšlə
-ʾa ⁺malla
+⁺malla ʾa
 bək̭yaməl
 ɟaššuk̭əl
-cisu ɟu
+ɟu cisu
 xazə
 maniva
 ⁺ʾavva
@@ -198609,10 +198609,10 @@ k̭a ɟanu
 ʾina
 xamšamma
 dinarə
-cisu ɟu
+ɟu cisu
 bəšk̭alelə
 ⁺bərxaṱa
-cəs baxtu
+baxtu cəs
 mara
 baxta
 ⁺tarra
@@ -198633,8 +198633,8 @@ xamšamma
 k̭əssat
 k̭ato
 marəl
-mu vila k̭at
-ʾe ⁺danta
+vila k̭at mu
+⁺danta ʾe
 marəla
 ʾadiyya
 ⁺bəddayən
@@ -198653,7 +198653,7 @@ i ṱ
 šəmyon
 mən
 nanunti
-yəmmi mən
+mən yəmmi
 mən savan
 ⁺manayu
 ʾila
@@ -198685,8 +198685,8 @@ vayələ
 ⁺basura
 taneta
 lel
-xa txa
-ʾu baxxuləl
+txa xa
+baxxuləl ʾu
 bi
 ʾaxunu
 baxxuləl
@@ -198695,14 +198695,14 @@ honət
 do
 ʾaxun ɟanu
 sabab
-da daha but
-ʾo k̭at
+daha da but
+k̭at ʾo
 ʾaxunu
 ɟanu
 vayəl
 ⁺ʾavun
 malca
-malcuta xa ʾət
+xa ʾət malcuta
 ʾina
 ⁺bəddayələ
 k̭at
@@ -198731,7 +198731,7 @@ məndi
 b rišu
 hadax
 maxzuyul
-de ɟu malcutət
+ɟu malcutət de
 ɟanu
 dax
 ʾaxunu
@@ -198744,7 +198744,7 @@ honu
 honu
 ⁺ruppu
 naša
-ʾu cullə
+cullə ʾu
 našə
 dayya
 malcutət
@@ -198764,7 +198764,7 @@ mərrə
 šidanələ
 cullə
 ɟar
-b xa
+xa b
 k̭ala
 č̭arč̭ərri
 ɟarəc
@@ -198779,7 +198779,7 @@ honu
 ʾina
 vazzirət
 malca
-ʾo vazzər
+vazzər ʾo
 k̭amaya
 ⁺bəddayəl
 k̭at
@@ -198797,7 +198797,7 @@ k̭edamta
 jaldə
 malca
 biyya
-bi vazziru
+vazziru bi
 nazziru
 bi ⁺taziyyu
 b calbananu
@@ -198808,7 +198808,7 @@ mən
 ⁺darvazət
 malcuta
 m mdita
-ʾe ⁺dan
+⁺dan ʾe
 ⁺plaṱəna
 ʾa
 vazzirət
@@ -198827,21 +198827,21 @@ jaldə
 tivəl
 k̭am ⁺darvazət
 məndita
-⁺ṱursəl ʾu
+ʾu ⁺ṱursəl
 ⁺ṱla
 ⁺ɟurə
 k̭uxan
-bi ⁺k̭əṱma
+⁺k̭əṱma bi
 ʾannə
 cullə
 bərrəššəna
 xina
-⁺uydal m
+m ⁺uydal
 susavatət
 malca
-bi calbanan
+calbanan bi
 bərrəššəna
-ʾa vazzər
+vazzər ʾa
 k̭amaya
 ⁺bəddarəl
 ⁺baray
@@ -198853,7 +198853,7 @@ dewanda
 ʾaxun k̭at
 malca
 dannə ɟu
-diyyux k̭uxan
+k̭uxan diyyux
 ʾəttən
 ⁺mana
 ʾannə
@@ -198862,7 +198862,7 @@ k̭am
 ʾannə
 k̭uxan
 ⁺manaye
-mu iva
+iva mu
 b da
 k̭edamta
 jaldə
@@ -198894,50 +198894,50 @@ halli
 tanənna
 ⁺manay
 da k̭uxa
-mu ila
-ʾa vazzər
+ila mu
+vazzər ʾa
 ⁺paluṱələ
 ⁺ṱla
 dan davə
 yavvəl
 k̭a
-do ʾaxun
+ʾaxun do
 malca
 mara
 tanila
 ⁺manayət
 k̭uxan
 mara
-ʾa k̭uxət
+k̭uxət ʾa
 ⁺k̭əṱma
 ʾavini
-b riš do
+b do riš
 našət
-⁺xasu k̭at
+k̭at ⁺xasu
 ⁺bəsyarul
 b malcuta
-b hucma
+hucma b
 hiviyyu
 mattuyul
 hucma ⁺ʾal
 ⁺xasu
 ⁺bəsyarul
-b hucma
-ʾa k̭uxət
+hucma b
+k̭uxət ʾa
 tre d
 ʾavini
-b riš do
+b do riš
 našət
 k̭at
 siru
 hak̭uyel
-k̭a baxta
+baxta k̭a
 k̭a baxtət
 ɟanu
-ʾa k̭uxət
+k̭uxət ʾa
 d ⁺ṱla
 ʾavini
-b riš do
+b do riš
 našət
 našət k̭at
 ɟanu
@@ -198948,13 +198948,13 @@ bne
 məllattət
 ɟanu
 bəsravelə
-naš ɟanu
+ɟanu naš
 bəsnayel
 ʾu
 ⁺hayyurəl
 k̭a našət
 baxta
-k̭a ⁺naxray ʾu
+⁺naxray k̭a ʾu
 ʾannə
 ⁺ṱla
 k̭uxan
@@ -198962,14 +198962,14 @@ k̭uxan
 ⁺bəṱrayəl
 bətyavəl
 vazzər
-susa ⁺ʾal
+⁺ʾal susa
 bərrəššəl
 ⁺bar
 malca
 ⁺mṱayəl
 ⁺seda
 bərrəššəl
-ʾa vazzər
+vazzər ʾa
 bitayəl
 ⁺beraš
 beta
@@ -198978,9 +198978,9 @@ taxmunəl
 dannə ⁺ʾal
 ⁺ṱla
 nuk̭zə
-tanuyel k̭at
+k̭at tanuyel
 k̭atu
-ʾa dahlun
+dahlun ʾa
 dewanda
 mara
 ʾa
@@ -198998,11 +198998,11 @@ našəl
 ɟarəc
 ⁺jarbi
 ʾatxa
-ʾoya le
-ʾu ⁺šaruyəl
+le ʾoya
+⁺šaruyəl ʾu
 pəlxana
 taxmunəl
-da ⁺ʾal
+⁺ʾal da
 mujjurra
 ⁺jarəblun
 ʾannə
@@ -199026,7 +199026,7 @@ bitayəl
 xa yuma
 b lelə
 xa tre
-da ⁺ʾəstican
+⁺ʾəstican da
 mən duɟlə
 bəštayələ
 ⁺xamra
@@ -199035,14 +199035,14 @@ mara
 baxta
 ⁺pluṱ
 ⁺pluṱ
-k̭a baxtu
+baxtu k̭a
 marəl
 ⁺marrušol
 baxtu
 mara
 k̭uylax
 pruk̭
-mu ila
+ila mu
 vita
 mara
 ʾay
@@ -199071,11 +199071,11 @@ malca
 ⁺dilə
 maxnək̭li
 ⁺ʾal ⁺maydan
-ʾe ⁺danta
+⁺danta ʾe
 ⁺jammuyeva
 čambuleva
 bəxnak̭eva
-naša ʾo t
+t ʾo naša
 ⁺bək̭ṱaləl
 bi
 k̭anun
@@ -199090,19 +199090,19 @@ xa məndi
 mara
 ʾay
 naša
-mu ʾodax
+ʾodax mu
 baxtu
 mara
 ɟarəc
 xa ducta
 ⁺ṱašax
 naš
-xazzi la
+la xazzi
 mara
 xaprax
 ⁺ṱamraxxə
-duca xa
-naš k̭at
+xa duca
+k̭at naš
 la
 xazzi
 mara
@@ -199113,12 +199113,12 @@ baxta
 ⁺ṱamraxxə
 tani
 mara
-paɟa ɟu
+ɟu paɟa
 ⁺moraxxə me
 ⁺ṱamraxxə
 ⁺ʾavva
-paɟeni ɟu
-naš k̭at
+ɟu paɟeni
+k̭at naš
 la
 xazzi
 mujjurra
@@ -199133,19 +199133,19 @@ bək̭yaməna
 ʾalbal
 ⁺lap̂aṱk̭a
 bəšk̭aləna
-dana xa
+xa dana
 ⁺muyra
 cullunɟ
 ⁺bək̭k̭arəna
 ⁺ṱamuruna
-paɟa ɟu
+ɟu paɟa
 tahar
 tamməz
 xa naša
 lel
 ⁺bədda
 bədmaxəna
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 ʾa
 vazzər
@@ -199153,7 +199153,7 @@ jəns
 bəštayəl
 mədrə
 ɟanu
-⁺ravaya šop
+šop ⁺ravaya
 mattuyolə
 dax
 ʾaxči
@@ -199161,7 +199161,7 @@ dax
 bitayəl
 beta
 ⁺šaruyəl
-k̭a baxta
+baxta k̭a
 mxaya
 k̭a baxtət
 ɟanu
@@ -199172,11 +199172,11 @@ mara
 baxta
 let
 ʾat
-ʾa baxta
+baxta ʾa
 mara
 ʾadi
 maxziyyanna
-diyyux k̭a
+k̭a diyyux
 ʾana
 ʾadi
 maxziyyanna
@@ -199280,7 +199280,7 @@ bədvak̭una
 labuluna
 ⁺ʾal ⁺maydan
 ⁺bəsyaruna
-do ⁺ʾal
+⁺ʾal do
 sṱolba
 ɟari k̭at
 xank̭il
@@ -199289,28 +199289,28 @@ k̭ərša
 bədrayəna
 k̭at
 mak̭dilə
-odil m
+m odil
 ʾita
-ʾe ⁺dan
+⁺dan ʾe
 vayəna
 ⁺siru
-do ⁺ʾal
+⁺ʾal do
 sṱolba
-ɟar k̭at
+k̭at ɟar
 čambəllilə
 mak̭dilə ʾu
 ʾaha
 ʾatxa
 pacurələ
-ʾa vazzər
+vazzər ʾa
 ɟanu
 pacurəl
-malca ⁺ʾal
+⁺ʾal malca
 malca
 ɟanu
-⁺uydal m k̭at
+m ⁺uydal k̭at
 plixəna
-naš trelə d
+trelə d naš
 lel
 ⁺bak̭ura
 k̭atu
@@ -199319,7 +199319,7 @@ naša
 ⁺k̭ṱilət
 ʾica
 ⁺k̭ṱilut
-mu k̭a but
+k̭a mu but
 ⁺k̭ṱilut
 mujjurra
 ⁺k̭ṱilut
@@ -199333,7 +199333,7 @@ cullə
 muttelə
 ⁺darġa ⁺ʾal
 ⁺ʾəllaya
-xəzman baxtu
+baxtu xəzman
 ⁺naxrayə
 xa mənne
 ⁺xola
@@ -199364,10 +199364,10 @@ jaldə
 xank̭axxə
 park̭ax
 ʾita
-ʾa vazzər
+vazzər ʾa
 pacurəl
 ʾina
-xəzman ʾan ɟanu
+ɟanu ʾan xəzman
 srivelə k̭at
 k̭at
 lel
@@ -199378,23 +199378,23 @@ həč
 xa ⁺ʾəsra
 ɟanay
 ʾatxa
-marza ⁺ʾal
+⁺ʾal marza
 xa
 ʾannə
 tivəna
 bəxyəna
 k̭atu
 k̭at ⁺ʾavun
-xayyu ɟu
+ɟu xayyu
 šlama da
 lel
 dərya
 ⁺ʾalle
-ʾe dan
+dan ʾe
 viyyəl
 vazziruta ⁺ʾal
-ʾe ⁺dan
-⁺rumta ⁺ʾal
+⁺dan ʾe
+⁺ʾal ⁺rumta
 viyyəl
 ʾadi
 k̭at
@@ -199405,7 +199405,7 @@ xa ʾannə
 ɟanay
 ⁺xamsar
 ɟanay
-xəzman ɟanu
+ɟanu xəzman
 ʾannə
 bəxyəna
 ⁺ʾallu
@@ -199426,14 +199426,14 @@ maxnək̭k̭axxə
 ʾa
 xank̭ax
 park̭ax
-calba ʾa ⁺bər
+⁺bər calba ʾa
 ʾatxa
 ʾatxa
 xina
 naš
 ⁺k̭ṱilələ
-de k̭a
-da baxtu
+k̭a de
+baxtu da
 məxyələ
 pruk̭un
 ʾita
@@ -199469,8 +199469,8 @@ la
 k̭at
 ⁺dranux
 ⁺rastəvən
-naš ʾo
-d trevən
+ʾo naš
+trevən d
 har
 la
 bak̭ura
@@ -199505,12 +199505,12 @@ prak̭tola
 mara
 xa
 ⁺bak̭ər
-mən dannə
+dannə mən
 našə
 ʾana
 ⁺byayən
 ʾannə
-da ⁺ʾal ⁺maydan
+⁺ʾal ⁺maydan da
 ⁺jumyəna
 ⁺jamahat
 ⁺ʾalma
@@ -199518,12 +199518,12 @@ da ⁺ʾal ⁺maydan
 k̭a man
 ⁺k̭ṱilən
 ʾana
-ʾu ⁺k̭aṱlana
+⁺k̭aṱlana ʾu
 manilə
 ʾo
-⁺k̭ṱilun k̭at
+k̭at ⁺k̭ṱilun
 manilə
-k̭a ʾu mudi but
+mudi k̭a ʾu but
 ⁺k̭ṱilun
 xa k̭am
 let
@@ -199548,7 +199548,7 @@ naša
 ⁺k̭ṱilən
 yan
 la
-k̭a baxtu
+baxtu k̭a
 mara
 mut
 naša
@@ -199557,28 +199557,28 @@ naša
 ⁺k̭ṱiləl
 mara
 vel
-paɟeni da ɟu
+ɟu paɟeni da
 ⁺ṱumrux
 ʾana
 mən ⁺davva
 ⁺ṱumrux
-naša ʾo
+ʾo naša
 ⁺šadurəl
 k̭ošun
 mara
 jaldə
 xušun
-ɟu paɟa m
-da baxtu
+m ɟu paɟa
+baxtu da
 mənne
 ⁺paluṱuna
 mayuna
 julla ɟu
 čurməxxa
-de ⁺ʾal ⁺maydan
+⁺ʾal ⁺maydan de
 mattuyuna
 mara
-d šri
+šri d
 ptuxun
 xazzən
 manilə
@@ -199593,16 +199593,16 @@ xa pira
 ⁺bəryan
 vida
 šap̂ira
-⁺lavaša ɟu
+ɟu ⁺lavaša
 čurməxxa
 šap̂ira
-ʾe ⁺dan
+⁺dan ʾe
 ptaxuna
 rexu
 šap̂ira
 basima
 bitayəl
-ʾa malca
+malca ʾa
 ʾatxa
 pacurələ
 mara
@@ -199627,7 +199627,7 @@ avət ṱ
 basima
 ʾana
 ⁺šmili
-do ⁺ʾal
+⁺ʾal do
 ʾaxunux
 dahlun
 dewanda
@@ -199636,14 +199636,14 @@ honana
 ⁺šula
 tunyilə
 k̭at
-ʾan k̭uxan
-ʾa k̭uxa k̭at
+k̭uxan ʾan
+k̭at ʾa k̭uxa
 ʾav
-b riš do
+b do riš
 našət
 ⁺xasu
 ⁺yasər
-malcuta bi
+bi malcuta
 ʾana
 ⁺xasi
 ⁺sirunva
@@ -199653,8 +199653,8 @@ k̭at
 ʾavətva bət
 k̭a diyyi
 ⁺xasa
-⁺hayyərrətvali p
-ʾe ⁺dan
+p ⁺hayyərrətvali
+⁺dan ʾe
 duca ɟu
 ʾək̭ta
 ʾavənva
@@ -199669,8 +199669,8 @@ malca
 ʾana
 la
 našət k̭at
-trenva d
-da ɟu
+d trenva
+ɟu da
 malcuta
 ʾat
 la
@@ -199684,16 +199684,16 @@ la
 ʾo
 k̭uxət
 tre d
-mərrə k̭at
+k̭at mərrə
 ʾavini
-b riš do
+b do riš
 naš
 k̭at
 siru
 hak̭ilun
-k̭a baxtu
+baxtu k̭a
 ʾana
-baxti k̭a
+k̭a baxti
 duɟlə
 duɟlənva
 mirənva
@@ -199711,7 +199711,7 @@ vidunva
 ⁺buslə
 ɟavu
 məlyənva
-bi ⁺lavašə
+⁺lavašə bi
 muttunva
 baxti
 k̭amtət har
@@ -199728,11 +199728,11 @@ muxnək̭k̭ənnux
 k̭uxət
 d ⁺ṱla
 k̭at ʾavini
-b riš do
+b do riš
 našət
 xəzman
 ɟanu
-bne t
+t bne
 ʾumtət
 ɟanu
 ⁺rappilun
@@ -199779,12 +199779,12 @@ mən cullə
 k̭amta
 ⁺byayəna
 xank̭ili
-ʾu ʾaxun
+ʾaxun ʾu
 diyyux
 mən cullə
 honana
 našəl
-da ɟu
+ɟu da
 malcuyta
 malca
 avət ṱ
@@ -199803,14 +199803,14 @@ b šlama
 ʾana
 švək̭li
 xəšli
-da m ɟu
+m ɟu da
 malcuta
 ⁺plaṱəl
 bərrəššəl
-da m ɟu
+m ɟu da
 malcuyta
-bətlak̭əl ʾu
-da baxtu
+ʾu bətlak̭əl
+baxtu da
 bəšvak̭ol
 ʾa
 vazzər
@@ -199818,14 +199818,14 @@ bəššələ
 xa
 šita
 ⁺varəla
-⁺ʾal šitət
+šitət ⁺ʾal
 tre d
 bərza
 vayəl
 ɟav
-do ɟu
+ɟu do
 ⁺ʾatra
-de ɟu
+ɟu de
 malcuta
 malca
 lel
@@ -199849,7 +199849,7 @@ mara
 mən da
 problem
 ⁺palṱax
-da ɟu
+ɟu da
 ʾəsk̭uta
 ⁺palṱax
 k̭a ʾaxunu
@@ -199858,7 +199858,7 @@ k̭a ʾaxunu
 ⁺bəddayəl
 k̭at
 xišələ
-ʾo vazzər
+vazzər ʾo
 k̭a ʾaxunu
 ⁺bəddayəl
 honana
@@ -199868,17 +199868,17 @@ mara
 tani
 xa məndi
 ʾodax
-ʾo vazzər
+vazzər ʾo
 ɟari
 mačxaxxə
-cma t
+t cma
 ⁺ṱavvuyən
 ⁺baru
 len
 mačuxu
-va ⁺ʾavun
+⁺ʾavun va
 cullə
-ʾa ⁺ʾatrət
+⁺ʾatrət ʾa
 diyyi
 taɟburu
 ʾadi
@@ -199901,7 +199901,7 @@ lablax
 mujjur
 mačxənnə
 ʾana
-ʾo vazzər
+vazzər ʾo
 nonən
 biyyu
 ⁺paxalta
@@ -199928,8 +199928,8 @@ k̭at
 spetsyalist
 cullə
 ⁺k̭rilun
-cut mənne
-dana xa
+mənne cut
+xa dana
 pira
 hallun
 ʾərba
@@ -199950,7 +199950,7 @@ maseta ⁺ʾal
 ciloyəl
 pira
 ⁺bar
-xa yarxa
+yarxa xa
 mayyitun
 duz
 ʾəsri
@@ -199964,7 +199964,7 @@ la
 ⁺basərni
 la
 vilə
-ducu ⁺ʾal
+⁺ʾal ducu
 cəlya
 culloxun
 rišoxun
@@ -199975,7 +199975,7 @@ bi ⁺balta
 vazzər
 vayələ
 xiša
-dana xa cəs
+cəs xa dana
 damurči
 pəlxana
 dax šaɟərd
@@ -199984,7 +199984,7 @@ xayyə k̭at
 ⁺ṱušyo
 ⁺tama
 pəlxana
-ʾe ʾu ⁺dan
+ʾu ⁺dan ʾe
 bitayəl
 ⁺tama
 ɟašuk̭əl
@@ -200003,9 +200003,9 @@ xa
 ⁺buk̭ara
 problem
 ʾətlan
-ʾa k̭at
+k̭at ʾa
 pira
-xa yarxa
+yarxa xa
 ʾaxnan
 mujjurra
 xamaxxə
@@ -200026,19 +200026,19 @@ b xamənnə
 lelə
 vazzər
 marələ
-mətxət ʾu ɟu
+mətxət ɟu ʾu
 xa
 yarxa
 ⁺maxulul
 maštuyul
 ʾa pira
-cut ⁺beraš
+⁺beraš cut
 b de
 šulluxtət
 diva
 bəlvašəl
 ⁺ʾallu
-bi pum
+pum bi
 diva
 ⁺varəl
 ɟanu
@@ -200049,10 +200049,10 @@ m ⁺bar
 xina
 ⁺dan
 dmaxtu
-ʾu m ⁺bar
+m ʾu ⁺bar
 xa
 yarxa
-ʾe ⁺dan
+⁺dan ʾe
 mattuyul
 maseta ⁺ʾal
 xa
@@ -200061,7 +200061,7 @@ vayələ
 k̭a do
 damurči
 mara
-⁺amsət c
+c ⁺amsət
 ⁺spay
 ⁺ʾarxayən
 ʾazət
@@ -200099,7 +200099,7 @@ zida
 xa mənne
 ⁺bsira
 ɟašuk̭əna
-dana xa
+xa dana
 pišəl
 ʾəsri
 ciloyə
@@ -200109,7 +200109,7 @@ pira
 k̭a damurči
 mara
 ʾa
-lə man ʾət
+man ʾət lə
 mara
 damurči ʾət
 ʾaha
@@ -200119,7 +200119,7 @@ prəzla
 damurči
 ⁺bəddayət
 la
-mu ilə
+ilə mu
 mara
 ʾaxuni
 ʾa
@@ -200134,7 +200134,7 @@ len
 xumyu
 šaɟərdi
 xumyul
-xa beta
+beta xa
 ʾətli
 palaxa
 šaɟərd
@@ -200172,7 +200172,7 @@ tanuyəl
 ta
 plux
 mədrə
-ducux ⁺ʾal
+⁺ʾal ducux
 ʾana
 ⁺xəlṱa
 viyyən
@@ -200186,7 +200186,7 @@ malca
 avət ṱ
 basima
 ʾən
-p sazɟərrət
+sazɟərrət p
 ʾaxunux
 ʾavini
 malca
@@ -200194,7 +200194,7 @@ malca
 ʾavən
 mədrə
 vaziru
-palxən bət
+bət palxən
 ʾən
 le
 sazɟərrət
@@ -200215,11 +200215,11 @@ vayəla
 problem
 vayəla
 malcuta
-mu k̭a
+k̭a mu
 clita
 dəžmənnə ʾu
 vayol
-marza mən
+mən marza
 ʾaɟar
 maxi
 ⁺ʾallo
@@ -200227,13 +200227,13 @@ parpəssila
 malcuta
 mara
 yavon
-ʾaxuni k̭a
+k̭a ʾaxuni
 malcuta ʾa
-diyyux k̭a ʾu
-ʾana ʾu
+k̭a diyyux ʾu
+ʾu ʾana
 bərrəššən
 xa ʾaxči
-ʾazət la
+la ʾazət
 ta
 tuy
 ta
@@ -200245,7 +200245,7 @@ xa
 ɟano
 ʾətla
 xina
-ʾa məttəlta
+məttəlta ʾa
 xina
 ʾadi
 li
@@ -200279,9 +200279,9 @@ məndiyyu
 məndiyyu
 ⁺raba buš
 yuvvəllə
-bruna k̭a
+k̭a bruna
 ⁺ɟura
-bruna k̭a do
+k̭a bruna do
 sura
 ʾaxči
 yuvvəllə
@@ -200313,7 +200313,7 @@ mən ʾaxunu
 ʾazəl k̭at
 ⁺hayyər
 k̭atu
-⁺xzatta k̭a
+k̭a ⁺xzatta
 k̭a ɟraštət
 məndi
 k̭a cul
@@ -200334,7 +200334,7 @@ surṱa
 ⁺šavva
 šənnə
 sustət
-ʾaxuna da
+da ʾaxuna
 sura
 ʾətla
 ⁺zaya
@@ -200344,7 +200344,7 @@ mən dan
 lelavatət
 k̭at
 məndi
-ina ṱ
+ṱ ina
 ɟrišə
 b sustət
 ʾaxuna
@@ -200366,7 +200366,7 @@ b k̭edamta
 cullə
 yuma
 ⁺varələ
-zə susta
+susta zə
 lela
 plaxa
 xina
@@ -200374,7 +200374,7 @@ lelə
 bitayələ
 bəd maxəna
 k̭edamta
-bək̭yaməna k̭at
+k̭at bək̭yaməna
 ʾina
 susta
 ⁺zayo ʾu
@@ -200388,7 +200388,7 @@ xut
 ⁺ʾarabana
 ⁺ʾarabana
 ʾila
-ʾaxuna ʾət
+ʾət ʾaxuna
 ⁺ɟura
 ʾaxuna
 sura
@@ -200403,10 +200403,10 @@ k̭a ʾaxunu
 ⁺hayyurələ
 ʾaxuna
 ⁺ɟura
-mən betu
+betu mən
 ʾiman
 ⁺bərrašələ
-šənta mən
+mən šənta
 bitayələ
 bəxzayələ
 ʾaxunu
@@ -200419,7 +200419,7 @@ bəxzayələ
 xut
 ⁺ʾarabana
 ʾəttən
-dana xa
+xa dana
 ⁺zayət
 bəryət
 bəryət
@@ -200436,9 +200436,9 @@ k̭u
 ʾaxuni
 ⁺ʾarabani
 vela
-susa xa
+xa susa
 dəlta
-⁺zaya xa
+xa ⁺zaya
 dəlta
 ʾaxuna
 sura
@@ -200451,7 +200451,7 @@ xədya
 bərrəxšəl
 mara
 la
-⁺zaya ʾo
+ʾo ⁺zaya
 diyyilə
 ⁺ʾarabanət
 diyyi
@@ -200464,7 +200464,7 @@ cəs dayyana
 dayyana
 mən ⁺bar
 ⁺bəšmayələ
-k̭əssattət k̭at
+k̭at k̭əssattət
 dannə
 mudila
 ⁺bəddayəle
@@ -200492,10 +200492,10 @@ lelə
 ⁺məṱya
 ʾaxči
 xa susta
-⁺ʾarra xa ʾu
+xa ⁺ʾarra ʾu
 ʾannə
-⁺udalə m
-bət ⁺darši
+m ⁺udalə
+⁺darši bət
 ʾən
 ʾana
 k̭emən
@@ -200509,7 +200509,7 @@ k̭a
 ʾaxuna
 sura
 k̭at
-zə ⁺bəddayən
+⁺bəddayən zə
 ʾət
 sustələ
 ʾaxuna
@@ -200529,7 +200529,7 @@ k̭ate
 ʾazi
 mayyi
 javvəbbilun
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 k̭at
 ʾoya
@@ -200548,8 +200548,8 @@ dyanti
 ʾoya
 duz
 marələ
-k̭udmə k̭a
-p̂ṱ atitun
+k̭a k̭udmə
+atitun p̂ṱ
 cəsli
 ʾannə
 šartə
@@ -200559,20 +200559,20 @@ patxitunlun
 ⁺pallitun
 mačxitunlun
 mudilə
-məndi ʾo
+ʾo məndi
 buš
 xelana
-dunyə ɟu
+ɟu dunyə
 mudilə
-məndi ʾo
+ʾo məndi
 buš
 ⁺tavana
-dunyə ɟu
-ʾu mudilə
-məndi ʾo
+ɟu dunyə
+mudilə ʾu
+ʾo məndi
 buš
 racixa
-dunyə ɟu
+ɟu dunyə
 ʾannə
 ⁺ṱla
 məndyanə
@@ -200587,11 +200587,11 @@ tanənnoxun p
 cut
 mučxelə
 ⁺zaya
-ʾət ilə ⁺davun
+⁺davun ilə ʾət
 ʾaxuna
 ⁺ɟura
 bitayələ
-cəs baxtu
+baxtu cəs
 marələ
 dayyana
 ʾatxa
@@ -200605,7 +200605,7 @@ laxxa
 švota
 ʾadi
 ʾannə
-diyyux k̭a
+k̭a diyyux
 ʾannə
 ⁺cətrə
 šaryalun p
@@ -200616,10 +200616,10 @@ k̭at
 dayyana
 mirələ
 mudile
-məndi ʾo
+ʾo məndi
 buš
 xelana
-dunyə ɟu
+ɟu dunyə
 clila
 mərra
 ⁺ɟori
@@ -200637,11 +200637,11 @@ biyyu
 ⁺raba
 ⁺šulanə
 ⁺ɟurə
-avəd c
+c avəd
 ʾu
 marələ
 mudilə
-məndi ʾo
+ʾo məndi
 buš
 ⁺tavana
 mara
@@ -200651,7 +200651,7 @@ suysət
 ⁺ɟori
 ⁺ʾuxča
 ⁺tavana
-azəl c
+c azəl
 julla
 le
 ⁺maṱyalə
@@ -200660,10 +200660,10 @@ le
 ⁺maṱilə
 marələ
 mudilə
-məndi ʾo
+ʾo məndi
 buš
 racixa
-dunyə ɟu
+ɟu dunyə
 mara
 ʾaxnan
 ʾətlan
@@ -200677,11 +200677,11 @@ len
 bəxšava
 xa
 məndi
-dunyə ɟu
+ɟu dunyə
 ʾavə
 buš
 racixa
-mən spadiyyatət
+spadiyyatət mən
 diyyan
 ʾaxuna
 zə sura
@@ -200729,17 +200729,17 @@ k̭at
 šənnova
 babi
 dadi
-mu k̭a
-ybu da m
-ybu do m
+k̭a mu
+m da ybu
+m do ybu
 k̭am
 ʾatxa
 ⁺pšimət
 marələ
 brati
-⁺zaya xa
+xa ⁺zaya
 ʾətvalan
-ʾana k̭at
+k̭at ʾana
 ⁺bayyənva
 xədyənva
 k̭at
@@ -200755,27 +200755,27 @@ m idan
 ʾanni
 šartə
 muttel
-mudilə k̭at
-məndi ʾo
+k̭at mudilə
+ʾo məndi
 buš
 xelana
-dunyə ɟu
+ɟu dunyə
 mərra
 babi
-mu k̭a
-mu k̭a
+k̭a mu
+k̭a mu
 ivət ⁺narahat
 miyya
 ʾannə
 ʾina
-məndi ʾo
+ʾo məndi
 buš
 xelana
 k̭am miyya
 həč məndi
 le ⁺ʾaməs
 calə
-b xa
+xa b
 xzilə
 k̭at
 bratu
@@ -200790,17 +200790,17 @@ tanuyə
 mərrə
 brati
 k̭urba
-honəla ⁺ʾal
+⁺ʾal honəla
 bas mudilə
-məndi ʾo
+ʾo məndi
 buš
 ⁺tavana
-dunyə ɟu
+ɟu dunyə
 mərra
 taxmantət
-naša ⁺bar
+⁺bar naša
 ʾat
-ʾe ⁺dan
+⁺dan ʾe
 masalan
 marət
 šəmša
@@ -200808,32 +200808,32 @@ marət
 taxmantux
 mṱayəla
 šəmša ⁺ʾal
-ʾe ⁺dan
+⁺dan ʾe
 marət
 america
 taxmantux
 ⁺mṱayəla
-america ⁺ʾal
+⁺ʾal america
 ⁺yanə
 ʾila
 ⁺raba
 raba
 jaldə
 bəxzayələ
-zə ʾay
+ʾay zə
 ila duz
 marələ
 mudilə
-məndi ʾo
-racixa buš
-dunyə ɟu
+ʾo məndi
+buš racixa
+ɟu dunyə
 mara
 babi
 ʾidət
 ɟanu
-naša ⁺bar
+⁺bar naša
 ʾida
-cma t
+t cma
 ʾoya
 racəxta
 spaditux
@@ -200843,7 +200843,7 @@ mədrə
 mattuyot
 xut
 xut rišux
-ʾe ⁺dan
+⁺dan ʾe
 bədmaxət
 ʾidux
 mattuyot
@@ -200861,11 +200861,11 @@ xa cul
 tanuyul
 ⁺juvvabu
 dayyana
-ʾe ⁺dan
+⁺dan ʾe
 bəxzayələ
 ʾaxuna
 sura
-b dannə
+dannə b
 ⁺juvvabə
 bitayələ
 marələ
@@ -200877,14 +200877,14 @@ mučxe
 tani
 xazzən
 manilə
-diyyux k̭a
+k̭a diyyux
 tunye
 la ʾən
 tanətli
 ⁺zaya
 b yavvənnə
-⁺davva k̭a
-diyyux zə k̭a
+k̭a ⁺davva
+k̭a diyyux zə
 k̭aṱlən
 ʾətvalə
 hucmət
@@ -200908,7 +200908,7 @@ xa naša
 dayən
 ʾani
 mayen
-diyyux k̭a
+k̭a diyyux
 mərrə
 ⁺ha
 bas
@@ -200943,7 +200943,7 @@ xa məndi
 ⁺ʾal
 ʾak̭lo
 ⁺yanə
-ʾe ⁺dan
+⁺dan ʾe
 bitayəla
 ⁺ham
 xazzənna
@@ -200970,7 +200970,7 @@ mayya
 k̭at
 ʾe
 pašcaš
-ʾidi ⁺ʾal
+⁺ʾal ʾidi
 la
 ⁺maṱya
 yavvala
@@ -200987,10 +200987,10 @@ xərba
 puzzles
 bitayələ
 ⁺narahat
-bratu k̭a
+k̭a bratu
 mara
 xzilax
-mu vədlax
+vədlax mu
 b rišan
 ʾat
 ʾatxa
@@ -201004,10 +201004,10 @@ buš
 velə
 criba
 ⁺bayyə
-zə k̭a diyyi
+k̭a zə diyyi
 ⁺k̭aṱəl
 k̭udmə
-zə k̭a diyyax
+k̭a diyyax zə
 labulələ
 ɟari
 ʾat
@@ -201018,11 +201018,11 @@ b da
 cəslu
 ʾita
 la ʾən
-zə k̭a diyyax
+k̭a diyyax zə
 k̭aṱəl p̂
 ⁺zaya zə
 šak̭əllə p
-zə k̭a diyyi
+k̭a zə diyyi
 k̭atəl p̂
 mərra
 babi
@@ -201056,14 +201056,14 @@ cərvəš
 bədvak̭əl
 xa
 ⁺ṱera
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 k̭edamta
 ⁺ha
 ⁺xarta
 marəla
 xa
-ɟečita zə
+zə ɟečita
 meli
 mən
 švavə
@@ -201086,22 +201086,22 @@ nuynə
 bədrayələ
 ⁺ʾallo
 bətyavəla
-ɟečita ⁺ʾal
+⁺ʾal ɟečita
 ʾak̭lo
 ⁺bəmṱayəna
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 cərvəš
 bədvak̭ola
-xut xačo
-zə ṱera
+xačo xut
+ṱera zə
 bədvak̭ola
 b ʾido
 xina
-ɟečita ⁺ʾal
+⁺ʾal ɟečita
 təvtəla
-ʾurxa ⁺ham
+⁺ham ʾurxa
 bərrəxšəla
-ɟečita ⁺ham
+⁺ham ɟečita
 bərrəxšəla
 ⁺ham
 šulxetəla
@@ -201110,10 +201110,10 @@ bərrəxšəla
 ⁺ʾallo
 ⁺ham
 lvəštəla
-xut xačo
+xačo xut
 ʾilə
 cərvəš
-b xa zə ʾido
+xa b ʾido zə
 ʾila
 ṱera
 dayyana
@@ -201129,11 +201129,11 @@ juvvəbbelə
 honana
 bas
 ʾannə zə
-bət mačəxlun
+mačəxlun bət
 ⁺yanə
 ʾadi
 bəsp̂arəl
-ʾadi k̭at
+k̭at ʾadi
 ʾən
 tila
 p̂ṱ atya
@@ -201143,11 +201143,11 @@ k̭at
 ⁺ʾav
 bəsp̂arələ
 bəxzayələ
-rəxk̭a m
+m rəxk̭a
 b durbinə
 bəxzayələ
 vela
-rəxk̭a m
+m rəxk̭a
 xa məndi
 bita
 calbə
@@ -201162,12 +201162,12 @@ sab
 tila
 ⁺k̭armala p̂
 k̭əssat
-⁺bayyə ʾu
+ʾu ⁺bayyə
 ⁺jarəbla
 ⁺bəddayələ
 k̭at
 ⁺cətrət
-calbə zə
+zə calbə
 šaryalə p
 ʾayya
 calbə
@@ -201181,7 +201181,7 @@ bita
 ɟečita
 xa ʾu
 ⁺ṱlanita
-ʾe ⁺dan
+⁺dan ʾe
 calbə
 k̭arbunəna
 ʾaha
@@ -201192,7 +201192,7 @@ bərrak̭əla
 calbə
 bərrəxšəna
 ⁺baro
-ʾu ʾayən
+ʾayən ʾu
 biyya
 b ɟečita
 ⁺raba
@@ -201249,7 +201249,7 @@ məndi
 ʾe
 məttəlta
 ʾita
-datxa ɟu
+ɟu datxa
 ⁺dana
 mən šmayya
 bənpaləna
@@ -201257,10 +201257,10 @@ bənpaləna
 xabušə
 xa
 xabuša
-de k̭a brata
+k̭a brata de
 xa
 xabuša
-diyyux k̭a
+k̭a diyyux
 k̭at
 ⁺šmilux
 xa
@@ -201278,9 +201278,9 @@ le ⁺ʾaməs
 ⁺ʾaldə
 həč
 naša
-dunyə ɟu
+ɟu dunyə
 ləttən
-k̭a diyyi k̭at
+k̭a k̭at diyyi
 ⁺ʾaldə
 ⁺malla
 ⁺nasradən
@@ -201291,8 +201291,8 @@ mara
 ʾana
 b ⁺aldənnə
 bitayəna
-⁺k̭azi cəs
-ʾe ⁺danta
+cəs ⁺k̭azi
+⁺danta ʾe
 lətva
 malca
 lətva
@@ -201305,7 +201305,7 @@ cullə
 ɟu ʾidət
 ⁺k̭aziva
 bərrəxšələ
-⁺k̭azi cəs
+cəs ⁺k̭azi
 mara
 ʾana
 k̭ax
@@ -201316,19 +201316,19 @@ b ⁺aldətli
 mara
 hi
 ʾana
-b ⁺ʾaldənnux
+⁺ʾaldənnux b
 ʾina
-b šart
+šart b
 šart
 matti
 ʾalpa
 ⁺dinarə
 mattuyələ
-⁺k̭azi cəs
+cəs ⁺k̭azi
 mara
 ʾalpa
 ⁺dinarə
-ʾana ʾən
+ʾən ʾana
 k̭ax
 ⁺ʾuldili
 ʾannə
@@ -201336,8 +201336,8 @@ k̭ax
 ⁺dinarə
 k̭atina
 la ʾən
-k̭am ⁺ʾaldənnux
-diyyux ʾət na
+⁺ʾaldənnux k̭am
+na ʾət diyyux
 ⁺ʾəmza
 vadəna
 ⁺malla
@@ -201361,7 +201361,7 @@ bərrəxšən
 bətyavəl
 tama
 bəsp̂ara
-naša da ⁺ʾal
+da ⁺ʾal naša
 k̭at
 ʾatə
 k̭a ⁺malla
@@ -201400,14 +201400,14 @@ k̭rimələ
 ʾannə
 ⁺ʾarp̂a
 ⁺saʾattə
-diyyux k̭a
+k̭a diyyux
 muttival
 laxxa
 ⁺ʾaldilux k̭at
 ʾayya
 ⁺ʾaldetəla
 ʾayya
-diyyux k̭a
+k̭a diyyux
 ⁺ʾuldilə
 ʾannə
 saʾattə ⁺ʾarp̂a
@@ -201429,12 +201429,12 @@ səprə
 xina
 k̭ubbuxtət
 səprə
-aviva c
+c aviva
 dax
 max d
 ⁺ʾalma
-aviva c
-da səprə
+c aviva
+səprə da
 xina
 hamzumə
 tanuyə
@@ -201454,16 +201454,16 @@ səprə
 har
 babe
 yəmme
-aviva c
+c aviva
 ⁺p̂laša
 har
-aviva c
+c aviva
 p̂laša
 jis
 leva
 m ⁺uydalə
 har
-aviva ṱ
+ṱ aviva
 čirə
 ʾannə
 našə
@@ -201482,7 +201482,7 @@ brita
 t ⁺bar
 ʾen
 brite
-da ham
+ham da
 brune
 ɟurvəslə i ṱ
 vila
@@ -201505,7 +201505,7 @@ tpək̭le
 ⁺uydalə p̂
 ʾo
 yala
-da ham
+ham da
 ʾe
 brata
 ⁺bile
@@ -201516,13 +201516,13 @@ brata
 t ⁺bar
 babe
 yəmme
-i ⁺dile ṱ
+⁺dile i ṱ
 yan
 ʾannə
 ⁺byayəna
 ⁺ʾuydalə
 ʾannə
-va dəžmən
+dəžmən va
 ⁺ʾuydalə ⁺ʾal
 mu
 ʾannə
@@ -201537,15 +201537,15 @@ leva
 mara
 mujjurra
 ʾaxnan
-dəžmən vax
+vax dəžmən
 mən šənnə
 ⁺dorə
-mən ⁺baba ⁺ʾata
+⁺ʾata mən ⁺baba
 ʾatən
 le
 ɟorat
 k̭a ⁺davun
-da ⁺ʾavun
+⁺ʾavun da
 mara
 brit
 ⁺davun
@@ -201579,13 +201579,13 @@ brun malca
 mərrə
 ʾən
 ʾatən
-ʾoyat la
+la ʾoyat
 baxtət
 diyyi
 ʾana
 b ⁺k̭aṱlənna
 ɟani
-da ʾayən
+ʾayən da
 mara
 ʾana da
 b ⁺k̭aṱlanna
@@ -201595,7 +201595,7 @@ diyyux
 ʾən
 ʾaxnan
 xa
-k̭a do xina
+k̭a xina do
 la
 ɟoraxən
 ha
@@ -201608,18 +201608,18 @@ heməzman
 xəšla
 ⁺mṱila
 ⁺ʾal natət
-babe den
+den babe
 yəmme
 mərre
 ʾatxa
 ʾatxa
 tanuyəna
 mira
-⁺spay i ṱ
+i ⁺spay ṱ
 ʾatxa
 tanuyəna
 xina
-cu jur
+jur cu
 ila ṱ
 suzɟərre
 ⁺xluyla
@@ -201631,7 +201631,7 @@ mərre
 yuma
 ʾatxa
 ʾatxa
-b yarxa
+yarxa b
 ʾatxa
 ʾatxa
 yarxa
@@ -201647,7 +201647,7 @@ laxxa
 ⁺tamma
 ⁺xluyla
 vilə
-da ɟu
+ɟu da
 ⁺xluyla
 vatta
 ta
@@ -201677,10 +201677,10 @@ da hi
 ʾa
 calu
 xətna
-ina ṱ
+ṱ ina
 labulə
 bi rək̭da
-bi švara
+švara bi
 bi davla
 ɟarmun
 ta
@@ -201696,7 +201696,7 @@ prək̭la
 xəšla
 ʾay
 xa
-maraca cul
+cul maraca
 vila
 xa ⁺top
 ⁺topxana
@@ -201728,7 +201728,7 @@ babət do
 do
 xətna
 ʾani
-cu jur
+jur cu
 iva ṱ
 xina
 laxxa
@@ -201739,7 +201739,7 @@ mxile
 vile
 mu
 vile
-cu jur
+jur cu
 ila ṱ
 ʾa
 calu
@@ -201762,7 +201762,7 @@ məndi
 ʾuže
 la ⁺məslə
 ʾavədva
-babu k̭a
+k̭a babu
 yəmmu
 mərrə
 ʾana
@@ -201775,7 +201775,7 @@ baxtila
 ⁺bayyitun
 la da
 ʾana
-b šok̭ən
+šok̭ən b
 azən ṱ
 xa
 ʾoxa
@@ -201846,17 +201846,17 @@ bruna
 mara
 ʾa
 bruno
-azəlva c
+c azəlva
 na primer
-azəlva c
+c azəlva
 hənna
 biznes
 šak̭əlva
 məndi
 ⁺šulə
-azəl c
+c azəl
 b dava
-maxləpva ci
+ci maxləpva
 xa
 yarxa
 le ʾativa
@@ -201871,7 +201871,7 @@ xamyatta
 bərrəššən
 xa
 yarxa
-ʾatən le
+le ʾatən
 mara
 bruni
 ⁺bəddayət
@@ -201882,7 +201882,7 @@ cullə
 ʾətlun
 navəɟɟə
 mattuvvəna
-bərcace ⁺ʾal
+⁺ʾal bərcace
 ʾatən da
 mara
 ɟur
@@ -201892,9 +201892,9 @@ calu
 navəɟɟə
 p̂ṱ avili
 hi
-b xazyan
+xazyan b
 xina
-b xadyan
+xadyan b
 atət ṱ
 cəlpət
 beta
@@ -201902,7 +201902,7 @@ beta
 mara
 yəmmi
 ⁺bəzdayən
-mu k̭a
+k̭a mu
 bruni
 mara
 ⁺bəzdayən
@@ -201910,11 +201910,11 @@ jəns
 la
 xamyalax
 mara
-⁺zdi la
+la ⁺zdi
 k̭am
 xu lela
 ⁺janavar
-xu le
+le xu
 ⁺ʾaxlali
 hi
 ʾaha
@@ -201938,13 +201938,13 @@ yəmmi
 jəns
 xamyatta
 ha
-yəmmi bi
+bi yəmmi
 ʾalaha
 ʾavəd la d
 xa məndi
 tpək̭la
 ⁺k̭aṱkəṱṱənnax p̂
-b ⁺rappənnax
+⁺rappənnax b
 mara
 hi
 ba
@@ -202015,7 +202015,7 @@ lena
 bəxzayo
 həč məndi
 ʾa
-mu ila
+ila mu
 bitayəla
 xa
 xa
@@ -202034,7 +202034,7 @@ marələ
 ⁺mama
 mara
 ʾa
-mu ila
+ila mu
 ʾa
 yəmmi
 ⁺xanəm
@@ -202058,14 +202058,14 @@ mava
 mən švavə
 ⁺bak̭urələ
 mara
-šṱo ta
+ta šṱo
 mara
 xa
 məndi
 ʾitən
 ʾa
 yəmmi
-mu ila
+ila mu
 tpək̭ta
 biyyo
 mara
@@ -202076,7 +202076,7 @@ lex
 xəzyo
 yəmmi
 mara
-mu ila
+ila mu
 vita
 k̭a diyyax
 tani
@@ -202088,7 +202088,7 @@ dax
 həč
 məndi
 ba
-b xa
+xa b
 yəmmi
 k̭am
 ʾatxa
@@ -202133,17 +202133,17 @@ len
 ʾayya
 ʾatxəva
 ba
-ʾe xita
+xita ʾe
 ʾatxa
-ʾoya xu le
+le ʾoya xu
 ɟur
 xina
 ʾayya
 leva
 ⁺spay
-ʾe xita
+xita ʾe
 jəns
-p̂ṱ oya
+oya p̂ṱ
 may
 yəmmi
 mara
@@ -202163,7 +202163,7 @@ mənne
 ʾavəd la d
 mšixa
 la catəv
-yəmmi ⁺ʾal
+⁺ʾal yəmmi
 xa
 lacca
 xzili
@@ -202171,7 +202171,7 @@ parzənnax
 vay
 ʾatxa ba
 ⁺šula
-ci tani
+tani ci
 ʾaha
 šk̭əllə
 mədrə
@@ -202182,7 +202182,7 @@ xəšlə
 ɟašuk̭əla
 ʾa
 calu
-⁺tarra ɟu
+ɟu ⁺tarra
 tiyyəna
 meymun
 zonanə
@@ -202247,7 +202247,7 @@ vadələ
 ⁺p̂armetu
 ⁺ɟurta
 xazzən
-mu ila
+ila mu
 yala
 mara
 ɟašuk̭ələ
@@ -202264,7 +202264,7 @@ b ⁺k̭amči
 bəzmarəla
 zuyzə
 ⁺jamuvvəna
-la biznes
+biznes la
 xina
 zuyzə
 ⁺jamuvvəla
@@ -202296,7 +202296,7 @@ eledi
 meymun
 vəttila
 mara
-ʾe k̭amta t
+t k̭amta ʾe
 mara
 biyyə
 muttila
@@ -202315,7 +202315,7 @@ har
 bəzmarəla
 ʾaha
 bəclayələ
-zə ⁺tama
+⁺tama zə
 mara
 k̭orə
 mənni
@@ -202324,7 +202324,7 @@ diyyi
 k̭amta
 ʾatxa
 vəttəla
-b rišo
+rišo b
 ʾa
 xita
 oya c
@@ -202338,7 +202338,7 @@ la
 možeṱ
 biṱ
 mara
-b xa
+xa b
 dak̭ik̭a
 xamimunla
 mara
@@ -202346,7 +202346,7 @@ mara
 ⁺zurnoxun
 xa climun
 yəmmu
-⁺k̭əsso ɟu
+ɟu ⁺k̭əsso
 ʾətva
 ⁺šamma
 ʾatxa
@@ -202362,7 +202362,7 @@ mara
 ʾa
 meymunoxun
 ʾana
-b zonənna
+zonənna b
 mara
 mu
 yavvən
@@ -202441,7 +202441,7 @@ mu
 b tanyat
 bet babux
 la xərba
-baxt ʾavə
+ʾavə baxt
 rišux
 cela
 yəmmux
@@ -202470,7 +202470,7 @@ k̭ala
 vadəla
 la da
 vay
-da ʾay
+ʾay da
 ⁺k̭aṱkuṱol
 mayolə
 meša ɟu
@@ -202494,7 +202494,7 @@ k̭a diyyax
 ʾana
 lipən
 yarxa
-xa ɟa
+ɟa xa
 ʾazən
 ʾana
 hənnəvən
@@ -202524,27 +202524,27 @@ xzilə
 surṱa
 xuk̭yali
 ʾayya
-diyyux k̭a
+k̭a diyyux
 ⁺šarax
 b ⁺meta
 ⁺meta
 ʾiva
-mata ɟu
-ci daraxva
+ɟu mata
+daraxva ci
 ɟavo
 masta
-pummo ʾu
+ʾu pummo
 ⁺yasraxvalə ci
 bi
 cisət
 k̭ənyana
-c avaxva
+avaxva c
 zurzo
 šap̂ərta
-ci ⁺k̭araxvala
+⁺k̭araxvala ci
 ⁺k̭ramta
 ⁺k̭ramta
-mattaxvala ci
+ci mattaxvala
 pummət ⁺ʾal
 ⁺meta
 daraxva
@@ -202553,7 +202553,7 @@ masta
 ⁺yasraxvala ʾu
 ⁺ʾullul
 ʾətvala
-dana xa
+xa dana
 ⁺bəzza
 poxa k̭at
 ⁺paləṱva
@@ -202587,27 +202587,27 @@ yan
 xa
 ʾurza
 yatəvva
-⁺mayyivala k̭at
+k̭at ⁺mayyivala
 mattiva
 xuto
 julla
-avə ʾu c
+c avə ʾu
 ⁺myayo
-ʾe ⁺meta
+⁺meta ʾe
 balcət
 xa
 palɟət
 ⁺saʾat
 ɟaršava
 hal t
-carra ʾo
+ʾo carra
 ʾativa
 ʾe ɟət
 patxaxvala ci
 xazzaxva
 ⁺bayya
 miyya
-⁺bayya le
+le ⁺bayya
 miyya
 balcət
 hajat ʾət
@@ -202623,32 +202623,32 @@ sapk̭axvala
 manə
 ⁺ɟurə
 ⁺k̭azanča
-zə ⁺k̭azanča
+⁺k̭azanča zə
 bitayəla
 mən prəzla
 cumta
-mattaxvala ci
-tanuyra ⁺ʾal
+ci mattaxvala
+⁺ʾal tanuyra
 ɟavo
 mašxənnaxva
 miyya
-ʾe ⁺k̭azanča
-ʾan t
+⁺k̭azanča ʾe
+t ʾan
 ⁺meta
 sapk̭axva
 ɟu dayən
-ʾu cullə
+cullə ʾu
 ⁺carro ʾo
 šak̭laxva
 mən pata
 pešiva
 ⁺davvə
-⁺davvə da
-odaxvalun c
+da ⁺davvə
+c odaxvalun
 jaji
 jaji
 daraxva
-de ɟu
+ɟu de
 ⁺k̭azanča
 daraxva
 ɟu ⁺k̭azanča
@@ -202657,16 +202657,16 @@ xač̭č̭a
 məlxa
 ɟavo
 mattaxval
-tanuyra da ⁺ʾal
+⁺ʾal tanuyra da
 mərri k̭at
 tanuyra
 ⁺šeraxvala
-meter xa
+xa meter
 ʾəsri
 ⁺santiyyə
-va ⁺yurxu
+⁺yurxu va
 ʾamk̭uytu va
-ʾu balcət
+balcət ʾu
 meter xa da
 pətvu va
 ⁺raba buš
@@ -202675,30 +202675,30 @@ mattaxva
 ⁺davun ⁺ʾal
 šalək̭va
 daraxva
-cəsta ɟu
-aviva c
+ɟu cəsta
+c aviva
 jaji
 ʾa
 jaji
-miyyu k̭at
-aviva c
+k̭at miyyu
+c aviva
 xišə
 ⁺xarta
-odax c
+c odax
 ʾax
 ɟupta
-aviva c
+c aviva
 ʾətvalan
 ɟəllalə
 k̭ato
-daraxvalun ci
+ci daraxvalun
 ʾəryanə
 ʾətvalan
 ⁺buslə
 ⁺carra
 c odaxva
 dannə ɟu
-da ɟu
+ɟu da
 jaji
 k̭a ⁺ṱamta
 ⁺carra
@@ -202706,25 +202706,25 @@ jaji
 ɟupta
 ʾu
 ɟira
-mən pat ⁺xalva
+mən ⁺xalva pat
 šak̭laxvalə
 ɟira
 moriša
 jaldə
-k̭am m
+m k̭am
 ⁺xalva
 mašxənnaxvalə
-mən patu
+patu mən
 šak̭laxva
 ɟira
-ʾe ⁺dan
+⁺dan ʾe
 ⁺xalva
 mašxənnaxvalə
 ci ʾak̭əšva
 patu
-oyava c
+c oyava
 k̭urrušta
-ci ⁺k̭araxvala
+⁺k̭araxvala ci
 ⁺k̭urrušta
 ⁺xalva
 xač̭č̭a
@@ -202736,19 +202736,19 @@ la
 daraxva
 xa čamča
 barxəššaxvalə
-ʾo k̭at
+k̭at ʾo
 ⁺xalva
 ʾaviva
 masta
-k̭adalə ɟu
+ɟu k̭adalə
 ʾətvalan
 k̭adalə
 k̭adalət
 šira
 tanaxvalə
-muxzili ʾax
-diyyux k̭a
-ʾe ⁺k̭usarta
+ʾax muxzili
+k̭a diyyux
+⁺k̭usarta ʾe
 šira
 k̭at
 la
@@ -202759,8 +202759,8 @@ miyya
 k̭adalə
 ʾo ⁺xalva
 daraxva
-dani ɟu
-aviva c
+ɟu dani
+c aviva
 masta
 ʾita
 ⁺ṱamtət
@@ -202768,7 +202768,7 @@ diyyan
 mən danniva
 ʾətvala
 ctayatə
-yadliva ci
+ci yadliva
 biyyə
 ⁺k̭aruvva
 ⁺k̭aruvva
@@ -202786,50 +202786,50 @@ b ⁺k̭aruvva
 ʾətvalan
 ⁺k̭aruvva
 k̭ate
-ci ⁺k̭ariva
-ʾu taybərvalun ci
+⁺k̭ariva ci
+taybərvalun ci ʾu
 ctayatə
 ʾətvalan
 ⁺raba
 biyyə
-ʾan biyyə
+biyyə ʾan
 lətvalan
 ⁺yaxčal
-mata ɟu
+ɟu mata
 ci mattaxvalun
-məlxa ɟu
+ɟu məlxa
 ⁺meta
 ʾətvalan
-ze ⁺meyatə
+⁺meyatə ze
 ʾup
 məlxa
-mattaxva ci
+ci mattaxva
 ɟave
 ⁺raba
 məndi
 mattaxva
-dani ɟu
+ɟu dani
 k̭adalə ʾax
 ʾax
 ⁺xamra
-mattaxva ci
-dani ɟu
+ci mattaxva
+ɟu dani
 ʾita
 ʾannə
 biyyə
 mattaxvalun
-məlxa ɟu
+ɟu məlxa
 cma sab
 pešiva
-məlxa ɟu
+ɟu məlxa
 le
 xarviva
 biyyə
 balcət
 xa šita
-⁺amsətva c
+c ⁺amsətva
 xamətvalə
-məlxa ɟu
+ɟu məlxa
 məlxət
 yama
 ʾətvalan
@@ -202844,22 +202844,22 @@ məlxa
 ʾatxa
 ⁺ɟurta
 ʾatxa
-b day
+day b
 xamaxvalə
-zə ʾu ⁺busra
-ʾe ⁺dan
+⁺busra ʾu zə
+⁺dan ʾe
 ʾativa
 našə
 ⁺busra
 parəmva
-mata ɟu
+ɟu mata
 lətvalan
 duccananə
 ⁺busra
-k̭at parəmva
+parəmva k̭at
 šak̭laxva
 ⁺raba
-ʾu k̭alaxvalə
+k̭alaxvalə ʾu
 ⁺busra
 k̭alaxvalə
 ⁺mardəxxaxva
@@ -202870,7 +202870,7 @@ məšxa
 məlxa
 ⁺ʾallu
 daraxva
-k̭adalə ɟu
+ɟu k̭adalə
 ʾiman
 ⁺bayyaxva
 xa məndi
@@ -202879,11 +202879,11 @@ mən do
 k̭alya
 šəmmu
 k̭alyəva
-ci ⁺ʾak̭raxva
+⁺ʾak̭raxva ci
 ⁺palṱaxva
 mattaxva
 k̭usarta ɟu
-ʾu bašlaxva
+bašlaxva ʾu
 bašlaxva
 yaxni
 ci ⁺k̭arila
@@ -202908,10 +202908,10 @@ mən mata
 ⁺busra
 c ativa
 vaddar
-xa ɟa
-mən xa k̭ənyanan
+ɟa xa
+xa mən k̭ənyanan
 parmaxva
-xa ɟa
+ɟa xa
 ctayay
 parmaxvalun
 ʾita
@@ -202919,7 +202919,7 @@ parmaxvalun
 xa ⁺k̭usarta
 b k̭alya
 ⁺yani
-da k̭alya
+k̭alya da
 c ativa
 ʾatxa
 cullə
@@ -202927,19 +202927,19 @@ məndi
 xamaxvalə
 ʾina
 sətva
-məndi cul
+cul məndi
 mattaxva
 vaddar
-talɟa ɟu
+ɟu talɟa
 ʾana
 babi
 xzuyrə
-parəmvalun ci
+ci parəmvalun
 tandəlvalun
 vaddar
 tandəlvalun
-ʾu azəlva c
-cut k̭edamta
+c azəlva ʾu
+k̭edamta cut
 mənne
 parəmva
 mayyiva
@@ -202947,7 +202947,7 @@ mayyiva
 ⁺xvisa
 zarəzva
 ⁺xvisa
-b laxma
+laxma b
 ʾita
 ʾətvalan
 ⁺k̭ulina
@@ -202959,7 +202959,7 @@ b da
 jurra
 ⁺yarixa
 ʾina
-iva ⁺ʾullul
+⁺ʾullul iva
 ⁺raməva
 tre
 metrə
@@ -202969,7 +202969,7 @@ xa
 k̭utiyyu
 ⁺k̭ulina
 ʾiva
-k̭amxa k̭a
+k̭a k̭amxa
 mən ʾəltəx
 ɟaršətvala
 k̭amxa
@@ -202989,7 +202989,7 @@ marona
 ʾilə
 ʾa
 ⁺tarra
-ptaxut k̭at
+k̭at ptaxut
 laxma
 mattaxva
 laxma
@@ -203004,7 +203004,7 @@ leša
 lešaxvalə
 miyyəva
 k̭amxa
-ʾu balcət
+balcət ʾu
 xač̭č̭a
 b ⁺xalva
 c odaxva
@@ -203013,7 +203013,7 @@ tanaxvalə
 ʾina
 la
 b ⁺xalva
-ci ⁺k̭araxvalə
+⁺k̭araxvalə ci
 laxma
 ⁺lavaša
 daraxvalə
@@ -203029,7 +203029,7 @@ yeast
 ⁺bulč̭u
 ʾaxnan
 ɟanan
-xammaxvala ci
+ci xammaxvala
 mən da
 k̭amxa
 mən da
@@ -203043,13 +203043,13 @@ cunda
 xa cunda
 leša
 ⁺ṱamraxa ci
-k̭amxa ɟu
+ɟu k̭amxa
 hal k̭a
-da sapar
+sapar da
 xita
 ⁺ʾav
 ⁺tama
-aviva c
+c aviva
 ⁺pəspəssa
 ⁺məṱya
 ʾita
@@ -203062,8 +203062,8 @@ leša
 ʾodaxva
 ⁺ʾavun
 k̭amxa
-maxaxvalə ci
-marza ⁺ʾal
+ci maxaxvalə
+⁺ʾal marza
 ʾina
 ⁺raba
 ⁺ɟura
@@ -203071,9 +203071,9 @@ marza ⁺ʾal
 ʾətvalan
 ⁺tiyan
 ⁺xumsa
-aviva c
+c aviva
 miyya ɟu
-odaxvalə c
+c odaxvalə
 leša
 ⁺xoṱaxvalə
 c odaxva
@@ -203082,7 +203082,7 @@ leša
 balcət
 tre
 ⁺saʾattə
-aviva c
+c aviva
 hal ⁺maṱiva
 yasək̭va
 ⁺ʾullul
@@ -203109,10 +203109,10 @@ cullə
 darzə
 mayyaxva
 mattaxlun
-⁺ʾambar ɟu
+ɟu ⁺ʾambar
 k̭a sətva
-k̭ənyanə ʾu
-ʾiman t
+ʾu k̭ənyanə
+t ʾiman
 ⁺maxleta
 šəxta
 ʾodiva
@@ -203122,24 +203122,24 @@ cullə
 tamməzzaxvalə
 mattaxvalə
 ⁺k̭ərṱala ɟu
-⁺ʾal ⁺xasan
+⁺xasan ⁺ʾal
 lablaxvala
 ⁺rappaxvala
-vaddar ⁺ʾal
-ʾu dašdəššaxvalə
-aviva c
+⁺ʾal vaddar
+dašdəššaxvalə ʾu
+c aviva
 ʾatxa
 k̭vita
-⁺ʾarra ʾax
+ʾax ⁺ʾarra
 ⁺xarta
 ʾurzə
 parmivalə
-b ⁺mira
+⁺mira b
 parmivalə
 ʾurzə
 ⁺raba
 ⁺ɟura
-axxa m
+m axxa
 hal ⁺tamma
 ʾatxa
 ⁺ɟura
@@ -203147,19 +203147,19 @@ hal ⁺tamma
 ⁺ɟura
 camrə
 k̭a dannə
-tanax ci
+ci tanax
 camrə
 ʾannə
 ʾurzə
 ci parmivala
-ʾa sulta
+sulta ʾa
 šəmmo
 sultəva
 ⁺ʾak̭rivala
 ʾatxa
 parmivala
 ʾatxa
-odivala c
+c odivala
 k̭at
 šəmša
 ⁺ʾorava
@@ -203190,7 +203190,7 @@ c odaxva
 ⁺mamṱiyyaxvala
 b ʾak̭lə
 ṱina
-ʾu yapaxvala ci
+yapaxvala ci ʾu
 b ʾidan
 ʾatxa
 ⁺yarixə
@@ -203204,10 +203204,10 @@ camrə
 ʾina
 ʾannə
 xač̭č̭a
-iva buš nazuc
-ʾaxuni k̭a
+nazuc buš iva
+k̭a ʾaxuni
 tanyana
-ci ɟabaxva
+ɟabaxva ci
 k̭esə
 ⁺ṱalašyatə
 ⁺ṱalašyatə
@@ -203219,9 +203219,9 @@ k̭alpu
 tanaxvalə
 ʾannə
 daraxvalə
-b dannə
+dannə b
 camrə
-b dannə
+dannə b
 bi
 ɟəpta
 k̭esə
@@ -203236,11 +203236,11 @@ tanuyra
 ⁺ʾanta
 ⁺yarəxta
 ⁺ʾanta
-xut m
+m xut
 ⁺ʾarra
 b tanuyra
 mattuyəna
-xa ⁺ʾanta
+⁺ʾanta xa
 mattuyəna
 xa k̭esa
 ⁺xlima
@@ -203273,21 +203273,21 @@ nuyra
 k̭at
 layyə
 k̭a dayən
-ci tani
+tani ci
 ⁺ʾanta
 ⁺ʾantət
 tanuyra
 ʾətvalan
 julla
 zurzəxva
-dešaxva k̭at
-⁺bəzza do ⁺ʾal
+k̭at dešaxva
+⁺ʾal ⁺bəzza do
 k̭at
 la
 ⁺jammiva
 tanuyra
 ʾina
-ʾe ⁺dan
+⁺dan ʾe
 taza
 tapaxvalə
 ɟari
@@ -203296,11 +203296,11 @@ tapaxvalə
 tandurta
 tanuyra
 sura
-cut k̭a yum
+k̭a yum cut
 masalan
 bašlaxva
 ɟavo
-ʾu ʾətvalan
+ʾətvalan ʾu
 beta
 tanaxva
 ⁺ʾotaġ
@@ -203322,7 +203322,7 @@ buxari
 k̭esə
 mattaxva
 ɟavo
-p̂aṱuxə ʾu
+ʾu p̂aṱuxə
 mattaxva
 ɟavo
 camrə
@@ -203343,9 +203343,9 @@ day
 muyyeva
 p̂liṱa
 mattiva
-b day da
+day b da
 bašliva
-ʾaxuni k̭a
+k̭a ʾaxuni
 tayan
 ʾətvalan
 cardiyyə
@@ -203364,7 +203364,7 @@ calama
 ʾannə
 cullə
 ⁺zaraxvalun
-de ɟu
+ɟu de
 dartət
 ɟanan
 ɟari
@@ -203388,7 +203388,7 @@ farsət
 ⁺cabar
 ʾannə
 cullə
-avivalan c
+c avivalan
 ⁺k̭aṱk̭əṱṱaxvalə
 c odaxva
 dolma
@@ -203396,7 +203396,7 @@ dolma
 mattaxva
 ɟavu
 ⁺busra
-odaxvalun c
+c odaxvalun
 dolma
 dolma
 c odaxva
@@ -203437,7 +203437,7 @@ bašlaxva
 ʾatxa
 ranɟu
 ⁺xvarəva
-carra ʾax
+ʾax carra
 daraxvala
 ʾupra
 ʾətvalan
@@ -203445,19 +203445,19 @@ xa ʾupra
 mən ɉavilan
 mayyivalə
 ʾupra
-⁺ʾarra mən
-⁺ʾak̭raxvalə ci
+mən ⁺ʾarra
+ci ⁺ʾak̭raxvalə
 daraxvalə
 dannə ɟu
 miyyət
 ʾanvə
-k̭edamta k̭at
+k̭at k̭edamta
 k̭emətva
 darətva
 ʾupra
-ʾu našə
+našə ʾu
 yask̭iva
-čaraz ɟu
+ɟu čaraz
 šəmmo
 iza čaraz
 ʾatxa
@@ -203469,15 +203469,15 @@ iza čaraz
 ⁺ʾanvə
 miyya
 ⁺saliva
-de mən čaraz
-ɟu ⁺tiyan
+mən de čaraz
+⁺tiyan ɟu
 ʾa
 šak̭lətvalə
 b vadrə
 darətvalə
-de ɟu
+ɟu de
 ⁺meta
-do ʾupra ɟu
+ʾupra do ɟu
 ʾita
 barxəššətvalə
 ʾannə
@@ -203487,9 +203487,9 @@ mən do
 ʾupra
 ⁺xoṱiva ci
 ⁺uydalə p̂
-ɟubbuc ʾu
+ʾu ɟubbuc
 ⁺palṱava
-vaddar ⁺ʾal
+⁺ʾal vaddar
 k̭edamta
 k̭emətva
 ɟarəc
@@ -203497,13 +203497,13 @@ moriša
 jaldə
 šak̭lətvala
 cullə
-ʾo ⁺ṱina
+⁺ṱina ʾo
 ʾe šəxta
 oya c
 ⁺pləṱta
-pata ⁺ʾal
+⁺ʾal pata
 bas
-ʾan miyyət
+miyyət ʾan
 ⁺ʾanvə
 xazzətvalə
 miyyət
@@ -203511,9 +203511,9 @@ miyyət
 ⁺səpyə
 ɟari
 ⁺sapətvalə
-ʾo ⁺ṱina
+⁺ṱina ʾo
 ci daraxvalə
-xa jvala ɟu
+xa ɟu jvala
 mədrə
 miyyu
 ⁺saliva
@@ -203525,12 +203525,12 @@ miyyu
 ⁺ʾavun
 nošu
 ʾina
-ʾan miyyət
+miyyət ʾan
 ⁺ʾanvə
 ⁺raba
 ⁺səpyə
 šap̂irə
-odaxvlə c
+c odaxvlə
 nipuxta
 mən dan
 miyyət
@@ -203549,39 +203549,39 @@ dan ⁺ʾal
 ⁺turšiyyə
 ⁺raba
 basimə
-aviva c
-ʾaxuni k̭a
+c aviva
+k̭a ʾaxuni
 tayana
 ⁺sabun
 mərri
-ʾa sapar
+sapar ʾa
 k̭atux
 ⁺sabun
 ɟanan
-odaxvalə c
+c odaxvalə
 daraxva
 ⁺soda
 b ɟarmə
-ʾe ⁺dan
+⁺dan ʾe
 ⁺soda
 ⁺rappuyət
 ⁺ʾal ɟarmə
-məndi ⁺ʾal
+⁺ʾal məndi
 cullə
 mapšurəl
 vadul
 miyya ʾax
 mattətlə
-tanuyra ⁺ʾal
+⁺ʾal tanuyra
 bašlətlə
 darətlə
-pat miyya ⁺ʾal
+miyya ⁺ʾal pat
 ⁺paləṱ
-tarba ʾax
+ʾax tarba
 tarba
 məšxa
 darətva
-pat miyya ⁺ʾal
+miyya ⁺ʾal pat
 paš
 ʾita
 parmaxvalə
@@ -203592,7 +203592,7 @@ tanaxvalə
 ⁺sallə
 k̭a ⁺sabun
 mattaxva
-⁺ʾal ⁺ʾullul
+⁺ʾullul ⁺ʾal
 cullə
 barəzva
 bas
@@ -203600,15 +203600,15 @@ bas
 mən do
 ⁺sallə
 balcət
-⁺ʾəsra k̭a
+k̭a ⁺ʾəsra
 šənnə
 ʾaxnan
-avivalan c
+c avivalan
 ⁺sabun
-masaxva ci
+ci masaxva
 jullə
 biyyu
-ʾu miyya
+miyya ʾu
 mayyaxva
 mən šak̭ita
 lətvalan
@@ -203625,18 +203625,18 @@ xamšamma
 metrə
 rək̭k̭əva
 šak̭ita
-atyava c
-mən mavatə jam
+c atyava
+jam mən mavatə
 mən matət
 diyyan
-atyava c
+c atyava
 mən
 xanišan
 ʾatxa
 mən
 k̭arajalu
 ⁺babajan
-⁺orava c
+c ⁺orava
 mən matət
 diyyan
 ʾatxa
@@ -203650,14 +203650,14 @@ cullə
 šak̭itəva
 šak̭ita
 ⁺bəddayət
-mu ila xina
+xina ila mu
 nara
 ʾina
 ʾa
 xa ⁺k̭əṱṱa
-mən narələ
+narələ mən
 bitayələ
-matvatə k̭a
+k̭a matvatə
 k̭at našə
 maštila
 ⁺zrute
@@ -203673,7 +203673,7 @@ bəstana ʾu
 ⁺zarraxva
 bəstana
 maštətvalun
-de mən
+mən de
 šak̭ita
 ʾat
 šak̭lətva
@@ -203688,16 +203688,16 @@ xinə
 cullə
 šak̭liva
 maštiva
-de mən
+mən de
 šak̭ita
 šak̭itət
 ⁺spurġan
-ci ⁺k̭arivala
+⁺k̭arivala ci
 sabab
 ʾa
 šak̭ita
 c azava
-⁺spurġan ⁺ʾal
+⁺ʾal ⁺spurġan
 ʾita
 ʾətva
 nuynə
@@ -203706,7 +203706,7 @@ xina
 ʾətvalan
 bəstana
 ⁺zarraxva
-ʾa sapar
+sapar ʾa
 k̭atux
 mərri
 bəstana
@@ -203720,13 +203720,13 @@ bəstana
 xa ʾu
 ⁺bər zarra
 ʾətvalan
-⁺zarrət ⁺bər
+⁺bər ⁺zarrət
 ⁺šaddu
-⁺zarra ⁺bər
+⁺bər ⁺zarra
 ʾatxa
 ⁺xvarəva
 cuma
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 ⁺šaddu
 ɟluləva
 ʾətvalan
@@ -203748,8 +203748,8 @@ bašilə
 k̭amta
 cəndurəva
 surṱa
-mattaxvala ci
-⁺ʾarra xut
+ci mattaxvala
+xut ⁺ʾarra
 ʾupra ɟu
 ʾupra
 daraxval
@@ -203773,15 +203773,15 @@ mən ʾupra xut
 ɟabətvala
 oya ṱ
 bašila
-šallak̭ə ʾu
+ʾu šallak̭ə
 ranɟe
 k̭ina
-da ʾax
+ʾax da
 ⁺yarəxta
 ⁺raba
 ⁺xlita
 šallak̭
-tanivala ci
+ci tanivala
 ⁺xiyarə ʾu
 cəndurə
 ʾannə da
@@ -203793,7 +203793,7 @@ k̭arbunələ
 bi
 čiriyyavatə
 october
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 ba
 ṱusa
 b october
@@ -203807,13 +203807,13 @@ picə
 ⁺ʾanvəva
 cullə
 ci ⁺zak̭rivalun
-b xa
+xa b
 ⁺xola
 tandəllivalun
 čuxta ɟu
 ʾətvalan
 čuxyatə
-⁺ʾambarə ʾax
+ʾax ⁺ʾambarə
 cəšmišə
 ʾətvalan
 cma
@@ -203824,12 +203824,12 @@ cəšmišə
 ⁺ʾanvə
 ʾatxa
 ɟabušta
-ci ⁺k̭araxvalə
+⁺k̭araxvalə ci
 xa
 sama
 har
 ⁺k̭unṱopa ⁺ʾal
-pešiva ci
+ci pešiva
 brizə
 len ⁺bədda
 k̭am
@@ -203838,18 +203838,18 @@ buš
 šap̂irə
 vayəva
 har
-b ⁺k̭unṱopa
+⁺k̭unṱopa b
 mattətva bət
-manux ɟu
+ɟu manux
 ʾita
 b ɟabətvalə
 har
-b ⁺k̭unṱopa
+⁺k̭unṱopa b
 le
 sardivalun
 ʾatxa
 xina
-mən ⁺ʾuydalə
+⁺ʾuydalə mən
 cəšmišəva
 sənjiyyəva
 yemišan
@@ -203859,32 +203859,32 @@ yemišan
 ⁺raba
 ci ⁺zak̭rivalun
 mədrə
-b ⁺xolə
-tandəllivalun ci
-pešiva ci
-tre k̭a yarxə
+⁺xolə b
+ci tandəllivalun
+ci pešiva
+k̭a tre yarxə
 xač̭č̭a
 peša
 ⁺ṱla
 yarxə
 ʾatxa
-pešiva ci
-de ɟu
+ci pešiva
+ɟu de
 ⁺ʾambar
 ʾannə
-iva ⁺hasilan
+⁺hasilan iva
 k̭at
 ʾətva
 nipuxta
-ci bašlaxvala
+bašlaxvala ci
 xina
 ⁺marč̭axvalun
 ⁺ʾanvə
 mədrə
 ⁺badəmjanə
-ci bašlaxvalun
+bašlaxvalun ci
 ⁺murabba
-ci ⁺tarsaxva
+⁺tarsaxva ci
 ʾa
 syrop
 k̭at
@@ -203906,7 +203906,7 @@ məšməššə
 xoxə
 ʾannə
 murabbe
-ci bašlaxvala
+bašlaxvala ci
 xina
 bi
 šacar
@@ -203947,9 +203947,9 @@ dok̭axva ci
 xa
 ⁺pəsla
 ⁺buybarə
-malaxvalun ci
+ci malaxvalun
 ʾaxči
-malaxvalun ci
+ci malaxvalun
 ɟəllalə
 ⁺buybar
 ɟavo
@@ -203962,7 +203962,7 @@ xabuyšət
 ⁺xabuyšət
 ⁺ʾarra
 ʾadi
-darta ɟu
+ɟu darta
 ʾaxnan
 ʾətlan
 ʾilano
@@ -204001,7 +204001,7 @@ k̭alya
 mšamhəva
 ʾa
 ⁺šula
-ɟu cullə
+cullə ɟu
 batə
 ʾətva
 ⁺yanə
@@ -204023,35 +204023,35 @@ k̭ənyanə
 le ʾativa
 ⁺raba
 ʾaxči
-avivalan c
+c avivalan
 ʾaxnan
 mən rəxk̭a
-mayyiva ci
+ci mayyiva
 xa naša
 k̭ənyana
-ci k̭aṱəlvalə
-mata ɟu
+k̭aṱəlvalə ci
+ɟu mata
 har
-yuma ʾo
-⁺palli ci
+ʾo yuma
+ci ⁺palli
 ⁺yanə
-zonivalə ci
+ci zonivalə
 cullə
 cullə
-ci ⁺xabriva
+⁺xabriva ci
 k̭at
-l o rišət
+rišət l o
 mata
 k̭ənyana
 priməna
 ʾita
 ⁺ʾalma
-azəlva c
-zavənva ci
+c azəlva
+ci zavənva
 ʾita
 ʾayya
 xač̭č̭a
-oyava c
+c oyava
 bi
 sətva
 ʾita
@@ -204061,7 +204061,7 @@ mu
 cullə
 našə
 ʾətlun
-paɟane ɟu
+ɟu paɟane
 ⁺heyvanə
 k̭ənyanə
 ɟane
@@ -204070,10 +204070,10 @@ maxsusan
 xa
 šarxa
 masalan
-⁺rašmivalə ci
+ci ⁺rašmivalə
 mən nisanə
-⁺rašmivalə ci
-⁺ʾavva k̭at
+ci ⁺rašmivalə
+k̭at ⁺ʾavva
 k̭alya
 p̂ṱ odaxlə
 ʾa šita
@@ -204083,16 +204083,16 @@ buš
 ci ⁺naṱrivalə
 ⁺maṱrəssival
 ⁺maxlivalə
-ɟu čiriyyə
+čiriyyə ɟu
 ⁺ʾavva
-bət parmivalə
+parmivalə bət
 parmivalə
 ⁺busru
 cullə
 k̭alivalə p̂
 məšxa ɟu
-k̭adalə ɟu
-da ⁺tama
+ɟu k̭adalə
+⁺tama da
 lətvalan
 ⁺yaxčalə
 ʾaxči
@@ -204105,18 +204105,18 @@ cullə
 ʾannə
 cuxyatan
 ⁺k̭ayrə
-aviva c
+c aviva
 k̭alyəva
 mastəva
 ʾannə
-⁺turšiyyan iva
+iva ⁺turšiyyan
 ɟuptəla
 k̭at
 xina
-zə ɟupta
+ɟupta zə
 ⁺čaġət ɟu
 june
-yarxət ɟu
+ɟu yarxət
 june
 ɟupta
 ɟari
@@ -204133,8 +204133,8 @@ b ⁺xalvət
 ʾərbə
 c odila
 mədrə
-mayyiva ci
-ci zabnivalun
+ci mayyiva
+zabnivalun ci
 ʾaxnan
 ɟanan
 lex
@@ -204147,13 +204147,13 @@ zonaxvala
 ɟu
 k̭adalyatə
 ʾarra ɟu
-pešava k̭at
+k̭at pešava
 k̭a sətva
 ʾayya
 tanaxvala ci
 ɟupta
 ⁺ṱumərta
-zə ʾadiyya
+ʾadiyya zə
 laxxa
 ʾətlan
 mut
@@ -204182,7 +204182,7 @@ xluylanə ɟu
 cullə
 k̭esə
 hi
-⁺jammaxvalun ci
+ci ⁺jammaxvalun
 k̭esə
 ci ⁺k̭aṱk̭eṱṱaxvalun
 ʾannə
@@ -204192,7 +204192,7 @@ k̭a
 buxari
 ⁺p̂aṱuxtəva
 mədrə
-ci ⁺jammaxvala
+⁺jammaxvala ci
 dəšta mən
 camrəva
 cul
@@ -204207,9 +204207,9 @@ mattuyə
 bədrayeva
 xa
 ducta
-ɟu cullə
+cullə ɟu
 ⁺k̭eṱa
-ʾe ducta
+ducta ʾe
 bivayəla
 ⁺tuptəpta
 b k̭vita
@@ -204223,8 +204223,8 @@ carpičə
 parmivala
 xarzivala
 barzava
-zə ʾani
-⁺morivalun bət
+ʾani zə
+bət ⁺morivalun
 mulavatə ɟu
 ducta
 ʾətvalan
@@ -204241,7 +204241,7 @@ xina
 cullə
 beta
 šaxina
-ci xamivalə
+xamivalə ci
 bi
 dani
 b dan
@@ -204250,13 +204250,13 @@ b k̭esə
 ⁺xəṱṱə
 ⁺daneva
 ⁺čaġeva
-ci ⁺xalləllaxvalun
+⁺xalləllaxvalun ci
 čiriyyavay
 cut
 ʾətlə
 ɟanu
 ⁺zəryələ
-mən ⁺xəṱṱət
+⁺xəṱṱət mən
 ɟanu
 ʾina
 ɟari
@@ -204268,14 +204268,14 @@ b čiriyyavay
 ⁺šulanə
 ⁺rabəva
 ʾət mata
-ʾo t
+t ʾo
 lətlə
 ⁺xəṱṱə
 ci zoniva
 ⁺raba
 ⁺xəṱṱə
 masalan
-danə ʾəšta
+ʾəšta danə
 ʾatxa
 jvalə
 b zoniva
@@ -204285,12 +204285,12 @@ b zoniva
 ⁺xəṱṱə
 cullə
 ɟari
-xa yuma ɟu
+xa ɟu yuma
 yan
 tre
 yumə
-bət ⁺xallivalun
-b šaṱxivalun
+⁺xallivalun bət
+šaṱxivalun b
 barziva
 b tamməzzivalun
 cipə
@@ -204309,8 +204309,8 @@ xa
 ⁺bayyi
 ʾazi
 taxni
-ʾərxə ⁺ʾal
-ʾodilə k̭at
+⁺ʾal ʾərxə
+k̭at ʾodilə
 k̭amxa
 xa
 mən dan
@@ -204329,15 +204329,15 @@ k̭amxa
 ʾica
 xamuyuva
 cvara ɟu
-⁺k̭ulina ɟu
+ɟu ⁺k̭ulina
 ⁺xəṱṱə
 cvara ɟu
 k̭amxa
-⁺k̭ulina ɟu
+ɟu ⁺k̭ulina
 ʾannə
 ʾiva
 xa cma
-box ə
+ə box
 b k̭esa
 ⁺tursəva
 b taxtə
@@ -204368,7 +204368,7 @@ palɟət
 da
 garage
 bi
-box ə
+ə box
 ⁺tursova
 bi
 taxta
@@ -204391,9 +204391,9 @@ mən
 ʾita
 taxta
 ⁺maslivala
-b davrava
+davrava b
 ⁺tarro
-b davərva
+davərva b
 ʾayya
 ⁺ramtəva
 mən
@@ -204401,7 +204401,7 @@ mən
 max
 ⁺davvo
 ⁺tarra
-xa txa
+txa xa
 ⁺ramtəva
 mənnan
 yalə
@@ -204410,7 +204410,7 @@ surə
 ⁺ramtəva
 ʾita
 ʾayya
-oyava c
+c oyava
 mlita
 xəṱṱə
 xa xita
@@ -204420,7 +204420,7 @@ k̭amxa
 xina
 k̭amxa
 ʾodivalə ci
-b čiriyyavatə
+čiriyyavatə b
 taxnivalə ci
 ⁺ʾal ʾərxiyyə
 xa cma
@@ -204432,8 +204432,8 @@ c ativa
 ʾərxavatə
 lətva
 ⁺raba
-⁺ṱusa k̭a
-mat ɟu diyyan
+k̭a ⁺ṱusa
+diyyan mat ɟu
 ʾətva
 ⁺ṱla
 ⁺ʾarp̂a
@@ -204443,8 +204443,8 @@ lətva
 ʾannə
 culle
 bitayəna
-de ɟu ʾərxət
-mat diyyan
+ɟu ʾərxət de
+diyyan mat
 taxniva
 tuynəva
 ⁺xaltət
@@ -204461,7 +204461,7 @@ sətva
 ʾətlan
 tuyna
 yonja
-zə yonja
+yonja zə
 ⁺zarriva ci
 cul
 beta
@@ -204472,8 +204472,8 @@ yonja
 ʾodivala
 ɟuttə
 ⁺morivala
-⁺ʾambarə ɟu
-k̭ənyanə k̭a
+ɟu ⁺ʾambarə
+k̭a k̭ənyanə
 ʾayya zə
 ⁺mixultət
 ⁺heyvanəva
@@ -204484,8 +204484,8 @@ ci ⁺zak̭raxva
 ʾaxnan
 bnatə
 ⁺šulət
-iva diyyan
-mən k̭attət
+diyyan iva
+k̭attət mən
 ⁺xəṱṱə
 k̭attət
 ⁺xəṱṱə
@@ -204504,9 +204504,9 @@ ci ⁺zak̭raxva
 k̭alatə
 ʾurzə
 ʾina
-⁺zak̭riva ci
+ci ⁺zak̭riva
 ʾurzə
-⁺zak̭riva ci
+ci ⁺zak̭riva
 ʾatxa
 k̭alta
 ʾayya
@@ -204534,25 +204534,25 @@ xa
 ʾətva
 šəmmu
 tuyra
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 tuyra
 ʾan
 tuyrəva
 ʾatxa
 ⁺k̭ərṱalə
-⁺zak̭riva ci
+ci ⁺zak̭riva
 petət
 laxma
 hi
 petət
-zə laxma
+laxma zə
 ʾətva
 xa cma
-yapyanyay m
+m yapyanyay
 xina
-lešiva ci
+ci lešiva
 k̭urba
-tre k̭a
+k̭a tre
 yarxə
 k̭a tlay
 yuma
@@ -204561,17 +204561,17 @@ yumanə
 ⁺yanə
 ʾatxa
 laxma
-payyi ci
+ci payyi
 xa yuma
-payyivalə ci
+ci payyivalə
 mədre
 tre ⁺bar
 yarxə
 mədre
-b sank̭iva
+sank̭iva b
 xina
 miyyəva
-k̭amxa m
+m k̭amxa
 b lešivalə
 xa
 yuma
@@ -204582,7 +204582,7 @@ xmira
 ɟavu
 k̭at
 xammiva
-da xmira
+xmira da
 mujjur
 vadut
 ʾudyu
@@ -204590,9 +204590,9 @@ vadut
 xmira
 šk̭əltun
 mən šveta
-ci xamivalə
+xamivalə ci
 mən ʾida
-ʾida ⁺ʾal
+⁺ʾal ʾida
 le
 šok̭iva
 parək̭va
@@ -204615,7 +204615,7 @@ yavva
 xa
 k̭a šveta
 xa
-ɟano k̭a
+k̭a ɟano
 xamya
 ʾita
 bi
@@ -204625,21 +204625,21 @@ hammaša
 xa
 cunda
 ʾətva
-k̭amxa da ɟu
+ɟu k̭amxa da
 ⁺ṱamrivalə
-de ɟu
+ɟu de
 ⁺k̭ulina
 ʾita
 ⁺ʾavun
 marcuxuna
 ⁺berašə
-do ɟu
+ɟu do
 k̭amxa
 šima
 ⁺bəxvaṱuna
 bi
 miyya
-k̭amxa ʾu
+ʾu k̭amxa
 moriša
 bək̭yaməna
 bəxzayəna
@@ -204650,9 +204650,9 @@ xəmyələ
 xina
 k̭amta
 cundə
-p̂ṱ odiva
-cma t
-zə našə
+odiva p̂ṱ
+t cma
+našə zə
 ⁺raba
 ʾaviva
 k̭a
@@ -204669,10 +204669,10 @@ payyanta
 xa iva
 xa xta
 ⁺darrənnanta
-oyava c
+c oyava
 ʾana
 yəmmi
-bax ⁺xaluyi
+⁺xaluyi bax
 ci payyava
 k̭a diyyan
 k̭a cullə
@@ -204680,30 +204680,30 @@ cəlpat
 xəzmanə
 yəmmət
 da diyyi
-⁺darrənnava ci
+ci ⁺darrənnava
 taxta
 xina
 taxta
 ɟurtəva
 ɟlulta
-ʾatxa xa
+xa ʾatxa
 ⁺ramta
 ⁺dorana
 ʾətva
 k̭at
-zə ʾadi
+ʾadi zə
 ʾətlan
 ʾaxnan
-mazrak̭ da ʾu
+ʾu mazrak̭ da
 ʾe
 baxta
 k̭at
 pyayəla
 laxma
 bədrayula
-de mazrak̭ ⁺ʾal
+⁺ʾal mazrak̭ de
 ⁺bəššayula
-tanuyra ɟu
+ɟu tanuyra
 tanuyra da
 šaxina
 vayələ
@@ -204734,18 +204734,18 @@ cundə
 ʾaxči
 xač̭č̭a
 patxivalun
-ʾatxa xa
+xa ʾatxa
 ʾatxa
 ɟlulə
 ʾina
 ⁺xlimə
 savə
-dani mən
-⁺bayyiva ci
+mən dani
+ci ⁺bayyiva
 savunə
 k̭at
 b ⁺xalva
-⁺axlivalə c
+c ⁺axlivalə
 ⁺paṱirə
 mədrə
 c odaxva
@@ -204757,7 +204757,7 @@ le
 mattaxva
 mərtuxa
 ɟave
-zə ⁺ʾavun
+⁺ʾavun zə
 har
 ʾatxa
 xa
@@ -204770,8 +204770,8 @@ cadə
 ʾavə
 mərtuxa
 mərtuxa
-mattaxva ci
-ɟu cadə
+ci mattaxva
+cadə ɟu
 masta
 ha
 masta
@@ -204781,7 +204781,7 @@ xina ci
 ⁺meta
 ʾiva
 šabta ɟu
-tre ɟa
+ɟa tre
 ⁺xalva
 mašxunuva
 ⁺xalva
@@ -204799,30 +204799,30 @@ xinə
 mastələ
 ⁺hazər
 ʾita
-zediva ci
+ci zediva
 ʾan
 k̭adalyatə
 ʾe
 masalət
-yutam la
-zediva ci
+la yutam
+ci zediva
 k̭adalyatə
 ʾita
 cu šabta
-tre ɟa
+ɟa tre
 ʾət
 ⁺danə
 yan
 šabta
 ɟa ⁺ṱla
 šabta
-tre ɟa
+ɟa tre
 ⁺meta
 ʾay
 clitəla
 cma
 masta
-avilan ṱ
+ṱ avilan
 hi
 ʾitar
 ⁺ṱla
@@ -204830,20 +204830,20 @@ k̭adalyay
 ⁺ʾarp̂a
 k̭adalyay
 darivalun
-dana xa ɟu
+xa dana ɟu
 ⁺meta
 ⁺ɟurtəva
 ʾayən
-b ⁺šešavala
+⁺šešavala b
 yəmma
-b ⁺šešavala
+⁺šešavala b
 ⁺ʾuxča
-b ⁺šešavala
+⁺šešavala b
 hal
-de ⁺danət
+⁺danət de
 ⁺carro ʾo
 caliva
-pata ⁺ʾal
+⁺ʾal pata
 ⁺davvə
 ⁺carra
 b šak̭lavalə
@@ -204852,7 +204852,7 @@ pešanə
 ʾan
 ⁺davvə
 b daryavalun
-cəsta ɟu
+ɟu cəsta
 ⁺masyəppavalun
 xa
 yuma
@@ -204871,7 +204871,7 @@ pešana
 k̭attəġ
 pešana
 mən dan
-ʾe ⁺dan
+⁺dan ʾe
 ⁺bəsyapəva
 ʾan
 ⁺davvə
@@ -204889,14 +204889,14 @@ jajəc
 xina
 k̭ətpəva
 ʾani
-⁺rappiva ci
+ci ⁺rappiva
 ci xepiva
 biyye
 ʾatxa
 cose
 ʾax
 shampoo
-aviva c
+c aviva
 k̭ate
 ʾan
 miyyət
@@ -204908,7 +204908,7 @@ jullə
 xina
 ʾətva
 šabta
-xa ɟəva
+ɟəva xa
 mašxənniva
 miyya
 ʾax
@@ -204927,21 +204927,21 @@ mən šak̭ita
 miyya
 beta
 mašxənnaxvalun ci
-tanuyra ⁺ʾal
+⁺ʾal tanuyra
 ʾojaxta ⁺ʾal
 bi
 k̭esət
 nuyra
 ⁺bəšyara
 ʾita
-idə p̂
+p̂ idə
 cullə
 ci masivalun
 yəmmatə
 lablaxva
-šak̭ita ⁺ʾal
-parpiyyaxvalun ci
-parpiyyaxvalun ci
+⁺ʾal šak̭ita
+ci parpiyyaxvalun
+ci parpiyyaxvalun
 bi
 miyya
 ʾita
@@ -204959,7 +204959,7 @@ batvatə
 baxtatə
 ɟane
 ci ⁺maxvərriva
-c azaxva
+azaxva c
 ʾətvalan
 xa
 ⁺ṱuyra
@@ -204972,14 +204972,14 @@ mənnu
 ⁺xorana
 šəmmu
 tanaxvalə ci
-⁺dana ⁺ʾe
+⁺ʾe ⁺dana
 ⁺xorana
 har
-zə ʾadiyya
+ʾadiyya zə
 ⁺xoranələ
 ⁺maxvartət
 bətvatə
-mayyiva bət
+bət mayyiva
 xa
 darya
 ʾurzə
@@ -204991,7 +204991,7 @@ baxtay
 mejivalə ci
 miyya ɟu
 ⁺raba
-⁺tarsiva ci
+ci ⁺tarsiva
 vadrə
 ʾita
 b šak̭liva
@@ -205006,7 +205006,7 @@ b dan
 canušyay
 dayk̭ə
 yəmmatə
-ask̭iva c
+c ask̭iva
 simalta ⁺al
 ⁺maxvərriva
 ɟuydanə
@@ -205015,7 +205015,7 @@ cullə
 ʾayya
 p̂ṱ oyava
 čiriyyavay
-mən k̭am
+k̭am mən
 ʾidavatə
 ʾida
 k̭a ʾida
@@ -205025,7 +205025,7 @@ bətvatə
 ⁺xvarə
 pardə
 məsyə
-da ⁺k̭uranə
+⁺k̭uranə da
 ⁺zak̭riva
 hi
 ʾatxa
@@ -205062,16 +205062,16 @@ hasirə
 ʾətvalan
 bi
 jaɟan
-⁺zak̭raxvalə ci
+ci ⁺zak̭raxvalə
 ʾayən
 ʾax
 da
 prəsta
 masalan
-šaviva k̭at
+k̭at šaviva
 cullə
 ⁺ʾotaġə
-aviva c
+c aviva
 məlyə
 hasirə
 ⁺bar
@@ -205082,11 +205082,11 @@ prəsyay
 ⁺ʾalle
 šuvilan
 ʾina
-b ⁺šuraya
-hasirə ⁺ʾal
+⁺šuraya b
+⁺ʾal hasirə
 tivəna
 hasirə
-⁺zak̭riva ci
+ci ⁺zak̭riva
 dax
 mašxənniva
 bətvatə
@@ -205119,12 +205119,12 @@ xut ⁺k̭əṱma
 ⁺bar
 ⁺cavutra
 xač̭č̭a
-ci ⁺palṱiva
+⁺palṱiva ci
 mən k̭əṱmət
 k̭at
 šxunta
 ⁺palṱava
-da ⁺k̭usaryay
+⁺k̭usaryay da
 cullə
 xrizəna
 ⁺tama
@@ -205136,11 +205136,11 @@ xrizəna
 miyya
 hammaša
 talmə
-avivalun c
+c avivalun
 k̭at
 ⁺bərdaxa
 ⁺hazər
-tanuyra ɟu
+ɟu tanuyra
 k̭eta
 k̭eta
 k̭eta
@@ -205155,7 +205155,7 @@ zoda
 xina
 ʾaxnan
 viyyəx
-da ⁺ʾotaġə
+⁺ʾotaġə da
 ʾiva
 ʾətva
 tre
@@ -205181,7 +205181,7 @@ macsaxvalun ci
 mədrə
 moriša
 b k̭emaxva
-balila ⁺ʾal
+⁺ʾal balila
 ʾana
 cut
 ⁺berašə
@@ -205199,8 +205199,8 @@ patxaxvalun
 ⁺ṱla
 ⁺ʾarp̂a
 ⁺saʾattə
-mən k̭am
-yask̭ax k̭at
+k̭am mən
+k̭at yask̭ax
 damxax
 ʾannə
 ʾina
@@ -205210,9 +205210,9 @@ xa
 tre
 ⁺ṱla
 yarxə
-ʾan jul maxə
+jul maxə ʾan
 ⁺tama
-pešiva ci
+ci pešiva
 ɟarə ⁺ʾal
 ⁺xarta
 ci maslaxvalun
@@ -205223,7 +205223,7 @@ har
 laxxa
 cullə
 cəlpat
-⁺jammava ci
+ci ⁺jammava
 ⁺hayyərriva
 ⁺ṱalabuta
 ʾəttən
@@ -205262,7 +205262,7 @@ xina
 xa
 naša
 xina
-ʾazəl le
+le ʾazəl
 but
 de
 brata
@@ -205271,7 +205271,7 @@ brata
 ʾax
 ⁺bəršamona
 bar
-zə hada
+hada zə
 širənnəx
 ʾəttən
 bi
@@ -205286,10 +205286,10 @@ brata
 našə
 xəzmanə
 ⁺maxli ci
-mašti ci
+ci mašti
 cecə
 šərniyyəla
-yuma ʾo
+ʾo yuma
 masalan
 ⁺bar
 širənnəx da
@@ -205297,10 +205297,10 @@ masalan
 bitayələ
 našət
 yala
-b ⁺šari
+⁺šari b
 b ⁺xluyla
 ⁺xluyla
-aviva c
+c aviva
 tre
 yumə
 ⁺ṱla
@@ -205314,14 +205314,14 @@ bi
 ⁺ʾarp̂a
 yumə
 ⁺xluylanə
-aviva c
+c aviva
 davlačiyyə
 c ativa
 davla
 maxyanə
 le ʾavivalan
-mata ɟu
-mən mavatə
+ɟu mata
+mavatə mən
 xinə
 c ativa
 ʾina
@@ -205332,9 +205332,9 @@ mavay
 c ativa
 ʾita
 ʾarxə
-aviva c
+c aviva
 ⁺raba
-aviva c
+c aviva
 trəmma
 ɟanay
 ʾət
@@ -205354,17 +205354,17 @@ mata
 ⁺pallaxvalun
 ⁺ʾəsra
 p̂ṱ azi
-do ɟu
+ɟu do
 beta
 ⁺šavva
-do ɟu
+ɟu do
 beta
 tmanya
-do ɟu
+ɟu do
 beta
 ʾətva
 xəzmanə
-dan ɟu
+ɟu dan
 ʾarxə
 ʾətva
 lətva
@@ -205380,17 +205380,17 @@ hal t
 ⁺xluyla
 parək̭va
 čun
-⁺ʾamsi la
+la ⁺ʾamsi
 damxi
-⁺xluyla ɟu bet
+bet ɟu ⁺xluyla
 ʾayya da
 rizət
 ⁺xluyləva
-b ⁺šuraya
+⁺šuraya b
 ʾila
 xa
 lelə
-mən k̭am
+k̭am mən
 ⁺xluyla
 xənna
 ʾəttən
@@ -205405,22 +205405,22 @@ labuluna
 lab
 yala
 ʾadi
-yuma ʾo
+ʾo yuma
 xina
 k̭ənyana
-parmiva ci
+ci parmiva
 ⁺hazər
 ʾavi
 tre
 k̭ənyanə
 balcət
-parmi bət
+bət parmi
 ⁺hazər
 vayəna
 k̭a ⁺xluyla
 ʾina
 davlačiyyə
-matəna har ɟu
+ɟu har matəna
 šoda
 har
 ʾəttən
@@ -205435,13 +205435,13 @@ k̭amaya
 bərrəxšəna
 calu
 mayona
-ʾe ⁺dan
+⁺dan ʾe
 muyyalun
 calu
-mən xa
+xa mən
 mata
 xita
-⁺ṱusa k̭a
+k̭a ⁺ṱusa
 tanax
 mayox
 yuma
@@ -205460,11 +205460,11 @@ xina
 calu
 bitayəla
 calu
-teto ɟu
+ɟu teto
 ci
 ɟanvivala
 k̭amta
-ɟanvivala ci
+ci ɟanvivala
 švavə
 ʾayya
 ʾətva
@@ -205474,10 +205474,10 @@ rizəva
 mən
 ⁺xarta
 yan
-mašrivala ci
+ci mašrivala
 tanax
 ʾadi
-ʾe ⁺dan
+⁺dan ʾe
 calu
 mən mata
 xita
@@ -205490,12 +205490,12 @@ mašrivala bət
 ʾani
 k̭amta
 p̂ṱ ⁺orava
-dani bet
+bet dani
 tanax
 ⁺toze
 ʾida
 pate
-b ⁺xalliva
+⁺xalliva b
 ʾay
 xa
 ʾarxuyta
@@ -205508,23 +205508,23 @@ mušriyyona
 ʾita
 bi
 xəmyana
-p̂ṱ aziva
+aziva p̂ṱ
 mədrə
 mayyivala
-do m
+m do
 beta
 ⁺palṱivala
 b davla
 ⁺zurna
 lablivala
-ɟu bet
+bet ɟu
 ɟnuna
 betət
 xətna
 xa
 beta
 ⁺ɟura
-aviva c
+c aviva
 muryəzza
 ⁺tama
 ⁺xluyla
@@ -205546,7 +205546,7 @@ našət
 ⁺xluyla
 ʾax
 masalan
-ʾaxnan da k̭at
+k̭at ʾaxnan da
 yuvvəx
 ʾo
 naša
@@ -205554,7 +205554,7 @@ yuvvələ
 k̭a cullə
 de
 mata
-ʾe ⁺dan
+⁺dan ʾe
 ⁺xluyla
 vidəna
 ʾadi
@@ -205580,7 +205580,7 @@ k̭a da
 har
 ʾax
 laxxa
-da ʾadiyya
+ʾadiyya da
 ʾo
 ⁺šula
 ʾəttən
@@ -205588,7 +205588,7 @@ cullə
 bətvatət
 mata
 mavatə ɟu
-cut beta
+beta cut
 ʾətvalə
 xa
 tanuyra
@@ -205597,10 +205597,10 @@ k̭at
 zoda
 ɟavu
 laxma
-payyi ci
+ci payyi
 yan
 ⁺k̭usarta
-bašli ci
+ci bašli
 ɟavo
 ⁺k̭usarta
 ⁺k̭usarta
@@ -205616,7 +205616,7 @@ tanuyra
 ⁺raba
 ⁺ṱamanə
 basimə
-aviva c
+c aviva
 xurraɟət
 tanuyra
 ⁺xarta
@@ -205624,30 +205624,30 @@ tanuyra
 b yuma
 tanuyra
 c odivalə
-k̭a laxma
+laxma k̭a
 pyeta
 ʾita
 ⁺berašvanə da
 ʾarxə k̭at
 ʾativa
-do ɟu
+ɟu do
 bet
 tanuyra
 mattivalun
-dana xa
+xa dana
 miz
 ʾatxa
 matti
 patət ⁺ʾal
 tanuyra
-la yan
-dana xa
+yan la
+xa dana
 ⁺ʾadyal
 dari
 našə
 ʾak̭late
-čambəllivalun p
-do ɟu
+p čambəllivalun
+ɟu do
 tanuyra
 cullə
 šaxinə
@@ -205660,12 +205660,12 @@ betət ʾup
 tanuyra
 ⁺raba
 šaxina
-avə c
-da ʾak̭lux
-tanuyra ɟu
+c avə
+ʾak̭lux da
+ɟu tanuyra
 ⁺raba
 basəmta
-oyava c
+c oyava
 ʾita
 b yatviva
 ʾadiyya
@@ -205680,7 +205680,7 @@ zamriva
 b šativa
 ⁺raba
 sodanta
-oyava c
+c oyava
 ⁺xarta
 tilun
 ʾannə
@@ -205688,7 +205688,7 @@ buxariyyə
 ⁺pləṱlun
 buxari
 ʾət k̭esa
-mata ɟu
+ɟu mata
 buxariyyə
 ʾət k̭esa
 c avi
@@ -205696,7 +205696,7 @@ c avi
 xina
 k̭amta
 bərk̭a
-mavay ɟu
+ɟu mavay
 lətva
 ʾadiyya
 bərk̭a
@@ -205712,7 +205712,7 @@ sodantəva
 k̭amta
 cullə
 məndi
-iva natural
+natural iva
 cullə
 məndi
 ʾina xina
@@ -205724,17 +205724,17 @@ xašta
 teta
 zədlun
 tanuyrə
-xina lətlan
-mavay da ɟu
+lətlan xina
+ɟu da mavay
 xač̭č̭a
 ʾəttən
 ʾannə
-da ⁺lavašə
-ʾatxa k̭at
+⁺lavašə da
+k̭at ʾatxa
 c avi
 xina ʾadiyya
 lena
-viyyə xina
+xina viyyə
 b tanuyra
 ʾətlan
 ʾət tanuyra
@@ -205745,23 +205745,23 @@ laxma
 ʾətlan
 b tanuyra
 k̭at
-zabni ci
+ci zabni
 laxmət
 tanuyra
 ⁺raba
 basima
-avə c
+c avə
 va
 ⁺ṱima
-avə c
-do m
+c avə
+m do
 k̭at
 bi
 ⁺nuyṱa
 b ⁺ɟazuyl
 vaduna
 ʾina
-ʾo t
+t ʾo
 tanuyra
 xa məndi
 xina
@@ -205769,27 +205769,27 @@ xina
 ⁺ṱamana
 ⁺raba
 basima
-matvatə ɟu
+ɟu matvatə
 k̭at
-k̭amta ʾət xina
+xina ʾət k̭amta
 tanən
 ʾadiyya
-mavay da
+da mavay
 max mdita
 viyyəna
 ʾadiyya
 ʾina
 k̭amta
 ɟuydanə
-b čarpicət
+čarpicət b
 ʾuprəva
 čarpicə
 la
 bšilə
 čarpicə
-p̂ṱ odivalun
-k̭am šəmša
-barziva bət
+odivalun p̂ṱ
+šəmša k̭am
+bət barziva
 ʾani
 ɟuyda
 baniva bət
@@ -205803,7 +205803,7 @@ p̂ṱ avə
 k̭esa
 maxiva
 dariva
-da laxxa
+laxxa da
 ʾannə
 k̭esəna
 ʾina
@@ -205815,19 +205815,19 @@ k̭esə
 ʾilana
 pramuna k̭at
 k̭esə
-c odilun
+odilun c
 ʾatxa
-darilun ci
+ci darilun
 ʾita
-dani ⁺ʾal
+⁺ʾal dani
 parduvvə
 dari ci
 ⁺ʾalle
 parduvvə
 k̭esə
-ina nazuc
+nazuc ina
 dannə ⁺ʾal
-yatvi ci
+ci yatvi
 ʾannə
 k̭esə
 ʾatxa
@@ -205841,7 +205841,7 @@ dannə
 parduvvə
 dari ci
 k̭at
-dayya da ⁺ʾal
+dayya ⁺ʾal da
 ⁺ṱina
 ʾannə
 k̭esəna
@@ -205851,7 +205851,7 @@ k̭esə
 čup
 k̭urba
 ⁺ʾal ʾuydalə
-xina ṱ avi
+xina avi ṱ
 k̭urba
 ⁺ʾal ʾuydalə
 ʾəsri
@@ -205861,7 +205861,7 @@ prišə
 m ⁺uydalə
 ʾatxa
 cullə
-p̂ṱ odilun
+odilun p̂ṱ
 ʾita
 dannə ⁺ʾal
 parduvvə
@@ -205879,23 +205879,23 @@ dannə ⁺ʾal
 ʾatxa
 parduvvə
 ʾita
-dani ⁺ʾal
-tanax ci
+⁺ʾal dani
+ci tanax
 ʾaxnan
-b lišan diyyan
+b diyyan lišan
 ⁺suvvaġ
-ci tani
+tani ci
 ⁺suvvaġ
 ⁺ṱina
 ⁺ṱina
-b dok̭ilə
+dok̭ilə b
 mən
 tuyna
 tuyna
-mu ilə
+ilə mu
 ⁺xəṱṱə
 ⁺xəṱṱə
-ʾe ⁺dan
+⁺dan ʾe
 vadena
 tammuzena
 cuylaše ʾo
@@ -205908,32 +205908,32 @@ xinə ʾan
 cuylaš
 vayələ
 k̭at
-k̭ənyanə k̭a da
-yavvi ci
-⁺axlilə c
+k̭a k̭ənyanə da
+ci yavvi
+c ⁺axlilə
 ʾani
 max ɟəlla
-avə c
+c avə
 k̭a sətva
 ʾita
 ⁺ʾavun
-⁺xoṱilə ci
+ci ⁺xoṱilə
 max
 concrete
 avə ṱ
-ʾo tuyna
-avə c
-⁺xavəṱ ci
-ɟu ⁺ṱina
+tuyna ʾo
+c avə
+ci ⁺xavəṱ
+⁺ṱina ɟu
 xina
-ʾo ⁺ṱina
-brazələ ʾe ⁺dan
+⁺ṱina ʾo
+brazələ ⁺dan ʾe
 ɟari
 le
 p̂ak̭k̭ə
 ṱuyna ʾo
 ⁺bəxvaṱəl
-ɟu ⁺ṱina
+⁺ṱina ɟu
 ⁺ʾavun
 vayələ
 beton
@@ -205946,15 +205946,15 @@ p̂ak̭k̭ə
 ⁺ʾavun
 darilə
 vilə
-ʾa ɟarə
+ɟarə ʾa
 xina
-da miyya
+miyya da
 le ʾazi
 ʾina
 ʾadiyya
 xina
 dan ⁺ʾal
-da ɟaravay
+ɟaravay da
 ʾadiyya
 cement
 vadona
@@ -205966,30 +205966,30 @@ vadona
 ʾaxnan
 ʾətvalan
 baxča
-mata ɟu
+ɟu mata
 ⁺čolan
 beta ʾax
-carma ɟu
+ɟu carma
 ⁺čolan
 ʾatxəva
 cullə
 ɟuydanə
 b carpičət
 ʾuprəva
-ɟaro da va
+va da ɟaro
 ʾatxəva
 k̭esə
 va
 ʾita
-b ⁺ṱina
+⁺ṱina b
 ⁺ʾulluylu
 ʾatxəva
 ⁺ṱyarə ɟu
 ʾətva
 xa məndi
-mapləxxiva k̭at
+k̭at mapləxxiva
 ɟaravatə ⁺ʾal
-ci ⁺k̭arilə
+⁺k̭arilə ci
 mandurta
 ʾətva
 ʾatxa
@@ -206001,26 +206001,26 @@ ila duz
 ⁺ʾal ɟaravay
 ⁺ʾav
 mattilə ci
-xa ɟa
-ɟarə k̭at
+ɟa xa
+k̭at ɟarə
 miyya
 bitayəna
 bədlapəna
-ati c
+c ati
 məlxa
 dari ci
 ɟarə ⁺ʾal
 məlxa
 xina baruzta
-ci barbəzzi
+barbəzzi ci
 ⁺ʾallu
 ʾita
 məndi
 max dayən
-ci ⁺maxdərri
+⁺maxdərri ci
 ɟarə ⁺ʾal
-ci ⁺taptəppalə
-xina ⁺taptəppalə
+⁺taptəppalə ci
+⁺taptəppalə xina
 miyya
 le ʾati
 ʾəltəx
@@ -206038,13 +206038,13 @@ cipa
 ⁺maxdərriva
 ɟarə ⁺ʾal
 k̭at
-daləp la
+la daləp
 ɟarə
 k̭uya
 vayələ
 ʾadi
 ʾayən
-da mdita ɟu
+mdita ɟu da
 ʾəttən
 ʾannə
 xacma
@@ -206056,18 +206056,18 @@ bətvatə
 pišəna
 ʾatxa har
 našə
-c odilun
+odilun c
 ʾadiyya
 ʾita
 našə
-⁺casəb k̭at ina
+k̭at ⁺casəb ina
 lətlun
 bətvate
 ʾarzan
 bətvatəna
 ʾatxa
-odi c
-xa ɟa
+c odi
+ɟa xa
 bətvatət ɟu
 mata
 tyavtət
@@ -206076,32 +206076,32 @@ prəštəla
 ⁺raba
 ⁺ɟurta
 darta
-avilun c
+c avilun
 batvatət
 mata
-xa ɟiba
-avila c
+ɟiba xa
+c avila
 ⁺ʾambar
-avila c
+c avila
 betət
 tanuyra
-avilə c
+c avilə
 bet
 bašalta
-avilə c
+c avilə
 twalet
 mwalet
-ʾoya le
+le ʾoya
 ɟavay
-vaddar ⁺ʾal
+⁺ʾal vaddar
 oya c
-betət k̭a
+k̭a betət
 k̭ənyanə
 ʾətlun
 masalan
 paɟa
 paɟa
-avilun c
+c avilun
 beta
 clitəla
 muɟɟur
@@ -206111,17 +206111,17 @@ beta
 ʾaxnan
 ʾətvalan
 beta
-betət ʾət
+ʾət betət
 babi
 ʾana
 bətxarən
-mata ɟu
+ɟu mata
 ʾa yba
 betələ
 ʾina
 betət
 k̭ənyanə
-ɟiba do ⁺ʾal
+ɟiba ⁺ʾal do
 xinət
 betəva
 mula
@@ -206129,19 +206129,19 @@ mula
 ʾani k̭at
 yonja
 ʾətvalə
-k̭ənyanə k̭a
+k̭a k̭ənyanə
 ⁺šulə
 ⁺tama
 odiva ṱ
 beta
 priša
-da yba ⁺ʾal
-do yba ⁺ʾal
+⁺ʾal da yba
+⁺ʾal do yba
 ʾina
 betət
 nanunti
 nanunti
-ɟibəva do ⁺ʾal
+ɟibəva ⁺ʾal do
 ʾay
 bətxarun
 beto
@@ -206155,33 +206155,33 @@ paɟəva
 ʾita
 beta
 šaxina
-aviva c
+c aviva
 paɟa
 cuncət
 k̭ənyanə
 ʾəltəx
 šaxinə
 c avi
-da ⁺ʾullul
-betələ k̭at
+⁺ʾullul da
+k̭at betələ
 šaxina
-aviva c
+c aviva
 ⁺ʾavun
 ʾina
 priša
 ⁺raba
 šap̂ira
 betəva
-ʾe ⁺dan
+⁺dan ʾe
 paɟa
 ʾurxu
 k̭ənyanə
-ṱ ativa
+ativa ṱ
 ⁺oriva ʾu ṱ
 mən ⁺tamma
-darta ɟu
+ɟu darta
 ⁺palṱiva
-p̂ṱ aziva
+aziva p̂ṱ
 k̭edamta
 ʾina
 ⁺ʾulluylu
@@ -206209,7 +206209,7 @@ tavəryatə
 b de
 ⁺xalva
 bədrayəva
-ɟane k̭a
+k̭a ɟane
 ɟupta
 ɟupta da
 ⁺raba
@@ -206217,7 +206217,7 @@ samo
 bəšvak̭o
 k̭a sətva
 k̭at
-⁺dan t
+t ⁺dan
 sətva
 məndi
 ⁺xala
@@ -206287,7 +206287,7 @@ miyya
 bədrayəx
 ⁺ʾalle
 məlxa
-k̭avini k̭at
+k̭at k̭avini
 mən ⁺bar
 dayən
 bədvak̭əx
@@ -206308,7 +206308,7 @@ max
 c̭ap̂p̂əc̭
 ʾatxa
 mabyənnani
-pata ⁺ʾal
+⁺ʾal pata
 k̭at
 la
 ⁺šor
@@ -206340,7 +206340,7 @@ jajəc
 ⁺marduxux
 ⁺davvə
 ⁺marduxət
-da ⁺xalva
+⁺xalva da
 ⁺bək̭ṱayələ
 məlxa
 bədrayət
@@ -206362,7 +206362,7 @@ p̂aṱp̂uṱox
 mən da
 jajəc
 ⁺bəxvaṱox
-mən ⁺ṱuranə
+⁺ṱuranə mən
 mavəx
 ⁺sətra
 k̭eṱa
@@ -206374,7 +206374,7 @@ brəzta
 ⁺sətra
 ⁺bəxvaṱox
 ɟu jajəc
-ɟupta ɟu
+ɟu ɟupta
 ⁺bəxlasovax
 cullə
 ɟu
@@ -206390,7 +206390,7 @@ tanaxən
 ʾayya
 cullə
 ⁺bəxlaso
-k̭upšənta da ɟu
+da ɟu k̭upšənta
 pato ⁺ʾal
 mattuvvət
 julla
@@ -206417,7 +206417,7 @@ mən do
 tak̭ə
 vadət
 mattuvvot
-ɟupta ⁺ʾal
+⁺ʾal ɟupta
 ⁺ʾavva
 mattuvvəna
 ⁺ʾamra
@@ -206430,12 +206430,12 @@ julla
 xamuvvula
 mən ⁺bar
 day
-b xa
+xa b
 julla
 xita
 ⁺bəsyarət
 ⁺maxdurot
-pummo ⁺ʾal
+⁺ʾal pummo
 xa ɟu
 duca
 bədrayət
@@ -206447,12 +206447,12 @@ mak̭k̭udet
 ʾo
 ⁺k̭uṱma
 bədrayət
-dana xa
+xa dana
 k̭uxa
 ya
 k̭upšənta
 ⁺maxdurot
-⁺k̭uṱma ɟu
+ɟu ⁺k̭uṱma
 k̭at
 miyyo
 cullə
@@ -206464,10 +206464,10 @@ bəɟrašələ
 miyya
 cullə
 ʾatxa
-mən ɟupta ɟu
+mən ɟu ɟupta
 bəɟrašelə
 bəššəna
-⁺k̭uṱma ɟu
+ɟu ⁺k̭uṱma
 xada
 maccusot
 k̭upšənta
@@ -206498,8 +206498,8 @@ pyayəna
 laxmət
 diyyan
 ⁺lavašələ
-tanuyra ɟu
-ci payyaxxə
+ɟu tanuyra
+payyaxxə ci
 ⁺roba
 ɟanay
 lena
@@ -206525,7 +206525,7 @@ bədrayəva
 ⁺buslə
 ⁺mašə
 smuk̭ə
-tanuyra ⁺ʾal
+⁺ʾal tanuyra
 maxivalun ci
 ⁺roba
 basiməva
@@ -206537,12 +206537,12 @@ cullə
 munšiyyena
 nanuntət
 diyyi
-odava c
+c odava
 harisa
-k̭upšənta ɟu
+ɟu k̭upšənta
 ci mattavala
-nuyra ɟu
-tanuyra ɟu
+ɟu nuyra
+ɟu tanuyra
 bi
 nuyra
 macsavala ci
@@ -206562,7 +206562,7 @@ tapxiva
 xer
 bəxzayət
 harisa
-b cteta
+cteta b
 vaduna
 bi
 p̂ərda
@@ -206589,7 +206589,7 @@ p̂ərdələ
 ʾo
 naya
 bədraya
-k̭upšənta ɟu
+ɟu k̭upšənta
 mən ⁺busrət
 cteta
 ⁺k̭aṱk̭uṱət
@@ -206600,7 +206600,7 @@ bədrayət
 pummo
 maccusut
 mattuvvot
-tanuyra ɟu
+ɟu tanuyra
 bšaləla
 vayəla
 ʾatxa
@@ -206615,14 +206615,14 @@ b čamča
 bəšk̭alot
 ʾatxa
 ⁺bəryaxəla
-dayya k̭a
+k̭a dayya
 marəna
 harisa
 ⁺raba
 basəmtəla
 ⁺xarta
 mədrə
-k̭upšənta ɟu
+ɟu k̭upšənta
 bašuləxva
 ⁺mašə
 smuk̭ə
@@ -206631,7 +206631,7 @@ smuk̭ə
 bədrayəxva
 miyya
 b riše
-mani t
+t mani
 ʾətvalə
 ɟozə
 ɟozə
@@ -206644,10 +206644,10 @@ məšxa
 mədrə
 pato
 maccusova
-b ⁺ṱina
+⁺ṱina b
 bəšyapova
 mattuvva
-nuyra ɟu
+ɟu nuyra
 bi
 nuyra
 maccusona
@@ -206703,7 +206703,7 @@ məšxa
 ʾəttən
 ⁺xalva
 bədrayəna
-b rišo
+rišo b
 ⁺bixaləna
 ʾe
 ⁺k̭arra
@@ -206711,14 +206711,14 @@ k̭at
 pramona
 samə
 saməla
-de sama ⁺ʾal
+sama ⁺ʾal de
 palɟa
 vayəla
 ⁺rəzza
 ⁺bixalət
 ⁺roba
 basəmtəla
-dayya k̭a
+k̭a dayya
 marəx
 ⁺ġabama
 len
@@ -206748,13 +206748,13 @@ calamə da
 ʾitən
 ⁺ṱarpə da
 ʾitən
-⁺ṱarpə ɟu
+ɟu ⁺ṱarpə
 šəbbət
 bədrayəna
 ⁺ʾamma
-calama ɟu
+ɟu calama
 cullə
-da ⁺k̭azanča
+⁺k̭azanča da
 ⁺xoṱilun ci
 ʾen
 ɟəllalə
@@ -206767,7 +206767,7 @@ dayya ɟu
 xa
 šəbbət
 bədrayəna
-mən ⁺tolə
+⁺tolə mən
 məndi
 xina
 lena
@@ -206777,7 +206777,7 @@ suruytan
 ⁺ṱalaxva
 ⁺badušəva
 šəmma
-amraxlə c
+c amraxlə
 ⁺baduša
 ⁺baduša
 muxrəppa
@@ -206790,7 +206790,7 @@ yanət
 ⁺baduša
 ⁺ṱasva
 xa
-iva ṱ m den
+m den iva ṱ
 mxayu
 ⁺maṱṱusu
 ʾo
@@ -206809,17 +206809,17 @@ mxayoxva
 ⁺ṱla
 ɟanay
 ⁺ʾarp̂a
-⁺ṱalaxva ci
+ci ⁺ṱalaxva
 ⁺badušə
-ci ⁺k̭armaxva
+⁺k̭armaxva ci
 k̭esə
-pišə k̭a
+k̭a pišə
 lablaxva
 sətva
 beta
 yal surəxva
 xina
-⁺ṱalaxva ci
+ci ⁺ṱalaxva
 mədrə
 tasma
 tasma
@@ -206833,7 +206833,7 @@ xa
 ɟanay
 na ɟavay
 ⁺ṱla
-⁺tarrəna ɟu
+ɟu ⁺tarrəna
 ɟarət
 ʾe
 tasma
@@ -206849,16 +206849,16 @@ tasma
 b dayən
 mxayət
 marruk̭ət
-ʾe ɟar xita
+xita ɟar ʾe
 ɟannəvvətta
 ʾa spar
-da ʾayən
+ʾayən da
 bəɟnavot
 ⁺xarta
-ʾe d ṱla
+ṱla d ʾe
 bəɟnavot
 ʾa spar
-ina ʾan ṱ
+ʾan ṱ ina
 ɟavay
 ʾe
 tasma
@@ -206881,11 +206881,11 @@ xina ʾo
 ɟu ⁺yazan
 ʾannə
 ⁺plaṱəva
-⁺tarra ɟu
+ɟu ⁺tarra
 b lelavay
 ʾana
 bətxarən
-c azaxva
+azaxva c
 lab
 savuni
 nanunti
@@ -206898,11 +206898,11 @@ c avivalə
 ʾarrət
 bete
 ʾuprəva
-aviva c
+c aviva
 dəryə
 ⁺tama
 ⁺k̭uxa
-c avaxva
+avaxva c
 tivə
 maccə
 praxa
@@ -206910,7 +206910,7 @@ cullə
 navəɟɟət
 savuni
 calatu
-c avaxva
+avaxva c
 tivə
 maccə
 praxa
@@ -206919,14 +206919,14 @@ hak̭iva ci
 savə ʾan
 k̭atan
 ʾaxnan
-c avaxva
+avaxva c
 maccə
 praxa
-⁺hare ⁺ʾal
+⁺ʾal ⁺hare
 vadəxva
 xina
 sətva
-payyiva ci
+ci payyiva
 ⁺lavašə
 ⁺ʾal
 tanuyra
@@ -206936,9 +206936,9 @@ hal
 cullə
 yuma
 šima
-payyiva ci
+ci payyiva
 meša ɟu
-xarzivale ci
+ci xarzivale
 ⁺ʾəsra
 ⁺ʾəsra
 danə
@@ -206946,19 +206946,19 @@ ci lablaxvale
 ⁺ʾal
 mdita
 yəmmi
-lablavale ci
+ci lablavale
 mdita ⁺ʾal
 zabnavale ci
 yan
 zonava
 mən
 ⁺xalta
-da ham
-zonava ci
+ham da
+ci zonava
 k̭amxa
 mayyava
 yanət
-yuma do ⁺ʾal
+⁺ʾal do yuma
 xina
 mədrə
 payyiva
@@ -206985,7 +206985,7 @@ hi
 ʾuže
 jis
 bətxarox
-ʾe ʾərxə
+ʾərxə ʾe
 xina
 ʾərxiyyət
 miyyəva
@@ -206996,7 +206996,7 @@ bitayəva
 šiva
 šiva
 ʾətvala
-lišan diyyan
+diyyan lišan
 bi
 taxtə
 ⁺ṱursəva
@@ -207004,9 +207004,9 @@ taxtə
 ʾəltəx
 ʾətva
 ⁺topa
-ʾan miyya
+miyya ʾan
 bətpaxəva
-de ⁺topa ⁺ʾal
+⁺ʾal ⁺topa de
 ʾayən
 partuləva
 bi
@@ -207016,9 +207016,9 @@ bi
 cipa
 tre
 cipə
-dana xa
+xa dana
 cəlyələ
-ʾo t
+t ʾo
 ⁺ʾullul
 partuləva
 ʾan
@@ -207030,7 +207030,7 @@ bədrayəva
 ⁺xəṱṱə
 xa ɟu
 ⁺ʾav
-mu iva
+iva mu
 šəmmu
 ⁺ʾavva
 hənna
@@ -207038,13 +207038,13 @@ hənna
 bi
 taxtə
 ʾicət
-ci daraxvale
+daraxvale ci
 ʾan
 ⁺xəṱṱə
 k̭esa
 muttəva
-kesa ʾo
-cipa ʾo
+ʾo kesa
+ʾo cipa
 k̭at
 k̭esə ʾo
 iva ṱ
@@ -207060,9 +207060,9 @@ xa
 ⁺ʾarra
 ɟarət
 tapxiva
-maclival ci
+ci maclival
 bi
-⁺k̭aydu ⁺ʾal
+⁺ʾal ⁺k̭aydu
 cma
 la ⁺lazəm
 ⁺roba
@@ -207071,7 +207071,7 @@ la ⁺lazəm
 ɟarusa
 vayəva
 k̭amxa
-ʾe dan
+dan ʾe
 iva ṱ
 macluyu
 ʾərxači
@@ -207081,7 +207081,7 @@ bi
 vadəva
 partuluva
 macluyuva
-šopu ⁺ʾal
+⁺ʾal šopu
 i
 ⁺xarta
 ɟašuk̭uva
@@ -207094,7 +207094,7 @@ bitayəva
 šaxina da
 la ʾativa
 ɟari
-da ɟarusa
+ɟarusa da
 la ʾativa
 i
 bətxanuva
@@ -207102,7 +207102,7 @@ xa
 myešok
 bədrayəva
 ⁺ʾullul
-do ɟu
+ɟu do
 taxta
 xa
 myešok
@@ -207119,12 +207119,12 @@ vaduva
 ⁺bulč̭u
 ⁺bulč̭u
 ⁺yaṱṱət ci
-mu ila
+ila mu
 ⁺bulč̭u
 k̭amxət
-da maccə
+maccə da
 k̭amxət
-da ⁺xəṱṱə
+⁺xəṱṱə da
 odiva c
 ⁺bulč̭u
 ʾo
@@ -207143,9 +207143,9 @@ ya da
 ʾo
 dayk̭u
 ⁺ʾavun
-payyival ci
+ci payyival
 laxma
-lešiva ci
+ci lešiva
 xmira
 ʾətvalan
 k̭amta
@@ -207174,13 +207174,13 @@ xmira
 leša
 ⁺xmisa
 yanət
-k̭a da do xina
+k̭a xina do da
 maxmiva
 len ⁺bədda
 lipət
 ʾatən
 xmira
-lešiva ci
+ci lešiva
 ci macsivalə
 leša
 yanət
@@ -207193,14 +207193,14 @@ cundə
 pyayəva
 ⁺lavašə
 ɟərdayə
-tanuyra ɟu
+ɟu tanuyra
 sətva
 ʾayyəva
 pəlxanət
 buš
 baxtay
-payyiva ci
-ʾe danət
+ci payyiva
+danət ʾe
 ʾurzə
 lətvale
 pəlxana
@@ -207208,18 +207208,18 @@ hi
 ʾe
 ⁺dana
 baxtay
-payyiva ci
+ci payyiva
 k̭amxa
 lablaxva ci
-zabnaxva ci
+ci zabnaxva
 šak̭laxva ci
 ⁺xalta
-mayyiva ci
-yal k̭a surə
+ci mayyiva
+k̭a yal surə
 daxiva
 ⁺xzatta
 xzi
-da ⁺ʾal
+⁺ʾal da
 ⁺xzatta
 ʾaxnan
 lex
@@ -207237,7 +207237,7 @@ yanət
 ⁺xazdiva ci
 odiva c
 bulə
-mayyiva ci
+ci mayyiva
 beta
 ʾətvale
 suysa
@@ -207245,7 +207245,7 @@ ya
 k̭ənyana
 ⁺bəsyarəva
 ⁺ɟaməšta
-de ɟu
+ɟu de
 hənna
 partulova
 yanət
@@ -207271,13 +207271,13 @@ diyyan
 babavatət
 diyyan
 savuni
-da ham
+ham da
 babi
-do ɟu ⁺dora
+⁺dora ɟu do
 ʾaniva
 ⁺budra
 ʾaxnan
-ʾal ⁺budra
+⁺budra ʾal
 lex
 ⁺məṱyə
 ʾaxnan
@@ -207288,9 +207288,9 @@ k̭olek̭tiv
 ṱi
 ⁺murale
 cullə
-⁺jammiva ci
+ci ⁺jammiva
 ⁺tama
-de ɟu
+ɟu de
 k̭olek̭tiv
 ⁺ʾalma
 mapləxxival ci
@@ -207305,7 +207305,7 @@ yanət
 sətva
 ⁺mavərvala
 xina
-ʾan t
+t ʾan
 ʾətvale
 carmət
 ⁺ʾanvə
@@ -207315,10 +207315,10 @@ carmət
 ɟavu
 odiva c
 ⁺mašə
-dan ɟav
+ɟav dan
 zulalu
 ʾupra
-ʾe ɟa
+ɟa ʾe
 xač̭č̭əva
 k̭a ⁺ʾalma
 leva
@@ -207331,9 +207331,9 @@ xač̭č̭əva
 hadax
 vadəva
 yanət
-da ⁺ʾanvə
+⁺ʾanvə da
 ʾavivale
-da ⁺maš
+⁺maš da
 ʾavivale
 cma
 iva ṱ
@@ -207353,11 +207353,11 @@ ilə ṱ
 k̭a
 sətva
 ⁺lazəm
-ɟane k̭a
+k̭a ɟane
 ⁺k̭urtopə
 ⁺k̭urtopə
 xu
-lə lišan diyyan
+diyyan lišan lə
 hi
 mən ɟəpta
 vadəxva
@@ -207377,24 +207377,24 @@ savuni
 ʾəltəx
 muttəva
 taxtə
-mən ⁺ʾuydalə
+⁺ʾuydalə mən
 rək̭k̭a
 ⁺bəzzazə
 ʾətvale
 zulalə
 ʾan
 ⁺ʾanvə
-ci daraxvale
+daraxvale ci
 ⁺tama
-ask̭axva c
+c ask̭axva
 ʾak̭lan
 xupyay
 yal surə
-mask̭ivalan ci
+ci mask̭ivalan
 ⁺ṱla
 ⁺ʾarp̂a
 ɟanay
-c avaxva
+avaxva c
 ⁺mrač̭a
 i
 ʾəltəx
@@ -207402,7 +207402,7 @@ i
 ʾatxa
 sura
 ⁺bəzza
-mən ⁺tama
+⁺tama mən
 ʾo
 ⁺xamra
 bitayəva
@@ -207410,8 +207410,8 @@ bitayəva
 ⁺k̭azanča
 bəšk̭aluva
 bədrayuva
-bošk̭a ɟu
-⁺lina ɟu
+ɟu bošk̭a
+ɟu ⁺lina
 i
 ⁺xarta
 ⁺ʾavun
@@ -207453,7 +207453,7 @@ odiva c
 k̭alya
 ⁺ʾavva
 k̭alya
-lə ʾo diyyan
+diyyan ʾo lə
 t surayələ
 ⁺busrət
 k̭ənyana
@@ -207461,11 +207461,11 @@ k̭ənyana
 tavərta
 ⁺ʾavun
 ci k̭alivalə
-dariva ci
+ci dariva
 ʾallu
 məšxa
-mattival ci
-da ⁺ʾavun
+ci mattival
+⁺ʾavun da
 k̭a sətva
 pyašələ
 ⁺roba
@@ -207480,7 +207480,7 @@ c avivalə
 ⁺k̭arṱopə
 c avivalə
 sətva
-⁺moraxval ci
+ci ⁺moraxval
 nixa
 nixa
 mu
@@ -207495,32 +207495,32 @@ pyaša
 mən ⁺xamra
 ʾo
 pulluš
-mən ⁺davun
+⁺davun mən
 ⁺paluṱəxva
 ʾarak̭
 ʾətlan
 k̭azančət
 ʾarak̭
-da ʾadiyya
+ʾadiyya da
 let
 muxziyyu
 ⁺k̭azančət
 ʾarak̭
 ʾəttən
-ʾarak̭ k̭a
+k̭a ʾarak̭
 ⁺palaṱṱa
 ⁺k̭azanča
 ʾəttən
 ʾo
 ʾarak̭
 bədrayuna
-boška ɟu
+ɟu boška
 pyašələ
 k̭a
 hal t
 ⁺rədxu
 calə
-ʾe ⁺dan
+⁺dan ʾe
 ilə ṱ
 ⁺bərdaxa
 le
@@ -207533,12 +207533,12 @@ calə
 cletət
 ⁺rədxu
 bədrayuna
-de ɟu ⁺k̭azanča
+ɟu ⁺k̭azanča de
 ʾətla
 ʾayən
 cseta
 macusona
-ʾu cseta
+cseta ʾu
 ʾətla
 ⁺bəzza
 hi
@@ -207546,7 +207546,7 @@ mən do
 ⁺bəzza
 mattuyuna
 ṱruba ɟu
-ɟu xoda
+xoda ɟu
 ⁺tama
 miyyəna
 ʾa
@@ -207556,7 +207556,7 @@ ilə ṱ
 ʾo
 həlma
 bərrəššələ
-do ɟu
+ɟu do
 ⁺ṱruba
 miyya ɟu
 bək̭k̭ašələ
@@ -207577,7 +207577,7 @@ xina
 k̭a
 ⁺xarte
 ⁺meta
-⁺mayyavala ci
+ci ⁺mayyavala
 baxta
 k̭amta
 ⁺xalva
@@ -207677,14 +207677,14 @@ bəddayo
 ʾo
 ⁺carra da
 mapšərrival ci
-odival c
+c odival
 məšxa
-mattival ci
-ɟu bancyay
+ci mattival
+bancyay ɟu
 buš
 cullə
 ⁺hazərruyta
-odivala c
+c odivala
 k̭a sətva
 yanət
 sətva
@@ -207693,12 +207693,12 @@ xeta
 ʾani
 ɟarət
 šak̭liva
-ɟane k̭a
+k̭a ɟane
 k̭a ⁺xarte
 ⁺meta
 ʾatxəva
 ⁺meta
-da ʾadiyya
+ʾadiyya da
 ʾətlan
 ʾaxnan
 pyašəla
@@ -207738,12 +207738,12 @@ k̭esa
 ɟlulələ
 ⁺doranələ
 šəmmu
-lišan t
+t lišan
 surayə
 hi
 ʾəttən
 taxta
-de ⁺ʾal
+⁺ʾal de
 taxta
 mattuyəna
 cunda
@@ -207761,7 +207761,7 @@ mazrak̭
 ʾatxa
 mazrak̭
 ʾətlan
-de ⁺ʾal
+⁺ʾal de
 mazrak̭
 šavuyut
 mazrak̭
@@ -207777,7 +207777,7 @@ mazrak̭
 ʾo
 ⁺lavaša
 mxayut
-tanuyra ɟu
+ɟu tanuyra
 xa ɟu
 dak̭ik̭a
 bšalələ
@@ -207804,11 +207804,11 @@ lavašə
 ʾətla
 mazrak̭ət
 ɟano
-ʾe t
+t ʾe
 ɟərdeta
 ɟlultəla
 surṱa
-mazrak̭ la
+la mazrak̭
 ʾan
 ɟərdayə
 mxayena
@@ -207836,25 +207836,25 @@ k̭amta
 ʾo
 ⁺ʾalma
 ʾatik̭a
-payyiva ci
+ci payyiva
 k̭a
 xa
 yarxa
-dariva ci
+ci dariva
 ci mabrəzzivalə
 i
 ⁺xarta
-mattivalə ci
+ci mattivalə
 yanət
 sətva
 cul yum
 la
 payyiva
 ⁺xarta
-ci ⁺palṱiva
+⁺palṱiva ci
 laxma ʾo
 briza
-nammənnivalə ci
+ci nammənnivalə
 ɟu
 rušnuc
 nimana
@@ -207862,20 +207862,20 @@ carməxxivalə
 yanət
 racəxva
 hi
-mən ⁺davun
-⁺axliva c
+⁺davun mən
+c ⁺axliva
 ʾadiyya
 pyayəna
 cut
 šabta
-xa ɟa
+ɟa xa
 ʾana
 k̭udmə
 pili
 k̭udmə
 pili
-xa k̭a
-xa k̭a
+k̭a xa
+k̭a xa
 šabta
 mlayan
 k̭a cullə
@@ -207922,14 +207922,14 @@ maxivalə ci
 ʾo
 tanuyra
 mattuyuva
-pata ⁺ʾal
+⁺ʾal pata
 xač̭č̭a
 ⁺ʾullul
 yanət
-ʾak̭lux ⁺ʾal
+⁺ʾal ʾak̭lux
 calət
 payyət
-ʾak̭le ⁺ʾal
+⁺ʾal ʾak̭le
 clayəna
 hada
 pyayəna
@@ -207950,10 +207950,10 @@ ide p̂
 jullə ʾan
 ɟurət
 dmaxa
-ina ṱ
+ṱ ina
 malapə
 ʾani
-x ⁺ʾamsi la
+la x ⁺ʾamsi
 ide p̂
 leva
 ⁺myasa
@@ -207966,14 +207966,14 @@ b ⁺k̭uṱma
 ʾana
 bətxarən
 b ⁺k̭uṱma
-masivale ci
+ci masivale
 ⁺k̭uṱma
 ⁺yaṱṱət ci
 ʾo
 ⁺k̭uṱma
 ilə ṱ
-tanuyra ɟu
-ina ṱ
+ɟu tanuyra
+ṱ ina
 k̭esə
 b ⁺k̭uṱma da
 ⁺bənxaluva
@@ -207984,7 +207984,7 @@ k̭amta
 lətva
 b ⁺k̭uṱma
 jullə
-masivale ci
+ci masivale
 ⁺xarta
 ⁺vərrə
 ⁺sabun
@@ -207993,7 +207993,7 @@ mən do
 ʾatxa
 ⁺ɟura
 ⁺sabun
-⁺ʾurusnayə ʾət
+ʾət ⁺ʾurusnayə
 švək̭le
 ⁺sabun
 xa
@@ -208008,24 +208008,24 @@ b taxta
 ⁺ṱarusəva
 sayna
 sayna
-ci yaṱṱət
-mu ila
+yaṱṱət ci
+ila mu
 ɟav
 cu məndi
-ina ṱ
+ṱ ina
 msaya
 ⁺xarta
 pləṱle
-ʾət uže prəzla
+prəzla ʾət uže
 ⁺bar
-dan t
+t dan
 k̭esa
 užə
 pləṱle
-ʾət prəzla
-lešiva ci
+prəzla ʾət
+ci lešiva
 leša da
-saynət ɟu
+ɟu saynət
 k̭esa
 ʾətvalan
 jəpnəva
@@ -208048,15 +208048,15 @@ jəpnəva
 manələ
 ʾadiyya
 manələ
-ʾət prəzla
-ʾət alumin
+prəzla ʾət
+alumin ʾət
 hi
 ʾayən
 jəpnəva
 šəmmu
 leša ʾət
 jəpna
-ci ⁺k̭arivala
+⁺k̭arivala ci
 šak̭iyyay
 ʾətvaloxun
 šak̭iyyay
@@ -208065,31 +208065,31 @@ hi
 xa
 šak̭iyya
 laxxəva
-⁺ʾalula da ɟu
+⁺ʾalula ɟu da
 sura
 ʾatxa
 dula
-da ʾadiyya
+ʾadiyya da
 šak̭iyya
 vela
 vela
 xa šak̭iyya
 xa xta
 xač̭č̭a
-l yba o
+l o yba
 ʾan
 šak̭iyyay
 hada
 vidəva
 mən ⁺ʾullul
-atyava c
+c atyava
 šak̭ita
 ⁺ɟurta
 ⁺xarta
 ⁺palluyəva
 ⁺ʾal
 ⁺ʾalulan
-ʾe dan
+dan ʾe
 iva ṱ
 miyya
 ⁺roba
@@ -208108,17 +208108,17 @@ nobət
 manilə
 nobu
 ⁺ʾavun
-maštiva ci
+ci maštiva
 šak̭iyya
 šok̭axvala ci
 baxčə ɟu
-bavay ɟu
+ɟu bavay
 bavay
 c odaxva
 hi
 bava
 bava
-mu ila
+ila mu
 bava
 hadax
 ⁺ṱarusoxva
@@ -208135,7 +208135,7 @@ yanət
 miyya
 it ṱ bəšvak̭e
 ɟavo
-l yba a m
+m l a yba
 xina
 la
 tapxi
@@ -208144,7 +208144,7 @@ bava
 šatya
 ʾatxa
 cullə
-c avaxva
+avaxva c
 vide
 bi
 bavay
@@ -208157,9 +208157,9 @@ bavatət
 bavatət
 ⁺buslə
 tuyma
-cut xa
+xa cut
 bavu
-b nošuva
+nošuva b
 šəmmət
 dayən
 bavəl
@@ -208179,7 +208179,7 @@ let
 ʾatən
 tira
 ʾatxa
-it ṱ ʾupra
+ʾupra it ṱ
 ⁺marumu
 ʾatxa
 hi
@@ -208196,19 +208196,19 @@ tiranə
 bavay
 hi
 hi
-de ɟu bava
+ɟu bava de
 miyya
 bəšvak̭etva
 iva ṱ
 bərrəšša
-prak̭to ⁺ʾal
+⁺ʾal prak̭to
 ⁺mṱaya
 bədvak̭otva
 ʾa spar
 bəšvak̭etva
-l yba o
+l o yba
 xina
-do ɟu
+ɟu do
 bava
 xina
 bərrəxšəva
@@ -208216,21 +208216,21 @@ xa
 ⁺ṱla
 ⁺ʾarp̂a
 ⁺sahattə
-c avaxva
+avaxva c
 maštuyo
 baxča
 cullə
 ci maštiyyaxvala
 ʾa spar
 miyya
-šok̭axvale ci
-azəlva c
+ci šok̭axvale
+c azəlva
 xina ʾo
 švava
 xəzman
 švavan
-maštiva ci
-ʾan uže ṱ iva
+ci maštiva
+iva uže ṱ ʾan
 mən ⁺bar
 diyyan
 k̭a maštuyə
@@ -208266,20 +208266,20 @@ k̭unya
 ʾətlan
 k̭unya
 ʾətlan
-da ham
+ham da
 ʾət
 mənne
 ʾətle
 miyya
 xu
 xzilux
-ina ṱ
+ṱ ina
 bitaya
 ɟu
 ʾani da
 miyyət
 štetəna
-ina ṱ
+ṱ ina
 ⁺bəzye
 ⁺plaṱəna
 ɟane
@@ -208312,18 +208312,18 @@ hi
 tuyna
 ɟəlla
 baruyza
-⁺xoṱivalə ci
+ci ⁺xoṱivalə
 bi
-do ⁺ṱina
+⁺ṱina do
 odiva c
 carpičə
-mabrəzzivale ci
-yuma ⁺ʾal
+ci mabrəzzivale
+⁺ʾal yuma
 b dani
 bnayəva
 beta
 xa
-b xa
+xa b
 dana
 ⁺ʾarp̂a
 ɟuydananə
@@ -208332,7 +208332,7 @@ beta
 c odivalə
 ⁺k̭aravat
 ⁺ɟurta
-cullunte k̭a
+k̭a cullunte
 m ⁺uydalə
 damxiva
 baba
@@ -208348,27 +208348,27 @@ saccunyay
 odiva c
 saccunta
 saccun
-da ʾayən
+ʾayən da
 bnitəla
 pətvo
 xa
 metra
-dmaxa k̭a
-dmaxa k̭a
+k̭a dmaxa
+k̭a dmaxa
 xina
-ʾo t
+t ʾo
 k̭amta
 ʾe ɟət
 k̭amta
 ʾana
-da ɟu
+ɟu da
 ⁺dorət
 diyyan
 ʾatxa
 lətva
 ʾina
 balma
-dariva ci
+ci dariva
 xute
 balma
 balma
@@ -208376,11 +208376,11 @@ balma
 ⁺xəṱṱə
 ilə ṱ
 pyaša
-balma ʾo
+ʾo balma
 ɟəlla ʾo
 hi
 baruyza
-⁺ʾal ⁺davən
+⁺davən ⁺ʾal
 ci damxiva
 ʾayya uže
 ʾayya
@@ -208389,12 +208389,12 @@ k̭amtəva
 hi
 saccunyay
 saccun
-mu ila
+ila mu
 dəpnət
 ɟuyda
 bnayəna
 bi
-do ʾupra
+ʾupra do
 ya
 bi
 dan carpičət
@@ -208414,7 +208414,7 @@ bnayəva
 cupa
 k̭a dmaxtət
 ⁺ʾallu
-k̭a ⁺xaltət
+⁺xaltət k̭a
 ⁺ʾallu
 ʾe ɟət
 tile
@@ -208431,12 +208431,12 @@ laxxa
 lətvale
 həč
 məndi
-ɟu ɟuybananə
-xayyiva ci
+ɟuybananə ɟu
+ci xayyiva
 ɟuyba
 palɟət
 beta
-ʾuprəva ɟu
+ɟu ʾuprəva
 palɟu
 mucsəva
 bi
@@ -208449,22 +208449,22 @@ značet
 palɟu
 ʾupra ɟu
 palɟu
-duca pat ⁺ʾal
+duca ⁺ʾal pat
 ʾəltəx
 yanət
 šaxənta
 ʾoyava
 ⁺k̭aryay
-mattiva ci
+ci mattiva
 k̭esə
-dariva ci
+ci dariva
 zila
 zila
 darzə
 b zila
-⁺yasriva ci
+ci ⁺yasriva
 darzə
-dariva ci
+ci dariva
 ⁺ʾallu
 ʾupra
 yanət
@@ -208474,7 +208474,7 @@ yanət
 ɟlula
 vaduva
 ⁺xarta
-mən darzət dan
+mən dan darzət
 zila
 ci xarziva
 ⁺ʾallu
@@ -208484,9 +208484,9 @@ miyya
 la
 ⁺saliva
 ⁺saliva
-marza ⁺ʾal
-oyava c
-ʾe ⁺dan
+⁺ʾal marza
+c oyava
+⁺dan ʾe
 iva ṱ
 ⁺muṱra
 xelanta
@@ -208495,7 +208495,7 @@ bədlapəva
 bətrayəva
 ɟarə
 hi
-da ɟaravay
+ɟaravay da
 ʾətva
 ɟara
 uže ʾu
@@ -208509,33 +208509,33 @@ dalupə
 vayəva
 hi
 yanət
-la t ʾaviva
+t la ʾaviva
 mən ⁺ʾullul
 ɟandərriva
 ʾallu
 məndi
-ɟarpivalə ci
+ci ɟarpivalə
 talɟa
 talɟa
-ɟarpival ci
+ci ɟarpival
 hi
 talɟa
-avə c
+c avə
 ɟarpivalə
 ⁺muṱra
-x ⁺ʾamsi la
+la x ⁺ʾamsi
 ɟarpivala
 ⁺muṱra
 iva ṱ
 bitaya
 xelanta
-⁺ʾamsi le
+le ⁺ʾamsi
 ɟarpivala
 ⁺dana ʾe
 c ativa
 dalupyay
 talɟa
-ask̭iva c
+c ask̭iva
 canšivalə
 tamməzzivalə
 bəcnašəva
@@ -208548,7 +208548,7 @@ la
 tre
 betananə
 pyašəva
-suruytət ɟu
+ɟu suruytət
 diyyi
 ʾana
 xəzyen
@@ -208560,23 +208560,23 @@ bəcnašəva
 bi
 canušta
 canušta
-⁺ṱarsiva ci
+ci ⁺ṱarsiva
 bi
 ʾəttən
 ɟəlla
 ⁺tamma
 ʾicəna
-⁺k̭uravay bat
+bat ⁺k̭uravay
 ɟəllət
 canušta
 ʾəttən
-da ham
+ham da
 canušta
 ʾəttən
 bək̭yaməla
 baxčanan ɟu
 canušyay
-⁺ṱarsivale ci
+ci ⁺ṱarsivale
 ⁺hazər
 yanət
 ʾavivale
@@ -208588,10 +208588,10 @@ xa
 yarxa
 uže ⁺dan
 canušta
-ṱ atyani
+atyani ṱ
 ɟari
 canušta
-da ʾadiyya
+ʾadiyya da
 ⁺bəsyarəx
 canušta
 k̭a
@@ -208611,7 +208611,7 @@ betananət
 ʾaləz
 panjara
 m ica
-ʾe ɟa
+ɟa ʾe
 šuyša
 lətva
 ʾən
@@ -208623,20 +208623,20 @@ xa
 cavə
 ʾətva
 cava
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 ʾətva
 hadax
 ⁺dana
-k̭ənyanə ʾət
+ʾət k̭ənyanə
 tavərta
-da ham
+ham da
 ⁺ʾalma
 m ⁺uydalə
-xayyiva ci
+ci xayyiva
 tavərta da
 sətva
 ci ⁺morivala
-ɟav beta
+beta ɟav
 ⁺danət ʾe
 ⁺bayyava
 ⁺jyarta
@@ -208645,7 +208645,7 @@ ci ⁺morivala
 beta
 ci ⁺p̂armiva
 biyyo
-šak̭əlva ci
+ci šak̭əlva
 mana
 davək̭va ci
 xuto
@@ -208679,15 +208679,15 @@ laxxa
 hadax
 k̭arta
 lela
-ɉurjəs ⁺tan ɟu
+ɉurjəs ɟu ⁺tan
 yanət
 xabliva
 xzuyra
 le
 xabəl
 xzuyra
-⁺tarra ɟu
-paš ci
+ɟu ⁺tarra
+ci paš
 šəmmət
 betət
 xzuyrə
@@ -208696,20 +208696,20 @@ k̭ənnət
 xzuyra
 k̭ənnət
 xzuyra da
-odivala c
+c odivala
 dax t
-⁺ʾarra ɟu
-⁺ʾarra ɟu
+ɟu ⁺ʾarra
+ɟu ⁺ʾarra
 guyba
 odiva c
 ɟuyba ɟu
 xzuyra
 ⁺tama
-⁺avərva c
+c ⁺avərva
 sətva
 ⁺ʾarra
 šaxəntəla
-⁺k̭erivala ci
+ci ⁺k̭erivala
 ʾatxa
 ⁺ʾarra
 ci macsivalə
@@ -208727,12 +208727,12 @@ ctayay
 ninə
 ninət
 ctayay
-ci ⁺k̭arivala
+⁺k̭arivala ci
 ʾicə
-ina ṱ
+ṱ ina
 ctayay
 ʾicə
-ina ṱ
+ṱ ina
 ⁺bəryapa
 ninə
 ⁺bək̭rayona
@@ -208744,7 +208744,7 @@ ninələ
 ninə
 ʾatxa
 k̭esə
-mattiva ci
+ci mattiva
 yask̭iva
 dan ⁺ʾal
 k̭esə
@@ -208754,23 +208754,23 @@ macusova
 yanət
 ⁺muṱra
 b riše
-la ʾatyava
-k̭a biyyə
-mattiva ci
+ʾatyava la
+biyyə k̭a
+ci mattiva
 ʾərbala
 ʾərbala
 ʾatək̭ta
-mattiva ci
+ci mattiva
 ɟavo
 tuyna
 yanət
 ʾe
 cteta
-de ɟu
+ɟu de
 ʾərbala
 mattava
 biyyə
-maxpivala da ci
+maxpivala ci da
 ⁺danət ʾe
 biyyo ʾan
 iva ṱ
@@ -208788,21 +208788,21 @@ k̭apk̭upəla
 ⁺xarta
 ⁺paluṱəla
 ⁺zayə
-de ɟu
+ɟu de
 ʾərbala
-do ⁺ʾal
+⁺ʾal do
 ɟəlla
 maxpivala ci
-dan biyyə ⁺ʾal
+biyyə dan ⁺ʾal
 ʾəsri
 xa
 bita
-mattiva ci
+ci mattiva
 xuto
 ʾatxəva
 len ⁺bədda
-mu k̭a
-da ʾadiyya
+k̭a mu
+ʾadiyya da
 ʾatxa
 vadəna
 ʾəsri
@@ -208811,7 +208811,7 @@ bita
 hi
 i
 maxpivala ci
-⁺palṱava ci
+ci ⁺palṱava
 ⁺zayə
 surə
 hi
@@ -208820,11 +208820,11 @@ cteta
 ʾan ⁺zayə
 ɟarvusəna
 yanət
-xa ⁺xarta
+⁺xarta xa
 ʾavile
 savə ʾan
 praməva
-ʾan jilə
+jilə ʾan
 ɟarvusəva
 vayəva
 ctayay
@@ -208837,7 +208837,7 @@ ninəva
 betət
 dabašə
 mudilə
-ci ⁺k̭araxlə
+⁺k̭araxlə ci
 k̭ənnət
 dabašə
 ʾani
@@ -208854,13 +208854,13 @@ k̭utiyyət
 ⁺varəna
 ⁺xalta
 vadəna
-ɟane k̭a
+k̭a ɟane
 ɟane
 ⁺ṱarusəna
 ⁺xalta
 mən da
 ʾilana
-mən p̂əc̭xa
+p̂əc̭xa mən
 ʾa
 xa
 xixəccələ
@@ -208894,7 +208894,7 @@ xač̭č̭a
 k̭a ɟanux
 xač̭č̭a
 bəšvak̭ət
-dani k̭a
+k̭a dani
 yanət
 ʾani da
 sətva
@@ -208912,7 +208912,7 @@ bəšk̭aləx
 palɟə
 k̭a diyyan
 palɟə
-dabašə k̭a
+k̭a dabašə
 ʾəttən
 xelapa
 ʾəttən
@@ -208922,7 +208922,7 @@ xixəcca
 xabuyša
 tuyta
 tuyta
-xu la lišan diyyan
+la diyyan xu lišan
 ɟoza
 pəndək̭k̭a
 ⁺tambuyrə
@@ -208933,7 +208933,7 @@ tamburta
 ʾəttən
 balbaluk̭ta
 ʾəttən
-diyyux k̭a
+k̭a diyyux
 tanən
 xina
 mu
@@ -208946,7 +208946,7 @@ lišanət
 šəmmu
 xa
 ʾaxči
-ci ⁺yaṱṱənnə
+⁺yaṱṱənnə ci
 varda
 smuk̭a
 varda
@@ -208966,14 +208966,14 @@ oya c
 lex
 ⁺bəddaya
 oya c
-na ʾət diyyan
+ʾət na diyyan
 ʾəttən
 zapran
 k̭a sətva
 c odaxva
-k̭ənyanə k̭a
-odaxən c
-da ʾadiyya
+k̭a k̭ənyanə
+c odaxən
+ʾadiyya da
 ɟəlla
 ⁺bəxzadəx
 mabruzux
@@ -208984,10 +208984,10 @@ pučečə
 pučečə
 len
 ⁺bədda
-lə lišan diyyan
+diyyan lišan lə
 maccə
 maccə
-ina ṱ
+ṱ ina
 braza
 ⁺ṱara
 ⁺paluṱut
@@ -208995,7 +208995,7 @@ maccət ʾan
 ⁺bəxzadet
 vadet
 darza
-darzə ʾan da
+darzə da ʾan
 bəxrazex
 ⁺ʾuydalə ⁺ʾal
 yanət
@@ -209015,9 +209015,9 @@ xa
 xp̂ak̭a da
 ɟəlla
 bədrayəx
-paɟa ɟu
+ɟu paɟa
 moriša
-k̭emax ci
+ci k̭emax
 xute
 tamməzzilə ci
 ⁺xalvile ci
@@ -209026,22 +209026,22 @@ darile
 ⁺morile ci
 miyya
 ci maštile
-ʾe ⁺dan
+⁺dan ʾe
 ila ṱ
 k̭arta
-ʾe ⁺dan
+⁺dan ʾe
 ila ṱ
 xačča
 šaxinuyta
 ⁺plaṱəna
-⁺tara ɟu
+ɟu ⁺tara
 bəštayəna
 miyya
 ⁺maxulena
 mayena
 ⁺mavurena
 mədrə
-paɟa ɟu
+ɟu paɟa
 drayəna
 ʾətle
 ʾuravay
@@ -209051,7 +209051,7 @@ b taxta
 ⁺ṱursəna
 ʾuravay
 ɟəlla ʾu
-ʾuravay ɟu
+ɟu ʾuravay
 bədrayuna
 yanət
 la
@@ -209060,16 +209060,16 @@ xut
 ʾak̭le
 k̭a sətva
 ɟəlla
-da ham
+ham da
 pučečə
 pučečə
 ʾannə
 maccə
 primə
-ina ṱ
+ṱ ina
 maccə
 brizə
-ina ṱ
+ṱ ina
 ⁺ʾək̭re ʾo
 ilə ṱ
 braza
@@ -209091,28 +209091,28 @@ mattuyux
 ɟdiša
 i
 sətva
-mən ⁺davun
+⁺davun mən
 bəšk̭aləna
 ⁺maxulena
 mudi
-odituva c
+c odituva
 k̭a sətva
 k̭alya
-k̭aliva ci
+ci k̭aliva
 ⁺k̭urṱopə
-⁺ṱašiva ci
+ci ⁺ṱašiva
 ɟane
 ⁺k̭urṱopə
 calamə
 turšiyyə
-dok̭iva ci
+ci dok̭iva
 turšiyyə
-xu ⁺bəddayət
+⁺bəddayət xu
 hi
 turšiyyət
 ⁺buybar
-calamə ʾət
-ʾət ⁺badəmjan
+ʾət calamə
+⁺badəmjan ʾət
 ⁺mašə
 ci avivale
 xa
@@ -209122,8 +209122,8 @@ mešoɟə
 k̭atux
 tanən
 xzuyra
-parmiva ci
-mattivalə ci
+ci parmiva
+ci mattivalə
 miyya ɟu
 məlxa
 yanət
@@ -209134,7 +209134,7 @@ xarəvva
 odiva c
 ⁺dolma
 ṱarpə
-dok̭iva ci
+ci dok̭iva
 ṱarpət
 ɟəpta
 ⁺ṱarpət
@@ -209147,21 +209147,21 @@ dolmət
 ⁺ṱarpə
 b ⁺k̭attəġ
 b tuyma
-da ʾadiyya
+ʾadiyya da
 cullə
 ʾannə
 vadex
 ʾaxnan
-da ʾadiyya
+ʾadiyya da
 c odaxle
 harisa
-bašliva ci
+ci bašliva
 harisa
 šəmyəttə
 harisa
 harisa
 ⁺xəṱṱə
-bašlivale ci
+ci bašlivale
 ɟave
 odi ci
 ⁺busra
@@ -209172,7 +209172,7 @@ odiva c
 harisa
 k̭amta
 ʾadiyya
-b cteta
+cteta b
 vaduna
 xina
 k̭amxət
@@ -209196,7 +209196,7 @@ talɟa
 bətxarən
 inva ṱ
 sura
-darta ɟu
+ɟu darta
 nanunti
 ptaxəva
 bi
@@ -209207,7 +209207,7 @@ xa
 metra
 mən metra
 zoda
-aviva c
+c aviva
 ⁺rama
 ⁺dana ʾe
 da ⁺hasəl
@@ -209218,14 +209218,14 @@ baruzuytəla
 ⁺hasəl
 lela
 bita
-ʾe ɟa
-talɟa ʾo
-i c ativa ṱ
+ɟa ʾe
+ʾo talɟa
+c ativa i ṱ
 ⁺ʾavun
 mlayəva
 k̭a
-məndi do
-ʾilanə k̭a
+do məndi
+k̭a ʾilanə
 k̭a
 yeməš
 mlayəva
@@ -209250,11 +209250,11 @@ callə
 bi
 xela
 aziva c
-axxa m
-mən ⁺ʾalula da ɟu
+m axxa
+da mən ɟu ⁺ʾalula
 ⁺tammo
 ʾana
-l yba o
+l o yba
 bəxxayən
 ⁺tamma
 ʾətva
@@ -209277,8 +209277,8 @@ bətxarən
 ʾana
 suruyti
 ⁺ʾarabanət
-ci ⁺ṱamriva
-aviva c
+⁺ṱamriva ci
+c aviva
 ⁺bəsyara
 tre
 nirə
@@ -209295,8 +209295,8 @@ lelə
 xelo
 ⁺mṱa
 ʾe
-da xita
-mazyəddivala ci
+xita da
+ci mazyəddivala
 ⁺ʾallo
 yanət
 ⁺palṱivala
@@ -209309,7 +209309,7 @@ k̭esa
 bətyava
 k̭dalət ⁺ʾal
 ɟeməšta
-mən xuta
+xuta mən
 ⁺bəsyarova
 bi
 ⁺xolə
@@ -209333,7 +209333,7 @@ palla
 tre
 k̭esəna
 palla
-dan pallə ⁺ʾal
+pallə dan ⁺ʾal
 məxyəva
 taxtə
 ʾayən
@@ -209350,12 +209350,12 @@ xa xta
 nira
 ⁺ṱursəva
 yanət
-ʾo nira
+nira ʾo
 k̭dalət ⁺ʾal
 ɟeməšta
 mattivalə
 i
-b xolə
+xolə b
 b ⁺yasrival
 yanət
 b k̭dalo
@@ -209371,7 +209371,7 @@ xelo
 bi
 dan
 pallə
-ʾət day
+day ʾət
 ⁺ʾarabana
 xita
 c ⁺asriva
@@ -209382,8 +209382,8 @@ k̭amay
 bi
 ⁺xolə
 yanət
-da ʾayən
-⁺ʾal ⁺hari
+ʾayən da
+⁺hari ⁺ʾal
 ʾodava
 ɟaršavala
 ʾana
@@ -209411,7 +209411,7 @@ k̭am
 ⁺tama
 ⁺roba
 ⁺ṱina
-aviva c
+c aviva
 ⁺xarta
 nixa
 nixa
@@ -209430,7 +209430,7 @@ hal t
 pečə
 ʾətva
 nuyra
-⁺ʾaralləġ ət
+ət ⁺ʾaralləġ
 beta
 bete
 xa
@@ -209441,21 +209441,21 @@ la
 marən
 xa ⁺ʾal
 k̭unjiyya
-aviva c
+c aviva
 k̭ənyanə
 ⁺hayvan
-de bar ⁺ʾal
+bar ⁺ʾal de
 xina
 ʾətvale
-⁺k̭aravat xa
+xa ⁺k̭aravat
 k̭a
 ɟane
-dmaxa k̭a
+k̭a dmaxa
 ⁺ʾaralləġ
 ʾətvale
 nuyrət
 ⁺ʾaralləġ
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 ⁺ʾullul
 ʾətva
 xa
@@ -209468,12 +209468,12 @@ cava
 lampa
 ⁺ʾullul
 yanət
-ʾo tənna
+tənna ʾo
 ⁺paləṱva
 i
 nuyra
 ci ⁺šeriva
-⁺ʾaralləġ ət
+ət ⁺ʾaralləġ
 beta
 nuyra
 ⁺bəšyarəva
@@ -209493,10 +209493,10 @@ k̭azanča
 ⁺kusarte
 bašulova
 ⁺tama
-do ⁺ʾal
+⁺ʾal do
 nuyra
 ⁺xarta
-txurtət ʾət
+ʾət txurtət
 diyyi
 ʾana
 ʾayya
@@ -209509,7 +209509,7 @@ peč
 bi
 prəzla
 ⁺ṱurəsta
-da ʾadiyya
+ʾadiyya da
 ʾaxnan
 pečə
 muttəx
@@ -209528,8 +209528,8 @@ bi
 bəšxanəx
 ʾica
 baxtatə
-bašliva ci
-do ⁺ʾal
+ci bašliva
+⁺ʾal do
 nuyra
 ⁺kazančət
 mis
@@ -209544,7 +209544,7 @@ cullə
 məndi
 b dayən
 bašliva
-ʾo t
+t ʾo
 ʾətvalə
 tre
 ⁺ṱla
@@ -209557,22 +209557,22 @@ hi
 mis
 ⁺bək̭rayova
 mis
-da ham
+ham da
 hənnə
 m ⁺uydalə
 ⁺xviṱəva
 ʾalumin
-mən ⁺k̭azančə dan
+mən dan ⁺k̭azančə
 ʾəttən
 pyaša
 ʾət
 xacma
 mənne
-ṱ avile
+avile ṱ
 pyaša
 p̂atval ɟu
 ʾatik̭ə
-ṱ avile
+avile ṱ
 ʾina
 ʾani
 ʾadi
@@ -209580,22 +209580,22 @@ xina
 lena
 mapluxə
 hi
-de ɟu
+ɟu de
 ⁺k̭azančət
 mis
 čumbəlta
-nuyra ⁺ʾal
-bašliva ci
-darta ɟu
+⁺ʾal nuyra
+ci bašliva
+ɟu darta
 k̭eṱa
-darta ɟu
+ɟu darta
 sətva
 ⁺ʾal
-do nuyrət
+nuyrət do
 ⁺ʾaralləġ
 sətva
 beta ɟu
-nuyra ʾo
+ʾo nuyra
 bəllayələ
 yanət
 šaxinuyta
@@ -209624,7 +209624,7 @@ xa
 šənnə
 ʾatxəva
 ⁺ṱləbloxun
-but ⁺zruta
+⁺zruta but
 k̭atoxun
 xacma
 məndyanə
@@ -209664,7 +209664,7 @@ matvatət
 ʾətvalan
 xacma
 ⁺xviṱə
-mən ʾarəmnay
+ʾarəmnay mən
 cullə
 ʾana
 šəmmane
@@ -209682,33 +209682,33 @@ cullə
 ⁺ʾuydaləva
 leva
 prəšta
-matvatə ɟu
+ɟu matvatə
 ʾətvalan
 cul
 beta
-ʾət cul
+cul ʾət
 mata
 ʾətvalə
 xa ⁺k̭əṱṱət
 carma
 k̭at
-carmu ɟu
+ɟu carmu
 ⁺ʾanvə
 ⁺ʾanvət
 ⁺xala
 ʾita
-mən zə ⁺ʾanvə
+mən ⁺ʾanvə zə
 cəšmišə zə
 dok̭iva
-zə sabza
+sabza zə
 xayyute
-mən ⁺tamməva
+⁺tamməva mən
 sabza
 dariva
 lablivala
 mdita ⁺ʾal
 zabnivala ci
-ʾu məndit
+məndit ʾu
 ⁺lazəmva
 k̭ate
 ci šak̭liva
@@ -209717,14 +209717,14 @@ mayyivalə
 xina
 mən carmanə
 nipuxta
-bašliva ci
+ci bašliva
 ⁺ʾanvə
 mayyivalun
-čarazə ɟu
+ɟu čarazə
 ⁺mač̭č̭ivalun
 šira
 ʾita
-ɟu ⁺tiyanə
+⁺tiyanə ɟu
 dariva
 xute
 malliva
@@ -209749,7 +209749,7 @@ xurraɟət
 sətvəva
 tluvvə
 tluvvə
-⁺ṱarsiva ci
+ci ⁺ṱarsiva
 ⁺ʾanvə
 hada har
 taza
@@ -209757,20 +209757,20 @@ cambəllivalun
 ɟu
 čuxyatə
 čuxta
-avivalun c
-xəšca ɟu
-cambəllivalun ci
+c avivalun
+ɟu xəšca
+ci cambəllivalun
 ta sətva
 yatviva ci
 marzanət
 tanuyra
-mən dannə
+dannə mən
 tluvvə
-mayyiva ci
+ci mayyiva
 ci ⁺masliva
 ʾarxə
 darivalun
-⁺axliva c
+c ⁺axliva
 ⁺xamra
 ⁺ṱarsiva
 ⁺raba
@@ -209778,17 +209778,17 @@ rišaya
 ⁺xamra
 ⁺linə ɟu
 ʾaha
-ɟu cullə
+cullə ɟu
 matvatəva
 leva
 ʾaxči
 ɟu matət
 diyyan
-ɟu cullə
+cullə ɟu
 matvatət
 dəštət
 ʾurmi
-ʾa məndi ʾətva
+ʾətva ʾa məndi
 ʾətvalan
 matvatə
 xač̭č̭a
@@ -209799,15 +209799,15 @@ matvatə
 ʾina
 cullə
 ʾa məndi
-ʾa sapar
+sapar ʾa
 ʾətvalun
 ⁺ʾarratə
 šuk̭
 mən carmanə
 ʾina
-ʾa məndi da
+ʾa da məndi
 tanənnə
-carmanə ɟu
+ɟu carmanə
 ṱarsiva ci
 ⁺čolatə
 bi
@@ -209815,7 +209815,7 @@ k̭esə
 ⁺ʾarp̂a
 ⁺hačə
 ʾatxa
-mattiva ci
+ci mattiva
 čardak̭
 čardak̭ə
 ʾita
@@ -209825,12 +209825,12 @@ yatviva ci
 ⁺čolatə ɟu
 ɟinavə k̭at
 la ʾaviva
-carmanə ⁺ʾal
+⁺ʾal carmanə
 ⁺šulə
 ⁺xadərvanan
 məššəlmanəva
-zə məššəlmanə
-həč xa
+məššəlmanə zə
+xa həč
 mənne
 lətvalun
 carmanə
@@ -209843,7 +209843,7 @@ yeməš
 cullə
 ʾət diyyan
 ⁺ʾaturayə
-ʾarəmnay da ʾu
+ʾarəmnay ʾu da
 ʾətva
 xacma
 matvatət
@@ -209855,7 +209855,7 @@ b yuma
 bnatə
 yatviva ci
 ⁺baġvanə
-aviva c
+c aviva
 k̭at
 ɟinavə
 ⁺šulə
@@ -209869,7 +209869,7 @@ b lelə da
 ɟvank̭ə
 aziva c
 ʾana
-zə ɟani
+ɟani zə
 ɟu
 xa
 šita
@@ -209884,7 +209884,7 @@ dok̭axvalun
 ⁺šulə
 ʾita
 sabza
-lablivala ci
+ci lablivala
 ʾax
 mərri
 mdita ⁺ʾal
@@ -209896,19 +209896,19 @@ yan
 xacma
 məndyanə
 k̭at
-matvatə ɟu
+ɟu matvatə
 lətva
 ci zoniva
 mayyiva
-⁺lazəm k̭at
-aviva c
+k̭at ⁺lazəm
+c aviva
 ⁺parčə
 jullə
 ʾatxa
 məndyanə
 har
-de ⁺dana
-avivalun c
+⁺dana de
+c avivalun
 ⁺k̭əṱṱaṱət
 ⁺ʾarratə
 ⁺ʾarratə ɟu
@@ -209921,11 +209921,11 @@ avivalun c
 b ⁺dana
 b ⁺k̭eṱa
 ⁺xazdivalun ci
-matvatə ɟu
+ɟu matvatə
 ʾətva
 jarjarə
 ʾannə
-lablivalun ci
+ci lablivalun
 ⁺budratə ɟu
 b jarjarə
 b k̭ənyanə
@@ -209936,21 +209936,21 @@ xmarə
 ʾannə
 ɟaršiva
 xəṱṱə
-⁺palṱivalun ci
-mən bulət ɟu
+ci ⁺palṱivalun
+mən ɟu bulət
 ⁺xəṱṱə
-⁺palṱivalun ci
+ci ⁺palṱivalun
 lablivalun
-ʾərxə ʾətva
-ʾərxə ɟu
+ʾətva ʾərxə
+ɟu ʾərxə
 taxnivalun ci
 odivalun c
 k̭amxa
-mayyiva k̭at
+k̭at mayyiva
 batə ɟu
 laxma
 yapiva
-matvatə ɟu
+ɟu matvatə
 ʾətva
 tanurə
 tanurə
@@ -209959,28 +209959,28 @@ tanurə
 ʾamk̭u
 ɟave
 laxma
-yapiva ci
+ci yapiva
 ʾita
 ci mapləxxiva
 taxta
 ⁺dorana
 mən
 mazrak̭
-ʾo t
+t ʾo
 laxma
-mattivalə ci
+ci mattivalə
 ⁺ʾallu
 ʾita
-b ⁺davun
+⁺davun b
 maxivalə ci
-tanuyra ɟu
-pašva ci
+ɟu tanuyra
+ci pašva
 xa
 ⁺ʾarp̂a
 xamša
 dak̭ik̭ə
 jəns
-bašəlva ci
+ci bašəlva
 ⁺raba
 šap̂ira
 laxma
@@ -209995,7 +209995,7 @@ laxxa
 b annə
 ducanə
 le mačxət
-mən laxma do
+laxma mən do
 ⁺raba
 šap̂ira
 ⁺raba
@@ -210003,19 +210003,19 @@ məndyanə
 hi
 mən k̭ənyanə
 k̭ənyanə zə
-avivalun c
+c avivalun
 masta
-dok̭iva ʾi
+ʾi dok̭iva
 ⁺carra
-dok̭iva ʾi
+ʾi dok̭iva
 ⁺xalva
 cul
 xa məndi
-avivalun c
+c avivalun
 mən
 k̭ənyanə zə
 ʾita
-dan ɟu
+ɟu dan
 ⁺ʾarratə
 šuk̭
 mən xəṱṱə
@@ -210023,7 +210023,7 @@ mən xəṱṱə
 bašilə
 ⁺ɟurə
 ⁺ɟurə
-mən dannə
+dannə mən
 yemišə
 ⁺zarriva
 ⁺zarriva ci
@@ -210034,10 +210034,10 @@ xa sama
 ʾaviva
 zabniva ci
 xa zuyza
-ʾida ⁺ʾal
-mayyiva ci
+⁺ʾal ʾida
+ci mayyiva
 xinə ʾan
-c ⁺axlivalun
+⁺axlivalun c
 ⁺raba
 yalə
 jilə
@@ -210053,7 +210053,7 @@ bərk̭ada
 ʾita
 cullə
 batə zə
-avivalun c
+c avivalun
 cul
 beta
 k̭əṱṱət
@@ -210068,7 +210068,7 @@ xina
 raba
 šap̂ərtəva
 ʾana
-xa ctava
+ctava xa
 ʾətli
 tre
 məššənnerət
@@ -210093,10 +210093,10 @@ dwight
 tre
 ⁺parsupə
 tilun
-ʾe ⁺dan
+⁺dan ʾe
 tilun
 ⁺dana ʾe
-zə ʾurxatə
+ʾurxatə zə
 ʾasfalt
 leva
 viyyə
@@ -210107,19 +210107,19 @@ leva
 viyyə
 ʾita
 lətva
-zə ⁺mašinə
+⁺mašinə zə
 k̭at
-b ⁺mašinə
+⁺mašinə b
 našə
 ʾaziva
 ʾativa
 b susavay
 b cavədnə
-b xmarə
+xmarə b
 aziva c
 ʾannə
 b susavate
-ʾe ⁺dan
+⁺dan ʾe
 ⁺mṱilun
 ⁺ʾal
 ⁺lap
@@ -210133,24 +210133,24 @@ xa
 pass
 ⁺raba
 ⁺ramta
-ci ⁺k̭arivala
+⁺k̭arivala ci
 k̭učiyyə
 ɟaduɟɟət
 k̭učiyyə
-ci ⁺k̭arivala
-ʾe ⁺dan
+⁺k̭arivala ci
+⁺dan ʾe
 mṱilun
 tama
-mən ⁺tama
-susavate m ⁺al
+⁺tama mən
+m ⁺al susavate
 ⁺slilun
 ɟušək̭lun
 dəštət ⁺ʾal
 ʾurmi
-mən ⁺tama
+⁺tama mən
 dəštət
 ʾurmi
-mabyənnava ci
+ci mabyənnava
 ⁺raba
 šap̂ərta
 ʾita
@@ -210158,7 +210158,7 @@ dəpnət
 de
 dəšta da
 ʾətlan
-yama xa
+xa yama
 yamtət
 ʾurmi
 ci ⁺k̭arila
@@ -210166,16 +210166,16 @@ yamət
 məlxa
 ʾayən
 xəzyalun
-ɟu ctave
+ctave ɟu
 bəctavəna
-ʾo ctavu
+ctavu ʾo
 ctivuna k̭at
 k̭a
 board ət
 diyye
 boston ɟu
 laxxa
-ɟu ʾamerica
+ʾamerica ɟu
 marəna
 ʾaxnan
 ⁺raba ɟu
@@ -210189,11 +210189,11 @@ xəzyəvax
 ducanə
 xišəvax
 ʾalbatta
-b zə našə
-tpik̭əna k̭at
+b našə zə
+k̭at tpik̭əna
 b ⁺parsupə
 ʾannə
-da məndyanə
+məndyanə da
 tanuyəna
 mara
 dəšta
@@ -210213,12 +210213,12 @@ xa
 cullə
 ⁺ṱuyranəna
 ʾadiyya
-b ⁺aralləġət
+⁺aralləġət b
 ⁺k̭eṱa
 cullə
 ⁺ṱuyranə
 ⁺ʾulluyle
-ʾe k̭arkəptət
+k̭arkəptət ʾe
 ⁺ṱuyra
 talɟa
 ⁺maxvurələ
@@ -210228,7 +210228,7 @@ cullə
 k̭əntəla
 ⁺raba
 šap̂ərta
-l ɟiba a
+ɟiba l a
 xita
 mabyunəla
 xa hənna
@@ -210238,7 +210238,7 @@ məlta
 yama
 ʾaxnan
 ⁺raba
-xadax bət
+bət xadax
 ʾən
 yavvitun
 k̭a diyyan
@@ -210249,25 +210249,25 @@ har
 pešax
 laxxa
 mašxəddax
-da ɟu
+ɟu da
 ducta
 bərrəxšəna
 ʾalbatta
 bətfak̭əna
 b cma
 ʾapəsk̭upə
-lə k̭at vayan
+vayan k̭at lə
 ⁺ʾarp̂a
 xamša
 ʾapəsk̭upə
-matvatə ɟu
+ɟu matvatə
 ⁺šulə
 ⁺bəxdarəna
 biyye
 bətpak̭əna
 ctavə
-zə ʾatik̭ə
-lə viyyan k̭at
+ʾatik̭ə zə
+viyyan k̭at lə
 bərrəxšəna
 cullə
 bəxzayena
@@ -210293,15 +210293,15 @@ danə ⁺ʾarp̂a
 ʾayya
 ⁺dana
 ʾətvalan
-b dannə
+dannə b
 k̭at
 bətpak̭əna
 muɟɟurra
-b xubba
+xubba b
 k̭abulena
 b do
 xubbe
-ɟu ctave
+ctave ɟu
 ctivəna
 ʾita
 dəštət
@@ -210320,7 +210320,7 @@ viyyəvax
 ⁺raba
 ⁺pšaməvax
 k̭at
-ida m
+m ida
 yuvvo
 dəštət
 ʾurmi
@@ -210332,12 +210332,12 @@ vitəla
 ʾət ⁺ʾaturay
 həč
 məššəlmanə
-da ⁺šulə
+⁺šulə da
 lena
 viyyə
 ʾaxči
-ʾe ⁺dan
-šɑh nɑdər
+⁺dan ʾe
+nɑdər šɑh
 xa
 mən malcət
 ⁺ʾiran
@@ -210357,42 +210357,42 @@ le ʾatyava
 ⁺ʾaturayət
 diyyan
 bəšk̭aleva
-mən dəštət
+dəštət mən
 ʾurmi
 labuleva
-la do rišət
+rišət la do
 ⁺ʾatra
 ⁺k̭oč̭an
 mašad
-dan la
+la dan
 ɟibanə
-mən ⁺tama
+⁺tama mən
 mayəva
 ⁺ʾafšariyyə
 ʾannə
 ʾaxnan
 ⁺k̭araxlun
-da ʾadiyya
+ʾadiyya da
 ⁺hošarə
 k̭a cullə
 dannə
 ⁺parsupə
 k̭at
-de ɟu
+ɟu de
 dəštət
 ʾurmi
-xayyi ci
+ci xayyi
 k̭at
 məššəlmanəna
-⁺k̭arax ci
+ci ⁺k̭arax
 ⁺hošarə
 ⁺hošarə
 yan
 ʾafšɑri
 ⁺ʾavun
-šɑh nɑdər
+nɑdər šɑh
 ʾafšɑr
-da ʾiva
+ʾiva da
 šəmmu
 ⁺ʾavun
 šak̭əlvalun
@@ -210402,9 +210402,9 @@ mayyivalun
 diyyan
 šak̭əlva
 ⁺mabsərvalun
-mən ⁺tama
+⁺tama mən
 ʾaxnan
-⁺dana xa
+xa ⁺dana
 dəštət
 ʾurmi
 cullə
@@ -210431,14 +210431,14 @@ miyya
 ⁺xabra
 ⁺xabrət
 ⁺ʾaturayələ
-lə diyyan ʾət
+ʾət diyyan lə
 ʾurmiyya
 bətvatə
 daxiva
 bətvatə
 sama
 zoda
-matvatə ɟu
+ɟu matvatə
 ʾətvalan
 batə
 prišə
@@ -210471,8 +210471,8 @@ batət
 mata
 ci ⁺ṱarsivalun
 mən
-ci ⁺palṱiva
-vaddar ⁺ʾal
+⁺palṱiva ci
+⁺ʾal vaddar
 mən mata
 cimanə
 ʾətvalan
@@ -210485,8 +210485,8 @@ xina
 cimə
 ʾen
 cimə
-b ⁺ṱina
-mayyiva ci
+⁺ṱina b
+ci mayyiva
 mattiva
 ⁺ʾal
 ⁺ʾuydalə
@@ -210498,14 +210498,14 @@ beta
 biyye
 ʾita
 xina
-da ⁺ʾulluyle
+⁺ʾulluyle da
 cullə
-aviva c
+c aviva
 k̭esə
 parduvvə
 ⁺k̭aryatə
 stuyna
-mattiva ci
+ci mattiva
 xut
 dan
 ⁺k̭aryatə
@@ -210528,14 +210528,14 @@ bətxarəvən
 surəvənva
 babi da
 savəva
-yask̭axva ci
+ci yask̭axva
 mən babi
 m ⁺uydalə
-cut yum
+yum cut
 talɟa
 ɟari
 ⁺rappaxvalə
-ɟarə m ⁺al
+m ⁺al ɟarə
 cul
 yuma
 cul
@@ -210554,22 +210554,22 @@ mərri
 xina
 ɟarə
 k̭esa
-mattiva ci
+ci mattiva
 ⁺xlima
 ʾatxa
 mən da
 ɟuyda
-do ⁺ʾal
+⁺ʾal do
 ɟuyda
 ʾən
 beta
 ʾavə
 ⁺ɟura
-dana xa
-da stuyna
+xa dana
+stuyna da
 xut
 ci maxiva
-⁺ʾarra mən
+mən ⁺ʾarra
 hal
 ⁺tamma
 k̭at
@@ -210578,32 +210578,32 @@ taləxva
 ʾita
 cma
 danə
-mən ⁺davun
+⁺davun mən
 ʾatxa
-mattiva ci
+ci mattiva
 ⁺xarta
 ʾətva
 k̭esa
 sura
 ʾatxa
-ci parmivalun
+parmivalun ci
 ⁺k̭aṱk̭əṱṱivalun
-dani k̭a
+k̭a dani
 ⁺k̭ariva
 parduvvə
 he
-dani k̭a
+k̭a dani
 ⁺k̭ariva
 parduvvə
 ʾo k̭esa
 ⁺yarixa
 ⁺k̭arivalə
 ⁺k̭arita
-dani k̭a
+k̭a dani
 ⁺k̭ariva
 parduvvə
-ʾan k̭esə
-mattivalun ci
+k̭esə ʾan
+ci mattivalun
 ʾatxa
 šavyə
 yan
@@ -210616,26 +210616,26 @@ m ⁺uydalə
 ʾatxa
 ⁺ʾal
 dani
-mattiva ci
+ci mattiva
 parduvvə
-mən da riša
+riša mən da
 ⁺ʾal
 dan
 parduvvə da
-mattiva ci
+ci mattiva
 ⁺pavanət
 ʾilanə
 brizə
 čarpuvvə
 ci tanaxvalun
 ʾaxnan
-mattiva ci
-dani ⁺ʾal
-zə yan
+ci mattiva
+⁺ʾal dani
+yan zə
 hasirə
-mattiva ci
+ci mattiva
 ʾita
-dani ⁺ʾal
+⁺ʾal dani
 dariva
 ⁺ṱina
 ṱina
@@ -210643,7 +210643,7 @@ la
 ⁺raba
 miyyana
 ṱina
-dariva ci
+ci dariva
 dašdəššivalə
 ⁺xarta zə
 ci ⁺mač̭rivalə
@@ -210655,10 +210655,10 @@ xa
 xina
 ⁺ṱina
 ṱarəsva
-da tuyna
+tuyna da
 dariva
 ɟavu
-da tuyna
+tuyna da
 dariva
 ɟavu
 dašdəššivalə
@@ -210679,7 +210679,7 @@ mən ⁺bar
 brəzvalə
 xina
 miyya
-ʾe ⁺dan
+⁺dan ʾe
 ⁺muṱra
 talɟa
 ⁺šulə
@@ -210689,7 +210689,7 @@ le
 ⁺saliva
 xa
 danət
-bne matət
+matət bne
 zumallan
 odiva c
 ⁺ʾaccaruyta
@@ -210702,14 +210702,14 @@ k̭a maštetət
 dannə
 baxčanə
 carmanə
-iva majbur
+majbur iva
 ⁺ṱalbiva
 miyya
 mən šak̭iyyatə
 ⁺ɟurə
 ʾita
 ⁺ʾarbabət
-mavatə den
+den mavatə
 ɟari
 ʾaziva
 xazzivalə
@@ -210717,10 +210717,10 @@ xazzivalə
 xa
 naša
 məštaʾlana
-da ⁺ʾal
+⁺ʾal da
 ⁺šula
 k̭at
-⁺k̭arivalə ci
+ci ⁺k̭arivalə
 ⁺mira
 ɟari
 k̭a ⁺ʾarbab
@@ -210739,15 +210739,15 @@ yuma
 ⁺fəllan ya
 šabta
 ɟari
-⁺dana mən k̭am
+k̭am mən ⁺dana
 ʾaviva
 zuyzu
 ⁺purriyye
 ʾita
-azəlva c
+c azəlva
 ⁺mira ʾo
 xazzivalə ci
-ci taniva
+taniva ci
 ʾana
 zuyzə
 yuvven
@@ -210756,7 +210756,7 @@ k̭a ⁺ʾarbab
 nobət
 diyyila
 ʾita
-mən ⁺tama
+⁺tama mən
 barət
 miyya
 ci patxivala
@@ -210771,36 +210771,36 @@ zoda
 ⁺basura
 ʾannə
 miyya
-mayyivalun ci
+ci mayyivalun
 b šak̭ita
 hal
 de
 ducət
 ⁺mamṱivalun
-do carmət ⁺ʾal
+⁺ʾal carmət do
 ⁺bayyi
 maštilə
 ya
-de ⁺ʾal
+⁺ʾal de
 ⁺mazrayət
 ⁺bayyi
 maštila
 ʾita
 ⁺ʾal
 hajat da
-⁺dana ʾət
-aviva c
+ʾət ⁺dana
+c aviva
 ⁺p̂lašə
 xazzətva
 xa
 ⁺ʾaccara
 xišələ
-mayetət k̭a
+k̭a mayetət
 miyya
 ʾina
 ⁺p̂lišələ
-mən ⁺mira
-ʾu ʾadiyya
+⁺mira mən
+ʾadiyya ʾu
 ɟnayət
 may
 vitəla
@@ -210808,24 +210808,24 @@ lela
 mahləm
 bədmayəla
 ⁺mira
-xa m
+m xa
 xina
 buš
 zoda
 zuyzə
 šk̭ilələ
 ⁺danət ʾe
-⁺fəllan cas k̭a
+k̭a cas ⁺fəllan
 ɟari
 yavvəlvala
 yuvvolə
-xa k̭a
+k̭a xa
 xita
 ʾatxa
 ⁺p̂lašə
 ⁺šulə
-aviva c
-zə ʾaha
+c aviva
+ʾaha zə
 xa
 txarələ
 k̭at
@@ -210854,7 +210854,7 @@ k̭a ɟvara
 lətvalan
 hak̭uyta
 ʾaxnan
-de k̭a
+k̭a de
 brata
 ʾazaxva
 tanaxva
@@ -210869,7 +210869,7 @@ brata
 ⁺ṱalbivala
 k̭atan
 k̭ala
-⁺msaxva la
+la ⁺msaxva
 ʾodaxva
 taniva
 ⁺pəllan
@@ -210877,7 +210877,7 @@ brata
 ⁺bayyax
 mayyaxla
 k̭atux
-⁺ʾaməsva le
+le ⁺ʾaməsva
 taniva
 la
 ʾani
@@ -210885,16 +210885,16 @@ la
 ʾaviva
 ʾaziva
 ⁺ṱalbivala
-b aziva
+aziva b
 šak̭livala
 ⁺xarta
 ʾaxnan
 m ⁺uydalə
 xa
-tre ɟa
-⁺amsaxva c
+ɟa tre
+c ⁺amsaxva
 hamzəmmaxva
-da ʾay
+ʾay da
 ⁺raba
 ⁺basurta
 ⁺dayət
@@ -210920,7 +210920,7 @@ yelənk̭ə
 aziva ṱ
 mayyivala
 ⁺xluyla
-p̂ṱ odiva
+odiva p̂ṱ
 beta
 ⁺raba
 ⁺ɟura
@@ -210943,12 +210943,12 @@ yalə
 surə
 yask̭axva
 yattaxva
-⁺ʾal ⁺k̭ulinə
+⁺k̭ulinə ⁺ʾal
 yask̭axva
 yattaxva
-ʾ⁺al den
+den ʾ⁺al
 ⁺k̭ulinə
-məlyəna k̭at
+k̭at məlyəna
 k̭amxa
 ʾadi
 ʾəsri
@@ -210968,7 +210968,7 @@ našə
 baxtatə
 cullə
 ⁺tama
-aviva ṱ
+ṱ aviva
 xa
 dana
 ⁺aġasə ʾel
@@ -210980,7 +210980,7 @@ xa naša
 mark̭ədvalə
 k̭amta
 mən bac
-mən ⁺aġasə ʾel
+⁺aġasə mən ʾel
 ⁺bayyiva
 ⁺ʾijaza
 cas ⁺pəllan
@@ -210990,7 +210990,7 @@ k̭amayə
 ʾana
 masalan
 ivən bac
-diyyux k̭a
+k̭a diyyux
 tanənva
 ⁺aġasə ʾel
 ⁺pəllan
@@ -210999,7 +210999,7 @@ yala
 k̭amayə
 rak̭əd
 mayyivalə
-majləs ɟa
+ɟa majləs
 rak̭ədva
 ⁺dayət
 rak̭ədva
@@ -211016,7 +211016,7 @@ tre
 do
 ⁺xluyla
 ʾani
-aviva c
+c aviva
 cum
 ʾani
 taniva
@@ -211024,13 +211024,13 @@ taniva
 nata
 dok̭iva
 ⁺davun ⁺ʾal
-⁺ʾal den
+den ⁺ʾal
 tre
 ɟanay
 ci paršivalun
 tre
 ɟanay
-ʾa k̭at
+k̭at ʾa
 ⁺xluyla
 ʾaxnoxun
 ʾəmne
@@ -211059,7 +211059,7 @@ odiva ṱ
 baxta
 ⁺raba
 ⁺basurə
-cəs ⁺ʾuydalə
+⁺ʾuydalə cəs
 damxiva
 duca
 lətvalun
@@ -211074,7 +211074,7 @@ surta
 ⁺tarsiva
 xa tre yarxə
 ⁺ṱla yarxə
-ʾen t
+t ʾen
 taza
 xətna
 calu
@@ -211112,13 +211112,13 @@ yumanə
 yumət
 k̭ameta
 xošiba
-c azaxva
+azaxva c
 ⁺sluta
 ⁺ʾumra
 k̭aša
 ʾətvalan
 ⁺sluta
-avədva c
+c avədva
 ʾita
 ⁺bar
 ⁺cavutra
@@ -211126,7 +211126,7 @@ avədva c
 da
 mata
 ʾannə
-sak̭alə ʾax
+ʾax sak̭alə
 ⁺xadriva
 ʾəmnət
 nasə
@@ -211134,26 +211134,26 @@ nasə
 ɟəddəšta
 motana
 ⁺jammiva
-p̂ṱ aziva
-ɟa ⁺davun bet
+aziva p̂ṱ
+ɟa bet ⁺davun
 ʾidu
 barxivalə
 riša
 basamta
-b yavvivalə
+yavvivalə b
 yumət
 k̭ameta
 hal
 ⁺cavutra
-⁺ʾumra ɟa
-aviva c
+ɟa ⁺ʾumra
+c aviva
 ⁺bar
 ⁺cavutra
 ʾannə
 našə
 ⁺ɟurə
 ʾətva
-de ɟa
+ɟa de
 mata
 motanə
 aziva ṱ
@@ -211187,7 +211187,7 @@ barxiva
 ʾita
 xina
 dok̭iva
-b jarɟa
+jarɟa b
 mata
 oyava ṱ
 tlay
@@ -211195,8 +211195,8 @@ batvay
 ʾarp̂i
 batvay
 ʾudyu
-diyyux bet vət
-xina do bet
+bet diyyux vət
+bet xina do
 ɟašk̭ət
 ⁺ʾəsra
 yumanə
@@ -211209,7 +211209,7 @@ baruxə
 ʾaxnan
 yalə
 jilə
-⁺ʾal den
+den ⁺ʾal
 sulyatət
 k̭at
 k̭ənyanə
@@ -211219,7 +211219,7 @@ ruppo
 ⁺tuptəptəla
 ʾay
 ⁺janiman
-c azaxva
+azaxva c
 ⁺ʾarra
 ⁺bəzzazə
 ⁺ṱalaxva
@@ -211227,23 +211227,23 @@ xa
 šabta
 mən da
 xošiba
-do ⁺ʾal
+⁺ʾal do
 xošiba
 xina
 ⁺ṱalaxva
 ⁺ṱavulə
-cut yum
+yum cut
 ʾita
 ʾətva
 davla
 davla
 ci maxiva
 ⁺janiman
-c azaxva
+azaxva c
 yalə
 jilə
 ʾa
-va ⁺šulan
+⁺šulan va
 xa
 šabta
 yumanət
@@ -211256,16 +211256,16 @@ xa
 šabta
 ʾaxnan
 har
-avivalan c
+c avivalan
 ⁺ṱalta
 ⁺bar
 ⁺cavutranə
-c azaxva
+azaxva c
 moriša
 palxaxva
 ⁺bar
 ⁺cavutranə
-ataxva c
+c ataxva
 ⁺tama
 ⁺jammaxva
 ⁺ṱalaxva
@@ -211278,18 +211278,18 @@ zamərva
 šap̂ira
 ʾannə
 cullə
-b rak̭diva
-riš xəɟɟa
+rak̭diva b
+xəɟɟa riš
 b labliva
 ʾida
 ⁺raba
 sodana
-odaxvalə c
+c odaxvalə
 xədyuyta
 ʾətvalan
 xina ʾita
 ⁺xamra
-⁺jammiva ʾi
+ʾi ⁺jammiva
 bətvatə
 ʾətvalan
 zamarə
@@ -211320,7 +211320,7 @@ k̭ax
 b yavviva
 ʾat
 b šatətvala
-⁺davva k̭a
+k̭a ⁺davva
 b yavviva
 ʾatxa
 atyava ṱ
@@ -211337,7 +211337,7 @@ vadrə
 šativa
 ⁺xamra
 ⁺pərya
-avivalun c
+c avivalun
 zamriva
 šativa
 ⁺axliva ṱ
@@ -211355,12 +211355,12 @@ dala
 dalpə
 ʾayən
 sətva
-oyava c
+c oyava
 sətva
-oyava c
+c oyava
 k̭urbabət
 ⁺ʾəšvat
-aviva c
+c aviva
 ʾətvala
 xa
 yuma
@@ -211368,18 +211368,18 @@ yuma
 yuma
 yalə
 surə
-⁺xadri ʾi
+ʾi ⁺xadri
 yask̭iva
 ɟaravatə
 dala
 dalpə
-odivala c
-dana xa
+c odivala
+xa dana
 ⁺k̭avva
 ⁺yasriva
-cavə mən
+mən cavə
 ⁺pašṱivalə
-cavə mən
+mən cavə
 ɟa beta
 ⁺pašṱivalə
 ʾita
@@ -211413,10 +211413,10 @@ b zamriva
 ʾatən
 ⁺ʾəsra
 ɟanay
-da ⁺ʾal
+⁺ʾal da
 ɟarəna
 ⁺ʾəsra
-do ⁺ʾal
+⁺ʾal do
 ɟarəna
 ʾa
 ⁺šula da
@@ -211433,7 +211433,7 @@ b do
 ⁺k̭avva
 b ⁺xadriva
 ɟaravay
-de mən
+mən de
 cavə
 ⁺pašṱiva
 cəšmišə
@@ -211441,8 +211441,8 @@ yavvivalun
 ɟozə
 yavvivalun
 tluvvə
-ci yavvivalun
-mət cu
+yavvivalun ci
+cu mət
 ʾətvalun
 ɟa ⁺dav
 b yavviva
@@ -211450,7 +211450,7 @@ k̭atu
 ɟarəšvalə
 mən da
 ɟarə
-do ⁺ʾal
+⁺ʾal do
 ɟarə
 xina
 ʾatxa
@@ -211461,21 +211461,21 @@ cul ɟaravay
 yalə
 surə
 yumət
-calu sulak̭a
-avivalan c
+sulak̭a calu
+c avivalan
 ʾarp̂i
 yumanə
 ⁺bar
 ʾida
-calu sulak̭a
-aviva c
+sulak̭a calu
+c aviva
 calu
 sulak̭a
 xa
 dana
 calu
 zarzaxva
-⁺pəslət ʾax
+ʾax ⁺pəslət
 calu
 ⁺ṱla
 ⁺ʾarp̂a
@@ -211492,7 +211492,7 @@ xətna
 ʾaxnan da
 ⁺bara
 ⁺bare
-ṱ azaxva
+azaxva ṱ
 betət
 diyyux
 betət
@@ -211502,9 +211502,9 @@ biyyə
 yavvivalan ci
 ʾadiyya
 biyyə
-b yavvivalan
+yavvivalan b
 məšxa
-b yavvivalan
+yavvivalan b
 ʾita
 b ⁺jammaxva
 bar
@@ -211512,12 +211512,12 @@ prək̭la
 cullə
 mata
 ⁺xdiravalan
-ṱ azaxva
-čolavat ɟa
+azaxva ṱ
+ɟa čolavat
 carmanə
 mən mata
 vaddar
-⁺oraxva c
+c ⁺oraxva
 carmanə
 lablaxva
 ⁺tama
@@ -211546,8 +211546,8 @@ xamša
 tivəx
 ɟave
 bašlaxva
-⁺axlaxva c
-ʾen biyyə
+c ⁺axlaxva
+biyyə ʾen
 ⁺jummex k̭at
 mən mata
 ʾe
@@ -211566,14 +211566,14 @@ zmaryatə
 ⁺dayət
 ʾannə
 məndiyyanə
-ʾe ɟa
+ɟa ʾe
 ʾətva
 ʾayya
-calu sulak̭əva
-dana xa
+sulak̭əva calu
+xa dana
 yala
 xa brata
-⁺bayyiva ci
+ci ⁺bayyiva
 ⁺ʾuydalə
 xazziva
 ⁺ʾuydalə
@@ -211585,18 +211585,18 @@ masalan
 taniva
 bnatət
 cas ⁺pəllən
-ina ⁺spay
+⁺spay ina
 masalan
 bnatət
 geoffrey
 ⁺raba
-ina spay
+spay ina
 geoffrey
 ⁺raba
-⁺spay našələ
+našələ ⁺spay
 baxtu
 ⁺spayəla
-ʾu bratət
+bratət ʾu
 dannə
 mayyaxla
 k̭a brunan
@@ -211608,7 +211608,7 @@ k̭a brune
 da brune
 xazziva
 brata
-azəlva c
+c azəlva
 xazzivala
 aziva c
 ⁺ṱalbivala
@@ -211618,22 +211618,22 @@ baba
 yəmma
 yala
 k̭a brata
-ci taniva
+taniva ci
 babi
 yəmmi
 b ⁺šadrənnun
 ⁺ṱalabuyta
 ʾati
 ⁺ṱalbilax
-mən babax
+babax mən
 yəmmax
-yavvilax ʾən
+ʾən yavvilax
 ʾana
-b ɟorənnax
+ɟorənnax b
 bərrəxšəna
 ṱalabuyta
 bərrəxšəna
-xa beta ɟu
+beta xa ɟu
 ⁺varəna
 šlama
 b šena
@@ -211648,7 +211648,7 @@ mayəna
 mu
 b šatitun
 mara
-šatax le
+le šatax
 həč məndi
 le ⁺ʾaxlax
 həč məndi
@@ -211658,21 +211658,21 @@ k̭atoxun
 la
 tanaxla
 ⁺baʾutoxun
-mu ila
+ila mu
 ʾaxnan
 tiyyəvax
 brunan
 ⁺virəl
-mən k̭am
+k̭am mən
 ⁺tarroxun
 xəzyəl
 xa varda
-ʾo varda
-baxčoxun lə ɟu
+varda ʾo
+ɟu lə baxčoxun
 ⁺byayəvax
 ɟabaxlə
 lablaxlə
-ɟu ɟanan baxč
+baxč ɟu ɟanan
 ʾita
 ʾannə
 di
@@ -211717,7 +211717,7 @@ mara
 ʾana
 ⁺razivan
 ʾana
-ṱ odanna
+odanna ṱ
 xa
 dastət
 vardə
@@ -211735,30 +211735,30 @@ manilə
 ⁺bəddayəna
 brun manilə
 bəxdayəna
-brate k̭at
+k̭at brate
 yavvila
 ⁺xarta
 ⁺bak̭urəna
-mən ⁺ʾamtət
+⁺ʾamtət mən
 yala
 mara
 ⁺ʾa ʾamtola
 ʾətla
 hak̭uta
-da ʾay k̭at
+ʾay k̭at da
 ⁺yaṱṱa
 ⁺ʾamto
 yavola
 k̭a ⁺ɟoro
 mamuno k̭a
-ʾaxuno k̭a
-k̭a ⁺xaluvvo
+k̭a ʾaxuno
+⁺xaluvvo k̭a
 cullə
 dasta
 ʾatxa
 vayəna
 tivə
-dan ⁺ʾe
+⁺ʾe dan
 ⁺ṱalabuyta
 vayəla
 cullə
@@ -211778,7 +211778,7 @@ vayəna
 mxayəna
 k̭at ⁺ṱalabuyta
 vila
-⁺dana xa bar
+xa bar ⁺dana
 bərrəxšəna
 širənnəx
 širənnəx
@@ -211786,7 +211786,7 @@ brata
 vadəla
 širənnəx
 širənnəx
-bratəla ʾət
+ʾət bratəla
 vadəna
 širənnəx
 ⁺mixulta
@@ -211798,8 +211798,8 @@ yavəla
 brata
 ⁺bək̭rayəla
 našə
-širənnəx k̭a
-beto ɟu
+k̭a širənnəx
+ɟu beto
 ⁺bixaləna
 bəštayəna
 bərk̭adəna
@@ -211846,8 +211846,8 @@ tlay
 čedi
 ʾatxa
 bitayəla
-⁺xluyla ⁺dan
-matvatə ɟu
+⁺dan ⁺xluyla
+ɟu matvatə
 k̭ənyanə
 praməna
 k̭ənyanə
@@ -211857,13 +211857,13 @@ moriša
 jaldə
 davla
 ⁺zurna
-maxila ci
+ci maxila
 ɟaravatə
 k̭at našə
 ⁺šammi
 k̭emi
-⁺davva k̭a
-ci tani
+k̭a ⁺davva
+tani ci
 sar ⁺subay
 sar ⁺subay
 mxayələ
@@ -211896,14 +211896,14 @@ bitayəna
 k̭a ⁺xluyla
 mən matvatə
 k̭urba
-ɟu matələ ʾən
+ʾən ɟu matələ
 mən matvatə
 k̭urba
 cullə
 našə
 ⁺bəddayəna
 xa
-k̭a do xina
+k̭a xina do
 bitayəna
 ⁺xluyla
 k̭ənyana
@@ -211941,7 +211941,7 @@ k̭a yale
 našə
 bitayəna
 ⁺tama
-ʾu ⁺sabaxta
+⁺sabaxta ʾu
 yavəna
 ⁺sabaxte
 zuyzəva
@@ -211955,7 +211955,7 @@ tuymanə
 leva
 ⁺dinar
 ⁺dinar
-l a ybələ
+l ybələ a
 tuymanə
 k̭a ⁺ʾiran
 trəmma
@@ -211972,22 +211972,22 @@ xob
 ʾannə
 našə
 xina
-cut xa
+xa cut
 aziva c
-da ⁺ʾavva
-avəlva c
-babu ɟu bet
-yəmmu ɟu bet
+⁺ʾavva da
+c avəlva
+bet ɟu babu
+bet ɟu yəmmu
 cat
 ⁺paləṱva
 ⁺šariva
 pəlxana
-carmanə ɟu
+ɟu carmanə
 mulcanə ɟu
 ʾina
 mən babu
 yəmmu
-xayyiva ci
+ci xayyiva
 calu
 ɟari
 ʾoyava
@@ -212000,7 +212000,7 @@ xa yuma
 ⁺nasradən
 vayələ
 tiva
-k̭esa ⁺ʾal
+⁺ʾal k̭esa
 xa
 mən našə
 ⁺varəva
@@ -212009,7 +212009,7 @@ mərrə
 ʾatən
 ʾo k̭esa
 pramut
-naplət bət
+bət naplət
 mərrə
 boro
 baba
@@ -212020,13 +212020,13 @@ tiyyət
 b diyyi
 k̭itət
 ⁺šuk̭
-⁺bar si ⁺šulux
+si ⁺šulux ⁺bar
 ʾana
 ⁺šul ɟanilə
 naplən
 naplən
 ⁺hala
-naša ʾo
+ʾo naša
 leva
 xiša
 xa
@@ -212035,7 +212035,7 @@ xa
 ⁺malla
 bitayələ
 drum
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 bək̭yamələ
 ⁺bərxaṱələ
 ⁺baru
@@ -212044,16 +212044,16 @@ mara
 ʾatən
 ⁺dilux
 ʾana
-naplənva bət
-⁺al ʾilana m
+bət naplənva
+m ⁺al ʾilana
 bas tanili
 xazən
 ʾana
 ʾiman
 bət metən
-naša ʾo
+ʾo naša
 xzilə
-ʾa k̭at
+k̭at ʾa
 ⁺malla
 honu
 xač̭č̭a
@@ -212065,19 +212065,19 @@ mədrə
 ⁺raba
 ⁺maxleta
 mərrə
-ʾiman k̭at
+k̭at ʾiman
 xmartux
 ⁺ṱla
 ɟahə
 ⁺ʾarṱala
-yuma ʾo
+ʾo yuma
 metət
 yumət ʾo
 xmartux
 ⁺ṱla
 ɟahə
 ⁺ʾarṱala
-yuma ʾo
+ʾo yuma
 metət
 ⁺malla
 muttəva
@@ -212093,7 +212093,7 @@ xmarta ʾu
 ⁺bayyava
 ʾask̭ava
 ⁺ʾullul
-poxa bas ʾu
+bas poxa ʾu
 ⁺pləṱlə
 mənno
 ṱər
@@ -212105,17 +212105,17 @@ mərrə
 dun
 k̭arbunə
 myata k̭a
-da xač̭č̭a
+xač̭č̭a da
 sək̭la
 xa xita
 ɟanu
 mudməxxalə
-⁺ʾarra ⁺ʾal
+⁺ʾal ⁺ʾarra
 mərrə
 xina
 ⁺dan
 motila
-ʾe d ⁺ṱla t
+t d ⁺ṱla ʾe
 ⁺malla
 mətlə
 našə
@@ -212125,14 +212125,14 @@ tilun
 mərrun
 ʾa
 mu vadət
-mu k̭a ivət
+k̭a ivət mu
 ⁺tamma
 mərrə
-ʾana xob
+xob ʾana
 mitən
 la
 bəxzayətun
-mitən k̭at
+k̭at mitən
 la
 mərrun
 ʾat xaya
@@ -212144,36 +212144,36 @@ xmarələ
 lelə
 ⁺p̂armuyə
 ʾətva
-dana xa malca
+xa dana malca
 ʾətva
-dana xa malca
+xa dana malca
 yuvvəllə ʾu
 ⁺xabra
 k̭a vazzər
 mərrə
 ʾana
-⁺bayyən le
+le ⁺bayyən
 həč
 xa ⁺šra
 ʾoya
-mata ɟu
-mdita ɟu
+ɟu mata
+ɟu mdita
 ⁺bayyən
 ⁺palṱən
 ⁺bayyən
 ⁺palṱən
 xazzən
 ⁺ʾatri
-mu ilə
+ilə mu
 xazzən
 ʾatri
-mu ilə
+ilə mu
 vazzər
 ⁺plaṱələ
 ⁺jar
 bədrayələ
 ⁺jar
-ʾe ⁺danta
+⁺danta ʾe
 telefonə
 melefonə
 lətva
@@ -212195,7 +212195,7 @@ malca
 cut
 ⁺šra
 tapə
-jarima ʾət
+ʾət jarima
 ⁺xabra
 yavələ
 b lelə
@@ -212206,23 +212206,23 @@ b ricavə
 bərrəxšəna
 ⁺bəxdarəna
 xazzə
-mu ʾət
+ʾət mu
 mu
 ləttən
 bəxzayələ
 mən rək̭k̭a
 ʾina
-dana xa
+xa dana
 ⁺šra
 vela
 bəllaya
-xa beta ɟu
+beta xa ɟu
 mara
 vazzər
 ʾana
 k̭atux
 mirənva
-mu ʾa ila
+ila ʾa mu
 ⁺šra
 bəlla
 tamma
@@ -212236,7 +212236,7 @@ mirən
 ʾana
 len ⁺bədda
 ʾayya
-mu ila
+ila mu
 balcət
 lena
 ⁺šəmyə
@@ -212247,7 +212247,7 @@ bərrəxšələ
 ⁺tama
 ɟaššuk̭ələ
 ʾina
-dana xa
+xa dana
 baxta
 mən
 təryəssar
@@ -212262,7 +212262,7 @@ mara
 ⁺maxleta
 ʾaxnan
 tilan
-da ɟu
+ɟu da
 ⁺ʾatra
 k̭aribayəvax
 lex
@@ -212281,7 +212281,7 @@ bəllayəla
 ʾica
 c ⁺amsax
 xazzax
-xa ɟa
+ɟa xa
 macxaxən
 ʾaxči
 xa ⁺šra
@@ -212296,15 +212296,15 @@ bəšta
 ⁺bak̭urəna
 k̭at
 ⁺ɟor
-da baxta
+baxta da
 ʾicələ
 mara
 ⁺ɟor
-da baxta
+baxta da
 xəšlə
 k̭aribuyta
 mara
-bas ʾannə
+ʾannə bas
 mu ina
 laxxa
 ʾannə
@@ -212332,12 +212332,12 @@ k̭a vazzər
 marələ
 matti
 ⁺ʾalamat
-da beta ⁺ʾal
+beta ⁺ʾal da
 k̭edamta
 jaldə
 ʾana
 ⁺byayən
-ʾa baxta
+baxta ʾa
 xazənna
 matti
 ⁺ʾalamat
@@ -212348,11 +212348,11 @@ nišank̭a
 k̭edamta
 bərrəxšəl
 vazzər
-da baxta ⁺bar
+baxta ⁺bar da
 ɟaššuk̭ələ
 ʾina
 cullə
-⁺xyavand ʾo
+ʾo ⁺xyavand
 ʾo
 nišank̭ələ
 ʾina
@@ -212375,7 +212375,7 @@ k̭edamta
 xzili
 ʾina
 cullə
-⁺xyavand ʾo
+ʾo ⁺xyavand
 ʾo
 nišank̭ət
 ʾana
@@ -212383,7 +212383,7 @@ muttun
 ⁺ʾav da
 vel ⁺tamma
 la ⁺dili
-betələ ʾəm
+ʾəm betələ
 malca
 ⁺raba
 ⁺narahat
@@ -212392,13 +212392,13 @@ mara
 vazzər
 ʾana
 p̂ṱ azən
-xa k̭a yarxa
+yarxa k̭a xa
 hal
 ⁺derən
 ʾatən
 coc
 nək̭va
-šok̭ət la
+la šok̭ət
 cocət
 nək̭va
 cullə
@@ -212412,11 +212412,11 @@ diyyux
 tavəryatə
 ⁺k̭aṱunyatə
 calbə
-cul məndit
+məndit cul
 ʾəttə
 nək̭va
 šak̭ləttə p
-pat m
+m pat
 ⁺ʾarra
 vazzər
 mara
@@ -212427,7 +212427,7 @@ dax ʾa
 ⁺šuləl
 dax ʾa
 c ⁺amsən
-ʾana ⁺šula ʾa
+⁺šula ʾa ʾana
 ʾodənnə
 mara
 ʾana
@@ -212437,7 +212437,7 @@ la ʾən
 k̭dalux
 maxənnə
 ʾaxči
-⁺ʾatrət ɟu
+ɟu ⁺ʾatrət
 diyyi
 ʾaha
 məndi
@@ -212447,7 +212447,7 @@ le
 k̭ablənnə
 malca
 bərrəxšələ
-xa k̭a yarxa
+yarxa k̭a xa
 bərrəxšələ
 dastur
 yavəl
@@ -212456,22 +212456,22 @@ k̭at
 ⁺šula ʾa
 ʾavədlə
 bitayəl
-ʾa vazzər
+vazzər ʾa
 ⁺raba
 ⁺narahat
 la
 ⁺bixala
 la
 bəštaya
-ʾa vazzər
+vazzər ʾa
 ʾətvalə
-dana xa
+xa dana
 baba
 babət
 daha
 ʾiva
 vazzər
-babət k̭a
+k̭a babət
 malca
 k̭amta
 ʾina
@@ -212480,9 +212480,9 @@ sivəva
 muttuva
 xa ɟu
 ⁺k̭ərṱala
-ctana ɟu
+ɟu ctana
 k̭at
-⁺ʾajjəzva la
+la ⁺ʾajjəzva
 ⁺paġru
 ⁺raba
 sivəva
@@ -212493,7 +212493,7 @@ babət
 malca
 mara
 bruni
-mu ʾət
+ʾət mu
 ⁺xabra
 k̭am
 xa ʾaxča
@@ -212506,7 +212506,7 @@ bəštaya
 dut
 šuxləppa
 ʾa
-mu ilə
+ilə mu
 viyya
 mara
 ⁺rappi
@@ -212523,7 +212523,7 @@ mara
 bruni
 ʾana da
 babux vən
-ʾa cul
+cul ʾa
 dax oya ṱ
 ʾana
 xač̭č̭a
@@ -212535,7 +212535,7 @@ balcət
 ⁺hayyərrənnux
 mara
 babi
-mən ʾalaha
+ʾalaha mən
 lela
 ⁺ṱšita
 mənnux
@@ -212544,14 +212544,14 @@ mut
 ʾatxa
 vila
 k̭əssat
-da malca
+malca da
 yuvvəl
 dastur
 cullə k̭at
 panənnun
 baxtət
-zə ɟani
-bax da malca
+ɟani zə
+bax malca da
 cullə
 nək̭və
 mən pat
@@ -212560,10 +212560,10 @@ mən pat
 mara
 bruni
 hal
-de ⁺danta
+⁺danta de
 ⁺raba
 ⁺danəla
-ʾe ⁺dan
+⁺dan ʾe
 malca
 tilə
 k̭ati
@@ -212571,12 +212571,12 @@ tani
 ⁺danu
 ⁺ʾəsra
 yumanə
-k̭am m
+m k̭am
 ⁺dana
 k̭ay tani
 bitayəla
 ⁺dana
-malca k̭at
+k̭at malca
 ⁺bayyə
 ʾatə
 mara
@@ -212584,7 +212584,7 @@ babi
 ʾadi
 ⁺dan
 tetula
-mu ⁺bayyət
+⁺bayyət mu
 ⁺k̭aṱəlli
 riši
 parəmlə
@@ -212595,15 +212595,15 @@ hal k̭a cullə
 ⁺ʾatra
 cullə k̭at
 nək̭və
-ʾo t ʾətlə
+t ʾətlə ʾo
 jullə
 šap̂irə
 šak̭əllun
-lətlə da t ʾo
+t ʾo da lətlə
 zavən
 tavəryatu
 zabənnun
-cut ʾətlə
+ʾətlə cut
 zabənnə
 šak̭əl
 ʾaxči
@@ -212637,7 +212637,7 @@ loši
 lvəšta
 šap̂ərta
 ⁺danət
-da malca
+malca da
 k̭arbunəla
 ʾadiyya
 ʾannə
@@ -212645,7 +212645,7 @@ nək̭və
 cullə
 ⁺hazər
 vayəna
-mən yal surə
+mən surə yal
 nək̭və
 hal
 ⁺ɟurə
@@ -212655,7 +212655,7 @@ malca
 mara
 bet ʾo babux
 ⁺šayyənnə
-mu ʾa
+ʾa mu
 vidələ
 la
 ʾadiyya
@@ -212677,7 +212677,7 @@ baxtatə
 dul
 ʾurzə
 ⁺k̭ṱile
-ʾu ʾadi
+ʾadi ʾu
 ɟu ⁺mṱeti
 k̭ay da
 ⁺k̭aṱəl p̂
@@ -212702,7 +212702,7 @@ xa baba
 b šənnələ
 viyyəva
 vazzər
-diyyux bab k̭a
+k̭a bab diyyux
 ⁺ʾavun
 ⁺ṱlibəl
 mənnux
@@ -212712,12 +212712,12 @@ dak̭ik̭ə
 mənnux
 hamzəm
 ʾita
-ʾe maxət ⁺dan
+maxət ⁺dan ʾe
 rišət
 cullə
 mxilə
 mərrə
-melə xuš
+xuš melə
 cəsli
 bəšk̭aləna
 biyya
@@ -212728,7 +212728,7 @@ vazzər
 labuluna
 cəs malca
 mara
-mu ʾətlux
+ʾətlux mu
 tanət
 k̭ati
 mərrə
@@ -212742,10 +212742,10 @@ babət
 diyyux
 vazzirət
 babət
-diyyux inva
+inva diyyux
 sepi
 maxənvala
-cipa ⁺ʾal
+⁺ʾal cipa
 ⁺č̭ambərrənvalə
 ʾana
 ʾatxa
@@ -212771,7 +212771,7 @@ mara
 hamzəm
 mara
 ʾana
-beti ɟu
+ɟu beti
 tivənva
 ⁺dantət ʾe
 ʾinva
@@ -212785,7 +212785,7 @@ mxilun
 ʾaxči
 ⁺šmili
 mara
-jaldə ta
+ta jaldə
 ʾətli
 əhtiyɑj
 ⁺ʾallux
@@ -212799,10 +212799,10 @@ mara
 tulək̭lə
 ⁺dərri
 tili
-yuma ʾo
+ʾo yuma
 xina
 mədrə
-məndi ʾo
+ʾo məndi
 vilə
 ⁺tuk̭tək̭lə
 ⁺tarra
@@ -212822,7 +212822,7 @@ mara
 julli
 lvišeli
 təvli
-suysə ⁺ʾal
+⁺ʾal suysə
 ⁺hazər
 sepi da
 idi p̂
@@ -212831,17 +212831,17 @@ idi p̂
 cribənva
 mərri
 ʾadi
-⁺k̭aṱlənnə bət
+bət ⁺k̭aṱlənnə
 sabab
-ʾa sepət
+sepət ʾa
 diyyi
 ʾicət
 maxənva
-odənvalə c
+c odənvalə
 tre
 lətvali
 ⁺zduta
-həč mən
+mən həč
 naša
 mara
 tivənva
@@ -212914,13 +212914,13 @@ sək̭lə
 mən səmmalta
 səmmalta
 ⁺bəddayət
-mu ila
+ila mu
 səmmalta
 he
 səmmalta
 sək̭lə
 ⁺ʾullul
-⁺ṱuyra ⁺ʾal
+⁺ʾal ⁺ṱuyra
 mara
 xzili
 k̭alət
@@ -212933,7 +212933,7 @@ xzili
 ⁺slilə
 tilə
 təvlə
-suysə ⁺ʾal
+⁺ʾal suysə
 k̭ama
 k̭am diyyi
 ⁺mṱilan
@@ -212942,7 +212942,7 @@ k̭ati
 mərrə
 ʾatən
 k̭a diyyi
-bət ⁺k̭aṱlət
+⁺k̭aṱlət bət
 mara
 ʾiman
 šk̭əllə
@@ -212981,7 +212981,7 @@ dərranɟ
 ⁺mṱili
 rišət
 ⁺ɟoro
-xpak̭ova ɟu
+ɟu xpak̭ova
 k̭ati
 mərra
 ɟarə
@@ -212989,7 +212989,7 @@ mərra
 k̭ati
 mattət
 laxxa
-⁺k̭ora ɟu
+ɟu ⁺k̭ora
 cəs ⁺ɟori
 ⁺ṱamrətli
 ʾita
@@ -212997,10 +212997,10 @@ cəs ⁺ɟori
 mara
 mərri
 ʾana
-⁺msən la
+la ⁺msən
 ⁺šula ʾa
 ʾodənnə
-⁺msən la
+la ⁺msən
 ⁺šula ʾa
 ʾodənnə
 mara
@@ -213026,11 +213026,11 @@ muttila
 ⁺sadro ɟu
 ɟano
 ⁺ruppala
-sepa ⁺ʾal
+⁺ʾal sepa
 prək̭la ʾu
 ʾana
 ⁺ṱumrali
-ʾe baxta
+baxta ʾe
 sepi ʾu
 mxili
 b cullə
@@ -213045,7 +213045,7 @@ mən ʾurza
 buš xelantəla
 ʾadiyya
 ʾana
-⁺xabri ʾa
+ʾa ⁺xabri
 k̭ax
 tanuyun
 ʾadiyya
@@ -213061,7 +213061,7 @@ mu
 k̭əmlə
 malca
 nšək̭lə
-k̭əssu ɟu
+ɟu k̭əssu
 mərrə
 ʾana
 ⁺puxlən
@@ -213079,11 +213079,11 @@ k̭at
 ʾatən da
 ⁺šəmyalux
 xa yuma
-dana xa
+xa dana
 ⁺malla
 xa ⁺malla
 ʾətva
-mata ɟu
+ɟu mata
 tivəva
 našə
 ⁺raba
@@ -213106,7 +213106,7 @@ b noše
 ʾurzə
 vilun
 mara
-ʾo məndit
+məndit ʾo
 baxta
 nək̭va
 ʾodalə
@@ -213119,9 +213119,9 @@ callə
 xa ʾaxča
 xelanə
 cutanə
-ʾan ət
+ət ʾan
 ⁺ʾarra
-parmila ci
+ci parmila
 cutan
 ⁺bəddayot
 hi
@@ -213129,11 +213129,11 @@ le
 ʾodilə
 nək̭va
 buš xelantəla
-məndi cul m
-dan ⁺ʾe
-⁺bayya ʾoda
+m cul məndi
+⁺ʾe dan
+ʾoda ⁺bayya
 xa məndi
-ʾa ⁺malla
+⁺malla ʾa
 beta ɟu
 ⁺xila
 šətya
@@ -213151,8 +213151,8 @@ baxta
 ʾila
 zayife
 zayife
-ci ⁺k̭ari
-k̭a baxta
+⁺k̭ari ci
+baxta k̭a
 ⁺yanə
 ⁺basurtəla
 baxta
@@ -213160,14 +213160,14 @@ mudila
 k̭at
 xa məndi
 ʾoda
-naša k̭a
+k̭a naša
 mara
 la
-ʾo məndit
+məndit ʾo
 baxta
 ʾodalə
 naša
-ʾavədlə le
+le ʾavədlə
 ʾa
 ⁺malla
 honu
@@ -213179,10 +213179,10 @@ xinə
 bitayələ
 beta
 bək̭yatəl
-b baxtu
+baxtu b
 mara
 ʾatən
-xa baxta
+baxta xa
 mu ⁺ʾamsat
 k̭ati
 ʾodat
@@ -213192,11 +213192,11 @@ mu
 p̂ṱ odannux
 mara
 marəna k̭at
-ʾa məndit
+məndit ʾa
 baxta
 ʾodalə
 həč naša
-ʾavədlə le
+le ʾavədlə
 callə
 cutanə
 le ʾodilə
@@ -213206,11 +213206,11 @@ mudivat
 ɟanax
 mudivat
 k̭ay
-mu odat p̂ṱ
+p̂ṱ odat mu
 masalan
-⁺bayyat ʾən
+ʾən ⁺bayyat
 ʾodat
-mu odat p̂ṱ
+p̂ṱ odat mu
 mara
 naša
 ʾoyan
@@ -213245,29 +213245,29 @@ mxayo
 k̭u
 vud
 xazzən
-mu odat p̂ṱ
+p̂ṱ odat mu
 mara
 ʾalaha
 ⁺malla
 honu
 yuvvulə
-ida m
+m ida
 mara
-cma t
+t cma
 ʾətlax
 lətlax
 hone
 yavvilə
-ida m
+m ida
 ʾana
 k̭am
 yavvənnə
 honi
-ida m
+m ida
 k̭u
 ⁺bayyən
 xazzən
-mu odat p̂ṱ
+p̂ṱ odat mu
 mara
 ⁺bayyət
 ʾatxa har
@@ -213279,7 +213279,7 @@ xazzən
 mu ⁺bayyat
 ʾodat
 ⁺malla
-azəlva c
+c azəlva
 ptana
 ʾavədva
 ptana
@@ -213288,14 +213288,14 @@ dəšta ɟu
 ptana
 ʾavədva
 bi
-danə tre
+tre danə
 torə
 ʾayya
 baxta
 xəšla
 ⁺bazar mən
 zvənna
-danə tre
+tre danə
 nuynə
 ⁺raba
 ⁺ɟurə
@@ -213307,11 +213307,11 @@ muttela
 duca ʾe
 ⁺malla k̭at
 ptana
-avədva ṱ
+ṱ avədva
 ⁺malla
 moriša
 bərrəxšələ
-xa jarɟa
+jarɟa xa
 bərrəxšələ
 jarɟət
 tre d
@@ -213319,7 +213319,7 @@ jarɟət
 ⁺ṱla
 jarɟət
 ⁺ʾarp̂a
-b xa
+xa b
 bəxzayələ
 ʾoy
 nuynə
@@ -213332,35 +213332,35 @@ bəšk̭alelə
 ʾupre
 tammuzelə
 mattuyəl
-marza ⁺ʾal
+⁺ʾal marza
 baxta
 labuləla
 ⁺cavətra
 k̭atu
-xak̭la ⁺ʾal
+⁺ʾal xak̭la
 sabab
 baxtay
-bašliva ci
+ci bašliva
 laxma
 ⁺cavətra
-labliva ci
+ci labliva
 k̭a ʾurzan
-ina ṱ
+ṱ ina
 pəlxana
-vaddar ⁺ʾal
+⁺ʾal vaddar
 ʾətvala
-sura yala
-da sura yala
+yala sura
+yala da sura
 ⁺ṱenavalə
-⁺xaso ⁺ʾal
+⁺ʾal ⁺xaso
 lablavalə
 ɟari
 šak̭lava
-b ʾido da
+da b ʾido
 b ʾido de
 ʾu yala
 sura
-⁺xaso ⁺ʾal
+⁺ʾal ⁺xaso
 lablava
 laxma
 k̭a ⁺ɟoro
@@ -213371,15 +213371,15 @@ laxma
 ⁺malla
 mərrə
 ⁺bəddayət
-mu ila
+ila mu
 mərra
 la
 mərrə
-danə tre
+tre danə
 nuynə
 ptana
 vadənva
-nuynə tre
+tre nuynə
 ⁺pləṱlun
 ʾupra ɟu
 ʾannəna
@@ -213393,7 +213393,7 @@ k̭alyattun
 ʾana
 ⁺berašə
 ṱ atən
-⁺axlənnun ṱ
+ṱ ⁺axlənnun
 bəšk̭alela
 nuynə
 ɟəxcəla
@@ -213402,7 +213402,7 @@ bitayələ
 ⁺malla
 šuršiyya
 jiyya
-yuma cullə
+cullə yuma
 šima
 viyəl
 ⁺bəṱraya
@@ -213424,7 +213424,7 @@ xa
 ⁺davvə
 ⁺davvə
 masta
-⁺ṱarpila ci
+ci ⁺ṱarpila
 c odila
 ⁺xalva
 ⁺k̭arila
@@ -213467,7 +213467,7 @@ vada
 ɟu
 xak̭la
 nuynə
-narəna ɟu
+ɟu narəna
 mərrə
 baxta
 ʾavən
@@ -213495,11 +213495,11 @@ b alaha
 ⁺malla
 honu
 yuvvulə
-ida m
+m ida
 k̭əmlə
-k̭a da baxta
-maxə k̭at
-ʾa baxta
+baxta k̭a da
+k̭at maxə
+baxta ʾa
 k̭əmla
 bərrak̭a
 ɟu našə
@@ -213514,9 +213514,9 @@ baxtay
 ⁺pləṱlun
 cullə
 ⁺yaṱṱiva
-k̭a ⁺ʾuydalə xina
-mu ilə
-mu ilə
+⁺ʾuydalə k̭a xina
+ilə mu
+ilə mu
 mərra
 ⁺malla
 šuddənnələ
@@ -213525,16 +213525,16 @@ mərra
 ⁺malla
 ʾavən
 ⁺xlapux
-mu ilə
+ilə mu
 viyya
 k̭am
 k̭a da baxtux
 mxayət
 ʾayya
-calba ⁺bər
-calba ⁺bər
+⁺bər calba
+⁺bər calba
 ʾayya
-calba ⁺bər
+⁺bər calba
 ʾana
 muyyən
 k̭ato
@@ -213577,24 +213577,24 @@ malla ⁺ʾal
 ʾa
 dulə
 šuddənna
-ʾo ⁺malla
+⁺malla ʾo
 ʾat
 šuddənnux
 honux
 yuvvut
-ida m
+m ida
 ɟu xak̭la
 ʾupra ɟu
 nuyna
-ʾoya le ci
+le ci ʾoya
 ʾay
 havar
 mxayələ
-rišu ɟu
+ɟu rišu
 mara
 ʾay
 havar
-idət m
+m idət
 baxta
 duz
 maretunva
@@ -213606,7 +213606,7 @@ xa taxana
 taxana
 ⁺xəṱṱə
 k̭amxa
-avədlun c
+c avədlun
 ʾərxə
 ʾətlə
 ⁺ʾərxə
@@ -213616,24 +213616,24 @@ mxayəl
 baxtu
 ⁺tarra
 ptaxula
-da baxtu
+baxtu da
 ⁺bəddayəla
 ʾo
 mara
 ʾana
 le ⁺ʾorən
-b e ducta
+b ducta e
 ila ṱ
 baxta
 ʾana
 le ⁺ʾorən
 mara
-⁺vur k̭u ta
+k̭u ta ⁺vur
 ⁺vərrux
 ⁺vərrux
 la
 ⁺vərrux
-har ʾadi
+ʾadi har
 ⁺havar
 daryan
 ʾat k̭at
@@ -213674,7 +213674,7 @@ xəšlə
 ʾidu
 ⁺šulə
 ⁺xalləl
-ʾe baxtət
+baxtət ʾe
 taxana
 mərra
 k̭a
@@ -213692,7 +213692,7 @@ ductət
 diyyux da
 daryanna
 ⁺tamma
-b ʾak̭li
+ʾak̭li b
 vədli k̭at
 k̭emət
 ʾatət
@@ -213701,10 +213701,10 @@ la ʾən
 č̭ar
 č̭ərran
 taxana
-b k̭am
-⁺k̭aṱəllux bət
+k̭am b
+bət ⁺k̭aṱəllux
 tanyan
-k̭imətva k̭at
+k̭at k̭imətva
 ʾal ɟani
 ⁺malla
 ʾuxča
@@ -213715,10 +213715,10 @@ mən ɟu
 pəlli
 ɟu k̭unya
 pəlli
-xa nuyra ɟu
+xa ɟu nuyra
 xina
 ʾa
-mut ⁺k̭əṱma
+⁺k̭əṱma mut
 tilə
 b riši
 k̭am
@@ -213734,18 +213734,18 @@ nixa
 ⁺malla k̭at
 k̭am
 ⁺malla
-k̭yamtu ɟu
+ɟu k̭yamtu
 ducto
 šaxlupola
 ducto
 šaxlupola
 ⁺ɟoro
 pyašələ
-ɟu ʾidət ⁺ʾal
+ɟu ⁺ʾal ʾidət
 ⁺malla
 taxana
 bəxzayələ
-ʾaha k̭at
+k̭at ʾaha
 k̭imələ
 ɟanu ⁺ʾal
 ⁺maxleta
@@ -213762,10 +213762,10 @@ xəšcəl
 tapi
 ⁺šra
 xazzən
-calba ʾa ⁺bər
+⁺bər calba ʾa
 k̭am
 k̭imələ
-ɟan diyyi ⁺ʾal
+ɟan ⁺ʾal diyyi
 baxta
 marəla
 ʾana
@@ -213780,11 +213780,11 @@ idət p̂
 diyyi
 ʾat
 xuš
-mən cəs švavə
+cəs mən švavə
 ⁺šra me
 taxana
 bərrəxšələ
-cəs švavə m
+m cəs švavə
 mayyə
 ⁺šra
 baxta
@@ -213793,14 +213793,14 @@ mara
 dmux xuš
 bərrəxšəla
 mən ʾəltəx
-mən paɟa ɟu
+mən ɟu paɟa
 mayəla
 šarxa xa
 mayula
 ⁺ʾullul
 bədvak̭ula
 ⁺šra
-tapetu ɟu
+ɟu tapetu
 bəxzayələ
 ʾina
 ʾarxa
@@ -213825,21 +213825,21 @@ lipəl
 ⁺ʾallux
 tiyyəl
 ilə bəlcaxux
-lə bəlcaxux
+bəlcaxux lə
 ʾat
 xšivət
 ⁺ʾavva
 k̭iməl
-ɟanux ⁺ʾal
+⁺ʾal ɟanux
 mara
 mattil xuš
 šopu
 ʾana
 bərrəxšən
-har ʾadiyya
-⁺bayyena le
+ʾadiyya har
+le ⁺bayyena
 bənxapən
-ʾarxət ʾa k̭at
+k̭at ʾa ʾarxət
 diyyi
 k̭am
 ʾana
@@ -213853,10 +213853,10 @@ balcət
 ʾana
 bərrəxšən
 ʾat
-⁺yaṱṱat ci
+ci ⁺yaṱṱat
 mujjur
 daryatlə
-ʾurxa ʾal
+ʾal ʾurxa
 taxana
 bərrəxšələ
 ʾaha
@@ -213880,7 +213880,7 @@ nuynə
 mattalun
 k̭amaytux
 bərrəxšələ
-k̭a baxta
+baxta k̭a
 mara
 ⁺maxleta
 la
@@ -213898,7 +213898,7 @@ baxta
 həč məndila
 ʾina
 baxta
-ɟano k̭a
+k̭a ɟano
 našəla
 hona
 ʾətla

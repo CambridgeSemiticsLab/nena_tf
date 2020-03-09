@@ -12,5 +12,5 @@
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T17:18:41Z
+@dateWritten=2020-03-09T22:02:38Z
 

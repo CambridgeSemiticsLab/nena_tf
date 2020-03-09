@@ -8,7 +8,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T17:18:36Z
+@dateWritten=2020-03-09T22:02:33Z
 
 577912	xa, xaʾa
 ga
@@ -28976,33 +28976,33 @@ məndi, mdi
 739771	ga xa, xaʾa
 xeta, xreta
 739776	mo, mu, modi, maw, mawdi
-739778	bɛθa gu-
-739780	w, ʾu- zala har
-739782	w, ʾu- zala
+739778	gu- bɛθa
+739780	zala w, ʾu- har
+739782	zala w, ʾu-
 739784	mara
 ʾalaha ya
 739787	ʾəmma
 dawa
-hawa ʾən
+ʾən hawa
 ʾəč̣č̣i
 ʾəč̣č̣a
-739793	w, ʾu- hawa ʾən
-ʾəmma w, ʾu- ži xa, xaʾa
+739793	ʾən w, ʾu- hawa
+xa, xaʾa ʾəmma w, ʾu- ži
 la
 də-, de-
 ʾəmma
 739799	hawa
 drəst
 b-
-739803	w, ʾu- zala
+739803	zala w, ʾu-
 739806	šwawa xa, xaʾa
 huðaya
 739813	ʾawwa
-739818	gare l-
+739818	l- gare
 739820	ʾəč̣č̣i
 ʾəč̣č̣a
 dawa
-gu- kista xa, xaʾa
+gu- xa, xaʾa kista
 739825	b-
 ʾay, ʾey, ʾɛ, ʾa
 baxta
@@ -29033,14 +29033,14 @@ kista
 739864	max xa, xaʾa
 ha
 739868	huðaya
-gare l-
-739871	l- palga
+l- gare
+739871	palga l-
 yaba
 739875	ʾay
 kalba
 739878	tama
-gare l-
-739883	ʾap, ʾup ʾanna
+l- gare
+739883	ʾanna ʾap, ʾup
 739886	təmməl
 ṱ
 qazi
@@ -29053,26 +29053,26 @@ dawa
 739898	qedamta hal, ha-
 739900	la
 har
-w, ʾu- zala
+zala w, ʾu-
 739904	malla
 739906	reša
 dmixa
 ṭliya
 739910	basima
-w, ʾu- dawa
-xo, xoθ- reša
+dawa w, ʾu-
+reša xo, xoθ-
 saʾət, saʾta, saʾatta, saʾa
 ʾəšta
 mbadla
 739917	huðaya
 739920	l- ṭɛra, ṭara
-w, ʾu- qare
+qare w, ʾu-
 l-
 739924	qəṣṣət, qəṣṣətta
 739927	malla
 ʾina
 huðaya
-739931	w, ʾu- kašxa
+739931	kašxa w, ʾu-
 739933	xaθa
 w, ʾu-
 739936	w, ʾu-
@@ -29094,15 +29094,15 @@ mo, mu, modi, maw, mawdi ṭla-, ta-
 naša
 739965	ʾanna
 739967	hatxa, ʾatxa
-w, ʾu- kašxa
+kašxa w, ʾu-
 ʾayya
-739971	w, ʾu- sarga, sɛrga
+739971	sarga, sɛrga w, ʾu-
 w, ʾu-
 b-
-w, ʾu- dašdaše
+dašdaše w, ʾu-
 b-
 w, ʾu-
-w, ʾu- šəxtana
+šəxtana w, ʾu-
 šarṭ, šărəṭ
 qazi
 t
@@ -29114,10 +29114,10 @@ t
 739993	w, ʾu-
 ṱ
 ʾana
-l- xaṣa
+xaṣa l-
 w, ʾu- ʾati
 739999	w, ʾu- ṱ
-ham ʾən
+ʾən ham
 740002	ʾayya ʾap, ʾup
 740005	ʾaw
 740007	malla
@@ -29131,7 +29131,7 @@ w, ʾu-
 w, ʾu-
 qazi
 740020	qazi
-740022	qazi šarṭ, šărəṭ
+740022	šarṭ, šărəṭ qazi
 740024	qəṣṣət, qəṣṣətta
 malla
 740027	qazi
@@ -29141,29 +29141,29 @@ basima
 kəma
 dana
 ṱ
-ṭla-, ta- marya
+marya ṭla-, ta-
 ʾalaha
 t ta
 ʾəmma
 dawa
-w, ʾu- ʾawwa
+ʾawwa w, ʾu-
 huðaya
-740045	gare l-
-w, ʾu- ʾalaha
-šuxa l- šəmme
+740045	l- gare
+ʾalaha w, ʾu-
+šəmme l- šuxa
 qəm-
 ʾəč̣č̣i
 ʾəč̣č̣a
 dawa
-ʾana w, ʾu-
+w, ʾu- ʾana
 740054	baxta
 ʾap, ʾup
 ʾayya kista
 ʾalaha
 740059	mən, m- xa, xaʾa dawa
-w, ʾu- ʾawwa ži
+ʾawwa w, ʾu- ži
 huðaya
-gare l-
+l- gare
 ʾəlla
 ʾanna
 dawa
@@ -29191,12 +29191,12 @@ xmarta
 740095	w, ʾu-
 740097	ʾana
 tiwa
-l- xaṣa
+xaṣa l-
 huðaya
 740103	ʾina
 740105	qazi
 740108	kalba
-kalba brət, bərt
+brət, bərt kalba
 huðaya
 740113	šarṭ, šărəṭ
 ṱ
@@ -29204,11 +29204,11 @@ xeta, xreta xa, xaʾa
 šəmma
 740118	ʾawwa
 740120	xaye
-gu- xa, xaʾa maθa
+gu- maθa xa, xaʾa
 gu- maθa
 ṱ
 740125	gu-
-740128	kul, ku, kulla məndi, mdi
+740128	məndi, mdi kul, ku, kulla
 740131	šəmme
 740134	maθa
 740137	ʾawwa
@@ -29233,9 +29233,9 @@ w, ʾu-
 740178	šəmma xa, xaʾa
 xaθa
 w, ʾu-
-w, ʾu- ʾawwa ži
+ʾawwa w, ʾu- ži
 740184	tawra
-740187	w, ʾu- kul, ku, kulla məndi, mdi
+740187	məndi, mdi kul, ku, kulla w, ʾu-
 w, ʾu-
 štɛθa
 w, ʾu-
@@ -29245,12 +29245,12 @@ goṛa
 740198	ta
 740202	šəmma xa, xaʾa
 xena, xrena
-ži ʾanna
+ʾanna ži
 740206	w, ʾu-
 740208	w, ʾu-
 740210	hal, ha-
 saʾət, saʾta, saʾatta, saʾa xa, xaʾa
-saʾət, saʾta, saʾatta, saʾa tre, treʾe
+tre, treʾe saʾət, saʾta, saʾatta, saʾa
 bar
 lɛle
 740217	kut
@@ -29267,25 +29267,25 @@ w, ʾu- har
 740243	kul, ku, kulla
 740247	har
 740251	yoma
-740253	gare l-
+740253	l- gare
 740258	məndi, mdi xa, xaʾa
 gu-
 740262	gu-
 740265	maθa
 kul, ku, kulla
-šula ʾaw, ʾo
+ʾaw, ʾo šula
 740269	ʾaw
 tama
 yarxa, yɛrxa xa, xaʾa
 tre, treʾe
 740275	kul, ku, kulla
 ʾanna
-740279	gu- ṭena, ṭana xa, xaʾa
+740279	ṭena, ṭana gu- xa, xaʾa
 w, ʾu-
 740284	ʾarxa
 t xa, xaʾa
 ʾarabaya
-bariyya, bɛriyya gu- xa, xaʾa
+gu- xa, xaʾa bariyya, bɛriyya
 740289	ṭena, ṭana
 740292	k̭wina
 740294	ʾarabaya
@@ -29295,21 +29295,21 @@ w, ʾu-
 zamara
 rešaya
 740302	b- lɛle
-740305	rēš-, rəš-, rš-, š- ṭena, ṭana
-740307	w, ʾu- xmara
+740305	ṭena, ṭana rēš-, rəš-, rš-, š-
+740307	xmara w, ʾu-
 l-
 ʾarabaya
 740311	qala
 740314	ʾawwa
 740317	yaba
 ʾayya
-ṱ dax, daxi
+dax, daxi ṱ
 ʾana
 740324	hənna
 w, ʾu- naša
 la
 l-
-w, ʾu- hawa la
+la w, ʾu- hawa
 740331	hawa
 rəḥqa
 dax, daxi
@@ -29319,13 +29319,13 @@ naša
 740338	ṱ
 740340	hatxa, ʾatxa
 l-
-bariyya, bɛriyya gu-
-w, ʾu- tiwa
+gu- bariyya, bɛriyya
+tiwa w, ʾu-
 w, ʾu-
 740353	ʾani, ʾan
 740356	ʾaw, ʾo
 tiwa
-rēš-, rəš-, rš-, š- ṭena, ṭana
+ṭena, ṭana rēš-, rəš-, rš-, š-
 740360	w, ʾu-
 b-
 šlama
@@ -29352,7 +29352,7 @@ mo, mu, modi, maw, mawdi ṱ
 ʾaxči
 ʾən
 740409	ʾawwa
-740413	ču məndi, mdi t ta
+740413	t ta məndi, mdi ču
 la
 740417	sab, săbab, m-săbab
 raba
@@ -29361,15 +29361,15 @@ məndi, mdi
 740425	ṭla-, ta-
 740428	yaba
 ʾən
-ži dawa
+dawa ži
 ʾaxni
 t
 b- ṭḷaθa, ṭḷa xa, xaʾa
 740437	ʾawwa
-740442	mbadla hal, ha-
-mbadla gu-
-740446	l- ṭena, ṭana
-740450	reša gu-
+740442	hal, ha- mbadla
+gu- mbadla
+740446	ṭena, ṭana l-
+740450	gu- reša
 draya
 hawar, hawər
 hawar, hawər
@@ -29411,7 +29411,7 @@ la
 740529	gu- maθa
 740534	ʾanna
 ma
-740538	b- ṭena, ṭana xa, xaʾa
+740538	b- xa, xaʾa ṭena, ṭana
 ʾəxre
 740541	b- ṭḷaθa, ṭḷa
 dawa
@@ -29428,7 +29428,7 @@ mara
 hatxa, ʾatxa
 740559	naša
 740563	gu- maθa
-kut xa, xaʾa
+xa, xaʾa kut
 740566	ġðaðe
 w, ʾu- ʾəxre
 740569	hadiya, diya, hadayya
@@ -29450,7 +29450,7 @@ ma
 740603	ʾayya
 bena
 ṱ
-740614	ṱ dax, daxi
+740614	dax, daxi ṱ
 740617	hadəx
 w, ʾu-
 740623	gu- maθa
@@ -29506,9 +29506,9 @@ hatxa, ʾatxa
 740718	daṛmana
 740720	xakma, xamka
 740722	naša
-mo, mu, modi, maw, mawdi ta
+ta mo, mu, modi, maw, mawdi
 740726	xoš ṱ
-740729	ham ʾən
+740729	ʾən ham
 740731	hatxa, ʾatxa
 ʾap, ʾup
 ʾap, ʾup
@@ -29518,7 +29518,7 @@ tawra
 740742	xaṣa
 740744	xakma, xamka w, ʾu-
 740748	ʾaṣərta
-saʾət, saʾta, saʾatta, saʾa gu-
+gu- saʾət, saʾta, saʾatta, saʾa
 ʾəšta
 ʾaṣərta
 šawwa
@@ -29549,11 +29549,11 @@ biš
 tama
 740801	mən, m-
 p̭azesor
-ʾeliθa b-
+b- ʾeliθa
 hatxa, ʾatxa
 b- qana
 ʾina
-duka ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa duka
 laṭṭa
 qəm-
 tama
@@ -29570,7 +29570,7 @@ t
 740832	maθa
 tama
 xa, xaʾa
-bar xena, xrena
+xena, xrena bar
 740837	xa, xaʾa
 740840	ʾana
 740842	duka xa, xaʾa
@@ -29579,7 +29579,7 @@ koč̭a, qoč̭a
 sab, săbab, m-săbab
 740850	mara
 la
-mən, m- qana t
+mən, m- t qana
 740854	mən, m- koč̭a, qoč̭a
 740856	kɛla
 ṱoṱo
@@ -29596,7 +29596,7 @@ mara
 740895	maθa
 740897	w, ʾu-
 740900	w, ʾu-
-la də-, de-
+də-, de- la
 740904	tre, treʾe
 malka
 740907	xa, xaʾa
@@ -29612,12 +29612,12 @@ gu-
 740922	mo, mu, modi, maw, mawdi
 740925	maləkθa
 malka
-740928	bɛθa mən, m-
+740928	mən, m- bɛθa
 740930	ḥafla xa, xaʾa
 kul, ku, kulla
 740933	tama
 maləkθa
-740936	kut xa, xaʾa
+740936	xa, xaʾa kut
 ṱ
 740942	diya
 ʾawwa
@@ -29656,14 +29656,14 @@ t
 741007	yoma ʾaw, ʾo
 xena, xrena
 741010	ḥafla
-741012	kut xa, xaʾa
+741012	xa, xaʾa kut
 ṱ
 741019	malka
 741021	ʾawwa
 məndi, mdi
 ʾanna
 741026	tiwa
-dukθa, duka xa, xaʾa
+xa, xaʾa dukθa, duka
 ʾawwa
 741030	ʾanna
 741038	ʾana
@@ -29680,7 +29680,7 @@ mur
 ʾana
 ṱ
 ṣɛda
-w, ʾu- b-
+b- w, ʾu-
 gota
 xeta, xreta
 741072	laxxa
@@ -29689,13 +29689,13 @@ dukθa, duka
 ṱ
 741077	gu-
 ṭarma
-741080	mo, mu, modi, maw, mawdi bara
+741080	bara mo, mu, modi, maw, mawdi
 741082	ṭḷaθa, ṭḷa
 741086	ga xa, xaʾa
 xeta, xreta
 t ʾaw, ʾo
 741090	xabra
-naša ṭla-, ta-
+ṭla-, ta- naša
 741093	mara
 ṱ
 ṣɛda
@@ -29703,11 +29703,11 @@ naša ṭla-, ta-
 741098	kul, ku, kulla
 zala
 ṣɛda
-gota mən, m-
+mən, m- gota
 xeta, xreta
 malka
 741109	w, ʾu-
-gu- palkon xa, xaʾa
+gu- xa, xaʾa palkon
 741113	ʾap, ʾup xa, xaʾa
 lɛle
 741116	sərr
@@ -29724,7 +29724,7 @@ xa, xaʾa
 koma
 741135	ʾay
 ʾawwa
-741141	la t
+741141	t la
 ʾana
 741144	be-
 741146	ʾayya
@@ -29735,22 +29735,22 @@ qəm-
 malka
 w, ʾu-
 741159	ʾani, ʾan
-w, ʾu- baxta
+baxta w, ʾu-
 kul, ku, kulla ʾani, ʾan
 qəm-
 741165	ṱ
 dunye
-741168	ʾiθ ʾən
+741168	ʾən ʾiθ
 naša
 biš
-741173	ʾən liθ
+741173	liθ ʾən
 biš
-741176	har ṱ
+741176	ṱ har
 mən, m- tama
 741179	l-
 741181	l-
 tama
-741184	xo, xoθ- xa, xaʾa
+741184	xa, xaʾa xo, xoθ-
 xurma
 741187	ṱ
 xa, xaʾa baxəra
@@ -29759,12 +29759,12 @@ məndi, mdi xa, xaʾa
 741192	ṱ
 mara
 bena xa, xaʾa
-741196	yama gu-
-yama gu-
-741199	xa, xaʾa tənna
-741201	šmayya gu-
+741196	gu- yama
+gu- yama
+741199	tənna xa, xaʾa
+741201	gu- šmayya
 741204	xa, xaʾa
-741206	yama gu-
+741206	gu- yama
 741208	xa, xaʾa sanduqa, ṣanduqa
 dwiqa
 hatxa, ʾatxa
@@ -29773,18 +29773,18 @@ rēš-, rəš-, rš-, š-
 ʾanna
 741219	rēš-, rəš-, rš-, š- ʾilana
 mən, m- zduθa
-741222	ʾaw, ʾo sanduqa, ṣanduqa
+741222	sanduqa, ṣanduqa ʾaw, ʾo
 mən, m-
 l-
 ʾaw
 741227	qəpla, qəfla šawwa
 741230	b- sanduqa, ṣanduqa
-741232	w, ʾu- xa, xaʾa
-w, ʾu- tre, treʾe
-w, ʾu- ṭḷaθa, ṭḷa
+741232	xa, xaʾa w, ʾu-
+tre, treʾe w, ʾu-
+ṭḷaθa, ṭḷa w, ʾu-
 ʾarba, ʾarpa
 bena xa, xaʾa
-741238	brata xa, xaʾa
+741238	xa, xaʾa brata
 ʾina
 mo, mu, modi, maw, mawdi brata
 741242	dunye
@@ -29792,7 +29792,7 @@ mo, mu, modi, maw, mawdi brata
 mara
 741248	də-, de-
 741250	mara
-brata ʾay
+ʾay brata
 741253	ʾaw, ʾo
 741257	har
 w, ʾu-
@@ -29800,12 +29800,12 @@ w, ʾu-
 741264	yama
 ʾaw
 reša
-nɛka rēš-, rəš-, rš-, š-
+rēš-, rəš-, rš-, š- nɛka
 diya
 ʾayya
 741271	hatxa, ʾatxa
-ʾilana gu-
-741274	naša ʾani, ʾan tre, treʾe
+gu- ʾilana
+741274	tre, treʾe ʾani, ʾan naša
 tama
 ʾawwa
 741278	ʾawwa
@@ -29814,11 +29814,11 @@ tama
 741288	la
 741290	hadiya, diya, hadayya
 741292	ʾawwa
-741295	ži ʾani, ʾan
+741295	ʾani, ʾan ži
 741298	mo, mu, modi, maw, mawdi
 741303	ʾisəqθa
 diya
-741306	zənjir xa, xaʾa
+741306	xa, xaʾa zənjir
 w, ʾu- ʾarba, ʾarpa
 xamši
 ʾisəqθa
@@ -29827,15 +29827,15 @@ zənjir
 ʾap, ʾup ʾani, ʾan
 741316	hatxa, ʾatxa
 741319	ʾaxxa
-l- tamma
+tamma l-
 741323	b-
 741327	ʾana
 741329	l-
 741331	ʾaw, ʾo
 741334	ʾawwa
-741337	w, ʾu- gu-
+741337	gu- w, ʾu-
 sanduqa, ṣanduqa
-w, ʾu- mən, m-
+mən, m- w, ʾu-
 741341	w, ʾu- ʾarba, ʾarpa
 xamši
 naša
@@ -29850,16 +29850,16 @@ xarθa
 ʾay
 741359	ʾaw
 741361	mo, mu, modi, maw, mawdi
-741364	šmayya gu-
+741364	gu- šmayya
 mara
 741367	hatxa, ʾatxa
 gu-
-741371	šmayya gu-
+741371	gu- šmayya
 741373	w, ʾu-
 741376	la
 ʾaxni har
 741379	xa, xaʾa
-ṭla-, ta- xena, xrena
+xena, xrena ṭla-, ta-
 mara
 741383	la
 ʾaxni har
@@ -29872,7 +29872,7 @@ gu-
 sanduqa, ṣanduqa
 qəpla, qəfla šawwa
 741399	diya
-ʾarba, ʾarpa naša
+naša ʾarba, ʾarpa
 741402	dmixa
 741404	ʾawwa
 biš
@@ -29883,7 +29883,7 @@ xeta, xreta
 l-
 741418	mən, m- biš
 goṛa
-741422	malka xa, xaʾa
+741422	xa, xaʾa malka
 malka ʾaw
 741425	brona xa, xaʾa
 741427	xa, xaʾa
@@ -29894,7 +29894,7 @@ malka
 741436	ṣɛda
 ʾana
 w, ʾu-
-ṭura gu-
+gu- ṭura
 ṱ
 741442	wala
 mən, m-
@@ -29903,9 +29903,9 @@ qəqwana
 ṭɛra, ṭara
 mo, mu, modi, maw, mawdi
 ʾap, ʾup
-741450	ṭura gu-
+741450	gu- ṭura
 mən, m-
-741454	ṭura gu-
+741454	gu- ṭura
 yoma xa, xaʾa
 yoma
 tre, treʾe
@@ -29933,7 +29933,7 @@ hawnana, honana
 ṱ
 741495	mara
 ʾawwa
-741499	yan, ya ʾay
+741499	ʾay yan, ya
 741502	ʾawwa
 741505	ʾawwa
 741509	baxta
@@ -29952,30 +29952,30 @@ la
 741535	ʾana
 741537	bar
 ṱ
-qa- t
+t qa-
 741543	ġðaðe
 741545	b-
-w, ʾu- hadəx
+hadəx w, ʾu-
 xubba gu-
 741549	xanči, xanča
 ṱ
 qalula
-qa- t
+t qa-
 xubba gu-
 741555	ʾay, ʾey, ʾɛ, ʾa
 ṱ
-741558	kut xa, xaʾa
+741558	xa, xaʾa kut
 gu-
 741561	ʾayya
 gu-
 baba
 diya
 ʾaw
-čadra gu-
+gu- čadra
 741568	ʾawwa
 məskena
 raba
-741572	w, ʾu- ʾay
+741572	ʾay w, ʾu-
 741574	yoma har
 741578	malka
 741582	julla
@@ -29997,7 +29997,7 @@ məndi, mdi xa, xaʾa
 741621	hal, ha-
 w, ʾu-
 hatxa, ʾatxa
-741625	dana gu-
+741625	gu- dana
 741628	balki
 gu-
 xəlma
@@ -30012,7 +30012,7 @@ xəlma
 ʾayya w, ʾu-
 yaləxta, yaləxθa
 ṱ
-741646	kul, ku, kulla məndi, mdi
+741646	məndi, mdi kul, ku, kulla
 diya
 ʾaw, ʾo
 hadiya, diya, hadayya
@@ -30037,7 +30037,7 @@ zala
 741687	baθər, bar
 baxta
 ta
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 b-
 741693	baxta ʾay
 ʾati
@@ -30049,7 +30049,7 @@ w, ʾu-
 w, ʾu-
 b-
 741708	mən, m- maθa
-l- maθa
+maθa l-
 mən, m- mðita
 l- mðita
 741713	ʾɛka
@@ -30057,7 +30057,7 @@ b-
 ʾaw, ʾo
 ṱ
 741718	malka
-bɛθa mən, m-
+mən, m- bɛθa
 yoma ʾaw, ʾo
 741724	yoma ʾaw, ʾo
 741728	ʾawwa
@@ -30069,15 +30069,15 @@ w, ʾu-
 w, ʾu-
 xulaṣa
 ʾalaha
-741738	mðita gu-
+741738	gu- mðita
 ṱ
 ʾay, ʾey, ʾɛ, ʾa brata
 malka
 741743	naša
 741747	malka
-kut xa, xaʾa
+xa, xaʾa kut
 741750	məndi, mdi xa, xaʾa
-kut xa, xaʾa
+xa, xaʾa kut
 mara
 məndi, mdi xa, xaʾa
 ʾawwa ži
@@ -30087,7 +30087,7 @@ məndi, mdi xa, xaʾa
 741766	ʾayya
 la
 741769	mara
-741771	malka xa, xaʾa
+741771	xa, xaʾa malka
 741773	ʾɛka
 w, ʾu-
 w, ʾu-
@@ -30097,17 +30097,17 @@ w, ʾu-
 ʾap, ʾup xa, xaʾa
 lɛle
 741785	ʾɛni
-741787	naša t
+741787	t naša
 t
 741795	ṱoṱo xa, xaʾa
 741797	xərša
 ʾay
 741800	w, ʾu-
-741802	w, ʾu- hal, ha- diya
-ču məndi, mdi
+741802	hal, ha- w, ʾu- diya
+məndi, mdi ču
 741809	he
 ʾaw
-čadra gu-
+gu- čadra
 741814	ṱoṱo
 741819	šlama
 741821	ʾati
@@ -30120,7 +30120,7 @@ diya
 741835	b- xubba
 741838	diya
 xa, xaʾa
-741841	malka w, ʾu- xa, xaʾa
+741841	xa, xaʾa w, ʾu- malka
 w, ʾu-
 tre, treʾe
 qedamta
@@ -30128,10 +30128,10 @@ qedamta
 741849	mən, m- yoma
 741854	məndi, mdi xa, xaʾa
 741856	qamaya
-kista xa, xaʾa
+xa, xaʾa kista
 dawa
 741860	ʾay
-741862	ṱ ta
+741862	ta ṱ
 šula
 he
 741867	hatxa, ʾatxa
@@ -30153,30 +30153,30 @@ xabuša
 yaləxta, yaləxθa
 741902	ʾəlla
 diya
-w, ʾu- mo, mu, modi, maw, mawdi ṱ
+mo, mu, modi, maw, mawdi w, ʾu- ṱ
 741906	ṱ
 ʾiman, ʾima
 ṱ
-xeta, xreta kista xa, xaʾa
+xeta, xreta xa, xaʾa kista
 max
 741913	dax, daxi
 xaṭər
-har diya
+diya har
 741917	ṱ
 741919	ʾay
 har
 741924	gu-
 ʾotəx, ʾotaxa
-741927	mən, m- rəḥqa ʾay
-741930	yaləxta, yaləxθa ʾay, ʾey, ʾɛ, ʾa
+741927	mən, m- ʾay rəḥqa
+741930	ʾay, ʾey, ʾɛ, ʾa yaləxta, yaləxθa
 hatxa, ʾatxa
-qam ʾɛna
+ʾɛna qam
 diya
 w, ʾu-
 w, ʾu-
 w, ʾu-
 w, ʾu-
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 ṱ
 ʾəlla
 741943	yaləxta, yaləxθa
@@ -30208,7 +30208,7 @@ mara
 741994	kɛla
 742000	diya
 742003	ʾana
-742005	ču məndi, mdi
+742005	məndi, mdi ču
 liθ
 742008	julla
 diya
@@ -30223,20 +30223,20 @@ hadiya, diya, hadayya
 742023	b-
 b-
 742027	mo, mu, modi, maw, mawdi ṱ
-w, ʾu- t ta
+t ta w, ʾu-
 mawʿəd
 742031	ʾamra
 mur
 ṭla-, ta-
 ṱ
-742036	w, ʾu- mən, m-
+742036	mən, m- w, ʾu-
 ṱ
 742041	ʾana
 742044	ṱoṱo
 742046	malka
 malka
 742050	ʾap, ʾup
-742052	kista xa, xaʾa
+742052	xa, xaʾa kista
 qa-
 742055	qa-
 har
@@ -30244,8 +30244,8 @@ har
 he
 742064	ṱoṱo
 mara
-742068	julla diya
-w, ʾu- diya
+742068	diya julla
+diya w, ʾu-
 ṱ
 742072	šula
 742074	malka
@@ -30273,13 +30273,13 @@ kul, ku, kulla
 hadiya, diya, hadayya
 mən, m-
 742126	w, ʾu-
-742129	w, ʾu- qa- t
-742131	ži brata
+742129	t qa- w, ʾu-
+742131	brata ži
 742134	mur
 ʾaxni
 742139	ʾaxni
 742147	w, ʾu-
-742149	w, ʾu- dawla
+742149	dawla w, ʾu-
 w, ʾu- zorna
 hosa
 w, ʾu-
@@ -30297,8 +30297,8 @@ də-, de-
 w, ʾu-
 742176	w, ʾu-
 742178	ġðaðe
-ʾana w, ʾu-
-742182	w, ʾu- ʾalaha
+w, ʾu- ʾana
+742182	ʾalaha w, ʾu-
 qəm-
 742185	diya
 ʾaxxa
@@ -30313,24 +30313,24 @@ max ṱ
 742201	ʾap, ʾup
 la ʾən
 742206	w, ʾu-
-742208	w, ʾu- brata
+742208	brata w, ʾu-
 742210	raba w, ʾu-
-gumla max
+max gumla
 t
 742216	max
 742219	baba
 742221	diya
 w, ʾu-
 w, ʾu-
-w, ʾu- mðita
+mðita w, ʾu-
 742226	ta
 hadiya, diya, hadayya
 742229	yoma xa, xaʾa
-yoma tre, treʾe
+tre, treʾe yoma
 ṭḷaθa, ṭḷa
 742236	ʾina
 742238	kul, ku, kulla
-742240	koma l-
+742240	l- koma
 bɛθa
 koma
 742244	naša
@@ -30342,8 +30342,8 @@ kul, ku, kulla
 742256	kul, ku, kulla
 742258	koma
 742261	ṱ
-l- mila
-742265	l- mila
+mila l-
+742265	mila l-
 ʾədlɛle
 742268	ʾaxxa
 ʾaw
@@ -30360,7 +30360,7 @@ l-
 ʾana
 742290	ʾay
 742292	ʾaw
-742295	mən, m- zaraya xa, xaʾa
+742295	mən, m- xa, xaʾa zaraya
 742298	ta
 ʾayya
 mðita
@@ -30368,11 +30368,11 @@ hatxa, ʾatxa
 ʾaw
 lɛle
 742308	mo, mu, modi, maw, mawdi
-742310	xa, xaʾa qəṣṣət, qəṣṣətta
+742310	qəṣṣət, qəṣṣətta xa, xaʾa
 raba
-742314	malka xa, xaʾa
+742314	xa, xaʾa malka
 hadəx
-naša xoš
+xoš naša
 hadəx
 spay
 naša
@@ -30380,19 +30380,19 @@ naša
 malka
 742325	mən, m-
 ṱ
-742330	brata xa, xaʾa
+742330	xa, xaʾa brata
 ta
 742333	ʾaw, ʾo
 ṱ
-742339	w, ʾu- ʾaxni ži
+742339	ʾaxni w, ʾu- ži
 742342	mən, m-
 742344	malka
 w, ʾu-
 742347	kul, ku, kulla
-w, ʾu- l- mila
-koma l-
+w, ʾu- mila l-
+l- koma
 mən, m-
-742352	ga w, ʾu- ʾay, ʾey, ʾɛ, ʾa
+742352	ʾay, ʾey, ʾɛ, ʾa ga w, ʾu-
 742354	t ta
 742357	qəṣṣət, qəṣṣətta
 742363	he
@@ -30405,14 +30405,14 @@ b- xašša
 w, ʾu-
 742380	b- dawla w, ʾu-
 w, ʾu- zorna
-w, ʾu- tope
+tope w, ʾu-
 742384	rasmi
 la
 ʾayya
 brata
 ṱ
 t
-qa- t
+t qa-
 ṭliba
 diya
 742394	miθa
@@ -30421,7 +30421,7 @@ mðita
 742400	mbadla
 jalda
 kul, ku, kulla
-qamaya ʾax
+ʾax qamaya
 742405	ʾawwa
 koma
 742408	hadiya, diya, hadayya
@@ -30431,14 +30431,14 @@ b- lɛle har
 kul, ku, kulla
 mðita
 742418	xwara
-qamaya max
+max qamaya
 w, ʾu-
 mbadla
 jalda
-742425	malka t
+742425	t malka
 xena, xrena
-ṱ ʾax
-742429	malka t
+ʾax ṱ
+742429	t malka
 b- w, ʾu-
 ʾayya
 742436	hatxa, ʾatxa
@@ -30460,7 +30460,7 @@ qam
 742463	ʾay
 742465	mara
 742470	lɛle
-742473	ʾana ʾap, ʾup
+742473	ʾap, ʾup ʾana
 ʾay
 balki
 742478	la
@@ -30470,18 +30470,18 @@ xətna
 t
 kalo, kʸalo, čalo
 xena, xrena
-742488	ṭabəq, ṭabaq gu-
+742488	gu- ṭabəq, ṭabaq
 t ṭḷaθa, ṭḷa
-gu- ʾotəx, ʾotaxa
+ʾotəx, ʾotaxa gu-
 diya
 742494	xulama
-gota l-
-w, ʾu- l-
+l- gota
+l- w, ʾu-
 ʾaw
 742504	l-
 w, ʾu-
 742507	hadiya, diya, hadayya
-w, ʾu- yoma xa, xaʾa
+yoma xa, xaʾa w, ʾu-
 tre, treʾe
 ṭḷaθa, ṭḷa
 742512	ʾayya
@@ -30489,14 +30489,14 @@ tre, treʾe
 742516	ṭliba
 742519	ʾap, ʾup xa, xaʾa
 742525	yarxa, yɛrxa xa, xaʾa
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 malka
 742529	ṭla-, ta-
 mo, mu, modi, maw, mawdi ṱ
 ʾayya
 baxta ʾay
-742536	yoma ʾay xa, xaʾa
-har t
+742536	ʾay yoma xa, xaʾa
+t har
 ṱ
 miθa
 742548	ʾay
@@ -30505,7 +30505,7 @@ b-
 742552	ṱ
 maləkθa
 b-
-ʾiman, ʾima ʾana t
+t ʾiman, ʾima ʾana
 742557	w, ʾu-
 742559	l-
 baba
@@ -30526,7 +30526,7 @@ xabra
 742598	yoma ʾaw, ʾo
 ṱ
 ʾana
-742604	qa- t
+742604	t qa-
 yoma ʾaw, ʾo
 742608	ʾay
 dax, daxi
@@ -30552,7 +30552,7 @@ də-, de-
 xarθa
 742655	la
 742657	ʾana
-742661	xa, xaʾa ʾotəx, ʾotaxa
+742661	ʾotəx, ʾotaxa xa, xaʾa
 rēš-, rəš-, rš-, š- qawra
 742664	kul, ku, kulla
 742666	b- xaye
@@ -30563,18 +30563,18 @@ hal, ha-
 742672	w, ʾu-
 742674	ʾaxxa
 tamma
-742678	ču məndi, mdi
+742678	məndi, mdi ču
 xena, xrena
-742684	xa, xaʾa ʾotəx, ʾotaxa
+742684	ʾotəx, ʾotaxa xa, xaʾa
 rēš-, rəš-, rš-, š-
 742688	w, ʾu-
 742692	w, ʾu-
 w, ʾu-
-w, ʾu- yoma xa, xaʾa
+yoma xa, xaʾa w, ʾu-
 tre, treʾe
-w, ʾu- yarxa, yɛrxa xa, xaʾa
+yarxa, yɛrxa xa, xaʾa w, ʾu-
 bena xa, xaʾa
-malaxa ʾani, ʾan tre, treʾe
+tre, treʾe malaxa ʾani, ʾan
 t
 742702	t
 742704	b- ġðaðe
@@ -30586,11 +30586,11 @@ mo, mu, modi, maw, mawdi
 742714	xena, xrena ʾaw, ʾo
 742716	la
 mo, mu, modi, maw, mawdi
-742720	xa, xaʾa ʾani, ʾan tre, treʾe
+742720	tre, treʾe xa, xaʾa ʾani, ʾan
 t
 ġðaðe
 he
-742725	w, ʾu- xaraye
+742725	xaraye w, ʾu-
 ṭliba
 diya
 qəm-
@@ -30602,8 +30602,8 @@ qəm-
 ṱ
 hal, ha- ʾaw, ʾo
 742743	ʾayya
-šeta ʾəšti
-742748	šeta ʾəšti
+ʾəšti šeta
+742748	ʾəšti šeta
 742750	ṱ
 rēš-, rəš-, rš-, š-
 742755	mo, mu, modi, maw, mawdi
@@ -30613,14 +30613,14 @@ razi
 742762	diya
 742764	palga
 ṭla-, ta-
-w, ʾu- palga
+palga w, ʾu-
 ṭla-, ta-
 742770	mən, m- ġðaðe
 ṭḷaθi
-w, ʾu- šeta
+šeta w, ʾu-
 742774	mən, m- ġðaðe
-w, ʾu- ʾən
-har ʾaxxa
+ʾən w, ʾu-
+ʾaxxa har
 t
 ʾəšti
 šeta
@@ -30634,27 +30634,27 @@ mən, m-
 742797	ʾawwa
 742800	miθa
 742803	ʾati
-šeta ʾəšti
+ʾəšti šeta
 742806	ʾaxxa
 b-
-šeta ʾəšti
+ʾəšti šeta
 ṱ
 ʾaxxa
 742813	rēš-, rəš-, rš-, š-
 742816	he
 la
-šeta ʾəšti
-ʾəmma šeta tre, treʾe
+ʾəšti šeta
+tre, treʾe šeta ʾəmma
 ʾaxxa
 ṱ
 742824	məndi, mdi xa, xaʾa
 742826	ṱ
-742828	šeta ʾəšti
+742828	ʾəšti šeta
 742830	ṱ
 742832	ʾaxxa
 742839	ʾati
 b-
-šeta ʾəšti
+ʾəšti šeta
 742843	ʾən
 742845	ṭḷaθi
 742847	ṭḷaθi
@@ -30684,14 +30684,14 @@ w, ʾu-
 hadəx
 w, ʾu-
 742891	ʾanna
-kut qedamta
+qedamta kut
 xadamta, xadəmθa, xaddamta, xaddamθa
 brata
 742896	čay
-w, ʾu- ṭamta
+ṭamta w, ʾu-
 w, ʾu-
 ʾanna
-ṱ ma
+ma ṱ
 xmila
 b- ġðaðe
 dmixa w, ʾu-
@@ -30699,7 +30699,7 @@ dmixa w, ʾu-
 ʾayya
 742912	hatxa, ʾatxa
 ʾina
-742915	šazada xa, xaʾa
+742915	xa, xaʾa šazada
 dmixa
 742918	diya
 742920	ʾayya
@@ -30710,7 +30710,7 @@ mən, m-
 mara
 742927	ʾotəx, ʾotaxa
 rēš-, rəš-, rš-, š-
-742930	kut t ta
+742930	t ta kut
 xa, xaʾa
 742933	diya
 742938	ʾamra
@@ -30720,10 +30720,10 @@ malka ṭla-, ta-
 742947	naša
 742949	ʾotəx, ʾotaxa
 tama
-qa- t
+t qa-
 742953	kut
 xa, xaʾa
-742956	šoramiṭa xa, xaʾa
+742956	xa, xaʾa šoramiṭa
 mən, m-
 l-
 dmixa
@@ -30742,7 +30742,7 @@ qaṭu, qaṭuθa
 742985	gu-
 panjana
 742988	ʾanna
-742990	ga ʾay, ʾey, ʾɛ, ʾa
+742990	ʾay, ʾey, ʾɛ, ʾa ga
 ṱ
 742993	ʾamra
 742997	xulamta
@@ -30762,7 +30762,7 @@ jalda
 743027	gu-
 bɛθa
 ʾaw
-w, ʾu- ʾay
+ʾay w, ʾu-
 743033	w, ʾu-
 743035	mən, m- tama
 rəḥqa
@@ -30776,7 +30776,7 @@ w, ʾu-
 743054	ġðaðe
 743056	xa, xaʾa
 xaðuθa, xaduθa
-ʾalma gu-
+gu- ʾalma
 məndi, mdi xa, xaʾa
 məʾajbana
 743062	hadəx
@@ -30784,14 +30784,14 @@ xəðya
 743066	b- dawla w, ʾu-
 zorna
 743069	tope
-w, ʾu- hadəx
+hadəx w, ʾu-
 743072	xlula
-šawwa yoma
+yoma šawwa
 w, ʾu- šawwa
 xlula
 qəm-
 hadəx
-mən, m- bar t
+mən, m- t bar
 ʾalaha
 qəm-
 brona xa, xaʾa
@@ -30805,28 +30805,28 @@ hadiya, diya, hadayya
 ʾaw, ʾo
 743095	baxta
 743097	l-
-743099	w, ʾu- gawṛa, gʸawṛa
+743099	gawṛa, gʸawṛa w, ʾu-
 tiwa
-gota l-
+l- gota
 ʾaw, ʾo yala
 zora
-743106	be- palga
+743106	palga be-
 ʾay
-743113	ṣadra gu-
+743113	gu- ṣadra
 diya
 w, ʾu-
 ṭla-, ta-
 743118	ʾap, ʾup
 743122	malaxa
-743125	l- kawe
-743128	l- kawe
+743125	kawe l-
+743128	kawe l-
 t ta
 743132	dana
 t ta
 743135	ʾaw, ʾo yala
 t ta
-743139	w, ʾu- hadəx
-743141	ʾani, ʾan xa, xaʾa
+743139	hadəx w, ʾu-
+743141	xa, xaʾa ʾani, ʾan
 743146	xakma, xamka
 mən, m- šəmra
 743149	gu-
@@ -30836,41 +30836,41 @@ pəθyo
 743154	ʾaw, ʾo yala
 zora
 743157	b- raxme
-ṱ ʾax
+ʾax ṱ
 mira
 zora ʾaw, ʾo
 b- raxme
 743163	b- raxme
 l-
 l-
-kut xa, xaʾa
+xa, xaʾa kut
 743168	xamši
 šeta
 743173	malaxa
 743176	tama
 w, ʾu-
 laxxa
-743180	malka xa, xaʾa
+743180	xa, xaʾa malka
 743182	ʾarba, ʾarpa
 brona
-ʾarba, ʾarpa ʾani, ʾan
+ʾani, ʾan ʾarba, ʾarpa
 brona
-xaθa xa, xaʾa
-743188	xaθa xa, xaʾa
+xa, xaʾa xaθa
+743188	xa, xaʾa xaθa
 743190	bahs, bas
-743192	xaθa xa, xaʾa
+743192	xa, xaʾa xaθa
 743194	qəm-
 xaθa
-743197	xaθa ʾay, ʾey, ʾɛ, ʾa
+743197	ʾay, ʾey, ʾɛ, ʾa xaθa
 743199	zora
-dargušta gu-
+gu- dargušta
 743204	diya
 w, ʾu-
 gu- maθa
 743208	brona xa, xaʾa
 743211	ʾap, ʾup xa, xaʾa
 743214	diya
-743217	malka qa-
+743217	qa- malka
 malka
 ṱ
 basima
@@ -30879,7 +30879,7 @@ mu, mut
 ʾanna
 ḥars mu, mut
 743229	ʾədlɛle
-dargušta gu-
+gu- dargušta
 dmixa
 dax, daxi
 hatxa, ʾatxa
@@ -30891,7 +30891,7 @@ l-
 qunjəlta
 t hodəx
 ʾayya
-qunjəlta gu-
+gu- qunjəlta
 xeta, xreta
 ʾap, ʾup yoma
 743250	yoma
@@ -30928,7 +30928,7 @@ qamaya
 naša
 743308	ta
 743311	ʾap, ʾup
-ʾaw lɛle
+lɛle ʾaw
 xena, xrena
 743315	saʾət, saʾta, saʾatta, saʾa
 ṭḷaθa, ṭḷa
@@ -30956,22 +30956,22 @@ mbadla
 743358	naša
 743362	ṱ
 xabra xa, xaʾa
-743365	ʾati ʾən
+743365	ʾən ʾati
 743368	ʾana
 743371	la
 743373	hatxa, ʾatxa
 baba
 743377	ʾana
 majbur
-qa- t
+t qa-
 ʾana
 743382	məndi, mdi xa, xaʾa
-qam ʾɛni
+ʾɛni qam
 743386	la
 ʾaxni
 743389	malka
 743391	məndi, mdi
-743393	w, ʾu- la
+743393	la w, ʾu-
 xam, xamma
 743397	la
 743403	ʾawwa
@@ -30982,7 +30982,7 @@ məndi, mdi
 mara
 743414	b-
 743426	w, ʾu-
-w, ʾu- mədre
+mədre w, ʾu-
 qəm-
 743434	diya
 yoma
@@ -30995,10 +30995,10 @@ hatxa, ʾatxa
 ʾana
 743452	la
 743459	w, ʾu-
-mðita gu-
+gu- mðita
 xeta, xreta
 743463	w, ʾu-
-mðita ta
+ta mðita
 xeta, xreta
 743467	kul, ku, kulla
 maθa
@@ -31007,9 +31007,9 @@ kul, ku, kulla
 yala
 zora
 qəm-
-743480	lɛle xa, xaʾa
+743480	xa, xaʾa lɛle
 743482	baba
-lɛle xa, xaʾa
+xa, xaʾa lɛle
 743485	yəmma
 ʾap, ʾup xa, xaʾa
 la
@@ -31019,8 +31019,8 @@ brona ʾaw, ʾo
 ṱ
 743493	bažər xa, xaʾa
 xeta, xreta
-743496	mðita xa, xaʾa
-xa, xaʾa maθa
+743496	xa, xaʾa mðita
+maθa xa, xaʾa
 743499	raba
 743502	l-
 743506	šeta
@@ -31029,20 +31029,20 @@ xamša
 ʾəšta
 šeta
 la
-743520	qam ʾɛni
+743520	ʾɛni qam
 743523	dax, daxi
 ṱ
 743526	mo, mu, modi, maw, mawdi
-743528	naša ʾani, ʾan
+743528	ʾani, ʾan naša
 743531	susa
 743533	ʾaw
 w, ʾu-
 743536	mən, m- ġðaðe
-743538	brona tre, treʾe
-w, ʾu- brata xa, xaʾa
+743538	tre, treʾe brona
+w, ʾu- xa, xaʾa brata
 743541	ṭla-, ta-
 743543	ʾana
-ya baxta
+baxta ya
 ʾayya
 743550	ʾarya, ʾɛrya
 ʾayya ʾən
@@ -31052,10 +31052,10 @@ ya baxta
 ʾana
 gu-
 w, ʾu- ʾati
-743564	gawṛa, gʸawṛa ta
-ʾana ʾap, ʾup
+743564	ta gawṛa, gʸawṛa
+ʾap, ʾup ʾana
 743567	boč̣a tre, treʾe
-ʾap, ʾup ʾay
+ʾay ʾap, ʾup
 743570	ʾanna
 boč̣a tre, treʾe
 743574	gu-
@@ -31073,18 +31073,18 @@ hal, ha- ʾay, ʾey, ʾɛ, ʾa
 743594	ġðaðe ta
 743598	məṭya
 yoma xa, xaʾa
-yoma tre, treʾe
+tre, treʾe yoma
 743603	l-
 743607	bala
 gu- maθa
 la diga
 w, ʾu- la kθɛθa
-naša la
-w, ʾu- la baxta
-qala la
-w, ʾu- la yala
+la naša
+baxta la w, ʾu-
+la qala
+la w, ʾu- yala
 zora
-ču məndi, mdi
+məndi, mdi ču
 qala ču
 liθ
 qala ču
@@ -31097,23 +31097,23 @@ rixa
 743632	balki
 xa, xaʾa
 743636	xa, xaʾa
-xaθa har
+har xaθa
 ʾi-
 har
 743641	l-
 743645	ʾaw
-743649	tumbana xa, xaʾa
+743649	xa, xaʾa tumbana
 743651	julla
 743655	qəṭma
 743659	bara
 məndi, mdi xa, xaʾa
 qa-
 743663	čara, čɛra, kʸɛr xa, xaʾa
-ṱ ʾən
-743666	qa- t
+ʾən ṱ
+743666	t qa-
 čara, čɛra, kʸɛr xa, xaʾa
 qa-
-743670	ṱ mu, mut
+743670	mu, mut ṱ
 743675	l-
 ʾina
 xaθa
@@ -31124,13 +31124,13 @@ mən, m-
 743683	maṭo
 743685	w, ʾu- maṭo
 743691	ʾay
-dana ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa dana
 743695	ʾana w, ʾu-
 743697	ʾarya, ʾɛrya
-743703	dana ʾay, ʾey, ʾɛ, ʾa
-goma gu-
+743703	ʾay, ʾey, ʾɛ, ʾa dana
+gu- goma
 ʾaw
-743707	hawše, ḥawše gu-
+743707	gu- hawše, ḥawše
 743709	ʾaqla
 susa
 743716	dax, daxi
@@ -31146,7 +31146,7 @@ hal, ha- tamma
 743734	xačča
 xena, xrena
 743738	hatxa, ʾatxa
-743740	ʾap, ʾup xeta, xreta xa, xaʾa
+743740	ʾap, ʾup xa, xaʾa xeta, xreta
 743744	susa ʾaw, ʾo
 dax, daxi
 743747	tre, treʾe
@@ -31157,9 +31157,9 @@ l-
 b- tre, treʾe
 ʾaqla
 743756	l-
-743758	ʾap, ʾup xeta, xreta xa, xaʾa
+743758	ʾap, ʾup xa, xaʾa xeta, xreta
 743760	t ṭḷaθa, ṭḷa
-ʾarba, ʾarpa t
+t ʾarba, ʾarpa
 743763	pəčkana
 743765	ʾay
 gurba ʾaw
@@ -31171,36 +31171,36 @@ xo, xoθ- ʾaqla
 743782	b-
 ʾay
 heš, həš, š
-goma gu-
+gu- goma
 ʾaw
 743788	w, ʾu- ʾaw
 ṃəḷya
 qəṭma
-qa- t
+t qa-
 743794	ṣala
 gu- ʾɛna
 qa-
-743802	ʾaqla xa, xaʾa
+743802	xa, xaʾa ʾaqla
 743804	qəṭma
-743807	paθa gu-
+743807	gu- paθa
 diya
 ʾaw
-ʾarba, ʾarpa bar
+bar ʾarba, ʾarpa
 xamša bar
-ʾəšta bar
-ṱ ʾax
+bar ʾəšta
+ʾax ṱ
 ʾaxni
 b-
-ʾarba, ʾarpa bar
+bar ʾarba, ʾarpa
 xamša bar
-ʾəšta bar
+bar ʾəšta
 743820	baza
-baza xa, xaʾa
+xa, xaʾa baza
 743823	tre, treʾe
 ṭḷaθa, ṭḷa
 743828	xarθa
 qəm-
-dašta gu-
+gu- dašta
 ho
 743835	mən, m-
 743837	šawpa
@@ -31216,7 +31216,7 @@ t ma
 bdila
 743855	k̭ora
 ʾana
-743860	hawše, ḥawše gu-
+743860	gu- hawše, ḥawše
 743862	ʾarya, ʾɛrya
 743869	ʾarya, ʾɛrya
 743872	heš, həš, š
@@ -31227,8 +31227,8 @@ ga
 ṱ
 743880	boč̣a
 743882	boč̣a
-743884	xawra tre, treʾe
-743886	xura heš, həš, š xa, xaʾa
+743884	tre, treʾe xawra
+743886	heš, həš, š xa, xaʾa xura
 məṭya
 ʾarya, ʾɛrya
 743893	ʾap, ʾup
@@ -31240,16 +31240,16 @@ qəm-
 743901	ʾap, ʾup ʾani, ʾan
 ʾayya
 tuniθa
-743905	ṱ dax, daxi
+743905	dax, daxi ṱ
 743907	naša
 ʾaxni
-ṱ dax, daxi
+dax, daxi ṱ
 ʾap, ʾup ʾaxni
 743912	qəṭṭa ʾaw, ʾo
 zora
 743915	har
 ham
-gubba gu-
+gu- gubba
 743919	ʾaw
 ʾarya, ʾɛrya
 743924	ʾarya, ʾɛrya
@@ -31267,16 +31267,16 @@ diya
 743948	čučəkka
 743951	w, ʾu-
 743954	k̭ərməkθa
-xuwwiθa ʾax
+ʾax xuwwiθa
 743957	ləbba
 743960	hatxa, ʾatxa
 ʾina
 kul, ku, kulla
 tərya
-743965	ʾarya, ʾɛrya ta
+743965	ta ʾarya, ʾɛrya
 743968	laxxa
 qəm-
-743976	la t
+743976	t la
 743980	diya
 743985	ʾarya, ʾɛrya
 w, ʾu-
@@ -31289,11 +31289,11 @@ kčixa
 diya
 744001	raba
 qəṣṣət, qəṣṣətta
-744004	ʾana bar t
+744004	t bar ʾana
 744006	spay
 yarxa, yɛrxa xa, xaʾa
 yarxa, yɛrxa tre, treʾe
-ṱ ʾən
+ʾən ṱ
 l-
 raba
 744014	mo, mu, modi, maw, mawdi
@@ -31331,18 +31331,18 @@ dax, daxi
 744079	ʾarya, ʾɛrya
 744081	la
 744083	la
-744085	qala xa, xaʾa
+744085	xa, xaʾa qala
 raba
 xɛlana
 malka
 744092	malka
 744094	ʾati
 744102	dawa
-744107	malka mən, m-
+744107	mən, m- malka
 744109	malka
 yoma xa, xaʾa
 744112	ṣɛda
-744114	dukθa, duka xa, xaʾa
+744114	xa, xaʾa dukθa, duka
 malka
 744117	ʾawwa ži
 744119	b- dudəkθa
@@ -31385,7 +31385,7 @@ raba
 mazdiyana
 744181	mo, mu, modi, maw, mawdi
 xəlma
-w, ʾu- dax, daxi
+dax, daxi w, ʾu-
 744186	b-
 zala
 reša
@@ -31394,31 +31394,31 @@ raba
 goṛa
 yama
 xwara
-744195	xurta, xorta tre, treʾe
+744195	tre, treʾe xurta, xorta
 gəšra
 mara
 zala
 744201	gəšra
 ʾina
 raba
-744205	la t
-yama gu-
+744205	t la
+gu- yama
 mən, m- tama
-744210	gu- gəppa xa, xaʾa
-ṭura xa, xaʾa
+744210	gu- xa, xaʾa gəppa
+xa, xaʾa ṭura
 mara
 744214	xa, xaʾa
 dawa
 744220	dunye
 744222	tama
-w, ʾu- mara
+mara w, ʾu-
 ga xa, xaʾa
 xeta, xreta
 744228	reša
 744230	qariθa
 reša
 744233	yama
-w, ʾu- hadəx
+hadəx w, ʾu-
 744236	hatta, hat
 744238	laxxa
 w, ʾu-
@@ -31428,7 +31428,7 @@ xəlma ʾaw
 qa-
 744246	ʾawwa
 744248	b-
-məndi, mdi har xa, xaʾa
+məndi, mdi xa, xaʾa har
 ʾiθ
 b-
 dukθa, duka
@@ -31436,7 +31436,7 @@ dukθa, duka
 744255	ʾaw
 744257	didwa ʾaw, ʾo
 ʾɛka
-744260	qam ṱ
+744260	ṱ qam
 744262	xa, xaʾa
 744264	tama
 744269	tama
@@ -31450,21 +31450,21 @@ dukθa, duka
 ṱ
 w, ʾu-
 w, ʾu-
-744286	dukθa, duka ʾay, ʾey, ʾɛ, ʾa
+744286	ʾay, ʾey, ʾɛ, ʾa dukθa, duka
 nišanqa
-dukθa, duka ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa dukθa, duka
 t
 didwa ʾaw, ʾo
 744292	tama
 w, ʾu-
 malka
-744296	malka mən, m-
+744296	mən, m- malka
 744298	malka
 ṱ
 basima
 744302	xakma, xamka
 dana
-744306	maṭlab xa, xaʾa
+744306	xa, xaʾa maṭlab
 744309	mo, mu, modi, maw, mawdi
 744312	xa, xaʾa
 tawra
@@ -31472,14 +31472,14 @@ tawra
 744320	tre, treʾe
 tawra
 744323	la
-har xa, xaʾa
+xa, xaʾa har
 744326	tawra
 744328	xa, xaʾa
 tawra
 744331	bɛθa xa, xaʾa
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 744335	ʾawwa
-744339	dukθa, duka b-
+744339	b- dukθa, duka
 744342	xa, xaʾa
 tawra
 raba
@@ -31488,7 +31488,7 @@ goṛa
 mən, m-
 ṱ
 744354	hadəx
-gəlda ʾaw, ʾo
+ʾaw, ʾo gəlda
 hadəx
 744358	naqiða
 t ta
@@ -31496,25 +31496,25 @@ bar
 xmaṭa
 744363	hadəx
 744367	zuze
-744369	dukθa, duka ʾay, ʾey, ʾɛ, ʾa
+744369	ʾay, ʾey, ʾɛ, ʾa dukθa, duka
 kul, ku, kulla
 744373	tawra
 lɛle
 gədda
 zora
 kəma
-744380	dukθa, duka ʾay, ʾey, ʾɛ, ʾa
+744380	ʾay, ʾey, ʾɛ, ʾa dukθa, duka
 744388	tama
 744390	dawa
 744393	banaya, bannaya
-744397	ʾap, ʾup diya
+744397	diya ʾap, ʾup
 744399	guda ʾaw, ʾo
 744401	guda
 w, ʾu- draya
 744404	t ta
 ʾap, ʾup ʾən
 744407	madfaʿ
-la t
+t la
 guda
 744414	w, ʾu-
 miya
@@ -31527,7 +31527,7 @@ bena
 ʾaskar, ʾaskariya
 744427	ʾaskar, ʾaskariya
 ʾina
-kul, ku, kulla la
+la kul, ku, kulla
 gawṛa, gʸawṛa
 744432	naša
 gawṛa, gʸawṛa
@@ -31561,10 +31561,10 @@ xarθa
 744486	plaša
 ʾaskar, ʾaskariya t
 744490	w, ʾu- ʾaw
-plaša xa, xaʾa
+xa, xaʾa plaša
 raba
 xɛlana
-ʾurxa b- ču
+b- ču ʾurxa
 744497	malka
 ṱ
 744501	t ma
@@ -31572,14 +31572,14 @@ xɛlana
 744505	ʾaskar, ʾaskariya
 744507	xalta
 744509	zuze
-744511	kul, ku, kulla məndi, mdi xa, xaʾa
+744511	məndi, mdi kul, ku, kulla xa, xaʾa
 744513	ʾina
 brata
 744517	t
-744521	malka ta
+744521	ta malka
 744524	kθawa xa, xaʾa
 744526	qazəd, qazədda bəd, bud
-744528	ʾurxa b- ču
+744528	b- ču ʾurxa
 ʾaw, ʾo
 744532	ʾəlla
 744536	w, ʾu-
@@ -31591,15 +31591,15 @@ mən, m-
 malka
 744547	kθawa ʾaw, ʾo
 744549	spay
-744553	miya ʾani, ʾan
+744553	ʾani, ʾan miya
 744555	mən, m-
 miya
 t
 mən, m-
-744560	la t
+744560	t la
 miya
-naša ʾanna
-miya la t
+ʾanna naša
+t la miya
 la
 ga xa, xaʾa
 xeta, xreta
@@ -31610,7 +31610,7 @@ kul, ku, kulla
 744577	məṭra
 744580	məndi, mdi
 miya
-ga hal, ha- xa, xaʾa
+hal, ha- ga xa, xaʾa
 xeta, xreta
 744586	xarθa
 744588	malka w, ʾu-
@@ -31622,9 +31622,9 @@ qaṣra
 qalunka xa, xaʾa
 mən, m-
 l-
-palla xa, xaʾa
+xa, xaʾa palla
 b- reša
-744608	mo, mu, modi, maw, mawdi t
+744608	t mo, mu, modi, maw, mawdi
 kalba
 744611	ʾati
 plaša ʾaw, ʾo
@@ -31639,16 +31639,16 @@ kalba
 ʾayya
 744627	malka ṭla-, ta-
 ʾay, ʾey, ʾɛ, ʾa palla
-rēš-, rəš-, rš-, š- qalunka t
+t rēš-, rəš-, rš-, š- qalunka
 744631	hatxa, ʾatxa
-744633	ga ʾay, ʾey, ʾɛ, ʾa
-dukθa, duka b-
+744633	ʾay, ʾey, ʾɛ, ʾa ga
+b- dukθa, duka
 xoθa
 744640	w, ʾu-
 kul, ku, kulla
 naša
 744644	ʾana
-744646	tuniθa xa, xaʾa
+744646	xa, xaʾa tuniθa
 744649	w, ʾu-
 šəmma
 diya
@@ -31671,18 +31671,18 @@ malka
 malka
 raba
 744679	ʾaw
-744681	w, ʾu- ṭabʿan
+744681	ṭabʿan w, ʾu-
 malka
 744686	šawpa
-744688	ʾiman, ʾima t
+744688	t ʾiman, ʾima
 malka
 ʾi-
-ʾiman, ʾima t
+t ʾiman, ʾima
 744693	goṛa
 brona
 744697	šawpa
 744699	bar
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 yoma xa, xaʾa
 malka
 dmixa
@@ -31691,7 +31691,7 @@ dmixa
 744707	w, ʾu-
 b- xəlma
 744710	ʾiθ
-naša xa, xaʾa
+xa, xaʾa naša
 gu-
 mðita
 biš
@@ -31710,7 +31710,7 @@ brona
 744733	malka
 744738	malka
 w, ʾu-
-744741	šənθa mən, m-
+744741	mən, m- šənθa
 malka
 raba
 744745	raba
@@ -31721,8 +31721,8 @@ kul, ku, kulla
 naša
 744756	malka
 744758	naša ʾaw, ʾo
-744760	naša ʾay, ʾey, ʾɛ, ʾa
-744762	naša ʾay, ʾey, ʾɛ, ʾa
+744760	ʾay, ʾey, ʾɛ, ʾa naša
+744762	ʾay, ʾey, ʾɛ, ʾa naša
 hatxa, ʾatxa
 məskena
 dax, daxi
@@ -31742,28 +31742,28 @@ qəm-
 ʾawwa
 naša
 la hal, ha-
-744798	ʾurxa b-
+744798	b- ʾurxa
 744800	xakma, xamka
 šeta
 malka
 har
 744805	b-
-744807	naša l-
+744807	l- naša
 744809	brona
 744811	brona
 ṱ
 brona
 hatxa, ʾatxa
 məndi, mdi
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 xarθa
 744819	xa, xaʾa
-malka qa-
-744825	ʾurxa b-
+qa- malka
+744825	b- ʾurxa
 diya
 744829	naša
-744832	ʾurxa b-
-qa- t
+744832	b- ʾurxa
+t qa-
 744835	yala
 malka w, ʾu-
 744839	xačča
@@ -31774,8 +31774,8 @@ baxta
 744852	jaməkka
 tre, treʾe yala
 brona xa, xaʾa
-brata xa, xaʾa
-w, ʾu- ʾani, ʾan
+xa, xaʾa brata
+ʾani, ʾan w, ʾu-
 tre, treʾe yala
 mən, m-
 mən, m- yoma
@@ -31783,25 +31783,25 @@ mən, m- yoma
 spay hatxa, ʾatxa
 hatxa, ʾatxa
 šəklana
-w, ʾu- xəlya
+xəlya w, ʾu-
 w, ʾu- naša
-744871	tuniθa gu-
+744871	gu- tuniθa
 xa, xaʾa
 pərč̭əmta
-744878	w, ʾu- t dawa
-sema t xa, xaʾa
+744878	t dawa w, ʾu-
+t sema xa, xaʾa
 hatxa, ʾatxa
 744882	malka
 744884	b-
 raba
 744888	ʾanna
-ṱ madam
+madam ṱ
 hatxa, ʾatxa
 744892	w, ʾu-
 taza
 lazəm
 ʾaw
-744897	məndi, mdi ʾaw, ʾo xa, xaʾa
+744897	məndi, mdi xa, xaʾa ʾaw, ʾo
 744899	xəzwa
 744901	lɛle
 xəlma
@@ -31818,7 +31818,7 @@ diya
 b- w, ʾu-
 744926	b-
 w, ʾu-
-744929	w, ʾu- šəmma
+744929	šəmma w, ʾu-
 744931	malka
 dax, daxi
 744934	ʾayya
@@ -31831,14 +31831,14 @@ fəllən, pəllən, flan naša
 744946	l-
 fəllən, pəllən, flan naša
 w, ʾu-
-ʾani, ʾan tre, treʾe yala
+tre, treʾe ʾani, ʾan yala
 w, ʾu-
 la
 sāx
 744954	ʾayya
 744956	sərri
 744958	məndi, mdi xa, xaʾa
-la t
+t la
 hič naša
 744962	xena, xrena
 polise
@@ -31851,7 +31851,7 @@ hadəx
 744974	polise
 b- lɛle
 qəm-
-ʾani, ʾan tre, treʾe
+tre, treʾe ʾani, ʾan
 yala
 mən, m-
 w, ʾu-
@@ -31871,24 +31871,24 @@ qəm-
 w, ʾu- baba
 yəmma
 w, ʾu-
-ʾani, ʾan tre, treʾe yala
+tre, treʾe ʾani, ʾan yala
 745007	qəm-
 polise
-ʾani, ʾan tre, treʾe yala
-polise ʾani, ʾan
+tre, treʾe ʾani, ʾan yala
+ʾani, ʾan polise
 745013	b-
 mara
 dax, daxi
-745017	ʾani, ʾan tre, treʾe yala
+745017	tre, treʾe ʾani, ʾan yala
 hatxa, ʾatxa
 hatxa, ʾatxa
 745021	yala
 zora
 hade
 745026	malka ʾaw, ʾo
-mo, mu, modi, maw, mawdi t
+t mo, mu, modi, maw, mawdi
 745031	ʾayya
-šula ʾaw, ʾo
+ʾaw, ʾo šula
 745035	raxme
 gu-
 745038	polise
@@ -31899,7 +31899,7 @@ w, ʾu-
 xačča
 kēk, keka
 745049	b-
-qa- t
+t qa-
 745053	w, ʾu-
 gu-
 šaqiθa
@@ -31921,18 +31921,18 @@ xačča
 ʾixala w, ʾu-
 qəm-
 hatxa, ʾatxa
-la t
+t la
 qəm- w, ʾu-
-miya gu-
+gu- miya
 qəm-
-miya gu-
+gu- miya
 hatxa, ʾatxa
 ṱ
 b- šaqiθa
 745094	b- šaqiθa
 w, ʾu-
 w, ʾu-
-745099	dukθa, duka xa, xaʾa
+745099	xa, xaʾa dukθa, duka
 šaqiθa
 ʾi-
 čappa
@@ -31944,8 +31944,8 @@ w, ʾu-
 745115	sanduqa, ṣanduqa
 745118	xa, xaʾa
 rəḥqa
-xa, xaʾa tre, treʾe
-745124	ga ʾay, ʾey, ʾɛ, ʾa
+tre, treʾe xa, xaʾa
+745124	ʾay, ʾey, ʾɛ, ʾa ga
 745126	tama
 yoma ʾaw, ʾo
 745129	yoma
@@ -31965,8 +31965,8 @@ sanduqa, ṣanduqa
 tre, treʾe yala
 745156	ʾaw
 745158	zarda
-w, ʾu- hadəx
-ṱ dax, daxi
+hadəx w, ʾu-
+dax, daxi ṱ
 sema
 w, ʾu- hatxa, ʾatxa
 šəklana
@@ -31981,7 +31981,7 @@ tre, treʾe yala
 745180	w, ʾu-
 745182	bala
 ʾəlla
-w, ʾu- ʾanna
+ʾanna w, ʾu-
 745187	ṱ
 745191	hatxa, ʾatxa
 ʾanna
@@ -32000,7 +32000,7 @@ b-
 745224	ʾanna
 tre, treʾe yala
 qəm-
-la t
+t la
 mara
 w, ʾu- zədya
 gu-
@@ -32038,12 +32038,12 @@ mo, mu, modi, maw, mawdi ṱ
 mən, m-
 745288	b-
 mən, m-
-745291	la qa- t
+745291	t la qa-
 745293	balki
 745296	ṭla-, ta-
 745300	ṱ
-mo, mu, modi, maw, mawdi qa-
-745303	šula hatxa, ʾatxa
+qa- mo, mu, modi, maw, mawdi
+745303	hatxa, ʾatxa šula
 la spay
 mo, mu, modi, maw, mawdi
 745307	ʾaw yala
@@ -32057,7 +32057,7 @@ malka
 ʾati
 walla
 745326	walla
-naša ču
+ču naša
 ʾana
 b-
 ṱ
@@ -32067,13 +32067,13 @@ mən, m-
 mən, m-
 mən, m-
 bala
-ʾana w, ʾu-
-745342	kut yoma
+w, ʾu- ʾana
+745342	yoma kut
 745352	ʾayya
 745354	b-
-745356	w, ʾu- ʾawwa
+745356	ʾawwa w, ʾu-
 745362	b-
-xəlma mən, m-
+mən, m- xəlma
 745365	t
 745367	hadiya, diya, hadayya
 la
@@ -32102,9 +32102,9 @@ raba
 diya
 745410	w, ʾu-
 745413	gu-
-ṭura xa, xaʾa
+xa, xaʾa ṭura
 ramana
-ṭura xa, xaʾa
+xa, xaʾa ṭura
 raba
 ramana
 naša
@@ -32112,7 +32112,7 @@ la
 745423	dax, daxi
 745425	hatxa, ʾatxa
 ramana
-w, ʾu- l-
+l- w, ʾu-
 745429	ʾiθ
 čol xa, xaʾa
 dašta
@@ -32153,12 +32153,12 @@ xa, xaʾa
 malaxa
 mən, m- šmayya
 745484	naša
-745487	naša xa, xaʾa
+745487	xa, xaʾa naša
 sawa
 745490	xwara
 w, ʾu-
 xwara
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 bɛθa
 xa, xaʾa
 manzəl
@@ -32185,7 +32185,7 @@ w, ʾu-
 745525	b- zawna
 745527	susa
 745529	dax, daxi
-naša ʾay, ʾey, ʾɛ, ʾa ʾaw, ʾo
+ʾay, ʾey, ʾɛ, ʾa naša ʾaw, ʾo
 sawa
 745534	zala
 745536	ṱ
@@ -32197,18 +32197,18 @@ w, ʾu-
 745552	raba
 zamət
 hič
-naša xa, xaʾa
+xa, xaʾa naša
 la
 745560	w, ʾu-
-745562	sərr xa, xaʾa
+745562	xa, xaʾa sərr
 745565	yalla
 745567	sərr ʾaw, ʾo
 ʾalaha
 745570	bahs, bas
-w, ʾu- malaxa
+malaxa w, ʾu-
 745573	bahs, bas
 lɛle
-745576	naša qa-
+745576	qa- naša
 sərr ʾaw
 goṛa
 745580	ʾi- hatxa, ʾatxa
@@ -32220,12 +32220,12 @@ la
 har
 rəqqi
 ṱ
-745595	har ṱ
+745595	ṱ har
 745597	he
 ṱ
 745601	ʾana
 745603	ṱ
-ʾurxa b-
+b- ʾurxa
 745606	ʾəlla
 mən, m- tama
 hodəx
@@ -32235,17 +32235,17 @@ w, ʾu-
 745615	la
 745617	xena, xrena
 745619	mara
-har ṱ
+ṱ har
 ʾaxni
 liθ
 745624	ʾəlla
 745627	tama
 mo, mu, modi, maw, mawdi
-745630	ga ʾay, ʾey, ʾɛ, ʾa
+745630	ʾay, ʾey, ʾɛ, ʾa ga
 ʾawwa
 745634	ṱ
-qam gəppa
-ʾaw gəppa
+gəppa qam
+gəppa ʾaw
 raba
 745639	b-
 ʾaw, ʾo
@@ -32258,8 +32258,8 @@ b-
 ṱ
 b-
 susa
-745657	w, ʾu- la ʾən
-745659	qala b-
+745657	la ʾən w, ʾu-
+745659	b- qala
 qamaya
 745662	bala
 b-
@@ -32270,7 +32270,7 @@ ga, gaya
 b-
 745676	kepa, kʸepa
 745678	kepa, kʸepa
-745682	w, ʾu- ʾaxtu
+745682	ʾaxtu w, ʾu-
 w, ʾu-
 w, ʾu-
 745687	kepa, kʸepa
@@ -32306,11 +32306,11 @@ b-
 745747	ʾina
 ʾap, ʾup
 hal, ha-
-be- palga
+palga be-
 745752	kepa, kʸepa
 ʾaxči
 susa
-w, ʾu- palga
+palga w, ʾu-
 bar
 lɛle
 745759	kepa, kʸepa
@@ -32326,17 +32326,17 @@ kepa, kʸepa
 745777	ʾax
 kepa, kʸepa
 susa w, ʾu-
-w, ʾu- rumxa
+rumxa w, ʾu-
 naša
 745783	xaṣa
 w, ʾu- har
-745786	w, ʾu- naša
+745786	naša w, ʾu-
 susa
 w, ʾu-
 čakke
 745791	w, ʾu-
 kepa, kʸepa
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 kut
 745798	xena, xrena
 kut
@@ -32348,7 +32348,7 @@ kul, ku, kulla
 745811	kepa, kʸepa
 ʾayya
 745816	hadiya, diya, hadayya
-745818	malka l-
+745818	l- malka
 malka w, ʾu-
 745821	w, ʾu-
 w, ʾu-
@@ -32364,9 +32364,9 @@ duxtur
 yan, ya naša
 spay
 t
-bəd, bud măra, marra
+măra, marra bəd, bud
 w, ʾu- naša
-mðita gu-
+gu- mðita
 745848	mo, mu, modi, maw, mawdi ṭla-, ta-
 mo, mu, modi, maw, mawdi
 745851	b- ṭali
@@ -32381,18 +32381,18 @@ raba w, ʾu-
 la
 745865	kul, ku, kulla
 mən, m- duxtur
-w, ʾu- mən, m- naša
+mən, m- w, ʾu- naša
 mira
 malka
 ṱ
 basima
 745875	hal, ha- diya
-745877	w, ʾu- mən, m- ʾəsri šeta xamša
+745877	ʾəsri šeta xamša w, ʾu- mən, m-
 745879	ṭḷaθi
 745881	w, ʾu-
 w, ʾu-
 745884	ʾati
-745886	w, ʾu- ʾawwa
+745886	ʾawwa w, ʾu-
 745888	ʾawwa
 la ʾən
 745894	baxta
@@ -32413,7 +32413,7 @@ la
 zirək
 balki
 745935	w, ʾu-
-745937	w, ʾu- la ʾən
+745937	la ʾən w, ʾu-
 745939	ham
 745943	xəṭṭa
 745946	tre, treʾe
@@ -32426,7 +32426,7 @@ b- xa, xaʾa kepa, kʸepa
 məskena
 745962	b-
 qəṣṣət, qəṣṣətta
-ču məndi, mdi
+məndi, mdi ču
 dmixa
 745970	mo, mu, modi, maw, mawdi
 hal, ha-
@@ -32434,7 +32434,7 @@ hal, ha-
 745976	ʾati
 w, ʾu-
 raba
-w, ʾu- ži ʾati
+w, ʾu- ʾati ži
 ʾi-
 raba
 745983	duxtur
@@ -32451,7 +32451,7 @@ w, ʾu-
 qa-
 ġaləbuθa xa, xaʾa
 746006	ʾən
-746008	w, ʾu- b-
+746008	b- w, ʾu-
 746013	malka
 ṱ
 basima
@@ -32468,7 +32468,7 @@ koma
 w, ʾu- ṱ
 xa, xaʾa
 mən, m-
-746045	be- gu-
+746045	gu- be-
 746047	xwara
 w, ʾu-
 746050	ṱ
@@ -32477,17 +32477,17 @@ susa w, ʾu-
 ṱ
 šəklana
 raba
-w, ʾu- sarga, sɛrga xa, xaʾa
+xa, xaʾa sarga, sɛrga w, ʾu-
 746059	ʾi-
 sarga, sɛrga
 mən, m- dəkkana
-la qa- t
+t la qa-
 sarga, sɛrga
 spay
 dax, daxi
-w, ʾu- qa- ṱ
+qa- w, ʾu- ṱ
 xaṣa
-746069	w, ʾu- qa- t
+746069	t qa- w, ʾu-
 746072	ʾən
 qa- ṱ
 ðawq
@@ -32499,12 +32499,12 @@ har
 dax, daxi
 mo, mu, modi, maw, mawdi
 bahs, bas
-w, ʾu- dawa
+dawa w, ʾu-
 zuze
 məndi, mdi
 maṣraf
 kul, ku, kulla
-746095	w, ʾu- ʾanna
+746095	ʾanna w, ʾu-
 məndi, mdi
 ṱ
 kul, ku, kulla
@@ -32513,7 +32513,7 @@ kul, ku, kulla
 746104	mara
 ʾawwa
 spay
-746109	yoma tre, treʾe
+746109	tre, treʾe yoma
 746111	ṭḷaθa, ṭḷa
 məndi, mdi
 746114	hazər, haẓər, hað̣ər
@@ -32527,12 +32527,12 @@ susa
 w, ʾu-
 746126	la
 yoma
-ṱ dax, daxi
+dax, daxi ṱ
 746130	warda, wɛrda
 746133	ṭḷaθa, ṭḷa
 yoma
 qəm-
-xamša b-
+b- xamša
 daqiqa
 746140	xɛlana
 w, ʾu-
@@ -32549,13 +32549,13 @@ har
 b-
 746165	susa
 746169	trab
-ʾurxa gu-
+gu- ʾurxa
 746172	kullixa xa, xaʾa
 bɛθa xa, xaʾa
 zora
 tama
 hatxa, ʾatxa
-naša xa, xaʾa
+xa, xaʾa naša
 sawa
 tiwa
 746182	rixa
@@ -32580,7 +32580,7 @@ qəm-
 ṱ
 746214	b-
 l-
-746217	ʾay, ʾey, ʾɛ, ʾa parṣopa
+746217	parṣopa ʾay, ʾey, ʾɛ, ʾa
 746219	hatxa, ʾatxa
 jwanqa
 w, ʾu-
@@ -32605,24 +32605,24 @@ la
 ʾana
 746250	raba
 746253	raba
-746255	w, ʾu- ʾiθ
-muhəmma xa, xaʾa
+746255	ʾiθ w, ʾu-
+xa, xaʾa muhəmma
 746260	jalda
 jalda
 malka sab, săbab, m-săbab
 746264	b- ṭali
 la ʾən
-746267	šula ʾay, ʾey, ʾɛ, ʾa
+746267	ʾay, ʾey, ʾɛ, ʾa šula
 malka
 746270	ṱ
 746272	xaye
 746276	ṱ
 746279	ʾana
-naša xa, xaʾa
+xa, xaʾa naša
 746283	b- šeta
 w, ʾu-
 xəbra
-dunye gu-
+gu- dunye
 raba
 la
 malyəzana
@@ -32636,8 +32636,8 @@ qəm-
 746300	hawnana, honana
 raba
 746303	ʾana
-l- sawa
-746306	dars xa, xaʾa
+sawa l-
+746306	xa, xaʾa dars
 746310	məndi, mdi xa, xaʾa
 spay
 746315	mo, mu, modi, maw, mawdi
@@ -32648,7 +32648,7 @@ spay
 746323	laxxa
 746325	ʾana
 b-
-746329	susa mən, m-
+746329	mən, m- susa
 746333	ʾati
 746340	ʾana
 746343	qəṣṣət, qəṣṣətta
@@ -32656,7 +32656,7 @@ b-
 malka
 b- ṭali
 746359	ʾana
-746361	ṱ dax, daxi
+746361	dax, daxi ṱ
 mira
 kul, ku, kulla ṭla-, ta-
 746365	ṱ
@@ -32676,9 +32676,9 @@ məndi, mdi
 mur
 mo, mu, modi, maw, mawdi
 746389	la
-746391	ʾurxa b-
+746391	b- ʾurxa
 lɛle
-746395	har ṱ
+746395	ṱ har
 746397	naša ʾaw
 sawa
 746400	ṱ
@@ -32693,23 +32693,23 @@ sawa
 746416	ʾana
 746418	mən, m- diya
 ʾati
-746421	ʾana ʾax
+746421	ʾax ʾana
 746424	ʾurxa
-746426	zala ṱ dax, daxi
-yoma la
+746426	zala dax, daxi ṱ
+la yoma
 hal, ha- ṱ
-yoma la
+la yoma
 ṱ
-ṭla-, ta- tre, treʾe
+tre, treʾe ṭla-, ta-
 qonəx, qunəx, qunaxa
-746435	ṭla-, ta- tre, treʾe
+746435	tre, treʾe ṭla-, ta-
 yoma
 746440	susa
 yalla
-746443	dukθa, duka ṭla-, ta-
+746443	ṭla-, ta- dukθa, duka
 tama
 b-
-ṭura xa, xaʾa
+xa, xaʾa ṭura
 ramana
 w, ʾu-
 746450	čol xa, xaʾa
@@ -32719,50 +32719,50 @@ qam
 746460	tama
 kul, ku, kulla
 746463	kepa, kʸepa
-ʾana w, ʾu-
+w, ʾu- ʾana
 746467	ṱ
 746470	xaraya
-w, ʾu- gəppa
-746473	ṭura gu-
+gəppa w, ʾu-
+746473	gu- ṭura
 746475	b- ṭura
 746479	gu-
 gəppa
 w, ʾu- naša
 746484	tama
-ṱ ma
+ma ṱ
 ramana
-dukθa, duka ʾay
-w, ʾu- ṱ ma
+ʾay dukθa, duka
+ma w, ʾu- ṱ
 ʾisara
 mən, m- kul, ku, kulla
 gota
 w, ʾu-
 746494	xaya
 tama
-ʾurxa b- xa, xaʾa
-ʾay t
+b- xa, xaʾa ʾurxa
+t ʾay
 ʾay
 746501	xaya
 tama
-naša xa, xaʾa
+xa, xaʾa naša
 xena, xrena
 la
 xaye
 tama
 746509	b-
-746513	w, ʾu- b-
+746513	b- w, ʾu-
 ṱ
 ʾaw, ʾo
 746518	mara
 746520	b-
 746522	ʾən
 kepa, kʸepa
-ži ʾati
+ʾati ži
 746526	kepa, kʸepa
 ga, gaya hal, ha- ṭla-, ta-
 746530	ṭḷaθa, ṭḷa
 746533	kepa, kʸepa
-w, ʾu- ʾən
+ʾən w, ʾu-
 746538	qəm-
 ʾati
 jwanqa
@@ -32793,13 +32793,13 @@ raba
 laxxa
 ʾana
 w, ʾu-
-746582	mbadla hal, ha-
+746582	hal, ha- mbadla
 mbadla
 746585	čiya
 b-
 746588	bar
 qəm-
-xabra ʾanna
+ʾanna xabra
 746592	qəm-
 hatxa, ʾatxa
 ṱ
@@ -32810,7 +32810,7 @@ b-
 746606	ṱ
 746608	xanči, xanča
 tama
-mbadla hal, ha-
+hal, ha- mbadla
 jalda
 qam
 madənxa
@@ -32818,8 +32818,8 @@ madənxa
 b-
 746618	jalda
 madənxa
-la t
-746622	sawunka ṭla-, ta-
+t la
+746622	ṭla-, ta- sawunka
 746625	qima
 ʾana
 746628	b- šɛna
@@ -32844,13 +32844,13 @@ gu- rkewa
 w, ʾu-
 gu-
 sarga, sɛrga
-746661	l- jaqsi
-mðita t
+746661	jaqsi l-
+t mðita
 mən, m- rešaya
 raba
 spay
 w, ʾu-
-746668	yoma la
+746668	la yoma
 w, ʾu-
 746671	mo, mu, modi, maw, mawdi
 ṱ
@@ -32859,17 +32859,17 @@ la
 746678	warda, wɛrda
 746680	ṭḷaθa, ṭḷa
 yoma
-746683	xamša b-
+746683	b- xamša
 daqiqa
 w, ʾu-
-qam ṭura
-746688	qam ṭura
+ṭura qam
+746688	ṭura qam
 746692	bala
 b- ʾaskar, ʾaskariya
 kul, ku, kulla
 ʾaskar, ʾaskariya
 746697	kepa, kʸepa
-w, ʾu- kul, ku, kulla
+kul, ku, kulla w, ʾu-
 746701	mən, m-
 jundi
 raba
@@ -32881,9 +32881,9 @@ w, ʾu-
 naša
 gabbara, gebara
 w, ʾu- naša
-746714	w, ʾu- kul, ku, kulla
+746714	kul, ku, kulla w, ʾu-
 746716	w, ʾu-
-b- w, ʾu- gota
+b- gota w, ʾu-
 ṱ
 746721	b- ži
 raba
@@ -32896,12 +32896,12 @@ ləbba
 b-
 xanči, xanča
 746741	balki
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 la
 746751	ʾana
 746753	malka
-xo-, xu- la
-746756	xo-, xu- la
+la xo-, xu-
+746756	la xo-, xu-
 ʾana
 lɛle ʾɛba
 746760	ʾana
@@ -32910,19 +32910,19 @@ lɛle ʾɛba
 malka ṭla-, ta-
 la
 746769	kepa, kʸepa
-biš la spay
+la spay biš
 mən, m- kul, ku, kulla
 746774	kepa, kʸepa
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 746777	zina
 mən, m- xaraya
-746781	ʾaw, ʾo xaraya
+746781	xaraya ʾaw, ʾo
 xaθa
 balki
-qam xa, xaʾa
+xa, xaʾa qam
 746786	ʾanna
 746788	kul, ku, kulla
-746791	w, ʾu- tos ʾəlla
+746791	ʾəlla tos w, ʾu-
 lawn
 746794	xanči, xanča
 746798	ya
@@ -32937,9 +32937,9 @@ t
 bahs, bas
 xaθa
 746813	l-
-746815	w, ʾu- la
-ču məndi, mdi
-dunye gu-
+746815	la w, ʾu-
+məndi, mdi ču
+gu- dunye
 lɛle
 746820	lɛle
 b- ham
@@ -32954,8 +32954,8 @@ l- gəppa
 ʾəḷḷaya, ḷaya
 w, ʾu-
 ʾaw, ʾo
-746845	ču məndi, mdi liθ
-746847	mən, m- gəppa gu-
+746845	liθ məndi, mdi ču
+746847	mən, m- gu- gəppa
 746849	b-
 susa
 746852	ʾina
@@ -32963,8 +32963,8 @@ hal, ha-
 746855	susa
 746857	kepa, kʸepa
 746859	ʾay, ʾey, ʾɛ, ʾa
-746863	ʾana ʾap, ʾup
-ʾurxa b-
+746863	ʾap, ʾup ʾana
+b- ʾurxa
 746867	ʾayya w, ʾu-
 tali
 746870	w, ʾu-
@@ -32978,15 +32978,15 @@ məndi, mdi
 746886	kepa, kʸepa
 hal, ha-
 naftang
-746890	w, ʾu- ʾap, ʾup
+746890	ʾap, ʾup w, ʾu-
 746893	har
 746896	susa
-w, ʾu- mən, m-
-746899	w, ʾu- bar
+mən, m- w, ʾu-
+746899	bar w, ʾu-
 bahs, bas
 ʾay, ʾey, ʾɛ, ʾa
 746904	w, ʾu-
-746906	xaye mən, m-
+746906	mən, m- xaye
 746910	ṭḷaθa, ṭḷa
 w, ʾu-
 746916	ʾaw, ʾo
@@ -32996,7 +32996,7 @@ kepa, kʸepa
 746925	kepa, kʸepa
 hadiya, diya, hadayya
 mo, mu, modi, maw, mawdi ṱ
-w, ʾu- mən, m-
+mən, m- w, ʾu-
 hatxa, ʾatxa
 hadiya, diya, hadayya
 mo, mu, modi, maw, mawdi
@@ -33013,27 +33013,27 @@ yoma
 malka
 ṱ
 basima
-746956	w, ʾu- la
-746958	w, ʾu- diya
+746956	la w, ʾu-
+746958	diya w, ʾu-
 ʾana
-746962	sab, săbab, m-săbab ʾay
+746962	ʾay sab, săbab, m-săbab
 ʾurxa
 746965	raba
 naša
-746969	w, ʾu- xa, xaʾa
+746969	xa, xaʾa w, ʾu-
 lɛle
 w, ʾu-
-746975	ʾana w, ʾu-
+746975	w, ʾu- ʾana
 746978	bar
-ʾurxa w, ʾu- bar
+w, ʾu- bar ʾurxa
 ṱ
 746983	ʾən
 miθa
-746987	w, ʾu- ʾən
-746990	w, ʾu- ʾən
+746987	ʾən w, ʾu-
+746990	ʾən w, ʾu-
 746993	ʾana
 w, ʾu- ʾaw
-746998	w, ʾu- la ʾən
+746998	la ʾən w, ʾu-
 ʾaxni
 747003	ʾayya
 ṱ
@@ -33041,9 +33041,9 @@ w, ʾu- ʾaw
 747009	susa xa, xaʾa
 xwara
 747013	koma
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 kəxwa
-be- gu-
+gu- be-
 747018	koma
 ʿaksa, ʿaks, ʿăkəs
 t xona
@@ -33053,12 +33053,12 @@ xwara
 747025	susa
 hadiya, diya, hadayya
 747028	malka
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 t
 747032	yoma
 ṭḷaθa, ṭḷa
-kul, ku, kulla məndi, mdi
-747036	dax, daxi t
+məndi, mdi kul, ku, kulla
+747036	t dax, daxi
 747038	ṭla-, ta-
 w, ʾu-
 ṭla-, ta-
@@ -33068,7 +33068,7 @@ jalda
 747046	ʾaqla
 diya
 gu- rkewa
-w, ʾu- dax, daxi t
+t dax, daxi w, ʾu-
 hadəx
 xamθa
 mira
@@ -33076,22 +33076,22 @@ mira
 747057	yabiše
 xərqa
 xərqa
-qðala gu-
+gu- qðala
 diya
 747063	w, ʾu-
 susa
 w, ʾu-
-bala diya
-yoma la
-w, ʾu- ya ʾalaha
+diya bala
+la yoma
+ʾalaha ya w, ʾu-
 w, ʾu-
-747072	ṱ dax, daxi
+747072	dax, daxi ṱ
 maṭo
 747075	diya xona
 747077	har
 biš
 mən, m-
-w, ʾu- biš
+biš w, ʾu-
 747085	biš
 747088	zala ṭla-, ta-
 747091	mo, mu, modi, maw, mawdi
@@ -33102,7 +33102,7 @@ raba
 qamθa
 diya
 har
-dukθa, duka b-
+b- dukθa, duka
 t
 747109	ha
 747112	b- zala
@@ -33115,10 +33115,10 @@ qəṣṣət, qəṣṣətta
 747126	puqdana
 qa-
 lɛle
-747130	ʾap, ʾup t
+747130	t ʾap, ʾup
 puqdana
 ži
-ʾati ʾən
+ʾən ʾati
 747137	la ʾən
 747142	w, ʾu-
 747145	qəṣṣət, qəṣṣətta
@@ -33131,20 +33131,20 @@ bahs, bas
 747160	baxta ma
 747162	w, ʾu-
 ʾəṣya
-gu- ṭura xa, xaʾa
-gu- gəppa xa, xaʾa
+gu- xa, xaʾa ṭura
+gu- xa, xaʾa gəppa
 w, ʾu- ču
 naša
 la
 ʾəlla
 b-
-gana, jana diya
+diya gana, jana
 ṱ
 ʾati
 raba
 qam
-747179	ču məndi, mdi
-w, ʾu- ži ʾati
+747179	məndi, mdi ču
+w, ʾu- ʾati ži
 mara
 747183	ṱ
 ʾana
@@ -33154,17 +33154,17 @@ mara
 har
 ʾəlla
 747195	ʾana
-747197	ṱ dax, daxi
+747197	dax, daxi ṱ
 747199	ṭla-, ta-
-747202	kul, ku, kulla məndi, mdi
-747204	ṱ ʾən
+747202	məndi, mdi kul, ku, kulla
+747204	ʾən ṱ
 tama
 747207	ʾaw, ʾo
-w, ʾu- tos
+tos w, ʾu-
 747211	w, ʾu-
-ṱ ʾax
+ʾax ṱ
 747214	jwanqa
-ṱ dax, daxi
+dax, daxi ṱ
 ʾati
 hatxa, ʾatxa
 747219	ʾap, ʾup ʾaw
@@ -33177,15 +33177,15 @@ hatxa, ʾatxa
 xwara
 ʾax
 ʾax
-w, ʾu- rumxa
+rumxa w, ʾu-
 747237	šəkla
 747239	susa w, ʾu-
-747242	w, ʾu- t ʾaw, ʾo
-be- gu-
-747245	w, ʾu- kul, ku, kulla məndi, mdi
+747242	t w, ʾu- ʾaw, ʾo
+gu- be-
+747245	məndi, mdi kul, ku, kulla w, ʾu-
 747249	b-
 b-
-747252	w, ʾu- b-
+747252	b- w, ʾu-
 747255	ʾən
 747259	la ʾən
 ʾati
@@ -33199,18 +33199,18 @@ hatxa, ʾatxa
 747274	ʾana
 747277	də-, de-
 laxxa
-šwiθa gu-
-dmixa t
+gu- šwiθa
+t dmixa
 747282	hal, ha-
 qedamta
 w, ʾu-
 747289	dmixa
-šwiθa gu-
-747294	băṭaniya ʾani, ʾan
+gu- šwiθa
+747294	ʾani, ʾan băṭaniya
 xoθa diya
-dmixa t
+t dmixa
 747298	reša
-w, ʾu- ži ʾay
+ʾay w, ʾu- ži
 747301	ʾaw, ʾo
 diya
 tama
@@ -33218,12 +33218,12 @@ w, ʾu- har
 dax, daxi xona
 diya
 747308	madənxa
-la t
+t la
 747311	jalda
-747313	biš heš, həš, š
-qam xona
+747313	heš, həš, š biš
+xona qam
 diya
-747318	naša ṭla-, ta-
+747318	ṭla-, ta- naša
 sawa
 b- šɛna
 747322	ʾalaha
@@ -33231,7 +33231,7 @@ b- šɛna
 747326	šalla ʾən
 747328	ʾurxa
 w, ʾu-
-747331	susa b-
+747331	b- susa
 xena, xrena
 susa ʾaw, ʾo
 diya
@@ -33242,7 +33242,7 @@ koma
 w, ʾu-
 w, ʾu-
 747344	quwya
-w, ʾu- hal, ha-
+hal, ha- w, ʾu-
 747347	məṭya ṱ
 747349	ṭura
 mən, m- rəḥqa
@@ -33254,7 +33254,7 @@ mən, m- rəḥqa
 747367	w, ʾu-
 w, ʾu-
 747372	w, ʾu-
-ʾəsri ga, gaya
+ga, gaya ʾəsri
 b-
 747376	w, ʾu-
 747378	w, ʾu-
@@ -33262,15 +33262,15 @@ b-
 hal, ha-
 swata
 diya
-sab, săbab, m-săbab ʾay
+ʾay sab, săbab, m-săbab
 747387	ʾap, ʾup
 747389	kepa, kʸepa
 ʾayya
-747393	w, ʾu- zina
+747393	zina w, ʾu-
 747396	zina
 747401	gəppa
 ramana
-w, ʾu- hadiya, diya, hadayya
+hadiya, diya, hadayya w, ʾu-
 b-
 747406	ʾanna nəmu, ləmu
 ʾanna
@@ -33285,7 +33285,7 @@ kepa, kʸepa
 har
 t
 747424	b-
-w, ʾu- biš heš, həš, š
+heš, həš, š biš w, ʾu-
 zawda, zoda
 747429	xona
 diya
@@ -33298,11 +33298,11 @@ l-
 susa
 diya
 la
-gəppa gu-
+gu- gəppa
 747447	b-
 susa
 liθ
-ču məndi, mdi
+məndi, mdi ču
 747454	naša ʾaw
 sawa
 qala
@@ -33312,11 +33312,11 @@ hal, ha-
 susa
 hadiya, diya, hadayya
 747464	saxlam
-ču məndi, mdi
-be- liθ
+məndi, mdi ču
+liθ be-
 ʾay, ʾey, ʾɛ, ʾa
 747470	w, ʾu-
-747472	diya hawna
+747472	hawna diya
 747475	mo, mu, modi, maw, mawdi
 747477	hadiya, diya, hadayya
 747479	kepa, kʸepa
@@ -33332,22 +33332,22 @@ kepa, kʸepa
 747495	ʾaw, ʾo
 747499	b-
 susa
-ču məndi, mdi
+məndi, mdi ču
 liθ
 liθ
-ču məndi, mdi
+məndi, mdi ču
 w, ʾu-
-gəppa gu-
-w, ʾu- liθ
+gu- gəppa
+liθ w, ʾu-
 ʾap, ʾup
 747516	w, ʾu-
 susa
 747519	kepa, kʸepa
 ʾay, ʾey, ʾɛ, ʾa qəṣṣət, qəṣṣətta
-747524	qala xa, xaʾa
+747524	xa, xaʾa qala
 xena, xrena
 747527	sawa ʾaw, ʾo
-qala ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa qala
 747530	b-
 ṭḷaθa, ṭḷa
 yalla
@@ -33359,14 +33359,14 @@ yan, ya
 ṱ
 747543	bena
 ʾayya
-747546	w, ʾu- xəyāl, xəyala gu-
+747546	gu- w, ʾu- xəyāl, xəyala
 diya
 747549	mara
 ʾana
 747552	ʾaw, ʾo
 ṭḷaθa, ṭḷa
 balki
-747556	b- ga, gaya xa, xaʾa
+747556	b- xa, xaʾa ga, gaya
 747558	kepa, kʸepa
 ʾay
 747562	ʾay
@@ -33385,18 +33385,18 @@ la
 747590	ho
 747593	w, ʾu-
 747596	mən, m- tama
-gəppa gu-
+gu- gəppa
 747600	xakma, xamka
 gulpa
 dax, daxi
-ṭɛra, ṭara t
+t ṭɛra, ṭara
 w, ʾu-
 ṭura
 gəppa
 čarxa xa, xaʾa
 hatxa, ʾatxa
 w, ʾu-
-xtaya reša
+reša xtaya
 trup
 747613	baθər, bar
 747615	susa
@@ -33408,7 +33408,7 @@ bala
 baθra, bara l-
 747624	ha
 747629	he
-747634	mo, mu, modi, maw, mawdi qa-
+747634	qa- mo, mu, modi, maw, mawdi
 747636	ʾanna
 ʾanna
 šazada
@@ -33428,27 +33428,27 @@ dax, daxi
 747661	ʾana
 ṱ
 sərr
-747665	hič w, ʾu-
-naša xa, xaʾa
+747665	w, ʾu- hič
+xa, xaʾa naša
 747670	sərr
 747672	ʾana
 747674	qəṣṣət, qəṣṣətta
-w, ʾu- t
-malka w, ʾu- t
-malka w, ʾu- t
-747680	ʾana w, ʾu-
+t w, ʾu-
+t malka w, ʾu-
+t malka w, ʾu-
+747680	w, ʾu- ʾana
 747684	b- ʾalaha
 747688	dunye
-747692	hič ʾurza ṭla-, ta-
-bahs, bas ʾən
+747692	ṭla-, ta- ʾurza hič
+ʾən bahs, bas
 747695	baxta xa, xaʾa
-747697	kut qa-
+747697	qa- kut
 yan, ya qa- xona
 diya
 ʾana
 747704	qawla
 w, ʾu-
-747707	qamaya ʾay, ʾey, ʾɛ, ʾa
+747707	ʾay, ʾey, ʾɛ, ʾa qamaya
 baxta
 747710	w, ʾu-
 747714	ʾana
@@ -33467,7 +33467,7 @@ xeta, xreta
 747738	nəšma
 747741	t
 naša
-qa- t
+t qa-
 ʾap, ʾup
 xena, xrena
 tama
@@ -33488,10 +33488,10 @@ mən, m-
 747771	ʾayya ʾap, ʾup
 747777	ʾana
 747782	naša
-ga xeta, xreta xa, xaʾa
+xeta, xreta ga xa, xaʾa
 qa-
 raba
-747787	qa- t
+747787	t qa-
 kul, ku, kulla
 ʾanna
 747792	kepa, kʸepa
@@ -33502,24 +33502,24 @@ w, ʾu-
 747803	mən, m- ʾaxni ġðaðe
 ṭḷaθa, ṭḷa
 ʾanna
-747807	kut xa, xaʾa
+747807	xa, xaʾa kut
 747809	bɛθa
 747812	ʾən
 ʾayya
 raba
 spay
-kul, ku, kulla qa-
+qa- kul, ku, kulla
 747818	naša
 qa-
-kul, ku, kulla qa-
+qa- kul, ku, kulla
 ʾalma
 b- šama
 747825	raba
 spay
-747829	yalla də-, de-
-747832	ga, gaya har xa, xaʾa
-747834	ʾalaha w, ʾu- qa-
-747836	ʾiða diya
+747829	də-, de- yalla
+747832	ga, gaya xa, xaʾa har
+747834	ʾalaha qa- w, ʾu-
+747836	diya ʾiða
 šmayya l-
 747839	ʾalaha ya
 hal, ha- roxa
@@ -33529,8 +33529,8 @@ naša
 747845	kepa, kʸepa
 roxa
 hal, ha-
-qa- t
-ga xeta, xreta xa, xaʾa
+t qa-
+xeta, xreta ga xa, xaʾa
 747852	naša
 xena, xrena
 ʾalaha
@@ -33541,19 +33541,19 @@ diya
 qəm-
 qala
 diya
-dax, daxi t
+t dax, daxi
 roxa
 747867	gu-
 kepa, kʸepa
 747870	naša
-w, ʾu- kul, ku, kulla
+kul, ku, kulla w, ʾu-
 ʾaskar, ʾaskariya
 747875	naša
-ga xeta, xreta xa, xaʾa
+xeta, xreta ga xa, xaʾa
 ʾiman, ʾima
 ṱ
 naša
-w, ʾu- kut xa, xaʾa
+xa, xaʾa kut w, ʾu-
 747882	b- xena, xrena
 mara ʾaw, ʾo
 747888	ʾani, ʾan
@@ -33561,7 +33561,7 @@ mara ʾaw, ʾo
 747899	ʾay
 mo, mu, modi, maw, mawdi
 747902	qəm-
-ʾiða diya
+diya ʾiða
 rēš-, rəš-, rš-, š-
 747906	ʾap, ʾup xa, xaʾa
 747908	la
@@ -33603,18 +33603,18 @@ diya
 747989	ṱ
 l-
 malka
-w, ʾu- ʾaskar, ʾaskariya
+ʾaskar, ʾaskariya w, ʾu-
 747994	w, ʾu-
-747996	susa b- w, ʾu-
+747996	b- susa w, ʾu-
 748000	w, ʾu-
-ḥafla gu-
+gu- ḥafla
 goṛa
 w, ʾu-
 čol gu-
-748008	dukθa, duka l-
+748008	l- dukθa, duka
 ṱ
 malaxa
-748012	w, ʾu- malaxa
+748012	malaxa w, ʾu-
 ga xa, xaʾa
 xeta, xreta
 qəm-
@@ -33624,7 +33624,7 @@ malaxa
 748021	mo, mu, modi, maw, mawdi
 748023	ʾalaha
 šuxa
-l- šəmme
+šəmme l-
 748027	mo, mu, modi, maw, mawdi
 748029	he
 748032	hadiya, diya, hadayya
@@ -33633,7 +33633,7 @@ naša ʾaw, ʾo
 sawa
 748040	šlama
 748042	qəm- w, ʾu-
-gota mən, m-
+mən, m- gota
 l-
 748046	ʾati
 raba
@@ -33642,19 +33642,19 @@ w, ʾu-
 748054	spay
 748057	ʾana
 748064	b-
-748066	w, ʾu- ʾalaha
+748066	ʾalaha w, ʾu-
 ṱ
-748069	w, ʾu- mən, m-
-ʾana w, ʾu-
-748072	malka ʾap, ʾup
+748069	mən, m- w, ʾu-
+w, ʾu- ʾana
+748072	ʾap, ʾup malka
 b-
 bahs, bas tama
 qəṣṣət, qəṣṣətta
-748077	w, ʾu- t
+748077	t w, ʾu-
 748080	l- xarayuθa
 diya
 w, ʾu-
-748084	sab, săbab, m-săbab ʾaxtu
+748084	ʾaxtu sab, săbab, m-săbab
 mən, m-
 748089	b-
 malka
@@ -33675,7 +33675,7 @@ w, ʾu-
 naša
 ṱ
 748122	čol gu-
-748124	malka qa-
+748124	qa- malka
 mara
 malka
 ṱ
@@ -33691,7 +33691,7 @@ raba
 748147	malka
 748150	čol gu-
 748153	čol
-748156	w, ʾu- ʾaskar, ʾaskariya
+748156	ʾaskar, ʾaskariya w, ʾu-
 w, ʾu-
 748159	l-
 748161	hadiya, diya, hadayya
@@ -33705,7 +33705,7 @@ w, ʾu-
 748176	baθra, bara
 w, ʾu-
 baθra, bara
-w, ʾu- ʾaskar, ʾaskariya
+ʾaskar, ʾaskariya w, ʾu-
 kul, ku, kulla
 baθra, bara
 malka
@@ -33717,7 +33717,7 @@ malka
 ʾayya
 748201	ʾana
 la
-748204	ču məndi, mdi
+748204	məndi, mdi ču
 ṱ
 748208	ʾati
 748214	la
@@ -33743,7 +33743,7 @@ qam
 ʾana
 b-
 748259	t
-daṛmana xa, xaʾa
+xa, xaʾa daṛmana
 qa-
 748264	ʾati
 mo, mu, modi, maw, mawdi
@@ -33759,7 +33759,7 @@ kul, ku, kulla
 naša
 748284	ʾana
 748287	b-
-ču ʾurza
+ʾurza ču
 ʾəlla
 ṱ
 baxta
@@ -33773,7 +33773,7 @@ kəma
 hatta, hat
 748306	b-
 748310	ʾana
-748312	l- marya
+748312	marya l-
 ʾalaha
 ʾəlla
 ṱ
@@ -33787,20 +33787,20 @@ baxta
 xona
 diya
 748334	ʾina
-ʾati ʾən
-748337	qa- t
+ʾən ʾati
+748337	t qa-
 748340	b-
-w, ʾu- b-
+b- w, ʾu-
 ʾina
 748344	w, ʾu-
 748346	mən, m-
 gu-
-748349	w, ʾu- la
-748351	ču məndi, mdi
-w, ʾu- la
+748349	la w, ʾu-
+748351	məndi, mdi ču
+la w, ʾu-
 748354	gu-
 748356	ṱ
-w, ʾu- ʾani, ʾan
+ʾani, ʾan w, ʾu-
 748359	malka
 mən, m- ʾədyo, ʾədyoma
 malkuθa
@@ -33813,13 +33813,13 @@ w, ʾu-
 748376	hatxa, ʾatxa
 xa, xaʾa
 šazatta
-bɛθa gu-
+gu- bɛθa
 ʾap, ʾup
 748382	w, ʾu-
 maṭo
 ṱ
 he
-w, ʾu- xena, xrena
+xena, xrena w, ʾu-
 748388	xo, xoθ-
 waqəʿ
 mo, mu, modi, maw, mawdi ṱ
@@ -33834,17 +33834,17 @@ b-
 ʾalaha
 b-
 748411	w, ʾu-
-748413	w, ʾu- kul, ku, kulla
+748413	kul, ku, kulla w, ʾu-
 məndi, mdi
-qa- t
+t qa-
 ʾayya
 dara
-bahs, bas diya
+diya bahs, bas
 w, ʾu-
 w, ʾu- šula
 ʾanna
 748423	brona ʾax
-748425	bɛθa gu-
+748425	gu- bɛθa
 w, ʾu-
 748431	w, ʾu-
 bena
@@ -33852,11 +33852,11 @@ bena
 yoma
 xlula
 748439	l-
-w, ʾu- šadlaxana xa, xaʾa
+šadlaxana xa, xaʾa w, ʾu-
 goṛa
 748444	warda, wɛrda
 w, ʾu-
-w, ʾu- zmarta
+zmarta w, ʾu-
 w, ʾu-
 w, ʾu-
 748456	mira
@@ -33872,35 +33872,35 @@ mira
 ʾana
 748470	tama
 w, ʾu- laxxa
-ʾana ʾap, ʾup
-748474	dewa ʾax
+ʾap, ʾup ʾana
+748474	ʾax dewa
 k̭ora
 ʾawwa
 mo, mu, modi, maw, mawdi
 qəṣṣət, qəṣṣətta
 xa, xaʾa
-qam ʾərba
-748483	qam ʾərba
-kut yoma
+ʾərba qam
+748483	ʾərba qam
+yoma kut
 xa, xaʾa
 ʾərba
 748488	yoma xa, xaʾa
 748492	ʾərba ʾani, ʾan
 748495	mo, mu, modi, maw, mawdi ṭla-, ta-
-748498	dukθa, duka xa, xaʾa
+748498	xa, xaʾa dukθa, duka
 gu- xa, xaʾa
 748502	ʾərba
 748505	ʾərba xa, xaʾa
 748508	l- ṭura
 ʾap, ʾup ʾaw
-748514	ʾaw ʾərba
-748516	gu- gəppa xa, xaʾa
-748518	dewa xa, xaʾa
+748514	ʾərba ʾaw
+748516	gu- xa, xaʾa gəppa
+748518	xa, xaʾa dewa
 k̭ora
 tama
 k̭ora
 dmixa
-qam dewa
+dewa qam
 dewa ʾaw, ʾo
 748526	xala
 mən, m- ʾərba
@@ -33922,15 +33922,15 @@ lɛle
 748557	l- ṭura
 748559	qam
 dewa
-748566	ya marya
+748566	marya ya
 ʾalaha
 748569	dewa ʾaw, ʾo
 lɛle
 la
-748573	w, ʾu- la
-748575	w, ʾu- la
+748573	la w, ʾu-
+748575	la w, ʾu-
 748581	xala
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 748585	bɛθa
 ʾati
 majbur
@@ -33940,27 +33940,27 @@ t
 ʾərba
 gawṛa, gʸawṛa
 748599	ʾərba
-748601	ṭura gu-
+748601	gu- ṭura
 748605	kawe xa, xaʾa
-gare l-
+l- gare
 748609	kawe
 748613	tama
 baxta
 748617	ʾərba
-748619	w, ʾu- yoma xa, xaʾa
+748619	yoma xa, xaʾa w, ʾu-
 tre, treʾe
 ṭḷaθa, ṭḷa
 har
 dmixa
 748625	gawṛa, gʸawṛa
-748627	qam ʾərba
+748627	ʾərba qam
 ʾaxni
 mo, mu, modi, maw, mawdi
 ṱ
 mo, mu, modi, maw, mawdi
 748633	mara
-ʾana ʾap, ʾup
-748636	dewa ʾax
+ʾap, ʾup ʾana
+748636	ʾax dewa
 k̭ora
 yoma xa, xaʾa
 748641	mo, mu, modi, maw, mawdi
@@ -33968,17 +33968,17 @@ mən, m-
 qəṣṣət, qəṣṣətta
 748645	dewa ʾaw, ʾo
 k̭ora
-748649	dewa ʾaw, ʾo xa, xaʾa
+748649	xa, xaʾa dewa ʾaw, ʾo
 k̭ora
 dmixa
-ṭura gu-
-kut yoma
+gu- ṭura
+yoma kut
 xa, xaʾa
 748657	qam
 dewa
 ʾaw
-748662	ʾana ʾap, ʾup
-748664	dewa ʾax
+748662	ʾap, ʾup ʾana
+748664	ʾax dewa
 k̭ora
 hatta, hat
 ʾalaha
@@ -33993,17 +33993,17 @@ la
 748679	ʾərba
 ʾərba
 qəm-
-748684	kut yoma
+748684	yoma kut
 748686	l- ṭura
-748688	karta, kɛrta xa, xaʾa
+748688	xa, xaʾa karta, kɛrta
 qɛsa
-l- xaṣa
+xaṣa l-
 diya
 w, ʾu-
 šaqla
 ləxma xa, xaʾa
 palga
-ṭla-, ta- gawṛa, gʸawṛa
+gawṛa, gʸawṛa ṭla-, ta-
 palga
 ṭla-, ta-
 748700	yoma xa, xaʾa
@@ -34024,7 +34024,7 @@ diya
 t
 mara
 ʾana
-748727	dewa ʾax
+748727	ʾax dewa
 k̭ora
 748730	mən, m- dawa
 748736	gawṛa, gʸawṛa
@@ -34047,7 +34047,7 @@ lɛle
 748773	ʾana
 748775	fəllən, pəllən, flan
 dukθa, duka
-dukθa, duka xa, xaʾa
+xa, xaʾa dukθa, duka
 748779	hatxa, ʾatxa
 dawa
 ʾayya
@@ -34070,7 +34070,7 @@ naša ʾaw, ʾo
 dawa
 748812	baxta
 748815	l-
-748817	ʾani, ʾan dawa
+748817	dawa ʾani, ʾan
 748819	bɛθa l-
 748821	ʾurxa
 748823	ʾina
@@ -34097,22 +34097,22 @@ gu-
 b-
 b-
 748859	ʾawwa
-748861	gare l-
+748861	l- gare
 748863	qadalta
-ʾaw, ʾo ʾamana
+ʾamana ʾaw, ʾo
 rēš-, rəš-, rš-, š-
 kawe
 748868	kul, ku, kulla
 ṱ
-748871	xo, xoθ- qarša
+748871	qarša xo, xoθ-
 ʾəltəx
 748874	dawa
 748878	ṱ ʾaw, ʾo
 748880	ʾuḷḷuḷ
 ʾaw
-748884	w, ʾu- zala
+748884	zala w, ʾu-
 xarθa
-748888	ʾay, ʾey, ʾɛ, ʾa baxta
+748888	baxta ʾay, ʾey, ʾɛ, ʾa
 748890	ʾaqla
 diya
 748894	mo, mu, modi, maw, mawdi ṭla-, ta-
@@ -34129,18 +34129,18 @@ baxta
 xačča
 zăbun, zabbun
 748915	ʾana
-748917	la t
+748917	t la
 ʾati
 748920	ṱ
 ʾana
 748923	dawa
-w, ʾu- šwawa
+šwawa w, ʾu-
 qəm- w, ʾu-
 w, ʾu- naša
 t
 məndi, mdi
 w, ʾu-
-ḥukma l-
+l- ḥukma
 748932	ʾanna
 dawa
 748936	dawa
@@ -34165,13 +34165,13 @@ dəbbora
 748975	ʾina
 gawṛa, gʸawṛa
 diya
-748979	gu- dawa
+748979	dawa gu-
 liθ
-ʾani, ʾan t
+t ʾani, ʾan
 748983	ʾəltəx
 kul, ku, kulla
 748986	dawa
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 ʾalaha
 qəm-
 748991	naša
@@ -34189,14 +34189,14 @@ zala
 gu-
 qəm-
 nəmra xa, xaʾa
-749008	rakka gu-
+749008	gu- rakka
 749010	ləbba
 749013	qəm-
-749017	ṱ ta
+749017	ta ṱ
 749021	ta
 749023	ʾana
 749025	spayuθa
-749027	mo, mu, modi, maw, mawdi ta
+749027	ta mo, mu, modi, maw, mawdi
 ṱ
 749030	naša
 xayən
@@ -34213,7 +34213,7 @@ xaraye
 qəm-
 749056	naša
 xayən
-749059	ṱ ma
+749059	ma ṱ
 spayuθa
 749062	har
 xayənuθa
@@ -34229,7 +34229,7 @@ xayənuθa
 749086	kut
 749088	məndi, mdi xa, xaʾa
 749090	qəm-
-xa, xaʾa tela, tala, taʾla
+tela, tala, taʾla xa, xaʾa
 749093	ʾiða
 diya
 hatxa, ʾatxa
@@ -34239,7 +34239,7 @@ rašwa
 749100	dax, daxi
 ʾay
 749104	ʾawwa
-rakka gu-
+gu- rakka
 749107	ʾana
 qəm-
 diya
@@ -34266,7 +34266,7 @@ qəm-
 kθɛθa
 ṭla-, ta-
 749155	bena
-749157	baba ta
+749157	ta baba
 diya
 749160	qaḍiya, qaẓiya
 hatxa, ʾatxa
@@ -34277,7 +34277,7 @@ maṭo
 t
 tela, tala, taʾla
 kθɛθa
-ta tela, tala, taʾla
+tela, tala, taʾla ta
 749175	ʾana
 749179	kθɛθa
 ṭla-, ta-
@@ -34287,7 +34287,7 @@ qəm-
 diya
 w, ʾu-
 ʾaw
-749188	qɛsa xa, xaʾa
+749188	xa, xaʾa qɛsa
 749191	tela, tala, taʾla
 749193	ʾaw
 tela, tala, taʾla
@@ -34307,33 +34307,33 @@ spayuθa
 749219	kθɛθa
 gu-
 w, ʾu- qɛsa
-749223	reša gu-
+749223	gu- reša
 hatxa, ʾatxa
 naša
 xayən
 749228	xa, xaʾa
 749230	baba
-w, ʾu- brona
+brona w, ʾu-
 w, ʾu-
 brona
-baba ʾaw, ʾo
+ʾaw, ʾo baba
 749236	sawa
-749238	bɛθa gu-
-749244	ṭla-, ta- gawṛa, gʸawṛa
+749238	gu- bɛθa
+749244	gawṛa, gʸawṛa ṭla-, ta-
 diya
 749247	ʾawwa
 749251	gu-
 šeða
 749255	ʾanna
-ʾəmma šeta
+šeta ʾəmma
 749261	yan, ya
-749263	ʾana yan, ya
-749266	bɛθa mən, m- gu-
-ži yala
+749263	yan, ya ʾana
+749266	mən, m- gu- bɛθa
+yala ži
 749269	spay
 baxta
 749279	l-
-749281	l- xaṣa
+749281	xaṣa l-
 w, ʾu-
 zala
 749285	gu-
@@ -34343,7 +34343,7 @@ zala
 749298	qa-
 749302	qa-
 749307	mən, m-
-ʾana ʾən
+ʾən ʾana
 749311	mən, m-
 ʾap, ʾup ʾati
 ṱ
@@ -34351,12 +34351,12 @@ zala
 749317	b- kɛla
 749320	b-
 749323	brona
-749327	geba mən, m-
-geba mən, m-
+749327	mən, m- geba
+mən, m- geba
 749332	w, ʾu-
 749337	gu-
 749339	baxta
-749341	ya baxta
+749341	baxta ya
 ʾawwa
 xa, xaʾa
 ʾawwa
@@ -34380,24 +34380,24 @@ yoma xa, xaʾa
 749372	ṭxuna
 l- ʾarxe, ʾərxe
 qəm-
-749377	ʾarxe, ʾərxe gu-
+749377	gu- ʾarxe, ʾərxe
 w, ʾu-
 bena xa, xaʾa
 749381	hatxa, ʾatxa
 ʾina
-749384	dəbba xa, xaʾa
+749384	xa, xaʾa dəbba
 749387	qam
 ʾarxe, ʾərxe
 749391	b-
-dəbba ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa dəbba
 749395	dax, daxi
 749397	ʾana
 har
-ʾarxe, ʾərxe gu-
+gu- ʾarxe, ʾərxe
 bar xačča
 xena, xrena
 mara
-749404	xa, xaʾa tela, tala, taʾla
+749404	tela, tala, taʾla xa, xaʾa
 šlama
 749407	dəbba
 749409	b- šɛna
@@ -34412,15 +34412,15 @@ basima
 749426	b-
 749428	laxxa
 xanči, xanča
-749432	ʾana ʾap, ʾup
+749432	ʾap, ʾup ʾana
 ṱ
 ʾaxxa
 749437	xačča
 xena, xrena
-749442	kalba xa, xaʾa
+749442	xa, xaʾa kalba
 ʾap, ʾup
 šlama
-749446	b- w, ʾu- šɛna
+749446	b- šɛna w, ʾu-
 ṭawaθa
 ʾap, ʾup ʾaw
 749450	xačča
@@ -34428,13 +34428,13 @@ xena, xrena
 749454	qaṭu, qaṭuθa xa, xaʾa
 ʾap, ʾup
 šlama
-749458	b- w, ʾu- šɛna
+749458	b- šɛna w, ʾu-
 ṭawaθa
 ʾap, ʾup
 749463	xačča
 xena, xrena
 bena xa, xaʾa
-749467	xa, xaʾa ʾaqubra
+749467	ʾaqubra xa, xaʾa
 susa
 749470	w, ʾu-
 749472	xumala
@@ -34444,7 +34444,7 @@ susa
 tama
 749480	susa
 749483	šlama
-749486	b- w, ʾu- šɛna
+749486	b- šɛna w, ʾu-
 ṭawaθa
 ha
 xona
@@ -34550,28 +34550,28 @@ liθ
 ʾaxni
 749665	ʾana
 bena xa, xaʾa
-749668	kisa xa, xaʾa
+749668	xa, xaʾa kisa
 hatxa, ʾatxa
 749671	dawa
 w, ʾu-
-749674	xo, xoθ- xa, xaʾa
+749674	xa, xaʾa xo, xoθ-
 ʾilana
-749677	w, ʾu- tama
-w, ʾu- kut bena
-749680	xa, xaʾa dawa
+749677	tama w, ʾu-
+bena kut w, ʾu-
+749680	dawa xa, xaʾa
 749683	w, ʾu-
 xo, xoθ-
 ʾilana
-rēš-, rəš-, rš-, š- dawa
-749688	la t ta
+dawa rēš-, rəš-, rš-, š-
+749688	t ta la
 xa, xaʾa
 749694	tela, tala, taʾla
-749698	ʾaw, ʾo dawa
+749698	dawa ʾaw, ʾo
 749703	hal, ha-
 ʾay, ʾey, ʾɛ, ʾa ṱ
 kul, ku, kulla
-749707	kut xa, xaʾa
-749709	gota xa, xaʾa
+749707	xa, xaʾa kut
+749709	xa, xaʾa gota
 ʾaw
 749712	baθra, bara
 baθra, bara
@@ -34581,9 +34581,9 @@ baθra, bara
 tela, tala, taʾla
 749723	tela, tala, taʾla
 dmixa
-xo, xoθ- ʾilana xa, xaʾa
+xa, xaʾa xo, xoθ- ʾilana
 749728	qaṭita xa, xaʾa
-qɛsa xa, xaʾa
+xa, xaʾa qɛsa
 749731	tela, tala, taʾla
 tela, tala, taʾla
 749734	ʾaw
@@ -34618,7 +34618,7 @@ w, ʾu-
 ʾɛka
 749798	qəm-
 749801	tiwa
-749803	ʾarxe, ʾərxe gu-
+749803	gu- ʾarxe, ʾərxe
 749807	tre, treʾe
 749809	l- ʾarxe, ʾərxe
 749811	ga xa, xaʾa
@@ -34664,7 +34664,7 @@ mo, mu, modi, maw, mawdi
 mo, mu, modi, maw, mawdi
 749881	hal, ha-
 hatxa, ʾatxa
-naša xa, xaʾa
+xa, xaʾa naša
 749886	w, ʾu-
 kul, ku, kulla
 dawa
@@ -34677,20 +34677,20 @@ la
 mən, m-
 dawa
 749903	ʾəlla
-749905	w, ʾu- xa, xaʾa
+749905	xa, xaʾa w, ʾu-
 749907	lazəm
 ʾɛka
 ṱ
 749913	b-
-ʾarxe, ʾərxe gu-
-749917	ʾarxe, ʾərxe gu-
+gu- ʾarxe, ʾərxe
+749917	gu- ʾarxe, ʾərxe
 749919	balki
-ʾap, ʾup ʾədyo, ʾədyoma ṱ
+ʾap, ʾup ṱ ʾədyo, ʾədyoma
 749927	balki
 ṱ
 ʾap, ʾup ʾədyo, ʾədyoma
 tama
-749932	ʾarxe, ʾərxe gu-
+749932	gu- ʾarxe, ʾərxe
 ṭaya
 w, ʾu-
 bena xa, xaʾa
@@ -34704,12 +34704,12 @@ xa, xaʾa
 749957	ʾaxxa
 749960	w, ʾu-
 kul, ku, kulla
-w, ʾu- nyasa
+nyasa w, ʾu-
 xala
 749965	w, ʾu- ʾaw
-ga hal, ha- ʾay, ʾey, ʾɛ, ʾa
+hal, ha- ga ʾay, ʾey, ʾɛ, ʾa
 məṭya ṱ
-l- maθa
+maθa l-
 palga
 749971	t ma
 749974	gu- maθa
@@ -34733,16 +34733,16 @@ məndi, mdi xa, xaʾa
 750009	xa, xaʾa
 ʾurxa
 750012	l-
-750014	la t
+750014	t la
 750017	l-
 750020	ma
 750022	gðaðe
-w, ʾu- ma
+ma w, ʾu-
 750025	zwaða
 xa, xaʾa
 ʾurxa
 750029	l-
-750031	la t
+750031	t la
 750034	l-
 750036	w, ʾu-
 750038	ṭura
@@ -34754,7 +34754,7 @@ kul, ku, kulla
 750052	xa, xaʾa
 ʾurxa
 750055	l-
-750057	la t
+750057	t la
 750060	l-
 750062	hadiya, diya, hadayya
 750066	ṭaya
@@ -34764,31 +34764,31 @@ baθər, bar
 qəm-
 qəm-
 750075	ʾina
-750078	l- karma, kɛrma, kʸɛrma
+750078	karma, kɛrma, kʸɛrma l-
 750080	karma, kɛrma, kʸɛrma
 750083	sab, săbab, m-săbab
 750085	qam
-la t
-750088	gəppa gu-
+t la
+750088	gu- gəppa
 ʾawwa
 750091	ṱ
-750093	xo, xoθ- daliθa
-w, ʾu- kul, ku, kulla
+750093	daliθa xo, xoθ-
+kul, ku, kulla w, ʾu-
 750096	xabuša w, ʾu-
-ʾənwa w, ʾu-
-w, ʾu- daliθa
+w, ʾu- ʾənwa
+daliθa w, ʾu-
 kul, ku, kulla
 750105	w, ʾu-
 šima
-750109	b- hewən la t
-w, ʾu- la t
-750115	mən, m- gəppa gu-
+750109	t la hewən b-
+t la w, ʾu-
+750115	mən, m- gu- gəppa
 diya
 750118	ṱ
-750120	mən, m- gəppa gu-
+750120	mən, m- gu- gəppa
 diya
 750124	karma, kɛrma, kʸɛrma
-750127	ču məndi, mdi
+750127	məndi, mdi ču
 ʾawwa
 750133	ṱ
 t ta
@@ -34797,21 +34797,21 @@ gəppa
 t ta
 750139	ʾayya
 750141	garra xa, xaʾa
-750143	gəppa gu-
+750143	gu- gəppa
 kriba
 kriba
 750147	ga xa, xaʾa
 xeta, xreta
-750152	xo, xoθ- daliθa xa, xaʾa
+750152	daliθa xa, xaʾa xo, xoθ-
 xeta, xreta
-750155	w, ʾu- ʾani, ʾan
+750155	ʾani, ʾan w, ʾu-
 750157	šurela
 bena xa, xaʾa
 xeta, xreta
 750162	w, ʾu-
 šima
-750166	b- hewən la t
-w, ʾu- la t
+750166	t la hewən b-
+t la w, ʾu-
 750169	ga xa, xaʾa
 xeta, xreta
 750173	kriba
@@ -34831,9 +34831,9 @@ ga, gaya xa, xaʾa
 xeta, xreta
 750205	w, ʾu-
 šima
-750209	b- hewən la t
-w, ʾu- la t
-750215	l- gana, jana
+750209	t la hewən b-
+t la w, ʾu-
+750215	gana, jana l-
 diya
 w, ʾu-
 w, ʾu-
@@ -34849,14 +34849,14 @@ la
 750236	gəppa
 750241	tama
 qam
-ṱ ʾax
+ʾax ṱ
 750245	tama
 qam
 diya
 750250	kθawa
 750253	kθawa
 diya
-750256	jeba, jɛba gu-
+750256	gu- jeba, jɛba
 750258	t ʾax
 750260	ʾay
 750262	sɛpa
@@ -34870,8 +34870,8 @@ diya
 qəm-
 pəčča tre, treʾe
 pəčča xa, xaʾa
-750276	gota l-
-gota l- xa, xaʾa
+750276	l- gota
+xa, xaʾa gota l-
 ʾay
 750280	xa, xaʾa sɛpa
 xena, xrena
@@ -34901,7 +34901,7 @@ t
 750326	b- rēš-, rəš-, rš-, š-
 750328	gawṛa, gʸawṛa xamši
 la
-ṱ ma
+ma ṱ
 goṛa
 750333	ʾana
 b-
@@ -34910,13 +34910,13 @@ tama
 t ta
 la
 750343	ʾalahuθa
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 750348	qəm-
-750350	ṭla-, ta- xwarzaya, xwarza, xurzaya
+750350	xwarzaya, xwarza, xurzaya ṭla-, ta-
 750353	hatxa, ʾatxa
 w, ʾu- kepa, kʸepa
-750357	mən, m- lina gu-
+750357	mən, m- gu- lina
 tela, tala, taʾla
 750361	b- lɛle
 750364	ṱ
@@ -34931,21 +34931,21 @@ daliθa
 ʾəlla
 750379	ṃəḷya
 ʾənwa
-xurta, xorta xa, xaʾa
-750383	ʾənwa ʾani, ʾan
+xa, xaʾa xurta, xorta
+750383	ʾani, ʾan ʾənwa
 hadəx
 koma
 bšila
 750388	tela, tala, taʾla
 750390	la
 ṱ
-750394	ʾənwa ʾani, ʾan
+750394	ʾani, ʾan ʾənwa
 750396	la
 750400	ʾənwa
 750403	basima
 xala ṭla-, ta-
-ga ʾay, ʾey, ʾɛ, ʾa
-manay, manaya diya
+ʾay, ʾey, ʾɛ, ʾa ga
+diya manay, manaya
 750408	ʾənwa
 xamuṣa
 ʾənwa
@@ -34956,16 +34956,16 @@ xamuṣa
 ʾən
 ṱ
 750419	xamuṣa
-malka xa, xaʾa
-kut yoma
-brata xa, xaʾa
+xa, xaʾa malka
+yoma kut
+xa, xaʾa brata
 750424	mbadla
 750430	brata
-750432	kut yoma
+750432	yoma kut
 xa, xaʾa
 liθ
 ʾawwa
-750438	brata xa, xaʾa
+750438	xa, xaʾa brata
 ʾay, ʾey, ʾɛ, ʾa brata
 750441	ṭla-, ta-
 ṭla-, ta- baba
@@ -34981,23 +34981,23 @@ qəṣṣət, qəṣṣətta
 750463	diya
 750465	malka
 ʾaw
-750469	xa, xaʾa qəṣṣət, qəṣṣətta
+750469	qəṣṣət, qəṣṣətta xa, xaʾa
 qaṭu, qaṭuθa ṭla-, ta-
 750472	qaṭu, qaṭuθa ṭla-, ta-
 750474	qaṭu, qaṭuθa
 lɛle
-750478	xa, xaʾa qəṣṣət, qəṣṣətta
-dana ʾay, ʾey, ʾɛ, ʾa
+750478	qəṣṣət, qəṣṣətta xa, xaʾa
+ʾay, ʾey, ʾɛ, ʾa dana
 mbadla
 750482	malka
-750484	sab, săbab, m-săbab kəma ṱ
+750484	kəma ṱ sab, săbab, m-săbab
 750486	ʾaṣərta
 750488	mbadla
 750491	mbadla
 750493	malka ʾaw
 750497	mən, m- biš
 goṛa
-ču məndi, mdi
+məndi, mdi ču
 750501	ʾayya
 tuniθa
 qaṭu, qaṭuθa ṭla-, ta-
@@ -35011,15 +35011,15 @@ baxta
 ʾaw, ʾo
 750522	ʾayya
 baxta
-kut yoma
-750527	ṭla-, ta- brona
+yoma kut
+750527	brona ṭla-, ta-
 diya
 750531	diya
 mədrasa
 brona
 diya
-mədrasa gu-
-kut yoma
+gu- mədrasa
+yoma kut
 750539	l- yala
 750541	čanta
 750544	məndi, mdi
@@ -35030,17 +35030,17 @@ hatxa, ʾatxa
 ʾən
 hatxa, ʾatxa
 750559	spay
-750561	mədrasa mən, m-
+750561	mən, m- mədrasa
 750565	mədrasa
 750568	la
 hatxa, ʾatxa
 məndi, mdi
-750573	mədrasa mən, m-
+750573	mən, m- mədrasa
 750575	gu-
-ži gu-
-kut yoma
+gu- ži
+yoma kut
 750579	kθɛθa
-750581	ga ʾay, ʾey, ʾɛ, ʾa
+750581	ʾay, ʾey, ʾɛ, ʾa ga
 750583	feka, peka
 750586	xrawa
 gu-
@@ -35058,15 +35058,15 @@ qəm-
 750610	mo, mu, modi, maw, mawdi
 750613	xmara xa, xaʾa
 ṱ
-750616	kut yoma
+750616	yoma kut
 l- ṭura
 ṱ
 qɛsa
 750621	ṭla-, ta-
-kut yoma
+yoma kut
 ṭena, ṭana xa, xaʾa
 qɛsa
-750628	mo, mu, modi, maw, mawdi qa-
+750628	qa- mo, mu, modi, maw, mawdi
 la
 750631	ʾayya
 b-
@@ -35076,7 +35076,7 @@ xoš
 750642	qurṭana
 xmara
 750645	nara xa, xaʾa
-750647	kut yoma
+750647	yoma kut
 750650	l- ṭura
 750652	l- ṭura
 750654	ṭena, ṭana xa, xaʾa
@@ -35090,29 +35090,29 @@ yoma xa, xaʾa
 750668	mən, m- maθa
 750670	l- ṭura
 750672	gu- xa, xaʾa
-ṭura ʾax
+ʾax ṭura
 750675	məndi, mdi
 750677	məṭra
 750679	məṭra
 məṭra
-ži ʾani, ʾan
+ʾani, ʾan ži
 750685	kul, ku, kulla
-750687	gu- gəppa xa, xaʾa
+750687	gu- xa, xaʾa gəppa
 750690	məṭra
-750692	gu- gəppa xa, xaʾa
+750692	gu- xa, xaʾa gəppa
 ʾaw, ʾo yala
 zora
 žare
 750697	ʾaw
 750700	nara
-750702	gu- gəppa xa, xaʾa
+750702	gu- xa, xaʾa gəppa
 xena, xrena
 tiwa
 hatxa, ʾatxa
 750707	nara
-750709	qərša xa, xaʾa
-ʾiða xa, xaʾa
-xa, xaʾa prəzla
+750709	xa, xaʾa qərša
+xa, xaʾa ʾiða
+prəzla xa, xaʾa
 xa, xaʾa kepa, kʸepa
 goṛa
 xa, xaʾa
@@ -35128,11 +35128,11 @@ prəzla
 750741	ʾina
 750743	xa, xaʾa kepa, kʸepa
 hatxa, ʾatxa
-w, ʾu- yadde xa, xaʾa
+yadde xa, xaʾa w, ʾu-
 750748	t prəzla
 750750	xɛla
 750753	ʾina
-xa, xaʾa baluʿa
+baluʿa xa, xaʾa
 750756	hal, ha-
 diya
 duša
@@ -35158,7 +35158,7 @@ hal, ha-
 ʾaṣərta
 ʾaṣərta
 tre, treʾe
-750795	ga xəðya mo, mu, modi, maw, mawdi
+750795	ga mo, mu, modi, maw, mawdi xəðya
 b-
 duša
 ʾawwa
@@ -35175,13 +35175,13 @@ duša
 750825	ʾati
 gu-
 baluʿa
-750829	ʾaw duša
+750829	duša ʾaw
 ṱ
 750832	w, ʾu-
 ʾanna
 zuze
 750836	b- ġðaðe
-750838	ʾaw ṣala
+750838	ṣala ʾaw
 tama
 750841	xawla, ḥawla
 b- reša
@@ -35195,15 +35195,15 @@ w, ʾu-
 750858	xmara
 dəmma
 ṱ
-750863	bar xmara
+750863	xmara bar
 750865	ṭla-, ta-
 xmara
 750869	dewa
-gu- lawurta xa, xaʾa
+lawurta gu- xa, xaʾa
 750872	ʾaw
 xmara
 750875	w, ʾu-
-ču məndi, mdi
+məndi, mdi ču
 mən, m-
 ʾanna
 750882	bahs, bas
@@ -35251,10 +35251,10 @@ b- reša
 750951	ʾərba
 750953	xmara
 qəm-
-w, ʾu- ʾawwa
+ʾawwa w, ʾu-
 750960	ʾap, ʾup
 750962	dəmma
-w, ʾu- məndi, mdi
+məndi, mdi w, ʾu-
 w, ʾu-
 ṭla-, ta-
 750968	xaššana
@@ -35280,7 +35280,7 @@ w, ʾu-
 751003	ṭla-, ta-
 751005	xakma, xamka dewa
 751007	ʾaw
-w, ʾu- xmara
+xmara w, ʾu-
 751010	w, ʾu-
 ʾaxči
 751013	ʾawwa
@@ -35289,11 +35289,11 @@ nišanqa
 751017	ʾayya
 751021	draya
 qəṭma
-reša gu-
+gu- reša
 diya
 brona
 diya
-751028	w, ʾu- zuze ʾani, ʾan
+751028	ʾani, ʾan w, ʾu- zuze
 751030	b- ġðaðe
 751032	diya
 mən, m-
@@ -35301,8 +35301,8 @@ mən, m-
 ʾaw, ʾo
 751039	məskena
 751041	tama
-hənna gu-
-751044	ya marya
+gu- hənna
+751044	marya ya
 ʾalaha
 751047	ga mo, mu, modi, maw, mawdi
 751049	ʾalaha ṭla-, ta-
@@ -35315,14 +35315,14 @@ xo-, xu-
 751064	qəm-
 gu-
 qunya
-ʾana w, ʾu-
+w, ʾu- ʾana
 mo, mu, modi, maw, mawdi
 751070	ʾana
 751073	la
 xərbayuθa
 la
 spayuθa
-naša ču ṭla-, ta-
+ṭla-, ta- naša ču
 har yala
 751080	tiwa
 tama
@@ -35333,7 +35333,7 @@ xa, xaʾa
 miya
 liθ
 751094	hal, ha-
-mbadla gu-
+gu- mbadla
 tama
 751098	yoma
 har
@@ -35342,17 +35342,17 @@ zora
 beṛa
 purya
 751107	b-
-751109	purya xa, xaʾa
+751109	xa, xaʾa purya
 laxxa
 zora
 ʾaw
-məndi, mdi har xa, xaʾa
+məndi, mdi xa, xaʾa har
 751115	yala
 zora
 məndi, mdi
 751119	skinta
 751121	nara ʾaw, ʾo
-751124	skinta ʾay, ʾey, ʾɛ, ʾa
+751124	ʾay, ʾey, ʾɛ, ʾa skinta
 t
 751127	duša
 751133	gu- xa, xaʾa
@@ -35360,15 +35360,15 @@ t
 zala
 har
 751140	b-
-751142	ʾɛka hal, ha-
+751142	hal, ha- ʾɛka
 751147	gu-
 751149	l- xa, xaʾa
 751151	l- xa, xaʾa
 w, ʾu-
 ʾina
 751155	b- qɛsa
-kilon xa, xaʾa
-w, ʾu- sema
+xa, xaʾa kilon
+sema w, ʾu-
 751159	sema
 b- reša
 lɛle
@@ -35379,18 +35379,18 @@ xeta, xreta
 šəmša
 milana
 751171	milana
-751173	ya marya
+751173	marya ya
 ʾalaha
 ʾayya
 751177	ʾana
 zala
 har
-751183	ṱ ma
+751183	ma ṱ
 ṣiya
 miya
 751188	milanuθa
 ṣala
-751191	ʾilana xa, xaʾa
+751191	xa, xaʾa ʾilana
 751194	ʾilana
 w, ʾu-
 xačča
@@ -35405,7 +35405,7 @@ məskena
 751212	tama
 751214	ga xa, xaʾa
 xeta, xreta
-751218	har ṱ
+751218	ṱ har
 751220	ʾɛka
 751223	bena xa, xaʾa
 751225	mən, m- rəḥqa
@@ -35417,11 +35417,11 @@ milanuθa
 751235	qaṣra xa, xaʾa
 raba
 goṛa
-751241	naša ču
+751241	ču naša
 liθ
 751244	b-
 ʾana
-har ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa har
 zala
 751249	ṱ
 751251	mo, mu, modi, maw, mawdi
@@ -35432,15 +35432,15 @@ kul, ku, kulla xa, xaʾa
 mɛxolta
 751262	hazər, haẓər, hað̣ər
 šaxina
-naša ču
+ču naša
 liθ
-751269	gu- ʾotəx, ʾotaxa xa, xaʾa
+751269	ʾotəx, ʾotaxa gu- xa, xaʾa
 xeta, xreta
 goṛa
 751273	xakma, xamka
-751275	gota mən, m-
+751275	mən, m- gota
 xakma, xamka
-gota mən, m-
+mən, m- gota
 xa, xaʾa
 751281	kul, ku, kulla
 751283	b- kepa, kʸepa
@@ -35455,7 +35455,7 @@ mo, mu, modi, maw, mawdi
 751298	kut
 xuwwe
 ʾawwa
-ʾawwa la
+la ʾawwa
 751307	tama
 ʾaw
 škira
@@ -35489,19 +35489,19 @@ xuwwe ʾaw, ʾo
 751357	ṭla-, ta-
 751359	b- šɛna
 751361	ʾədyo, ʾədyoma
-751363	w, ʾu- la
+751363	la w, ʾu-
 751366	ʾap, ʾup ʾaw
 məskena
 751369	raḥat, rahat
 751371	mɛxolta
 751373	məndi, mdi
-751376	kul, ku, kulla məndi, mdi xa, xaʾa
+751376	məndi, mdi kul, ku, kulla xa, xaʾa
 mən, m- ġðaðe
 751380	ʾati
 751382	qəṣṣət, qəṣṣətta
 751384	mən, m-
 751386	laxxa
-w, ʾu- dax, daxi
+dax, daxi w, ʾu-
 751389	maləkθa
 ṱ
 basima
@@ -35520,7 +35520,7 @@ našuθa
 751418	w, ʾu- ʾədyo, ʾədyoma
 751420	ʾana
 laxxa
-751423	ʾana ʾap, ʾup
+751423	ʾap, ʾup ʾana
 ʾawwa
 751426	ṱ
 751428	bəd, bud
@@ -35532,7 +35532,7 @@ mara
 ʾawwa
 751440	ṱ
 yoma xa, xaʾa
-751443	ʾiða bəd, bud
+751443	bəd, bud ʾiða
 751445	ʾati
 751449	maləkθa
 ṱ
@@ -35544,31 +35544,31 @@ mawθa, moθa
 ʾana
 skinta
 751462	l-
-w, ʾu- la
+la w, ʾu-
 751465	l-
 751468	w, ʾu-
 la
 751472	ʾana
 751474	hatxa, ʾatxa
 də-, de-
-751477	ga ʾay, ʾey, ʾɛ, ʾa
-751479	ʾana ʾap, ʾup
-751482	xa, xaʾa qəṣṣət, qəṣṣətta
+751477	ʾay, ʾey, ʾɛ, ʾa ga
+751479	ʾap, ʾup ʾana
+751482	qəṣṣət, qəṣṣətta xa, xaʾa
 751485	də-, de-
 maləkθa
 mara
-751492	malka xa, xaʾa
+751492	xa, xaʾa malka
 t
 751495	brona xa, xaʾa
 751497	w, ʾu-
 ʾaw
 w, ʾu-
-w, ʾu- tre, treʾe
+tre, treʾe w, ʾu-
 751502	ṣɛda
 751504	ṣɛda
-751506	w, ʾu- bena xa, xaʾa
+751506	bena xa, xaʾa w, ʾu-
 751508	xa, xaʾa
-dašta gu-
+gu- dašta
 w, ʾu-
 bar
 hal, ha-
@@ -35585,14 +35585,14 @@ yama
 751532	ʾaw, ʾo
 malka
 751535	malka
-w, ʾu- ʾani, ʾan tre, treʾe
+tre, treʾe ʾani, ʾan w, ʾu-
 751539	t ta
 751541	mən, m- gu-
-751543	w, ʾu- bena xa, xaʾa
-751547	yama gu-
+751543	bena xa, xaʾa w, ʾu-
+751547	gu- yama
 w, ʾu-
 w, ʾu-
-751552	yama gu-
+751552	gu- yama
 751554	ʾap, ʾup ʾani, ʾan
 751561	qəm- w, ʾu-
 751563	bəsra ʾaw, ʾo
@@ -35632,7 +35632,7 @@ w, ʾu-
 751618	ʾap, ʾup
 qima
 751623	gu-
-751627	naša xa, xaʾa
+751627	xa, xaʾa naša
 751630	ʾina
 ʾay, ʾey, ʾɛ, ʾa
 kul, ku, kulla
@@ -35647,9 +35647,9 @@ qaṣra xa, xaʾa
 raba
 šapira
 751655	he
-751659	qaṣra gu-
+751659	gu- qaṣra
 751662	mɛxolta w, ʾu-
-751664	w, ʾu- kul, ku, kulla məndi, mdi
+751664	məndi, mdi kul, ku, kulla w, ʾu-
 751666	ʾina
 naša
 liθ
@@ -35657,7 +35657,7 @@ mara
 751672	mara
 malka
 751675	taxta l-
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 751678	rēš-, rəš-, rš-, š- kursa
 rēš-, rəš-, rš-, š- xa, xaʾa
 w, ʾu-
@@ -35668,7 +35668,7 @@ bena xa, xaʾa
 751686	ʾina
 mo, mu, modi, maw, mawdi
 751689	maymun
-751692	ṱ dax, daxi
+751692	dax, daxi ṱ
 maymun
 751695	l- ʾilana
 751698	bala
@@ -35677,7 +35677,7 @@ maymun
 maymun
 751703	tama
 ʾani, ʾan
-751706	w, ʾu- sɛpa
+751706	sɛpa w, ʾu-
 qəšta w, ʾu-
 gera
 751711	maymun ṭla-, ta-
@@ -35705,7 +35705,7 @@ diya
 751751	maymun
 751753	dax, daxi
 751756	maymun
-ṱ ʾax
+ʾax ṱ
 malka
 751762	malka
 751766	kul, ku, kulla
@@ -35717,24 +35717,24 @@ naša
 malka
 751776	hadiya, diya, hadayya
 ʾati
-751779	w, ʾu- hal, ha-
+751779	hal, ha- w, ʾu-
 ʾamra
 ṱ
 xaðuθa, xaduθa
 yaba
-mbadla hal, ha-
+hal, ha- mbadla
 751787	w, ʾu-
 xalta w, ʾu-
-751790	xabra w, ʾu- hal, ha-
+751790	hal, ha- xabra w, ʾu-
 ṭla-, ta-
 maymun
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 751795	xoš
 751797	xabra
 ṭla-, ta-
 maymun
 ga
-xaðuθa, xaduθa xa, xaʾa
+xa, xaʾa xaðuθa, xaduθa
 751803	ʾanna
 751805	tama
 mo, mu, modi, maw, mawdi
@@ -35748,12 +35748,12 @@ malka
 ʾupra
 751821	ʾayya
 751823	goṛa
-751827	ʾupra gu-
+751827	gu- ʾupra
 751830	qima
 yoma
 751833	maymun
 w, ʾu-
-751837	ṭura xa, xaʾa
+751837	xa, xaʾa ṭura
 ʾina
 751840	xakma, xamka
 dewa
@@ -35772,7 +35772,7 @@ hodəx
 dewa
 751867	bar
 hal, ha-
-dewa t
+t dewa
 mara
 hal, ha- gu-
 ṭura
@@ -35794,14 +35794,14 @@ wadi
 751896	mən, m- tama
 hodəx
 ṱ
-751900	nera, nara xa, xaʾa
+751900	xa, xaʾa nera, nara
 ʾaxči
 751903	šabθa
 751905	kut
 šabθa
 miya
 la
-nera, nara gu-
+gu- nera, nara
 l- paθa
 751912	nera, nara
 ʾiθ
@@ -35832,11 +35832,11 @@ dewa
 ṭura
 751952	l-
 ṭura
-l- t wadi
+t wadi l-
 šəkwane
 751957	ṱ
-wadi gu-
-ga ʾay, ʾey, ʾɛ, ʾa
+gu- wadi
+ʾay, ʾey, ʾɛ, ʾa ga
 ʾaxni
 751963	ʾən
 šəkwane
@@ -35856,9 +35856,9 @@ liθ
 751992	ʾani, ʾan
 w, ʾu-
 751995	ʾaθṛa
-751998	xabra hal, ha-
+751998	hal, ha- xabra
 maymun ṭla-, ta-
-w, ʾu- kul, ku, kulla
+kul, ku, kulla w, ʾu-
 752004	xabra
 maymun ṭla-, ta-
 752007	maymun
@@ -35871,7 +35871,7 @@ mara
 752023	maymun
 yoma
 w, ʾu-
-malka ʾap, ʾup
+ʾap, ʾup malka
 malka
 w, ʾu-
 752031	qəšta w, ʾu-
@@ -35886,7 +35886,7 @@ bena xa, xaʾa
 dewa
 752046	w, ʾu-
 baθər, bar
-752050	ṭura gu-
+752050	gu- ṭura
 ʾina
 752053	qayəmθa xa, xaʾa
 752055	tama
@@ -35898,7 +35898,7 @@ hudxa
 šəkwane
 kul, ku, kulla
 752069	kul, ku, kulla
-752071	wadi gu-
+752071	gu- wadi
 ʾanna
 šəkwane
 ṱ
@@ -35910,15 +35910,15 @@ maymun
 xoš
 752086	ʾaxni
 ṱ
-752089	sab, săbab, m-săbab ʾaxtu
+752089	ʾaxtu sab, săbab, m-săbab
 752091	kčixa
 raba
 maymun
 kul, ku, kulla
-752096	w, ʾu- bena xa, xaʾa
+752096	bena xa, xaʾa w, ʾu-
 ʾani, ʾan
 752100	gana, jana
-752102	gu- t wadi
+752102	t gu- wadi
 šəkwane
 bena xa, xaʾa
 hadəx
@@ -35931,7 +35931,7 @@ liθ
 752115	liθ
 752120	baθra, bara
 kul, ku, kulla
-752124	ži ʾanna
+752124	ʾanna ži
 752126	ʾanna
 maymun
 gu-
@@ -35949,15 +35949,15 @@ mən, m- xa, xaʾa
 qəm-
 xa, xaʾa
 752144	malka
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 752147	məṭya
-nera, nara l-
+l- nera, nara
 752151	šabθa
 ʾina
-752157	nera, nara gu-
+752157	gu- nera, nara
 ʾawwa
-752160	ži xena, xrena
-752162	miya b-
+752160	xena, xrena ži
+752162	b- miya
 752164	bahs, bas
 malka
 malka
@@ -35975,7 +35975,7 @@ qəṣṣət, qəṣṣətta
 qəṣṣət, qəṣṣətta
 752190	raba
 752192	ʾən
-752194	xulama xa, xaʾa
+752194	xa, xaʾa xulama
 gu-
 752197	ma
 752200	gu-
@@ -36005,13 +36005,13 @@ ha
 752251	mən, m-
 mən, m-
 maθa
-752256	kut ṭḷaθa, ṭḷa
+752256	ṭḷaθa, ṭḷa kut
 šeta
 bena xa, xaʾa
 752260	laxxa
 752264	laxxa
 w, ʾu-
-ṱ ha
+ha ṱ
 752269	laxxa
 ga xa, xaʾa
 xeta, xreta
@@ -36020,7 +36020,7 @@ t ta
 sab, săbab, m-săbab
 spay
 752279	yala
-752281	ču məndi, mdi
+752281	məndi, mdi ču
 la
 kut
 752285	w, ʾu-
@@ -36031,24 +36031,24 @@ kut
 yoma xa, xaʾa
 ṭḷaθa, ṭḷa tre, treʾe
 yoma xa, xaʾa
-752298	naša xa, xaʾa
+752298	xa, xaʾa naša
 752303	mbadla
 hal, ha- ʾaṣərta
-w, ʾu- ʾəsri
+ʾəsri w, ʾu-
 ʾarba, ʾarpa
 752308	ṱ
 t
-ʾəmma dawa
-w, ʾu- lɛle b-
+dawa ʾəmma
+b- w, ʾu- lɛle
 t
-ži baxta xa, xaʾa
+baxta xa, xaʾa ži
 jariya xa, xaʾa
 ʾaw, ʾo
 b-
 xoš
 mbadla
 hal, ha- ʾaṣərta
-w, ʾu- ʾəmma
+ʾəmma w, ʾu-
 dawa
 ga
 xo-, xu-
@@ -36062,17 +36062,17 @@ la
 xoš
 752339	ma
 ʾana
-752342	ʾəmma ʾani, ʾan
+752342	ʾani, ʾan ʾəmma
 dawa
 752345	ṭla-, ta-
 w, ʾu-
-752348	ʾani, ʾan dawa
+752348	dawa ʾani, ʾan
 752350	naša
 t
 752355	yaba
-ʾəmma ʾani, ʾan
+ʾani, ʾan ʾəmma
 dawa
-xo-, xu- la
+la xo-, xu-
 752360	ṱ
 ʾaṣərta
 ṱ
@@ -36087,7 +36087,7 @@ la
 mbadla
 752381	ṱ
 diya
-kul, ku, kulla məndi, mdi t
+t məndi, mdi kul, ku, kulla
 752388	ma
 752390	susa xa, xaʾa
 752392	skinta xa, xaʾa
@@ -36100,7 +36100,7 @@ rama
 752406	mən, m-
 752409	susa
 752411	susa
-752414	w, ʾu- mən, m-
+752414	mən, m- w, ʾu-
 bar
 752417	qðala
 752420	də-, de-
@@ -36113,10 +36113,10 @@ mən, m-
 kəma t
 752431	la
 hal, ha- ṱ
-752434	ga ʾay, ʾey, ʾɛ, ʾa
+752434	ʾay, ʾey, ʾɛ, ʾa ga
 752437	ma
 ʾawwa ži
-752440	hənna gu-
+752440	gu- hənna
 752442	xačča
 b- yoma
 xəmma
@@ -36128,26 +36128,26 @@ bena xa, xaʾa
 susa
 752455	gu-
 ṭura
-ṱ ta
+ta ṱ
 tama
 har
 752462	w, ʾu-
-w, ʾu- bena xa, xaʾa
+bena xa, xaʾa w, ʾu-
 tre, treʾe
 w, ʾu-
 752468	skinta
 l-
 752472	mən, m-
 w, ʾu-
-ṱ ʾax
-752476	ʾaw, ʾo simarxa, simɛrxa
+ʾax ṱ
+752476	simarxa, simɛrxa ʾaw, ʾo
 752480	bala
 b-
 752484	rēš-, rəš-, rš-, š- ṭura
 liθ
-ʾurxa xa, xaʾa
-ṣala ta
-ga ʾay, ʾey, ʾɛ, ʾa
+xa, xaʾa ʾurxa
+ta ṣala
+ʾay, ʾey, ʾɛ, ʾa ga
 tajər ʾaw, ʾo
 t
 752492	zuze
@@ -36160,7 +36160,7 @@ ga
 tama
 ṱ
 752505	tama
-752507	ṱ ʾax
+752507	ʾax ṱ
 miθa
 tama
 752512	tama
@@ -36172,7 +36172,7 @@ tama
 752521	tama
 ʾap, ʾup ʾaw
 752526	naša
-miθa t
+t miθa
 tama
 752530	b-
 752533	ga
@@ -36210,9 +36210,9 @@ yoma
 qima
 ga xa, xaʾa
 xeta, xreta
-752584	ʾana ʾap, ʾup
+752584	ʾap, ʾup ʾana
 752586	laxxa
-752588	ṱ ʾanna ʾax
+752588	ʾanna ʾax ṱ
 miθa
 752591	b- ṭura
 752595	ʾɛka
@@ -36222,7 +36222,7 @@ miθa
 mara
 752608	hal, ha-
 b- ṭura
-752614	koxa xa, xaʾa
+752614	xa, xaʾa koxa
 zora
 bɛθa xa, xaʾa
 zora
@@ -36233,10 +36233,10 @@ zora
 752624	qazd
 bɛθa
 752627	l-
-752629	naša xa, xaʾa
+752629	xa, xaʾa naša
 sawa
 752632	xwara
-752635	naša ha
+752635	ha naša
 ʾati
 dax, daxi
 752639	laxxa
@@ -36251,16 +36251,16 @@ qəṣṣət, qəṣṣətta
 miya
 752657	mən, m-
 ʾalaha
-752660	ʾati ʾən
+752660	ʾən ʾati
 752665	ʾalaha
 752668	he
 752670	he
-752673	bɛθa gu-
+752673	gu- bɛθa
 752675	miya
 752677	w, ʾu-
 mɛxolta
 752680	w, ʾu-
-752683	qima də-, de-
+752683	də-, de- qima
 752686	kul, ku, kulla
 sawa ṭla-, ta-
 752689	mo, mu, modi, maw, mawdi
@@ -36273,18 +36273,18 @@ b-
 mən, m-
 752703	tama
 yoma xa, xaʾa
-w, ʾu- ṭḷaθa, ṭḷa tre, treʾe
+ṭḷaθa, ṭḷa tre, treʾe w, ʾu-
 bena xa, xaʾa
 752708	xa, xaʾa
 miya
 qam
 bɛθa
-752713	naša bar ʾaw, ʾo
+752713	bar naša ʾaw, ʾo
 sawa
 752718	diya
 ʾap, ʾup ʾaw
-752722	sawa ta
-752724	mo, mu, modi, maw, mawdi ʾay
+752722	ta sawa
+752724	ʾay mo, mu, modi, maw, mawdi
 752726	ʾayya
 752730	diya
 xačča
@@ -36294,7 +36294,7 @@ warda, wɛrda
 xakma, xamka
 naša
 752740	diya
-752742	naša ʾani, ʾan
+752742	ʾani, ʾan naša
 752747	ṱ
 752749	ṭla-, ta-
 malka
@@ -36309,7 +36309,7 @@ miya
 brata
 752771	he
 qima
-kut yoma
+yoma kut
 yoma
 752776	ṣala
 w, ʾu-
@@ -36331,16 +36331,16 @@ mo, mu, modi, maw, mawdi
 752803	ʾati
 ṱ
 t
-752810	yawna t
+752810	t yawna
 tamma
 ʾati
 752814	ʾay
 752817	ʾanna
 752821	šula
 ʾawwa ži
-752825	kut yoma
+752825	yoma kut
 ṣala
-752828	dukθa, duka xa, xaʾa
+752828	xa, xaʾa dukθa, duka
 752830	tama
 yoma xa, xaʾa
 752833	ʾina
@@ -36359,7 +36359,7 @@ raba
 rap
 rixa
 ʾani, ʾan
-lwišta ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa lwišta
 752864	w, ʾu-
 752866	naša
 naša
@@ -36373,29 +36373,29 @@ sawa
 sawa
 752886	mən, m-
 752888	laxxa
-752890	ču məndi, mdi
+752890	məndi, mdi ču
 liθ
-752893	ču məndi, mdi
+752893	məndi, mdi ču
 liθ
 diya
 ʾawwa
 752898	ta
 brata
-752903	yalla t
+752903	t yalla
 julla
 la ʾən
-yalla har t
+t yalla har
 752908	b-
 ʾap, ʾup ʾaw
 752914	julla
 752916	tama
 752919	ʾani, ʾan
-752921	yoma ṭḷaθa, ṭḷa ta
+752921	ta yoma ṭḷaθa, ṭḷa
 752923	ṭḷaθa, ṭḷa yarxa, yɛrxa
 t ma
 mən, m- yala
 xarθa
-baba ʾaw, ʾo
+ʾaw, ʾo baba
 sawa
 752930	ta
 diya
@@ -36420,7 +36420,7 @@ diya
 naša
 ḥəmaya
 diya
-nəšra ʾax
+ʾax nəšra
 ʾina
 naša
 752984	parra
@@ -36429,9 +36429,9 @@ naša
 dana
 xarθa
 yoma xa, xaʾa
-752995	gare l-
+752995	l- gare
 hatxa, ʾatxa
-dukθa, duka xa, xaʾa
+xa, xaʾa dukθa, duka
 rama
 753004	w, ʾu-
 753007	ṭaya
@@ -36439,19 +36439,19 @@ rama
 xarθa
 753015	ʾina
 753018	qəm-
-753020	mo, mu, modi, maw, mawdi ta
+753020	ta mo, mu, modi, maw, mawdi
 mo, mu, modi, maw, mawdi
 qəṣṣət, qəṣṣətta
 753024	ta
 hatxa, ʾatxa
 753027	b-
-753029	ʾana ʾap, ʾup
+753029	ʾap, ʾup ʾana
 la
-ʾana ʾap, ʾup
-753033	malka xa, xaʾa
+ʾap, ʾup ʾana
+753033	xa, xaʾa malka
 753038	ʾana
 753040	malka
-753042	w, ʾu- diya
+753042	diya w, ʾu-
 753044	laxxa
 w, ʾu-
 ʾana
@@ -36465,8 +36465,8 @@ t
 753062	ʾaxči
 ʾən
 ʾaθṛa
-la t
-dukθa, duka xa, xaʾa
+t la
+xa, xaʾa dukθa, duka
 xeta, xreta
 naxraya
 753073	ʾən
@@ -36476,16 +36476,16 @@ la
 ʾay
 julla
 diya
-753088	sawa ta
-b- də-, de- šɛna
+753088	ta sawa
+də-, de- šɛna b-
 ṱ
 753092	sawa ʾaw, ʾo
 753094	b- šɛna
 ʾay
 753098	yoma xa, xaʾa
-yoma tre, treʾe
+tre, treʾe yoma
 xarθa
-753104	dukθa, duka xa, xaʾa
+753104	xa, xaʾa dukθa, duka
 753106	ṭḷaθa, ṭḷa
 ʾarba, ʾarpa
 bena xa, xaʾa
@@ -36497,19 +36497,19 @@ tiwa
 gu-
 753125	gu-
 ʾina
-753129	malka t
+753129	t malka
 ṱ
 tama
 753135	balki
 753137	balki
-753141	yama gu-
-ʾən naša xa, xaʾa
+753141	gu- yama
+ʾən xa, xaʾa naša
 753144	xabra
 bəd, bud
 kut
 xabra
 bəd, bud
-miθa ʾən
+ʾən miθa
 ʾən
 753153	də-, de- t
 753157	mara
@@ -36519,19 +36519,19 @@ bena xa, xaʾa
 753165	hatxa, ʾatxa
 ʾina
 753168	malka
-753170	w, ʾu- xa, xaʾa
-753173	qəm- t ʾaw, ʾo
+753170	xa, xaʾa w, ʾu-
+753173	t qəm- ʾaw, ʾo
 753175	lazəm
 ṱ
-malka ta
+ta malka
 xena, xrena xa, xaʾa
 753181	qəṣṣət, qəṣṣətta
 753183	malka
 753186	ʾaw
-w, ʾu- ʾaw xena, xrena
+xena, xrena w, ʾu- ʾaw
 753189	kilo xa, xaʾa
 dawa
-753194	reša gu-
+753194	gu- reša
 753196	ʾaw
 xena, xrena ʾaw, ʾo
 753200	mo, mu, modi, maw, mawdi
@@ -36542,9 +36542,9 @@ lɛle
 753212	žare
 mən, m-
 753215	xena, xrena
-753226	w, ʾu- dawla
+753226	dawla w, ʾu-
 zorna
-753232	dana kəma
+753232	kəma dana
 malka
 qəm-
 xa, xaʾa
@@ -36571,10 +36571,10 @@ hatxa, ʾatxa
 753271	diya
 maləkθa
 mur
-kul, ku, kulla məndi, mdi t
-753276	dunye gu-
+t məndi, mdi kul, ku, kulla
+753276	gu- dunye
 ṱ
-753279	hič məndi, mdi
+753279	məndi, mdi hič
 la
 ʾana
 753283	mən, m-
@@ -36605,7 +36605,7 @@ diya
 w, ʾu-
 753324	baba
 diya
-753328	mo, mu, modi, maw, mawdi t
+753328	t mo, mu, modi, maw, mawdi
 753330	mo, mu, modi, maw, mawdi
 753334	julla ʾani, ʾan
 diya
@@ -36615,7 +36615,7 @@ bɛθa
 w, ʾu-
 guda
 b- reša
-ʾayya də-, de-
+də-, de- ʾayya
 753345	ləbba
 ṣəpya
 žare
@@ -36625,11 +36625,11 @@ bɛθa ṱ
 julla
 liθ
 ʾayya
-753364	bar julla
+753364	julla bar
 diya
 753368	də-, de-
 yoma xa, xaʾa
-753371	goma gu-
+753371	gu- goma
 753373	julla
 diya
 753378	laxxa
@@ -36639,7 +36639,7 @@ diya
 753389	yoma xa, xaʾa
 753391	julla
 diya
-753395	gare l-
+753395	l- gare
 753397	b- gawṛa, gʸawṛa
 diya
 753400	ʾana
@@ -36647,7 +36647,7 @@ diya
 ṱ
 ʾati
 xayən
-753412	guda gu-
+753412	gu- guda
 w, ʾu-
 guda ʾaw, ʾo
 b- reša
@@ -36658,7 +36658,7 @@ b- reša
 753430	ʾən
 753432	tama
 w, ʾu-
-753435	reša gu-
+753435	gu- reša
 ʾayya
 753438	bena xa, xaʾa
 753440	ʾaramnaya
@@ -36670,14 +36670,14 @@ be-
 753453	kul, ku, kulla
 753463	ʾaqla
 l-
-753466	šawwi zvərta
-753468	šawwi zvərta
-753472	šawwi qəbla
-753474	kəlya ṱ ha
+753466	zvərta šawwi
+753468	zvərta šawwi
+753472	qəbla šawwi
+753474	kəlya ha ṱ
 dudiya
 753478	ʾamara
 753480	ga
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 753486	gawṛa, gʸawṛa
 753491	ʾaramnaya
 753495	baxta
@@ -36689,7 +36689,7 @@ gu- barriya
 xaye
 la
 kəma
-dana ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa dana
 qəm-
 ma
 753515	zwaða
@@ -36710,7 +36710,7 @@ xa, xaʾa harnuwa
 ṱ
 gu-
 ṭarraša
-b- ʾaw baza xa, xaʾa
+b- xa, xaʾa baza ʾaw
 753551	mən, m-
 kut baza
 ʾəṣra
@@ -36736,35 +36736,35 @@ tama
 753585	b- gota
 ʾarbi
 ʾalpa
-gota mən, m-
+mən, m- gota
 753590	ʾəmma
 ʾəšti
 ʾalpa
 753594	ʾaskar, ʾaskariya
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 753597	ʾaramnaya
 753601	kɛla
-753604	gare l-
+753604	l- gare
 gare
 753607	kul, ku, kulla
 753613	ʾawwa
-xɛla xa, xaʾa
+xa, xaʾa xɛla
 753616	be-
 ʾawwa
 liθ
 hatxa, ʾatxa
 məndi, mdi
-753622	gare l-
+753622	l- gare
 753624	ʾanna
 753626	hatxa, ʾatxa
 753629	qəm-
 753632	qəm-
-753636	qam xɛla
+753636	xɛla qam
 753640	xo, xoθ-
 753647	la
 753650	ʾaramnaya
 ʾəmma w, ʾu-
-ʾalpa ʾəšti
+ʾəšti ʾalpa
 ʾaskar, ʾaskariya
 753656	gu- barriya
 753660	ṱ
@@ -36785,18 +36785,18 @@ qəm-
 t
 753691	kul, ku, kulla
 753693	sɛpa
-753695	la t ta
+753695	t ta la
 qəm-
 753698	qəm-
 sɛpa
-753701	ʾaw lɛle
-753703	ʾaw lɛle
+753701	lɛle ʾaw
+753703	lɛle ʾaw
 753706	sɛpa
 753709	mbadla
 tmanya
 yoma
 753713	w, ʾu-
-753719	qala xa, xaʾa
+753719	xa, xaʾa qala
 gu- barriya
 susta
 kul, ku, kulla
@@ -36819,7 +36819,7 @@ goṛa
 753756	ʾati
 753760	talən
 bažər
-753763	w, ʾu- baxta
+753763	baxta w, ʾu-
 753765	w, ʾu-
 w, ʾu-
 kul, ku, kulla
@@ -36827,7 +36827,7 @@ kul, ku, kulla
 753770	ṭaləb
 753773	šarṭ, šărəṭ
 ta
-l- ġðaðe
+ġðaðe l-
 ʾawwa
 753778	ʾaramnaya
 ʾap, ʾup ʾaw
@@ -36859,14 +36859,14 @@ b-
 šmayya
 bar
 753827	he
-qəm- la
+la qəm-
 ʾana
 burnuṭ
 753832	bena xa, xaʾa
 xena, xrena
-753836	ʾana xo, xoθ-
+753836	xo, xoθ- ʾana
 ṱ
-753839	ʾana ʾap, ʾup
+753839	ʾap, ʾup ʾana
 ṱ
 753843	t
 753854	ʾaw, ʾo
@@ -36886,7 +36886,7 @@ xena, xrena
 miθa
 laxxa
 753889	ṭla-, ta-
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 753894	ṱ
 xanči, xanča
 753897	ṱ
@@ -36907,9 +36907,9 @@ b- sɛpa
 sɛpa
 753938	har
 xa, xaʾa
-753941	be- palga
-753943	w, ʾu- dəmma
-reša gu-
+753941	palga be-
+753943	dəmma w, ʾu-
+gu- reša
 753948	kul, ku, kulla
 hatxa, ʾatxa
 753952	kul, ku, kulla
@@ -36926,7 +36926,7 @@ yoma
 ṱ
 bena xa, xaʾa
 b-
-753976	w, ʾu- b-
+753976	b- w, ʾu-
 753978	b-
 b-
 w, ʾu- ṱ
@@ -36963,13 +36963,13 @@ kul, ku, kulla
 754036	bena
 754039	b- šɛna
 b- šɛna
-xaθa t
+t xaθa
 754044	kurtəxta
 yoma xa, xaʾa
 dəbba
-754048	ṭura gu-
+754048	gu- ṭura
 754050	b- xa, xaʾa tela, tala, taʾla
-ʾaw, ʾo tela, tala, taʾla
+tela, tala, taʾla ʾaw, ʾo
 754053	ha
 754055	zala
 ya
@@ -36986,19 +36986,19 @@ mən, m- tamma
 b-
 754074	dax, daxi
 754076	ʾaxxa
-l- tamma
+tamma l-
 754079	la
 qarθa ču
 754082	ʾaxxa
 754084	ʾən
-754086	qərṭala xa, xaʾa
+754086	xa, xaʾa qərṭala
 sala
-754089	xa, xaʾa sala
+754089	sala xa, xaʾa
 ṭla-, ta- sətwa
-la t ta
-754093	la t
+t ta la
+754093	t la
 qarθa
-la t
+t la
 talga
 754098	rēš-, rəš-, rš-, š- ṭura
 754101	də-, de-
@@ -37010,7 +37010,7 @@ diya
 754116	də-, de-
 754118	mən, m-
 754120	la
-ṱ ta
+ta ṱ
 754123	ʾap, ʾup
 ṭla-, ta-
 754130	w, ʾu-
@@ -37031,11 +37031,11 @@ kul, ku, kulla
 754153	diya
 754156	be-
 hatta, hat
-ʾay, ʾey, ʾɛ, ʾa sala
+sala ʾay, ʾey, ʾɛ, ʾa
 t
 754161	kul, ku, kulla
 754163	mo, mu, modi, maw, mawdi
-754165	ʾaw tela, tala, taʾla
+754165	tela, tala, taʾla ʾaw
 754167	tela, tala, taʾla
 754169	ʾay
 754172	yoma xa, xaʾa
@@ -37045,25 +37045,25 @@ bar
 spay
 754179	bara
 bara
-754183	boya gu- xa, xaʾa
+754183	gu- xa, xaʾa boya
 754185	gu- xa, xaʾa
 ʾisara
 754189	boya
 zora
-w, ʾu- ʾap, ʾup
+ʾap, ʾup w, ʾu-
 754195	tama
 w, ʾu-
 ʾayale
-ʾaw, ʾo tela, tala, taʾla
+tela, tala, taʾla ʾaw, ʾo
 754200	tama
-dəbba w, ʾu-
+w, ʾu- dəbba
 754203	tama
 754205	dəbba
 w, ʾu-
 ʾiða
 diya
 754213	boya sab, săbab, m-săbab
-754215	w, ʾu- tela, tala, taʾla
+754215	tela, tala, taʾla w, ʾu-
 754219	hadəx
 754221	dəbba
 754224	xa, xaʾa
@@ -37078,7 +37078,7 @@ w, ʾu-
 754248	ṭla-, ta-
 754251	mo, mu, modi, maw, mawdi
 baxta
-754255	ṭla-, ta- brona
+754255	brona ṭla-, ta-
 laxxa
 w, ʾu-
 754260	mo, mu, modi, maw, mawdi
@@ -37093,28 +37093,28 @@ mən, m- tama
 754274	w, ʾu-
 w, ʾu-
 dəbbora ʾani, ʾan
-w, ʾu- zala har
-754279	w, ʾu- zala
-754281	w, ʾu- zala
-754284	ga ʾay, ʾey, ʾɛ, ʾa
+zala w, ʾu- har
+754279	zala w, ʾu-
+754281	zala w, ʾu-
+754284	ʾay, ʾey, ʾɛ, ʾa ga
 dəbba
 754288	mən, m- laxxa
 754291	qəṣṣət, qəṣṣətta
 754293	mo, mu, modi, maw, mawdi ṱ
 baxta
 754296	mo, mu, modi, maw, mawdi
-754300	ʾap, ʾup ʾaw, ʾo t tre, treʾe
-754305	ʾap, ʾup ʾaw, ʾo t tre, treʾe
+754300	t ʾap, ʾup tre, treʾe ʾaw, ʾo
+754305	t ʾap, ʾup tre, treʾe ʾaw, ʾo
 754307	šabθa xa, xaʾa
 tre, treʾe
 šabθa
-754311	ʾap, ʾup t ṭḷaθa, ṭḷa ʾaw, ʾo
+754311	t ṭḷaθa, ṭḷa ʾap, ʾup ʾaw, ʾo
 qəm-
-w, ʾu- dəbbora
+dəbbora w, ʾu-
 har
 qam
 boya
-754318	ʾani, ʾan har tre, treʾe
+754318	tre, treʾe ʾani, ʾan har
 l-
 754321	baxta
 diya
@@ -37122,7 +37122,7 @@ dax, daxi
 754325	diya
 mo, mu, modi, maw, mawdi
 ṱ
-754333	l- ġðaðe
+754333	ġðaðe l-
 754335	tela, tala, taʾla
 754337	ha
 754339	mara
@@ -37132,33 +37132,33 @@ xeta, xreta
 754348	tela, tala, taʾla
 754350	ma
 754352	ṱ
-754356	maqle gu-
+754356	gu- maqle
 754358	ṭḷaθa, ṭḷa
 754360	baxta
 754364	l- qðala
 diya
 754369	tama
-fatra xa, xaʾa
+xa, xaʾa fatra
 mo, mu, modi, maw, mawdi
 754373	lo ṱ
 dəbba
 lo
 mo, mu, modi, maw, mawdi
-xo, xoθ- la
+la xo, xoθ-
 laxxa
 w, ʾu-
 754381	t ta
 w, ʾu-
 bara
 754385	ʾina
-dəbba la
+la dəbba
 la ču
 məndi, mdi
 dəbbora
 tama
 754392	tama
 754396	dəbba
-brona ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa brona
 754399	baxta
 754401	xaṭər
 ṱ
@@ -37166,22 +37166,22 @@ brona ṭḷaθa, ṭḷa
 w, ʾu-
 laxxa
 754409	xa, xaʾa
-w, ʾu- baxta
-gawṛa, gʸawṛa xa, xaʾa
-ʾay, ʾey, ʾɛ, ʾa baxta
-754414	gawṛa, gʸawṛa ta
+baxta w, ʾu-
+xa, xaʾa gawṛa, gʸawṛa
+baxta ʾay, ʾey, ʾɛ, ʾa
+754414	ta gawṛa, gʸawṛa
 diya
 də-, de-
 naša
-754420	mu, mut ta
+754420	ta mu, mut
 baṭila
 tiwa
-bɛθa gu-
+gu- bɛθa
 dax, daxi
 ṱ
 754427	la liθ
 šula
-754430	ʾati də-, de-
+754430	də-, de- ʾati
 754432	balki
 754434	šula
 754438	l- ṭura
@@ -37189,39 +37189,39 @@ dax, daxi
 754445	ya
 ya
 754450	xuya
-naša ču
+ču naša
 la
-bɛθa la
-754455	w, ʾu- naša la
-754458	nura xa, xaʾa
-754460	gu- gəppa xa, xaʾa
+la bɛθa
+754455	w, ʾu- la naša
+754458	xa, xaʾa nura
+754460	gu- xa, xaʾa gəppa
 754464	qazəd, qazədda
 754466	gəppa
 ṱ
 qazəd, qazədda
 754470	ṱ
 754473	gəppa
-naša ʾiθ
-ʾən naša liθ
+ʾiθ naša
+liθ ʾən naša
 754479	gəppa
 ʾina
 754483	šawwa
 hambišaya
-šawwa hambišaya
-754487	gəppa gu-
+hambišaya šawwa
+754487	gu- gəppa
 754489	ya
 xuya
 har
 dewa har
 ṱ
-har ṱ
+ṱ har
 gu-
 hambišaya
-har ži hambišaya
+hambišaya har ži
 ṱ
 754501	l-
 754508	bala
-kut xa, xaʾa
+xa, xaʾa kut
 754511	reša
 754513	l- ṭura
 754516	hal, ha- ʾaxxa
@@ -37233,7 +37233,7 @@ har
 754524	ʾina
 ṱ
 məndi, mdi xa, xaʾa
-ləbba gu-
+gu- ləbba
 754531	šlama
 754533	xa, xaʾa
 754535	b- xena, xrena
@@ -37257,7 +37257,7 @@ mo, mu, modi, maw, mawdi
 754583	məjjəd
 754585	məndi, mdi xa, xaʾa
 xena, xrena
-məndi, mdi ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa məndi, mdi
 ʾayya
 qəm-
 754591	məndi, mdi tre, treʾe
@@ -37272,7 +37272,7 @@ raba
 raba
 754609	ʾən
 754613	ʾaw, ʾo
-754615	ʾaw mo, mu, modi, maw, mawdi
+754615	mo, mu, modi, maw, mawdi ʾaw
 qa-
 mara
 ʾaxtu
@@ -37285,15 +37285,15 @@ la
 754628	xawla, ḥawla
 754630	kul, ku, kulla
 qɛsa
-754633	ʾurxa w, ʾu-
-754635	miya qa- t
+754633	w, ʾu- ʾurxa
+754635	t qa- miya
 ṣala
-qam gəppa
-mo, mu, modi, maw, mawdi qa-
+gəppa qam
+qa- mo, mu, modi, maw, mawdi
 754640	miya
 mən, m- tama
 754643	b-
-ʾaw xoš
+xoš ʾaw
 754647	xawla, ḥawla xa, xaʾa
 raba
 rixa
@@ -37309,12 +37309,12 @@ mo, mu, modi, maw, mawdi
 ʾani, ʾan
 kəlya
 bɛθa
-754671	la t
-miya b-
+754671	t la
+b- miya
 ʾap, ʾup
 754678	la
-miya la
-w, ʾu- la ču məndi, mdi
+la miya
+w, ʾu- la məndi, mdi ču
 ʾaxni
 har
 754686	xeta, xreta xa, xaʾa
@@ -37322,14 +37322,14 @@ har
 tre, treʾe
 754690	xeta, xreta xa, xaʾa
 ʾən
-754693	maġara xa, xaʾa
+754693	xa, xaʾa maġara
 raba
 754696	sardəb ʾax xa, xaʾa
 754698	ʾiθ
-xa, xaʾa parša
+parša xa, xaʾa
 b- reša
 754702	raba
-754704	ʾən ʾaw parša
+754704	parša ʾən ʾaw
 754707	dawa
 tama
 754715	mara
@@ -37347,10 +37347,10 @@ spay biš
 754731	w, ʾu-
 754733	zuze
 w, ʾu-
-754740	ʾaw, ʾo parša
+754740	parša ʾaw, ʾo
 maġara
 ʾina
-marəgla xa, xaʾa
+xa, xaʾa marəgla
 goṛa
 ṃəḷya
 dawa
@@ -37359,11 +37359,11 @@ dawa
 754751	čanta
 754754	qəm-
 754757	b- lɛle
-754760	la t
+754760	t la
 754762	naša
 gu- maθa
 ʾaw
-754766	la t
+754766	t la
 saʾət, saʾta, saʾatta, saʾa
 xa, xaʾa
 754770	bɛθa l-
@@ -37395,9 +37395,9 @@ farde
 754827	qəm-
 kul, ku, kulla
 farde
-754831	la t
+754831	t la
 naša
-panjăra, panjara, panjɛra, panjăriya, panjăriye mən, m-
+mən, m- panjăra, panjara, panjɛra, panjăriya, panjăriye
 mən, m-
 kul, ku, kulla
 dukθa, duka
@@ -37425,37 +37425,37 @@ gu- maθa
 ʾawwa
 ʾayya
 754881	tama
-w, ʾu- qaṭu, qaṭuθa
+qaṭu, qaṭuθa w, ʾu-
 ʾaqubra
 dəžmən
 t
 qaṭu, qaṭuθa
 754888	ʾaqubra
-754891	ga ʾay, ʾey, ʾɛ, ʾa
+754891	ʾay, ʾey, ʾɛ, ʾa ga
 ʾaqubra
 kul, ku, kulla
-754896	dukθa, duka xa, xaʾa
+754896	xa, xaʾa dukθa, duka
 754898	čara, čɛra, kʸɛr mo, mu, modi, maw, mawdi
 ṱ
 ṭla-, ta-
 qaṭu, qaṭuθa
-la t
+t la
 ʾaxni
-754905	bɛθa gu-
+754905	gu- bɛθa
 754908	məndi, mdi xa, xaʾa
 ṱ
 754912	qaṭu, qaṭuθa
 754917	ṱ
 məndi, mdi xa, xaʾa
-ʾiman, ʾima qa- t
+t qa- ʾiman, ʾima
 ṱ
 qaṭu, qaṭuθa
 ʾaxni
 754924	qala
 diya
-ṱ ha
+ha ṱ
 754928	maṭo
-754931	xa, xaʾa zaga
+754931	zaga xa, xaʾa
 b-
 qaṭu, qaṭuθa
 754935	zaga
@@ -37469,8 +37469,8 @@ diya
 xoš
 bena
 xa, xaʾa
-754953	yalla də-, de-
-bahs, bas ʾɛni
+754953	də-, de- yalla
+ʾɛni bahs, bas
 754956	zaga
 b-
 qaṭu, qaṭuθa
@@ -37484,7 +37484,7 @@ qaṭu, qaṭuθa
 b-
 qaṭu, qaṭuθa
 ṱ
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 754973	hadəx
 754975	ʾap, ʾup xa, xaʾa
 la
@@ -37496,7 +37496,7 @@ malla
 754986	pača
 754988	quṣarta
 754990	ṭla-, ta-
-754995	quṣarta xa, xaʾa
+754995	xa, xaʾa quṣarta
 754997	xačča
 pača
 755001	quṣarta
@@ -37523,7 +37523,7 @@ har
 la
 755036	la
 mo, mu, modi, maw, mawdi
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 755042	də-, de-
 ʾayya
 quṣarta
@@ -37534,32 +37534,32 @@ be- ṭla-, ta-
 755054	ʾana
 755061	quṣarta
 diya
-zora ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa zora
 755065	gu-
 755067	šwawa
 w, ʾu-
 hadiya, diya, hadayya
 ʾaw
-755072	w, ʾu- quṣarta
+755072	quṣarta w, ʾu-
 755074	be-
 šlama
 šwawa
 755078	b- šɛna
 755086	šwawa
-zora ʾay
+ʾay zora
 mo, mu, modi, maw, mawdi
 755091	šwawa
 la
 ʾayya
 quṣarta
-755096	ʾurxa b-
+755096	b- ʾurxa
 755100	quṣarta
 maṭo
 755104	maṭo
-ʾana bahs, bas
+bahs, bas ʾana
 755107	quṣarta
 755109	t
-755112	ʾurxa b-
+755112	b- ʾurxa
 755115	diya
 755117	quṣarta
 xeta, xreta
@@ -37569,7 +37569,7 @@ gawṛa, gʸawṛa
 755123	də-, de-
 bena
 ʾaw
-quṣarta xa, xaʾa
+xa, xaʾa quṣarta
 xeta, xreta
 ma
 he mur
@@ -37580,7 +37580,7 @@ w, ʾu-
 malla
 755140	šabθa xa, xaʾa
 xeta, xreta
-755143	ṭla-, ta- baxta
+755143	baxta ṭla-, ta-
 755146	šwawa
 mur
 755152	baxta
@@ -37600,13 +37600,13 @@ tre, treʾe
 yarxa, yɛrxa xa, xaʾa
 hadiya, diya, hadayya
 gawṛa, gʸawṛa
-755178	ṭla-, ta- baxta
+755178	baxta ṭla-, ta-
 kɛla
 quṣarta
 755183	malla
 755189	šwawta, šwota
 755191	malla
-755194	bɛθa gu-
+755194	gu- bɛθa
 malla
 kɛla
 quṣarta
@@ -37624,20 +37624,20 @@ miθa
 755221	ʾəlla
 diya
 755224	miθa
-755226	xo-, xu- tamma
+755226	tamma xo-, xu-
 755229	w, ʾu-
 755231	malla
 755233	quṣarta
 malla ta
 755237	mən, m- biš
 goṛa
-ču məndi, mdi
-755242	naša xa, xaʾa
-755244	brona tre, treʾe
+məndi, mdi ču
+755242	xa, xaʾa naša
+755244	tre, treʾe brona
 raba
-755252	brona ta
+755252	ta brona
 755255	də-, de-
-755257	šula xa, xaʾa
+755257	xa, xaʾa šula
 t ta
 755260	ʾɛni
 755262	ṱ
@@ -37651,7 +37651,7 @@ la
 zora
 755277	ṭaya
 šula
-gu- xa, xaʾa maθa
+gu- maθa xa, xaʾa
 755281	ʾɛni
 755283	palaxa
 ʾɛni
@@ -37690,30 +37690,30 @@ zeðaya
 w, ʾu-
 masta
 zeðaya
-755347	la t
-w, ʾu- masta
+755347	t la
+masta w, ʾu-
 755351	qərrušta, qrušta
 diya
-la t
+t la
 755355	paθa
 diya
 w, ʾu-
-755359	qapla xa, xaʾa
+755359	xa, xaʾa qapla
 qɛsa
-hawa la t
+t la hawa
 b-
 ṱ
 xwara
-la t
+t la
 755367	raba
 spay
 mən, m- lɛle
 755371	ʾaw, ʾo
 755373	tawra
 w, ʾu-
-755376	w, ʾu- tulləkθa
+755376	tulləkθa w, ʾu-
 755378	bzara w, ʾu-
-755380	w, ʾu- masta
+755380	masta w, ʾu-
 zeðaya
 755383	t ta
 755385	ṭla-, ta- ṭura
@@ -37747,7 +37747,7 @@ hadiya, diya, hadayya
 məndi, mdi
 755442	b-
 b- zeðaya
-la t
+t la
 dax, daxi
 ṱ
 ma
@@ -37756,27 +37756,27 @@ lazəm
 qərrušta, qrušta
 diya
 la
-755457	xala la
-755459	w, ʾu- zeðaya
+755457	la xala
+755459	zeðaya w, ʾu-
 755461	b-
 ʾaṣərta
 755464	qɛsa
 755466	hatxa, ʾatxa
 qɛsa
 qɛsa
-la t
-755475	mo, mu, modi, maw, mawdi ʾay, ʾey, ʾɛ, ʾa
+t la
+755475	ʾay, ʾey, ʾɛ, ʾa mo, mu, modi, maw, mawdi
 la
 755478	tulləkθa
-755480	ʾisara heš, həš, š xa, xaʾa
+755480	heš, həš, š xa, xaʾa ʾisara
 la
-755483	w, ʾu- ləxma
-la t
+755483	ləxma w, ʾu-
+t la
 la
 ṱ
 masta
 mara
-la xrawa t
+t la xrawa
 qərrušta, qrušta
 diya
 miθa
@@ -37785,15 +37785,15 @@ mən, m-
 la
 wajju
 755499	qəm-
-ʾəṣra jalda
+jalda ʾəṣra
 ʾəṣra qɛsa
-xaṣa gu-
+gu- xaṣa
 755504	w, ʾu-
 755506	la
 755508	məskena
 755510	ha
 755512	mo, mu, modi, maw, mawdi
-755516	w, ʾu- qəṣṣət, qəṣṣətta
+755516	qəṣṣət, qəṣṣətta w, ʾu-
 hatxa, ʾatxa
 la
 755521	hatxa, ʾatxa
@@ -37805,7 +37805,7 @@ k̭ora
 la
 755532	ʾawwa
 755534	ʾana
-ʾəṣra jalda
+jalda ʾəṣra
 755537	ʾawwa
 755539	la
 ʾana
@@ -37843,16 +37843,16 @@ kalba
 755603	tama
 755605	ʾanna
 zeðaya
-755609	la t
+755609	t la
 ʾayya
 masta
 755614	qərrušta, qrušta
 diya
-la t
+t la
 ʾaṣərta
-755619	qapla xa, xaʾa
+755619	xa, xaʾa qapla
 qɛsa
-la t
+t la
 b-
 xwara
 755625	raba
@@ -37868,7 +37868,7 @@ masta w, ʾu-
 755644	tulləkθa
 755646	heš, həš, š
 755648	laxxa
-ʾana ʾaxxa
+ʾaxxa ʾana
 755652	laxxa
 la
 755656	xa, xaʾa kepa, kʸepa
@@ -37882,36 +37882,36 @@ kaləbθa
 755673	ṱ
 məndi, mdi
 zeðaya
-la t
-maṭo də-, de-
+t la
+də-, de- maṭo
 755680	skinta
 755683	zeðaya
-be- palga
+palga be-
 diya
 755687	zeðaya
 755689	masta
 755692	julləkθa
-xoθa mən, m-
+mən, m- xoθa
 755695	masta
-755697	xoθa mən, m-
+755697	mən, m- xoθa
 diya
 heš, həš, š zeðaya
 w, ʾu-
 ləxma
-w, ʾu- zeðaya
-w, ʾu- masta
+zeðaya w, ʾu-
+masta w, ʾu-
 755705	ʾaṣərta
 mu, mut
 ṱ
 755709	qɛsa
 qɛsa
 xwara
-la t qalpa
+t la qalpa
 755715	b-
-har ʾanna
+ʾanna har
 bzara
 755722	ʾanna
-la t
+t la
 755725	bzara
 w, ʾu-
 nira
@@ -37926,7 +37926,7 @@ w, ʾu-
 755742	bɛθa
 ʾana
 755746	ṱ
-dukθa, duka xa, xaʾa
+xa, xaʾa dukθa, duka
 ʾati
 755750	b- kawe
 kul, ku, kulla
@@ -37946,21 +37946,21 @@ b-
 tama
 kut tawra
 755771	xa, xaʾa
-reša gu-
-755774	be- gu-
+gu- reša
+755774	gu- be-
 755777	l-
 tawra
 755780	kul, ku, kulla
 b-
 nara
-tawra ʾani, ʾan
+ʾani, ʾan tawra
 755786	kul, ku, kulla
 755788	b- kawe
-755790	goma gu-
+755790	gu- goma
 bɛθa
-755795	tawra ʾani, ʾan
+755795	ʾani, ʾan tawra
 mo, mu, modi, maw, mawdi
-755798	goma gu-
+755798	gu- goma
 ʾaw, ʾo
 qɛsa
 ʾanna
@@ -37970,7 +37970,7 @@ mu, mut
 mən, m-
 755809	qɛsa
 xwara
-la t
+t la
 mən, m-
 755814	ʾana
 k̭ora
@@ -37992,7 +37992,7 @@ tawra
 755845	mən, m- lɛle
 755848	qaṭa
 qaṭa
-755851	goma gu-
+755851	gu- goma
 755853	bəsra l-
 kul, ku, kulla
 qaṭa
@@ -38014,7 +38014,7 @@ qaṭa
 755886	kul, ku, kulla
 tawra
 755890	l-
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 755893	mu, mut
 ṱ
 b- reša
@@ -38042,7 +38042,7 @@ b- diya
 755933	bena
 755935	mo, mu, modi, maw, mawdi
 755937	brata
-755939	dukθa, duka xa, xaʾa
+755939	xa, xaʾa dukθa, duka
 rəḥqa
 755943	bɛθa xa, xaʾa
 xena, xrena
@@ -38054,7 +38054,7 @@ tre, treʾe
 tawra
 755955	la
 755958	xa, xaʾa
-755960	w, ʾu- xena, xrena xa, xaʾa
+755960	xena, xrena xa, xaʾa w, ʾu-
 ʾaṭma xa, xaʾa
 755965	ʾayya
 ʾaṭma
@@ -38083,7 +38083,7 @@ diya
 756017	tre, treʾe
 ʾaṭma
 goṛa
-756021	ʾap, ʾup ʾay
+756021	ʾay ʾap, ʾup
 qam
 756025	tawra
 756027	har
@@ -38124,9 +38124,9 @@ heš, həš, š
 tuθa
 756088	w, ʾu-
 756093	ʾawwa
-qa- t
+t qa-
 ṱ
-756099	heš, həš, š tuθa
+756099	tuθa heš, həš, š
 heš, həš, š
 xuya
 756106	ʾawwa
@@ -38140,7 +38140,7 @@ diya
 diya
 756117	ṱok̭e
 diya
-756120	ʾarba, ʾarpa yarxa, yɛrxa
+756120	yarxa, yɛrxa ʾarba, ʾarpa
 xamša yarxa, yɛrxa
 756123	mən, m-
 ṱok̭e
@@ -38149,7 +38149,7 @@ diya
 756129	mo, mu, modi, maw, mawdi
 ʾayya
 756132	šəndoxa xa, xaʾa
-756134	gota l- diya
+756134	diya l- gota
 mən, m- tama
 756137	miθa
 756139	diya
@@ -38196,17 +38196,17 @@ naša
 b- dunye
 ʾawwa
 b-
-756228	ʾədyo, ʾədyoma də-, de-
+756228	də-, de- ʾədyo, ʾədyoma
 756230	kada
 də-, de-
 jareta, jarreta
-756234	mðita xa, xaʾa
+756234	xa, xaʾa mðita
 xeta, xreta
 756237	bɛθa
 w, ʾu-
 ṱ
 ṱ
-w, ʾu- bar
+bar w, ʾu-
 ṱ
 756244	bɛθa l-
 hadiya, diya, hadayya
@@ -38222,10 +38222,10 @@ tama
 pela
 kada
 756266	jareta, jarreta
-756268	guniya gu- xa, xaʾa
+756268	gu- xa, xaʾa guniya
 hatxa, ʾatxa
 kada
-qa- t
+t qa-
 ṱ
 b- lɛle
 b- lɛle
@@ -38235,7 +38235,7 @@ b- lɛle
 kada
 kada
 756288	b- reša
-756291	juwala gu-
+756291	gu- juwala
 ʾanna
 b- lɛle
 756297	baxta
@@ -38247,13 +38247,13 @@ qala
 756313	raba
 756316	kada
 raba
-756324	xa, xaʾa maθa
+756324	maθa xa, xaʾa
 756326	kalba
 756329	kalba
 756334	qəm-
 kalba
 he kalba
-kalba brət, bərt
+brət, bərt kalba
 mara
 756340	bena
 ʾurxa
@@ -38263,7 +38263,7 @@ qəm-
 756350	b-
 756355	ʾanna
 kada
-mo, mu, modi, maw, mawdi t
+t mo, mu, modi, maw, mawdi
 756359	b-
 kada
 kul, ku, kulla
@@ -38271,26 +38271,26 @@ məšxa
 756364	kul, ku, kulla
 xaṣa
 756367	məšxa
-756374	jorta l-
+756374	l- jorta
 naša
 ʾaw
-756380	kada mən, m-
+756380	mən, m- kada
 ḥaṣəl l-
-756384	juwala gu-
+756384	gu- juwala
 kalba
-kalba brət, bərt
+brət, bərt kalba
 756392	ṱ
 məndi, mdi xa, xaʾa
 ṱ
 rēš-, rəš-, rš-, š- gəšra
 756397	rēš-, rəš-, rš-, š- gəšra
-ʾawwa rēš-, rəš-, rš-, š-
+rēš-, rəš-, rš-, š- ʾawwa
 756400	nera, nara
 b- lɛle
 ʾaw
 756404	lɛle
-756408	šaṭṭa gu-
-756410	šaṭṭa gu-
+756408	gu- šaṭṭa
+756410	gu- šaṭṭa
 ʾaw
 756413	ʾaw
 756415	la šama
@@ -38307,23 +38307,23 @@ gəšra
 ʾaxxa
 756437	ʾaxxa
 756441	b-
-qa- t
-la t
+t qa-
+t la
 756445	ʾati
 baxta
 dmixa
 b- gota
-w, ʾu- gawṛa, gʸawṛa
-gota mən, m-
-w, ʾu- xulama
+gawṛa, gʸawṛa w, ʾu-
+mən, m- gota
+xulama w, ʾu-
 756453	gawaya
-b- qa- t lɛle
+t b- qa- lɛle
 756457	hadiya, diya, hadayya
 756459	rēš-, rəš-, rš-, š- gəšra
 756462	rēš-, rəš-, rš-, š- gəšra
 756464	reša
 spay biš
-la t
+t la
 xuwwe
 məndi, mdi
 ʾaxxa
@@ -38331,18 +38331,18 @@ biš
 max
 756476	ʾati
 756478	l-
-la t
+t la
 b- lɛle
 dmixa
 rēš-, rəš-, rš-, š-
 ʾaw
 756486	gawṛa, gʸawṛa
-gota mən, m-
+mən, m- gota
 baxta
-gota mən, m-
-b- qa- t lɛle
-756493	šaṭṭa gu-
-nera, nara gu-
+mən, m- gota
+t b- qa- lɛle
+756493	gu- šaṭṭa
+gu- nera, nara
 gu-
 ʾawwa
 756499	qəṣṣət, qəṣṣətta
@@ -38354,14 +38354,14 @@ diya
 ʾaw
 756513	b- gota
 756516	jalda
-xuya heš, həš, š
+heš, həš, š xuya
 xuya
 756520	baxta
 756523	baxta
-gota mən, m-
+mən, m- gota
 ʾawwa
 xulama
-gota mən, m-
+mən, m- gota
 gawṛa, gʸawṛa
 diya
 756532	gu-
@@ -38370,7 +38370,7 @@ diya
 756540	mo, mu, modi, maw, mawdi
 756542	qəm-
 756544	ʾana
-756546	dana kəma
+756546	kəma dana
 756548	ʾati
 756551	hadiya, diya, hadayya
 gawṛa, gʸawṛa
@@ -38391,13 +38391,13 @@ qəm- w, ʾu-
 ʾawwa
 xulama
 w, ʾu-
-naša bar
+bar naša
 756582	kul, ku, kulla
 756584	tama
 ʾanna
 756588	w, ʾu-
 756590	mən, m- baxta
-ʾana w, ʾu-
+w, ʾu- ʾana
 756593	tama
 ʾana
 756596	laxxa
@@ -38406,7 +38406,7 @@ qarəkke
 756600	yoma xa, xaʾa
 ʾay
 l- ʾilana
-pumma b-
+b- pumma
 gupta
 756606	tela, tala, taʾla
 pandana
@@ -38420,7 +38420,7 @@ b- xera, xerətta
 756624	b-
 qala
 gupta
-pumma mən, m-
+mən, m- pumma
 756629	tela, tala, taʾla
 mo, mu, modi, maw, mawdi
 ʾəlla
@@ -38431,16 +38431,16 @@ pəšmanta
 tela, tala, taʾla
 756638	šeðana
 la
-maxkɛθa kul, ku, kulla
+kul, ku, kulla maxkɛθa
 basima
 tela, tala, taʾla
 756644	šeðana
 la
-maxkɛθa kul, ku, kulla
+kul, ku, kulla maxkɛθa
 basima
-756649	malka xa, xaʾa
-756651	brata xa, xaʾa
-bɛθa gu-
+756649	xa, xaʾa malka
+756651	xa, xaʾa brata
+gu- bɛθa
 har
 dmixa
 xala w, ʾu-
@@ -38469,7 +38469,7 @@ lɛle
 756692	ʾana
 mo, mu, modi, maw, mawdi
 čara, čɛra, kʸɛr xa, xaʾa
-756696	ʾayya qa- t
+756696	t qa- ʾayya
 756699	b-
 756707	bəd, bud
 mo, mu, modi, maw, mawdi ṱ
@@ -38481,17 +38481,17 @@ b- lɛle
 b- yoma
 xala w, ʾu- har
 756717	xala w, ʾu-
-756722	naša xa, xaʾa
+756722	xa, xaʾa naša
 ṱ
 palaxa
-w, ʾu- t
+t w, ʾu-
 756728	ʾaw
 756733	xa, xaʾa yala
-bahs, bas yəmma
+yəmma bahs, bas
 756736	baba
-756739	tawra xa, xaʾa
-w, ʾu- xmara xa, xaʾa
-kut yoma
+756739	xa, xaʾa tawra
+xmara xa, xaʾa w, ʾu-
+yoma kut
 šula
 756744	mo, mu, modi, maw, mawdi
 756746	tawra
@@ -38509,26 +38509,26 @@ xoš
 756767	t
 756770	mara
 756772	ʾaw
-756774	pəlxana l-
-756778	ʾatnabəl gu-
+756774	l- pəlxana
+756778	gu- ʾatnabəl
 w, ʾu-
 diya
 kul, ku, kulla
-ʾay, ʾey, ʾɛ, ʾa ʾotəx, ʾotaxa
+ʾotəx, ʾotaxa ʾay, ʾey, ʾɛ, ʾa
 diya
-756785	ʾatnabəl gu-
+756785	gu- ʾatnabəl
 w, ʾu-
 ʾaw
-756789	xa, xaʾa ʾotəx, ʾotaxa
+756789	ʾotəx, ʾotaxa xa, xaʾa
 ʾax
 756792	qarawət
-756794	w, ʾu- t
-756796	w, ʾu- ʾal-
+756794	t w, ʾu-
+756796	ʾal- w, ʾu-
 liθ
-ču məndi, mdi
+məndi, mdi ču
 la
 kursiya
-w, ʾu- la ču məndi, mdi
+w, ʾu- la məndi, mdi ču
 mara
 756804	brata
 756806	ṭla-, ta-
@@ -38539,27 +38539,27 @@ brata
 756814	ṭla-, ta-
 la
 756820	la
-756822	ču məndi, mdi
+756822	məndi, mdi ču
 mo, mu, modi, maw, mawdi ṱ
-756826	rēš-, rəš-, rš-, š- qarawət
-756828	rēš-, rəš-, rš-, š- qarawət
+756826	qarawət rēš-, rəš-, rš-, š-
+756828	qarawət rēš-, rəš-, rš-, š-
 756830	qarawət
 diya
 756833	bɛθa
 756835	qarawət
 diya
-756838	heš, həš, š qarawət
+756838	qarawət heš, həš, š
 ʾanna
 wajju
-ži diya
+diya ži
 756843	tama
 756845	tama
 yala
 756848	mən, m- zruta
 tawra
-756851	goma gu-
+756851	gu- goma
 w, ʾu-
-ṱ ta
+ta ṱ
 məndi, mdi
 756856	ʾina
 756858	ṃəḷya
@@ -38582,8 +38582,8 @@ malka
 wajju
 diya
 laxxa
-dmixa ʾay
-heš, həš, š qarawət
+ʾay dmixa
+qarawət heš, həš, š
 756899	diya
 basima
 756906	he
@@ -38600,17 +38600,17 @@ qamaya
 miya
 756926	xa, xaʾa
 miya
-w, ʾu- reša
+reša w, ʾu-
 bahs, bas
-ʾixala la
+la ʾixala
 la ləxma
-la ču məndi, mdi
+la məndi, mdi ču
 bahs, bas
 ʾay, ʾey, ʾɛ, ʾa
 756936	miya
 756938	reša
 diya
-w, ʾu- bahs, bas
+bahs, bas w, ʾu-
 756943	he
 dax, daxi
 756946	xaṭər
@@ -38624,8 +38624,8 @@ w, ʾu-
 gu-
 756961	jareta, jarreta
 756963	jareta, jarreta
-756965	w, ʾu- masta
-burra w, ʾu- gu-
+756965	masta w, ʾu-
+gu- w, ʾu- burra
 756968	gu-
 756970	w, ʾu-
 gu-
@@ -38638,14 +38638,14 @@ w, ʾu-
 756984	bɛθa l-
 756987	sāx
 w, ʾu-
-756990	ramša xa, xaʾa
-756994	ramša xa, xaʾa
+756990	xa, xaʾa ramša
+756994	xa, xaʾa ramša
 756997	šurela
 t ta
 757006	ʾati
-w, ʾu- xmara
+xmara w, ʾu-
 tawra
-ʾana w, ʾu-
+w, ʾu- ʾana
 757011	bɛθa
 ʾap, ʾup xa, xaʾa
 lɛle
@@ -38670,15 +38670,15 @@ la ʾay
 757047	ga, gaya xa, xaʾa
 xeta, xreta
 757053	fṭarta
-757055	w, ʾu- məndi, mdi
+757055	məndi, mdi w, ʾu-
 xena, xrena
 kul, ku, kulla
 757059	gu-
-757061	kul, ku, kulla məndi, mdi
+757061	məndi, mdi kul, ku, kulla
 ṱ
 ləxma
 masta ʾən
-kul, ku, kulla məndi, mdi ʾən
+məndi, mdi ʾən kul, ku, kulla
 757067	w, ʾu-
 tawra
 757071	šurela
@@ -38688,17 +38688,17 @@ tawra
 mara
 757083	ʾədyo, ʾədyoma
 757086	har
-757088	w, ʾu- xmara
+757088	xmara w, ʾu-
 tawra
-ʾana w, ʾu-
+w, ʾu- ʾana
 757092	bɛθa
 757094	ʾaxni har
 757096	ṱ ʾaw, ʾo
 757098	ʾaw
-757100	lɛle t ʾaw, ʾo
+757100	t lɛle ʾaw, ʾo
 757102	la
 757104	ṱ
-757106	qa- t šama
+757106	t qa- šama
 757108	malka
 757113	bena xa, xaʾa
 xeta, xreta
@@ -38711,7 +38711,7 @@ w, ʾu-
 757129	hal, ha-
 ʾaṣərta
 ʾaṣərta
-757133	ʾaw l- ḥammam
+757133	ḥammam l- ʾaw
 sāx
 w, ʾu-
 757138	ʾixala w, ʾu-
@@ -38734,9 +38734,9 @@ diya
 757168	ṣawθa
 lɛle
 757172	diya
-w, ʾu- ʾay
+ʾay w, ʾu-
 757176	har
-ləbba bəd, bud
+bəd, bud ləbba
 gu-
 baba
 757182	xadama, xaddama
@@ -38750,25 +38750,25 @@ b- lɛle
 757195	miya
 w, ʾu-
 ʾixala ʾaw, ʾo
-gu- gana, jana ʾay
+ʾay gana, jana gu-
 757201	ʾən
 b-
 ʾurxa
 757205	la
 757207	jalda
-ṱ ta
+ta ṱ
 pəlxana
 ṭla-, ta-
-ṱ ta
+ta ṱ
 757213	ʾarba, ʾarpa
 mən, m- baθər, bar
 ṱ
 757218	w, ʾu- yala
-757221	šula l-
+757221	l- šula
 yəmma
-757225	šula l-
+757225	l- šula
 757228	ʾamana
-w, ʾu- kništa
+kništa w, ʾu-
 bɛθa
 w, ʾu-
 757233	yala
@@ -38790,19 +38790,19 @@ mən, m-
 757273	w, ʾu-
 757276	zwaða
 757278	gu-
-w, ʾu- bar
+bar w, ʾu-
 hadəx
-757283	goma gu-
+757283	gu- goma
 757285	w, ʾu- tawra
 xmara
 qəm- w, ʾu-
-ʾurxa b- w, ʾu-
+b- ʾurxa w, ʾu-
 w, ʾu-
 w, ʾu-
 757295	w, ʾu-
 w, ʾu-
 757298	ʾaxxa
-l- tamma
+tamma l-
 757301	xmaθa ṭla-, ta-
 diya
 ʾati
@@ -38813,7 +38813,7 @@ la
 w, ʾu-
 w, ʾu- brata
 ʾaxxa
-l- tamma
+tamma l-
 yoma
 yoma ṭla-, ta-
 yoma
@@ -38838,7 +38838,7 @@ miθa
 balki
 ṱ
 məndi, mdi xa, xaʾa
-757352	malka də-, de-
+757352	də-, de- malka
 ṱ
 757356	xmaθa
 diya
@@ -38860,7 +38860,7 @@ w, ʾu-
 ʾiða
 757392	baba
 diya
-w, ʾu- ʾap, ʾup
+ʾap, ʾup w, ʾu-
 757396	ha
 757398	dax, daxi
 dax, daxi
@@ -38887,18 +38887,18 @@ kubbe
 goṛa
 xa, xaʾa
 ṭla-, ta-
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 ṭla-, ta-
 ʾay, ʾey, ʾɛ, ʾa ṱ
-757446	qəsm tre, treʾe
+757446	tre, treʾe qəsm
 t
 xa, xaʾa
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 ṭla-, ta-
 757452	mo, mu, modi, maw, mawdi ṭla-, ta-
 757456	ʾawwa
 yala
-la t ʾaw, ʾo
+t la ʾaw, ʾo
 757462	sama
 gu-
 bɛθa
@@ -38918,11 +38918,11 @@ la
 w, ʾu-
 malka
 xəðya
-w, ʾu- gu-
+gu- w, ʾu-
 ʾaw
 757493	w, ʾu-
 757495	ʾay
-757497	w, ʾu- kubbe
+757497	kubbe w, ʾu-
 w, ʾu-
 məšxa gu-
 757501	tama
@@ -38932,14 +38932,14 @@ diya
 xmaθa
 diya
 w, ʾu-
-757510	ṭla-, ta- gawṛa, gʸawṛa
+757510	gawṛa, gʸawṛa ṭla-, ta-
 diya
 757513	gawṛa, gʸawṛa
 diya
 757517	kəma
 ʾixala
 ʾaxxa
-l- tamma
+tamma l-
 757523	yoma xa, xaʾa
 757525	hatxa, ʾatxa
 la
@@ -38959,7 +38959,7 @@ brata
 qəm-
 b-
 bɛθa
-w, ʾu- ka- t
+t w, ʾu- ka-
 757551	malka
 w, ʾu- lipa
 w, ʾu- har
@@ -38968,7 +38968,7 @@ w, ʾu-
 xala
 ʾədyo, ʾədyoma
 757559	ʾay
-757561	naša ṭla-, ta-
+757561	ṭla-, ta- naša
 757563	lazəm
 757566	qəṣṣət, qəṣṣətta
 mara
@@ -38979,7 +38979,7 @@ mara
 malka
 757590	ya
 757592	bahs, bas
-757594	duzuθa b-
+757594	b- duzuθa
 dax, daxi
 ʾayya
 brata
@@ -38988,12 +38988,12 @@ w, ʾu-
 757603	w, ʾu-
 w, ʾu-
 w, ʾu-
-757607	w, ʾu- kul, ku, kulla xa, xaʾa
+757607	kul, ku, kulla xa, xaʾa w, ʾu-
 məndi, mdi
-757610	ka- t
+757610	t ka-
 gu-
 757615	w, ʾu-
-w, ʾu- hal, ha-
+hal, ha- w, ʾu-
 ʾədyo, ʾədyoma
 yoma
 dax, daxi
@@ -39012,7 +39012,7 @@ hadiya, diya, hadayya
 w, ʾu-
 hadəx har
 757641	ʾana
-ʾap, ʾup diya
+diya ʾap, ʾup
 ʾayya
 ʾurxa
 ṱ
@@ -39021,7 +39021,7 @@ zala
 757649	diya
 757652	hal, ha-
 mawθa, moθa
-757657	la t ʾaw, ʾo
+757657	t la ʾaw, ʾo
 gu-
 757660	sama
 757663	t ʾaw, ʾo
@@ -39032,15 +39032,15 @@ diya
 la
 757672	ʾixala
 ʾana
-yoma ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa yoma
 qəm-
 757677	qa-
-miya bahs, bas
-757680	qam reša
+bahs, bas miya
+757680	reša qam
 diya
-yoma ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa yoma
 miya
-757685	qam reša
+757685	reša qam
 diya
 757688	b- gana, jana
 majbur
@@ -39082,24 +39082,24 @@ hal, ha-
 757763	w, ʾu-
 757765	mən, m- ġðaðe
 w, ʾu-
-šula l-
+l- šula
 w, ʾu-
 757770	ʾixala
 ʾay
 b- gana, jana
-w, ʾu- b- pəlxana
+b- w, ʾu- pəlxana
 b- gana, jana
-w, ʾu- zala
-757777	bɛθa gu-
+zala w, ʾu-
+757777	gu- bɛθa
 bɛθa
 757781	diya
 757783	ʾana
 757786	diya
 757789	w, ʾu-
 757791	w, ʾu-
-757793	w, ʾu- la ču məndi, mdi
+757793	w, ʾu- la məndi, mdi ču
 bahs, bas
-la t ʾaw, ʾo
+t la ʾaw, ʾo
 757798	ṱ
 gu-
 757804	brixa
@@ -39112,7 +39112,7 @@ qima
 hatxa, ʾatxa
 757814	laxxa
 ṱ
-757820	w, ʾu- t
+757820	t w, ʾu-
 ʾupra
 kəma t
 757824	w, ʾu-
@@ -39121,11 +39121,11 @@ naša
 757831	ʾalaha
 757834	ʾayya
 ʾurxa
-ʾana w, ʾu-
+w, ʾu- ʾana
 ṱ
 b-
 ʾurxa
-w, ʾu- raba
+raba w, ʾu-
 rəð̣ya, rəḍya
 ʾupra
 757845	ʾana w, ʾu-
@@ -39138,7 +39138,7 @@ təmməl
 raba
 basima
 757862	malka
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 757869	ʾana
 təmməl
@@ -39154,7 +39154,7 @@ w, ʾu- ʾədyo, ʾədyoma
 757886	b-
 balki
 la
-757890	dana ʾay, ʾey, ʾɛ, ʾa
+757890	ʾay, ʾey, ʾɛ, ʾa dana
 balki
 ʾap, ʾup
 757895	də-, de-
@@ -39165,23 +39165,23 @@ brixa
 ʾalaha
 757905	b-
 dunye
-w, ʾu- xeta, xreta b-
+b- xeta, xreta w, ʾu-
 w, ʾu-
 tama
 w, ʾu-
 laxxa
 757913	ʾarya, ʾɛrya
-ġaba gu-
+gu- ġaba
 qəm-
 xa, xaʾa
 ʾaw
-w, ʾu- dewa
+dewa w, ʾu-
 tela, tala, taʾla
 757921	xawra
 qəm-
 xa, xaʾa
 ʾarya, ʾɛrya
-757926	dewa ṭla-, ta-
+757926	ṭla-, ta- dewa
 757928	dewa
 757930	ʾayya
 757932	ʾaxni
@@ -39195,7 +39195,7 @@ diya
 diya
 757947	w, ʾu-
 danwa
-ṭla-, ta- tela, tala, taʾla
+tela, tala, taʾla ṭla-, ta-
 ʾarya, ʾɛrya
 757952	šaqqana
 l-
@@ -39205,18 +39205,18 @@ dewa
 qiya
 757960	ʾarya, ʾɛrya
 757962	tela, tala, taʾla
-757967	ʾana ʾap, ʾup
+757967	ʾap, ʾup ʾana
 b-
 757970	ʾarya, ʾɛrya
-ṭla-, ta- tela, tala, taʾla
+tela, tala, taʾla ṭla-, ta-
 757973	tela, tala, taʾla
 ʾati
 757976	ʾayya
 757980	mo, mu, modi, maw, mawdi
 757983	ʾaṭma
-757989	w, ʾu- məndi, mdi t
+757989	t məndi, mdi w, ʾu-
 757991	ʾaṣərta
-ramša xa, xaʾa
+xa, xaʾa ramša
 757994	w, ʾu-
 757996	ʾati
 raba
@@ -39228,7 +39228,7 @@ hawna
 dewa
 758008	ṭaxana, ṭaxxana xa, xaʾa
 ṭaxana, ṭaxxana
-qam ʾarxa xa, xaʾa
+ʾarxa xa, xaʾa qam
 ʾarxa
 758014	bahs, bas
 758016	tela, tala, taʾla
@@ -39251,7 +39251,7 @@ w, ʾu-
 758043	č̣ara
 758045	qəqwana
 758047	mən, m- məndi, mdi
-ṭura gu-
+gu- ṭura
 ṱ
 ʾaxxa
 w, ʾu-
@@ -39264,7 +39264,7 @@ də-, de-
 tre, treʾe
 ṭḷaθa, ṭḷa
 yarxa, yɛrxa xa, xaʾa
-šeta xa, xaʾa
+xa, xaʾa šeta
 758067	tela, tala, taʾla
 758071	malka
 maθa
@@ -39278,7 +39278,7 @@ ma
 ma
 758087	ʾati
 758093	masərqa
-758097	malka ta
+758097	ta malka
 758100	ʾawwa
 758102	w, ʾu-
 maθa
@@ -39286,14 +39286,14 @@ kul, ku, kulla
 758108	ʾamṛa
 ʾamṛa
 liθ
-ču məndi, mdi
+məndi, mdi ču
 dugla
 kul, ku, kulla
 naša
 758117	mbadla
 hal, ha- diya
 ʾamṛa
-758121	ʾanbar gu-
+758121	gu- ʾanbar
 malka
 758124	ʾalaha ya
 ʾana
@@ -39304,9 +39304,9 @@ malka
 mðita
 758133	hatxa, ʾatxa
 məndi, mdi
-w, ʾu- mən, m-
+mən, m- w, ʾu-
 mən, m-
-758138	ʾawwa məndi, mdi
+758138	məndi, mdi ʾawwa
 dugla har
 758141	šabθa xa, xaʾa
 hodəx
@@ -39315,17 +39315,17 @@ xena, xrena
 758147	malka
 bena xa, xaʾa
 xena, xrena
-758151	w, ʾu- masərqa
+758151	masərqa w, ʾu-
 758153	marrəs
 marrəs
 758156	naša ʾaw
 mən, m-
-marrəs ʾaw
+ʾaw marrəs
 758161	ʾaṣərta
 758164	marrəs
 758166	masərqa
 758169	naša
-ṱ ma
+ma ṱ
 758172	mbadla
 hal, ha- diya
 ʾəmma
@@ -39333,10 +39333,10 @@ tre, treʾe
 naša
 758178	marrəs
 758180	malka
-758183	ʾawwa məndi, mdi
+758183	məndi, mdi ʾawwa
 hatxa, ʾatxa
 liθ
-bar yarxa, yɛrxa xa, xaʾa
+yarxa, yɛrxa bar xa, xaʾa
 758188	bena xa, xaʾa
 xena, xrena
 malka
@@ -39358,23 +39358,23 @@ mən, m-
 hatxa, ʾatxa
 zuze
 rapəkθa
-758221	rapəkθa b-
+758221	b- rapəkθa
 zuze
 xena, xrena
 758227	naša
 758229	məllət
 kul, ku, kulla
 758232	kul, ku, kulla
-758234	ʾanbar gu-
+758234	gu- ʾanbar
 zuze
 dugla
-ču məndi, mdi
+məndi, mdi ču
 liθ
 bar
 yarxa, yɛrxa xa, xaʾa
 758243	ṭla-, ta-
 758245	ṭaxana, ṭaxxana
-758247	ʾarxa gu-
+758247	gu- ʾarxa
 758251	malka
 758254	mo, mu, modi, maw, mawdi ṱ
 758256	malka
@@ -39409,7 +39409,7 @@ mo, mu, modi, maw, mawdi
 758314	lɛle
 tmanya
 yoma
-758319	w, ʾu- dawla
+758319	dawla w, ʾu-
 zorna
 w, ʾu-
 758324	malka
@@ -39426,14 +39426,14 @@ kut
 qəm-
 ʾani, ʾan
 758349	ʾərba ʾani, ʾan
-758351	fəllən, pəllən, flan naša t
+758351	t fəllən, pəllən, flan naša
 758353	bahs, bas
 ṱ
 ʾən
 ʾərba ʾani, ʾan
 758359	t
 758361	ʾana
-ču məndi, mdi
+məndi, mdi ču
 la
 758367	bahs, bas
 758371	tela, tala, taʾla
@@ -39446,7 +39446,7 @@ qəm-
 tela, tala, taʾla
 758389	ʾərba ʾani, ʾan
 šima
-758393	w, ʾu- ʾani, ʾan
+758393	ʾani, ʾan w, ʾu-
 758397	kawta xa, xaʾa
 758399	gameša
 tawərta
@@ -39461,7 +39461,7 @@ naša
 ʾən
 758418	ʾanna
 758420	mur
-ga ʾanna
+ʾanna ga
 t
 758424	ʾap, ʾup ʾani, ʾan
 758427	naša
@@ -39476,13 +39476,13 @@ mara
 mən, m-
 hatxa, ʾatxa
 758442	ʾana
-758444	ʾaθṛa xa, xaʾa
+758444	xa, xaʾa ʾaθṛa
 758446	hatxa, ʾatxa
 758448	mən, m- ʾaw, ʾo
-758451	har to
+758451	to har
 758455	xa, xaʾa
 gumla
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 qamaya
 758462	gumla
 758464	gumla
@@ -39492,7 +39492,7 @@ qamaya
 758472	qəm-
 ʾaw, ʾo
 ʾən
-758476	naša xa, xaʾa
+758476	xa, xaʾa naša
 758480	t
 758483	naša
 758488	t
@@ -39511,7 +39511,7 @@ xərsa
 758523	ʾana
 ma
 758526	ʾana
-758529	qa- t
+758529	t qa-
 758531	mo, mu, modi, maw, mawdi ṱ
 758540	mo, mu, modi, maw, mawdi
 ṱ
@@ -39536,7 +39536,7 @@ qəm-
 nura
 mən, m- ʾəsri
 dukθa, duka
-mara ʾay
+ʾay mara
 758581	qəssa
 758583	qəm-
 758585	tarəkka
@@ -39552,7 +39552,7 @@ t dawa
 758607	w, ʾu-
 tela, tala, taʾla
 758611	kul, ku, kulla ṱ
-758613	čamča gu-
+758613	gu- čamča
 b- skinta
 gu- ʾamana
 b- kuba
@@ -39612,7 +39612,7 @@ bena xa, xaʾa
 ṱ
 758741	la
 ʾaxxa
-l- tamma
+tamma l-
 758746	ṱ
 758748	xam, xamma
 ʾayya ʾap, ʾup
@@ -39631,10 +39631,10 @@ malka
 ʾana
 maṭo
 758776	ṭla-, ta-
-758782	ʾana dax, daxi
+758782	dax, daxi ʾana
 758789	dax, daxi
 ṭla-, ta-
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 ʾay
 758794	heš, həš, š
 758796	ṭaxana, ṭaxxana
@@ -39667,16 +39667,16 @@ xa, xaʾa
 758845	tama
 758847	laxxa
 hadiya, diya, hadayya
-758850	xa, xaʾa qəṣṣət, qəṣṣətta
+758850	qəṣṣət, qəṣṣətta xa, xaʾa
 tuniθa
 758853	šəmma
 diya
 tala
-w, ʾu- laqləq
+laqləq w, ʾu-
 yoma xa, xaʾa
 taʾla
 758860	ʾarxa
-laqləq qa-
+qa- laqləq
 758863	ʾixala
 qa- ṱ
 gu- ʾamana
@@ -39691,9 +39691,9 @@ qəm-
 758876	ʾina
 ʾaw
 b-
-ču məndi, mdi
+məndi, mdi ču
 la
-laqləq ʾap, ʾup
+ʾap, ʾup laqləq
 yoma xa, xaʾa
 758884	qəm-
 gu- xa, xaʾa
@@ -39715,32 +39715,32 @@ qəm-
 naqruza
 758906	kul, ku, kulla
 758908	qəm-
-manay, manaya diya
+diya manay, manaya
 kul, ku, kulla
 758912	bəd, bud
 758916	bəd, bud
-758918	naša xa, xaʾa
+758918	xa, xaʾa naša
 758920	l- ṭura
 758922	ʾərba
 qa- ṱ
 ṱ
-diwən gu-
+gu- diwən
 758927	w, ʾu-
 758929	ʾawwa
 758933	lɛle
-758935	gəppa xa, xaʾa
+758935	xa, xaʾa gəppa
 758938	mbadla
 758941	b- lɛle
 758944	lɛle
 laxxa
-xo-, xu- mbadla
-758951	gəppa gu-
-ga ʾay, ʾey, ʾɛ, ʾa
+mbadla xo-, xu-
+758951	gu- gəppa
+ʾay, ʾey, ʾɛ, ʾa ga
 bena xa, xaʾa
 b- lɛle
 758956	hambišaya xa, xaʾa
 hambišaya
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 758961	ʾawwa
 naša
 ləbba
@@ -39757,8 +39757,8 @@ xa, xaʾa
 758978	ʾalaha ya
 ya
 zaya
-gawza fəllən, pəllən, flan
-758983	zaya ṭla-, ta-
+fəllən, pəllən, flan gawza
+758983	ṭla-, ta- zaya
 758985	čara, čɛra, kʸɛr xa, xaʾa
 758988	gu-
 758990	naša
@@ -39774,13 +39774,13 @@ raba
 759010	ʾap, ʾup
 naša ʾaw
 759013	ʾalaha ya
-zaya ya
+ya zaya
 759016	čara, čɛra, kʸɛr xa, xaʾa
 mən, m-
-759019	ʾaw, ʾo neriya
+759019	neriya ʾaw, ʾo
 w, ʾu- har
 qəm-
-759023	ʾaw, ʾo neriya
+759023	neriya ʾaw, ʾo
 neriya
 zaxma
 ʾərba
@@ -39801,7 +39801,7 @@ naša
 xačča
 759049	hatxa, ʾatxa
 759051	hatxa, ʾatxa
-ʾaw la
+la ʾaw
 759056	bahs, bas ṭliya
 759060	hatxa, ʾatxa
 bena xa, xaʾa
@@ -39819,20 +39819,20 @@ tope
 759081	spay
 759083	tope
 759085	spay
-759087	be- gu-
+759087	gu- be-
 gu-
 759090	ʾalaha ya
 759092	mən, m-
-759094	qala xa, xaʾa
-qala mən, m-
-759099	šərwala gu-
+759094	xa, xaʾa qala
+mən, m- qala
+759099	gu- šərwala
 žare
 759102	w, ʾu-
-759104	nura ʾaw, ʾo
+759104	ʾaw, ʾo nura
 qəm-
 b- reša
 759108	naša
-759110	ṱ ta
+759110	ta ṱ
 b- diwən
 t ta
 759114	ʾina tope
@@ -39847,7 +39847,7 @@ qəm-
 la
 759134	mbadla
 ṱ
-759140	ṭura xa, xaʾa
+759140	xa, xaʾa ṭura
 ʾina
 šawwa
 zawga
@@ -39855,23 +39855,23 @@ zawga
 759151	reša
 759155	gu-
 baxta xa, xaʾa
-brata xa, xaʾa
+xa, xaʾa brata
 759159	ʾədyo, ʾədyoma
-759162	nera, nara l-
-759165	w, ʾu- margəlta
+759162	l- nera, nara
+759165	margəlta w, ʾu-
 qɛsa
-w, ʾu- məndi, mdi
+məndi, mdi w, ʾu-
 ṱ
 miya
 šaxina
 t ta
-759175	w, ʾu- masrəqta, masrəqθa
+759175	masrəqta, masrəqθa w, ʾu-
 w, ʾu-
 məndi, mdi
 759179	margəlta
 yəmma ṭla-, ta-
 diya
-qa- t
+t qa-
 759184	qarəkke xa, xaʾa
 759186	masrəqta, masrəqθa
 diya
@@ -39881,24 +39881,24 @@ baθra, bara w, ʾu-
 w, ʾu-
 759193	ʾay
 759195	qarəkke
-759199	la t
+759199	t la
 759201	ʾay
 la har
 759204	qarəkke
 qaṣra l- xa, xaʾa
 goṛa
-759208	gare l-
+759208	l- gare
 qəm-
 b- kawe xa, xaʾa
 masrəqta, masrəqθa
 diya
-759214	bɛθa gu-
-759216	bɛθa gu-
+759214	gu- bɛθa
+759216	gu- bɛθa
 ʾay
 759221	ʾanna
 759223	tama
 šawwa
-759226	bɛθa gu-
+759226	gu- bɛθa
 ʾanna
 759231	dunye
 759233	he
@@ -39908,11 +39908,11 @@ qam
 759241	la
 dunye
 759246	ʾɛna
-ga b-
+b- ga
 759250	gare
 759253	brata
-gare l-
-759257	brata xa, xaʾa
+l- gare
+759257	xa, xaʾa brata
 laxxa
 759263	ha
 mu, mut
@@ -39939,13 +39939,13 @@ tama
 759311	ṣɛda
 759314	qaṭu, qaṭuθa
 759316	qəm-
-nura gu-
+gu- nura
 qəm-
 nura
 diya
-759322	la t nura
+759322	t la nura
 ʾayya
-759327	nura xa, xaʾa
+759327	xa, xaʾa nura
 raba
 rəḥqa
 759333	nura
@@ -39968,14 +39968,14 @@ xamθa
 759357	qalma
 759359	ʾay
 mən, m- nura
-759363	gutta xa, xaʾa
+759363	xa, xaʾa gutta
 hatxa, ʾatxa
-ʾəzla t
-jeba, jɛba gu-
+t ʾəzla
+gu- jeba, jɛba
 diya
 759371	diya
 gutta
-jeba, jɛba mən, m- gu-
+mən, m- gu- jeba, jɛba
 diya
 759376	b-
 w, ʾu-
@@ -40004,7 +40004,7 @@ zăbun, zabbun
 la
 759419	ʾaxni
 759421	ʾiθ
-xa, xaʾa tanura
+tanura xa, xaʾa
 goṛa
 t
 ləxma
@@ -40022,7 +40022,7 @@ mur
 759444	ʾaw
 ṱ
 mur
-759449	w, ʾu- t
+759449	t w, ʾu-
 759453	xačča
 laxxa
 ʾaw
@@ -40060,16 +40060,16 @@ mən, m-
 hatxa, ʾatxa
 759512	ʾaxni
 ʾati
-759516	qəṭma ʾaw, ʾo
+759516	ʾaw, ʾo qəṭma
 qəm-
 759522	qəṭma
-759525	šawwa bar
+759525	bar šawwa
 ṭura
-b- guniya xa, xaʾa
+b- xa, xaʾa guniya
 ṱ
-759530	mo, mu, modi, maw, mawdi ʾay
+759530	ʾay mo, mu, modi, maw, mawdi
 759532	qəm-
-guniya gu- xa, xaʾa
+gu- xa, xaʾa guniya
 šətta
 diya
 nčila
@@ -40084,10 +40084,10 @@ kəma
 759551	kerapso xa, xaʾa
 gəlla w, ʾu-
 taza
-ʾixala ta
+ta ʾixala
 759557	ʾawwa
 gəlla
-ʾixala ta
+ta ʾixala
 taza
 759562	xanči, xanča
 ta
@@ -40098,7 +40098,7 @@ yarqa
 759570	gəlla ʾaw, ʾo
 759575	diya
 šawwa
-759578	ṣɛda mən, m-
+759578	mən, m- ṣɛda
 759582	ʾədyo, ʾədyoma
 759584	yarqa
 raba
@@ -40112,13 +40112,13 @@ kul, ku, kulla
 759601	ʾay
 kut
 759609	yoma xa, xaʾa
-759611	naša xa, xaʾa
-naša xa, xaʾa
+759611	xa, xaʾa naša
+xa, xaʾa naša
 dɛrweša xa, xaʾa
 759615	tama
 759617	ma
 brata
-hatxa, ʾatxa ṱ
+ṱ hatxa, ʾatxa
 759621	qam
 ʾərba
 759624	ʾanna
@@ -40133,7 +40133,7 @@ ta
 759641	ʾana
 ʾanna
 759645	bahs, bas
-759647	bahs, bas ʾanna
+759647	ʾanna bahs, bas
 759652	də-, de-
 ʾati
 bar
@@ -40150,25 +40150,25 @@ k̭ora
 šawwa
 qɛsa
 759675	naša
-759677	l- tre, treʾe
+759677	tre, treʾe l-
 hatxa, ʾatxa
-759680	l- ṭḷaθa, ṭḷa
+759680	ṭḷaθa, ṭḷa l-
 hatxa, ʾatxa
-ʾarba, ʾarpa t ʾaw, ʾo
+t ʾaw, ʾo ʾarba, ʾarpa
 hatxa, ʾatxa
-xamša t ʾaw, ʾo
-ʾəšta t ʾaw, ʾo
-šawwa t ʾaw, ʾo
+t xamša ʾaw, ʾo
+t ʾəšta ʾaw, ʾo
+t ʾaw, ʾo šawwa
 zora biš
 759690	b- gare
 ʾaw
 759695	k̭ora
 759698	palga
 naša
-w, ʾu- palga
+palga w, ʾu-
 paṛa
 ʾaw
-mo, mu, modi, maw, mawdi ta
+ta mo, mu, modi, maw, mawdi
 759705	k̭ora
 759708	xena, xrena
 759712	zora
@@ -40199,19 +40199,19 @@ xa, xaʾa
 ʾaxxa
 759760	la
 la
-759764	la t ta
+759764	t ta la
 ʾati
 ʾay
 t
 ʾani, ʾan
 yoma xa, xaʾa
-759775	bera xa, xaʾa
+759775	xa, xaʾa bera
 hatxa, ʾatxa
 759778	ʾamuqa
 ʾani, ʾan
-759782	mo, mu, modi, maw, mawdi ʾay
+759782	ʾay mo, mu, modi, maw, mawdi
 759785	ʾay, ʾey, ʾɛ, ʾa
-759788	bera gu-
+759788	gu- bera
 ʾay
 759791	brata
 w, ʾu-
@@ -40239,8 +40239,8 @@ yoma xa, xaʾa
 paṛa
 kut
 759830	b-
-759832	dukθa, duka b-
-759834	bera gu-
+759832	b- dukθa, duka
+759834	gu- bera
 759836	mo, mu, modi, maw, mawdi
 la
 ṱ
@@ -40259,22 +40259,22 @@ hadəx
 759874	tre, treʾe
 759876	xa, xaʾa
 məlxa
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 har
 miya
 lɛle
 759883	ʾixala ču
 w, ʾu-
 baθra, bara
-kut qəṭṭa
-759890	ʾax naθa
+qəṭṭa kut
+759890	naθa ʾax
 diya
 də-, de-
 ʾay
-759895	w, ʾu- ʾawwa
+759895	ʾawwa w, ʾu-
 759897	xona
 759899	diya
-759901	malka xa, xaʾa
+759901	xa, xaʾa malka
 759903	ʾarbi
 brona
 759906	zora ʾaw, ʾo
@@ -40301,10 +40301,10 @@ baxta
 759945	b- ġðaðe
 759948	zala
 mara
-naša ʾiθ xa, xaʾa
+ʾiθ xa, xaʾa naša
 759952	ʾarbi
 brata
-759955	l- ʾaθṛa xa, xaʾa
+759955	l- xa, xaʾa ʾaθṛa
 xena, xrena
 w, ʾu-
 naša ʾaw, ʾo
@@ -40312,18 +40312,18 @@ naša ʾaw, ʾo
 ma
 t
 ʾarbi
-759966	ʾarbi ṭla-, ta-
+759966	ṭla-, ta- ʾarbi
 759968	ʾina
 ʾiman, ʾima
 ṱ
 laxxa
 759973	la
 759975	la
-karma, kɛrma, kʸɛrma gu-
-w, ʾu- la
-marga, mɛrga gu-
-w, ʾu- la
-qaṣra gu-
+gu- karma, kɛrma, kʸɛrma
+la w, ʾu-
+gu- marga, mɛrga
+la w, ʾu-
+gu- qaṣra
 ʾanna ʾən
 759983	ʾana
 t
@@ -40340,11 +40340,11 @@ baba
 760004	brata
 la
 760007	la
-marga, mɛrga gu-
-w, ʾu- la
-karma, kɛrma, kʸɛrma gu-
-w, ʾu- la
-qaṣra gu-
+gu- marga, mɛrga
+la w, ʾu-
+gu- karma, kɛrma, kʸɛrma
+la w, ʾu-
+gu- qaṣra
 760014	ma
 760017	zala
 zala
@@ -40366,7 +40366,7 @@ kul, ku, kulla
 bena xa, xaʾa
 ʾaw, ʾo
 ʾina
-760050	naša xa, xaʾa
+760050	xa, xaʾa naša
 xa, xaʾa
 760053	koma
 susa
@@ -40387,9 +40387,9 @@ qalya
 xaṭər
 ʾalaha
 la
-šula ʾaw, ʾo
+ʾaw, ʾo šula
 ʾaxxa
-l- tamma
+tamma l-
 ʾanna
 har
 760093	mən, m-
@@ -40404,30 +40404,30 @@ mən, m-
 760104	zala
 l- ṭura
 760110	ʾawwa naša
-760112	gu- gəppa xa, xaʾa
+760112	gu- xa, xaʾa gəppa
 760115	tama
-w, ʾu- yəmma
+yəmma w, ʾu-
 760122	ṭḷaθi
 hambišaya
-gu- gəppa xa, xaʾa
+gu- xa, xaʾa gəppa
 mara
-760129	marga, mɛrga gu-
+760129	gu- marga, mɛrga
 760132	naša
 tama
-760137	šeta ṭla-, ta- xa, xaʾa
+760137	xa, xaʾa šeta ṭla-, ta-
 760140	mo, mu, modi, maw, mawdi
 760143	kəlya
 l-
 gəppa
 ʾanna
 760150	xa, xaʾa sɛpa
-kasa gu-
+gu- kasa
 760153	gəppa
 yəmma
 hambišaya
 760157	ṭla-, ta-
 zora
-760160	ʾana ʾap, ʾup
+760160	ʾap, ʾup ʾana
 760162	xa, xaʾa
 760164	susa
 ṱ
@@ -40439,20 +40439,20 @@ balki
 760179	hambišaya
 760181	ʾana
 760184	xzura
-ʾap, ʾup ʾay
+ʾay ʾap, ʾup
 760187	ʾaw, ʾo
 760189	xulama
 susa
-760193	ṭla-, ta- xulama
-760195	čadra gu-
-760198	mbadla hal, ha-
+760193	xulama ṭla-, ta-
+760195	gu- čadra
+760198	hal, ha- mbadla
 mbadla
 760201	kul, ku, kulla
 760203	ṱ
 760205	dmixa
 760207	mara
 də-, de-
-760210	ʾiman, ʾima hal, ha-
+760210	hal, ha- ʾiman, ʾima
 760213	mən, m- tama
 b- yoma
 760216	zala
@@ -40468,12 +40468,12 @@ goṛa
 məndi, mdi
 xa, xaʾa
 məndi, mdi
-760234	naša xa, xaʾa
+760234	xa, xaʾa naša
 xena, xrena
 ʾanna
 kul, ku, kulla
 760241	ḥarəs
-760243	naša xa, xaʾa
+760243	xa, xaʾa naša
 xena, xrena
 760246	lwišta
 smoqa
@@ -40484,7 +40484,7 @@ smoqa
 b- lɛle
 rumxa
 760257	kizəkka
-ṱ ma
+ma ṱ
 naša ʾaw, ʾo
 raba
 xɛlana
@@ -40493,7 +40493,7 @@ xɛlana
 760271	naša
 ʾanna
 760274	ʾaxxa
-l- tamma
+tamma l-
 mara
 760278	ʾati
 760281	ʾanna
@@ -40507,8 +40507,8 @@ plaša
 plaša
 plaša
 hal, ha-
-mbadla gu-
-mbadla gu-
+gu- mbadla
+gu- mbadla
 760298	yoma
 naša ʾaw, ʾo
 760302	ʾaw, ʾo
@@ -40532,7 +40532,7 @@ la
 qaṣra
 760335	l-
 760338	mira
-760340	w, ʾu- marga, mɛrga gu-
+760340	gu- marga, mɛrga w, ʾu-
 karma, kɛrma, kʸɛrma
 mo, mu, modi, maw, mawdi
 760344	t ta
@@ -40545,7 +40545,7 @@ laxxa
 kul, ku, kulla
 760357	ʾawwa
 qima
-760360	mbadla gu-
+760360	gu- mbadla
 760362	xa, xaʾa
 xa, xaʾa
 susa xa, xaʾa
@@ -40559,7 +40559,7 @@ qaṣra
 ʾawwa
 ṱ
 čol
-760386	w, ʾu- ʾaxxa
+760386	ʾaxxa w, ʾu-
 tamma
 760390	ʾawwa
 la
@@ -40567,13 +40567,13 @@ la
 760396	mara
 mo, mu, modi, maw, mawdi
 gu-
-760400	ču məndi, mdi
+760400	məndi, mdi ču
 tabziya
 760403	gu-
 760405	sɛpa
-reša gu-
-ču məndi, mdi
-760409	ʾurxa b- ču
+gu- reša
+məndi, mdi ču
+760409	b- ču ʾurxa
 lɛle
 760413	xarθa
 760416	ṱ
@@ -40583,7 +40583,7 @@ lɛle
 ʾaxči
 760426	ʾaxni
 ṱ
-wajəbuθa ʾay
+ʾay wajəbuθa
 760433	ṱ
 760439	ṱ
 baxta
@@ -40599,21 +40599,21 @@ qaṣra
 ʾana
 bɛθa l-
 la
-760465	brata xa, xaʾa
+760465	xa, xaʾa brata
 šəmma
 760468	ʾarbi
 ṣoṣiθa
 kurdəθ
 w, ʾu-
-760475	mbadla gu-
+760475	gu- mbadla
 šəmma
 brata
-ṱ ma
+ma ṱ
 šapira
 760488	he
 760490	la
 760495	dmixa
-marga, mɛrga gu-
+gu- marga, mɛrga
 w, ʾu-
 760499	ʾay, ʾey, ʾɛ, ʾa
 paxalta
@@ -40621,21 +40621,21 @@ paxalta
 760504	hambišaya
 760506	w, ʾu-
 760508	gu- xurja
-760512	karma, kɛrma, kʸɛrma gu-
+760512	gu- karma, kɛrma, kʸɛrma
 760515	xona
 goṛa ʾaw, ʾo
-760518	ču məndi, mdi
+760518	məndi, mdi ču
 760520	w, ʾu-
-760523	ču məndi, mdi
+760523	məndi, mdi ču
 760526	bahs, bas
 760528	xona ʾaw, ʾo
 zora
 760532	he
-760536	marga, mɛrga gu-
-760538	naša xa, xaʾa
+760536	gu- marga, mɛrga
+760538	xa, xaʾa naša
 760543	lɛle
 760547	l- ṭura
-760550	gu- gəppa xa, xaʾa
+760550	gu- xa, xaʾa gəppa
 hambišaya
 760556	t ha
 760560	ʾanna
@@ -40643,23 +40643,23 @@ hambišaya
 xa, xaʾa
 760570	tre, treʾe
 760572	dmixa
-760575	karma, kɛrma, kʸɛrma gu-
+760575	gu- karma, kɛrma, kʸɛrma
 760577	ṭla-, ta-
-760582	ču məndi, mdi
+760582	məndi, mdi ču
 760584	ʾawwa
 760586	dax, daxi
-760590	naša xa, xaʾa
+760590	xa, xaʾa naša
 susa xa, xaʾa
 smoqa
 760595	smoqa
 760597	plaša
 mən, m- ʾaṣərta
-mbadla hal, ha- gu-
-760603	mbadla gu-
+hal, ha- gu- mbadla
+760603	gu- mbadla
 760607	šəmša
-760610	ʾap, ʾup ʾay
-760613	qaṣra gu-
-760617	qaṣra gu-
+760610	ʾay ʾap, ʾup
+760613	gu- qaṣra
+760617	gu- qaṣra
 760619	xa, xaʾa
 dewərriš
 760622	mo, mu, modi, maw, mawdi
@@ -40669,14 +40669,14 @@ mara
 lɛle
 760631	mara
 760633	sɛpa
-xaṣa gu-
+gu- xaṣa
 ʾăyaha, yaha; ʾăyaʾha, yaʾha
 760637	mo, mu, modi, maw, mawdi
 gu-
 tabziya
 760646	mo, mu, modi, maw, mawdi
 760648	dana kut
-ḥajətta, hajətta, hajət xa, xaʾa
+xa, xaʾa ḥajətta, hajətta, hajət
 mara
 b-
 760656	ʾana
@@ -40687,23 +40687,23 @@ yama
 la ʾən
 la
 ṱ
-760683	naša ṭla-, ta-
+760683	ṭla-, ta- naša
 xaṭər bəd, bud
 xona
 zora
-760689	l- karma, kɛrma, kʸɛrma
-w, ʾu- məndi, mdi
-w, ʾu- qaṣra l-
+760689	karma, kɛrma, kʸɛrma l-
+məndi, mdi w, ʾu-
+qaṣra l- w, ʾu-
 qaṣra ʾaw, ʾo
 naša ʾaw, ʾo
 hadəx
-760696	ʾəṣra ga, gaya
+760696	ga, gaya ʾəṣra
 bena
 qamaya
 qonəx, qunəx, qunaxa xa, xaʾa
 760701	taza
 w, ʾu-
-w, ʾu- xaliya
+xaliya w, ʾu-
 mɛxolta
 kul, ku, kulla xa, xaʾa
 məndi, mdi
@@ -40712,7 +40712,7 @@ zora
 760710	ṭla-, ta-
 760712	ʾayya
 760716	ʾana
-hudxa mən, m-
+mən, m- hudxa
 760720	šula
 ʾani, ʾan
 760723	məṭya
@@ -40731,9 +40731,9 @@ zora
 liθ
 xona
 zora
-760742	qaṣra gu-
+760742	gu- qaṣra
 naša
-760747	mo, mu, modi, maw, mawdi ʾay
+760747	ʾay mo, mu, modi, maw, mawdi
 ʾayya
 760752	w, ʾu-
 760755	ʾayya
@@ -40759,9 +40759,9 @@ yama
 qaṣra ʾaw, ʾo
 760790	qəšta w, ʾu-
 gera
-kut yawna
+yawna kut
 760795	yawna
-ʾaw yaṣila, yaṣilta
+yaṣila, yaṣilta ʾaw
 xena, xrena
 760799	mara
 t ha
@@ -40777,7 +40777,7 @@ xarθa
 760815	ʾən
 760819	laxxa
 w, ʾu- ʾati
-760823	w, ʾu- la ʾən
+760823	la ʾən w, ʾu-
 760825	ʾani, ʾan
 760829	ʾanna
 šawwa
@@ -40785,14 +40785,14 @@ yama
 ʾana
 mo, mu, modi, maw, mawdi
 760836	ṭayyara
-760838	ṱ dax, daxi
+760838	dax, daxi ṱ
 diya
 760841	ha
-ʾap, ʾup ʾay
+ʾay ʾap, ʾup
 760845	ṱ
 yama l-
 qamaya
-760850	ṭura xa, xaʾa
+760850	xa, xaʾa ṭura
 tre, treʾe
 760854	ṭura
 l- ṭura
@@ -40808,7 +40808,7 @@ susa
 liθ
 mara
 760874	hatxa, ʾatxa
-yama gu-
+gu- yama
 760878	yama
 ʾay
 mara
@@ -40834,7 +40834,7 @@ waduθa, waʿduθa
 ṭḷaθa, ṭḷa
 ga, gaya
 mara
-dana ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa dana
 ʾayya
 760917	šawwa
 yama
@@ -40848,18 +40848,18 @@ la
 760931	ʾina
 mo, mu, modi, maw, mawdi
 ṱ
-760937	dukθa, duka xa, xaʾa
-w, ʾu- la t
+760937	xa, xaʾa dukθa, duka
+t la w, ʾu-
 760941	ma
 ʾap, ʾup ʾaw
 760946	susa
 w, ʾu-
-760951	ṱ ʾax
+760951	ʾax ṱ
 760953	ʾawwa
 t
 760956	l-
 yama xa, xaʾa
-ṱ ʾax
+ʾax ṱ
 760961	xa, xaʾa kepa, kʸepa
 raba
 goṛa
@@ -40868,12 +40868,12 @@ kepa, kʸepa
 ʾina
 xa, xaʾa
 susta
-760972	yama gu-
+760972	gu- yama
 həšyər
 ʾay, ʾey, ʾɛ, ʾa
 yama
 760979	diya
-760982	qam šmayya
+760982	šmayya qam
 mən, m-
 šmayya
 šəmša
@@ -40881,22 +40881,22 @@ mən, m-
 760991	gu-
 yama
 760994	ṱ
-760996	hadəx də-, de-
+760996	də-, de- hadəx
 də-, de-
-ṱ ha
+ha ṱ
 761000	tawba, toba
 l-
 761004	mo, mu, modi, maw, mawdi
 761008	l-
 761012	mara
-761015	dukθa, duka l-
+761015	l- dukθa, duka
 761017	qaṣra xa, xaʾa
 ʾina
 761020	t ʾax
 mira
 šawwa
 yaṣila, yaṣilta
-761026	kut yaṣila, yaṣilta
+761026	yaṣila, yaṣilta kut
 yawna xa, xaʾa
 tama
 ʾawwa ži
@@ -40907,32 +40907,32 @@ liθ
 761036	xa, xaʾa
 čərək, čŭruk
 w, ʾu-
-ʾap, ʾup xeta, xreta ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ʾap, ʾup xeta, xreta
 761041	qaṣra
 kəlya
 ʾayya
 761048	ʾawwa
 761052	diya
 761054	l- ṭura
-ṣɛda l-
+l- ṣɛda
 761058	ṣɛda
-ʾap, ʾup sab, săbab, m-săbab ʾay
+ʾay ʾap, ʾup sab, săbab, m-săbab
 761061	t
 žare
 ʾawwa
 761066	diya
 761068	jalda
 jalda
-761071	la t
-ʾap, ʾup ʾay
+761071	t la
+ʾay ʾap, ʾup
 761075	ʾɛka
 ʾina
 761079	hazər, haẓər, hað̣ər
-yama t
+t yama
 tiwa
 susta
-w, ʾu- ʾay
-761087	w, ʾu- reša
+ʾay w, ʾu-
+761087	reša w, ʾu-
 yama
 xena, xrena
 mara
@@ -40948,7 +40948,7 @@ diya
 qaṣra
 sapiqa
 761111	bala
-yama gu-
+gu- yama
 ʾina
 ʾay, ʾey, ʾɛ, ʾa
 yama
@@ -40966,24 +40966,24 @@ yama
 761159	tama
 ʾana
 ṱ
-xəṭṭa xa, xaʾa
+xa, xaʾa xəṭṭa
 761165	ʾawwa
 naša
 mo, mu, modi, maw, mawdi ṱ
 761170	ʾana
 761175	rumxa
-reša gu-
-ču məndi, mdi
+gu- reša
+məndi, mdi ču
 la
 761180	sɛpa
-761182	ču məndi, mdi
+761182	məndi, mdi ču
 la
 761186	ʾana
 761188	zala
 761192	qaṣra l-
 ʾaw, ʾo
-761195	ṣɛda l-
-761197	ʾilana xa, xaʾa
+761195	l- ṣɛda
+761197	xa, xaʾa ʾilana
 761199	rēš-, rəš-, rš-, š-
 761202	mən, m-
 761207	har
@@ -40995,7 +40995,7 @@ qadra, qădər
 diya
 xa, xaʾa
 ʾajəbuθa
-761221	yoma tre, treʾe
+761221	tre, treʾe yoma
 tama
 w, ʾu- ʾaw
 baxta
@@ -41007,29 +41007,29 @@ baxta
 761236	ʾawwa
 761240	dax, daxi
 761244	t ta
-761247	ʾana w, ʾu-
+761247	w, ʾu- ʾana
 ṱ
 761250	də-, de-
-ʾap, ʾup ʾay
-761255	kut yoma
-761257	ḥajətta, hajətta, hajət xa, xaʾa
+ʾay ʾap, ʾup
+761255	yoma kut
+761257	xa, xaʾa ḥajətta, hajətta, hajət
 761261	ʾati
 761265	w, ʾu-
-w, ʾu- dax, daxi
+dax, daxi w, ʾu-
 761269	mo, mu, modi, maw, mawdi
 761271	də-, de-
 də-, de-
 də-, de-
 xarθa
-kut yoma
+yoma kut
 761277	yoma xa, xaʾa
 yoma xa, xaʾa
 761282	gu-
 kanošta
 qəm-
 kanošta
-761287	nura gu-
-ču məndi, mdi
+761287	gu- nura
+məndi, mdi ču
 liθ
 ʾay
 la
@@ -41038,19 +41038,19 @@ la
 kanošta
 yoma
 761301	ʾana
-761304	gu- qɛsa xa, xaʾa
+761304	gu- xa, xaʾa qɛsa
 xena, xrena
 ʾap, ʾup ʾaw
 yoma
 ʾaw qɛsa
-761311	ču məndi, mdi
+761311	məndi, mdi ču
 761314	ṱ
 ʾati
 761319	θəqa
 761321	ʾana
 761323	la ʾən
 761326	gu-
-w, ʾu- dax, daxi
+dax, daxi w, ʾu-
 761329	ʾana
 yoma xa, xaʾa
 761332	la
@@ -41063,18 +41063,18 @@ xa, xaʾa
 qoṱiya
 gu-
 qoṱiya
-761348	ṣəpra xa, xaʾa
-761350	ṣəpra ʾay, ʾey, ʾɛ, ʾa
+761348	xa, xaʾa ṣəpra
+761350	ʾay, ʾey, ʾɛ, ʾa ṣəpra
 761353	la ʾən
 761355	ʾaw, ʾo
 wala
 761358	ṣəpra ʾaw, ʾo
 dana kut
-ṣəpra ʾay, ʾey, ʾɛ, ʾa
-761362	ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ṣəpra
+761362	ʾay, ʾey, ʾɛ, ʾa ga
 ʾana
 761365	ʾaw, ʾo
-ži wala
+wala ži
 la
 761369	ʾəlla
 761371	ṭḷaθa, ṭḷa
@@ -41113,12 +41113,12 @@ naša
 sadana
 hatta, hat
 ʾən
-761429	w, ʾu- ṭḷaθa, ṭḷa gera
+761429	ṭḷaθa, ṭḷa w, ʾu- gera
 qəšta
 761433	la ʾən
 761435	ʾana
 761437	b- reša
-761441	kut yoma
+761441	yoma kut
 761443	b- reša
 mbadla
 hal, ha- ʾaṣərta
@@ -41132,7 +41132,7 @@ bəska
 rēš-, rəš-, rš-, š-
 761469	ʾən
 761471	ṭḷaθa, ṭḷa gera
-761474	w, ʾu- la ʾən
+761474	la ʾən w, ʾu-
 761476	ʾana
 761478	b- reša
 761481	naša
@@ -41141,12 +41141,12 @@ rēš-, rəš-, rš-, š-
 hatxa, ʾatxa
 ʾən
 t
-w, ʾu- ṭḷaθa, ṭḷa qəšta gera
+qəšta ṭḷaθa, ṭḷa w, ʾu- gera
 la ʾən
-ču məndi, mdi
+məndi, mdi ču
 761496	ma
 761498	ʾawwa ži
-761500	kut yoma
+761500	yoma kut
 mbadla
 hal, ha- ʾaṣərta
 ʾaṣərta
@@ -41158,15 +41158,15 @@ w, ʾu-
 yoma xa, xaʾa
 761513	tre, treʾe
 761515	ṭḷaθa, ṭḷa
-mbadla gu-
-b- lɛle gu-
+gu- mbadla
+b- gu- lɛle
 761519	xa, xaʾa
 761521	ʾawwa
 761523	qima
 mbadla
 761526	ʾina
 ʾaw, ʾo
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 mara ʾaw, ʾo
 761534	ṭḷaθa, ṭḷa gera
 mən, m-
@@ -41177,7 +41177,7 @@ b- lɛle
 761548	ʾaw
 b- yoma
 761554	ho
-ʾani, ʾan ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa ʾani, ʾan
 qəšta
 761559	ʾawwa
 ṭura
@@ -41196,10 +41196,10 @@ miya
 761579	xačča
 qira
 761582	ʾayya
-761584	miya gu-
+761584	gu- miya
 qira ʾay, ʾey, ʾɛ, ʾa
 761587	b- reša
-miya ʾani, ʾan
+ʾani, ʾan miya
 761590	la
 miya
 761593	xačča
@@ -41228,18 +41228,18 @@ b-
 ṱ
 l-
 mara
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 761628	ʾanna
 qəšta w, ʾu-
 gera
-761639	qoṱiya ʾay, ʾey, ʾɛ, ʾa
+761639	ʾay, ʾey, ʾɛ, ʾa qoṱiya
 xa, xaʾa
 ʾax
 761643	mən, m- gu-
 761648	ʾawwa ži
 761651	xamra
 761653	diya
-dukθa, duka l-
+l- dukθa, duka
 761656	ʾɛna
 761659	qira
 ṭaṭiya w, ʾu-
@@ -41250,7 +41250,7 @@ miya
 xačča
 xamra
 ʾaw
-761676	dukθa, duka xa, xaʾa
+761676	xa, xaʾa dukθa, duka
 761679	bena xa, xaʾa
 761681	ʾaw
 wala
@@ -41293,7 +41293,7 @@ raba
 ʾaw, ʾo
 761753	ṱ
 761755	wala
-761759	mərya ʾax
+761759	ʾax mərya
 761761	bɛθa l-
 ʾina
 mərya
@@ -41314,13 +41314,13 @@ mərya
 hatxa, ʾatxa
 mərya
 761793	šwiθa xa, xaʾa
-761795	ži ʾay
-761797	ʾaw, ʾo sanduqa, ṣanduqa
+761795	ʾay ži
+761797	sanduqa, ṣanduqa ʾaw, ʾo
 761800	čučəkka
 mara
 761805	hatxa, ʾatxa
 ʾap, ʾup ʾaw
-761811	w, ʾu- reša
+761811	reša w, ʾu-
 w, ʾu-
 kul, ku, kulla
 761815	ʾap, ʾup ʾaw
@@ -41330,15 +41330,15 @@ diya
 t ʾaw, ʾo
 761825	bɛθa l-
 761828	tama
-dana kəma
+kəma dana
 761831	w, ʾu-
 bɛθa l-
 761834	l-
-761841	plaša xa, xaʾa
+761841	xa, xaʾa plaša
 gu- maθa
 ʾajəbuθa
 ʾawwa
-761848	dukθa, duka gu- xa, xaʾa
+761848	gu- xa, xaʾa dukθa, duka
 761850	bɛθa xa, xaʾa
 761854	qəṣṣət, qəṣṣətta
 761856	qəṣṣət, qəṣṣətta
@@ -41354,7 +41354,7 @@ baxta
 761876	malka ʾaw
 761883	w, ʾu-
 761885	la
-ʾarbi ʾani, ʾan
+ʾani, ʾan ʾarbi
 baxta
 kul, ku, kulla
 761892	malka w, ʾu-
@@ -41365,20 +41365,20 @@ brata
 761902	naša
 l-
 qaṣra
-kut yoma
+yoma kut
 761907	t ta
 ʾay, ʾey, ʾɛ, ʾa brata
 761910	ʾay, ʾey, ʾɛ, ʾa brata
-761912	gawra t ta
+761912	t ta gawra
 malka
 761919	gawra
 761923	mara
 ʾap, ʾup ʾaw
 761928	xulama
-malka t
+t malka
 761935	malka
 761938	miya
-kut yoma
+yoma kut
 ʾanna
 761942	plaša
 761944	qəṣṣət, qəṣṣətta
@@ -41398,27 +41398,27 @@ xa, xaʾa
 diya
 761970	b- dunye
 761972	malka
-761974	w, ʾu- ʾanna
+761974	ʾanna w, ʾu-
 761976	ʾaṣi
-761980	ga bena
+761980	bena ga
 ʾanna
 kul, ku, kulla
 ṱ
 zala
-761987	ʾarbi b-
+761987	b- ʾarbi
 brata
-kut yoma
+yoma kut
 zala
 hatxa, ʾatxa
 761993	mən, m-
-762000	ʾarbi b-
+762000	b- ʾarbi
 brata
 ʾana
 ṱ
 762006	xabra
-malka l-
+l- malka
 762009	xabra
-malka l-
+l- malka
 762012	malka
 ṱ
 basima
@@ -41450,7 +41450,7 @@ fəllən, pəllən, flan
 762062	kut
 762067	ʾani, ʾan
 762069	mara
-xeta, xreta ṭla-, ta- xa, xaʾa
+xeta, xreta xa, xaʾa ṭla-, ta-
 762073	xa, xaʾa
 762076	mara
 kut
@@ -41466,7 +41466,7 @@ la
 gu-
 yoma
 ʾayya
-762104	qaṣra gu-
+762104	gu- qaṣra
 ʾawwa
 762107	sɛpa
 l-
@@ -41510,17 +41510,17 @@ basima
 də-, de-
 ʾana
 ṱ
-xo-, xu- la
-762172	xo-, xu- lɛle
+la xo-, xu-
+762172	lɛle xo-, xu-
 ʾarya, ʾɛrya
-ʾarya, ʾɛrya la
+la ʾarya, ʾɛrya
 762176	ʾawwa ži
 762178	ʾawwa
 762180	də-, de-
 ʾawwa
 762192	bɛθa ʾaw, ʾo
-762195	naša xa, xaʾa
-762198	naša xa, xaʾa
+762195	xa, xaʾa naša
+762198	xa, xaʾa naša
 762202	ga
 məṭya
 762209	ʾawwa ži
@@ -41534,7 +41534,7 @@ susa
 762229	k̭ora
 762232	law
 ṱ
-xamša ʾanna
+ʾanna xamša
 šeta
 762237	b- dunye
 nəmu, ləmu
@@ -41545,24 +41545,24 @@ kəlya
 762247	susa
 ʾawwa
 762250	susa
-762252	dana kəma
+762252	kəma dana
 tama
 žare
 la
 la
-ču məndi, mdi
+məndi, mdi ču
 762259	sarga, sɛrga
 xaṣa
 762262	mbadla
 tiwa
 xaṣa
 762266	w, ʾu-
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 susa
-dana kəma
+kəma dana
 lɛle
 šəmša
-762276	farra xa, xaʾa
+762276	xa, xaʾa farra
 762278	qaṣra
 762280	he
 762282	təmməl
@@ -41580,10 +41580,10 @@ la
 762304	ṭla-, ta-
 762306	ʾana
 762309	ʾay
-ga ʾay, ʾey, ʾɛ, ʾa
-762312	diwən gu-
+ʾay, ʾey, ʾɛ, ʾa ga
+762312	gu- diwən
 ʾay
-w, ʾu- gawṛa, gʸawṛa
+gawṛa, gʸawṛa w, ʾu-
 diya
 ʾay
 ṱ
@@ -41599,11 +41599,11 @@ plaša
 762331	yoma
 762333	yoma
 762336	ṱ
-qaṣra gu-
+gu- qaṣra
 susa
 762346	kosa
 762350	nəmu, ləmu
-762354	dana ʾay, ʾey, ʾɛ, ʾa
+762354	ʾay, ʾey, ʾɛ, ʾa dana
 762356	b-
 diya
 762360	ʾawwa
@@ -41613,17 +41613,17 @@ diya
 kul, ku, kulla
 762371	kəma ṱ
 762373	šadlaxana xa, xaʾa
-762375	qaṣra gu-
+762375	gu- qaṣra
 762377	xlula
 mbadla
 762380	ʾaw, ʾo yala
-762382	gare l-
+762382	l- gare
 762385	kul, ku, kulla ṱ
 762388	xa, xaʾa
 qɛsa
 762391	gu-
 762393	kul, ku, kulla ṱ
-malka bar
+bar malka
 762397	xa, xaʾa
 qɛsa
 qam
@@ -41653,7 +41653,7 @@ hadiya, diya, hadayya
 762443	mən, m-
 762446	l-
 be-
-naša xa, xaʾa
+xa, xaʾa naša
 762450	ʾarxa
 šəmme
 762455	kalθa
@@ -41661,7 +41661,7 @@ naša xa, xaʾa
 ʾayya
 762461	šlama
 762464	šlama
-762466	naša ʾax
+762466	ʾax naša
 762469	šlama
 762471	b- šɛna
 b- ṭawaθa
@@ -41687,7 +41687,7 @@ diya
 762502	kul, ku, kulla
 762504	kalθa
 la
-762508	brona ṭḷaθa, ṭḷa
+762508	ṭḷaθa, ṭḷa brona
 762510	b- lɛle
 dana
 t
@@ -41699,35 +41699,35 @@ xəmmərta, xmərta, xəmmərθa
 762523	rēš-, rəš-, rš-, š-
 xmaθa
 diya
-w, ʾu- kalθa
+kalθa w, ʾu-
 diya
 762529	kalθa
 diya
-762532	šwiθa gu-
+762532	gu- šwiθa
 762535	diya
 762538	brona xa, xaʾa
 w, ʾu-
-ṱ ta
+ta ṱ
 762542	rəḥqa
 mən, m- maθa
 ʾayya w, ʾu-
 gu-
 mo, mu, modi, maw, mawdi
 762549	qəm-
-762551	w, ʾu- b-
+762551	b- w, ʾu-
 bɛθa
 762554	nura
-t ʾanna
+ʾanna t
 ʾarxa
 har
 nura
-bɛθa gu-
+gu- bɛθa
 762561	prəzla
-ʾarxe, ʾərxe t
+t ʾarxe, ʾərxe
 qəm-
 kul, ku, kulla
-nura gu-
-w, ʾu- ʾay, ʾey, ʾɛ, ʾa
+gu- nura
+ʾay, ʾey, ʾɛ, ʾa w, ʾu-
 762568	ʾay
 kul, ku, kulla
 762571	dona
@@ -41738,7 +41738,7 @@ məšxa
 762580	qəm-
 ʾayya
 prəzla
-ʾiða l-
+l- ʾiða
 diya
 qəm-
 kul, ku, kulla
@@ -41746,7 +41746,7 @@ məšxa
 762589	mən, m- tama
 šurela
 762593	la
-762596	gare l-
+762596	l- gare
 762598	boya
 šurela
 762602	palga
@@ -41764,11 +41764,11 @@ qəm-
 ʾay
 762619	tama
 762621	qedamta
-762624	xmaθa w, ʾu- ṭla-, ta-
-w, ʾu- xəmyana
-w, ʾu- ʾaxxa
+762624	xmaθa ṭla-, ta- w, ʾu-
+xəmyana w, ʾu-
+ʾaxxa w, ʾu-
 tamma
-762630	l- brona
+762630	brona l-
 diya
 762633	ʾina
 brona
@@ -41780,7 +41780,7 @@ diya
 762660	mara
 762663	ʾina
 762668	tama
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 ʾanna
 məndi, mdi
 762673	ḥaqiqi
@@ -41794,14 +41794,14 @@ hadəx
 w, ʾu-
 laxxa
 762692	ʾarya, ʾɛrya xa, xaʾa
-762694	wəlaya t xa, xaʾa
+762694	t xa, xaʾa wəlaya
 762698	t heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 kut
 xa, xaʾa heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 lazəm
-762703	ṱ ta
+762703	ta ṱ
 762705	raḥat, rahat
-la t ta
+t ta la
 762708	heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 762712	ʾarnuwa
 ʾay
@@ -41828,7 +41828,7 @@ xaṣa
 diya
 ṱ
 762752	la
-762755	mo, mu, modi, maw, mawdi ta
+762755	ta mo, mu, modi, maw, mawdi
 la
 762758	ləmu
 har
@@ -41849,7 +41849,7 @@ la
 762791	qəm-
 šəkla
 762794	tama
-762797	ṱ ta
+762797	ta ṱ
 šarre
 762800	qəm-
 kul, ku, kulla
@@ -41860,20 +41860,20 @@ mən, m- biš
 goṛa
 762812	xa, xaʾa
 ṱoṱo
-naša xa, xaʾa
+xa, xaʾa naša
 762816	mən, m- gu-
 762818	w, ʾu-
 gu- bažər xa, xaʾa
 762821	tama
 762824	lampa xa, xaʾa
-762826	ga ʾay, ʾey, ʾɛ, ʾa
-qam lampa
+762826	ʾay, ʾey, ʾɛ, ʾa ga
+lampa qam
 762829	šraʾa, šraya
 šraʾa, šraya
 762832	zɛθa
-ʾap, ʾup ʾay
+ʾay ʾap, ʾup
 762836	beṛa
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 malka
 762841	duxtur xa, xaʾa
 xa, xaʾa
@@ -41881,7 +41881,7 @@ xa, xaʾa
 ʾəlla
 762849	ʾarya, ʾɛrya
 762851	ʾarya, ʾɛrya
-malka ta
+ta malka
 mərya
 ʾɛni
 762857	ʾɛni
@@ -41896,20 +41896,20 @@ diya
 guðanta
 762874	t
 ʾarya, ʾɛrya
-762877	malka ta
+762877	ta malka
 mərya
 ʾap, ʾup xa, xaʾa
 liθ
-762882	bažər gu-
+762882	gu- bažər
 ʾap, ʾup xa, xaʾa
 la
-762887	bažər gu-
+762887	gu- bažər
 kul, ku, kulla
 762890	kut
 762892	ʾarya, ʾɛrya
-w, ʾu- ʾarya, ʾɛrya
+ʾarya, ʾɛrya w, ʾu-
 762895	ʾarya, ʾɛrya
-malka ta
+ta malka
 mərya
 ʾap, ʾup xa, xaʾa
 lɛle
@@ -41919,7 +41919,7 @@ lɛle
 762906	ṱ
 762908	ʾaw
 tama
-762917	ʾawwa məndi, mdi
+762917	məndi, mdi ʾawwa
 762919	šarṭ, šărəṭ
 762925	yaba
 ʾana
@@ -41934,10 +41934,10 @@ tama
 la
 762951	mo, mu, modi, maw, mawdi
 ṱ
-762956	gu- ṭura xa, xaʾa
+762956	gu- xa, xaʾa ṭura
 762958	xa, xaʾa ʾɛna
 tama
-ṭura gu-
+gu- ṭura
 ʾariθa
 ʾay
 ʾaqla
@@ -41947,7 +41947,7 @@ diya
 762971	ʾalaha l-
 ʾaqla
 diya
-w, ʾu- ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa w, ʾu-
 kuddina
 762978	diya
 ṭḷaθa, ṭḷa
@@ -41962,9 +41962,9 @@ xena, xrena
 ʾay, ʾey, ʾɛ, ʾa ʾaqla
 diya
 762998	ʾap, ʾup xa, xaʾa
-763002	ṱ ma
+763002	ma ṱ
 763004	ṃəḷya
-763006	w, ʾu- məndi, mdi
+763006	məndi, mdi w, ʾu-
 šəxta
 ʾawwa
 naša
@@ -41974,7 +41974,7 @@ bardi
 raba
 goṛa
 bardi
-763020	qɛsa xa, xaʾa
+763020	xa, xaʾa qɛsa
 rixa
 mən, m-
 l-
@@ -41988,17 +41988,17 @@ hənna
 763049	ʾay
 763051	miya
 763054	ʾaw
-763056	qɛsa ʾaw, ʾo
+763056	ʾaw, ʾo qɛsa
 l- ʾaqla
 diya
 ʾay
 kul, ku, kulla
 763065	kul, ku, kulla
 ṱ
-ʾaw la
+la ʾaw
 ga xa, xaʾa
 xeta, xreta
-763072	dana ʾap, ʾup ʾay, ʾey, ʾɛ, ʾa
+763072	ʾay, ʾey, ʾɛ, ʾa ʾap, ʾup dana
 qəm-
 ʾaqla
 diya
@@ -42015,7 +42015,7 @@ ga, gaya ṭla-, ta-
 763095	miya
 qəm-
 ʾaqla
-xɛlana biš
+biš xɛlana
 qəm-
 ʾaqla
 diya
@@ -42025,13 +42025,13 @@ kul, ku, kulla
 763109	ʾati
 763112	ṱ
 763119	ʾiman, ʾima
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 763125	ʾarya, ʾɛrya
 w, ʾu-
 ʾarya, ʾɛrya
 w, ʾu-
 ʾarya, ʾɛrya
-malka ta
+ta malka
 mərya
 763138	brona
 diya
@@ -42048,22 +42048,22 @@ xəlya
 diya
 w, ʾu-
 masta
-763161	guða gu-
+763161	gu- guða
 763164	brona
 diya
 763167	malka ṭla-, ta-
 ʾamra
 qəm-
 masta
-malka ta
+ta malka
 t
 763174	xərsa
 qəm-
 763178	ʾana
 763180	tama
 763182	laxxa
-763184	naša xa, xaʾa
-gu- xa, xaʾa maθa
+763184	xa, xaʾa naša
+gu- maθa xa, xaʾa
 raba
 raba
 duglana
@@ -42108,12 +42108,12 @@ rəḥqa
 mən, m-
 763264	maθa
 ʾina
-ṱ ha
+ha ṱ
 763269	maθa
-nura ʾaw, ʾo
+ʾaw, ʾo nura
 763273	laxxa
-ṭḷaθa, ṭḷa yarxa, yɛrxa tre, treʾe
-ʾarba, ʾarpa yarxa, yɛrxa
+ṭḷaθa, ṭḷa tre, treʾe yarxa, yɛrxa
+yarxa, yɛrxa ʾarba, ʾarpa
 763277	bena xa, xaʾa
 xeta, xreta
 763282	ga xa, xaʾa
@@ -42122,7 +42122,7 @@ xeta, xreta
 nura
 763288	yaba
 763293	xeta, xreta xa, xaʾa
-763296	ṱ ha
+763296	ha ṱ
 763300	ṭḷaθa, ṭḷa
 mo, mu, modi, maw, mawdi
 763303	har
@@ -42135,10 +42135,10 @@ mo, mu, modi, maw, mawdi
 763314	draya
 buxtən
 l- xa, xaʾa
-l- xena, xrena
+xena, xrena l-
 he
 763320	yoma
-duzuθa mən, m-
+mən, m- duzuθa
 763323	bɛθa
 763325	bɛθa
 763328	yaba
@@ -42155,7 +42155,7 @@ qəm-
 763346	la lo
 763349	w, ʾu-
 xoš
-w, ʾu- xoš
+xoš w, ʾu-
 763353	šula
 763355	w, ʾu-
 bɛθa
@@ -42167,7 +42167,7 @@ hodəx
 763368	ʾina
 763374	he
 b-
-763378	w, ʾu- duglana
+763378	duglana w, ʾu-
 ʾaxni
 la
 763382	mara
@@ -42177,8 +42177,8 @@ qurðaya, qurdaya xa, xaʾa
 763388	kul, ku, kulla
 naša
 763391	zala
-šula l-
-ʾana ʾap, ʾup
+l- šula
+ʾap, ʾup ʾana
 763395	šula
 763399	maθa
 763406	gu-
@@ -42188,12 +42188,12 @@ w, ʾu-
 763413	ṭla-, ta-
 w, ʾu-
 763418	w, ʾu-
-763420	ʾana ʾap, ʾup
+763420	ʾap, ʾup ʾana
 ṱ
-763423	pəlxana xa, xaʾa
+763423	xa, xaʾa pəlxana
 t ta
 w, ʾu-
-763430	mo, mu, modi, maw, mawdi qa-
+763430	qa- mo, mu, modi, maw, mawdi
 la
 763433	kul, ku, kulla
 naša
@@ -42206,17 +42206,17 @@ naša
 mən, m-
 763457	ṱ
 763461	t
-šula xa, xaʾa
-763464	ʾana ʾap, ʾup
+xa, xaʾa šula
+763464	ʾap, ʾup ʾana
 kul, ku, kulla
 naša
-763469	ʾana ʾap, ʾup
-763474	mo, mu, modi, maw, mawdi qa-
+763469	ʾap, ʾup ʾana
+763474	qa- mo, mu, modi, maw, mawdi
 la
 763478	ʾixala
 beta
 763482	ʾixala
-w, ʾu- beta
+beta w, ʾu-
 məšxa w, ʾu-
 qalya
 763487	šəmme
@@ -42225,7 +42225,7 @@ qalya
 ṭla-, ta-
 w, ʾu- ʾati
 763500	w, ʾu-
-be- l-
+l- be-
 763503	ma
 763505	bena xa, xaʾa
 ʾay
@@ -42234,7 +42234,7 @@ məskena
 763511	ʾixala ʾaw, ʾo
 ṱ
 763515	balki
-763517	ʾurxa b-
+763517	b- ʾurxa
 w, ʾu-
 763521	xakma, xamka
 məndi, mdi
@@ -42245,20 +42245,20 @@ b-
 ṱ
 763530	baθər, bar
 ṱ
-763533	ʾixala mən, m-
-763536	ʾarba, ʾarpa xa, xaʾa
+763533	mən, m- ʾixala
+763536	xa, xaʾa ʾarba, ʾarpa
 xamša
 beta
-763540	ʾarba, ʾarpa xa, xaʾa
+763540	xa, xaʾa ʾarba, ʾarpa
 xamša
 beta
 763544	xo, xoθ-
 w, ʾu-
 qalya
-763548	jeba, jɛba gu-
+763548	gu- jeba, jɛba
 w, ʾu-
 ṱ
-kawaza xa, xaʾa
+xa, xaʾa kawaza
 məšxa
 763554	ʾawwa
 763559	t ta
@@ -42270,14 +42270,14 @@ w, ʾu-
 b-
 763573	w, ʾu-
 gu-
-ṱ ha
+ha ṱ
 763583	ha
 763585	mu, mut
 763592	ʾana
 763595	xačča
 məšxa
-763598	ṱ ta
-ʾurxa b-
+763598	ta ṱ
+b- ʾurxa
 xačča
 məšxa w, ʾu-
 ləxma
@@ -42285,14 +42285,14 @@ ləxma
 763606	gu-
 hənna
 linta
-763611	məšxa t
+763611	t məšxa
 ʾay
 qəṭma
 b-
 də-, de-
 qəm-
 hatxa, ʾatxa
-reša gu-
+gu- reša
 763621	beta
 ʾax
 763624	ʾayya
@@ -42303,41 +42303,41 @@ balki
 763638	nura
 763641	qalya
 763643	qalya
-763645	jeba, jɛba b-
+763645	b- jeba, jɛba
 763648	ʾawwa
 763652	xačča
 xena, xrena
 qalya
-ṱ ta
-ʾurxa b-
+ta ṱ
+b- ʾurxa
 763658	mila
 l-
 də-, de-
 ʾati
-pəlxana ču
+ču pəlxana
 la
 har
 b-
 mara
 763670	də-, de-
 ʾawwa
-763673	ʾurxa b-
+763673	b- ʾurxa
 763675	be-
 763677	šlama
-763680	b- ya šɛna
+763680	b- šɛna ya
 ṭawaθa
 b- šɛna
-mo, mu, modi, maw, mawdi ha
+ha mo, mu, modi, maw, mawdi
 763687	t
-šula xa, xaʾa
+xa, xaʾa šula
 763690	mo, mu, modi, maw, mawdi
 763693	ʾana
 763697	ču
 pəlxana
 763701	šawwa
 xmara
-kut yoma
-763706	šawwa ʾani, ʾan
+yoma kut
+763706	ʾani, ʾan šawwa
 xmara
 l- ṭura
 763710	qɛsa
@@ -42345,9 +42345,9 @@ l- ṭura
 ʾawwa
 xoš
 763720	ʾawwa
-763723	ʾani, ʾan xmara
+763723	xmara ʾani, ʾan
 l- ṭura
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 šawwa
 xmara
 763729	hal, ha-
@@ -42359,9 +42359,9 @@ xmara
 763738	xmara
 763740	ʾaw
 mo, mu, modi, maw, mawdi
-763746	qurṭana ʾani, ʾan
+763746	ʾani, ʾan qurṭana
 763748	t xmara
-763750	l- xaṣa
+763750	xaṣa l-
 šawwa
 qurṭana w, ʾu-
 763755	diwən
@@ -42375,10 +42375,10 @@ har
 mən, m- ṭura
 reša
 gare
-w, ʾu- ʾani, ʾan
-l- xaṣa
-763773	diwən t gu-
-763775	naša ʾani, ʾan
+ʾani, ʾan w, ʾu-
+xaṣa l-
+763773	t gu- diwən
+763775	ʾani, ʾan naša
 kul, ku, kulla
 763780	ʾina
 763782	xmara
@@ -42393,12 +42393,12 @@ tama
 763812	mara
 763815	mo, mu, modi, maw, mawdi
 pəlxana
-763819	bɛθa gu-
+763819	gu- bɛθa
 763821	he
 yoma xa, xaʾa
 bɛθa
 763828	w, ʾu- xaθa
-w, ʾu- ʾupra
+ʾupra w, ʾu-
 763831	w, ʾu-
 hatxa, ʾatxa
 763834	šənduxta
@@ -42407,17 +42407,17 @@ hatxa, ʾatxa
 stərra
 stərra
 763844	w, ʾu-
-w, ʾu- prage
-w, ʾu- saṛe
+prage w, ʾu-
+saṛe w, ʾu-
 kul, ku, kulla
 763849	gu-
 w, ʾu-
 hatxa, ʾatxa
-763853	w, ʾu- linta xa, xaʾa
+763853	xa, xaʾa linta w, ʾu-
 goṛa
 hatxa, ʾatxa
-napoxta, nepoxta t
-763859	ʾap, ʾup ʾay
+t napoxta, nepoxta
+763859	ʾay ʾap, ʾup
 763861	w, ʾu-
 763868	ʾayya
 ʾotəx, ʾotaxa
@@ -42425,7 +42425,7 @@ napoxta, nepoxta t
 la
 naša
 ṱ
-763876	w, ʾu- la
+763876	la w, ʾu-
 heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 763879	ma
 763881	gu-
@@ -42440,7 +42440,7 @@ b-
 ʾaw
 763898	la
 naša
-w, ʾu- la
+la w, ʾu-
 heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 763903	gu-
 ʾotəx, ʾotaxa
@@ -42461,11 +42461,11 @@ b- qaṭu, qaṭuθa
 baza
 763928	napoxta, nepoxta
 šurela
-763933	bɛθa gu-
+763933	gu- bɛθa
 ʾawwa
 763937	mən, m-
 prage
-mziða mən, m-
+mən, m- mziða
 763941	julla ʾaw, ʾo
 mən, m-
 prage
@@ -42474,21 +42474,21 @@ gu-
 763947	napoxta, nepoxta
 prage ʾani, ʾan
 kul, ku, kulla
-763951	napoxta, nepoxta gu-
+763951	gu- napoxta, nepoxta
 763953	napoxta, nepoxta
-w, ʾu- prage
+prage w, ʾu-
 ġðaðe gu-
 bɛθa ʾaw, ʾo
 763963	ha
 mu, mut
 763967	b-
 763970	la heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
-w, ʾu- la
+la w, ʾu-
 naša
-763974	gu- ʾotəx, ʾotaxa
+763974	ʾotəx, ʾotaxa gu-
 763976	qaṭu, qaṭuθa
 763979	linta
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 763982	šənduxta
 763985	la
 763987	diya
@@ -42499,19 +42499,19 @@ julla
 ṱ
 gu-
 764000	prage
-764003	napoxta, nepoxta gu-
-la t
-ʾap, ʾup prage
+764003	gu- napoxta, nepoxta
+t la
+prage ʾap, ʾup
 764008	ʾana
 mo, mu, modi, maw, mawdi
 lɛle
 764013	ham ma
 764015	xam, xamma
 764019	hade
-w, ʾu- mən, m- hade
+mən, m- hade w, ʾu-
 764022	ʾay
 w, ʾu-
-764025	la t ta
+764025	t ta la
 ʾap, ʾup xa, xaʾa
 naša
 764033	har
@@ -42521,18 +42521,18 @@ naša
 ʾana
 764049	xa, xaʾa
 764051	baθər, bar
-764055	mara t
+764055	t mara
 ṭla-, ta-
 mara
 ʾana har
 764060	ʾap, ʾup xa, xaʾa
 la
 ṱ
-bɛθa gu-
+gu- bɛθa
 ʾal-
-ṱ ta
+ta ṱ
 l-
-ʾawwa ʾap, ʾup
+ʾap, ʾup ʾawwa
 764070	bena xa, xaʾa
 764072	hadəx
 b- lɛle
@@ -42557,41 +42557,41 @@ t ta
 764126	bərzoma
 bərzoma
 764129	t ta
-goma gu-
+gu- goma
 b- semalta
 764133	w, ʾu-
-goma gu-
+gu- goma
 764136	goma
 764142	t ḥaqquθa
 764144	kɛla
 t tre, treʾe
 ʾaxxa
-l- tamma
-764150	goma gu-
-764152	goma gu-
+tamma l-
+764150	gu- goma
+764152	gu- goma
 764154	tawra
 764156	dawɛra, dawara
 764158	məndi, mdi
-764160	goma gu-
-kut xa, xaʾa
+764160	gu- goma
+xa, xaʾa kut
 764164	skinta xa, xaʾa
 rixa
 w, ʾu-
 764172	ʾaxxa
-l- tamma
+tamma l-
 764175	purya
 liθ
 bərqa
-764180	tawra xa, xaʾa
+764180	xa, xaʾa tawra
 764183	tawra
 w, ʾu-
 764186	tawra
 764190	tawra
 764192	ham ma
-764194	la də-, de-
+764194	də-, de- la
 764196	məṭya
 l-
-susa ʾap, ʾup
+ʾap, ʾup susa
 764201	t ta
 764206	w, ʾu-
 w, ʾu-
@@ -42618,7 +42618,7 @@ qəm-
 764243	be-
 764247	t
 764249	beta
-764251	xo, xoθ- reša
+764251	reša xo, xoθ-
 764254	ha
 764257	he
 764260	šula
@@ -42630,11 +42630,11 @@ qəm-
 764279	šawwa
 xmara
 764283	qɛsa
-764287	ʾana ʾap, ʾup
+764287	ʾap, ʾup ʾana
 764290	ṣəpya
 764294	qɛsa
 draya
-rēš-, rəš-, rš-, š- ġðaðe
+ġðaðe rēš-, rəš-, rš-, š-
 šawwa
 764299	ʾana
 764301	qɛsa
@@ -42646,7 +42646,7 @@ qəm-
 xmara
 764310	qurṭana
 764312	l-
-764315	bɛθa gu-
+764315	gu- bɛθa
 764317	baʿd
 mo, mu, modi, maw, mawdi
 xena, xrena
@@ -42660,7 +42660,7 @@ w, ʾu-
 w, ʾu-
 prage
 764335	ġðaðe gu-
-w, ʾu- la
+la w, ʾu-
 764339	mən, m-
 xarθa
 764343	la
@@ -42671,7 +42671,7 @@ la
 764353	ʾap, ʾup xa, xaʾa
 la
 ṱ
-bɛθa gu-
+gu- bɛθa
 764358	xena, xrena xa, xaʾa
 764361	xena, xrena xa, xaʾa
 764364	ʾana
@@ -42679,7 +42679,7 @@ bɛθa gu-
 764368	ʾana
 764371	ʾɛni
 la
-764375	goma gu-
+764375	gu- goma
 ṭaya
 l-
 764380	tawra
@@ -42707,11 +42707,11 @@ w, ʾu-
 xena, xrena
 šula
 la
-w, ʾu- la
+la w, ʾu-
 764445	tama
 w, ʾu-
 laxxa
-xa, xaʾa rabbən
+rabbən xa, xaʾa
 xena, xrena
 rabbən
 764453	t
@@ -42720,7 +42720,7 @@ rabbən
 764459	t
 ʾana
 ʾiman, ʾima
-764465	w, ʾu- ʾaxxa
+764465	ʾaxxa w, ʾu-
 tamma
 764469	xa, xaʾa
 764471	gu-
@@ -42735,7 +42735,7 @@ mo, mu, modi, maw, mawdi
 764485	daṛmana
 ṣawle l-
 764488	ṣawle
-764490	brata xa, xaʾa
+764490	xa, xaʾa brata
 764493	diya
 daṛmana
 764496	ʾaqla
@@ -42746,11 +42746,11 @@ diya
 qəm-
 ʾurədxa
 gu-
-764510	mo, mu, modi, maw, mawdi qa-
+764510	qa- mo, mu, modi, maw, mawdi
 764513	kul, ku, kulla
-764515	nura gu-
+764515	gu- nura
 gu-
-bahs, bas ʾɛni
+ʾɛni bahs, bas
 t
 ʾay
 xoš
@@ -42768,11 +42768,11 @@ rabbən
 krəstyana
 mhɛmənana, mhamənana
 b- ʾalaha
-ʾaw, ʾo rabbən
+rabbən ʾaw, ʾo
 764546	l-
 764548	yaba
 764551	k̭ora
-764555	w, ʾu- ʾaxxa
+764555	ʾaxxa w, ʾu-
 tamma
 764558	l-
 764563	šlama
@@ -42792,7 +42792,7 @@ b- ṭawaθa
 bɛθa l-
 mara
 764599	hal, ha- ʾaṣərta
-764601	pəlxana ʾaw, ʾo
+764601	ʾaw, ʾo pəlxana
 ṱ
 764604	ho
 764608	w, ʾu-
@@ -42803,7 +42803,7 @@ t
 764617	w, ʾu-
 764621	ʾəlla
 764623	yaba
-764625	w, ʾu- ʾaxxa
+764625	ʾaxxa w, ʾu-
 tamma
 la
 mo, mu, modi, maw, mawdi
@@ -42815,7 +42815,7 @@ la
 764640	b-
 764643	he
 764647	ʾay, ʾey, ʾɛ, ʾa brata
-brata xa, xaʾa
+xa, xaʾa brata
 764652	ʾayya
 764655	ṱ
 764657	ʾay, ʾey, ʾɛ, ʾa brata
@@ -42833,30 +42833,30 @@ məndi, mdi xa, xaʾa
 764680	k̭ora
 b-
 764683	ʾurədxa
-ʾɛni gu-
+gu- ʾɛni
 764686	ye, yehe
 764689	ṱ
 la
 ʾana
 w, ʾu-
-w, ʾu- gawṛa, gʸawṛa
+gawṛa, gʸawṛa w, ʾu-
 baxta
 ṱ
 ʾana
 w, ʾu-
-w, ʾu- xona
+xona w, ʾu-
 xaθa
-764701	l- ġðaðe
-ka- xona
+764701	ġðaðe l-
+xona ka-
 w, ʾu- xaθa
 la
-w, ʾu- ka- gawṛa, gʸawṛa
+gawṛa, gʸawṛa w, ʾu- ka-
 baxta
 764708	he
 764710	la
-ʾap, ʾup ṭla-, ta- xa, xaʾa
+ʾap, ʾup xa, xaʾa ṭla-, ta-
 ʾaxni
-w, ʾu- xona
+xona w, ʾu-
 764715	mara
 764717	baθər, bar
 hadəx
@@ -42867,15 +42867,15 @@ rabbən
 764728	t
 ʾiman, ʾima
 764732	ma
-764735	ramša xa, xaʾa
+764735	xa, xaʾa ramša
 w, ʾu-
 w, ʾu-
 šwiθa
 764741	k̭ora
 laxxa
-w, ʾu- baxta
+baxta w, ʾu-
 764745	laxxa
-w, ʾu- ʾaw, ʾo rabbən
+rabbən w, ʾu- ʾaw, ʾo
 764748	laxxa
 764750	xa, xaʾa
 miya
@@ -42884,18 +42884,18 @@ miya
 764758	bena
 miya
 kəlya
-salla gu-
+gu- salla
 bena
 ʾaw
-ṱ ma
+ma ṱ
 hadəx hal, ha-
 764767	ʾalaha qa-
-w, ʾu- ʾalaha
-764770	miya ʾap, ʾup
-764772	salla gu-
+ʾalaha w, ʾu-
+764770	ʾap, ʾup miya
+764772	gu- salla
 ʾanna
 764775	dmixa
-ʾaw, ʾo rabbən
+rabbən ʾaw, ʾo
 764778	ʾaqla
 764780	rēš-, rəš-, rš-, š-
 baxta
@@ -42904,23 +42904,23 @@ baxta
 764787	ha
 764789	mo, mu, modi, maw, mawdi
 764791	rabbən
-764793	ču məndi, mdi
+764793	məndi, mdi ču
 764795	l-
 764798	heš, həš, š
 baxta
 764802	mən, m-
 ʾati
-naša xa, xaʾa
+xa, xaʾa naša
 764807	ʾap, ʾup
 ʾalaha
 la
 ʾati
 ʾiman, ʾima
 764813	w, ʾu-
-bɛθa mən, m- gu-
-764817	xa, xaʾa rabbən
+mən, m- gu- bɛθa
+764817	rabbən xa, xaʾa
 764819	gəppiθa gu- xa, xaʾa
-764821	naša xa, xaʾa
+764821	xa, xaʾa naša
 swariya
 rakawa
 764825	rēš-, rəš-, rš-, š- xa, xaʾa ʾɛna
@@ -42932,7 +42932,7 @@ zuze
 ʾawwa
 764840	zuze
 764843	ʾawwa
-764845	ʾurxa b-
+764845	b- ʾurxa
 764847	xa, xaʾa
 rakawa
 xena, xrena
@@ -42949,7 +42949,7 @@ t ha
 naša ʾaw, ʾo
 qamaya
 764876	l- ʾɛna
-764878	naša xa, xaʾa
+764878	xa, xaʾa naša
 sawa
 764881	rēš-, rəš-, rš-, š- ʾɛna
 764884	w, ʾu-
@@ -42963,7 +42963,7 @@ lazəm
 764903	yaba
 764905	zuze
 la
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 w, ʾu-
 b- gota
@@ -42978,17 +42978,17 @@ rabbən
 ṱ
 ʾalaha l-
 w, ʾu- ṱ
-764930	w, ʾu- bəsra
+764930	bəsra w, ʾu-
 ʾaw
 764933	rabbən
 764935	tiwa
 gəppiθa gu- xa, xaʾa
-ʾarbi šeta
+šeta ʾarbi
 764940	madam
 764942	ṱ
 764944	baθər, bar
 ḥaqquθa
-w, ʾu- ḥaqquθa
+ḥaqquθa w, ʾu-
 764948	ḥaqquθa
 w, ʾu-
 ḥaqquθa
@@ -42999,37 +42999,37 @@ mara
 764957	malaxa
 764961	naša
 rabbən
-la t
+t la
 764968	ha
 764970	zala
 764972	zala
 ṭaya
 baθər, bar
-w, ʾu- ḥaqquθa
+ḥaqquθa w, ʾu-
 ḥaqquθa
-764978	ʾana ʾap, ʾup
+764978	ʾap, ʾup ʾana
 764980	zala
 ṭaya
 baθər, bar
 ḥaqquθa
-w, ʾu- ḥaqquθa
+ḥaqquθa w, ʾu-
 764986	malaxa
-764988	ṭla-, ta- rabbən
+764988	rabbən ṭla-, ta-
 764990	ṱ
 b-
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 ṱ
 764995	he
 764997	ma
 764999	ʾana
 w, ʾu-
-765006	gu- xa, xaʾa maθa
+765006	gu- maθa xa, xaʾa
 765008	b-
 dana
 hatxa, ʾatxa
 765012	l-
-765014	naša xa, xaʾa
-765016	bɛθa gu-
+765014	xa, xaʾa naša
+765016	gu- bɛθa
 šlama
 b- šɛna
 b- ṭawaθa
@@ -43076,11 +43076,11 @@ yala
 diya
 ʾəšta
 yarxa, yɛrxa
-w, ʾu- ʾawwa ʾap, ʾup
+ʾap, ʾup ʾawwa w, ʾu-
 qəm-
 w, ʾu-
 b- lɛle
-765092	xa, xaʾa maθa
+765092	maθa xa, xaʾa
 xeta, xreta
 765095	ʾayya
 mu, mut
@@ -43088,12 +43088,12 @@ mu, mut
 765099	ya
 hatxa, ʾatxa
 765102	ḥaqquθa
-w, ʾu- ḥaqquθa
-765105	gu- xa, xaʾa maθa
+ḥaqquθa w, ʾu-
+765105	gu- maθa xa, xaʾa
 xeta, xreta
 mara
 765110	gu- maθa
-765112	bɛθa gu- xa, xaʾa
+765112	gu- bɛθa xa, xaʾa
 765114	ʾixala
 xala
 xa, xaʾa
@@ -43116,7 +43116,7 @@ w, ʾu-
 765144	ṭasa
 b- lɛle
 w, ʾu-
-765148	gu- darta, dɛrta xa, xaʾa
+765148	gu- xa, xaʾa darta, dɛrta
 765150	mən, m- darta, dɛrta
 765153	gu- xeta, xreta xa, xaʾa
 765155	ʾayya
@@ -43125,32 +43125,32 @@ mu, mut
 765159	mu, mut
 765161	gu-
 darta, dɛrta
-ʾaw gu-
+gu- ʾaw
 765168	nəmu, ləmu
-765170	kul, ku, kulla məndi, mdi ṱ
+765170	məndi, mdi kul, ku, kulla ṱ
 ṱ
 b-
 765174	he
-765177	gu- ṭura xa, xaʾa
+765177	gu- xa, xaʾa ṭura
 ṭura
 ʾisara
 ramana
-naša xa, xaʾa
+xa, xaʾa naša
 sawa
 ʾumra
 765189	l-
 765191	ṭina
 765193	qɛsa
-l- xaṣa
+xaṣa l-
 765196	tiwa
 l- kepa, kʸepa
 hatxa, ʾatxa
 ʾanna
-765203	šlama ʾap, ʾup
+765203	ʾap, ʾup šlama
 765206	malaxa
-765208	ṭla-, ta- rabbən
+765208	rabbən ṭla-, ta-
 765211	lxima
-765213	xaṣa gu-
+765213	gu- xaṣa
 765215	l-
 karta, kɛrta
 w, ʾu-
@@ -43178,7 +43178,7 @@ zala
 baθər, bar
 ḥaqquθa
 ḥaqquθa
-ʾalaha t
+t ʾalaha
 w, ʾu-
 tamma
 ʾədyo, ʾədyoma
@@ -43193,12 +43193,12 @@ hatxa, ʾatxa
 765278	ṱ
 tiwa
 laxxa
-ʾarbi šeta
+šeta ʾarbi
 tiwa
 laxxa
 gu-
 gəppiθa
-765287	naša xa, xaʾa
+765287	xa, xaʾa naša
 swariya
 765291	rēš-, rəš-, rš-, š- ʾɛna
 765293	məndi, mdi
@@ -43206,9 +43206,9 @@ w, ʾu-
 zuze
 765297	tama
 765300	xena, xrena xa, xaʾa
-zuze ʾani, ʾan
+ʾani, ʾan zuze
 765303	w, ʾu-
-765305	naša xa, xaʾa
+765305	xa, xaʾa naša
 sawa
 765308	qamaya ʾaw, ʾo
 qəm-
@@ -43227,7 +43227,7 @@ qəm-
 765334	ʾina
 mo, mu, modi, maw, mawdi
 brona bəd, bud
-765338	w, ʾu- xamši
+765338	xamši w, ʾu-
 xamša
 šeta
 765342	brona
@@ -43235,7 +43235,7 @@ har
 765346	ṱ
 w, ʾu-
 765349	hal, ha-
-w, ʾu- xamši
+xamši w, ʾu-
 xamša
 šeta
 765355	ʾalaha
@@ -43247,7 +43247,7 @@ xamša
 765367	ʾalaha
 la
 765370	ʾalaha
-w, ʾu- la
+la w, ʾu-
 ʾalaha qa-
 dbiša har
 b-
@@ -43292,8 +43292,8 @@ w, ʾu-
 b-
 ʾalaha
 765434	xliṭa
-w, ʾu- šurela
-765439	w, ʾu- la t
+šurela w, ʾu-
+765439	t la w, ʾu-
 765441	ṱ
 ʾalaha ya
 765444	ʾalaha ya
@@ -43305,17 +43305,17 @@ t
 qəm-
 w, ʾu-
 765460	l-
-ʾarbi šeta ʾax
+ʾax šeta ʾarbi
 ʾati ṱ
 765464	ʾalaha qa-
 w, ʾu-
 ʾana
 765468	la ʾən
-xabra b-
+b- xabra
 765474	xaṭər
 ʾalaha
-w, ʾu- xaṭər
-765478	bahs, bas la
+xaṭər w, ʾu-
+765478	la bahs, bas
 765481	ṱ
 765483	ṱ
 765485	hal, ha-
@@ -43327,12 +43327,12 @@ w, ʾu- xaṭər
 w, ʾu-
 laxxa
 yoma xa, xaʾa
-765498	qaša xa, xaʾa
-w, ʾu- malla xa, xaʾa
+765498	xa, xaʾa qaša
+malla xa, xaʾa w, ʾu-
 qaša
 765502	l-
-w, ʾu- malla
-765505	ḥajj l-
+malla w, ʾu-
+765505	l- ḥajj
 765507	ġðaðe
 hal, ha-
 765510	gu- ʾotel xa, xaʾa
@@ -43353,33 +43353,33 @@ zala
 765538	qbila
 765541	gu-
 ʾotel
-w, ʾu- yoma ʾaw, ʾo
+yoma w, ʾu- ʾaw, ʾo
 765545	hadəx
 ʾaṣərta
 765549	ṱ
-ramša xa, xaʾa
+xa, xaʾa ramša
 mo, mu, modi, maw, mawdi
 ṱ
-ramša xa, xaʾa
+xa, xaʾa ramša
 765557	kθɛθa w, ʾu-
 ṱ
 765560	b-
 mo, mu, modi, maw, mawdi ṭla-, ta-
 ṱ
 ṱ
-maṭʿam gu-
+gu- maṭʿam
 ʾap, ʾup təmməl
 765569	hatxa, ʾatxa
-765574	kθɛθa tre, treʾe
+765574	tre, treʾe kθɛθa
 w, ʾu-
-765577	quṣarta gu-
+765577	gu- quṣarta
 w, ʾu-
 w, ʾu-
-765581	kθɛθa xa, xaʾa
+765581	xa, xaʾa kθɛθa
 765583	xa, xaʾa
 765585	malla
 765587	tiwa
-kursa gu-
+gu- kursa
 765590	w, ʾu-
 765592	malla
 765595	qaša
@@ -43396,7 +43396,7 @@ mo, mu, modi, maw, mawdi
 dmixa
 765617	ʾap, ʾup
 765619	ʾana
-təmməl hal, ha-
+hal, ha- təmməl
 ʾalaha
 765623	xamšušeba
 765626	qaša
@@ -43405,8 +43405,8 @@ tre, treʾe
 ruta
 malla
 ṱ
-ʾaw la
-ču məndi, mdi
+la ʾaw
+məndi, mdi ču
 sab, săbab, m-săbab
 ʾawwa
 765638	kθɛθa
@@ -43415,9 +43415,9 @@ rēš-, rəš-, rš-, š- nura
 reša
 765645	kul, ku, kulla
 kθɛθa
-765650	qaṣxane gu-
+765650	gu- qaṣxane
 w, ʾu-
-765653	w, ʾu- malla
+765653	malla w, ʾu-
 765656	ha
 malla
 malla
@@ -43433,7 +43433,7 @@ xəzwa
 ʾina
 ʾana
 765683	pardɛsa l-
-l- dunye
+dunye l-
 xeta, xreta
 mara
 765688	l-
@@ -43447,12 +43447,12 @@ pardɛsa
 765706	xoš
 w, ʾu-
 w, ʾu-
-w, ʾu- gu-
+gu- w, ʾu-
 ʾiθ tama
 ʾənwa
 ṭefi, ṭepi
 w, ʾu-
-w, ʾu- kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla w, ʾu-
 765717	w, ʾu-
 765719	mara
 b-
@@ -43466,7 +43466,7 @@ busama
 la
 765734	w, ʾu-
 qaša
-ʾana w, ʾu-
+w, ʾu- ʾana
 765738	də-, de-
 765740	hadəx
 ʾap, ʾup
@@ -43478,7 +43478,7 @@ qaša
 765758	w, ʾu-
 w, ʾu-
 mara
-765764	ṱ ha
+765764	ha ṱ
 765767	w, ʾu-
 765770	be-
 ʾati
@@ -43490,11 +43490,11 @@ qəm-
 w, ʾu-
 765784	ʾana ži
 mən, m-
-765787	kθɛθa ʾay, ʾey, ʾɛ, ʾa
+765787	ʾay, ʾey, ʾɛ, ʾa kθɛθa
 765789	rēš-, rəš-, rš-, š- nura
 w, ʾu-
 w, ʾu-
-765793	ču məndi, mdi
+765793	məndi, mdi ču
 765795	dax, daxi
 765797	kul, ku, kulla
 765799	ʾina
@@ -43506,13 +43506,13 @@ qəm-
 765810	mən, m-
 765812	ʾay
 mara
-765815	w, ʾu- gawṛa, gʸawṛa xa, xaʾa
+765815	xa, xaʾa gawṛa, gʸawṛa w, ʾu-
 baxta
 765818	brona
-kut yoma
+yoma kut
 765821	gawṛa, gʸawṛa
 šuqa l-
-765824	w, ʾu- ču məndi, mdi
+765824	w, ʾu- məndi, mdi ču
 765827	baxta
 765829	kəma
 ṱ
@@ -43532,7 +43532,7 @@ naša
 liθ
 hatxa, ʾatxa
 məndi, mdi
-765856	mðita gu-
+765856	gu- mðita
 765862	malla
 malla
 765865	ʾana
@@ -43541,14 +43541,14 @@ b-
 ʾən
 ṭḷaθa, ṭḷa
 ʾaqla
-765872	ʾiða xa, xaʾa
+765872	xa, xaʾa ʾiða
 765875	ṭḷaθa, ṭḷa
 ʾaqla
 765878	tawra
 765880	xa, xaʾa
 765883	w, ʾu- tawra
 765886	ʾaxxa
-l- tamma
+tamma l-
 765889	də-, de-
 ʾana
 ʾay, ʾey, ʾɛ, ʾa
@@ -43557,16 +43557,16 @@ t
 la
 765896	ṭḷaθa, ṭḷa
 la
-765899	yaba də-, de-
+765899	də-, de- yaba
 ʾɛni
 b-
 hatxa, ʾatxa
 la
-b- zuze xa, xaʾa
+b- xa, xaʾa zuze
 raba
 məndi, mdi
 765908	ʾaxxa
-l- tamma
+tamma l-
 muʿalləm
 765912	muʿalləm
 765914	ʾən
@@ -43582,8 +43582,8 @@ tawra
 765930	yaba
 b-
 765933	ʾən
-b- ʾaqla xa, xaʾa
-765938	ʾaqla xa, xaʾa
+b- xa, xaʾa ʾaqla
+765938	xa, xaʾa ʾaqla
 ʾati
 ʾaqla
 765943	gu-
@@ -43591,7 +43591,7 @@ b- ʾaqla xa, xaʾa
 tawra
 ṭḷaθa, ṭḷa
 ʾaqla
-765950	ʾaqla xa, xaʾa
+765950	xa, xaʾa ʾaqla
 765952	tama
 765954	tama
 harrəj
@@ -43603,11 +43603,11 @@ tawra
 pšima w, ʾu-
 765966	l-
 765968	brona
-765970	la t
+765970	t la
 765972	baxta
 hal, ha-
 qəṣṣət, qəṣṣətta
-765979	mðita gu-
+765979	gu- mðita
 765981	hatxa, ʾatxa
 kut
 tawra
@@ -43618,7 +43618,7 @@ tawra
 ʾana
 b-
 ʾana
-765996	ʾaqla xa, xaʾa
+765996	xa, xaʾa ʾaqla
 765999	balki
 766005	ʾana
 b-
@@ -43635,13 +43635,13 @@ b- tre, treʾe
 tawra
 766032	yaba
 ʾən
-hala hatxa, ʾatxa
+hatxa, ʾatxa hala
 ʾana
 b-
 ʾən
 b- xa, xaʾa
 ʾaqla
-766041	ʾap, ʾup ʾay
+766041	ʾay ʾap, ʾup
 ʾaqla
 766046	tawra
 766049	tama
@@ -43657,9 +43657,9 @@ gawṛa, gʸawṛa
 766064	dax, daxi
 766066	tre, treʾe
 ʾotəx, ʾotaxa
-xa, xaʾa ʾotəx, ʾotaxa
+ʾotəx, ʾotaxa xa, xaʾa
 ʾani, ʾan
-766072	xeta, xreta ʾay, ʾey, ʾɛ, ʾa
+766072	ʾay, ʾey, ʾɛ, ʾa xeta, xreta
 766075	ṱ
 xuya
 766078	taxta
@@ -43667,7 +43667,7 @@ xuya
 hatxa, ʾatxa
 t ta
 766085	ta
-goma gu-
+gu- goma
 766089	hatxa, ʾatxa
 ta
 tama
@@ -43684,13 +43684,13 @@ malla
 parča
 mən, m-
 məndi, mdi
-w, ʾu- ṣabun
+ṣabun w, ʾu-
 766113	šlama
 766117	malla ʾay, ʾey, ʾɛ, ʾa
 dax, daxi
 dax, daxi
 766121	ʾaxxa
-l- tamma
+tamma l-
 766124	spay
 basima
 raba
@@ -43699,22 +43699,22 @@ raba
 766134	xakma, xamka
 məndi, mdi
 bɛθa ṭla-, ta-
-766139	kul, ku, kulla məndi, mdi t
+766139	t məndi, mdi kul, ku, kulla
 766142	ʾɛna
 malla
-766146	kul, ku, kulla məndi, mdi t
-766150	čanta xa, xaʾa
+766146	t məndi, mdi kul, ku, kulla
+766150	xa, xaʾa čanta
 hatxa, ʾatxa
 766154	malla
 ṱ
 766157	mo, mu, modi, maw, mawdi
 b-
 xena, xrena
-766161	ṭla-, ta- kawuθra
+766161	kawuθra ṭla-, ta-
 766168	fəllən, pəllən, flan
 dukθa, duka
 766171	qəm-
-766173	ṭla-, ta- kawuθra
+766173	kawuθra ṭla-, ta-
 766175	ʾana
 766177	məndi, mdi
 766180	la
@@ -43723,7 +43723,7 @@ zuze
 766186	parča
 766188	ṣabun
 766190	šekər
-kul, ku, kulla məndi, mdi t
+t məndi, mdi kul, ku, kulla
 766196	gawṛa, gʸawṛa
 766200	tre, treʾe
 ʾal-
@@ -43741,7 +43741,7 @@ spay
 766222	xakma, xamka
 məndi, mdi
 766225	ṭla-, ta-
-bɛθa gu-
+gu- bɛθa
 766228	bəsra
 kθɛθa
 ʾən
@@ -43749,17 +43749,17 @@ kθɛθa
 čay
 ʾanna
 məndi, mdi
-766236	kul, ku, kulla məndi, mdi
+766236	məndi, mdi kul, ku, kulla
 766243	ṱ
 məndi, mdi xa, xaʾa
 la
-ʾap, ʾup ṭla-, ta- xa, xaʾa
+ʾap, ʾup xa, xaʾa ṭla-, ta-
 766248	mo, mu, modi, maw, mawdi
 766251	ʾaṣərta
-ramša ṭla-, ta- xa, xaʾa
+xa, xaʾa ṭla-, ta- ramša
 766254	ṭḷaθa, ṭḷa
 766256	ṭḷaθa, ṭḷa
-766258	yoma bar tre, treʾe
+766258	bar yoma tre, treʾe
 766260	ṭḷaθa, ṭḷa
 766267	fəllən, pəllən, flan
 dukθa, duka
@@ -43777,7 +43777,7 @@ məndi, mdi
 766290	ʾiða
 diya
 ʾal-
-766294	w, ʾu- ʾaxxa
+766294	ʾaxxa w, ʾu-
 tamma
 766297	ṱ
 766301	ʾawwa
@@ -43791,7 +43791,7 @@ xačča
 766315	xakma, xamka
 məndi, mdi
 766318	bɛθa l-
-w, ʾu- ʾaṣərta
+ʾaṣərta w, ʾu-
 b- lɛle
 766323	ʾana
 zuze
@@ -43804,21 +43804,21 @@ w, ʾu-
 gu-
 ʾɛni
 766339	w, ʾu-
-kul, ku, kulla məndi, mdi t
+t məndi, mdi kul, ku, kulla
 766342	ʾayya
 dəkkana
-766345	kul, ku, kulla məndi, mdi t
+766345	t məndi, mdi kul, ku, kulla
 766348	šurela
-766351	kul, ku, kulla məndi, mdi t
+766351	t məndi, mdi kul, ku, kulla
 766353	qəm-
-766355	čanta gu-
+766355	gu- čanta
 diya
 šurela
-ʾurxa b-
-766362	ṭla-, ta- gawṛa, gʸawṛa
+b- ʾurxa
+766362	gawṛa, gʸawṛa ṭla-, ta-
 766364	gawṛa, gʸawṛa
 ʾanna
-naša ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa naša
 ṱ
 766369	tawra
 766372	moʿəd
@@ -43832,21 +43832,21 @@ fatra
 766383	kawuθra
 har
 766386	kawuθra
-766388	naša xa, xaʾa
+766388	xa, xaʾa naša
 766390	malla
 766392	ṱ
-bɛθa gu-
+gu- bɛθa
 766395	xamša
-766397	ʾəṣra hal, ha-
+766397	hal, ha- ʾəṣra
 ʾati
-766401	qala xa, xaʾa
+766401	xa, xaʾa qala
 766404	hatxa, ʾatxa
-ʾana w, ʾu-
+w, ʾu- ʾana
 t ta
 w, ʾu- ʾati
 766409	šula
 xarθa
-766412	ʾap, ʾup ʾaṣərta
+766412	ʾaṣərta ʾap, ʾup
 hadəx
 w, ʾu- ʾati
 har
@@ -43857,12 +43857,12 @@ mən, m- baθər, bar
 xamša
 daqiqa
 ʾati
-766425	w, ʾu- hal, ha-
+766425	hal, ha- w, ʾu-
 ʾaṣərta
 hal, ha-
 ʾədlɛle
 hal, ha-
-ramša xa, xaʾa
+xa, xaʾa ramša
 766432	ma
 766436	ṭḷaθa, ṭḷa
 ʾawwa
@@ -43878,25 +43878,25 @@ malla
 ya
 766465	malla
 766467	ʾaxxa
-l- tamma
+tamma l-
 766471	miya
 766477	miya
 ʾaxxa
-l- tamma
+tamma l-
 bena xa, xaʾa
 gawṛa, gʸawṛa
 diya
 ho
 766485	liθ
-la xmara
-766489	la ču məndi, mdi
+xmara la
+766489	la məndi, mdi ču
 766494	l- qɛsa
 766496	qɛsa
 766501	malla
 766503	ʾawwa
 qɛsa
 l-
-qɛsa xa, xaʾa
+xa, xaʾa qɛsa
 rixa
 766509	l-
 766511	gu-
@@ -43908,15 +43908,15 @@ saṭana
 766524	gu-
 bɛθa
 766527	həšyər
-la t
+t la
 766530	t ha
 766532	ʾawwa
 766535	jalda
 766537	w, ʾu-
-766539	qɛsa ʾaw, ʾo
+766539	ʾaw, ʾo qɛsa
 rixa
 w, ʾu-
-bɛθa gu-
+gu- bɛθa
 dapa rēš-, rəš-, rš-, š-
 w, ʾu-
 766546	bara
@@ -43940,26 +43940,26 @@ b- šɛna
 766583	ʾap, ʾup ʾaw
 766586	xačča
 miya
-766590	čay xa, xaʾa
+766590	xa, xaʾa čay
 b-
 ʾap, ʾup xa, xaʾa
 liθ
 laxxa
-bɛθa gu-
+gu- bɛθa
 ʾayale
-766600	dukθa, duka xa, xaʾa
+766600	xa, xaʾa dukθa, duka
 xeta, xreta
 mara
 766604	heš, həš, š
 766606	šətya
-la t
+t la
 čay
-qala xa, xaʾa
-766611	qam mən, m-
+xa, xaʾa qala
+766611	mən, m- qam
 bɛθa
 ho
 766616	ʾaw
-766624	qɛsa xa, xaʾa
+766624	xa, xaʾa qɛsa
 xena, xrena
 766630	həšyər
 766632	jənna
@@ -43973,7 +43973,7 @@ har
 766646	qɛsa
 b-
 766649	w, ʾu-
-ṱ ʾax
+ʾax ṱ
 766653	dukθa, duka
 t ta
 w, ʾu-
@@ -43983,8 +43983,8 @@ w, ʾu-
 tama
 766663	b- ʾaṣərta
 b- lɛle
-ṱ ta
-ramša xa, xaʾa
+ta ṱ
+xa, xaʾa ramša
 bena xa, xaʾa
 hadəx
 766670	muʿalləm
@@ -44002,8 +44002,8 @@ qa-
 ʾixala
 ṱ
 qa-
-kθɛθa mən, m-
-bəsra mən, m-
+mən, m- kθɛθa
+mən, m- bəsra
 mən, m- šekər
 čay
 ṣabun
@@ -44013,13 +44013,13 @@ məndi, mdi
 raba
 ʾina
 766703	ʾixala
-ṱ ta
+ta ṱ
 ʾana w, ʾu-
 ʾati
 mən, m- ġðaðe
 766709	liθ
 ʾap, ʾup xa, xaʾa
-bɛθa gu-
+gu- bɛθa
 766713	la
 ʾana har
 766716	ʾayya
@@ -44031,7 +44031,7 @@ bena xa, xaʾa
 gawṛa, gʸawṛa
 diya
 766729	ho
-766737	be- šwawa
+766737	šwawa be-
 766740	mo, mu, modi, maw, mawdi
 766742	mo, mu, modi, maw, mawdi ṱ
 766744	ʾawwa
@@ -44041,34 +44041,34 @@ qɛsa
 ʾina
 766751	həšyər
 766754	jənna
-766756	la t
+766756	t la
 766759	mara mu, mut
 766761	ye, yehe
 b-
 766764	həšyər
 766767	ʾap, ʾup ʾaw
 qɛsa
-766770	gu- ʾotəx, ʾotaxa
-w, ʾu- la mur
+766770	ʾotəx, ʾotaxa gu-
+la w, ʾu- mur
 766773	b- ṱ
 dəpna
 766776	b-
 766779	b- malla
 w, ʾu-
-goma gu-
-766783	l- ġðaðe
+gu- goma
+766783	ġðaðe l-
 766789	xa, xaʾa
-l- xena, xrena
+xena, xrena l-
 xa, xaʾa
-l- xena, xrena
+xena, xrena l-
 ʾanna
-766800	l- ġðaðe
+766800	ġðaðe l-
 t ha
 766809	ʾina
 766813	ʾap, ʾup xa, xaʾa
 766816	miθa
 b-
-766821	naša xa, xaʾa
+766821	xa, xaʾa naša
 766824	ya
 ṱ
 766827	mo, mu, modi, maw, mawdi
@@ -44093,11 +44093,11 @@ naša
 766863	ʾina
 766865	həšyər
 766869	spay
-la t ta
+t ta la
 766873	he
 766876	malla
 qamaya
-766879	gu- ʾotəx, ʾotaxa
+766879	ʾotəx, ʾotaxa gu-
 diya
 ʾap, ʾup ʾaw
 rap
@@ -44105,13 +44105,13 @@ rap
 malla
 766888	baθər, bar
 qðala
-w, ʾu- də-, de- b-
+də-, de- w, ʾu- b-
 766894	lawurta xa, xaʾa
 w, ʾu-
 766897	diya
 766900	diya
 w, ʾu-
-ṱ ha
+ha ṱ
 766909	tama
 766911	nəmu, ləmu
 la
@@ -44126,12 +44126,12 @@ qam
 766930	laxxa
 766932	mu, mut
 mara
-766936	l- xaṣa
+766936	xaṣa l-
 w, ʾu-
-766939	dukθa, duka gu- xa, xaʾa
+766939	gu- xa, xaʾa dukθa, duka
 ʾamuqa
 raba
-766943	la t ta
+766943	t ta la
 766946	ṣala
 čale gu- xa, xaʾa
 goṛa
@@ -44150,14 +44150,14 @@ la
 ga ču
 ga ču
 766974	laxxa
-766977	l- xaṣa
+766977	xaṣa l-
 766980	ʾarxe, ʾərxe
 766982	gu-
 rēš-, rəš-, rš-, š-
-766985	miya gu-
+766985	gu- miya
 766987	ʾawwa
 ʾažvana
-ʾaw t
+t ʾaw
 766991	ʾarxe, ʾərxe
 766993	ʾažvana
 ʾawwa
@@ -44165,16 +44165,16 @@ rēš-, rəš-, rš-, š-
 767002	qəṣṣət, qəṣṣətta
 miya
 767008	naša ʾaw, ʾo
-miya gu-
+gu- miya
 767012	ʾina
-767014	ʾaw, ʾo ʾažvana
+767014	ʾažvana ʾaw, ʾo
 tama
-767017	qɛsa xa, xaʾa
+767017	xa, xaʾa qɛsa
 767021	ʾažvana
 767023	ʾažvana
 tama
 w, ʾu-
-767027	ṭla-, ta- baxta
+767027	baxta ṭla-, ta-
 767030	ha
 767032	la
 la
@@ -44186,9 +44186,9 @@ la
 w, ʾu-
 767049	w, ʾu-
 767053	ʾarxe, ʾərxe
-767056	ʾana w, ʾu-
+767056	w, ʾu- ʾana
 767058	qɛsa
-reša gu-
+gu- reša
 767063	tama
 767067	ʾažvana
 767069	lɛle
@@ -44199,9 +44199,9 @@ reša gu-
 767076	ʾažvana
 767081	la
 la
-767084	w, ʾu- la ču məndi, mdi
-w, ʾu- ya ʾalaha
-767088	zuze ʾani, ʾan
+767084	w, ʾu- la məndi, mdi ču
+ʾalaha ya w, ʾu-
+767088	ʾani, ʾan zuze
 ṭla-, ta-
 ṭla-, ta- ḥammala
 la
@@ -44210,11 +44210,11 @@ la
 w, ʾu-
 767097	bɛθa l-
 reša
-767101	ṭla-, ta- gawṛa, gʸawṛa
+767101	gawṛa, gʸawṛa ṭla-, ta-
 diya
 767104	hatxa, ʾatxa
 767106	b- naša
-767108	naša xa, xaʾa
+767108	xa, xaʾa naša
 ʾawwa
 767113	xačča
 xarθa
@@ -44230,8 +44230,8 @@ xena, xrena ʾaw, ʾo
 767135	ʾina
 l- hodəx
 t šaqiθa
-767139	pəqqa, pəqqe xa, xaʾa
-gota mən, m-
+767139	xa, xaʾa pəqqa, pəqqe
+mən, m- gota
 pəqqa, pəqqe
 767143	l- hodəx
 t šaqiθa
@@ -44242,7 +44242,7 @@ diya
 767152	xaṣa
 diya
 w, ʾu-
-miya b-
+b- miya
 767157	laxxa
 naša
 767160	tamma
@@ -44271,20 +44271,20 @@ ga xa, xaʾa
 xeta, xreta
 767201	škira
 767203	ʾalaha ya
-ʾati ʾən
+ʾən ʾati
 767208	b-
 ʾurxa
 767211	ʾayya
 pəqqa, pəqqe
-767215	gota mən, m-
+767215	mən, m- gota
 767217	šaqiθa
 767219	ʾaqərwa
-l- xaṣa
+xaṣa l-
 diya
 767223	l-
 gota
 w, ʾu-
-ṭla-, ta- t
+t ṭla-, ta-
 767230	ʾalaha ya
 har
 ʾəjbona
@@ -44309,7 +44309,7 @@ t
 767273	b-
 767277	ha
 mo, mu, modi, maw, mawdi
-767281	ču məndi, mdi
+767281	məndi, mdi ču
 767284	ṱ
 bɛθa
 767287	xo, xoθ-
@@ -44325,26 +44325,26 @@ xuwwe xa, xaʾa
 boya
 767306	qəm-
 xuwwe ʾaw, ʾo
-767309	ʾana ʾən
+767309	ʾən ʾana
 767313	ʾaqərwa
 ʾawwa
 xuwwe
 ṱ
 767318	ṭla-, ta-
 767322	bɛθa
-naša xa, xaʾa
+xa, xaʾa naša
 xačča
 ʾanani
 767329	har
 767331	ṭlaba
-ʾalaha mən, m-
+mən, m- ʾalaha
 767335	ʾalaha
 t
 məndi, mdi
 zawda, zoda
-w, ʾu- t
+t w, ʾu-
 məndi, mdi
-ʾalaha qa- t
+t ʾalaha qa-
 767343	har
 767345	mən, m-
 767347	bena xa, xaʾa
@@ -44352,7 +44352,7 @@ marya
 ʾalaha
 767351	malaxa ṭla-, ta-
 də-, de-
-767354	ʾaw mo, mu, modi, maw, mawdi
+767354	mo, mu, modi, maw, mawdi ʾaw
 767358	mo, mu, modi, maw, mawdi
 har
 767361	w, ʾu- ṭlaba
@@ -44360,23 +44360,23 @@ har
 gazəndana
 raba
 malaxa
-767369	naša ha
+767369	ha naša
 ʾati
 767372	bliga har
 ṭlaba
 mən, m-
 t ta
-w, ʾu- gazənda
+gazənda w, ʾu-
 gazənda
 mara
 767380	ʾana
 767382	ʾalaha
 t
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 zawda, zoda
 t ta
 767388	spay
-xayən qa- t
+t xayən qa-
 spay
 ʾaxxa
 767393	ʾalaha
@@ -44407,7 +44407,7 @@ t
 ta
 t
 tre, treʾe
-767427	mo, mu, modi, maw, mawdi ta
+767427	ta mo, mu, modi, maw, mawdi
 ta
 ʾana
 767431	b-
@@ -44456,7 +44456,7 @@ səmya
 t
 ṱ ʾaw, ʾo
 miθa
-xaye ʾi-
+ʾi- xaye
 xena, xrena
 767537	ʾana
 767541	t
@@ -44481,12 +44481,12 @@ diya
 šawwa
 pərsa
 rēš-, rəš-, rš-, š-
-767584	yoma tre, treʾe
+767584	tre, treʾe yoma
 ṭḷaθa, ṭḷa tre, treʾe
 la
 767588	bena
-767591	w, ʾu- bena
-dana ʾay, ʾey, ʾɛ, ʾa
+767591	bena w, ʾu-
+ʾay, ʾey, ʾɛ, ʾa dana
 767594	ma
 767596	zwaða
 ma
@@ -44495,10 +44495,10 @@ xa, xaʾa
 ʾurxa
 767603	l-
 767605	l-
-767608	baza tre, treʾe
+767608	tre, treʾe baza
 767614	kɛla
 767621	heš, həš, š
-pənxa xa, xaʾa
+xa, xaʾa pənxa
 šawwi
 šawwa
 pərsa
@@ -44508,7 +44508,7 @@ heš, həš, š
 767633	qəm-
 ʾaqla
 l- pənxa
-767638	b- ṭura xa, xaʾa
+767638	b- xa, xaʾa ṭura
 qəm-
 miya
 koma
@@ -44521,20 +44521,20 @@ gurza xa, xaʾa
 767657	l-
 767660	xo, xoθ-
 šmayya
-767666	qam yoma
-w, ʾu- gurza ʾaw, ʾo
+767666	yoma qam
+gurza w, ʾu- ʾaw, ʾo
 diya
 767670	b- xa, xaʾa
 qəm-
 miya
 yama
-w, ʾu- bena xa, xaʾa
+bena xa, xaʾa w, ʾu-
 bar
 saʾət, saʾta, saʾatta, saʾa
 767679	qam
 gəppa
 hal, ha- laxxa
-767683	ʾupra gu-
+767683	gu- ʾupra
 767685	ʾamra
 767687	burnuṭ
 767691	b-
@@ -44549,7 +44549,7 @@ sɛpa
 be-
 be-
 la
-darba tre, treʾe
+tre, treʾe darba
 ʾən
 xena, xrena xa, xaʾa
 767720	ṱ
@@ -44557,14 +44557,14 @@ xena, xrena xa, xaʾa
 ma
 767725	ma
 767727	pθila
-767730	la t
+767730	t la
 767732	lɛle
 767734	qəm-
 767736	də-, de-
 767738	xa, xaʾa
 dəbba
-767742	w, ʾu- qəṭṭa xa, xaʾa
-767744	gota l-
+767742	qəṭṭa xa, xaʾa w, ʾu-
+767744	l- gota
 xa, xaʾa
 l-
 gota
@@ -44572,14 +44572,14 @@ gota
 767750	sisisambər
 767752	ṭla-, ta-
 767755	rēš-, rəš-, rš-, š-
-767759	malka xa, xaʾa
+767759	xa, xaʾa malka
 raba
 ẓaləm
-767767	ʾay, ʾey, ʾɛ, ʾa baxta
+767767	baxta ʾay, ʾey, ʾɛ, ʾa
 ṱ
 767771	lazəm
-767773	xa, xaʾa qəṣṣət, qəṣṣətta
-la t
+767773	qəṣṣət, qəṣṣətta xa, xaʾa
+t la
 nəhaya
 kul, ku, kulla ṱ
 yoma xa, xaʾa
@@ -44591,34 +44591,34 @@ xa, xaʾa
 diya
 ʾana
 ṱ
-767789	tuniθa xa, xaʾa
+767789	xa, xaʾa tuniθa
 malka ṭla-, ta-
 xoš
 balki
 767800	tuniθa
-la t
+t la
 767803	he
 767805	də-, de-
-767808	malka xa, xaʾa
+767808	xa, xaʾa malka
 ẓaləm
 767812	xa, xaʾa
 raba
 goṛa
 767816	xəṭṭa
-kul, ku, kulla t
-767820	seylo gu-
+t kul, ku, kulla
+767820	gu- seylo
 767822	qəm-
 kul, ku, kulla
 gu-
 qəm- w, ʾu-
 kul, ku, kulla
 767828	diya
-čimanto b-
-w, ʾu- la t
+b- čimanto
+t la w, ʾu-
 767832	ži
 767834	diya
 qəm-
-boya xa, xaʾa
+xa, xaʾa boya
 zora
 hatxa, ʾatxa
 bahs, bas
@@ -44626,7 +44626,7 @@ mujarrad
 767843	w, ʾu- ṱ
 767847	šəkwane
 w, ʾu-
-767850	xəṭṭa gu-
+767850	gu- xəṭṭa
 bena
 xəṭṭa
 767854	ṭun
@@ -44634,23 +44634,23 @@ xəṭṭa
 767860	ḥabba xa, xaʾa
 w, ʾu-
 767863	t tre, treʾe
-767865	ḥabba w, ʾu- xa, xaʾa
+767865	ḥabba xa, xaʾa w, ʾu-
 767868	t ṭḷaθa, ṭḷa
-ḥabba w, ʾu- xa, xaʾa
+ḥabba xa, xaʾa w, ʾu-
 767872	t ha
-xəṭṭa ʾani, ʾan
-ʾani, ʾan šəkwane
+ʾani, ʾan xəṭṭa
+šəkwane ʾani, ʾan
 ṱ
 xa, xaʾa
 767878	liθ
 duka
 t tre, treʾe
-har xa, xaʾa
+xa, xaʾa har
 767885	ʾay
 ga ču
-xasla la
-767889	malka xa, xaʾa
-gu- xa, xaʾa maθa
+la xasla
+767889	xa, xaʾa malka
+gu- maθa xa, xaʾa
 malka ʾaw, ʾo
 767893	tre, treʾe
 brata
@@ -44664,8 +44664,8 @@ tiwa
 gu-
 maθa
 yoma xa, xaʾa
-767912	ṣɛda l-
-767914	ṣɛda l-
+767912	l- ṣɛda
+767914	l- ṣɛda
 767917	baxta
 767920	yaqura
 malka
@@ -44733,18 +44733,18 @@ xeta, xreta
 768053	hadəx har
 768056	malka
 768058	malka
-768060	w, ʾu- b-
+768060	b- w, ʾu-
 malka
 768063	ʾən
 brata
 t
 qa-
 malka
-768069	hatxa, ʾatxa bəd, bud
+768069	bəd, bud hatxa, ʾatxa
 məndi, mdi
 768073	yala
 yala
-768077	l- yarxa, yɛrxa xa, xaʾa
+768077	yarxa, yɛrxa l- xa, xaʾa
 lɛle
 məṭya
 768083	qam
@@ -44754,7 +44754,7 @@ la
 la
 768089	miya
 bahs, bas
-768092	w, ʾu- t ta
+768092	t ta w, ʾu-
 768094	w, ʾu- baba
 768096	t yala
 768098	b- dunye
@@ -44777,16 +44777,16 @@ qəm-
 tama
 768144	b-
 šurela
-768147	susa b-
+768147	b- susa
 smoqa
 768152	həlma
 t
 b-
-w, ʾu- be-
+be- w, ʾu-
 768158	guda l-
-susa w, ʾu- b-
+b- susa w, ʾu-
 koma
-susa b-
+b- susa
 xwara
 kul, ku, kulla
 768165	hadəx
@@ -44832,11 +44832,11 @@ w, ʾu- ʾədyo, ʾədyoma
 kul, ku, kulla
 768239	la
 768242	laxxa
-bɛθa gu-
+gu- bɛθa
 xona
 mən, m-
 768248	ṭḷaθa, ṭḷa
-768250	goṛa ʾay, ʾey, ʾɛ, ʾa
+768250	ʾay, ʾey, ʾɛ, ʾa goṛa
 zina
 w, ʾu-
 ʾay, ʾey, ʾɛ, ʾa
@@ -44846,7 +44846,7 @@ mara
 768262	yoma xa, xaʾa
 768264	ṱ
 768266	ʾanna
-768271	goṛa ʾay, ʾey, ʾɛ, ʾa
+768271	ʾay, ʾey, ʾɛ, ʾa goṛa
 768275	xa, xaʾa kepa, kʸepa
 laxxa
 w, ʾu- xa, xaʾa laxxa
@@ -44855,17 +44855,17 @@ kepa, kʸepa
 768281	ṭla-, ta-
 laxxa
 768284	laxxa
-768286	w, ʾu- zina
-768288	baθra, bara ʾay, ʾey, ʾɛ, ʾa t
+768286	zina w, ʾu-
+768288	t ʾay, ʾey, ʾɛ, ʾa baθra, bara
 w, ʾu-
-qamaya ʾay, ʾey, ʾɛ, ʾa
-qamaya ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa qamaya
+ʾay, ʾey, ʾɛ, ʾa qamaya
 goṛa
-768294	w, ʾu- t tre, treʾe
+768294	t tre, treʾe w, ʾu-
 768296	zina
-w, ʾu- t ṭḷaθa, ṭḷa
-768299	w, ʾu- xa, xaʾa kepa, kʸepa
-768307	ʾăwaha, waha; ʾăwaʾha, waʾha rēš-, rəš-, rš-, š-
+t ṭḷaθa, ṭḷa w, ʾu-
+768299	xa, xaʾa w, ʾu- kepa, kʸepa
+768307	rēš-, rəš-, rš-, š- ʾăwaha, waha; ʾăwaʾha, waʾha
 kepa, kʸepa
 768311	mur
 ʾɛni
@@ -44889,9 +44889,9 @@ zina
 ʾina
 768338	mən, m- marya
 ʾalaha
-ta t ʾaw, ʾo
+t ta ʾaw, ʾo
 768342	t ta
-768345	mən, m- kul, ku, kulla rēš-, rəš-, rš-, š-
+768345	mən, m- rēš-, rəš-, rš-, š- kul, ku, kulla
 768349	žare, žɛre
 768351	ṱ
 ʾana
@@ -44906,12 +44906,12 @@ mo, mu, modi, maw, mawdi
 768372	mo, mu, modi, maw, mawdi
 768378	ʾana
 qamaya
-w, ʾu- zina
+zina w, ʾu-
 baθra, bara
 w, ʾu-
 768384	ʾaw
 768388	hatxa, ʾatxa
-w, ʾu- zina
+zina w, ʾu-
 hatxa, ʾatxa
 768392	ʾana
 768395	ʾay
@@ -44932,7 +44932,7 @@ kepa, kʸepa
 ʾati
 768422	ʾana
 768424	zina
-ʾay, ʾey, ʾɛ, ʾa t tre, treʾe
+t ʾay, ʾey, ʾɛ, ʾa tre, treʾe
 768427	ha
 768430	mara
 ʾati
@@ -44943,10 +44943,10 @@ t
 768445	ṭla-, ta-
 768447	xa, xaʾa kepa, kʸepa
 laxxa
-w, ʾu- xa, xaʾa kepa, kʸepa
+xa, xaʾa w, ʾu- kepa, kʸepa
 laxxa
 w, ʾu- xa, xaʾa laxxa
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 ṭla-, ta-
 768455	ʾɛni
 768457	biš
@@ -44961,22 +44961,22 @@ b-
 xona
 768480	t ta
 ṭliba
-ṭliba ma
+ma ṭliba
 xona
 768486	xona
 768488	yoma xa, xaʾa
 768492	ṱ
-l- ʾərba
-768495	l- ʾərba
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾərba l-
+768495	ʾərba l-
+ʾay, ʾey, ʾɛ, ʾa ga
 768499	w, ʾu-
 ʾanna
 768503	t
 kul, ku, kulla
 ṱ
-768507	malka mən, m-
+768507	mən, m- malka
 qamaya
-768512	šawwa šeta
+768512	šeta šawwa
 768514	xulama
 bahs, bas
 768519	tre, treʾe
@@ -44985,7 +44985,7 @@ bahs, bas
 768527	mara
 768530	malka
 ʾati
-har t
+t har
 768535	zina
 768538	ma
 ʾati
@@ -44999,8 +44999,8 @@ zina
 768555	malka
 t
 basima
-har t
-brata xa, xaʾa
+t har
+xa, xaʾa brata
 la
 768562	he
 768567	ma
@@ -45025,9 +45025,9 @@ mən, m-
 768604	ʾawwa
 768606	b- zorna
 ʾərba
-768609	l- ġðaðe
+768609	ġðaðe l-
 ṱ
-fatra xa, xaʾa
+xa, xaʾa fatra
 ʾal-
 zorna
 768615	zorna
@@ -45036,53 +45036,53 @@ xena, xrena
 ʾərba
 b-
 b-
-la t
+t la
 la
-w, ʾu- ʾap, ʾup la xa, xaʾa
+la ʾap, ʾup xa, xaʾa w, ʾu-
 xena, xrena ʾaw, ʾo
 768626	ʾaw
 768628	t
 mara
 768634	ʾərba
 w, ʾu-
-gota l- xa, xaʾa
-w, ʾu- ʾərba
-gota l- xa, xaʾa
+xa, xaʾa l- gota
+ʾərba w, ʾu-
+xa, xaʾa l- gota
 paṛa xa, xaʾa
-768642	qəšta max
+768642	max qəšta
 768644	w, ʾu-
 768646	ġðaðe
 w, ʾu- hatxa, ʾatxa
 768649	dwiqa
 kul, ku, kulla
 reza
-w, ʾu- ʾərba
+ʾərba w, ʾu-
 768654	hatxa, ʾatxa
 w, ʾu-
 768657	paṛa xa, xaʾa
 768660	qəšta ʾax
 768663	l-
-kut xa, xaʾa
+xa, xaʾa kut
 ṭla-, ta-
 šurela
 768670	ʾawwa
 xalqa
 768674	qəm-
 ṣadra
-768677	ʾăyaha, yaha; ʾăyaʾha, yaʾha gota mən, m-
+768677	mən, m- ʾăyaha, yaha; ʾăyaʾha, yaʾha gota
 xeta, xreta
 qəm-
 ʾina
 768682	ṣadra
 diya
-768688	malka qa-
+768688	qa- malka
 768691	xa, xaʾa
 768694	šəmme
 768700	b- brata
 768703	hatxa, ʾatxa
 hatxa, ʾatxa
 hatxa, ʾatxa
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 768709	məndi, mdi xa, xaʾa
 768711	b- rēš-, rəš-, rš-, š- brata
@@ -45096,16 +45096,16 @@ b- zorna
 mo, mu, modi, maw, mawdi
 768727	la
 zala
-768731	w, ʾu- ʾaxxa
+768731	ʾaxxa w, ʾu-
 tamma
 har
 mara
 768738	ʾap, ʾup
 768740	zorna
 768742	zorna
-768745	gota xa, xaʾa
+768745	xa, xaʾa gota
 ʾərba
-gota xa, xaʾa
+xa, xaʾa gota
 768749	ʾaw
 xoš
 gu-
@@ -45113,7 +45113,7 @@ gu-
 ʾati
 768758	ʾana
 mo, mu, modi, maw, mawdi
-xo, xoθ- la
+la xo, xoθ-
 768765	mara
 768767	ʾana
 768771	baba
@@ -45137,9 +45137,9 @@ mən, m-
 tabziya
 768821	rēš-, rəš-, rš-, š-
 ʾɛna
-smoqa xa, xaʾa
+xa, xaʾa smoqa
 xwara xa, xaʾa
-milana xa, xaʾa
+xa, xaʾa milana
 768829	la
 gu- maθa
 768832	ṱ
@@ -45159,14 +45159,14 @@ milana
 xwara
 768865	ʾanna
 768868	laxxa
-768870	malka la
+768870	la malka
 768874	b-
 768876	jallada
 ʾəlla
 b-
 ʾana
-768883	ga ʾay
-768889	ʾalola gu-
+768883	ʾay ga
+768889	gu- ʾalola
 768891	gu-
 maθa
 768895	ʾina
@@ -45174,7 +45174,7 @@ maθa
 diya
 768901	mo, mu, modi, maw, mawdi
 768903	ʾana
-mo, mu, modi, maw, mawdi ta
+ta mo, mu, modi, maw, mawdi
 hatxa, ʾatxa
 768909	ṱ
 768912	b-
@@ -45185,7 +45185,7 @@ bena
 be-
 768922	ʾarxa
 be-
-ʾana bahs, bas
+bahs, bas ʾana
 t
 768928	ma
 768930	dmixa
@@ -45197,11 +45197,11 @@ saʾət, saʾta, saʾatta, saʾa ʾarba, ʾarpa
 768941	dmixa
 ġðaðe
 768944	malla qa-
-768946	ya malla
+768946	malla ya
 768951	ʾayya
 ṱ
 mən, m- heš, həš, š
-la t
+t la
 ʾayya
 768958	qa-
 768961	malla
@@ -45215,7 +45215,7 @@ l- jama
 768972	qedamta
 768974	mən, m- xa, xaʾa
 768976	tiwa
-l- xaṣa
+xaṣa l-
 768979	w, ʾu-
 768981	t
 mən, m-
@@ -45248,10 +45248,10 @@ w, ʾu-
 769028	talga
 769032	t ha
 769034	zaga
-čadra rēš-, rəš-, rš-, š- t
+t rēš-, rəš-, rš-, š- čadra
 769037	ʾaw
 susa w, ʾu-
-769040	čadra gu-
+769040	gu- čadra
 769044	banda xa, xaʾa
 b- talga
 769047	ʾana
@@ -45259,7 +45259,7 @@ b- talga
 769055	ʾalaha ya
 qa-
 hatxa, ʾatxa
-769063	la t ta
+769063	t ta la
 769065	be-
 w, ʾu-
 769068	reša
@@ -45270,7 +45270,7 @@ xɛpuθa
 769079	talga
 769083	ṭɛra, ṭara
 769085	b-
-qala l-
+l- qala
 raba
 zamara
 qala w, ʾu-
@@ -45286,7 +45286,7 @@ zamara
 ṭarəpθa
 769108	mən, m- ʾilana
 mara
-769112	naša xa, xaʾa
+769112	xa, xaʾa naša
 b- xmara
 769116	qɛsa
 qəm-
@@ -45294,7 +45294,7 @@ qala
 769121	ha
 ʾawwa
 ʾəmma
-ʾəmma mən, m-
+mən, m- ʾəmma
 769138	mara
 ʾaw
 769141	jalda
@@ -45302,27 +45302,27 @@ qala
 769147	malka ya
 ṱ
 basima
-769153	naša xa, xaʾa
+769153	xa, xaʾa naša
 raba
 qala
 basima
 w, ʾu-
 769159	ṱ
 769161	bulbul
-769163	qala l-
+769163	l- qala
 w, ʾu-
 769167	b-
 769170	ʾaw
 769174	ʾaw
 ṱ
 ṱ
-mðita gu-
+gu- mðita
 dɛra
 šlama
 769181	ʾap, ʾup xa, xaʾa
 769183	la
 769185	ṱ
-mðita gu-
+gu- mðita
 dɛra
 šlama
 la
@@ -45334,13 +45334,13 @@ la
 laxxa
 xa, xaʾa
 gawza
-769205	w, ʾu- qənna
+769205	qənna w, ʾu-
 769209	laxxa
 xa, xaʾa
 bəsra
 769213	xa, xaʾa
 yabiše
-w, ʾu- qənna
+qənna w, ʾu-
 mən, m- ġðaðe
 w, ʾu-
 laxxa
@@ -45350,11 +45350,11 @@ b- reša
 769226	ṱ
 t
 ʾanna
-769230	w, ʾu- mo, mu, modi, maw, mawdi
+769230	mo, mu, modi, maw, mawdi w, ʾu-
 769232	xo, xoθ-
 julla
 w, ʾu-
-769236	dukθa, duka xa, xaʾa
+769236	xa, xaʾa dukθa, duka
 769239	t
 769242	šlama
 769245	ʾap, ʾup xa, xaʾa
@@ -45373,7 +45373,7 @@ bəzmara
 w, ʾu- nala
 769271	xwarzaya, xwarza, xurzaya
 769273	xala
-769275	w, ʾu- bəsra
+769275	bəsra w, ʾu-
 769279	kul, ku, kulla
 ʾanna
 769283	parča ʾaw, ʾo
@@ -45381,11 +45381,11 @@ b-
 769286	ho
 t ta
 ṱ
-769300	w, ʾu- ʾaxxa
+769300	ʾaxxa w, ʾu-
 tamma
 769305	gawṛa, gʸawṛa
 769307	b- lɛle
-769309	gare l-
+769309	l- gare
 769312	b-
 kəma
 ṱ
@@ -45404,7 +45404,7 @@ l-
 769337	də-, de-
 769343	tama
 769345	raba
-769347	w, ʾu- qaṣra ʾaw
+769347	qaṣra w, ʾu- ʾaw
 769349	b-
 769353	qaṣra ʾaw, ʾo
 769355	b- qarqupθa
@@ -45429,10 +45429,10 @@ ga, gaya
 susa
 769393	t ta
 la
-769397	qala xa, xaʾa
-susa b-
+769397	xa, xaʾa qala
+b- susa
 769400	susa
-769403	rēš-, rəš-, rš-, š- reša
+769403	reša rēš-, rəš-, rš-, š-
 769405	ʾay
 769407	bərke xa, xaʾa
 goṛa
@@ -45440,7 +45440,7 @@ hatxa, ʾatxa
 w, ʾu-
 769412	bərke gu-
 769414	susa
-769418	marga, mɛrga gu-
+769418	gu- marga, mɛrga
 xadamta, xadəmθa, xaddamta, xaddamθa
 diya
 769423	qəm-
@@ -45448,8 +45448,8 @@ təkθa
 ʾayya
 təkθa
 769428	šəryoxa
-xadamta, xadəmθa, xaddamta, xaddamθa t
-769431	qəm- mən, m-
+t xadamta, xadəmθa, xaddamta, xaddamθa
+769431	mən, m- qəm-
 šapira
 w, ʾu-
 rēš-, rəš-, rš-, š- ʾɛna
@@ -45478,16 +45478,16 @@ mo, mu, modi, maw, mawdi
 ʾina
 ʾaw
 769487	basima
-769491	miya gu-
-769493	barbehn mən, m- gu-
-769495	panjăra, panjara, panjɛra, panjăriya, panjăriye ʾay
+769491	gu- miya
+769493	mən, m- gu- barbehn
+769495	ʾay panjăra, panjara, panjɛra, panjăriya, panjăriye
 barbehn
 769500	ha
 769502	ʾati
 769505	tama
 ʾay, ʾey, ʾɛ, ʾa ʾɛna
-la t
-la t
+t la
+t la
 769510	marga, mɛrga ʾaw, ʾo
 ṱ
 769513	tama
@@ -45528,18 +45528,18 @@ b-
 ʾaw
 769580	mara
 769584	xa, xaʾa simarxa, simɛrxa
-ṭɛra, ṭara xa, xaʾa
+xa, xaʾa ṭɛra, ṭara
 t
 l-
 t
 šmayya
 ṱ
 769595	l-
-yama t
-769599	nəšra xa, xaʾa
+t yama
+769599	xa, xaʾa nəšra
 t
 l-
-769603	ʾupra gu-
+769603	gu- ʾupra
 769612	jutyara
 769615	ʾakara
 mo, mu, modi, maw, mawdi
@@ -45562,7 +45562,7 @@ mən, m- ġðaðe
 w, ʾu-
 ʾisəqθa
 769647	ʾisəqθa
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 769651	ṱ
 ʾana
@@ -45575,7 +45575,7 @@ bɛθa
 769662	be-
 ʾən
 xo, xoθ-
-769666	w, ʾu- la ʾən
+769666	la ʾən w, ʾu-
 kul, ku, kulla
 769671	xaṭər
 769673	w, ʾu-
@@ -45585,7 +45585,7 @@ b-
 769686	bena xa, xaʾa
 769688	qedamta
 769691	məndi, mdi
-ʾaw lɛle
+lɛle ʾaw
 dmixa
 769696	məndi, mdi
 769699	la
@@ -45600,7 +45600,7 @@ kul, ku, kulla
 lɛle
 769720	t
 769723	qaṣra
-769726	brata xa, xaʾa
+769726	xa, xaʾa brata
 769728	tama
 ʾana
 769732	brata
@@ -45621,9 +45621,9 @@ tama
 məndi, mdi hatxa, ʾatxa
 769764	ʾisəqθa
 diya
-769767	w, ʾu- ʾisəqθa
+769767	ʾisəqθa w, ʾu-
 769769	yaləxta, yaləxθa
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 769773	dax, daxi
 769776	la
@@ -45673,11 +45673,11 @@ qəm-
 769875	ṱ
 769877	la
 mən, m-
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 769881	dax, daxi
 xabra
 769891	w, ʾu-
-w, ʾu- zina
+zina w, ʾu-
 769894	ʾati
 769898	he
 769900	ʾina
@@ -45688,11 +45688,11 @@ la
 769907	ʾəmma
 brata
 ṱ
-769912	w, ʾu- ʾəmma
+769912	ʾəmma w, ʾu-
 brata
 ṱ
 ʾaqall
-769917	w, ʾu- ʾəmma
+769917	ʾəmma w, ʾu-
 brata
 ṱ
 769921	xamša ʾəmma
@@ -45704,11 +45704,11 @@ w, ʾu-
 kul, ku, kulla
 mən, m-
 ʾaskar, ʾaskariya
-769934	susa b-
+769934	b- susa
 b- rašən
 769937	kul, ku, kulla
 ta
-769940	la ʾaw ʾən
+769940	la ʾən ʾaw
 ʾana
 la
 769945	ṱ
@@ -45731,7 +45731,7 @@ b-
 ṱ
 769977	hal, ha-
 l-
-yoma ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa yoma
 ʾaw
 b- yoma xa, xaʾa
 769983	mara
@@ -45743,7 +45743,7 @@ mən, m- gu-
 770000	čadra
 diya
 770003	be-
-770007	w, ʾu- ʾaxxa
+770007	ʾaxxa w, ʾu-
 tamma
 770017	ʾay
 770019	ʾən
@@ -45757,15 +45757,15 @@ tamma
 770048	məndi, mdi xa, xaʾa
 770052	hatxa, ʾatxa
 w, ʾu-
-yoma xa, xaʾa ṭḷaθa, ṭḷa tre, treʾe
+ṭḷaθa, ṭḷa tre, treʾe yoma xa, xaʾa
 xarθa
 770058	xarθa
-770061	naša l-
+770061	l- naša
 šurela
-770064	naša l-
+770064	l- naša
 w, ʾu-
 naša
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 770073	naša
 bena xa, xaʾa
@@ -45791,19 +45791,19 @@ xrawa
 zala
 l-
 naša
-w, ʾu- zala
-770118	w, ʾu- ʾaxxa
-l- tamma
+zala w, ʾu-
+770118	ʾaxxa w, ʾu-
+tamma l-
 šurela
 770125	ʾati
 770130	ʾaθṛa
 w, ʾu-
 ʾana
-770134	w, ʾu- ču məndi, mdi
+770134	ču məndi, mdi w, ʾu-
 b- gota
-w, ʾu- gota b-
+b- gota w, ʾu-
 770138	ʾaxxa
-l- tamma
+tamma l-
 xarθa
 770142	kosiθa
 diya
@@ -45814,7 +45814,7 @@ mən, m- reša
 ʾina
 770154	ha
 770156	ʾati
-770160	la t ʾən
+770160	t la ʾən
 770163	ʾana
 770166	ʾana
 770168	la ʾati
@@ -45825,11 +45825,11 @@ mən, m- reša
 gu-
 770183	ʾap, ʾup xa, xaʾa
 lɛle
-770190	ʾana w, ʾu-
+770190	w, ʾu- ʾana
 770192	ʾayya
 quwwət
 laxxa
-xabra b-
+b- xabra
 ta
 t ta
 ṱ
@@ -45848,7 +45848,7 @@ ruta
 770219	ʾaw
 770223	ruta
 770225	ʾanna
-770227	ṱ ʾax
+770227	ʾax ṱ
 məṭya
 770231	ṭḷaθa, ṭḷa
 770234	gu- maθa
@@ -45857,7 +45857,7 @@ məṭya
 qedamta
 yala
 zora
-770245	čəkka b-
+770245	b- čəkka
 770247	ʾanna
 čəkka
 mo, mu, modi, maw, mawdi
@@ -45865,26 +45865,26 @@ mo, mu, modi, maw, mawdi
 770253	ʾanna
 mən, m- ʾərba
 770257	ʾərba
-770260	ʾana ʾap, ʾup
+770260	ʾap, ʾup ʾana
 770265	la
 ʾati
 malka be-
 770269	malka
 770271	miθa
 770274	ʾərba
-770277	čəkka mən, m-
+770277	mən, m- čəkka
 770280	ʾɛni
-770283	zora ʾay, ʾey, ʾɛ, ʾa
+770283	ʾay, ʾey, ʾɛ, ʾa zora
 770286	miθa
-ʾaw la
+la ʾaw
 bɛθa l-
 ʾanna
 naša
 770296	malka
-770301	ṱ ta
+770301	ta ṱ
 770305	l-
 770307	l-
-qawra gu-
+gu- qawra
 770311	qawra
 xaθa
 reša
@@ -45892,7 +45892,7 @@ diya
 770319	qawra
 770321	qawra
 770323	rəḥqa
-dukθa, duka mən, m-
+mən, m- dukθa, duka
 770326	ʾap, ʾup ʾaw
 770328	diya
 har
@@ -45913,7 +45913,7 @@ la
 liθ
 xa, xaʾa
 770352	ʾana
-770354	qala xa, xaʾa
+770354	xa, xaʾa qala
 gu-
 770357	balki
 770360	l-
@@ -45933,22 +45933,22 @@ hadiya, diya, hadayya
 770381	w, ʾu-
 zina
 770385	gu-
-w, ʾu- zina
+zina w, ʾu-
 770388	gu-
 770390	jənna
-šmayya t
+t šmayya
 770394	tagbir
 770396	ġðaðe
 770400	xa, xaʾa
 yala
 raba
 šapira
-w, ʾu- brata xa, xaʾa
+w, ʾu- xa, xaʾa brata
 raba
 šapira
 770408	ṱ
 770411	w, ʾu-
-770413	l- ġðaðe
+770413	ġðaðe l-
 mara
 770418	tagbir
 770420	zina
@@ -45974,7 +45974,7 @@ w, ʾu-
 770461	ṭla-, ta-
 770463	dmixa
 gu-
-770466	ya baxta
+770466	baxta ya
 ʾana
 770469	dmixa
 gu-
@@ -45997,7 +45997,7 @@ la
 770505	rēš-, rəš-, rš-, š-
 770512	ʾati
 raba
-770515	ču məndi, mdi
+770515	məndi, mdi ču
 la
 770518	lampa xa, xaʾa
 770520	b-
@@ -46007,11 +46007,11 @@ laxxa
 brata
 770528	ṱ
 dmixa
-770531	təmməl qa- t
-ʾana ʾən
-770534	la t
+770531	t qa- təmməl
+ʾən ʾana
+770534	t la
 duglana
-ʾati t ta
+t ta ʾati
 770539	ṱ
 he
 770543	brata
@@ -46019,17 +46019,17 @@ dmixa
 770549	lampa
 b-
 770554	zina
-770562	l- ʾotəx, ʾotaxa
+770562	ʾotəx, ʾotaxa l-
 770564	ʾanna
 770569	b- ʾisəqθa
-w, ʾu- yaləxta, yaləxθa b-
+b- yaləxta, yaləxθa w, ʾu-
 hal, ha-
 770575	xanjər
-w, ʾu- sɛpa
+sɛpa w, ʾu-
 770579	xa, xaʾa
 ʿaksa, ʿaks, ʿăkəs l-
 xena, xrena
-la t ta
+t ta la
 770584	b- ġðaðe
 770586	qedamta
 jənna
@@ -46039,14 +46039,14 @@ max šeðana
 lɛle
 770602	t
 770605	bahs, bas
-w, ʾu- yaləxta, yaləxθa ʾay
+ʾay yaləxta, yaləxθa w, ʾu-
 ʾisəqθa
 b-
 770610	bahs, bas
 770612	ʾana
 770615	w, ʾu- baθər, bar
-770618	w, ʾu- mən, m-
-770620	qa- t
+770618	mən, m- w, ʾu-
+770620	t qa-
 ʾayya
 770624	ʾɛni
 770627	qam
@@ -46056,9 +46056,9 @@ bɛθa
 770637	ma
 770639	xaššana
 770642	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
+qəṣṣət, qəṣṣətta w, ʾu-
 770646	ʾədlɛle
-brata xa, xaʾa
+xa, xaʾa brata
 770649	dmixa
 770651	w, ʾu-
 qedamta
@@ -46071,7 +46071,7 @@ b- yoma
 šapira
 b- lɛle
 770669	b- xəlmət, xəlmətta
-770673	ʾana ʾap, ʾup
+770673	ʾap, ʾup ʾana
 770675	b-
 hatxa, ʾatxa
 ʾaw, ʾo
@@ -46082,7 +46082,7 @@ zora
 770687	ʾina
 ʾayya
 ʾisəqθa
-w, ʾu- yaləxta, yaləxθa
+yaləxta, yaləxθa w, ʾu-
 770693	ʾisəqθa
 770695	yaləxta, yaləxθa
 maṭo
@@ -46094,22 +46094,22 @@ maṭo
 hadiya, diya, hadayya
 770712	bena
 770715	goṛa
-770719	naša ṭla-, ta-
+770719	ṭla-, ta- naša
 770721	swariya
 ʾəmma ṭla-, ta-
 swariya
 770726	w, ʾu- naša
-l- xaṣa
-770730	kut qonəx, qunəx, qunaxa
+xaṣa l-
+770730	qonəx, qunəx, qunaxa kut
 yoma
 770733	ʾəmma
 770736	ʾaxni
 la
 770743	ʾəmma ṭla-, ta-
 swariya
-kut yoma
+yoma kut
 770747	ʾəmma
-kut yoma
+yoma kut
 770750	ʾəmma
 ʾəmma ṭla-, ta-
 swariya
@@ -46120,26 +46120,26 @@ la
 770767	susa
 770769	ʾaw
 xulama
-770773	ʾurxa b-
-770775	ʾurxa b- w, ʾu-
+770773	b- ʾurxa
+770775	b- ʾurxa w, ʾu-
 w, ʾu-
 w, ʾu-
 w, ʾu-
 770780	ṭḷaθa, ṭḷa tre, treʾe
 yoma
-770783	ʾurxa b-
-xala la t
-w, ʾu- la t
+770783	b- ʾurxa
+t la xala
+t la w, ʾu-
 xulama
 770789	ṭla-, ta-
 770791	mən, m-
 770793	zala
 770796	ʾanna
-yoma ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa yoma
 ṭḷaθa, ṭḷa
-770800	ʾaxni la
+770800	la ʾaxni
 xala
-w, ʾu- la
+la w, ʾu-
 770804	xala
 770807	xačča
 w, ʾu-
@@ -46149,11 +46149,11 @@ w, ʾu-
 770815	mara
 770817	bena xa, xaʾa
 hadəx
-770821	w, ʾu- ʾaxxa
-l- tamma
+770821	ʾaxxa w, ʾu-
+tamma l-
 w, ʾu-
 ʾani, ʾan
-w, ʾu- məndi, mdi
+məndi, mdi w, ʾu-
 770828	məndi, mdi
 ʾixala
 770831	hadəx
@@ -46179,9 +46179,9 @@ taxmanta
 ṭḷaθa, ṭḷa
 yoma
 lɛle
-w, ʾu- la
-la šətya
-dmixa w, ʾu- la
+la w, ʾu-
+šətya la
+la dmixa w, ʾu-
 qəm-
 šənθa
 770880	jənna
@@ -46196,10 +46196,10 @@ qəm-
 770899	w, ʾu-
 zina
 ṭḷaθa, ṭḷa
-770904	goṛa ʾay, ʾey, ʾɛ, ʾa
+770904	ʾay, ʾey, ʾɛ, ʾa goṛa
 w, ʾu-
 gawaya
-w, ʾu- zina
+zina w, ʾu-
 ʾay, ʾey, ʾɛ, ʾa
 kul, ku, kulla
 ʾayya
@@ -46268,7 +46268,7 @@ raba
 771020	ʾanna
 771023	ṱ
 ʾaw
-w, ʾu- ʾupra
+ʾupra w, ʾu-
 771028	ʾanna
 771031	rēš-, rəš-, rš-, š- ʾɛna
 ʾanna
@@ -46291,10 +46291,10 @@ xoš gawṛa, gʸawṛa
 771069	ʾən
 771071	qaḥbuθa
 771074	he
-771078	la t
+771078	t la
 771080	spay biš
 771082	rēš-, rəš-, rš-, š-
-771085	w, ʾu- ya ʾalaha
+771085	ʾalaha ya w, ʾu-
 771088	kut
 771091	tama
 771093	saʾət, saʾta, saʾatta, saʾa
@@ -46315,19 +46315,19 @@ susa
 mən, m- tama
 la
 susa
-771133	gəlla mən, m- rēš-, rəš-, rš-, š-
-xala mən, m-
+771133	mən, m- gəlla rēš-, rəš-, rš-, š-
+mən, m- xala
 771136	ʾaw, ʾo
 771139	w, ʾu-
 771142	l-
 771145	l-
 w, ʾu-
-771148	ṱ ʾax
+771148	ʾax ṱ
 771153	ləbba
 diya
-771162	rēš-, rəš-, rš-, š- qarawət
+771162	qarawət rēš-, rəš-, rš-, š-
 šapira sab, săbab, m-săbab
-771166	rēš-, rəš-, rš-, š- qarawət
+771166	qarawət rēš-, rəš-, rš-, š-
 bena xa, xaʾa
 771171	ʾəlla
 diya
@@ -46346,9 +46346,9 @@ mðita
 771194	qawa
 771196	ʾaw
 771201	ha
-771204	ʾana w, ʾu-
-771209	l- ġðaðe
-771213	ʾana w, ʾu-
+771204	w, ʾu- ʾana
+771209	ġðaðe l-
+771213	w, ʾu- ʾana
 771216	lɛle
 šətya
 qawa
@@ -46381,13 +46381,13 @@ mo, mu, modi, maw, mawdi ṭla-, ta-
 xo, xoθ-
 məndi, mdi xa, xaʾa
 ʾaxxa
-l- tamma
+tamma l-
 771268	mo, mu, modi, maw, mawdi
 t
 ʾana
 ya
 771274	ʾana
-771279	w, ʾu- xarja
+771279	xarja w, ʾu-
 771282	ṱ
 ʾarxa xa, xaʾa
 ʾax
@@ -46395,13 +46395,13 @@ gu-
 w, ʾu-
 771289	zala
 771291	la
-ʾana w, ʾu-
+w, ʾu- ʾana
 miya
 mən, m-
 771296	w, ʾu-
 susa
-771299	w, ʾu- bara
-w, ʾu- bara
+771299	bara w, ʾu-
+bara w, ʾu-
 rēš-, rəš-, rš-, š- ʾɛna
 771305	ha
 mo, mu, modi, maw, mawdi ṭla-, ta-
@@ -46415,7 +46415,7 @@ yoma
 771321	ʾawwa
 lɛle
 771326	ṱ
-771334	ṭla-, ta- baxta
+771334	baxta ṭla-, ta-
 771336	hatxa, ʾatxa
 771338	hatxa, ʾatxa
 mu, mut
@@ -46451,15 +46451,15 @@ brixa
 ṭḷaθa, ṭḷa
 771422	w, ʾu-
 w, ʾu-
-w, ʾu- ʾap, ʾup
+ʾap, ʾup w, ʾu-
 771427	ʾarba, ʾarpa
 771429	ʾəlla
 b-
 771434	mara
-771438	gare l-
-771440	gare l-
+771438	l- gare
+771440	l- gare
 771444	zina
-w, ʾu- ʾani, ʾan xadamta, xadəmθa, xaddamta, xaddamθa
+xadamta, xadəmθa, xaddamta, xaddamθa ʾani, ʾan w, ʾu-
 diya
 771448	rēš-, rəš-, rš-, š- ʾɛna
 771453	rēš-, rəš-, rš-, š- ʾɛna
@@ -46484,7 +46484,7 @@ barbiya
 771491	yaləxta, yaləxθa
 diya
 b-
-w, ʾu- ʾisəqθa
+ʾisəqθa w, ʾu-
 771496	hatxa, ʾatxa
 w, ʾu-
 771500	šlama
@@ -46510,36 +46510,36 @@ qəm-
 diya
 771537	mur
 ṭla-, ta-
-qa- t
+t qa-
 ʾədyo, ʾədyoma
 771542	tagbir
-771544	ṣɛda l-
+771544	l- ṣɛda
 ʾana
 ṱ
 771548	bɛθa l-
 771551	b-
-771555	zəndana gu-
+771555	gu- zəndana
 habsa gu-
 771558	la
 771560	ʾana
 zəndana bəd, bud
 la
-771565	zəndana gu-
+771565	gu- zəndana
 ʾati
 771568	mur
 771571	təmməl
 xoš
-ṣɛda l-
+l- ṣɛda
 w, ʾu-
 ṱ
-771580	ṭla-, ta- xona
+771580	xona ṭla-, ta-
 diya
 771585	zala
 771587	ṱ
 771590	wala
 ṱ
 771594	wala
-771598	ču bena
+771598	bena ču
 ṭlibta
 hatxa, ʾatxa
 məndi, mdi
@@ -46551,14 +46551,14 @@ mara
 771615	qedamta
 771617	xabra
 771620	l- ṭura
-w, ʾu- dunye
+dunye w, ʾu-
 771623	dwiqa
 771627	bɛθa l-
 gu-
 771631	dunye
 šurela
-771636	xulama xa, xaʾa
-771639	ṭla-, ta- zina mur
+771636	xa, xaʾa xulama
+771639	zina ṭla-, ta- mur
 k̭učke
 771642	ʾaxni
 771644	la
@@ -46574,7 +46574,7 @@ zina
 771667	ʾawwa
 771669	hatxa, ʾatxa
 rēš-, rəš-, rš-, š-
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 kul, ku, kulla
 771674	šēx
 kul, ku, kulla
@@ -46599,12 +46599,12 @@ l-
 ləmu
 la
 771707	mən, m-
-771709	diwən gu-
+771709	gu- diwən
 ṱ
 ṭiza
 la
 ṭiza
-diwən gu-
+gu- diwən
 771718	rēš-, rəš-, rš-, š-
 771722	balki
 ṱ
@@ -46614,13 +46614,13 @@ balki
 reša
 balki
 ṱ
-dukθa, duka xa, xaʾa
+xa, xaʾa dukθa, duka
 har ṭla-, ta- hatxa, ʾatxa
-771733	ga ʾay, ʾey, ʾɛ, ʾa
+771733	ʾay, ʾey, ʾɛ, ʾa ga
 771747	ʾana w, ʾu-
 ʾati
 771751	bar
-771753	ṱ ʾax
+771753	ʾax ṱ
 771757	gu-
 w, ʾu- ṱ
 xa, xaʾa
@@ -46637,12 +46637,12 @@ bara
 771789	čira w, ʾu-
 771792	ṭla-, ta-
 771797	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
+qəṣṣət, qəṣṣətta w, ʾu-
 771800	w, ʾu-
 zina
-771804	ʾawqana, ʾoqana gu-
+771804	gu- ʾawqana, ʾoqana
 771806	nura
-bɛθa b-
+b- bɛθa
 771810	t ta
 hawar, hawər
 w, ʾu- naša
@@ -46652,19 +46652,19 @@ kul, ku, kulla
 w, ʾu-
 zina
 ṱ
-bɛθa mən, m- gu-
-771822	hatxa, ʾatxa ʾən
+mən, m- gu- bɛθa
+771822	ʾən hatxa, ʾatxa
 ʾap, ʾup
 zora yala
 771826	dudiya gu-
-w, ʾu- qurʾən
+qurʾən w, ʾu-
 w, ʾu-
 kul, ku, kulla
 771831	la
 la mur
 hatxa, ʾatxa
 yala
-771836	w, ʾu- qurʾən
+771836	qurʾən w, ʾu-
 771838	bɛθa
 771842	šawwa
 ṭabəq, ṭabaq
@@ -46672,12 +46672,12 @@ yala
 ʾotəx, ʾotaxa
 mara
 771848	nura
-bɛθa b-
+b- bɛθa
 771851	nura
-bɛθa b-
+b- bɛθa
 771855	w, ʾu-
 hosa
-w, ʾu- hawar, hawər
+hawar, hawər w, ʾu-
 771860	ṭla-, ta-
 xa, xaʾa huðaya
 dagala
@@ -46686,7 +46686,7 @@ dagala
 mu, mut
 771877	ʾina
 771883	mən, m-
-ču məndi, mdi
+məndi, mdi ču
 771888	w, ʾu- yala
 771892	w, ʾu-
 xoθa
@@ -46695,7 +46695,7 @@ xoθa
 məndi, mdi
 771908	ṭla-, ta-
 771910	t ʾaw, ʾo
-771912	ṣɛda mən, m-
+771912	mən, m- ṣɛda
 771917	ʾati
 771919	qəṣṣət, qəṣṣətta
 ʾaw
@@ -46715,7 +46715,7 @@ b-
 771963	tama
 w, ʾu-
 771966	t ta
-771968	fatra xa, xaʾa
+771968	xa, xaʾa fatra
 mən, m-
 l-
 771972	yalla
@@ -46725,22 +46725,22 @@ kalba
 hal, ha-
 ṱ
 hatxa, ʾatxa
-771985	w, ʾu- mara
+771985	mara w, ʾu-
 771990	ʾawwa
 771994	ʾina
-771996	w, ʾu- zina
+771996	zina w, ʾu-
 771999	ġðaðe
 772003	məndi, mdi xa, xaʾa
 ṱ
-la t
+t la
 kətwa
 qam
-772009	ga k̭ora
+772009	k̭ora ga
 ʾana
 mo, mu, modi, maw, mawdi
 772013	ʾən
-ʾaθṛa gu-
-772016	kul, ku, kulla məndi, mdi
+gu- ʾaθṛa
+772016	məndi, mdi kul, ku, kulla
 772018	t
 ʾina
 ʾana
@@ -46750,7 +46750,7 @@ lazəm
 772029	kətwa
 qam
 772032	də-, de-
-ču məndi, mdi
+məndi, mdi ču
 772035	la
 huðaya
 spisa
@@ -46773,12 +46773,12 @@ məndi, mdi
 diya
 w, ʾu- naša
 772073	qəm-
-772076	ʾəšta gu-
+772076	gu- ʾəšta
 šawwa
 yoma
 ʾaširət
 772083	qəm-
-772086	xa, xaʾa tre, treʾe
+772086	tre, treʾe xa, xaʾa
 ʾotəx, ʾotaxa
 772090	diya
 b-
@@ -46796,13 +46796,13 @@ mur
 zina
 772116	tre, treʾe
 xa, xaʾa
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 ʾawwa
 772122	bahs, bas
 772126	xaθa
 la
 772132	zina
-ga ʾɛni
+ʾɛni ga
 zina
 ʾaxni
 772137	ʾawwa
@@ -46810,32 +46810,32 @@ zina
 772142	w, ʾu-
 hatxa, ʾatxa
 šula
-w, ʾu- məndi, mdi
-ʾana w, ʾu-
+məndi, mdi w, ʾu-
+w, ʾu- ʾana
 772148	ʾaxxa
-l- tamma
+tamma l-
 772152	ʾən
 hatxa, ʾatxa
 772156	b-
-ʾaw, ʾo xa, xaʾa
+xa, xaʾa ʾaw, ʾo
 gala
 772160	xena, xrena
 ʾən
 hadəx
-772165	w, ʾu- ʾap, ʾup
+772165	ʾap, ʾup w, ʾu-
 məndi, mdi
 772170	ʾawwa
 772173	məndi, mdi
 raba
 xa, xaʾa huðaya
-772177	brata ṭḷaθa, ṭḷa
+772177	ṭḷaθa, ṭḷa brata
 mara
 772181	qa-
 772183	tiwa
 b- diwən
 w, ʾu- naša
 kul, ku, kulla
-772188	diwən gu-
+772188	gu- diwən
 772191	b-
 ga, gaya ṭḷaθa, ṭḷa
 772196	la
@@ -46844,7 +46844,7 @@ b-
 mo, mu, modi, maw, mawdi
 772202	b-
 naša
-772209	ṭla-, ta- zina
+772209	zina ṭla-, ta-
 t
 772214	zina
 mu, mut
@@ -46853,12 +46853,12 @@ mu, mut
 772222	w, ʾu-
 ṱ
 772226	b-
-ʾaw ʾalma
+ʾalma ʾaw
 ṱ
 772230	tama
 ʾaxxa
-l- tamma
-772234	ʾap, ʾup ʾay
+tamma l-
+772234	ʾay ʾap, ʾup
 772236	hatxa, ʾatxa
 b- panjăra, panjara, panjɛra, panjăriya, panjăriye
 ʾina
@@ -46876,18 +46876,18 @@ w, ʾu-
 772261	dukθa, duka
 772264	dukθa, duka
 772268	panjăra, panjara, panjɛra, panjăriya, panjăriye l-
-w, ʾu- zina
+zina w, ʾu-
 ʾay
-772272	panjăra, panjara, panjɛra, panjăriya, panjăriye gu-
+772272	gu- panjăra, panjara, panjɛra, panjăriya, panjăriye
 šurela
 la draya
 bala
 l-
 šurela
 772279	b- zina
-772282	ʾiða ṭḷaθa, ṭḷa
+772282	ṭḷaθa, ṭḷa ʾiða
 772289	ʾana
-772295	ʾay, ʾey, ʾɛ, ʾa t
+772295	t ʾay, ʾey, ʾɛ, ʾa
 gu-
 ʾay
 qəm-
@@ -46896,9 +46896,9 @@ w, ʾu-
 772305	l- hatxa, ʾatxa
 naša
 772310	dmixa
-šwiθa gu-
+gu- šwiθa
 ʾəḷḷaya, ḷaya
-w, ʾu- gu-
+gu- w, ʾu-
 nama
 ʾay
 772320	qa-
@@ -46925,20 +46925,20 @@ t
 reša
 772373	ʾaqla
 w, ʾu-
-w, ʾu- reša
+reša w, ʾu-
 772378	ʾaw, ʾo
 772381	t ṭḷaθa, ṭḷa ʾaw, ʾo
-ʾaw biš
+biš ʾaw
 šeðana
 ʾap, ʾup xa, xaʾa
 772386	la
-772388	diwən gu-
+772388	gu- diwən
 772392	bɛθa l-
 772394	ṭla-, ta-
 772398	ʾədyo, ʾədyoma
 772406	mo, mu, modi, maw, mawdi ṭla-, ta-
 772409	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
+qəṣṣət, qəṣṣətta w, ʾu-
 772414	lɛle
 772416	baθər, bar
 772423	ʾati
@@ -46946,51 +46946,51 @@ qam
 772428	ṱ
 772430	xarja
 w, ʾu- ʾati
-šeta xa, xaʾa
+xa, xaʾa šeta
 ʾati
-772435	səjən gu-
-qam ṱ
+772435	gu- səjən
+ṱ qam
 772438	mən, m- habsa
 772442	w, ʾu- ʾaw
 xa, xaʾa
 772445	xa, xaʾa
 w, ʾu-
-mo, mu, modi, maw, mawdi qa-
+qa- mo, mu, modi, maw, mawdi
 772451	ʾawwa
 772456	w, ʾu-
 w, ʾu-
 772461	ha
 mo, mu, modi, maw, mawdi
-772470	ʾana w, ʾu-
+772470	w, ʾu- ʾana
 772472	t
 ṭla-, ta-
-772475	ʾaxni ʾən
+772475	ʾən ʾaxni
 ṱ
 la
 772479	la
 772483	ʾanna
-772485	šeta xa, xaʾa
+772485	xa, xaʾa šeta
 ʾanna
-ṱ dax, daxi
-772491	zəndana gu-
+dax, daxi ṱ
+772491	gu- zəndana
 zəndana
 772494	habsa
 səjən
 772497	tama
-w, ʾu- yoma
-w, ʾu- yoma ṭla-, ta-
-məṭya hal, ha-
+yoma w, ʾu-
+ṭla-, ta- yoma w, ʾu-
+hal, ha- məṭya
 šeta
 bena xa, xaʾa
 772506	w, ʾu-
 772510	l-
-772515	gare l-
+772515	l- gare
 772517	qəm-
 772519	ṭḷaθa, ṭḷa
 swariya
 l-
 bɛθa
-gare mən, m- har rēš-, rəš-, rš-, š-
+mən, m- rēš-, rəš-, rš-, š- har gare
 772527	mən, m-
 ṱ
 772531	xarja
@@ -46998,14 +46998,14 @@ gare mən, m- har rēš-, rəš-, rš-, š-
 ṭla-, ta-
 mən, m- yoma
 772538	habsa gu-
-w, ʾu- ʾədyo, ʾədyoma hal, ha-
+hal, ha- w, ʾu- ʾədyo, ʾədyoma
 ʾanna
 772546	l-
 772549	hadiya, diya, hadayya
 772553	pərṣət
 diya
 772556	yaba
-mo, mu, modi, maw, mawdi qa-
+qa- mo, mu, modi, maw, mawdi
 772559	ʾaxni
 772561	ʾati
 la
@@ -47014,7 +47014,7 @@ b-
 ṱ
 ʾaxni
 ʾati
-772570	zəndana gu-
+772570	gu- zəndana
 habsa gu-
 772573	hadiya, diya, hadayya
 772576	w, ʾu-
@@ -47055,7 +47055,7 @@ brata
 la
 772638	hadiya, diya, hadayya
 772642	ʾayya
-šeta xa, xaʾa
+xa, xaʾa šeta
 772645	tamma
 laxxa
 772649	hadiya, diya, hadayya
@@ -47067,18 +47067,18 @@ barbiya
 xaṭər
 772658	w, ʾu- ṱ
 gawra
-l- xena, xrena xa, xaʾa
+xena, xrena l- xa, xaʾa
 ʾawwa
 la
 772664	qamaya
-772666	gawra xoš də-, de-
+772666	də-, de- xoš gawra
 xo, xoθ-
 ʾana har
 gawṛa, gʸawṛa
 772671	biš gawṛa, gʸawṛa
-772673	šapira biš
+772673	biš šapira
 w, ʾu-
-biš xoš gawṛa, gʸawṛa
+xoš biš gawṛa, gʸawṛa
 la
 772678	t ha
 brata
@@ -47086,7 +47086,7 @@ brata
 ʾaxxa
 zina
 772685	ṭlaba
-ʾalaha mən, m-
+mən, m- ʾalaha
 772688	mara
 ʾalaha ya
 772692	hal, ha- ʾay, ʾey, ʾɛ, ʾa
@@ -47121,14 +47121,14 @@ dəmma
 jalda
 772747	la
 772750	ʾana
-772753	mən, m- səjən gu-
+772753	mən, m- gu- səjən
 772756	ʾana
-772758	mən, m- səjən gu-
+772758	mən, m- gu- səjən
 772761	ʾayya
 772763	mən, m- gu-
 772766	ʾana
 772769	ʾaxxa
-l- tamma
+tamma l-
 la
 xɛla
 ʾawwa
@@ -47137,24 +47137,24 @@ hadəx
 772779	šurela
 772781	w, ʾu-
 w, ʾu-
-w, ʾu- ṭla-, ta- xona
+ṭla-, ta- xona w, ʾu-
 772787	bena ʾay, ʾey, ʾɛ, ʾa
 ʾaxxa
 kul, ku, kulla
-772791	ga ʾay, ʾey, ʾɛ, ʾa
+772791	ʾay, ʾey, ʾɛ, ʾa ga
 772793	b-
-772799	smoqa w, ʾu-
+772799	w, ʾu- smoqa
 xwara w, ʾu-
 w, ʾu-
-772803	w, ʾu- qedamta
+772803	qedamta w, ʾu-
 ʾana
 772806	ʾaṣərta
-w, ʾu- šurela
+šurela w, ʾu-
 hatxa, ʾatxa
 772814	ʾaw
 772823	diya
 ʾaw
-qam ṱ
+ṱ qam
 772827	ṭla-, ta-
 772830	hadiya, diya, hadayya
 ʾana
@@ -47167,37 +47167,37 @@ mən, m- baθər, bar
 772840	ʾaw qəṭma
 772843	ʾap, ʾup zina
 772848	hatxa, ʾatxa
-qəṭma ʾaw, ʾo
-772851	b- w, ʾu- reša
+ʾaw, ʾo qəṭma
+772851	b- reša w, ʾu-
 772853	šula
 772858	zina
 zina
-772861	mo, mu, modi, maw, mawdi qa-
+772861	qa- mo, mu, modi, maw, mawdi
 772863	hatxa, ʾatxa
 772865	ʾana
-ču məndi, mdi
+məndi, mdi ču
 772869	ṣawθa bahs, bas
 ʾana
-772872	ču məndi, mdi
+772872	məndi, mdi ču
 772874	ʾana
 772878	ṭasa
 772880	miya
-772882	w, ʾu- samma, sama
+772882	samma, sama w, ʾu-
 772885	samma, sama
 baθər, bar
 ġðaðe
-ṱ ha
+ha ṱ
 772891	nuṭa
 b- reša
 772894	w, ʾu-
-772899	qəṭma ʾaw, ʾo
+772899	ʾaw, ʾo qəṭma
 kul, ku, kulla
 772902	gu- julla xa, xaʾa
 w, ʾu-
 772905	w, ʾu-
 šurela
 ṭlaba
-ʾalaha mən, m-
+mən, m- ʾalaha
 t ta
 ʾap, ʾup
 772912	ʾixala
@@ -47217,7 +47217,7 @@ t
 772939	la
 la
 naša
-w, ʾu- la
+la w, ʾu-
 ʾati
 772945	la
 ʾap, ʾup xa, xaʾa
@@ -47227,18 +47227,18 @@ la
 772952	šurela
 w, ʾu-
 šurela
-772956	b- w, ʾu- gana, jana
+772956	b- gana, jana w, ʾu-
 šurela
-xala la
-ʾayya ʾap, ʾup t ha
-772963	ʾap, ʾup ʾay
-772965	qawra gu-
+la xala
+t ʾap, ʾup ha ʾayya
+772963	ʾay ʾap, ʾup
+772965	gu- qawra
 772967	ġðaðe
 772971	ʾaw qəṭma
 772973	b- rēš-, rəš-, rš-, š- qawra
 772976	xa, xaʾa
 xurta, xorta
-zawga xa, xaʾa
+xa, xaʾa zawga
 772980	b-
 qawra
 772983	kawe xa, xaʾa
@@ -47250,19 +47250,19 @@ xa, xaʾa
 xuwwe
 ʾi-
 l-
-xurta, xorta tre, treʾe
+tre, treʾe xurta, xorta
 kut
 772999	qamaya
-773001	daliθa ʾay, ʾey, ʾɛ, ʾa
-773004	w, ʾu- hal, ha- hadiya, diya, hadayya
-773006	dukθa, duka ʾay, ʾey, ʾɛ, ʾa
-773008	w, ʾu- tama
+773001	ʾay, ʾey, ʾɛ, ʾa daliθa
+773004	hal, ha- hadiya, diya, hadayya w, ʾu-
+773006	ʾay, ʾey, ʾɛ, ʾa dukθa, duka
+773008	tama w, ʾu-
 773010	laxxa
 ʾawwa
 773015	mən, m-
 773017	xa, xaʾa
 gawṛa, gʸawṛa
-w, ʾu- xɛlana
+xɛlana w, ʾu-
 zaxma
 773022	la
 qəm-
@@ -47271,20 +47271,20 @@ malka qam
 773029	l- ṭura
 w, ʾu-
 genawuθa
-w, ʾu- qačaxuθa
+qačaxuθa w, ʾu-
 w, ʾu-
 naša
 raba
-773038	har ṭura gu-
-773040	ṭura gu-
+773038	gu- ṭura har
+773040	gu- ṭura
 w, ʾu-
-ṣɛda l-
+l- ṣɛda
 773044	ṭɛra, ṭara
 w, ʾu- heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 773047	məndi, mdi
-773049	bɛθa gu-
+773049	gu- bɛθa
 yoma xa, xaʾa
-773052	ṣɛda l-
+773052	l- ṣɛda
 773054	ʾarya, ʾɛrya xa, xaʾa
 773058	ʾarya, ʾɛrya xa, xaʾa
 773062	ṭaləb
@@ -47292,9 +47292,9 @@ yoma xa, xaʾa
 773065	ʾasbab
 tope
 773072	w, ʾu-
-773074	ʾarya, ʾɛrya qa-
+773074	qa- ʾarya, ʾɛrya
 w, ʾu-
-773077	bɛθa gu-
+773077	gu- bɛθa
 773079	qaṣra
 773082	qaṣra
 goṛa
@@ -47309,10 +47309,10 @@ w, ʾu-
 773095	kul, ku, kulla
 heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 773099	kul, ku, kulla
-bɛθa gu-
+gu- bɛθa
 773102	l-
 773105	ʾani, ʾan heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
-773108	w, ʾu- tela, tala, taʾla
+773108	tela, tala, taʾla w, ʾu-
 773111	ṱ
 gallək
 naša
@@ -47322,7 +47322,7 @@ heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 773121	ʾaxni
 773123	b- ġðaðe
 ʾaw
-l- xa, xaʾa
+xa, xaʾa l-
 773128	lɛle
 773130	xa, xaʾa
 lazəm
@@ -47349,7 +47349,7 @@ lazəm
 773176	baxta
 ʾina
 ʾaxxa
-773184	dəbba ṭla-, ta-
+773184	ṭla-, ta- dəbba
 dəbba
 773188	šabθa xa, xaʾa
 773191	ʾərba xa, xaʾa
@@ -47358,11 +47358,11 @@ bəsra
 773195	bəsra
 laxxa
 ṱ
-w, ʾu- ʾawwa
+ʾawwa w, ʾu-
 gəlda
 773202	zaringər
 773204	kut məzze
-xa, xaʾa zaga
+zaga xa, xaʾa
 773209	qa-
 ʾina
 773214	tmanya
@@ -47375,47 +47375,47 @@ dax, daxi
 773224	ʾaġa, ʾaxa
 dəbba
 773227	dəbba
-773232	w, ʾu- ʾərba xa, xaʾa
+773232	ʾərba xa, xaʾa w, ʾu-
 w, ʾu-
 w, ʾu-
 dəbba
 773237	ṭabbaxta
-773240	w, ʾu- ʾarya, ʾɛrya
+773240	ʾarya, ʾɛrya w, ʾu-
 xa, xaʾa
-w, ʾu- nəmra
-gota xa, xaʾa
+nəmra w, ʾu-
+xa, xaʾa gota
 ʾanna
-773246	w, ʾu- ʾanna
+773246	ʾanna w, ʾu-
 773248	heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 773250	ʾani, ʾan
 kul, ku, kulla
-bɛθa gu-
+gu- bɛθa
 773254	ču šula
 mara
 dəbba
-773258	wana ʾay
+773258	ʾay wana
 w, ʾu-
-w, ʾu- bəsra
-773263	w, ʾu- gəlda ʾaw, ʾo
+bəsra w, ʾu-
+773263	ʾaw, ʾo w, ʾu- gəlda
 773265	zaringər
 zaringər
 773269	kut məzze
 zaga
 773272	w, ʾu-
-773275	ṭla-, ta- tela, tala, taʾla
-773277	dəbba ṭla-, ta-
+773275	tela, tala, taʾla ṭla-, ta-
+773277	ṭla-, ta- dəbba
 773279	ʾati
 773281	ʾawwa
 gəlda
 l-
-ʾana w, ʾu-
+w, ʾu- ʾana
 773286	ṱ
-mðita gu-
+gu- mðita
 ʾana
 773290	w, ʾu- ʾati
 də-, de-
 773295	malka
-773297	gare l-
+773297	l- gare
 simarxa, simɛrxa
 ṱ
 773301	w, ʾu-
@@ -47428,12 +47428,12 @@ bena xa, xaʾa
 773315	gana, jana
 hazər, haẓər, hað̣ər
 simarxa, simɛrxa
-773321	ʾap, ʾup ʾay
-w, ʾu- bena xa, xaʾa
+773321	ʾay ʾap, ʾup
+bena xa, xaʾa w, ʾu-
 simarxa, simɛrxa
 773326	rēš-, rəš-, rš-, š- mðita
-dəbba w, ʾu-
-w, ʾu- tela, tala, taʾla
+w, ʾu- dəbba
+tela, tala, taʾla w, ʾu-
 773333	zala
 dəbba
 773336	qam
@@ -47444,26 +47444,26 @@ hatxa, ʾatxa
 t ta
 773344	malka
 t
-gare rēš-, rəš-, rš-, š-
+rēš-, rəš-, rš-, š- gare
 ʾina
-panjăra, panjara, panjɛra, panjăriya, panjăriye gu-
+gu- panjăra, panjara, panjɛra, panjăriya, panjăriye
 773352	mo, mu, modi, maw, mawdi
 lɛle
 mara
 tela, tala, taʾla
 har
 ʾəlla
-w, ʾu- diya
+diya w, ʾu-
 773360	ʾay
 nara
 diya
 w, ʾu- ʾaw
 773366	bena xa, xaʾa
 773368	malka
-773370	gare l-
-ṱ dax, daxi
-773373	gare l-
-ʾaw, ʾo simarxa, simɛrxa
+773370	l- gare
+dax, daxi ṱ
+773373	l- gare
+simarxa, simɛrxa ʾaw, ʾo
 773376	gana, jana
 ʾəlla
 diya
@@ -47472,23 +47472,23 @@ w, ʾu-
 773384	hawar, hawər
 diya
 ʾaxxa
-l- tamma
+tamma l-
 w, ʾu- baθər, bar
-w, ʾu- tela, tala, taʾla
+tela, tala, taʾla w, ʾu-
 baθər, bar
 dəbba
 773394	qaṣra l-
 773400	tama
-qəm- ʾay
+ʾay qəm-
 tama
 773405	w, ʾu-
 773408	w, ʾu-
 baxta
-773413	fatra xa, xaʾa
+773413	xa, xaʾa fatra
 ṭḷaθa, ṭḷa
-ʾarba, ʾarpa yarxa, yɛrxa
+yarxa, yɛrxa ʾarba, ʾarpa
 773418	kut ʾaw
-773420	ṣɛda l-
+773420	l- ṣɛda
 773422	ʾilana
 rēš-, rəš-, rš-, š-
 773425	zaxma
@@ -47504,7 +47504,7 @@ heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 w, ʾu- ṱ
 ʾap, ʾup ʾaw
 773439	w, ʾu-
-ʾap, ʾup ʾay
+ʾay ʾap, ʾup
 xala
 773443	diya
 773445	ʾəšta xa, xaʾa
@@ -47512,7 +47512,7 @@ xala
 yarxa, yɛrxa
 malka
 773450	ʾana
-kut ṱ dax, daxi
+dax, daxi kut ṱ
 773454	ʾɛni
 773456	kut
 773458	t
@@ -47529,7 +47529,7 @@ sere
 773477	dax, daxi
 xaṭər
 mara
-773481	lina gu-
+773481	gu- lina
 lina
 773484	masina
 773487	ʾay
@@ -47543,10 +47543,10 @@ mən, m-
 773510	ma
 773512	qaṣra l-
 ʾarya, ʾɛrya
-773515	gota l- xa, xaʾa
-w, ʾu- nəmra
-gota xa, xaʾa
-773519	kut xa, xaʾa
+773515	xa, xaʾa l- gota
+nəmra w, ʾu-
+xa, xaʾa gota
+773519	xa, xaʾa kut
 ṭla-, ta-
 773522	ṱ
 773524	ʾaġa, ʾaxa
@@ -47564,7 +47564,7 @@ məndi, mdi
 773550	naxraya
 laxxa
 773553	naša
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 773557	ṱ
 laxxa
@@ -47574,11 +47574,11 @@ diya
 diya
 diya
 ʾaxxa
-l- tamma
+tamma l-
 773572	t
 dax, daxi
 773575	ʾayya brata
-malka t
+t malka
 t ta
 773579	ʾɛni
 773583	bɛθa
@@ -47586,11 +47586,11 @@ t ta
 773587	ʾana
 mo, mu, modi, maw, mawdi
 773590	də-, de-
-ʾăyaha, yaha; ʾăyaʾha, yaʾha b-
+b- ʾăyaha, yaha; ʾăyaʾha, yaʾha
 də-, de-
 773595	mən, m- šəxta
 ʾanna
-ʾəšta yarxa, yɛrxa
+yarxa, yɛrxa ʾəšta
 773600	də-, de-
 xa, xaʾa
 773604	ʾaxni
@@ -47600,8 +47600,8 @@ lɛle
 b-
 773616	t ta
 w, ʾu-
-lina gu-
-w, ʾu- bena xa, xaʾa
+gu- lina
+bena xa, xaʾa w, ʾu-
 773622	bɛθa l-
 773624	l-
 baba
@@ -47615,7 +47615,7 @@ liθ
 diya
 t ta
 ʾina
-dukθa, duka la ču har
+la har ču dukθa, duka
 773646	ʾaġa, ʾaxa
 773650	dəbba
 773652	dax, daxi
@@ -47623,9 +47623,9 @@ dukθa, duka la ču har
 773655	ʾana
 t
 w, ʾu-
-773659	la t ta
-har ʾanna
-773662	w, ʾu- hadiya, diya, hadayya
+773659	t ta la
+ʾanna har
+773662	hadiya, diya, hadayya w, ʾu-
 773664	malka
 har
 ʾaxni
@@ -47633,13 +47633,13 @@ w, ʾu-
 773669	ʾay
 jalda
 ṱ
-gare l-
+l- gare
 mara
 773676	tela, tala, taʾla
-773680	gəlda ʾaw, ʾo
+773680	ʾaw, ʾo gəlda
 bena ʾaw, ʾo
 773687	ṭina
-w, ʾu- təqna
+təqna w, ʾu-
 773692	malka
 773694	dəbba
 773696	hawar, hawər
@@ -47651,28 +47651,28 @@ dəbba
 773708	tela, tala, taʾla
 w, ʾu-
 malka
-773712	gare l-
+773712	l- gare
 773714	malka
-773716	gare l-
+773716	l- gare
 bena xa, xaʾa
 simarxa, simɛrxa
 773721	diya
 w, ʾu-
 w, ʾu-
 w, ʾu-
-bɛθa gu-
+gu- bɛθa
 bena xa, xaʾa
 xeta, xreta
 yaba
 malka
 773731	mara
-773734	w, ʾu- ʾaxxa
+773734	ʾaxxa w, ʾu-
 tamma
 773737	kut
 ʾana
 t
 zuze
-ṱ ʾax
+ʾax ṱ
 bena xa, xaʾa
 xeta, xreta
 773745	ʾana
@@ -47684,36 +47684,36 @@ bena ʾay
 ʾana
 773758	he
 də-, de-
-773761	lina gu-
+773761	gu- lina
 diya
 bena xa, xaʾa
 xeta, xreta
 w, ʾu-
 773770	qaṣra
 773772	lina
-gota l- xa, xaʾa
-773776	ga ʾax
+xa, xaʾa l- gota
+773776	ʾax ga
 qamaya
 773780	mən, m-
 w, ʾu-
 tamma
 ma
 mən, m-
-773786	dukθa, duka mən, m-
+773786	mən, m- dukθa, duka
 773793	ʾarya, ʾɛrya ṭla-, ta-
 ʾarya, ʾɛrya
-773801	w, ʾu- ʾati
+773801	ʾati w, ʾu-
 nəmra
-773805	ʾay, ʾey, ʾɛ, ʾa baxta
+773805	baxta ʾay, ʾey, ʾɛ, ʾa
 laxxa
 773809	hatxa, ʾatxa
 reša
 xtaya
-kut xa, xaʾa
+xa, xaʾa kut
 773816	diya
 ʾən xa, xaʾa
-773819	bar xena, xrena
-773821	har ʾaxtu
+773819	xena, xrena bar
+773821	ʾaxtu har
 kəlya
 773825	mən, m- ġðaðe
 w, ʾu-
@@ -47723,7 +47723,7 @@ kul, ku, kulla
 ṱ
 ʾayya
 773833	ləbba
-773836	ga ʾax
+773836	ʾax ga
 qamaya
 773840	tama
 ha
@@ -47734,8 +47734,8 @@ hatxa, ʾatxa
 773854	ʾiða
 l- ʾaqla
 773857	ʾaqla
-l- bar
-w, ʾu- reša
+bar l-
+reša w, ʾu-
 xtaya
 w, ʾu-
 773863	qəm-
@@ -47746,7 +47746,7 @@ heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
 w, ʾu-
 xeta, xreta
 773873	yaba
-773880	fatra xa, xaʾa
+773880	xa, xaʾa fatra
 hatxa, ʾatxa
 w, ʾu-
 malka
@@ -47754,17 +47754,17 @@ malka
 773889	quwwət
 773891	quwwət
 w, ʾu-
-ṱ ta
+ta ṱ
 773897	kul, ku, kulla ṱ
 773899	məṭya
 tama
 heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
-773903	har heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən
+773903	heywən, hɛwən, haywən, ḥeywən, ḥɛwən, ḥaywən har
 773907	ʾay, ʾey, ʾɛ, ʾa
 773910	majbur
 773914	baxta
 w, ʾu-
-773918	dukθa, duka xa, xaʾa
+773918	xa, xaʾa dukθa, duka
 xeta, xreta
 ʾaw
 w, ʾu-
@@ -47777,29 +47777,29 @@ xa, xaʾa
 məndi, mdi
 ʾina
 773937	ʾalaha
-la də-, de-
+də-, de- la
 ʾən
 773941	mo, mu, modi, maw, mawdi
 ṱ
 dəbba
 773945	ʾalaha
-la də-, de-
+də-, de- la
 ʾati
 773950	hatxa, ʾatxa
 rēš-, rəš-, rš-, š-
-w, ʾu- ʾəsri ʾarba, ʾarpa
+ʾəsri w, ʾu- ʾarba, ʾarpa
 ṱ
 hatxa, ʾatxa
 773957	pawxa
 məndi, mdi
 773961	ʾana
-w, ʾu- ʾarya, ʾɛrya
+ʾarya, ʾɛrya w, ʾu-
 773964	ṭla-, ta-
 773966	šalla ʾən
 la
-773969	w, ʾu- nəmra
+773969	nəmra w, ʾu-
 hadəx
-w, ʾu- kul, ku, kulla
+kul, ku, kulla w, ʾu-
 hadəx
 kul, ku, kulla
 773977	t ma
@@ -47809,8 +47809,8 @@ kul, ku, kulla
 773988	mən, m-
 773990	ʾarya, ʾɛrya
 773992	mara
-dəbba ṭla-, ta-
-ʾati də-, de-
+ṭla-, ta- dəbba
+də-, de- ʾati
 773996	ʾixala
 774001	ʾəlla
 ʾayya
@@ -47821,7 +47821,7 @@ hatxa, ʾatxa
 774015	l-
 774017	mara
 774019	rēš-, rəš-, rš-, š-
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 p̣ena
 774024	w, ʾu- hatxa, ʾatxa
@@ -47830,19 +47830,19 @@ hatxa, ʾatxa
 xaṭər
 ʾalaha
 la
-774036	w, ʾu- t ta
-774039	w, ʾu- ʾaxxa
+774036	t ta w, ʾu-
+774039	ʾaxxa w, ʾu-
 tamma
 yoma xa, xaʾa
 har
-duzuθa b-
-774045	duzuθa b-
+b- duzuθa
+774045	b- duzuθa
 w, ʾu-
 tama
 w, ʾu-
 774050	ʾap, ʾup xa, xaʾa
 774052	ṱ
-dukθa, duka ču
+ču dukθa, duka
 ʾixala
 ʾap, ʾup xa, xaʾa
 lɛle
@@ -47850,36 +47850,36 @@ lɛle
 774062	ṱ
 l- tama
 774066	majbur
-ṱ ha
+ha ṱ
 rixa
 774072	spisa
 mən, m- tama
 hodəx
 774076	ʾarya, ʾɛrya
 774078	ʾaqla
-774080	gəlda l-
+774080	l- gəlda
 774082	gəlda
 774088	yalla
-kut xa, xaʾa
+xa, xaʾa kut
 774094	w, ʾu-
 774098	tama
 w, ʾu-
 laxxa
-774102	brata xa, xaʾa
+774102	xa, xaʾa brata
 šəmma
-774107	ʾumra gu-
+774107	gu- ʾumra
 qurbana
 qa- ṱ
 774111	yoma
 la
-ṱ ma
+ma ṱ
 xamθa
 šapira
 kawsa
 laxxa
 774120	šawwa
 774123	la
-774125	bɛθa mən, m-
+774125	mən, m- bɛθa
 ʾaxni
 774128	ʾani, ʾan
 774130	la
@@ -47890,7 +47890,7 @@ jalda
 ʾanna
 774141	la
 774143	ʾumra
-qa- t
+t qa-
 dašta
 774147	rakawa
 ʾarabaya
@@ -47902,9 +47902,9 @@ diya
 goṛa ʾaw, ʾo
 lɛle
 774161	xaθa
-dax, daxi xanum
+xanum dax, daxi
 ʾay
-bɛθa gu-
+gu- bɛθa
 la
 qəm-
 774168	ʾaw, ʾo
@@ -47913,19 +47913,19 @@ qəm-
 kɛla
 774180	xamši
 yoma
-774184	la t
+774184	t la
 774186	yoma ʾaw, ʾo
 t
 dašta
 774190	rakawa
 774194	l- ʾarabaya
 774196	l- ʾaθṛa
-xtaya t
+t xtaya
 ʾaw
 w, ʾu-
-774202	ʾap, ʾup xena, xrena
+774202	xena, xrena ʾap, ʾup
 hadəx
-ʾap, ʾup xena, xrena
+xena, xrena ʾap, ʾup
 hadəx
 ʾaw, ʾo
 kul, ku, kulla
@@ -47933,13 +47933,13 @@ kul, ku, kulla
 774211	ʾaw, ʾo
 774218	xamši
 yoma
-774222	la t
+774222	t la
 774224	yoma ʾaw, ʾo
 t
 dašta
 774228	rakawa
 774235	l- ʾaθṛa
-xtaya t
+t xtaya
 kɛla
 774242	ṱ
 ʾana
@@ -47964,7 +47964,7 @@ balki
 774290	w, ʾu-
 w, ʾu-
 w, ʾu-
-774294	xa, xaʾa l- maθa
+774294	maθa l- xa, xaʾa
 774298	naša
 774300	he
 774302	kɛla
@@ -47991,17 +47991,17 @@ diya
 774350	mən, m- ʾəltəx
 774352	xadamta, xadəmθa, xaddamta, xaddamθa
 bena
-774356	ʾaw sawa
+774356	sawa ʾaw
 mo, mu, modi, maw, mawdi
 774359	sawa
 774361	šawwa
 šeta
-ʾurxa b-
+b- ʾurxa
 zala
 774367	ṣawle
 774371	məskena
 ʾawwa
-774375	dukθa, duka ču
+774375	ču dukθa, duka
 774377	gu- maθa
 ham
 774380	gu-
@@ -48024,27 +48024,27 @@ mən, m-
 774423	ʾay, ʾey, ʾɛ, ʾa
 ya
 ʾəstaðta
-774428	ʾana w, ʾu-
-šawwa šeta ʾanna
+774428	w, ʾu- ʾana
+ʾanna šeta šawwa
 774431	ʾina
-774435	w, ʾu- pilawe
+774435	pilawe w, ʾu-
 774440	t
 774445	xoš
 774448	hatxa, ʾatxa
 ʾawwa
-774452	l- ṭabəq, ṭabaq
+774452	ṭabəq, ṭabaq l-
 t ṭḷaθa, ṭḷa
 774455	gana, jana
 diya
 774459	ʾana
 bəd, bud
-774462	ʾana ʾap, ʾup
+774462	ʾap, ʾup ʾana
 bəd, bud
 774466	gana, jana
 diya
 tama
 774471	ġðaðe
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 774474	qəm-
 774477	ʾanna
 774483	ʾupra
@@ -48052,7 +48052,7 @@ ga ʾay, ʾey, ʾɛ, ʾa
 774487	tama
 w, ʾu-
 laxxa
-774491	malka xa, xaʾa
+774491	xa, xaʾa malka
 774493	ṭḷaθa, ṭḷa
 brona
 malka ʾaw, ʾo
@@ -48064,20 +48064,20 @@ taqriban
 774506	k̭ora
 774509	qa- brona
 774513	čara, čɛra, kʸɛr xa, xaʾa
-774515	daṛmana xa, xaʾa
-ʾɛni qa-
-qa- t
+774515	xa, xaʾa daṛmana
+qa- ʾɛni
+t qa-
 774519	našuθa
 məndi, mdi
-774529	kut xa, xaʾa
+774529	xa, xaʾa kut
 774531	zuze
-774533	kut xa, xaʾa
+774533	xa, xaʾa kut
 774539	daṛmana
-ʾɛni qa-
-774543	brona t
+qa- ʾɛni
+774543	t brona
 774545	w, ʾu-
 774547	brona
-774550	dunye gu-
+774550	gu- dunye
 774552	ʾal-
 daṛmana
 t ta
@@ -48092,23 +48092,23 @@ gu-
 mðita
 mo, mu, modi, maw, mawdi
 ṱ
-774572	šula xa, xaʾa
+774572	xa, xaʾa šula
 w, ʾu-
-774575	daṛmana bəd, bud
+774575	bəd, bud daṛmana
 ṭla-, ta-
 774581	b- xa, xaʾa
 naša
 774586	yaba
 ʾana
 774593	he
-mo, mu, modi, maw, mawdi qa-
+qa- mo, mu, modi, maw, mawdi
 la
 774597	kəma
 t
 774600	t
 xamši
-774603	kut yarxa, yɛrxa
-kut yarxa, yɛrxa
+774603	yarxa, yɛrxa kut
+yarxa, yɛrxa kut
 t
 xamši
 774608	w, ʾu-
@@ -48117,16 +48117,16 @@ paloxaya
 774612	ma
 goṛa ʾaw, ʾo
 774615	tama
-774617	ʾani, ʾan tre, treʾe
-774620	ʾani, ʾan tre, treʾe
-ʾap, ʾup ʾaw, ʾo gawaya
-774623	mðita xa, xaʾa
+774617	tre, treʾe ʾani, ʾan
+774620	tre, treʾe ʾani, ʾan
+gawaya ʾap, ʾup ʾaw, ʾo
+774623	xa, xaʾa mðita
 774626	ʾap, ʾup
 774628	laxxa
-774630	šula bəd, bud
-774632	šula xa, xaʾa
+774630	bəd, bud šula
+774632	xa, xaʾa šula
 laxxa
-daṛmana qa-
+qa- daṛmana
 ṭla-, ta-
 774639	xa, xaʾa
 774641	b- surəθ
@@ -48135,21 +48135,21 @@ daṛmana qa-
 774647	ʾana
 774650	ṛiya
 774653	la
-774655	mo, mu, modi, maw, mawdi qa-
+774655	qa- mo, mu, modi, maw, mawdi
 la
 t
 xamši
-774660	kut yarxa, yɛrxa
+774660	yarxa, yɛrxa kut
 774662	ma
 ʾap, ʾup ʾaw
 774665	tama
 774667	zora ʾaw, ʾo
 zora ʾaw, ʾo
-774670	ʾurxa b-
+774670	b- ʾurxa
 774674	ʾəšta
 šawwa
 yoma
-774678	naša xa, xaʾa
+774678	xa, xaʾa naša
 sawa
 774681	hal, ha-
 məṭya
@@ -48160,10 +48160,10 @@ məṭya
 774699	b-
 774701	ṱ
 774703	bəd, bud
-w, ʾu- warda, wɛrda
-774708	ṭɛra, ṭara xa, xaʾa
+warda, wɛrda w, ʾu-
+774708	xa, xaʾa ṭɛra, ṭara
 ṭɛra, ṭara ʾaw, ʾo
-parra mən, m-
+mən, m- parra
 774713	b-
 774720	w, ʾu-
 səmya
@@ -48179,13 +48179,13 @@ la
 la
 məndi, mdi xa, xaʾa
 xena, xrena
-b- la t
-ʾana w, ʾu- ʾap, ʾup
-774740	w, ʾu- ʾɛni
+t la b-
+w, ʾu- ʾap, ʾup ʾana
+774740	ʾɛni w, ʾu-
 774743	balki
 774746	l-
 774749	t ta
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 b- ʾɛni
 774753	ʾina
 774756	ʾani, ʾan
@@ -48195,7 +48195,7 @@ lazəm
 w, ʾu- lazəm
 hadəx
 774770	mur
-774773	ṭura xa, xaʾa
+774773	xa, xaʾa ṭura
 ṭura
 ṱ
 774780	ʾati
@@ -48215,14 +48215,14 @@ xtaya
 774809	məlxa
 774813	ṱ
 susa
-774816	w, ʾu- ʾap, ʾup
+774816	ʾap, ʾup w, ʾu-
 ṭura ʾaw, ʾo
 774819	gu-
 774821	găliya, galliya, galli
-774823	pənxa tre, treʾe
+774823	tre, treʾe pənxa
 ṱ
 goṛa
-l- ġðaðe
+ġðaðe l-
 ṱ ʾaw, ʾo
 l-
 dawɛra, dawara
@@ -48234,7 +48234,7 @@ mən, m- kepa, kʸepa
 t
 ġðaðe
 w, ʾu-
-miya rēš-, rəš-, rš-, š-
+rēš-, rəš-, rš-, š- miya
 774840	tre, treʾe
 brata
 ṱ
@@ -48242,28 +48242,28 @@ brata
 774850	l-
 774853	w, ʾu-
 w, ʾu-
-miya rēš-, rəš-, rš-, š-
-miya ʾani, ʾan
-774858	qəsm tre, treʾe
+rēš-, rəš-, rš-, š- miya
+ʾani, ʾan miya
+774858	tre, treʾe qəsm
 774860	w, ʾu-
-miya ʾani, ʾan
+ʾani, ʾan miya
 774863	l-
 774865	ʾarbi
 774868	ʾarya, ʾɛrya
 l-
 gota
-w, ʾu- ʾəzza
+ʾəzza w, ʾu-
 774873	l-
 gota
-qam ʾarya, ʾɛrya
+ʾarya, ʾɛrya qam
 774878	gəlla
-w, ʾu- ʾəzza qam
+ʾəzza w, ʾu- qam
 774882	bəsra
 774884	bəsra
-qam mən, m- ʾəzza
-774887	qam ʾarya, ʾɛrya
+mən, m- ʾəzza qam
+774887	ʾarya, ʾɛrya qam
 gəlla w, ʾu-
-774890	ʾarya, ʾɛrya mən, m-
+774890	mən, m- ʾarya, ʾɛrya
 774892	qa- ʾəzza
 w, ʾu- ṱ
 ʾəsri
@@ -48274,7 +48274,7 @@ w, ʾu- ṱ
 ʾotəx, ʾotaxa
 774907	ṭɛra, ṭara
 diya
-774910	kawe gu-
+774910	gu- kawe
 qam
 t qare
 diga ʾax
@@ -48295,7 +48295,7 @@ b- qɛma
 yoma
 774936	ṭliya
 774940	kθawa
-xo, xoθ- reša
+reša xo, xoθ-
 diya
 774944	qalunka
 tama
@@ -48307,7 +48307,7 @@ w, ʾu-
 774956	mən, m-
 774958	ṭɛra, ṭara
 774960	gu-
-w, ʾu- ṭɛra, ṭara
+ṭɛra, ṭara w, ʾu-
 la
 774965	gu-
 w, ʾu-
@@ -48326,15 +48326,15 @@ mira
 baθər, bar
 hadəx
 šurela
-775001	məlxa gu-
-məlxa ʾap, ʾup
+775001	gu- məlxa
+ʾap, ʾup məlxa
 775005	l-
 tre, treʾe kepa, kʸepa
 t
 b- ġðaðe
 ʾap, ʾup ʾani, ʾan
-775012	miya rēš-, rəš-, rš-, š-
-775014	brata tre, treʾe
+775012	rēš-, rəš-, rš-, š- miya
+775014	tre, treʾe brata
 qəm-
 775018	xulaṣa
 775022	kul, ku, kulla
@@ -48350,7 +48350,7 @@ w, ʾu-
 775058	ṭla-, ta-
 w, ʾu-
 775062	ʾaw
-775066	jeba, jɛba gu-
+775066	gu- jeba, jɛba
 775068	lɛle
 775073	ʾaw, ʾo
 775075	t
@@ -48378,23 +48378,23 @@ xamši
 775126	t
 775128	ʾap, ʾup ʾaw
 qəm-
-w, ʾu- xamši
-775135	zuze la t
+xamši w, ʾu-
+775135	t la zuze
 775140	l-
 bɛθa
 775143	l-
 775145	malka
 bena xa, xaʾa
-775148	bustana xa, xaʾa
+775148	xa, xaʾa bustana
 775150	xabuša
 775152	xa, xaʾa ʾɛna
-be- palga
+palga be-
 ʾaw, ʾo
 zora
 775158	ʾana
 775160	dmixa
 b- la lɛle
-b- yoma la
+b- la yoma
 775167	xanči, xanča
 775169	xačča
 w, ʾu-
@@ -48419,7 +48419,7 @@ diya
 775204	yala
 775209	w, ʾu-
 tama
-w, ʾu- ʾani, ʾan
+ʾani, ʾan w, ʾu-
 775214	məṭya
 bɛθa l-
 775217	lɛle
@@ -48438,17 +48438,17 @@ l-
 775248	yawna xa, xaʾa
 775250	rēš-, rəš-, rš-, š-
 ʾilana
-xabuša t
+t xabuša
 775257	ʾən
-775260	w, ʾu- ʾən
+775260	ʾən w, ʾu-
 775263	hadiya, diya, hadayya
 b-
 775267	parra
-775273	čappa t
+775273	t čappa
 775275	fəllən, pəllən, flan
 dukθa, duka
 w, ʾu-
-yamne t
+t yamne
 775280	fəllən, pəllən, flan
 dukθa, duka
 775284	b-
@@ -48467,23 +48467,23 @@ parra
 775308	xanči, xanča
 775310	vərra
 775312	qəm-
-miya ʾani, ʾan
-parra mən, m-
+ʾani, ʾan miya
+mən, m- parra
 rēš-, rəš-, rš-, š-
 775318	xanči, xanča
-775322	naša ṭla-, ta-
+775322	ṭla-, ta- naša
 yaba
 la
-775326	šula xa, xaʾa
+775326	xa, xaʾa šula
 məndi, mdi xa, xaʾa
 775330	malka be-
-775332	pəlxana ču
+775332	ču pəlxana
 775334	bahs, bas
 775339	t ta
 ʾani, ʾan
 bahs, bas
 775343	ma
-775347	goma gu-
+775347	gu- goma
 775349	w, ʾu-
 775353	bəd, bud
 775356	ṭɛra, ṭara
@@ -48506,13 +48506,13 @@ goṛa ʾaw, ʾo
 775397	reša
 ʾawwa
 775400	reša
-775402	ʾaw, ʾo tre, treʾe
-775404	ʾaw, ʾo t tre, treʾe
+775402	tre, treʾe ʾaw, ʾo
+775404	t tre, treʾe ʾaw, ʾo
 775410	dax, daxi
 775412	ʾati
 mu, mut
 775417	qam
-775421	ču məndi, mdi
+775421	məndi, mdi ču
 775423	ʾana
 ṭɛra, ṭara
 775429	reša
@@ -48537,9 +48537,9 @@ skinta
 775476	xa, xaʾa
 skinta
 ʾaw
-775480	ṭura xa, xaʾa
+775480	xa, xaʾa ṭura
 xena, xrena
-məlxa t
+t məlxa
 ʾaw
 775485	tre, treʾe
 xamθa
@@ -48547,34 +48547,34 @@ xamθa
 775492	nara
 ʾap, ʾup ʾaw
 775497	ʾarya, ʾɛrya
-gota l-
-w, ʾu- ʾəzza
-gota l-
-qam ʾarya, ʾɛrya
+l- gota
+ʾəzza w, ʾu-
+l- gota
+ʾarya, ʾɛrya qam
 775503	gəlla
-qam ʾəzza
+ʾəzza qam
 775506	bəsra
 775508	bəsra
 mən, m- ʾəzza
 775511	ʾarya, ʾɛrya ṭla-, ta-
-w, ʾu- mən, m- ʾarya, ʾɛrya
+mən, m- ʾarya, ʾɛrya w, ʾu-
 775514	gəlla
 775516	qa- ʾəzza
-775518	ʾarbi ʾotəx, ʾotaxa
+775518	ʾotəx, ʾotaxa ʾarbi
 775520	ʾəsri
-775524	w, ʾu- ʾəsri
+775524	ʾəsri w, ʾu-
 775526	dwira
-775529	kawe gu-
+775529	gu- kawe
 775531	laqṭa
 775534	gu-
 775537	mən, m-
-775539	ʾixala mən, m-
-775541	w, ʾu- ʾarba, ʾarpa ga, gaya
+775539	mən, m- ʾixala
+775541	ga, gaya w, ʾu- ʾarba, ʾarpa
 775543	w, ʾu-
-775545	ṱ madam
+775545	madam ṱ
 ʾayya
 775548	kul, ku, kulla
-775551	w, ʾu- warda, wɛrda
+775551	warda, wɛrda w, ʾu-
 775554	ma
 775558	mən, m-
 ʾixala
@@ -48585,18 +48585,18 @@ w, ʾu- mən, m- ʾarya, ʾɛrya
 775568	b-
 775574	w, ʾu-
 775581	w, ʾu-
-775585	ṱ madam
+775585	madam ṱ
 ʾati
 775588	la
 775592	ṱ
 ʾəlla
-775596	w, ʾu- warda, wɛrda
+775596	warda, wɛrda w, ʾu-
 775598	mara
-775605	xa, xaʾa tre, treʾe
-yoma ṭḷaθa, ṭḷa
+775605	tre, treʾe xa, xaʾa
+ṭḷaθa, ṭḷa yoma
 775608	susa l-
 775610	w, ʾu-
-775612	xa, xaʾa l- maθa
+775612	maθa l- xa, xaʾa
 maθa
 775615	mðita
 775619	diya
@@ -48611,10 +48611,10 @@ diya
 miya
 775636	xačča
 miya
-775641	qawwa gu-
+775641	gu- qawwa
 w, ʾu-
 775646	ʾaw
-ləbba bəd, bud
+bəd, bud ləbba
 miya
 775650	ha
 775652	ʾanna
@@ -48630,26 +48630,26 @@ dax, daxi
 775676	miya
 775678	kut šawwa
 yoma
-775681	brata xa, xaʾa
-qa- t
+775681	xa, xaʾa brata
+t qa-
 miya
 jalda
 775686	miya
-tmanya qa-
+qa- tmanya
 yoma
 775690	la
 775693	ʾɛka
 775696	təmməl
 775698	malka
 ʾay
-775701	ṱ ta
-w, ʾu- t ta
+775701	ta ṱ
+t ta w, ʾu-
 775706	tre, treʾe
-775708	ʾurxa l-
+775708	l- ʾurxa
 775710	malka
 775712	ha
 775715	ṱ
-ṱ ta
+ta ṱ
 xuwwe
 775719	ʾana
 ṱ
@@ -48693,7 +48693,7 @@ reša
 b- šawwa
 775788	ʾaw
 ʾana
-775791	b- rumxa xa, xaʾa
+775791	b- xa, xaʾa rumxa
 b- šawwa
 775794	kul, ku, kulla
 775796	qəm-
@@ -48710,14 +48710,14 @@ mo, mu, modi, maw, mawdi
 ʾiða
 gu- dəmma
 w, ʾu-
-xaṣa gu-
-775815	xaṣa gu-
+gu- xaṣa
+775815	gu- xaṣa
 yala
 w, ʾu-
 ṭla-, ta- brata
 775822	naša
 mur
-la t
+t la
 mən, m-
 miya
 ʾanna
@@ -48730,20 +48730,20 @@ w, ʾu-
 775840	miya
 la
 775843	miya
-775846	w, ʾu- ʾaxxa
+775846	ʾaxxa w, ʾu-
 tamma
 ʾani, ʾan
 har
 draya
 kepa, kʸepa
 t ta
-ṱ ta
+ta ṱ
 xuwwe
 xuwwe
 775857	bena xa, xaʾa
 hadəx
 775861	miya
-w, ʾu- kut xa, xaʾa
+xa, xaʾa kut w, ʾu-
 775864	la
 miya
 775868	miya
@@ -48771,7 +48771,7 @@ yala
 775909	dugla ta
 brata
 775918	ʾiða
-775920	xaṣa gu-
+775920	gu- xaṣa
 mara
 775923	reša
 775925	reša
@@ -48792,31 +48792,31 @@ mara
 775953	xuwwe
 775955	he
 775962	malka
-775964	xaṣa gu-
+775964	gu- xaṣa
 775967	gu- dəmma
-775969	xaṣa gu-
+775969	gu- xaṣa
 775974	malka
-ʾana w, ʾu-
+w, ʾu- ʾana
 775980	ʾana
 ʾiθ
 šula
 775984	ʾana
-775986	ʾana ʾap, ʾup
+775986	ʾap, ʾup ʾana
 775989	ʾina
 775991	šula
 775993	ṱ
 776001	w, ʾu-
 776004	derubər xa, xaʾa
-ʾilana xa, xaʾa
+xa, xaʾa ʾilana
 goṛa
 776008	xura
 simarxa, simɛrxa
 simarxa, simɛrxa
 776012	zaya
-qənna gu-
+gu- qənna
 xuwwe xa, xaʾa
 hammaše, hammaša
-776018	zaya ʾani, ʾan
+776018	ʾani, ʾan zaya
 naša ʾaw, ʾo
 776021	malka
 mo, mu, modi, maw, mawdi
@@ -48827,7 +48827,7 @@ w, ʾu-
 qam
 simarxa, simɛrxa
 776031	qəm-
-776039	la t ta
+776039	t ta la
 776041	simarxa, simɛrxa
 bena xa, xaʾa
 hadəx
@@ -48835,7 +48835,7 @@ simarxa, simɛrxa
 776049	ha
 776051	naša
 776053	ʾaw
-776055	w, ʾu- ʾanna
+776055	ʾanna w, ʾu-
 776057	simarxa, simɛrxa
 776062	ṱ ʾaw, ʾo
 776068	ga, gaya ṭḷaθa, ṭḷa tre, treʾe
@@ -48851,7 +48851,7 @@ kul, ku, kulla
 776088	mo, mu, modi, maw, mawdi
 776092	ṱ
 776094	l-
-w, ʾu- warda, wɛrda
+warda, wɛrda w, ʾu-
 776099	ʾəšta xa, xaʾa
 šawwa
 yoma
@@ -48860,7 +48860,7 @@ xačča
 bəsra
 w, ʾu-
 ʾərba
-w, ʾu- t ta
+t ta w, ʾu-
 776110	t ta
 776113	qaṣra
 mara
@@ -48886,7 +48886,7 @@ rēš-, rəš-, rš-, š- qaṣra
 ṱ
 laxxa
 776152	ma
-776154	l- xaṣa
+776154	xaṣa l-
 diya
 w, ʾu-
 776159	w, ʾu-
@@ -48896,19 +48896,19 @@ qaṣra
 776172	b-
 naša
 ʾay
-776176	parra tre, treʾe
+776176	tre, treʾe parra
 776178	diya
 776182	w, ʾu-
 776184	ʾay
 bena xa, xaʾa
 ʾaw
 776191	šlama
-w, ʾu- har warda, wɛrda
+warda, wɛrda w, ʾu- har
 776195	la
 brona
 la
-ču məndi, mdi
-b- ya w, ʾu- šɛna
+məndi, mdi ču
+b- šɛna ya w, ʾu-
 ṭawaθa
 776202	mən, m-
 776205	b-
@@ -48938,14 +48938,14 @@ warda, wɛrda
 776265	xa, xaʾa
 harmone, ʾarmone
 rixa
-776269	xaṣa gu-
+776269	gu- xaṣa
 776272	xa, xaʾa susta
 776274	susta
-776276	l- xaṣa
-w, ʾu- diya
+776276	xaṣa l-
+diya w, ʾu-
 776279	gu- ʾaqara
-gəlla gu-
-w, ʾu- ʾaxxa
+gu- gəlla
+ʾaxxa w, ʾu-
 tamma
 w, ʾu-
 776285	malka
@@ -48959,11 +48959,11 @@ xeta, xreta
 776302	t qɛsa
 776304	ʾəlla
 776307	hadəx
-776309	ʾap, ʾup ʾay
+776309	ʾay ʾap, ʾup
 776313	ʾap, ʾup ʾaw
 776315	dawɛra, dawara
 w, ʾu-
-l- xaṣa
+xaṣa l-
 776319	w, ʾu-
 776321	gu- ʾaqara
 bena xa, xaʾa
@@ -48974,12 +48974,12 @@ hadəx
 776334	ʾap, ʾup ʾaw
 776337	lɛle
 776339	xəmmərta, xmərta, xəmmərθa
-šənθa t
+t šənθa
 776342	rēš-, rəš-, rš-, š-
 warda, wɛrda
 w, ʾu-
 776346	hambišaya
-776349	gəppa xa, xaʾa
+776349	xa, xaʾa gəppa
 776352	ʾarbi
 hambišaya
 776359	w, ʾu-
@@ -48997,19 +48997,19 @@ hambišaya
 776382	diya
 776384	ʾarba, ʾarpa
 776387	xəmmərta, xmərta, xəmmərθa
-776389	ṣadra rēš-, rəš-, rš-, š-
+776389	rēš-, rəš-, rš-, š- ṣadra
 diya
 ʾay
-776396	ʾarbi ʾani, ʾan
+776396	ʾani, ʾan ʾarbi
 hambišaya
 w, ʾu-
 776400	w, ʾu-
 776402	gu- xurja
 776404	w, ʾu-
-776407	gare l-
-776409	gare l-
+776407	l- gare
+776409	l- gare
 w, ʾu-
-parra ʾani, ʾan tre, treʾe
+tre, treʾe parra ʾani, ʾan
 w, ʾu- xarθa
 simarxa, simɛrxa
 776415	simarxa, simɛrxa
@@ -49017,10 +49017,10 @@ w, ʾu-
 776418	l-
 w, ʾu- simarxa, simɛrxa
 bena xa, xaʾa
-776423	ṱ ta
+776423	ta ṱ
 776426	w, ʾu-
 warda, wɛrda
-776430	nəšra ʾax
+776430	ʾax nəšra
 w, ʾu-
 bara
 diya
@@ -49028,17 +49028,17 @@ diya
 diya
 t ta
 bena xa, xaʾa
-776442	ʾap, ʾup ʾay
-hawa gu-
+776442	ʾay ʾap, ʾup
+gu- hawa
 776446	la
 776450	la
 776454	w, ʾu-
 776456	warda, wɛrda
 776458	qaṣra l-
-w, ʾu- ʾap, ʾup ʾaw
+ʾap, ʾup w, ʾu- ʾaw
 776462	bɛθa
 diya
-w, ʾu- mən, m- tama
+mən, m- tama w, ʾu-
 hodəx
 776467	l-
 susa
@@ -49066,16 +49066,16 @@ laxxa
 776507	xa, xaʾa
 776512	ʾawwa
 776514	l- ṭura
-ṣɛda l-
+l- ṣɛda
 776520	mən, m-
-776522	ṭura gu-
+776522	gu- ṭura
 776525	mən, m- ġðaðe
 776530	qa-
 776532	l-
 776534	tama
 xabra
-776537	naša l-
-776544	fatra xa, xaʾa
+776537	l- naša
+776544	xa, xaʾa fatra
 raba
 dana
 776550	brona
@@ -49085,8 +49085,8 @@ kəma
 ʾaw, ʾo
 776561	gawṛa, gʸawṛa
 776564	ʾap, ʾup ʾaw
-ṣɛda l-
-776567	ṣɛda l-
+l- ṣɛda
+776567	l- ṣɛda
 ʾina
 dunye
 šurela
@@ -49094,13 +49094,13 @@ dunye
 776574	dunye
 talga
 ʾawwa
-776578	susa b-
-776580	gu- gəppa xa, xaʾa
-776582	qam talga
+776578	b- susa
+776580	gu- xa, xaʾa gəppa
+776582	talga qam
 776584	talga
-776587	gəppa gu-
+776587	gu- gəppa
 776589	hatxa, ʾatxa
-l- bar
+bar l-
 ʾina
 kaka
 776594	bar
@@ -49114,7 +49114,7 @@ he
 776604	ʾawwa
 776608	šaθa
 776610	w, ʾu-
-776612	w, ʾu- tiwa
+776612	tiwa w, ʾu-
 l-
 susa
 776616	w, ʾu-
@@ -49127,17 +49127,17 @@ bɛθa l-
 776640	qəṣṣət, qəṣṣətta
 776643	dunye
 776646	ʾana
-776648	ṣɛda l-
+776648	l- ṣɛda
 dunye
 776652	ʾana
-776654	gu- gəppa xa, xaʾa
+776654	gu- xa, xaʾa gəppa
 ʾina
 776658	kaka
 776660	ʾəltəx
 kaka
 gawaya
 balota
-776666	w, ʾu- hal, ha- diya
+776666	hal, ha- w, ʾu- diya
 šaθana
 776670	la
 ʾaw
@@ -49148,22 +49148,22 @@ mara
 776692	mən, m- gu-
 776695	mara
 776697	ʾən
-776700	ṭura ʾax
+776700	ʾax ṭura
 w, ʾu-
 776703	l-
 776709	ṱ
 776715	susa
-776717	w, ʾu- ya ʾalaha
-776724	xa, xaʾa maθa
-776726	xa, xaʾa maθa
+776717	ʾalaha ya w, ʾu-
+776724	maθa xa, xaʾa
+776726	maθa xa, xaʾa
 xwarzaya, xwarza, xurzaya
 776729	ʾaw
-dana gu-
-776732	dana gu-
+gu- dana
+776732	gu- dana
 ṱ
 776737	zala
 t ta
-776744	marəgla xa, xaʾa
+776744	xa, xaʾa marəgla
 goṛa
 xəlya
 776749	ʾarbi
@@ -49181,12 +49181,12 @@ dawɛra, dawara
 776782	gu- maθa
 ʾaw
 776791	susa
-776797	w, ʾu- har xa, xaʾa
+776797	xa, xaʾa w, ʾu- har
 776800	l-
 rēš-, rəš-, rš-, š- ʾɛna
 776804	ʾati
 776806	ʾawwa
-776809	l- ġðaðe
+776809	ġðaðe l-
 776813	qam
 776815	hade
 776817	t ma
@@ -49210,9 +49210,9 @@ laxxa
 776864	tiwa
 baθər, bar
 maθa
-ʾăwaha, waha; ʾăwaʾha, waʾha gu-
+gu- ʾăwaha, waha; ʾăwaʾha, waʾha
 găliya, galliya, galli
-ʾăwaha, waha; ʾăwaʾha, waʾha gu-
+gu- ʾăwaha, waha; ʾăwaʾha, waʾha
 gəppa
 ṱ
 w, ʾu-
@@ -49221,7 +49221,7 @@ w, ʾu-
 776880	laxxa
 w, ʾu- ʾati
 ṱ
-ʾana ʾap, ʾup
+ʾap, ʾup ʾana
 ṱ
 776888	ʾati
 776890	ʾati
@@ -49248,7 +49248,7 @@ hatxa, ʾatxa
 776926	ʾaqla
 776936	ʾaw
 776940	ṱ
-776944	gəppa gu-
+776944	gu- gəppa
 776946	xa, xaʾa
 776948	xa, xaʾa
 šapira
@@ -49262,7 +49262,7 @@ kut qalma
 776966	faṣuli ʾax
 hatxa, ʾatxa
 goṛa
-776971	w, ʾu- xaṭorta
+776971	xaṭorta w, ʾu-
 776973	b- reša
 776976	ṱ
 776980	baxta
@@ -49274,7 +49274,7 @@ goṛa
 776992	ʾana
 776994	t ta
 mara
-776998	ṱ ʾax
+776998	ʾax ṱ
 qima
 w, ʾu-
 plaša
@@ -49283,10 +49283,10 @@ mən, m- ġðaðe
 777005	sɛpa
 l- qðala
 dewa
-777009	w, ʾu- ṣala
+777009	ṣala w, ʾu-
 kəndala
 777015	mo, mu, modi, maw, mawdi
-777017	ləbba mən, m-
+777017	mən, m- ləbba
 777020	dɛra
 xɛla
 777023	šəryoxa ʾaw, ʾo
@@ -49306,19 +49306,19 @@ b-
 qam
 ʾawwa
 777046	l- gəppa
-qɛsa ʾaw, ʾo
-bəṭma ʾay, ʾey, ʾɛ, ʾa
+ʾaw, ʾo qɛsa
+ʾay, ʾey, ʾɛ, ʾa bəṭma
 777050	rēš-, rəš-, rš-, š-
 777052	bena xa, xaʾa
 777055	ʾana
 777057	dewa
 777059	la
 ṱ
-ču məndi, mdi
+məndi, mdi ču
 777064	ʾap, ʾup
 ʾay, ʾey, ʾɛ, ʾa
 malka
-777074	w, ʾu- ʾay, ʾey, ʾɛ, ʾa
+777074	ʾay, ʾey, ʾɛ, ʾa w, ʾu-
 w, ʾu-
 777078	mara
 777081	l-
@@ -49360,12 +49360,12 @@ neriya
 goṛa
 w, ʾu-
 777171	ta
-777174	w, ʾu- bəsra
-777176	gəlda ʾaw, ʾo
+777174	bəsra w, ʾu-
+777176	ʾaw, ʾo gəlda
 777179	goṛa
 777181	w, ʾu-
-dukθa, duka gu-
-plaša ta
+gu- dukθa, duka
+ta plaša
 777185	ʾawwa
 777188	qəm-
 w, ʾu-
@@ -49382,11 +49382,11 @@ l-
 susa
 w, ʾu- ṱ
 777209	b- rumxa
-l- ġðaðe
+ġðaðe l-
 mara
 777214	w, ʾu-
-777218	l- ġðaðe
-777221	l- ġðaðe
+777218	ġðaðe l-
+777221	ġðaðe l-
 777223	ʾap, ʾup xa, xaʾa
 lɛle
 777228	brindar
@@ -49407,13 +49407,13 @@ mara
 sapiqa
 777272	ha
 ʾawwa
-777278	ʾiquθa gu-
+777278	gu- ʾiquθa
 ʾayya
 daṛmana
 b-
 777283	daṛmana
 777288	daṛmana
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 777299	xakma, xamka
 777301	mara
 diya
@@ -49431,12 +49431,12 @@ tamma
 xəlya
 qəm-
 777331	w, ʾu-
-777333	w, ʾu- ʾaxxa
+777333	ʾaxxa w, ʾu-
 tamma
 777336	kɛla
 777339	šurela
 777341	kɛla
-777354	l- xaṣa
+777354	xaṣa l-
 777356	l-
 susa
 w, ʾu- daṛmana
@@ -49466,7 +49466,7 @@ hatxa, ʾatxa
 777426	ʾap, ʾup
 777428	w, ʾu-
 w, ʾu-
-777431	w, ʾu- daṛmana
+777431	daṛmana w, ʾu-
 777434	xɛlana
 mara
 777439	bena xa, xaʾa
@@ -49475,15 +49475,15 @@ xeta, xreta
 t ta
 777445	ʾalma
 777448	tama
-kut xa, xaʾa
+xa, xaʾa kut
 777451	l-
-777455	w, ʾu- zala
+777455	zala w, ʾu-
 777457	rumxa
 ṭḷaθa, ṭḷa
 ga, gaya
 šurela
 777462	hadəx
-ʾarba, ʾarpa ʾay, ʾey, ʾɛ, ʾa t
+t ʾay, ʾey, ʾɛ, ʾa ʾarba, ʾarpa
 777465	rumxa
 777467	gu-
 ʾawwa
@@ -49497,11 +49497,11 @@ qəm-
 777483	kul, ku, kulla
 777492	mən, m-
 qəm-
-777495	ʾăyaha, yaha; ʾăyaʾha, yaʾha w, ʾu- ʾap, ʾup
+777495	ʾăyaha, yaha; ʾăyaʾha, yaʾha ʾap, ʾup w, ʾu-
 brata
 xeta, xreta
 ṱ
-777502	ʾap, ʾup ʾay
+777502	ʾay ʾap, ʾup
 qəm-
 777505	qəm-
 w, ʾu-
@@ -49509,7 +49509,7 @@ w, ʾu-
 w, ʾu-
 tama
 777513	laxxa
-tuniθa xa, xaʾa
+xa, xaʾa tuniθa
 ṱ
 777517	l-
 777520	w, ʾu-
@@ -49522,27 +49522,27 @@ gabbara, gebara
 gabbara, gebara
 ʾap, ʾup xa, xaʾa
 la
-777536	ga ʾay, ʾey, ʾɛ, ʾa
+777536	ʾay, ʾey, ʾɛ, ʾa ga
 777541	ʾay, ʾey, ʾɛ, ʾa
 777543	ṭḷaθa, ṭḷa
 yoma
-w, ʾu- ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa w, ʾu-
 777548	dmixa
 la
 777551	la
-777557	naša xa, xaʾa
+777557	xa, xaʾa naša
 777562	ḥallaqa
 777565	qam
 qaṣra
 777568	ḥallaqa ʾaw, ʾo
-777571	semalta xa, xaʾa
+777571	xa, xaʾa semalta
 777576	t ma
 goṛa
 ḥallaqa
 la
 777582	gu-
 777585	semalta
-xaṣa gu-
+gu- xaṣa
 777588	w, ʾu-
 gu-
 semalta
@@ -49560,7 +49560,7 @@ raba
 777614	ʾanna
 brīn
 777617	hadiya, diya, hadayya
-777619	ʾaw lɛle
+777619	lɛle ʾaw
 777622	b- la
 la ʾən
 777625	ʾanna
@@ -49571,7 +49571,7 @@ gu-
 777632	w, ʾu- ʾati
 hatxa, ʾatxa
 gabbara, gebara
-w, ʾu- ʾɛni
+ʾɛni w, ʾu-
 hatxa, ʾatxa
 777640	brīn
 gu-
@@ -49593,17 +49593,17 @@ gu-
 də-, de-
 tiwa
 777679	ʾana
-777681	brata xa, xaʾa
-777684	fəllən, pəllən, flan t
+777681	xa, xaʾa brata
+777684	t fəllən, pəllən, flan
 ʾaθṛa
-ʾaθṛa xa, xaʾa
+xa, xaʾa ʾaθṛa
 rəḥqa
 777695	b- xɛla
 777699	ʾap, ʾup ʾani, ʾan
 naša
 ferəssa
-w, ʾu- gabbara, gebara
-777704	w, ʾu- ʾanna
+gabbara, gebara w, ʾu-
+777704	ʾanna w, ʾu-
 brīn
 kul, ku, kulla
 777709	t
@@ -49611,21 +49611,21 @@ kul, ku, kulla
 w, ʾu-
 777714	brata
 777716	ṱ
-777721	bɛθa gu-
+777721	gu- bɛθa
 777723	qəm-
 ʾayya
 ṣawθa
 777728	raba
-ʾap, ʾup ʾaw sab, săbab, m-săbab
+sab, săbab, m-săbab ʾap, ʾup ʾaw
 raba
 ferəssa
 w, ʾu- xɛlana
-naša ču
-ʾaθṛa gu-
+ču naša
+gu- ʾaθṛa
 la
 777738	nəmu, ləmu
 ʾiθ
-naša xa, xaʾa
+xa, xaʾa naša
 ferəssa
 777746	w, ʾu-
 b- karba, kɛrba
@@ -49644,35 +49644,35 @@ mare
 777776	ṱ
 fətne
 777780	ṭla-, ta-
-777784	brata ʾay
+777784	ʾay brata
 777786	nəmu, ləmu
 ʾiθ
-naša xa, xaʾa
+xa, xaʾa naša
 777793	w, ʾu-
 777797	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
+qəṣṣət, qəṣṣətta w, ʾu-
 777800	kul, ku, kulla
 tuniθa
 brata
 qəm-
 w, ʾu- ʾaθṛa
-777806	w, ʾu- ʾɛni
+777806	ʾɛni w, ʾu-
 777808	reša
 777812	raba w, ʾu-
-777816	w, ʾu- zala
+777816	zala w, ʾu-
 777818	susa
 777820	w, ʾu-
 sarga, sɛrga
-w, ʾu- l- xaṣa
+xaṣa l- w, ʾu-
 gurza
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 777826	gurza
 mən, m- sɛpa
-qɛsa xa, xaʾa
-777830	reša gu-
+xa, xaʾa qɛsa
+777830	gu- reša
 777835	gurza
-ži ʾay
-777838	naša ču
+ʾay ži
+777838	ču naša
 la
 777841	ʾay, ʾey, ʾɛ, ʾa
 777843	ʾarbi
@@ -49687,7 +49687,7 @@ yuqra
 susa
 zala
 777860	mən, m- maθa
-777862	xa, xaʾa xurzaya
+777862	xurzaya xa, xaʾa
 777866	maθa
 šəmme
 777870	qəm-
@@ -49702,9 +49702,9 @@ zora
 b- xurta, xorta
 777898	xurta, xorta
 xurta, xorta
-777902	yalunka ʾani, ʾan
+777902	ʾani, ʾan yalunka
 zora
-kut xa, xaʾa
+xa, xaʾa kut
 777907	bar xa, xaʾa
 dunye
 777911	xwarzaya, xwarza, xurzaya
@@ -49726,43 +49726,43 @@ bɛθa
 har
 ṱ
 777944	xurta, xorta
-777946	w, ʾu- rēš-, rəš-, rš-, š-
+777946	rēš-, rəš-, rš-, š- w, ʾu-
 777950	qəm-
-xurta, xorta ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa xurta, xorta
 777954	rēš-, rəš-, rš-, š-
 777956	ʾawwa
-777958	ʾawwa yan, ya
+777958	yan, ya ʾawwa
 777960	wajju
-w, ʾu- ʾawwa
+ʾawwa w, ʾu-
 zora ṭəfl
 b- šəmma
 w, ʾu-
 777966	yoma xa, xaʾa
 tre, treʾe
-w, ʾu- ṭḷaθa, ṭḷa
-777971	dukθa, duka xa, xaʾa
-777974	dukθa, duka xa, xaʾa
+ṭḷaθa, ṭḷa w, ʾu-
+777971	xa, xaʾa dukθa, duka
+777974	xa, xaʾa dukθa, duka
 bena
 777977	ʾay, ʾey, ʾɛ, ʾa
 777979	ṭḷaθa, ṭḷa
 yoma
-w, ʾu- ṭḷaθa, ṭḷa
+ṭḷaθa, ṭḷa w, ʾu-
 777984	dmixa
 777987	ṭla-, ta-
 xwarzaya, xwarza, xurzaya
 777990	ʾati
-la də-, de-
+də-, de- la
 ʾana
 777994	laxxa
-la t
+t la
 genawa, ganawa
 777998	susa
 778000	spay
 778003	tiwa
 778005	t
-778007	w, ʾu- xurta, xorta ʾay, ʾey, ʾɛ, ʾa
+778007	w, ʾu- ʾay, ʾey, ʾɛ, ʾa xurta, xorta
 b- ho
-778011	w, ʾu- zala
+778011	zala w, ʾu-
 778014	b- xurta, xorta
 ʾay
 778017	kupala
@@ -49780,52 +49780,52 @@ bərqa ʾax
 778037	mo, mu, modi, maw, mawdi
 w, ʾu-
 beṛa ʾaw, ʾo
-nura ʾaw, ʾo
+ʾaw, ʾo nura
 məndi, mdi ʾaw, ʾo
 la
 susa
 naša
-l- xaṣa
+xaṣa l-
 b- lɛle
-778048	nura ʾax
+778048	ʾax nura
 beṛa w, ʾu-
-778053	gu- gəppa xa, xaʾa
-ṭura gu-
+778053	gu- xa, xaʾa gəppa
+gu- ṭura
 t
 baθər, bar
 778059	tama
 ʾawwa
 la
-ču məndi, mdi
+məndi, mdi ču
 778065	hal, ha-
 ṭḷaθa, ṭḷa
 yoma
 778073	xwarzaya, xwarza, xurzaya ha
 778075	liθ
-778077	ču məndi, mdi
+778077	məndi, mdi ču
 genawa, ganawa
 778081	b- he
 778083	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
-778087	nura xa, xaʾa
+qəṣṣət, qəṣṣətta w, ʾu-
+778087	xa, xaʾa nura
 778089	b- lɛle
 ʾax ʾaxxa
 778092	ʾana
 778094	ʾawwa
 qaṭiya
 778099	w, ʾu- lɛle
-778101	ču məndi, mdi
+778101	məndi, mdi ču
 ʾina
 xakma, xamka
 məndi, mdi
-778113	ʾăwaha, waha; ʾăwaʾha, waʾha gu-
+778113	gu- ʾăwaha, waha; ʾăwaʾha, waʾha
 gəppa
 ʾawwa
 778117	mo, mu, modi, maw, mawdi
 778120	ʾina
 kul, ku, kulla
 dawa
-w, ʾu- mən, m-
+mən, m- w, ʾu-
 778125	t
 778127	b-
 brata
@@ -49862,12 +49862,12 @@ ferəssa
 gəppa
 ʾina
 ʾaw
-778180	naša xa, xaʾa
+778180	xa, xaʾa naša
 dmixa
 reša
 778185	gu-
-brata xa, xaʾa
-brata xa, xaʾa
+xa, xaʾa brata
+xa, xaʾa brata
 raba
 xamθa
 ʾay, ʾey, ʾɛ, ʾa brata
@@ -49877,7 +49877,7 @@ mu, mut
 778197	ʾati
 778203	qima
 778205	ʾati
-778207	la t
+778207	t la
 ʾawwa
 ʾawwa
 naša
@@ -49893,7 +49893,7 @@ b-
 gawṛa, gʸawṛa
 xoš
 778226	ʾaw
-ʾiman, ʾima t
+t ʾiman, ʾima
 778229	qəm-
 778231	xoš
 yalunka
@@ -49920,9 +49920,9 @@ baxta
 778264	mən, m-
 ʾawwa
 ferəssa
-778269	w, ʾu- mən, m- baba
-w, ʾu- yəmma
-778274	gəppa gu-
+778269	mən, m- w, ʾu- baba
+yəmma w, ʾu-
+778274	gu- gəppa
 778276	hadiya, diya, hadayya
 ʾaw
 ferəssa
@@ -49932,21 +49932,21 @@ w, ʾu-
 778286	b-
 gəppa
 778289	b-
-w, ʾu- gəppa
+gəppa w, ʾu-
 778296	ʾina
 xwarzaya, xwarza, xurzaya
 778300	qapla
 778304	w, ʾu-
 778306	w, ʾu-
-778308	mo, mu, modi, maw, mawdi ha
+778308	ha mo, mu, modi, maw, mawdi
 778310	hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
-778314	ʾaw lɛle
+qəṣṣət, qəṣṣətta w, ʾu-
+778314	lɛle ʾaw
 778316	ṱ
 ʾana
 b-
 778321	w, ʾu-
-gəppa gu-
+gu- gəppa
 778324	ʾina naša ʾaw, ʾo
 tama
 ʾawwa
@@ -49954,7 +49954,7 @@ tama
 qəm-
 qəm-
 778331	ṱ
-778333	naša xa, xaʾa
+778333	xa, xaʾa naša
 778335	ferəssa
 la
 778341	hiwi
@@ -49977,10 +49977,10 @@ w, ʾu-
 778377	brata
 778379	brata
 778381	ʾap, ʾup ʾaw
-w, ʾu- gabbara, gebara
+gabbara, gebara w, ʾu-
 778384	naša
 778386	gabbara, gebara
-ʾaθṛa ta
+ta ʾaθṛa
 xena, xrena
 šəmme
 778395	zala
@@ -49992,8 +49992,8 @@ xena, xrena
 ṱ
 778408	baba
 diya
-778413	lɛle ʾən
-778417	b- w, ʾu- xɛla
+778413	ʾən lɛle
+778417	b- xɛla w, ʾu-
 xaraye
 778420	sab, săbab, m-săbab hatxa, ʾatxa
 gabbara, gebara
@@ -50001,15 +50001,15 @@ la
 ṱ
 leba
 w, ʾu-
-ṱ ha
+ha ṱ
 778428	l-
 778431	brata
 hadiya, diya, hadayya
 778435	brata
 778437	susa
 778440	w, ʾu-
-ʾurxa b-
-778443	ṭla-, ta- xwarzaya, xwarza, xurzaya
+b- ʾurxa
+778443	xwarzaya, xwarza, xurzaya ṭla-, ta-
 778446	ṱ
 l-
 778450	brata
@@ -50024,12 +50024,12 @@ la
 bahs, bas ṱ
 778476	mən, m- baba
 diya
-sab, săbab, m-săbab ʾanna
+ʾanna sab, săbab, m-săbab
 778480	naša
 778482	la
 778484	ʾən
 ṱ
-778487	be- mən, m- baba
+778487	mən, m- be- baba
 diya
 xaraye
 778492	ṭla-, ta-
@@ -50038,15 +50038,15 @@ brata
 778499	t
 778503	ga, gaya
 778505	yoma
-w, ʾu- yoma xa, xaʾa
+yoma xa, xaʾa w, ʾu-
 tre, treʾe
-w, ʾu- ṭḷaθa, ṭḷa
-ṱ ha
+ṭḷaθa, ṭḷa w, ʾu-
+ha ṱ
 məṭya
 778512	baba
 brata
-778515	mðita xa, xaʾa
-778519	dukθa, duka xa, xaʾa
+778515	xa, xaʾa mðita
+778519	xa, xaʾa dukθa, duka
 778522	mðita
 778524	ṭla-, ta-
 xwarzaya, xwarza, xurzaya
@@ -50055,19 +50055,19 @@ tiwa
 laxxa
 w, ʾu-
 778532	laxxa
-ʾana w, ʾu-
+w, ʾu- ʾana
 brata
 778536	be- baba
 diya
 778540	brata
 w, ʾu-
-778545	naša ʾani, ʾan
+778545	ʾani, ʾan naša
 778548	brata
 778552	xabra
 l-
 brata
 778559	ʾɛni
-778562	naša xa, xaʾa
+778562	xa, xaʾa naša
 778565	w, ʾu-
 ʾawwa
 naša
@@ -50084,22 +50084,22 @@ maṭo
 778597	ʾay, ʾey, ʾɛ, ʾa brata
 mən, m-
 lazəm
-raba ʾawwa
+ʾawwa raba
 778603	qima
 778606	šlama
 778608	tiwa
-diwən gu-
+gu- diwən
 w, ʾu-
 gawṛa, gʸawṛa
-w, ʾu- naša
+naša w, ʾu-
 ferəssa
 778615	kul, ku, kulla
-778617	diwən gu-
+778617	gu- diwən
 w, ʾu- brata
 778620	gu- manzəl xa, xaʾa
 ʾanna
 778624	mən, m-
-naša ʾani, ʾan
+ʾani, ʾan naša
 778627	mən, m- ʾarxa
 ʾati
 mən, m-
@@ -50107,12 +50107,12 @@ mən, m-
 778634	ʾaw baba
 brata
 šəmme
-778641	ṭla-, ta- xa, xaʾa
+778641	xa, xaʾa ṭla-, ta-
 778645	ʾay, ʾey, ʾɛ, ʾa
 778647	qawa
 778651	rēš-, rəš-, rš-, š- qalunka
 778653	naša
-778658	sab, săbab, m-săbab ʾani, ʾan
+778658	ʾani, ʾan sab, săbab, m-săbab
 778660	qalunka
 jigara, jigɛra
 778663	qalunka
@@ -50128,8 +50128,8 @@ qəm-
 rēš-, rəš-, rš-, š- qalunka
 qəm-
 778689	ʾay, ʾey, ʾɛ, ʾa
-778694	rēš-, rəš-, rš-, š- bərke
-778698	l- qawači
+778694	bərke rēš-, rəš-, rš-, š-
+778698	qawači l-
 778701	l-
 778703	naša ʾaw, ʾo
 ʾay, ʾey, ʾɛ, ʾa
@@ -50146,7 +50146,7 @@ mðita
 la
 778727	ṱ
 balaya
-778730	w, ʾu- ʾap, ʾup xa, xaʾa
+778730	ʾap, ʾup xa, xaʾa w, ʾu-
 lɛle
 w, ʾu-
 778734	naša ʾaw, ʾo
@@ -50168,26 +50168,26 @@ la
 778767	zala
 xa, xaʾa
 maθa
-778771	xurta, xorta ʾay, ʾey, ʾɛ, ʾa
-bɛθa gu-
+778771	ʾay, ʾey, ʾɛ, ʾa xurta, xorta
+gu- bɛθa
 kul, ku, kulla
 778775	b- lɛle
 b- rēš-, rəš-, rš-, š- naša
 w, ʾu-
 778779	qam
 yoma
-778783	čadra gu-
+778783	gu- čadra
 778785	xabra
-778787	malka l-
+778787	l- malka
 778789	xa, xaʾa
 maθa
 778793	ṭaya
 778796	ʾayya
 kɛla
 ʾaskar, ʾaskariya
-778801	w, ʾu- mara
+778801	mara w, ʾu-
 lɛle
-naša ču
+ču naša
 bahs, bas
 778807	ʾanna
 bɛθa
@@ -50195,23 +50195,23 @@ w, ʾu-
 ʾaskar, ʾaskariya
 yoma ʾaw, ʾo
 778814	tre, treʾe
-778817	gota xa, xaʾa
+778817	xa, xaʾa gota
 xeta, xreta
 mðita
 ʾap, ʾup yoma ʾaw, ʾo
-xurta, xorta ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa xurta, xorta
 ṱ
 b-
 778826	gu-
 bɛθa
 778829	ʾap, ʾup
 778831	w, ʾu-
-778834	čadra gu-
+778834	gu- čadra
 778837	xabra
-778839	malka l-
+778839	l- malka
 778841	xa, xaʾa
 maθa
-mðita t
+t mðita
 778845	ʾawwa
 778847	raba
 778849	ʾanna
@@ -50222,13 +50222,13 @@ la
 778860	malka ʾaw, ʾo
 778862	ṭla-, ta-
 hal, ha-
-w, ʾu- qəṣṣət, qəṣṣətta
+qəṣṣət, qəṣṣətta w, ʾu-
 hatxa, ʾatxa
 mo, mu, modi, maw, mawdi
 qəṣṣət, qəṣṣətta
 ʾayya
 ma
-778871	dašta gu-
+778871	gu- dašta
 balki
 ṱ
 mən, m- tama
@@ -50237,18 +50237,18 @@ xrawa
 778880	ʾana
 778886	malka
 778888	ʾaskar, ʾaskariya
-qam čadra
-778891	ṭla-, ta- t
+čadra qam
+778891	t ṭla-, ta-
 mo, mu, modi, maw, mawdi
-čadra gu-
+gu- čadra
 778896	qəm-
 qaṭiya ʾaw, ʾo
-778899	ʾaw qaṭiya
+778899	qaṭiya ʾaw
 778902	ʾaskar, ʾaskariya gu-
 qəm-
-kut xa, xaʾa
+xa, xaʾa kut
 qəm-
-gota xa, xaʾa
+xa, xaʾa gota
 malka
 778910	ʾawwa
 šula
@@ -50282,8 +50282,8 @@ b-
 778965	mən, m-
 778969	la
 778971	ʾani, ʾan
-778974	l- ġðaðe
-778976	dašta gu-
+778974	ġðaðe l-
+778976	gu- dašta
 778978	kul, ku, kulla ṱ
 ferəssa
 778981	ʾaxxane
@@ -50292,13 +50292,13 @@ ferəssa
 778988	ṭla-, ta-
 kul, ku, kulla ṱ
 778991	tama
-779000	w, ʾu- zala
+779000	zala w, ʾu-
 779003	ṭla-, ta-
 779008	ʾanna
-779010	yalunka ʾani, ʾan
+779010	ʾani, ʾan yalunka
 zora
 779016	la
-779018	čadra gu-
+779018	gu- čadra
 ʾanna
 779022	bena
 xaraye
@@ -50318,15 +50318,15 @@ malka
 779052	ʾana
 779055	t
 t
-779059	w, ʾu- t
-w, ʾu- reša
+779059	t w, ʾu-
+reša w, ʾu-
 779063	brīn
-reša gu-
+gu- reša
 779069	ṭla-, ta-
 779073	ṱ
-ču məndi, mdi
+məndi, mdi ču
 lɛle
-779080	w, ʾu- ʾaskar, ʾaskariya
+779080	ʾaskar, ʾaskariya w, ʾu-
 779082	kul, ku, kulla
 palga
 779086	ʾaxni
@@ -50336,8 +50336,8 @@ t
 ʾana
 779094	ʾayya
 brata
-779098	ʾən b- našuθa
-b- xɛla ʾən
+779098	b- našuθa ʾən
+b- ʾən xɛla
 779101	ṭla-, ta-
 779103	xaraye
 779105	majbur
@@ -50348,31 +50348,31 @@ qəm-
 779118	ṭla-, ta-
 779121	susa
 w, ʾu-
-naša ʾani, ʾan
+ʾani, ʾan naša
 w, ʾu-
 xaṭər
 779127	w, ʾu-
-779129	w, ʾu- yoma xa, xaʾa
-w, ʾu- tre, treʾe
+779129	yoma xa, xaʾa w, ʾu-
+tre, treʾe w, ʾu-
 ṭḷaθa, ṭḷa
 779137	w, ʾu-
 ʾay, ʾey, ʾɛ, ʾa brata
 779140	ṭla-, ta-
 779143	xlula
 šawwa
-w, ʾu- yoma
+yoma w, ʾu-
 šawwa
 w, ʾu-
-w, ʾu- dawla
+dawla w, ʾu-
 zorna
 qəm- w, ʾu-
 l-
 779153	ʾay, ʾey, ʾɛ, ʾa brata
-ʾana w, ʾu-
+w, ʾu- ʾana
 779156	tama
 w, ʾu-
 laxxa
-779160	malka xa, xaʾa
+779160	xa, xaʾa malka
 ṱ
 naša
 779165	baba
@@ -50393,18 +50393,18 @@ baxta
 xapaya
 baxta
 hawnana, honana ṱ
-779200	bɛθa ta
+779200	ta bɛθa
 779203	raba
-779205	rəqqi bahs, bas ta
+779205	ta rəqqi bahs, bas
 b-
-naša qa- xa, xaʾa
+qa- xa, xaʾa naša
 špila
 gu- tanura
 ma
 779212	qəm-
 baba
 diya
-naša qa- xa, xaʾa
+qa- xa, xaʾa naša
 špila
 gu- tanura
 yoma
@@ -50419,7 +50419,7 @@ rəqqi
 779237	rəqqi
 baba
 ʾayya
-779244	špila ta xa, xaʾa
+779244	ta xa, xaʾa špila
 mo, mu, modi, maw, mawdi
 b- naša
 špila
@@ -50437,24 +50437,24 @@ yomiyya
 w, ʾu-
 w, ʾu-
 qamaya
-w, ʾu- šuqa
+šuqa w, ʾu-
 779274	w, ʾu-
 779276	qəm-
 hadəx
 779279	naša ʾaw, ʾo
 jalda
-mðita har gu-
+gu- mðita har
 ʾaw
 779285	dəkkana
-779287	xa, xaʾa maθa
+779287	maθa xa, xaʾa
 xeta, xreta
-gu- xa, xaʾa maθa
+gu- maθa xa, xaʾa
 xeta, xreta
 779292	la
 gu-
 779295	bena xa, xaʾa
 779299	qaṣra
-w, ʾu- qaṣore
+qaṣore w, ʾu-
 779302	bɛθa
 diya
 779305	marmar
@@ -50486,7 +50486,7 @@ basima
 ʾati
 ṱ
 779356	ʾay
-779359	naša ta xa, xaʾa
+779359	ta xa, xaʾa naša
 špila
 gu- tanura
 qəm-
@@ -50507,15 +50507,15 @@ xa, xaʾa
 ṱ
 779402	ṱ
 tama
-w, ʾu- gawṛa, gʸawṛa
+gawṛa, gʸawṛa w, ʾu-
 har
 779407	saʾət, saʾta, saʾatta, saʾa xa, xaʾa
 779413	l-
 779415	marmar
 779418	marmar
-779420	gota mən, m-
-w, ʾu- mən, m- gota
-779423	bɛθa gu-
+779420	mən, m- gota
+mən, m- gota w, ʾu-
+779423	gu- bɛθa
 779430	baba
 779432	xqira
 gu-
@@ -50527,13 +50527,13 @@ bɛθa
 779448	la
 la
 779451	w, ʾu-
-779453	malka mən, m-
+779453	mən, m- malka
 ṣala
-l- sulta
+sulta l-
 mən, m- sulta
 ṣala
 malka
-kul, ku, kulla məndi, mdi
+məndi, mdi kul, ku, kulla
 bara
 779462	b-
 779464	diya
@@ -50544,13 +50544,13 @@ basima
 779474	dawa
 kul, ku, kulla
 779477	hadəx
-xa, xaʾa ʾotəx, ʾotaxa
+ʾotəx, ʾotaxa xa, xaʾa
 ta
-xa, xaʾa ʾotəx, ʾotaxa
+ʾotəx, ʾotaxa xa, xaʾa
 ta
 ta
 gawṛa, gʸawṛa
-kut xa, xaʾa
+xa, xaʾa kut
 779487	priša
 priša
 w, ʾu-
@@ -50569,25 +50569,25 @@ brixa
 b-
 ṣawθa
 basima
-w, ʾu- maqul
+maqul w, ʾu-
 w, ʾu-
 779522	ʾana
-ʾana qa- t
+t qa- ʾana
 779526	dax, daxi
 la
-la t
+t la
 ʾina
 qəm-
 ʾati
 raba
 hawnana, honana
 biš
-xa, xaʾa tre, treʾe
+tre, treʾe xa, xaʾa
 t
 maləkθa
 b-
 baba
-w, ʾu- xqira
+xqira w, ʾu-
 ʾayya
 779543	maləkθa
 b-
@@ -50598,11 +50598,11 @@ diya
 779554	t
 ʾayya
 779559	mara
-779561	malka xa, xaʾa
+779561	xa, xaʾa malka
 ʾawwa
 malka
 779565	xəlma xa, xaʾa
-w, ʾu- qedamta
+qedamta w, ʾu-
 779568	kul, ku, kulla
 naša
 t
@@ -50625,15 +50625,15 @@ mara
 ʾawwa
 779601	w, ʾu-
 ʾawwa
-779605	naša xa, xaʾa
+779605	xa, xaʾa naša
 779607	ṭla-, ta-
 779611	ʾap, ʾup
 779617	balki
 779619	ʾawwa
-779624	ʾurxa b-
+779624	b- ʾurxa
 779626	xuwwe xa, xaʾa
 779628	xuwwe ʾaw, ʾo
-779630	naša ha
+779630	ha naša
 779632	zala
 779634	b-
 zala
@@ -50647,7 +50647,7 @@ w, ʾu-
 bəd, bud
 ʾalpa
 dawa
-ga ʾay, ʾey, ʾɛ, ʾa
+ʾay, ʾey, ʾɛ, ʾa ga
 ʾap, ʾup
 779654	ṱ
 xabra xa, xaʾa
@@ -50657,7 +50657,7 @@ kepa, kʸepa
 779661	gawza
 balki
 779664	xuwwe ʾaw, ʾo
-779667	ʾana ʾən
+779667	ʾən ʾana
 779671	malka
 b- xəlma
 ʾanna
@@ -50690,8 +50690,8 @@ dunye
 779731	tela, tala, taʾla
 779733	ʾay
 dax, daxi
-779738	ʾalpa dawa
-ʾalpa dawa
+779738	dawa ʾalpa
+dawa ʾalpa
 w, ʾu-
 779742	b-
 779745	xuwwe
@@ -50746,7 +50746,7 @@ xuwwe
 šlama
 779833	raba
 779835	b-
-779838	zuze ʾani, ʾan
+779838	ʾani, ʾan zuze
 779846	raba
 779848	diya
 779850	zala
@@ -50754,7 +50754,7 @@ xuwwe
 779855	ga xa, xaʾa
 xeta, xreta
 xəlma
-ʾalpa dawa
+dawa ʾalpa
 bəd, bud
 kut ṭla-, ta-
 779863	xəlma
@@ -50797,7 +50797,7 @@ mədre
 dawa
 779932	ʾalpa
 dawa
-779935	ga w, ʾu- xa, xaʾa
+779935	ga xa, xaʾa w, ʾu-
 xeta, xreta
 779939	xuwwe
 ʾayya
@@ -50808,11 +50808,11 @@ gu-
 xuwwe
 779950	šəndoxa ʾaw, ʾo
 b- xuwwe
-qa- t
+t qa-
 779954	xuwwe
 xuwwe
-779960	boya gu-
-boya gu-
+779960	gu- boya
+gu- boya
 779966	mən, m- tama
 779968	bɛθa l-
 ʾalpa
@@ -50820,7 +50820,7 @@ dawa
 ga xa, xaʾa
 xeta, xreta
 779974	ta
-779976	xa, xaʾa yarxa, yɛrxa tre, treʾe
+779976	yarxa, yɛrxa tre, treʾe xa, xaʾa
 779978	mədre
 779980	xəlma xa, xaʾa
 779982	malka
@@ -50896,7 +50896,7 @@ reša xa, xaʾa
 mən, m- tama
 780123	bɛθa l-
 ʾap, ʾup
-ʾalpa ʾani, ʾan tre, treʾe
+tre, treʾe ʾani, ʾan ʾalpa
 dawa
 780129	w, ʾu-
 šlama
@@ -50909,14 +50909,14 @@ dawa
 ʾalpa
 dawa
 780146	ʾanna
-w, ʾu- ʾalpa
+ʾalpa w, ʾu-
 xamša
 780150	ʾanna
-w, ʾu- ʾalpa
+ʾalpa w, ʾu-
 xamša
 780154	ʾati
 780156	basima
-la t
+t la
 be-
 780161	ṱ
 ʾana
@@ -50950,7 +50950,7 @@ la
 hal, ha-
 780210	w, ʾu-
 780217	mo, mu, modi, maw, mawdi
-w, ʾu- ʾanna
+ʾanna w, ʾu-
 məndi, mdi
 780222	tre, treʾe
 780224	malka
@@ -50969,8 +50969,8 @@ t
 dunye
 780245	dewa
 780248	w, ʾu- qəṭla
-w, ʾu- dəmma
-780251	xala xa, xaʾa
+dəmma w, ʾu-
+780251	xa, xaʾa xala
 xena, xrena ʾaw, ʾo
 xa, xaʾa
 xena, xrena ʾaw, ʾo
@@ -50990,7 +50990,7 @@ qiya
 ʾap, ʾup
 780279	zawna gu-
 t
-qəṭla t
+t qəṭla
 780283	qaṭola
 diya
 t
@@ -50998,12 +50998,12 @@ malka
 dunye
 780289	paṛa
 780291	ʾati
-780293	naša xoš
+780293	xoš naša
 ṱ
 ʾanna
 zuze
 zawna
-780299	šlama t
+780299	t šlama
 ʾap, ʾup
 780303	šlama
 bəd, bud
@@ -51011,7 +51011,7 @@ bəd, bud
 zuze
 hadiya, diya, hadayya
 780312	də-, de-
-zuze ʾanna
+ʾanna zuze
 kul, ku, kulla
 780316	ʾana
 780319	šmayya l-
@@ -51019,24 +51019,24 @@ kul, ku, kulla
 780323	tama
 w, ʾu-
 laxxa
-780327	naša xa, xaʾa
+780327	xa, xaʾa naša
 goṛa
 zala
-ʾurxa b-
+b- ʾurxa
 780332	xa, xaʾa
 taqriban
 780335	xa, xaʾa
 b-
 xa, xaʾa yala
 zora
-zora la
+la zora
 780341	məṭya
 tmanəssər, tmanessər
 ʾəsri šeta
 780345	bara
 780347	bara
 780349	qəm-
-naša xa, xaʾa
+xa, xaʾa naša
 miθa
 780354	ʾaw, ʾo yala
 zora
@@ -51056,11 +51056,11 @@ miθa
 miθa
 780383	w, ʾu-
 mara
-780386	b- xaye ʾən
+780386	b- ʾən xaye
 la
 miθa
 780390	lɛle
-780393	fatra xa, xaʾa
+780393	xa, xaʾa fatra
 780396	nera, nara
 miya
 780400	la
@@ -51085,7 +51085,7 @@ gəšra
 reša
 780431	ham
 ma
-780435	b- ṭura xa, xaʾa
+780435	b- xa, xaʾa ṭura
 780440	nəmu, ləmu
 la
 ʾawwa
@@ -51094,7 +51094,7 @@ la
 l-
 ṭura
 780451	kalba
-kalba brət, bərt
+brət, bərt kalba
 ṱ
 xena, xrena xa, xaʾa
 mən, m-
@@ -51106,8 +51106,8 @@ w, ʾu-
 kepa, kʸepa
 w, ʾu-
 čimanto
-w, ʾu- ṱ ta
-780470	w, ʾu- ṱ ta
+ta w, ʾu- ṱ
+780470	ta w, ʾu- ṱ
 reša
 diya
 ʾawwa
@@ -51115,13 +51115,13 @@ yala
 la
 780479	ṭura
 780481	dašta
-w, ʾu- xa, xaʾa
+xa, xaʾa w, ʾu-
 mðita
 goṛa
 tama
 ʾawwa
 780488	naša
-mðita gu-
+gu- mðita
 naša ʾaw, ʾo
 sawa
 780493	ṭla-, ta- yala
@@ -51129,23 +51129,23 @@ zora
 780496	ʾɛka
 ṱ
 ʾana
-dukθa, duka ču
+ču dukθa, duka
 780501	ṱ
-jama gu-
-780504	jama gu-
+gu- jama
+780504	gu- jama
 ʾawwa
 qima
 780508	l-
 780510	naša ʾaw, ʾo
 goṛa
-780513	brata xa, xaʾa
+780513	xa, xaʾa brata
 w, ʾu-
 w, ʾu-
 qaṣra
 qaṣra
 780519	spay
 mara
-780523	bɛθa gu-
+780523	gu- bɛθa
 780527	ha
 780529	dax, daxi
 780531	spay
@@ -51158,25 +51158,25 @@ raḥat, rahat
 ʾaṣoṭa xa, xaʾa
 780546	dax, daxi
 780551	ʾurxa
-naša xa, xaʾa
+xa, xaʾa naša
 780554	miθa
 zala
 780558	mara
-780560	b- xaye ʾən
+780560	b- ʾən xaye
 la
 miθa
 zala
 780567	mo, mu, modi, maw, mawdi
 780570	qəm-
-mo, mu, modi, maw, mawdi ta
+ta mo, mu, modi, maw, mawdi
 780573	la ʾaw
 780575	dax, daxi
 ṱ
 780578	zala
 780581	he
 780583	he
-w, ʾu- mo, mu, modi, maw, mawdi
-780588	nera, nara xa, xaʾa
+mo, mu, modi, maw, mawdi w, ʾu-
+780588	xa, xaʾa nera, nara
 780591	mara
 780593	ṱ
 gəšra
@@ -51185,7 +51185,7 @@ gəšra
 mən, m-
 780601	bəzmara
 nasarta w, ʾu-
-ṱ ta
+ta ṱ
 gəšra
 780606	reša
 reša
@@ -51202,14 +51202,14 @@ mən, m-
 780632	čimanto
 mən, m-
 780635	kepa, kʸepa
-ṱ ta
-780638	ṱ ta
-reša gu-
+ta ṱ
+780638	ta ṱ
+gu- reša
 mo, mu, modi, maw, mawdi
 780643	qəm-
 la
 780646	la
-780650	jama gu-
+780650	gu- jama
 780652	ma
 780654	mɛxolta
 780657	ʾixala
@@ -51219,17 +51219,17 @@ beta
 w, ʾu-
 ṭḷaθi
 ləxma
-čanta gu-
-780670	jama gu-
+gu- čanta
+780670	gu- jama
 780672	ʾawwa
-780674	ʾurxa b-
+780674	b- ʾurxa
 beta xa, xaʾa
-w, ʾu- ləxma xa, xaʾa
+ləxma xa, xaʾa w, ʾu-
 780683	ha
 ʾawwa
 ʾixala
 780690	ʾina
-ʾəšta beta
+beta ʾəšta
 ləxma
 780694	ʾina
 780696	ʾəsri
@@ -51239,12 +51239,12 @@ ləxma
 780704	mo, mu, modi, maw, mawdi ṭla-, ta-
 780706	ʾaxni
 780708	šabθa
-780710	šawwa yoma
-w, ʾu- yarxa, yɛrxa
-780713	yoma ṭḷaθi
+780710	yoma šawwa
+yarxa, yɛrxa w, ʾu-
+780713	ṭḷaθi yoma
 ʾaxtu
 780716	ʾəšta
-780718	w, ʾu- ʾəsri ʾəč̣č̣a
+780718	ʾəsri ʾəč̣č̣a w, ʾu-
 la
 780724	ʾani, ʾan
 w, ʾu-
@@ -51260,12 +51260,12 @@ hatxa, ʾatxa
 780750	w, ʾu-
 ṭḷaθi
 780754	ʾaxtu
-780757	ʾəšta yoma
+780757	yoma ʾəšta
 w, ʾu-
-780760	w, ʾu- ʾəsri yoma ʾəč̣č̣a
+780760	yoma ʾəsri ʾəč̣č̣a w, ʾu-
 780762	la
-780768	ʾurxa b-
-780770	w, ʾu- ləxma xa, xaʾa
+780768	b- ʾurxa
+780770	ləxma xa, xaʾa w, ʾu-
 beta xa, xaʾa
 780773	ye, yehe
 780775	mən, m-
@@ -51276,10 +51276,10 @@ w, ʾu-
 ʾati
 beta xa, xaʾa
 780788	mən, m- šabθa
-780790	ʾəšta yoma
-w, ʾu- ləxma xa, xaʾa
+780790	yoma ʾəšta
+ləxma xa, xaʾa w, ʾu-
 780793	mən, m- yarxa, yɛrxa
-780796	w, ʾu- ʾəsri yoma ʾəč̣č̣a
+780796	yoma ʾəsri ʾəč̣č̣a w, ʾu-
 780801	laxxa
 w, ʾu-
 780804	ṱ
@@ -51298,11 +51298,11 @@ yəmma
 780825	har
 la ʾən
 780828	la ʾən
-naša xa, xaʾa
+xa, xaʾa naša
 l-
 780832	la baba
 la yəmma
-ʾap, ʾup la xa, xaʾa
+la ʾap, ʾup xa, xaʾa
 ʾaw
 780838	naša
 ʾawwa
@@ -51323,11 +51323,11 @@ la
 ṱ
 gəšra
 b- qɛsa
-w, ʾu- ʾaxxa
+ʾaxxa w, ʾu-
 tamma
 xa, xaʾa
 780868	xena, xrena ʾaw, ʾo
-780870	l- xaṣa
+780870	xaṣa l-
 780872	gəšra
 xa, xaʾa
 b-
@@ -51336,18 +51336,18 @@ la
 780880	ʾayya ʾap, ʾup
 780882	b- ṭura
 780886	l- ṭura
-ʾaw la
+la ʾaw
 780890	t ta
 ṭura
 780893	ṱ
 tuniθa
 780896	mən, m- ġðaðe
-t ṭura ta
+t ta ṭura
 jalda
 780900	ʾaw
-780903	ṱ ta
+780903	ta ṱ
 780906	ṭura
-780909	w, ʾu- ʾaxxa
+780909	ʾaxxa w, ʾu-
 tamma
 780912	b-
 780915	ṱ
@@ -51356,7 +51356,7 @@ laxxa
 xeta, xreta
 780922	w, ʾu-
 780924	bɛθa l-
-780926	bɛθa gu-
+780926	gu- bɛθa
 780929	ʾawwa
 780933	brata
 mara
@@ -51373,20 +51373,20 @@ drəst
 lɛle
 pč̣ila
 ʾaxxa
-l- tamma
+tamma l-
 xarθa
 780953	mən, m- ġðaðe
 w, ʾu- yala
 yalta
 780957	ʾana
-780960	ʾana ʾap, ʾup
-780963	l- ġðaðe
-780965	l- ġðaðe
+780960	ʾap, ʾup ʾana
+780963	ġðaðe l-
+780965	ġðaðe l-
 malka
 780969	xa, xaʾa yala
 780972	tama
 780974	raba
-780976	w, ʾu- ʾap, ʾup
+780976	ʾap, ʾup w, ʾu-
 780978	ṱ
 780980	raba
 780983	xabra
@@ -51397,12 +51397,12 @@ ta yala
 ʾaskar, ʾaskariya
 lazəm
 780993	kut
-780995	ʾupra gu-
+780995	gu- ʾupra
 780997	lazəm
 780999	ʾaskar, ʾaskariya
 ʾawwa
 ʾaskar, ʾaskariya
-781003	ṭla-, ta- kəma
+781003	kəma ṭla-, ta-
 781005	ṭḷaθa, ṭḷa qa- yarxa, yɛrxa
 mara
 781009	ma
@@ -51463,16 +51463,16 @@ raba
 har
 w, ʾu-
 781100	diya
-781102	yalla də-, de-
+781102	də-, de- yalla
 jalda
 781105	t ta
 malka
 781109	qəm-
-781114	čačma gu-
+781114	gu- čačma
 w, ʾu-
 781117	bara
 ʾay
-781120	gu- ʾotəx, ʾotaxa
+781120	ʾotəx, ʾotaxa gu-
 diya
 781126	qedamta
 saʾət, saʾta, saʾatta, saʾa
@@ -51480,14 +51480,14 @@ saʾət, saʾta, saʾatta, saʾa
 b- lɛle
 781131	malka
 ʾina
-čačma gu-
+gu- čačma
 ʾawwa
 lɛle
 781137	jalda
 781144	qedamta
-781146	w, ʾu- brata
-781148	dukθa, duka ʾay
-w, ʾu- ʾaxxa
+781146	brata w, ʾu-
+781148	ʾay dukθa, duka
+ʾaxxa w, ʾu-
 tamma
 baθər, bar
 ṭḷaθa, ṭḷa yarxa, yɛrxa
@@ -51521,12 +51521,12 @@ w, ʾu- xabuša
 w, ʾu-
 məndi, mdi xa, xaʾa
 781216	ʾixala
-781218	naša xa, xaʾa
+781218	xa, xaʾa naša
 qəm-
 ʾaw, ʾo
 la
 lɛle
-w, ʾu- la
+la w, ʾu-
 781225	lɛle
 hatxa, ʾatxa
 781228	malka ṭla-, ta-
@@ -51541,14 +51541,14 @@ malka
 naša
 781246	kul, ku, kulla
 781250	ṱ
-malka qa-
+qa- malka
 ʾaw
 xaraya
-781255	qamaya mən, m-
+781255	mən, m- qamaya
 781258	mo, mu, modi, maw, mawdi
 781261	mo, mu, modi, maw, mawdi
 781264	qamaya ʾaw, ʾo
-781266	ʾaw, ʾo t tre, treʾe
+781266	t tre, treʾe ʾaw, ʾo
 781268	t ha
 garra
 781273	garra
@@ -51557,26 +51557,26 @@ garra
 781282	malka ya
 ṱ
 basima
-781287	naša xa, xaʾa
+781287	xa, xaʾa naša
 781289	karma, kɛrma, kʸɛrma xa, xaʾa
 781291	b-
 w, ʾu-
 kčixa
-781296	qa- t ha
-781304	naša xa, xaʾa
+781296	t qa- ha
+781304	xa, xaʾa naša
 qəm-
 ʾay, ʾey, ʾɛ, ʾa
 781308	ʾaw, ʾo
 qəm-
 la
 lɛle
-781313	w, ʾu- la
+781313	la w, ʾu-
 781316	lɛle
 781318	ʾana
 781320	b-
 mo, mu, modi, maw, mawdi
 781323	ṱ
-781325	ču məndi, mdi
+781325	məndi, mdi ču
 w, ʾu-
 mo, mu, modi, maw, mawdi
 ṱ
@@ -51603,13 +51603,13 @@ malka
 w, ʾu-
 naša
 qəm-
-781379	w, ʾu- la
-781381	w, ʾu- la
+781379	la w, ʾu-
+781381	la w, ʾu-
 781383	ʾina
 781387	ʾarya, ʾɛrya
 ʾina
-781390	tala max
-mən, m- karma, kɛrma, kʸɛrma gu-
+781390	max tala
+mən, m- gu- karma, kɛrma, kʸɛrma
 781394	hatxa, ʾatxa
 781397	he
 781399	ʾana
@@ -51617,21 +51617,21 @@ mən, m- diya
 mən, m- baθər, bar
 781404	xətna w, ʾu-
 bɛθa l-
-781407	w, ʾu- hadiya, diya, hadayya
+781407	hadiya, diya, hadayya w, ʾu-
 781409	ʾana
 manay, manaya
-781413	malka w, ʾu- t
+781413	t malka w, ʾu-
 w, ʾu-
 basima
 raba
 781418	brona
 781420	ʾaskar, ʾaskariya l-
-781426	ʾay, ʾey, ʾɛ, ʾa baxta
+781426	baxta ʾay, ʾey, ʾɛ, ʾa
 šawwa
 kalθa
 šawwa
 ʾarxe, ʾərxe
-w, ʾu- ʾərba
+ʾərba w, ʾu-
 kul, ku, kulla
 məndi, mdi
 šawwa
@@ -51647,13 +51647,13 @@ brona
 781447	la
 ʾarxe, ʾərxe
 kul, ku, kulla
-781452	naša xa, xaʾa
+781452	xa, xaʾa naša
 781454	pala xa, xaʾa
 781457	ʾayya t
 pala
 781463	kalθa xa, xaʾa
-781465	w, ʾu- ʾarxa heš, həš, š xa, xaʾa
-781467	w, ʾu- ʾəzza xa, xaʾa
+781465	heš, həš, š ʾarxa xa, xaʾa w, ʾu-
+781467	ʾəzza xa, xaʾa w, ʾu-
 xeta, xreta
 781470	kul, ku, kulla
 781474	ha
@@ -51672,12 +51672,12 @@ gu-
 qəm-
 gu-
 781506	kul, ku, kulla
-781509	bɛθa gu-
+781509	gu- bɛθa
 781511	šlama
 781514	b- šɛna
 781516	kɛla
 781519	mama
-781523	heš, həš, š tanura
+781523	tanura heš, həš, š
 781525	tanura
 781527	tanura
 tanura
@@ -51697,7 +51697,7 @@ kɛla
 781561	l-
 hal, ha-
 781565	zala
-b- ʾalola xa, xaʾa
+b- xa, xaʾa ʾalola
 781569	ṱ
 781573	qariwta
 781576	b- dargušta
@@ -51712,15 +51712,15 @@ gu-
 qala
 diya
 781597	w, ʾu-
-781608	w, ʾu- ʾupra
+781608	ʾupra w, ʾu-
 para
 mo, mu, modi, maw, mawdi
 781612	qala
 daqiqa
-xo, xoθ- ʾərbala t
+t xo, xoθ- ʾərbala
 daqiqa
-xo, xoθ- ʾərbala t
-781619	dukθa, duka xa, xaʾa
+t xo, xoθ- ʾərbala
+781619	xa, xaʾa dukθa, duka
 daqiqa
 la
 781623	ga xa, xaʾa
@@ -51735,26 +51735,26 @@ xeta, xreta
 ʾalola
 ga xa, xaʾa
 xeta, xreta
-781647	mara ʾay
+781647	ʾay mara
 hadəx
 781650	də-, de-
 b- ʾalola
 də-, de-
 mən, m- yala
 zora
-ʾani, ʾan t
-781658	ʾani, ʾan t
+t ʾani, ʾan
+781658	t ʾani, ʾan
 781661	də-, de-
 gare
 gare
-781665	w, ʾu- kima, čima
+781665	kima, čima w, ʾu-
 gabbara, gebara
-ʾani, ʾan t
+t ʾani, ʾan
 781669	dagala
-ʾani, ʾan t
+t ʾani, ʾan
 781672	dagala
-ga ʾanna
-781675	ləbba gu-
+ʾanna ga
+781675	gu- ləbba
 781677	kul, ku, kulla
 781682	kulənga
 781684	t ma
@@ -51773,7 +51773,7 @@ məndi, mdi
 ʾap, ʾup ʾaw
 qəm-
 781724	tama
-781726	xawra tre, treʾe
+781726	tre, treʾe xawra
 šmayya
 mara
 məndi, mdi
