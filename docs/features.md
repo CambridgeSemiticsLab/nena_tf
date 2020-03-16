@@ -59,6 +59,7 @@ A Dragon in the Well
 A Dutiful Son
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 126 |
 
@@ -83,8 +84,9 @@ examples:
 The Wife Who Learns How to Work
 ```
 
-|:------|--:|
-| TOTAL | 1 |
+|       |    |
+|:------|---:|
+| TOTAL |  1 |
 
 ### informant
 
@@ -162,6 +164,7 @@ bar text a19-A23.html
 bar text A37-A40.html
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 126 |
 
@@ -180,6 +183,7 @@ A13
 A14
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 125 |
 
@@ -200,6 +204,7 @@ examples:
 5
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 351 |
 
@@ -220,6 +225,7 @@ examples:
 5
 ```
 
+|       |      |
 |:------|-----:|
 | TOTAL | 2544 |
 
@@ -237,6 +243,7 @@ plain text representation of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -246,6 +253,7 @@ plain text without accents
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -255,6 +263,7 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -264,6 +273,7 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -273,6 +283,7 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -282,6 +293,7 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -291,6 +303,7 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -300,6 +313,7 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -309,6 +323,7 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 
 See the [transcription tables](transcription.md).
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -327,6 +342,7 @@ Manya Givoyev
 Yuwəl Yuḥanna
 ```
 
+|       |       |
 |:------|------:|
 | TOTAL | 93762 |
 
@@ -343,8 +359,9 @@ examples:
 [^2]: None
 ```
 
-|:------|--:|
-| TOTAL | 3 |
+|       |    |
+|:------|---:|
+| TOTAL |  3 |
 
 ### lang
 
@@ -372,6 +389,7 @@ examples:
 True
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 507 |
 
@@ -390,6 +408,7 @@ la
 b-
 ```
 
+|       |       |
 |:------|------:|
 | TOTAL | 22815 |
 
@@ -408,6 +427,7 @@ sing.
 pl. f.
 ```
 
+|       |      |
 |:------|-----:|
 | TOTAL | 2263 |
 
@@ -646,6 +666,7 @@ I
 in, at, on, with, by means of.
 ```
 
+|       |       |
 |:------|------:|
 | TOTAL | 21116 |
 
@@ -657,6 +678,7 @@ plain text representation of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -666,6 +688,7 @@ plain text without accents
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -675,6 +698,7 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -684,6 +708,7 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -693,6 +718,7 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -702,6 +728,7 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -711,6 +738,7 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -720,6 +748,7 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -729,6 +758,7 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -747,6 +777,7 @@ Manya Givoyev
 Yuwəl Yuḥanna
 ```
 
+|       |        |
 |:------|-------:|
 | TOTAL | 120148 |
 
@@ -763,8 +794,9 @@ examples:
 [^2]: None
 ```
 
-|:------|--:|
-| TOTAL | 3 |
+|       |    |
+|:------|---:|
+| TOTAL |  3 |
 
 ### lang
 
@@ -792,6 +824,7 @@ examples:
 True
 ```
 
+|       |     |
 |:------|----:|
 | TOTAL | 534 |
 
@@ -806,8 +839,9 @@ examples:
 *interruption*
 ```
 
-|:------|--:|
-| TOTAL | 1 |
+|       |    |
+|:------|---:|
+| TOTAL |  1 |
 
 ### lemma
 
@@ -824,6 +858,7 @@ b-
 gu-
 ```
 
+|       |       |
 |:------|------:|
 | TOTAL | 28963 |
 
@@ -842,6 +877,7 @@ sing.
 f. and pl.
 ```
 
+|       |      |
 |:------|-----:|
 | TOTAL | 2276 |
 
@@ -912,6 +948,7 @@ in, at, on, with, by means of.
 speaker deixis demonstrative 
 ```
 
+|       |       |
 |:------|------:|
 | TOTAL | 28963 |
 
@@ -923,6 +960,7 @@ plain text representation of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -932,6 +970,7 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -941,6 +980,7 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -950,6 +990,7 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -959,6 +1000,7 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -968,6 +1010,7 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -977,6 +1020,7 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
@@ -986,6 +1030,7 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 
 See the [transcription tables](transcription.md).
 
+|       |        |
 |:------|-------:|
 | TOTAL | 539381 |
 
