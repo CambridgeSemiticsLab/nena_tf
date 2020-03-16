@@ -2,13 +2,14 @@
 @about=language of a morpheme foreign to a text
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
+@feature_type=categorical
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Dorota Molin, Johan Lundberg
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T22:02:33Z
+@dateWritten=2020-03-16T20:10:53Z
 
 635003	P
 635260	E

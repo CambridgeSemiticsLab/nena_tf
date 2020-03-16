@@ -2,13 +2,14 @@
 @about=lite transcription of punctuation or other stylistic text at the end of a morpheme or word, excluding intonation boundary markers; see also trans_l
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
+@feature_type=text
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Dorota Molin, Johan Lundberg
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T22:02:34Z
+@dateWritten=2020-03-16T20:10:54Z
 
 
 -

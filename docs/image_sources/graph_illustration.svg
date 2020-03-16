@@ -19,17 +19,17 @@
   <sodipodi:namedview
      inkscape:window-maximized="0"
      inkscape:window-y="23"
-     inkscape:window-x="1440"
+     inkscape:window-x="0"
      inkscape:window-height="984"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:snap-text-baseline="false"
      showgrid="true"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="373.70882"
-     inkscape:cx="450.0741"
-     inkscape:zoom="2.2209775"
+     inkscape:cy="342.06956"
+     inkscape:cx="401.34855"
+     inkscape:zoom="1.36085"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -57,6 +57,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <ellipse
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        ry="9.6474333"
        rx="10.348514"
        cy="116.20995"
@@ -64,6 +67,9 @@
        id="path16-4-7"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.486945;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.486944;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path16-4-7-1"
        cx="126.41381"
@@ -71,6 +77,9 @@
        rx="10.348514"
        ry="9.6474342" />
     <ellipse
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.486944;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path16-4-7-5"
        cx="84.793045"
@@ -78,6 +87,9 @@
        rx="10.348514"
        ry="9.6474342" />
     <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        inkscape:connection-end="#path16-4-7-1"
        inkscape:connection-start="#path16-4-7"
        inkscape:connector-curvature="0"
@@ -86,6 +98,9 @@
        d="m 111.60865,107.77872 9.77571,-16.387712"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        inkscape:connection-end="#path16-4-7"
        inkscape:connection-start="#path16-4-7-5"
        inkscape:connector-curvature="0"
@@ -94,6 +109,9 @@
        d="M 90.150009,90.895743 101.22223,107.9559"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        inkscape:connection-end="#path16-4-7-5"
        inkscape:connection-start="#path16-4-7-1"
        inkscape:connector-curvature="0"
@@ -102,6 +120,9 @@
        d="M 116.06582,82.880694 95.141038,82.720777"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        id="text946"
        y="116.41666"
        x="101.86458"
@@ -113,6 +134,9 @@
          id="tspan944"
          sodipodi:role="line" /></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        id="text950"
        y="84.398209"
        x="79.447495"
@@ -124,6 +148,9 @@
          id="tspan948"
          sodipodi:role="line">node</tspan></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="121.60675"
@@ -135,6 +162,9 @@
          y="84.398209"
          style="stroke-width:0.264583">node</tspan></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        id="text950-8-9"
        y="118.01765"
        x="101.07904"
@@ -146,6 +176,9 @@
          id="tspan948-2-8"
          sodipodi:role="line">node</tspan></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="117.1673"
@@ -157,6 +190,9 @@
          y="101.64114"
          style="stroke-width:0.264583">edge</tspan></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        id="text950-8-9-2-0"
        y="81.520798"
        x="99.655304"
@@ -168,6 +204,9 @@
          id="tspan948-2-8-0-6"
          sodipodi:role="line">edge</tspan></text>
     <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/Users/cody/github/CambridgeSemiticsLab/nena_tf/docs/images/graph_illistration.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="85.61055"

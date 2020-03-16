@@ -2,13 +2,14 @@
 @about=name of the file from which a text was converted
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
+@feature_type=string
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Dorota Molin, Johan Lundberg
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T22:02:35Z
+@dateWritten=2020-03-16T20:10:56Z
 
 739645	bar text a1-A7.html
 bar text a1-A7.html

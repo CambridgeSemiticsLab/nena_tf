@@ -2,13 +2,14 @@
 @about=grammatical description of a word lemma
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
+@feature_type=categorical
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Dorota Molin, Johan Lundberg
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T22:02:33Z
+@dateWritten=2020-03-16T20:10:53Z
 
 577912	num.
 part.
@@ -28973,9 +28974,9 @@ n.m.
 634769	n.f.
 634772	n.f.
 634780	n.m.
-739771	part. num.
+739771	num. part.
 739776	part. pron.
-739778	prep. n.m.
+739778	n.m. prep.
 739780	n.m. part.
 739782	n.m. part.
 739784	n.m.
@@ -28986,7 +28987,7 @@ n.m. part.
 num.
 num.
 739793	n.m. part.
-n.m. part. num.
+n.m. num. part.
 n.f.
 part.
 n.m.
@@ -28997,11 +28998,11 @@ prep.
 739806	n.m. num.
 n.m./adj.
 739813	pron. ms.
-739818	prep. n.m.
+739818	n.m. prep.
 739820	num.
 num.
 n.m.
-prep. num. n.f.
+n.f. num. prep.
 739825	prep.
 pron. fs.
 n.f.
@@ -29017,7 +29018,7 @@ num.
 num.
 num.
 num.
-part. num.
+num. part.
 num.
 739851	n.f.
 739853	n.m.
@@ -29032,21 +29033,21 @@ n.f.
 739864	prep. num.
 part.
 739868	n.m./adj.
-prep. n.m.
-739871	prep. n.m.
+n.m. prep.
+739871	n.m. prep.
 interj.
 739875	mod.
 n.m.
 739878	adv.
-prep. n.m.
-739883	part. pron. pl.
+n.m. prep.
+739883	pron. pl. part.
 739886	adv.
 739888	n.m.
 n.m./adj.
 num.
 num.
 n.m.
-739898	prep. n.f.
+739898	n.f. prep.
 739900	n.f.
 part.
 n.m. part.
@@ -29056,13 +29057,13 @@ adj.
 adj.
 739910	adj.
 n.m. part.
-prep. n.m.
+n.m. prep.
 n.m./f.
 num.
 n.f.
 739917	n.m./adj.
-739920	prep. n.m.
-part. n.f.
+739920	n.m. prep.
+n.f. part.
 prep.
 739924	n.f.
 739927	n.m.
@@ -29079,11 +29080,11 @@ pron. fs.
 739946	n.m.
 pron. cs.
 n.f.
-739950	prep. part. pron.
+739950	part. pron. prep.
 n.f.
 739954	n.f.
 739956	pron. cs.
-prep. part. pron.
+part. pron. prep.
 739959	n.f.
 739961	n.m. part.
 n.m.
@@ -29094,7 +29095,7 @@ pron. fs.
 739971	n.m. part.
 part.
 prep.
-part. n.pl.
+n.pl. part.
 prep.
 part.
 adj. part.
@@ -29106,11 +29107,11 @@ n.m.
 part.
 739993	part.
 739995	pron. cs.
-prep. n.m.
+n.m. prep.
 pron. cs. part.
 739999	part.
 part.
-740002	pron. fs. part.
+740002	part. pron. fs.
 740005	part.
 740007	n.m.
 part.
@@ -29131,15 +29132,15 @@ n.m.
 pron. cs.
 mod. adv.
 n.f.
-740034	prep. n.m.
+740034	n.m. prep.
 n.m.
 740037	n.m.
 n.m.
-pron. ms. part.
+part. pron. ms.
 n.m./adj.
-740045	prep. n.m.
+740045	n.m. prep.
 n.m. part.
-prep. n.m. n.f.
+n.m. n.f. prep.
 part.
 num.
 num.
@@ -29147,12 +29148,12 @@ n.m.
 pron. cs. part.
 740054	n.f.
 part.
-pron. fs. n.f.
+n.f. pron. fs.
 n.m.
-740059	prep. n.m. num.
-pron. ms. part.
+740059	n.m. prep. num.
+part. pron. ms.
 n.m./adj.
-prep. n.m.
+n.m. prep.
 part.
 pron. pl.
 n.m.
@@ -29170,11 +29171,11 @@ n.f.
 740086	n.f.
 740089	part.
 pron. pl.
-740092	pron. fs. part.
+740092	part. pron. fs.
 n.f.
 740095	part.
 740097	pron. cs.
-740099	prep. n.m.
+740099	n.m. prep.
 n.m./adj.
 740103	part.
 740105	n.m.
@@ -29186,8 +29187,8 @@ n.m./adj.
 n.m.
 740118	pron. ms.
 740120	n.pl.tant.
-prep. num. n.f.
-prep. n.f.
+n.f. num. prep.
+n.f. prep.
 740125	prep.
 740128	n.m. mod.
 740131	n.f.
@@ -29213,9 +29214,9 @@ part.
 740178	n.m. num.
 adj.
 part.
-pron. ms. part.
+part. pron. ms.
 740184	n.m.
-740187	n.m. part. mod.
+740187	n.m. mod. part.
 part.
 n.f.
 part.
@@ -29224,12 +29225,12 @@ adj.
 740194	interj.
 740202	n.m. num.
 adj. adv. mod.
-part. pron. pl.
+pron. pl. part.
 740206	part.
 740208	part.
 740210	prep.
-num. n.m./f.
-num. n.m./f.
+n.m./f. num.
+n.m./f. num.
 740217	mod.
 740220	adj.
 740224	adj.
@@ -29244,25 +29245,25 @@ pron. cs.
 740243	mod.
 740247	part.
 740251	n.m.
-740253	prep. n.m.
+740253	n.m. prep.
 740258	n.m. num.
 prep.
 740262	prep.
 740265	n.f.
 mod.
-pron. ms. n.m.
+n.m. pron. ms.
 740269	part.
 adv.
 n.m. num.
 num.
 740275	mod.
 pron. pl.
-740279	prep. n.m. num.
+740279	n.m. prep. num.
 part.
 740284	n.m.
 num.
 n.m./adj.
-prep. num. n.f.
+n.f. num. prep.
 740289	n.m.
 740292	n.m.
 740294	n.m./adj.
@@ -29272,7 +29273,7 @@ part.
 n.m./adj.
 adj.
 740302	prep.
-740305	prep. n.m.
+740305	n.m. prep.
 740307	n.m. part.
 prep.
 n.m./adj.
@@ -29286,7 +29287,7 @@ pron. cs.
 n.m. part.
 n.f.
 prep.
-n.m. part. n.f.
+n.m. n.f. part.
 740331	n.m.
 n.m. adv./adj.
 part., prep.
@@ -29295,16 +29296,16 @@ pron. ms.
 n.m.
 740340	part.
 prep.
-prep. n.f.
+n.f. prep.
 part.
 part.
 740353	pron. pl.
 740356	pron. ms.
-740358	prep. n.m.
+740358	n.m. prep.
 740360	part.
 prep.
 n.m.
-740364	prep. n.m.
+740364	n.m. prep.
 prep. n.pl.
 740368	interj.
 740371	n.m.
@@ -29336,12 +29337,12 @@ adj.
 part.
 n.m. part.
 pron. pl.
-740433	prep. num.
+740433	num. prep.
 740437	pron. ms.
-740442	prep. n.f.
-prep. n.f.
-740446	prep. n.m.
-740450	prep. n.m.
+740442	n.f. prep.
+n.f. prep.
+740446	n.m. prep.
+740450	n.m. prep.
 n.m.
 n.m.
 n.m.
@@ -29350,7 +29351,7 @@ part.
 740459	part.
 740463	n.f.
 740467	mod.
-740469	prep. n.m.
+740469	n.m. prep.
 740472	n.m.
 740476	part.
 n.m.
@@ -29369,7 +29370,7 @@ n.m.
 740504	num.
 n.m.
 prep.
-740510	prep. n.m.
+740510	n.m. prep.
 part.
 740517	prep. num.
 n.m.
@@ -29380,10 +29381,10 @@ n.m.
 740524	n.f.
 n.f.
 740527	part.
-740529	prep. n.f.
+740529	n.f. prep.
 740534	pron. pl.
 part. pron.
-740538	prep. n.m. num.
+740538	n.m. prep. num.
 n.pl.tan.
 740541	prep. num.
 n.m.
@@ -29391,7 +29392,7 @@ n.m.
 prep.
 prep.
 n.pl.tan.
-740550	prep. n.f.
+740550	n.f. prep.
 n.m. num.
 n.pl.tan.
 prep. num.
@@ -29399,16 +29400,16 @@ prep. num.
 n.m.
 part.
 740559	n.m.
-740563	prep. n.f.
-mod. num.
+740563	n.f. prep.
+num. mod.
 740566	pron.
 n.pl.tan. part.
 740573	prep. num.
 prep.
 740579	n.pl.tan.
-prep. n.m.
+n.m. prep.
 n.pl.tan.
-prep. n.m.
+n.m. prep.
 n.m.
 740586	n.m.
 n.m.
@@ -29423,7 +29424,7 @@ n.f.
 740614	part., prep.
 740617	adv.
 part.
-740623	prep. n.f.
+740623	n.f. prep.
 part.
 pron. pl.
 740629	num.
@@ -29431,7 +29432,7 @@ n.m.
 num.
 740634	n.m. num.
 part.
-740638	num. n.f.
+740638	n.f. num.
 740642	n.m.
 740649	num.
 n.m.
@@ -29439,9 +29440,9 @@ adv.
 740653	prep.
 n.m.
 pron. pl.
-prep. n.m.
+n.m. prep.
 740664	part.
-740666	part. n.f.
+740666	n.f. part.
 part.
 part.
 pron. cs.
@@ -29451,25 +29452,25 @@ adj.
 adj.
 pron. pl.
 740677	pron. cs.
-740679	pron. cs. n.f.
+740679	n.f. pron. cs.
 740682	part.
 n.m.
 740686	prep.
 pron. ms. part.
-740689	pron. fs. n.f.
+740689	n.f. pron. fs.
 740691	prep.
 740695	interj.
 adj.
 adj.
 adj.
 740700	adj.
-740702	prep. num.
-prep. num.
+740702	num. prep.
+num. prep.
 740706	prep.
 740708	prep.
 740710	prep.
 740712	prep.
-740714	prep. n.m.
+740714	n.m. prep.
 part.
 740718	n.f.
 740720	mod.
@@ -29484,17 +29485,17 @@ pron. pl.
 n.m.
 740740	mod.
 740742	n.m.
-740744	part. mod.
+740744	mod. part.
 740748	n.f.
-prep. n.m./f.
+n.m./f. prep.
 num.
 n.f.
 num.
 prep.
 n.m.
-740758	num. n.f.
+740758	n.f. num.
 n.m.
-740762	prep. n.f.
+740762	n.f. prep.
 part.
 prep.
 740769	n.m.
@@ -29511,14 +29512,14 @@ adj.
 part.
 740795	mod. adv.
 adj. adv. mod.
-part. adv.
+adv. part.
 part.
 adv.
 740801	prep.
 n.pl.
 prep. f.
 part.
-prep. n.f.
+n.f. prep.
 part.
 pron. fs.
 adj.
@@ -29544,7 +29545,7 @@ adj. adv. mod.
 part.
 740850	n.m.
 n.f.
-prep. n.f.
+n.f. prep.
 740854	prep. n.m./adj.
 740856	n.m.
 n.f.
@@ -29560,7 +29561,7 @@ n.m.
 740895	n.f.
 740897	part.
 740900	part.
-part. n.f.
+n.f. part.
 740904	num.
 n.m.
 740907	num.
@@ -29575,12 +29576,12 @@ prep.
 740922	part. pron.
 740925	n.f.
 n.m.
-740928	prep. n.m.
-740930	num. n.f.
+740928	n.m. prep.
+740930	n.f. num.
 mod.
 740933	adv.
 n.f.
-740936	mod. num.
+740936	num. mod.
 740943	pron. ms.
 n.m.
 740947	prep.
@@ -29606,11 +29607,11 @@ pron. pl.
 740995	n.m.
 741000	n.m.
 741002	n.m.
-741004	pron. ms. n.m.
-741007	pron. ms. n.m.
+741004	n.m. pron. ms.
+741007	n.m. pron. ms.
 adj. adv. mod.
 741010	n.f.
-741012	mod. num.
+741012	num. mod.
 741019	n.m.
 741021	pron. ms.
 n.m.
@@ -29625,7 +29626,7 @@ part.
 741050	n.f.
 741055	num.
 741059	num.
-741061	part. num.
+741061	num. part.
 n.f.
 pron. cs.
 741065	n.m.
@@ -29635,27 +29636,27 @@ n.f.
 prep.
 741077	prep.
 n.f.
-741080	n.m. part. pron.
+741080	part. pron. n.m.
 741082	num.
-741086	part. num.
+741086	num. part.
 741088	pron. ms.
 741090	n.m.
-prep. n.m.
+n.m. prep.
 741093	n.m.
 741095	n.m.
 pron. pl.
 741098	mod.
 n.m.
 n.m.
-prep. n.f.
+n.f. prep.
 741103	n.m.
 741109	part.
-prep. n.m. num.
-741113	part. num.
+n.m. prep. num.
+741113	num. part.
 741116	n.m.
 n.m.
 n.f.
-741120	part. num.
+741120	num. part.
 741123	mod.
 part.
 mod.
@@ -29671,13 +29672,13 @@ pron. cs.
 741146	pron. fs.
 741150	n.m.
 741152	n.m.
-741154	mod. pron. pl.
+741154	pron. pl. mod.
 part.
 n.m.
 part.
 741159	pron. pl.
-part. n.f.
-mod. pron. pl.
+n.f. part.
+pron. pl. mod.
 part.
 741166	n.f.
 741168	part.
@@ -29686,42 +29687,42 @@ part.
 741173	part.
 part.
 741176	part.
-prep. adv.
+adv. prep.
 741179	prep.
 741181	prep.
 adv.
 741184	prep. num.
 n.m.
-741188	num. n.f.
+741188	n.f. num.
 n.m. num.
 741193	n.m.
-num. n.f.
-741196	prep. n.f.
-prep. n.f.
+n.f. num.
+741196	n.f. prep.
+n.f. prep.
 741199	n.m. num.
-741201	prep. n.f.
+741201	n.f. prep.
 741204	num.
-741206	prep. n.f.
+741206	n.f. prep.
 741208	n.m. num.
 adj.
 part.
 prep.
-741215	prep. n.f.
+741215	n.f. prep.
 pron. pl.
-741219	prep. n.f.
-prep. n.f.
-741222	pron. ms. n.m.
+741219	n.f. prep.
+n.f. prep.
+741222	n.m. pron. ms.
 prep.
 prep.
 part.
 741227	n.m. num.
-741230	prep. n.m.
-741232	part. num.
-part. num.
-part. num.
+741230	n.m. prep.
+741232	num. part.
+num. part.
+num. part.
 num.
-num. n.f.
-741238	num. n.f.
+n.f. num.
+741238	n.f. num.
 part.
 part. pron. n.f.
 741242	n.f.
@@ -29729,7 +29730,7 @@ part. pron. n.f.
 n.m.
 741248	part.
 741250	n.m.
-mod. n.f.
+n.f. mod.
 741253	pron. ms.
 741257	part.
 part.
@@ -29737,11 +29738,11 @@ part.
 741264	n.f.
 part.
 n.m.
-prep. n.m.
+n.m. prep.
 741269	pron. fs.
 741271	part.
-prep. n.f.
-741274	n.m. num. pron. pl.
+n.f. prep.
+741274	pron. pl. num. n.m.
 adv.
 pron. ms.
 741278	pron. ms.
@@ -29749,19 +29750,19 @@ pron. ms.
 741283	prep.
 741288	n.f.
 741292	pron. ms.
-741295	part. pron. pl.
+741295	pron. pl. part.
 741298	part. pron.
 741303	n.f.
-741306	num. n.f.
-part. num.
+741306	n.f. num.
+num. part.
 num.
 n.f.
 prep.
 n.f.
-part. pron. pl.
+pron. pl. part.
 741316	part.
 741319	adv.
-prep. adv.
+adv. prep.
 741323	prep.
 741327	pron. cs.
 741329	prep.
@@ -29770,31 +29771,31 @@ prep. adv.
 741337	prep. part.
 n.m.
 prep. part.
-741341	part. num.
+741341	num. part.
 num.
 n.m.
 adj.
-741346	part. n.f.
+741346	n.f. part.
 741350	adj. invar.
-part. pron. pl.
+pron. pl. part.
 741354	adj.
 741356	adv.
 mod.
 741359	part.
 741361	part. pron.
-741364	prep. n.f.
+741364	n.f. prep.
 n.m.
 741367	part.
 prep.
-741371	prep. n.f.
+741371	n.f. prep.
 741373	part.
 741376	n.f.
-part. pron. pl.
+pron. pl. part.
 741379	num.
 prep. adj. adv. mod.
 n.m.
 741383	n.f.
-part. pron. pl.
+pron. pl. part.
 741386	pron. ms.
 741388	part.
 741391	pron. ms.
@@ -29809,7 +29810,7 @@ n.m. num.
 part.
 741408	prep.
 741411	prep.
-741413	part. num.
+741413	num. part.
 741415	prep.
 741418	prep. part.
 adj.
@@ -29817,14 +29818,14 @@ adj.
 n.m. part.
 741425	n.m. num.
 741427	num.
-prep. n.m.
+n.m. prep.
 part.
 n.m.
 741432	prep.
 741436	n.m.
 pron. cs.
 part.
-prep. n.m.
+n.m. prep.
 741442	n.m.
 prep.
 n.m.
@@ -29832,19 +29833,19 @@ n.m.
 n.m.
 part. pron.
 part.
-741450	prep. n.m.
+741450	n.m. prep.
 prep.
-741454	prep. n.m.
+741454	n.m. prep.
 n.m. num.
 n.m.
 num.
 741459	prep.
-part. num.
+num. part.
 741462	num.
 n.m.
 741466	n.m./f.
 n.m.
-741469	n.m. pron. pl.
+741469	pron. pl. n.m.
 741472	part.
 741474	part.
 741478	part.
@@ -29860,7 +29861,7 @@ adj.
 741491	n.m.
 741495	n.m.
 pron. ms.
-741499	part. mod.
+741499	mod. part.
 741502	pron. ms.
 741505	pron. ms.
 741509	n.f.
@@ -29879,29 +29880,29 @@ n.f.
 741539	prep.
 741543	pron.
 741545	prep.
-part. adv.
-prep. n.m.
+adv. part.
+n.m. prep.
 741549	mod. adv.
 741551	adj.
 prep.
-prep. n.m.
+n.m. prep.
 741555	pron. fs.
-741558	mod. num.
+741558	num. mod.
 prep.
 741561	pron. fs.
 prep.
 n.m.
 741565	part.
-prep. n.m./f.
+n.m./f. prep.
 741568	pron. ms.
 n.m./adj.
 mod.
-741572	part. mod.
+741572	mod. part.
 741574	n.m. part.
 741578	n.m.
 741582	n.m.
-741584	part. num.
-part. n.f.
+741584	num. part.
+n.f. part.
 741588	n.m.
 741591	prep. mod.
 pron. pl.
@@ -29916,7 +29917,7 @@ pron. cs.
 741621	prep.
 part.
 part.
-741625	prep. n.f.
+741625	n.f. prep.
 741628	part.
 prep.
 n.m.
@@ -29926,7 +29927,7 @@ part.
 741638	n.m.
 741640	pron. fs.
 n.f.
-pron. fs. part.
+part. pron. fs.
 n.f.
 741646	n.m. mod.
 741648	pron. ms.
@@ -29946,9 +29947,9 @@ n.f.
 n.m.
 741687	prep.
 n.f.
-741690	pron. fs. part.
+741690	part. pron. fs.
 prep.
-741693	mod. n.f.
+741693	n.f. mod.
 pron. cs.
 741696	n.m.
 741699	prep.
@@ -29957,16 +29958,16 @@ part.
 741704	n.m. part.
 part.
 prep.
-741708	prep. n.f.
-prep. n.f.
-prep. n.f.
-prep. n.f.
+741708	n.f. prep.
+n.f. prep.
+n.f. prep.
+n.f. prep.
 741714	prep.
 pron. ms.
 741718	n.m.
-prep. n.m.
-pron. ms. n.m.
-741724	pron. ms. n.m.
+n.m. prep.
+n.m. pron. ms.
+741724	n.m. pron. ms.
 741728	pron. ms.
 n.f.
 part.
@@ -29976,14 +29977,14 @@ part.
 part.
 n.m.
 n.m.
-741738	prep. n.f.
-741740	pron. fs. n.f.
+741738	n.f. prep.
+741740	n.f. pron. fs.
 n.m.
 741743	n.m.
 741747	n.m.
-mod. num.
+num. mod.
 741750	n.m. num.
-mod. num.
+num. mod.
 n.m.
 n.m. num.
 pron. ms. part.
@@ -29995,12 +29996,12 @@ n.f.
 741771	n.m. num.
 741774	part.
 part.
-741777	prep. n.m.
+741777	n.m. prep.
 741780	part.
-part. num.
+num. part.
 741785	part.
 741787	n.m.
-741795	num. n.f.
+741795	n.f. num.
 741797	n.m.
 mod.
 741800	part.
@@ -30008,7 +30009,7 @@ mod.
 n.m. part.
 741809	part.
 part.
-prep. n.m./f.
+n.m./f. prep.
 741814	n.f.
 741819	n.m.
 741821	pron. cs.
@@ -30016,17 +30017,17 @@ prep. n.m./f.
 741827	n.f.
 741830	prep.
 n.f.
-741835	prep. n.m.
+741835	n.m. prep.
 741839	num.
-741841	n.m. part. num.
+741841	n.m. num. part.
 part.
 num.
 n.f.
 741847	prep.
-741849	prep. n.m.
+741849	n.m. prep.
 741854	n.m. num.
 741856	adj.
-num. n.f.
+n.f. num.
 n.m.
 741860	mod.
 741863	n.m.
@@ -30046,12 +30047,12 @@ n.m. part.
 741894	prep.
 741897	pron. ms.
 n.m.
-pron. fs. part.
+part. pron. fs.
 n.f.
 741902	part.
-741904	part. part. pron.
+741904	part. pron. part.
 741907	part.
-741909	num. n.f.
+741909	n.f. num.
 prep.
 741913	part., prep.
 n.f.
@@ -30060,23 +30061,23 @@ part.
 part.
 741924	prep.
 n.f./m.
-741927	prep. n.m. adv./adj. mod.
-741930	pron. fs. n.f.
+741927	prep. mod. n.m. adv./adj.
+741930	n.f. pron. fs.
 part.
-prep. n.f.
+n.f. prep.
 741934	part.
 part.
 part.
 part.
-pron. fs. part.
+part. pron. fs.
 741940	part.
 741943	n.f.
 part.
 prep.
 741947	mod. adv.
 part.
-741950	n.m. part. num.
-prep. n.f.
+741950	n.m. num. part.
+n.f. prep.
 part.
 n.f.
 741961	part.
@@ -30084,10 +30085,10 @@ n.f.
 pron. fs.
 741967	n.f.
 741970	n.m.
-741972	pron. ms. n.m.
+741972	n.m. pron. ms.
 741974	part.
 n.f.
-741978	pron. fs. part.
+741978	part. pron. fs.
 741980	n.m.
 n.m.
 741983	part.
@@ -30117,7 +30118,7 @@ prep.
 742046	n.m.
 n.m.
 742050	part.
-742052	num. n.f.
+742052	n.f. num.
 prep.
 742055	prep.
 part.
@@ -30138,7 +30139,7 @@ pron. cs.
 742099	n.m.
 742101	pron. cs.
 742105	part.
-pron. ms. n.m.
+n.m. pron. ms.
 742108	pron. fs.
 n.f.
 742113	pron. ms.
@@ -30151,13 +30152,13 @@ pron. cs.
 742124	prep.
 742126	part.
 742129	prep. part.
-742131	part. n.f.
+742131	n.f. part.
 742134	n.f.
 pron. pl.
 742139	pron. pl.
 742147	part.
 742149	n.m. part.
-part. n.f.
+n.f. part.
 n.f.
 part.
 part.
@@ -30183,16 +30184,16 @@ n.m.
 742193	n.m.
 742198	prep.
 742201	part.
-part. n.f.
+n.f. part.
 742206	part.
-742208	part. n.f.
-742210	part. mod.
-prep. n.m.
+742208	n.f. part.
+742210	mod. part.
+n.m. prep.
 742216	prep.
 742219	n.m.
 742222	part.
 part.
-part. n.f.
+n.f. part.
 742229	n.m. num.
 n.m. num.
 num.
@@ -30218,41 +30219,41 @@ part.
 adv.
 742277	pron. pl.
 n.f.
-742281	prep. n.f.
+742281	n.f. prep.
 742283	n.m.
 742285	prep.
 742287	prep.
 pron. cs.
 742290	mod.
 742292	part.
-742295	prep. n.m. num.
+742295	n.m. num. prep.
 742299	pron. fs.
 n.f.
 part.
 part.
 742308	part. pron.
-742310	num. n.f.
+742310	n.f. num.
 mod.
 742314	n.m. num.
 adv.
-adj. n.m.
+n.m. adj.
 adv.
 adj. invar.
 n.m.
 742321	pron. ms.
 n.m.
 742325	prep.
-742330	num. n.f.
+742330	n.f. num.
 742333	pron. ms.
-742339	part. pron. pl.
+742339	pron. pl. part.
 742342	prep.
 742344	n.m.
 part.
 742347	mod.
-prep. part. n.m..
+prep. n.m.. part.
 prep. adj.
 prep.
-742352	pron. fs. part.
+742352	part. pron. fs.
 742357	n.f.
 742363	part.
 742365	adj.
@@ -30260,11 +30261,11 @@ prep.
 pron. mod.
 742372	n.m.
 742375	n.f.
-prep. n.m.
+n.m. prep.
 part.
-742380	prep. n.m. part.
-part. n.f.
-part. n.f.
+742380	n.m. prep. part.
+n.f. part.
+n.f. part.
 742384	adj. invar.
 n.f.
 pron. fs.
@@ -30320,30 +30321,30 @@ adj.
 n.m.
 742483	n.f.
 adj. adv. mod.
-742488	prep. n.m.
+742488	n.m. prep.
 num.
 n.f./m. prep.
 742494	n.m.
-prep. n.f.
+n.f. prep.
 prep. part.
 part.
 742504	prep.
 part.
-742508	n.m. part. num.
+742508	n.m. num. part.
 num.
 num.
 742512	pron. fs.
 742514	prep.
 742516	n.m.
-742519	part. num.
+742519	num. part.
 742525	n.m. num.
-pron. fs. part.
+part. pron. fs.
 n.m.
 742529	prep.
 part. pron.
 pron. fs.
-mod. n.f.
-742536	n.m. mod. num.
+n.f. mod.
+742536	n.m. num. mod.
 part.
 742539	adj.
 742548	mod.
@@ -30355,19 +30356,19 @@ pron. cs. part.
 742557	part.
 742559	prep.
 n.m.
-742563	part. num.
+742563	num. part.
 742565	pron. cs.
 742567	n.m.
-742570	part. mod.
+742570	mod. part.
 n.m.
 part.
 742574	part.
 742589	mod.
 n.m.
-742598	pron. ms. n.m.
+742598	n.m. pron. ms.
 742600	pron. cs.
 742604	prep.
-pron. ms. n.m.
+n.m. pron. ms.
 742608	mod.
 part., prep.
 742618	pron. ms.
@@ -30392,7 +30393,7 @@ adv.
 742655	n.f.
 742657	pron. cs.
 742661	n.f./m. num.
-prep. n.f.
+n.f. prep.
 742664	mod.
 742666	prep. n.pl.tant.
 742668	prep.
@@ -30408,11 +30409,11 @@ prep.
 742688	part.
 742692	part.
 part.
-n.m. part. num.
+n.m. num. part.
 num.
-n.m. part. num.
-num. n.f.
-n.m. num. pron. pl.
+n.m. num. part.
+n.f. num.
+pron. pl. num. n.m.
 742704	prep. pron.
 742707	adv.
 adv.
@@ -30422,10 +30423,10 @@ part. pron.
 742714	pron. ms. adj. adv. mod.
 742716	n.f.
 part. pron.
-742720	num. pron. pl.
+742720	pron. pl. num.
 742722	pron.
 part.
-742725	part. adv.
+742725	adv. part.
 n.m.
 742728	part.
 mod.
@@ -30433,10 +30434,10 @@ mod.
 742734	adv.
 742738	n.m.
 adv.
-742741	pron. ms. prep.
+742741	prep. pron. ms.
 742743	pron. fs.
-num. n.f.
-742748	num. n.f.
+n.f. num.
+742748	n.f. num.
 742751	prep.
 742755	part. pron.
 742759	part.
@@ -30447,15 +30448,15 @@ n.m. part.
 prep.
 742770	prep. pron.
 num.
-part. n.f.
+n.f. part.
 742774	prep. pron.
 part.
-part. adv.
+adv. part.
 742778	num.
 n.f.
 742783	n.m.
 n.m.
-prep. n.m.
+n.m. prep.
 prep. n.pl.
 742789	adv.
 prep.
@@ -30463,23 +30464,23 @@ prep.
 742797	pron. ms.
 742800	adj.
 742803	pron. cs.
-num. n.f.
+n.f. num.
 742806	adv.
 prep.
-num. n.f.
+n.f. num.
 742810	adv.
 742813	prep.
 742816	part.
 n.f.
-num. n.f.
-n.m. num. n.f.
+n.f. num.
+n.m. n.f. num.
 adv.
 742824	n.m. num.
-742828	num. n.f.
+742828	n.f. num.
 742832	adv.
 742839	pron. cs.
 prep.
-num. n.f.
+n.f. num.
 742843	part.
 742845	num.
 742847	num.
@@ -30509,11 +30510,11 @@ part.
 adv.
 part.
 742891	pron. pl.
-mod. n.f.
+n.f. mod.
 n.f.
 n.f.
 742896	n.f.
-part. n.f.
+n.f. part.
 part.
 pron. pl.
 part. pron.
@@ -30537,7 +30538,7 @@ prep.
 742930	mod.
 num.
 742938	n.m.
-prep. n.m.
+n.m. prep.
 742942	n.f.
 742944	n.m.
 742947	n.m.
@@ -30553,7 +30554,7 @@ adj.
 742963	n.m.
 742968	n.m. part.
 part.
-part. n.pl.
+n.pl. part.
 742973	n.m. part.
 prep.
 742976	n.f.
@@ -30564,7 +30565,7 @@ n.f.
 742985	prep.
 n.m.
 742988	pron. pl.
-742990	pron. fs. part.
+742990	part. pron. fs.
 742993	n.m.
 742997	n.f.
 743000	pron. cs.
@@ -30580,9 +30581,9 @@ n.m.
 743027	prep.
 n.m.
 part.
-part. mod.
+mod. part.
 743033	part.
-743035	prep. adv.
+743035	adv. prep.
 n.m. adv./adj.
 743038	pron. ms.
 743041	n.m. adv. adj.
@@ -30594,18 +30595,18 @@ part.
 743054	pron.
 743056	num.
 n.f.
-prep. n.m.
+n.m. prep.
 n.m. num.
 adj.
 743062	adv.
 adj.
-743066	prep. n.m. part.
+743066	n.m. prep. part.
 n.f.
 743069	n.f.
-part. adv.
+adv. part.
 743072	n.m.
 n.m. num.
-part. num.
+num. part.
 n.m.
 part.
 adv.
@@ -30623,39 +30624,39 @@ adj.
 743095	n.f.
 743097	prep.
 743099	n.m. part.
-743101	prep. n.f.
-pron. ms. n.m.
+743101	n.f. prep.
+n.m. pron. ms.
 adj.
 743106	n.m.
 mod.
-743113	prep. n.m.
+743113	n.m. prep.
 743115	part.
 prep.
 743118	part.
 743122	n.m.
-743125	prep. n.f.
-743128	prep. n.f.
+743125	n.f. prep.
+743128	n.f. prep.
 743132	n.f.
-743135	pron. ms. n.m.
-743139	part. adv.
-743141	num. pron. pl.
+743135	n.m. pron. ms.
+743139	adv. part.
+743141	pron. pl. num.
 743146	mod.
-prep. n.m.
+n.m. prep.
 743149	prep.
-prep. n.m. num.
+n.m. num. prep.
 part.
 interj.
-743154	pron. ms. n.m.
+743154	n.m. pron. ms.
 adj.
 743157	prep. n.pl.
 prep.
 n.m.
-pron. ms. adj.
+adj. pron. ms.
 prep. n.pl.
 743163	prep. n.pl.
 prep.
 prep.
-mod. num.
+num. mod.
 743168	num.
 n.f.
 743173	n.m.
@@ -30665,41 +30666,41 @@ adv.
 743180	n.m. num.
 743182	num.
 n.m.
-num. pron. pl.
+pron. pl. num.
 n.m.
-adj. num.
-743188	adj. num.
+num. adj.
+743188	num. adj.
 743190	prep.
-743192	adj. num.
+743192	num. adj.
 743194	part.
 adj.
-743197	pron. fs. adj.
+743197	adj. pron. fs.
 743199	adj.
-prep. n.f.
+n.f. prep.
 743205	part.
-prep. n.f.
+n.f. prep.
 743208	n.m. num.
-743211	part. num.
-743217	prep. n.m.
+743211	num. part.
+743217	n.m. prep.
 n.m.
 743220	adj.
 pron. fs.
 743223	pron. pl.
 n.m.
 743229	adv.
-prep. n.f.
+n.f. prep.
 adj.
 part., prep.
 part.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 743238	n.f.
 743241	n.f.
 prep.
 n.f.
 adv.
 pron. fs.
-prep. n.f.
+n.f. prep.
 743248	n.m. part.
 743250	n.m.
 743253	adv.
@@ -30715,7 +30716,7 @@ adv.
 743276	num.
 743278	num.
 n.m.
-743281	pron. ms. adj.
+743281	adj. pron. ms.
 743283	pron. ms.
 mod.
 743286	part.
@@ -30739,9 +30740,9 @@ prep.
 743323	n.m. num.
 adj. adv. mod.
 part.
-743330	prep. n.f.
+743330	n.f. prep.
 mod.
-743333	part. num.
+743333	num. part.
 n.f.
 743338	n.m.
 pron. pl.
@@ -30769,7 +30770,7 @@ prep. part.
 pron. pl.
 743389	n.m.
 743391	n.m.
-743393	part. n.f.
+743393	n.f. part.
 743397	n.f.
 743403	pron. ms.
 n.m.
@@ -30789,7 +30790,7 @@ part.
 pron. cs.
 743452	n.f.
 743459	part.
-prep. n.f.
+n.f. prep.
 743463	part.
 n.f.
 743467	mod.
@@ -30803,14 +30804,14 @@ part.
 743482	n.m.
 num.
 743485	n.f.
-part. num.
+num. part.
 n.f.
 mod.
 part.
-pron. ms. n.m.
-743493	num. n.f.
-743496	num. n.f.
-num. n.f.
+n.m. pron. ms.
+743493	n.f. num.
+743496	n.f. num.
+n.f. num.
 743499	mod.
 743502	prep.
 743506	n.f.
@@ -30822,19 +30823,19 @@ n.f.
 743520	prep. part.
 743523	part., prep.
 743526	part. pron.
-743528	n.m. pron. pl.
+743528	pron. pl. n.m.
 743531	n.m.
 743533	part.
 part.
 743536	prep. pron.
 743538	n.m. num.
-part. num. n.f.
+n.f. part. num.
 743541	prep.
 743543	pron. cs.
-part. n.f.
+n.f. part.
 pron. fs.
 743550	n.m.
-pron. fs. part.
+part. pron. fs.
 743554	part.
 743558	n.m.
 743560	pron. cs.
@@ -30843,19 +30844,19 @@ pron. cs. part.
 743564	n.m.
 pron. cs. part.
 743567	n.m. num.
-part. mod.
+mod. part.
 743570	pron. pl.
 n.m. num.
 743574	prep.
 part.
 743579	n.m. adv. adj.
-743581	n.m. pron. pl.
+743581	pron. pl. n.m.
 prep.
 743584	num.
 743586	adv.
 743589	part.
 n.m. part.
-pron. fs. prep.
+prep. pron. fs.
 n.m.
 743594	pron.
 743598	adj.
@@ -30863,13 +30864,13 @@ n.m. num.
 n.m. num.
 743603	prep.
 743607	n.m.
-prep. n.f.
+n.f. prep.
 n.m. n.f.
-part. n.f.
+n.f. part.
 n.m. n.f.
-part. n.f.
+n.f. part.
 n.m. n.f.
-n.m. part. n.f.
+n.m. n.f. part.
 adj.
 n.m. part.
 n.m. part.
@@ -30903,18 +30904,18 @@ prep.
 part.
 adj.
 part.
-743680	prep. n.m.
+743680	n.m. prep.
 prep.
 743683	part.
 743685	part.
 743691	mod.
-pron. fs. n.f.
+n.f. pron. fs.
 743695	pron. cs. part.
 743697	n.m.
-743703	pron. fs. n.f.
-prep. n.m.
+743703	n.f. pron. fs.
+n.m. prep.
 part.
-743707	prep. n.f.
+743707	n.f. prep.
 743709	n.f.
 n.m.
 743716	part., prep.
@@ -30924,47 +30925,47 @@ n.f.
 n.f.
 adv.
 adv.
-prep. adv.
+adv. prep.
 743730	prep.
 743734	mod. adv.
 adj. adv. mod.
 743738	part.
-743740	part. num.
-743744	pron. ms. n.m.
+743740	num. part.
+743744	n.m. pron. ms.
 part., prep.
 743747	num.
 n.f.
 743750	part.
-prep. adv.
+adv. prep.
 prep.
 prep. num.
 n.f.
 743756	prep.
-743758	part. num.
+743758	num. part.
 743760	num.
 num.
 743763	adj.
 743765	mod.
 n.m. part.
 743774	n.m.
-prep. n.f.
-743777	num. n.f.
+n.f. prep.
+743777	n.f. num.
 743780	pron. ms.
 743782	prep.
 mod.
 part.
-prep. n.m.
+n.m. prep.
 part.
 743788	part.
 adj.
 n.m.
 prep.
 743794	m.
-prep. n.f.
+n.f. prep.
 prep.
-743802	num. n.f.
+743802	n.f. num.
 743804	n.m.
-743807	prep. n.f.
+743807	n.f. prep.
 743809	part.
 num.
 num.
@@ -30981,7 +30982,7 @@ n.m. num.
 num.
 743828	adv.
 part.
-prep. n.f.
+n.f. prep.
 part.
 743835	prep.
 743837	n.m.
@@ -30989,14 +30990,14 @@ n.m. adv./adj.
 prep.
 743841	n.m.
 part. pron.
-743846	num. n.f.
+743846	n.f. num.
 743849	part.
 743851	n.f.
 part.
 adj.
 743855	adj.
 pron. cs.
-743860	prep. n.f.
+743860	n.f. prep.
 743862	n.m.
 743869	n.m.
 743872	part.
@@ -31007,7 +31008,7 @@ part.
 743880	n.m.
 743882	n.m.
 743884	n.m. num.
-743886	n.m. part. num.
+743886	n.m. num. part.
 adj.
 n.m.
 743893	part.
@@ -31016,26 +31017,26 @@ num.
 num.
 743898	part.
 part.
-743901	part. pron. pl.
+743901	pron. pl. part.
 pron. fs.
 n.f.
 743905	part., prep.
 743907	n.m.
 pron. pl.
 part., prep.
-part. pron. pl.
-743912	pron. ms. n.m.
+pron. pl. part.
+743912	n.m. pron. ms.
 adj.
 743915	part.
 part.
-prep. n.m.
+n.m. prep.
 743919	part.
 n.m.
 743924	n.m.
 743926	part.
 mod.
 part.
-pron. ms. n.m.
+n.m. pron. ms.
 743931	n.f.
 743934	n.m.
 743936	n.m.,
@@ -31045,7 +31046,7 @@ pron. ms. n.m.
 743948	n.m.,
 743951	part.
 743954	n.f.
-prep. n.f.
+n.f. prep.
 743957	n.m.
 743960	part.
 part.
@@ -31076,28 +31077,28 @@ mod.
 744016	part.
 744018	part.
 mod.
-744023	prep. n.m.
+744023	n.m. prep.
 744025	num.
 744027	prep.
 744031	part.
 mod.
 n.m.
 adj.
-744036	num. n.f.
+744036	n.f. num.
 n.m.
 744041	pron. ms.
-744043	prep. n.m.
+744043	n.m. prep.
 part.
 n.m.
 744048	part.
 n.m.
-744054	pron. ms. n.m.
+744054	n.m. pron. ms.
 744057	n.m.
 744063	part., prep.
 744065	pron. cs.
 n.m. part.
 744068	prep.
-part. n.f.
+n.f. part.
 744071	part.
 pron. cs. part.
 prep.
@@ -31113,14 +31114,14 @@ n.m.
 744092	n.m.
 744094	pron. cs.
 744102	n.m.
-744107	prep. n.m.
+744107	n.m. prep.
 744109	n.m.
 n.m. num.
 744112	n.m.
 744114	num.
 n.m.
 744117	pron. ms. part.
-744119	prep. n.f.
+744119	n.f. prep.
 744123	prep.
 n.f.
 744126	n.m. num.
@@ -31128,16 +31129,16 @@ prep.
 n.m.
 adv.
 n.f.
-744132	prep. n.f.
+744132	n.f. prep.
 744135	prep. num.
 n.m.
 pron. ms.
-744140	pron. ms. n.m.
+744140	n.m. pron. ms.
 744142	prep.
 n.m.
 744147	adv.
-part. num.
-744151	pron. ms. n.m.
+num. part.
+744151	n.m. pron. ms.
 744153	prep.
 744155	n.m.
 744158	prep.
@@ -31161,12 +31162,12 @@ part. part., prep.
 744186	prep.
 n.m.
 adv.
-num. n.f.
+n.f. num.
 mod.
 adj.
 n.f.
 adj.
-744195	num. n.f.
+744195	n.f. num.
 n.m.
 n.m.
 n.m.
@@ -31174,9 +31175,9 @@ n.m.
 part.
 mod.
 744205	n.f.
-prep. n.f.
-prep. adv.
-744210	prep. n.m. num.
+n.f. prep.
+adv. prep.
+744210	n.m. prep. num.
 n.m. num.
 n.m.
 744214	num.
@@ -31184,12 +31185,12 @@ n.m.
 744220	n.f.
 744222	adv.
 n.m. part.
-part. num.
+num. part.
 744228	adv.
 744230	n.f.
 adv.
 744233	n.f.
-part. adv.
+adv. part.
 744236	part.
 744238	adv.
 part.
@@ -31198,11 +31199,11 @@ n.m. part.
 prep.
 744246	pron. ms.
 744248	prep.
-n.m. part. num.
+n.m. num. part.
 part.
 prep.
 744255	part.
-744257	pron. ms. n.m.
+744257	n.m. pron. ms.
 744260	prep.
 744262	num.
 744264	adv.
@@ -31216,11 +31217,11 @@ part.
 744286	pron. fs.
 n.m.
 pron. fs.
-744290	pron. ms. n.m.
+744290	n.m. pron. ms.
 744292	adv.
 part.
 n.m.
-744296	prep. n.m.
+744296	n.m. prep.
 744298	n.m.
 744300	adj.
 744302	mod.
@@ -31233,7 +31234,7 @@ n.m.
 744320	num.
 n.m.
 744323	n.f.
-part. num.
+num. part.
 744326	n.m.
 744328	num.
 n.m.
@@ -31248,7 +31249,7 @@ adj.
 744347	num.
 prep.
 744354	adv.
-pron. ms. n.m.
+n.m. pron. ms.
 adv.
 744358	adj.
 744361	n.f.
@@ -31265,7 +31266,7 @@ mod. adv.
 744390	n.m.
 744393	n.m.
 744397	part.
-744399	pron. ms. n.m.
+744399	n.m. pron. ms.
 744401	n.m.
 n.m. part.
 744405	part.
@@ -31274,7 +31275,7 @@ n.f.
 n.m.
 744414	part.
 n.pl.tan.
-prep. n.m.
+n.m. prep.
 744418	adv.
 n.m.
 744421	prep.
@@ -31283,7 +31284,7 @@ n.f.
 n.f.
 744427	n.f.
 part.
-mod. n.f.
+n.f. mod.
 n.m.
 744432	n.m.
 n.m.
@@ -31291,7 +31292,7 @@ n.m.
 744439	mod.
 744442	n.f.
 744445	pron. cs.
-744447	adj. n.m.
+744447	n.m. adj.
 744449	n.f.
 744452	n.m.
 744454	n.m.
@@ -31317,20 +31318,20 @@ n.f.
 n.m. num.
 mod.
 adj.
-prep. part. n.f.
+n.f. part. prep.
 744497	n.m.
 744501	part. pron.
 744503	n.pl.tan.
 744505	n.f.
 744507	n.f.
 744509	n.pl.
-744511	n.m. mod. num.
+744511	n.m. num. mod.
 744513	part.
 n.f.
 744521	n.m.
 744524	n.m. num.
-744526	prep. n.m.
-744528	prep. part. n.f.
+744526	n.m. prep.
+744528	n.f. part. prep.
 pron. ms.
 744532	part.
 744536	part.
@@ -31340,19 +31341,19 @@ n.m.
 prep.
 744544	part. pron.
 n.m.
-744547	pron. ms. n.m.
+744547	n.m. pron. ms.
 744549	adj. invar.
-744553	n.pl.tan. pron. pl.
+744553	pron. pl. n.pl.tan.
 744555	prep.
 n.pl.tan.
 744558	prep.
 744560	n.f.
 n.pl.tan.
-n.m. pron. pl.
+pron. pl. n.m.
 n.pl.tan. n.f.
 n.f.
-part. num.
-744568	prep. n.m.
+num. part.
+744568	n.m. prep.
 n.m.
 mod.
 744575	n.f.
@@ -31371,31 +31372,31 @@ n.m. num.
 prep.
 prep.
 n.m. num.
-prep. n.m.
+n.m. prep.
 744608	part. pron.
 n.m.
 744611	pron. cs.
-pron. ms. n.m.
+n.m. pron. ms.
 pron. ms.
 n.m.
-744616	pron. ms. n.f.
+744616	n.f. pron. ms.
 pron. cs.
 744620	pron. ms.
 744622	n.m.
 744624	n.m.
 pron. fs.
-744627	prep. n.m.
-pron. fs. n.m.
-prep. n.m.
+744627	n.m. prep.
+n.m. pron. fs.
+n.m. prep.
 744631	part.
-744633	pron. fs. part.
+744633	part. pron. fs.
 prep.
 adv.
 744640	part.
 mod.
 n.m.
 744644	pron. cs.
-744646	num. n.f.
+744646	n.f. num.
 744649	part.
 n.m.
 744655	part.
@@ -31416,7 +31417,7 @@ part.
 n.m.
 mod.
 744679	part.
-744681	part. adv.
+744681	adv. part.
 n.m.
 744686	n.m.
 744688	part.
@@ -31425,14 +31426,14 @@ n.m.
 744693	adj.
 n.m.
 744697	n.m.
-744700	pron. fs. part.
+744700	part. pron. fs.
 n.m. num.
 n.m.
 adj.
 prep.
 adj.
 744707	part.
-prep. n.m.
+n.m. prep.
 744710	part.
 n.m. num.
 prep.
@@ -31441,9 +31442,9 @@ part.
 prep. mod.
 n.m.
 mod.
-744719	pron. ms. n.m.
+744719	n.m. pron. ms.
 n.m.
-744722	prep. n.m.
+744722	n.m. prep.
 744725	pron. ms.
 n.m.
 744729	num.
@@ -31452,7 +31453,7 @@ part.
 744733	n.m.
 744738	n.m.
 part.
-744741	prep. n.f.
+744741	n.f. prep.
 n.m.
 mod.
 744745	mod.
@@ -31462,9 +31463,9 @@ n.m. part.
 mod.
 n.m.
 744756	n.m.
-744758	pron. ms. n.m.
-744760	pron. fs. n.m.
-744762	pron. fs. n.m.
+744758	n.m. pron. ms.
+744760	n.m. pron. fs.
+744762	n.m. pron. fs.
 part.
 n.m./adj.
 part., prep.
@@ -31477,32 +31478,32 @@ mod.
 744780	prep.
 744782	n.f.
 part.
-pron. fs. part.
+part. pron. fs.
 n.m.
 744787	n.f.
 part.
 pron. ms.
 n.m.
-prep. n.f.
-744798	prep. n.f.
+n.f. prep.
+744798	n.f. prep.
 744800	mod.
 n.f.
 n.m.
 part.
 744805	prep.
-744807	prep. n.m.
+744807	n.m. prep.
 744809	n.m.
 744811	n.m.
 744813	n.m.
 part.
 n.m.
-pron. fs. part.
+part. pron. fs.
 adv.
 744819	num.
-prep. n.m.
-744825	prep. n.f.
+n.m. prep.
+744825	n.f. prep.
 744829	n.m.
-744832	prep. n.f.
+744832	n.f. prep.
 prep.
 744835	n.m.
 n.m. part.
@@ -31513,18 +31514,18 @@ n.f.
 744852	n.m.
 n.m. num.
 n.m. num.
-num. n.f.
-part. pron. pl.
+n.f. num.
+pron. pl. part.
 n.m. num.
 prep.
-prep. n.m.
+n.m. prep.
 744862	part.
-adj. invar. part.
+part. adj. invar.
 part.
 adj.
 adj. part.
 n.m. part.
-744871	prep. n.f.
+744871	n.f. prep.
 num.
 n.f.
 744878	n.m. part.
@@ -31540,13 +31541,13 @@ part.
 adj. cs.
 part.
 part.
-744897	pron. ms. n.m. num.
+744897	n.m. num. pron. ms.
 744899	n.m.
 744902	n.m.
 mod.
 744905	part. pron.
 744909	pron. cs.
-744912	n.m. pron. pl.
+744912	pron. pl. n.m.
 744916	pron. pl.
 n.m.
 744920	pron. pl.
@@ -31563,11 +31564,11 @@ part., prep.
 744939	prep.
 n.pl.
 744943	prep.
-pron. mod. n.m.
+n.m. pron. mod.
 744946	prep.
-pron. mod. n.m.
+n.m. pron. mod.
 part.
-n.m. num. pron. pl.
+pron. pl. num. n.m.
 part.
 n.f.
 adj.
@@ -31585,7 +31586,7 @@ part. pron.
 744974	n.pl.
 prep.
 part.
-num. pron. pl.
+pron. pl. num.
 n.m.
 prep.
 part.
@@ -31599,29 +31600,29 @@ part., prep.
 part. pron.
 744995	adj. adv. mod.
 744998	n.f.
-745000	part. n.pl.
+745000	n.pl. part.
 part.
 n.m. part.
 n.f.
 part.
-n.m. num. pron. pl.
+pron. pl. num. n.m.
 745007	part.
 n.pl.
-n.m. num. pron. pl.
-n.pl. pron. pl.
+pron. pl. num. n.m.
+pron. pl. n.pl.
 745013	prep.
 n.m.
 part., prep.
-745017	n.m. num. pron. pl.
+745017	pron. pl. num. n.m.
 part.
 part.
 745021	n.m.
 adj.
 part.
-745026	pron. ms. n.m.
+745026	n.m. pron. ms.
 part. pron.
 745031	pron. fs.
-pron. ms. n.m.
+n.m. pron. ms.
 745035	n.pl.
 prep.
 745038	n.pl.
@@ -31644,10 +31645,10 @@ n.f.
 745066	prep.
 745068	pron. pl.
 745073	part.
-part. n.pl.
-745076	n.m. pron. pl.
+n.pl. part.
+745076	pron. pl. n.m.
 745078	part.
-prep. n.m.
+n.m. prep.
 part.
 mod. adv.
 n.m. part.
@@ -31655,12 +31656,12 @@ part.
 part.
 n.f.
 part.
-prep. n.pl.tan.
+n.pl.tan. prep.
 part.
-prep. n.pl.tan.
+n.pl.tan. prep.
 part.
-745092	prep. n.f.
-745094	prep. n.f.
+745092	n.f. prep.
+745094	n.f. prep.
 part.
 part.
 745099	num.
@@ -31675,18 +31676,18 @@ n.f.
 745118	num.
 n.m. adv./adj.
 num.
-745124	pron. fs. part.
+745124	part. pron. fs.
 745126	adv.
-pron. ms. n.m.
+n.m. pron. ms.
 745129	n.m.
 745132	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 part.
 n.m.
 745139	adv.
 745141	adv.
-prep. n.f.
+n.f. prep.
 part.
 n.m. num.
 745148	prep.
@@ -31695,7 +31696,7 @@ n.m.
 n.m. num.
 745156	part.
 745158	adj.
-part. adv.
+adv. part.
 part., prep.
 n.m.
 part.
@@ -31705,13 +31706,13 @@ part.
 n.m.
 pron. pl.
 n.m. num.
-745173	prep. n.f.
+745173	n.f. prep.
 745177	adv.
 pron. pl.
 745180	part.
 745182	n.m.
 part.
-part. pron. pl.
+pron. pl. part.
 745191	part.
 pron. pl.
 n.m.
@@ -31751,7 +31752,7 @@ part., prep.
 745259	pron. ms.
 n.m.
 745262	part.
-745265	prep. n.m.
+745265	n.m. prep.
 part. pron.
 745269	n.f.
 prep.
@@ -31764,12 +31765,12 @@ part. pron.
 prep.
 745288	prep.
 prep.
-745291	prep. n.f.
+745291	n.f. prep.
 745293	part.
 745296	prep.
-745301	prep. part. pron.
+745301	part. pron. prep.
 745303	n.m. part.
-adj. invar. n.f.
+n.f. adj. invar.
 part. pron.
 745307	n.m. part.
 n.m.
@@ -31794,9 +31795,9 @@ pron. cs. part.
 745342	n.m. mod.
 745352	pron. fs.
 745354	prep.
-745356	pron. ms. part.
+745356	part. pron. ms.
 745362	prep.
-prep. n.m.
+n.m. prep.
 745368	n.f.
 mod.
 745371	adj.
@@ -31804,16 +31805,16 @@ mod.
 745375	pron. fs.
 745378	prep.
 n.m.
-745381	prep. n.m. num.
+745381	n.m. prep. num.
 adj. adv. mod.
 745385	pron. pl.
-prep. adv.
+adv. prep.
 n.f.
 745392	n.m. num.
 adj. adv. mod.
 745398	part.
 745400	prep.
-745402	num. n.f.
+745402	n.f. num.
 mod.
 745406	n.m.
 745410	part.
@@ -31830,13 +31831,13 @@ n.f.
 adj.
 prep. part.
 745429	part.
-num. n.f.
+n.f. num.
 n.f.
 mod.
 adj.
 n.m. part.
 mod. adv.
-745437	prep. n.m.
+745437	n.m. prep.
 745440	mod.
 745442	n.m.
 adj.
@@ -31860,19 +31861,19 @@ n.m.
 n.f.
 n.m.
 745474	prep.
-prep. adv.
+adv. prep.
 prep.
 n.m.
 745479	num.
 n.m.
-prep. n.f.
+n.f. prep.
 745484	n.m.
 745487	n.m. num.
 n.m.
 745490	adj.
 part.
 adj.
-part. num.
+num. part.
 n.m.
 num.
 n.f.
@@ -31881,7 +31882,7 @@ n.m. num.
 adj.
 n.m. num.
 745502	pron. pl.
-prep. n.f.
+n.f. prep.
 n.m.
 prep.
 745507	part.
@@ -31895,10 +31896,10 @@ n.m.
 part.
 part.
 part.
-745525	prep. n.m.
+745525	n.m. prep.
 745527	n.m.
 745529	part., prep.
-pron. fs. pron. ms. n.m.
+n.m. pron. ms. pron. fs.
 n.m.
 745534	n.m.
 745541	prep.
@@ -31914,12 +31915,12 @@ n.f.
 745560	part.
 745562	n.m. num.
 745565	interj.
-745567	pron. ms. n.m.
+745567	n.m. pron. ms.
 n.m.
 745570	prep.
 n.m. part.
 745573	prep.
-745576	prep. n.m.
+745576	n.m. prep.
 n.m. part.
 adj.
 745580	part.
@@ -31933,9 +31934,9 @@ n.f.
 745595	part.
 745597	part.
 745601	pron. cs.
-745604	prep. n.f.
+745604	n.f. prep.
 745606	part.
-prep. adv.
+adv. prep.
 adv.
 pron. pl.
 part.
@@ -31949,9 +31950,9 @@ part.
 745624	part.
 745627	adv.
 part. pron.
-745630	pron. fs. part.
+745630	part. pron. fs.
 pron. ms.
-745635	prep. n.m.
+745635	n.m. prep.
 n.m. part.
 mod.
 745639	prep.
@@ -31960,12 +31961,12 @@ pron. ms.
 745645	n.m.
 part.
 745649	mod.
-745651	prep. adv.
+745651	adv. prep.
 prep.
 745654	prep.
 n.m.
-745657	part. n.f.
-745659	prep. n.m.
+745657	n.f. part.
+745659	n.m. prep.
 adj.
 745662	n.m.
 prep.
@@ -31976,7 +31977,7 @@ n.f.
 prep.
 745676	n.m.
 745678	n.m.
-745682	part. pron. pl.
+745682	pron. pl. part.
 part.
 part.
 745687	n.m.
@@ -32024,7 +32025,7 @@ n.m.
 745777	prep.
 n.m.
 n.m. part.
-part. n.f.
+n.f. part.
 n.m.
 745783	n.m.
 part.
@@ -32034,7 +32035,7 @@ part.
 n.pl.
 745791	part.
 n.m.
-pron. fs. part.
+part. pron. fs.
 mod.
 745798	adj. adv. mod.
 mod.
@@ -32045,27 +32046,27 @@ n.m.
 mod.
 745811	n.m.
 pron. fs.
-745818	prep. n.m.
+745818	n.m. prep.
 n.m. part.
 745821	part.
 part.
 745824	adv.
 part. pron.
 745827	n.m.
-745829	prep. n.m.
-745831	prep. n.m.
+745829	n.m. prep.
+745831	n.m. prep.
 part.
 n.m.
 745836	n.m.
 n.m.
 n.m. part.
 adj. invar.
-745841	prep. n.m.
+745841	n.m. prep.
 n.m. part.
-prep. n.f.
-745848	prep. part. pron.
+n.f. prep.
+745848	part. pron. prep.
 part. pron.
-745851	prep. n.m.
+745851	n.m. prep.
 part.
 prep.
 n.m. num.
@@ -32073,23 +32074,23 @@ n.m. num.
 n.m.
 745859	adj.
 745861	n.m. part.
-part. mod.
+mod. part.
 n.f.
 745865	mod.
-prep. n.m.
-prep. n.m. part.
+n.m. prep.
+n.m. prep. part.
 n.m.
 n.m.
 745871	adj.
 745875	prep.
-745877	prep. part. num. n.f.
+745877	n.f. part. num. prep.
 745879	num.
 745881	part.
 part.
 745884	pron. cs.
-745886	pron. ms. part.
+745886	part. pron. ms.
 745888	pron. ms.
-part. n.f.
+n.f. part.
 745894	n.f.
 part.
 745898	adv.
@@ -32101,19 +32102,19 @@ n.m.
 prep.
 745914	n.m.
 745916	n.m.
-prep. part. pron.
+part. pron. prep.
 n.f.
 745921	mod.
 745923	mod.
 adj. invar.
 part.
 745935	part.
-745937	part. n.f.
+745937	n.f. part.
 745939	part.
 745943	m.n.
 745946	num.
 n.m.
-prep. n.m. num.
+n.m. prep. num.
 745954	prep.
 745957	adv.
 745959	adj.
@@ -32142,7 +32143,7 @@ part.
 prep.
 part.
 prep.
-num. n.f.
+n.f. num.
 746006	part.
 746008	prep. part.
 746013	n.m.
@@ -32158,17 +32159,17 @@ num. n.f.
 part.
 num.
 prep.
-746045	prep. n.m.
+746045	n.m. prep.
 746047	adj.
 part.
 746051	adj.
 n.m. part.
 746054	adj.
 mod.
-n.m. part. num.
+n.m. num. part.
 746060	n.m.
-prep. n.f.
-prep. n.f.
+n.f. prep.
+n.f. prep.
 n.m.
 adj. invar.
 part., prep.
@@ -32189,7 +32190,7 @@ n.pl.
 n.m.
 n.m.
 mod.
-746095	part. pron. pl.
+746095	pron. pl. part.
 n.m.
 746098	mod.
 746100	pron. cs.
@@ -32205,7 +32206,7 @@ part.
 746117	interj.
 n.m.
 746120	n.f.
-prep. n.m.
+n.m. prep.
 part.
 n.m.
 part.
@@ -32222,18 +32223,18 @@ adj.
 part.
 746144	n.m.
 n.m.
-746149	pron. ms. n.m.
+746149	n.m. pron. ms.
 n.m.
 746155	n.m.
 n.m.
 746159	n.m.
 part.
 part.
-prep. n.f.
+n.f. prep.
 prep.
 746165	n.m.
 746169	interj.
-prep. n.f.
+n.f. prep.
 746172	n.m. num.
 n.m. num.
 adj.
@@ -32249,9 +32250,9 @@ n.m.
 n.m.
 746191	part.
 746193	n.m.
-746196	prep. n.m.
-prep. n.m.
-746199	pron. fs. n.m.
+746196	n.m. prep.
+n.m. prep.
+746199	n.m. pron. fs.
 746201	prep.
 746204	pron. cs.
 746206	n.m. part.
@@ -32261,7 +32262,7 @@ part.
 pron. cs.
 746214	prep.
 prep.
-746217	pron. fs. n.m.
+746217	n.m. pron. fs.
 746219	part.
 n.m. adj.
 part.
@@ -32272,8 +32273,8 @@ pron. cs.
 part.
 n.m.
 part.
-prep. n.m.
-746233	prep. adv.
+n.m. prep.
+746233	adv. prep.
 part.
 746236	part.
 n.f.
@@ -32287,21 +32288,21 @@ pron. cs.
 746250	mod.
 746253	mod.
 746255	part.
-num. n.f.
+n.f. num.
 746260	n.m.
 n.m.
 n.m. part.
-746264	prep. n.m.
-part. n.f.
-746267	pron. fs. n.m.
+746264	n.m. prep.
+n.f. part.
+746267	n.m. pron. fs.
 n.m.
 746272	n.pl.tant.
 746279	pron. cs.
 n.m. num.
-746283	prep. n.f.
+746283	n.f. prep.
 part.
 n.f.
-prep. n.f.
+n.f. prep.
 mod.
 n.f.
 adj.
@@ -32314,24 +32315,24 @@ pron. ms.
 746300	adj.
 mod.
 746303	pron. cs.
-prep. n.m.
+n.m. prep.
 746306	n.m. num.
 746310	n.m. num.
 adj. invar.
 746315	part. pron.
 746317	part. pron.
-746319	part. adv.
+746319	adv. part.
 746321	pron. cs.
 746323	adv.
 746325	pron. cs.
 prep.
-746329	prep. n.m.
+746329	n.m. prep.
 746333	pron. cs.
 746340	pron. cs.
 746343	n.f.
 746349	part.
 n.m.
-prep. n.m.
+n.m. prep.
 746359	pron. cs.
 746361	part., prep.
 n.m.
@@ -32340,11 +32341,11 @@ prep. mod.
 n.f.
 part.
 part.
-746372	part. n.f.
+746372	n.f. part.
 746374	adj.
 746376	pron. cs.
 part.
-prep. adv.
+adv. prep.
 n.f.
 746381	part.
 n.m.
@@ -32352,7 +32353,7 @@ n.m.
 n.f.
 part. pron.
 746389	n.f.
-746391	prep. n.f.
+746391	n.f. prep.
 746395	part.
 746397	n.m. part.
 n.m.
@@ -32365,15 +32366,15 @@ n.m.
 746416	pron. cs.
 746418	prep.
 pron. cs.
-746421	pron. cs. prep.
+746421	prep. pron. cs.
 746424	n.f.
 746426	n.m. part., prep.
 n.m. n.f.
 prep.
 n.m. n.f.
-746431	prep. num.
+746431	num. prep.
 n.m.
-746435	prep. num.
+746435	num. prep.
 n.m.
 746440	n.m.
 interj.
@@ -32383,7 +32384,7 @@ prep.
 n.m. num.
 adj.
 part.
-746450	num. n.f.
+746450	n.f. num.
 part.
 746453	prep.
 746460	adv.
@@ -32392,8 +32393,8 @@ mod.
 pron. cs. part.
 746470	adj.
 n.m. part.
-746473	prep. n.m.
-746475	prep. n.m.
+746473	n.m. prep.
+746475	n.m. prep.
 746479	prep.
 n.m.
 n.m. part.
@@ -32401,14 +32402,14 @@ n.m. part.
 part. pron.
 adj.
 mod.
-part. part. pron.
+part. pron. part.
 n.m.
 prep. mod.
 n.f.
 part.
 746494	adj.
 adv.
-prep. num. n.f.
+n.f. num. prep.
 mod.
 mod.
 746501	adj.
@@ -32427,7 +32428,7 @@ adv.
 n.m.
 pron. cs. part.
 746526	n.m.
-prep. n.f.
+n.f. prep.
 746530	num.
 746533	n.m.
 part.
@@ -32442,7 +32443,7 @@ part.
 746557	part. pron.
 746560	n.m.
 part.
-746564	prep. n.m.
+746564	n.m. prep.
 part.
 part.
 pron. cs.
@@ -32455,12 +32456,12 @@ mod.
 746578	adv.
 pron. cs.
 part.
-746582	prep. n.f.
+746582	n.f. prep.
 n.f.
 746585	adj.
 prep.
 746589	part.
-n.m. pron. pl.
+pron. pl. n.m.
 746592	part.
 part.
 746595	prep.
@@ -32469,7 +32470,7 @@ part.
 n.f.
 746608	mod. adv.
 adv.
-prep. n.f.
+n.f. prep.
 n.m.
 prep.
 n.m.
@@ -32477,10 +32478,10 @@ n.m.
 746618	n.m.
 n.m.
 n.f.
-746622	prep. n.m.
+746622	n.m. prep.
 746625	n.f
 pron. cs.
-746628	prep. n.m.
+746628	n.m. prep.
 pron. cs.
 746632	part.
 746634	part.
@@ -32489,18 +32490,18 @@ pron. cs.
 n.m. part.
 prep.
 prep.
-746647	prep. n.m.
+746647	n.m. prep.
 part.
-part. num.
+num. part.
 746651	n.m.
 746653	adj.
 part.
 n.f.
-prep. n.m.
+n.m. prep.
 part.
 prep.
 n.m.
-746661	prep. n.m.
+746661	n.m. prep.
 n.f.
 prep. adj.
 mod.
@@ -32517,14 +32518,14 @@ n.m.
 746683	prep. num.
 adj.
 part.
-prep. n.m.
-746688	prep. n.m.
+n.m. prep.
+746688	n.m. prep.
 746692	n.m.
-prep. n.f.
+n.f. prep.
 mod.
 n.f.
 746697	n.m.
-part. mod.
+mod. part.
 746701	prep.
 n.m.
 mod.
@@ -32536,9 +32537,9 @@ part.
 n.m.
 n.m.
 n.m. part.
-746714	part. mod.
+746714	mod. part.
 746716	part.
-prep. part. n.f.
+n.f. part. prep.
 746721	prep. part.
 mod.
 adj. invar.
@@ -32553,28 +32554,28 @@ pron. cs. part.
 n.f.
 746751	pron. cs.
 746753	n.m.
-part. n.f.
-746756	part. n.f.
+n.f. part.
+746756	n.f. part.
 pron. cs.
 n.m.
 746760	pron. cs.
 746763	part.
-746765	prep. n.m.
+746765	n.m. prep.
 n.f.
 746769	n.m.
-adj. invar. part. n.f.
+n.f. part. adj. invar.
 prep. mod.
 746774	n.m.
 pron. cs. part.
 746777	adj.
 prep. adj.
-746781	pron. ms. adj.
+746781	adj. pron. ms.
 adj.
 part.
 prep. num.
 746786	pron. pl.
 746788	mod.
-746791	part. n.f.
+746791	n.f. part.
 n.f.
 746794	mod. adv.
 746798	part.
@@ -32582,14 +32583,14 @@ n.f.
 pron. cs.
 prep. num.
 n.m.
-746806	adj. invar. prep.
+746806	prep. adj. invar.
 prep. part.
 746809	prep.
 adj.
 746813	prep.
-746815	part. n.f.
+746815	n.f. part.
 n.m. part.
-prep. n.f.
+n.f. prep.
 746821	prep. part.
 746823	part.
 prep. adj.
@@ -32598,12 +32599,12 @@ prep. adj.
 746833	n.f.
 prep.
 746837	n.m.
-prep. n.m.
+n.m. prep.
 adj.
 part.
 pron. ms.
 746845	n.m. part.
-746847	prep. n.m.
+746847	n.m. prep.
 746849	prep.
 n.m.
 746852	part.
@@ -32612,8 +32613,8 @@ prep.
 746857	n.m.
 746859	pron. fs.
 746863	pron. cs. part.
-prep. n.f.
-746867	pron. fs. part.
+n.f. prep.
+746867	part. pron. fs.
 n.f.
 746870	part.
 n.m.
@@ -32655,36 +32656,36 @@ n.m.
 num.
 n.m.
 746946	part.
-746948	prep. n.m.
+746948	n.m. prep.
 n.m.
 746951	adj.
-746956	part. n.f.
+746956	n.f. part.
 746958	part.
 pron. cs.
-746962	part. mod.
+746962	mod. part.
 n.f.
 746965	mod.
 n.m.
-746969	part. num.
+746969	num. part.
 746971	part.
 746975	pron. cs. part.
-746979	part. n.f.
+746979	n.f. part.
 746983	part.
 adj.
 746987	part.
 746990	part.
 746993	pron. cs.
 part.
-746998	part. n.f.
+746998	n.f. part.
 pron. pl.
 747003	pron. fs.
 747007	part.
 747009	n.m. num.
 adj.
 747013	adj.
-part. num.
+num. part.
 n.m.,
-prep. n.m.
+n.m. prep.
 747018	adj.
 n.m.
 n.m.
@@ -32703,7 +32704,7 @@ prep.
 747043	n.f.
 n.m.
 747046	n.f.
-747048	prep. n.m.
+747048	n.m. prep.
 part. part., prep.
 adv.
 n.f./adj.f
@@ -32712,7 +32713,7 @@ n.m.
 747057	n.pl.
 n.m.
 n.m.
-prep. n.m.
+n.m. prep.
 747063	part.
 n.m.
 part.
@@ -32728,16 +32729,16 @@ part.
 prep.
 part.
 747085	part.
-747088	prep. n.m.
+747088	n.m. prep.
 747091	part. pron.
-747093	prep. n.m.
+747093	n.m. prep.
 n.f.
 mod.
 747099	n.m.
 747102	part.
 prep.
 747109	part.
-747112	prep. n.m.
+747112	n.m. prep.
 747115	part.
 747117	part. pron.
 n.f.
@@ -32750,7 +32751,7 @@ prep.
 n.m.
 part.
 pron. cs. part.
-747137	part. n.f.
+747137	n.f. part.
 747142	part.
 747145	n.f.
 747148	n.m. num.
@@ -32762,8 +32763,8 @@ prep.
 747160	part. pron. n.f.
 747162	part.
 adj.
-prep. n.m. num.
-prep. n.m. num.
+n.m. prep. num.
+n.m. prep. num.
 part.
 n.m.
 n.f.
@@ -32789,7 +32790,7 @@ part.
 747204	part.
 adv.
 747207	pron. ms.
-part. n.f.
+n.f. part.
 747211	part.
 prep.
 747214	n.m. adj.
@@ -32805,17 +32806,17 @@ pron. ms.
 adj.
 prep.
 prep.
-part. n.f.
+n.f. part.
 747237	n.m.
 747239	n.m. part.
-747242	pron. ms. part.
-prep. n.m.
-747245	n.m. part. mod.
+747242	part. pron. ms.
+n.m. prep.
+747245	n.m. mod. part.
 747249	prep.
 prep.
 747252	prep. part.
 747255	part.
-747259	part. n.f.
+747259	n.f. part.
 pron. cs.
 part.
 prep.
@@ -32827,18 +32828,18 @@ part.
 747274	pron. cs.
 747277	part.
 adv.
-prep. n.f.
+n.f. prep.
 adj.
 747282	prep.
 n.f.
 part.
 747289	adj.
-prep. n.f.
-747294	n.m. pron. pl.
+n.f. prep.
+747294	pron. pl. n.m.
 adv.
 adj.
 747298	adv.
-part. mod.
+mod. part.
 747301	pron. ms.
 747303	adv.
 part.
@@ -32847,17 +32848,17 @@ n.m. part., prep.
 n.f.
 747311	n.m.
 747313	part.
-prep. n.m.
-747318	prep. n.m.
+n.m. prep.
+747318	n.m. prep.
 n.m.
-prep. n.m.
+n.m. prep.
 747322	n.m.
 747326	n.m. part.
 747328	n.f.
 part.
-747331	prep. n.m.
+747331	n.m. prep.
 adj. adv. mod.
-pron. ms. n.m.
+n.m. pron. ms.
 747335	adj.
 747337	n.m.
 747339	adj.
@@ -32869,21 +32870,21 @@ prep. part.
 747349	n.m.
 prep. n.m. adv./adj.
 747354	n.m.
-prep. n.f.
+n.f. prep.
 747358	adj.
 part.
 747363	n.m.
 747367	part.
 part.
 747372	part.
-num. n.f.
+n.f. num.
 prep.
 747376	part.
 747378	part.
 747381	part.
 prep.
 n.f.
-747385	part. mod.
+747385	mod. part.
 747387	part.
 747389	n.m.
 pron. fs.
@@ -32893,9 +32894,9 @@ pron. fs.
 adj.
 part.
 prep.
-747406	part. pron. pl.
+747406	pron. pl. part.
 pron. pl.
-part. n.f.
+n.f. part.
 adj.
 prep.
 747413	pron. ms.
@@ -32916,7 +32917,7 @@ prep.
 747441	prep.
 n.m.
 747444	n.f.
-prep. n.m.
+n.m. prep.
 747447	prep.
 n.m.
 part.
@@ -32953,16 +32954,16 @@ part.
 part.
 n.m. part.
 part.
-prep. n.m.
+n.m. prep.
 part.
 part.
 747516	part.
 n.m.
 747519	n.m.
-pron. fs. n.f.
+n.f. pron. fs.
 747524	n.m. num.
 adj. adv. mod.
-747527	pron. ms. n.m.
+747527	n.m. pron. ms.
 n.m. num.
 747530	prep.
 num.
@@ -32973,13 +32974,13 @@ part.
 part.
 747543	n.f.
 pron. fs.
-747546	prep. part. n.f.
+747546	n.f. part. prep.
 747549	n.m.
 pron. cs.
 747552	pron. ms.
 num.
 part.
-747556	prep. num. n.f.
+747556	n.f. num. prep.
 747558	n.m.
 mod.
 747562	mod.
@@ -32989,15 +32990,15 @@ part.
 747569	pron. ms.
 747572	n.m.
 part.
-747576	mod. adv.
+747576	adv. mod.
 part.
 n.f.
 747585	num.
 747588	part. pron.
 747590	part.
 747593	part.
-747596	prep. adv.
-prep. n.m.
+747596	adv. prep.
+n.m. prep.
 747600	mod.
 n.m.
 part., prep.
@@ -33008,7 +33009,7 @@ n.m.
 n.m. num.
 part.
 part.
-adj. adv.
+adv. adj.
 interj.
 747613	prep.
 747615	n.m.
@@ -33016,10 +33017,10 @@ interj.
 adj.
 mod.
 n.m.
-prep. adv.
+adv. prep.
 747624	part.
 747629	part.
-747634	prep. part. pron.
+747634	part. pron. prep.
 747636	pron. pl.
 pron. pl.
 n.m.
@@ -33030,7 +33031,7 @@ mod.
 747646	adj.
 prep. mod.
 747649	pron. cs.
-num. n.f.
+n.f. num.
 prep.
 part., prep.
 747654	pron. cs.
@@ -33047,17 +33048,17 @@ part.
 n.m. part.
 n.m. part.
 747680	pron. cs. part.
-747684	prep. n.m.
+747684	n.m. prep.
 747688	n.f.
-747692	prep. n.m. part.
+747692	n.m. prep. part.
 prep. part.
-747695	num. n.f.
+747695	n.f. num.
 747697	prep. mod.
-prep. n.m. part.
+n.m. prep. part.
 747700	pron. cs.
 747704	n.m.
 part.
-747707	pron. fs. adj.
+747707	adj. pron. fs.
 n.f.
 747710	part.
 747714	pron. cs.
@@ -33070,7 +33071,7 @@ part. pron.
 747726	part. pron.
 747729	pron. cs.
 747732	pron. ms.
-747735	part. num.
+747735	num. part.
 747738	n.m./f.
 747742	n.m.
 prep.
@@ -33089,10 +33090,10 @@ pron. pl.
 prep.
 747766	n.f.
 prep.
-747771	pron. fs. part.
+747771	part. pron. fs.
 747777	pron. cs.
 747782	n.m.
-part. num.
+num. part.
 prep.
 mod.
 747787	prep.
@@ -33103,10 +33104,10 @@ pron. pl.
 747797	part.
 pron. cs. part.
 part.
-747803	prep. pron. pron. pl.
+747803	pron. pl. prep. pron.
 num.
 pron. pl.
-747807	mod. num.
+747807	num. mod.
 747809	n.m.
 747812	part.
 pron. fs.
@@ -33117,27 +33118,27 @@ prep. mod.
 prep.
 prep. mod.
 n.m.
-prep. n.m.
+n.m. prep.
 747825	mod.
 adj. invar.
-747829	part. interj.
-747832	part. num. n.f.
-747834	prep. n.m. part.
+747829	interj. part.
+747832	n.f. part. num.
+747834	n.m. prep. part.
 747836	n.f.
-prep. n.f.
+n.f. prep.
 747839	n.m. part.
-prep. n.f.
+n.f. prep.
 prep.
 n.m.
 747845	n.m.
 n.f.
 prep.
 prep.
-part. num.
+num. part.
 747852	n.m.
 adj. adv. mod.
 n.m.
-747856	pron. fs. part.
+747856	part. pron. fs.
 n.m.
 747860	n.m.
 part.
@@ -33147,15 +33148,15 @@ n.f.
 747867	prep.
 n.m.
 747870	n.m.
-part. mod.
+mod. part.
 n.f.
 747875	n.m.
-part. num.
+num. part.
 part.
 747879	n.m.
-part. mod. num.
+num. mod. part.
 747882	prep. adj. adv. mod.
-pron. ms. n.m.
+n.m. pron. ms.
 747888	pron. pl.
 747894	n.m.
 747899	mod.
@@ -33163,12 +33164,12 @@ part. pron.
 747902	part.
 n.f.
 prep.
-747906	part. num.
+747906	num. part.
 747908	n.f.
 747911	pron. pl.
 mod.
 747914	part.
-747916	part. num.
+747916	num. part.
 747918	n.f.
 pron. cs.
 747928	n.m.
@@ -33181,7 +33182,7 @@ adj.
 747948	mod.
 747950	pron. pl.
 747953	n.m.
-prep. pron. pl.
+pron. pl. prep.
 747958	n.m.
 747961	part.
 prep.
@@ -33199,18 +33200,18 @@ part. pron.
 747983	mod.
 747990	prep.
 n.m.
-part. n.f.
+n.f. part.
 747994	part.
-747996	prep. n.m. part.
+747996	n.m. prep. part.
 748000	part.
-prep. n.f.
+n.f. prep.
 adj.
 part.
-prep. n.f.
+n.f. prep.
 748008	prep.
 748010	n.m.
 748012	n.m. part.
-part. num.
+num. part.
 748015	part.
 n.m.
 748018	adv.
@@ -33218,15 +33219,15 @@ n.m.
 748021	part. pron.
 748023	n.m.
 n.m.
-prep. n.f.
+n.f. prep.
 748027	part. pron.
 748029	part.
 748034	part.
-pron. ms. n.m.
+n.m. pron. ms.
 n.m.
 748040	n.m.
 748042	part.
-prep. n.f.
+n.f. prep.
 prep.
 748046	pron. cs.
 mod.
@@ -33240,12 +33241,12 @@ part.
 pron. cs. part.
 748072	n.m. part.
 prep.
-prep. adv.
+adv. prep.
 n.f.
 748077	part.
-748080	prep. n.f.
+748080	n.f. prep.
 748082	part.
-748084	part. pron. pl.
+748084	pron. pl. part.
 prep.
 748089	prep.
 n.m.
@@ -33253,21 +33254,21 @@ part.
 n.m.
 prep.
 748095	pron. pl.
-748097	prep. n.m.
+748097	n.m. prep.
 748100	n.m.
 748107	n.m.
 adv.
 748112	part.
-prep. n.m.
+n.m. prep.
 748117	n.m.
 part.
 n.m.
-748122	prep. n.f.
-748124	prep. n.m.
+748122	n.f. prep.
+748124	n.m. prep.
 n.m.
 n.m.
 748128	adj.
-748130	num. n.f.
+748130	n.f. num.
 adj.
 748135	prep.
 748138	prep.
@@ -33276,9 +33277,9 @@ adj.
 mod.
 748145	mod.
 748147	n.m.
-748150	prep. n.f.
+748150	n.f. prep.
 748153	n.f.
-748156	part. n.f.
+748156	n.f. part.
 part.
 748159	prep.
 748162	n.m.
@@ -33291,7 +33292,7 @@ part.
 748176	adv.
 part.
 adv.
-part. n.f.
+n.f. part.
 mod.
 adv.
 n.m.
@@ -33310,7 +33311,7 @@ n.f.
 pron. fs.
 748223	pron. fs.
 748225	part. pron.
-748227	part. n.f.
+748227	n.f. part.
 prep.
 748233	prep.
 n.m.
@@ -33325,7 +33326,7 @@ prep.
 748255	prep.
 pron. cs.
 prep.
-748260	num. n.f.
+748260	n.f. num.
 prep.
 748264	pron. cs.
 part. pron.
@@ -33351,7 +33352,7 @@ mod. adv.
 part.
 748306	prep.
 748310	pron. cs.
-748312	prep. n.m.
+748312	n.m. prep.
 n.m.
 part.
 748316	n.f.
@@ -33370,11 +33371,11 @@ part.
 748344	part.
 748346	prep.
 prep.
-748349	part. n.f.
+748349	n.f. part.
 748351	n.m. part.
-part. n.f.
+n.f. part.
 748354	prep.
-748357	part. pron. pl.
+748357	pron. pl. part.
 748359	n.m.
 prep.
 n.f.
@@ -33386,12 +33387,12 @@ part.
 748376	part.
 num.
 n.f.
-prep. n.m.
+n.m. prep.
 part.
 748382	part.
 part.
 748385	part.
-adj. adv. mod. part.
+part. adj. adv. mod.
 748388	prep.
 n.m.
 part. pron.
@@ -33400,12 +33401,12 @@ part. pron.
 748397	mod.
 748400	adv.
 748402	pron. fs.
-748405	part. n.f.
+748405	n.f. part.
 prep.
 n.m.
 prep.
 748411	part.
-748413	part. mod.
+748413	mod. part.
 n.m.
 prep.
 pron. fs.
@@ -33414,8 +33415,8 @@ prep.
 part.
 n.m. part.
 pron. pl.
-748423	prep. n.m.
-748425	prep. n.m.
+748423	n.m. prep.
+748425	n.m. prep.
 part.
 748431	part.
 n.f.
@@ -33423,11 +33424,11 @@ num.
 n.m.
 n.m.
 748439	prep.
-part. num. n.f.
+n.f. part. num.
 adj.
 748444	n.m.
 part.
-part. n.f.
+n.f. part.
 part.
 part.
 748456	n.m.
@@ -33442,45 +33443,45 @@ n.m.
 748467	n.m.
 pron. cs.
 748470	adv.
-part. adv.
+adv. part.
 pron. cs. part.
-748474	prep. n.m.
+748474	n.m. prep.
 adj.
 pron. ms.
 part. pron.
 n.f.
 num.
-prep. n.m.
-748483	prep. n.m.
+n.m. prep.
+748483	n.m. prep.
 n.m. mod.
 num.
 n.m.
 748488	n.m. num.
-748492	n.m. pron. pl.
-748495	prep. part. pron.
+748492	pron. pl. n.m.
+748495	part. pron. prep.
 748498	num.
 prep. num.
 748502	n.m.
 748505	n.m. num.
-748508	prep. n.m.
+748508	n.m. prep.
 part.
 748514	n.m. part.
-748516	prep. n.m. num.
+748516	n.m. prep. num.
 748518	n.m. num.
 adj.
 adv.
 adj.
 adj.
-prep. n.m.
-pron. ms. n.m.
+n.m. prep.
+n.m. pron. ms.
 748526	n.m.
-prep. n.m.
+n.m. prep.
 part.
 part.
-748532	pron. ms. n.m.
+748532	n.m. pron. ms.
 n.m.
 n.m.
-748538	part. num.
+748538	num. part.
 748542	adj.
 748544	n.m.
 748546	pron. ms.
@@ -33488,63 +33489,63 @@ n.m.
 748550	prep.
 pron. ms.
 748553	prep.
-748557	prep. n.m.
+748557	n.m. prep.
 748559	prep.
 n.m.
 748566	n.m. part.
 n.m.
-748569	pron. ms. n.m.
+748569	n.m. pron. ms.
 748571	n.f.
-748573	part. n.f.
-748575	part. n.f.
+748573	n.f. part.
+748575	n.f. part.
 748581	n.m.
 pron. cs. part.
 748585	n.m.
 pron. cs.
 adj. invar.
-748591	prep. n.m.
+748591	n.m. prep.
 748595	n.m.
 n.m.
 n.m.
 748599	n.m.
-748601	prep. n.m.
-748605	num. n.f.
-prep. n.m.
+748601	n.m. prep.
+748605	n.f. num.
+n.m. prep.
 748609	n.f.
 748613	adv.
 n.f.
 748617	n.m.
-748619	n.m. part. num.
+748619	n.m. num. part.
 num.
 num.
 part.
 adj.
 748625	n.m.
-748627	prep. n.m.
+748627	n.m. prep.
 pron. pl.
 part. pron.
 748631	part. pron.
 748633	n.m.
 pron. cs. part.
-748636	prep. n.m.
+748636	n.m. prep.
 adj.
 n.m. num.
 748641	part. pron.
 prep.
 n.f.
-748645	pron. ms. n.m.
+748645	n.m. pron. ms.
 adj.
-748649	pron. ms. n.m. num.
+748649	n.m. num. pron. ms.
 adj.
 adj.
-prep. n.m.
+n.m. prep.
 n.m. mod.
 num.
 748657	prep.
 n.m.
 part.
 748662	pron. cs. part.
-748664	prep. n.m.
+748664	n.m. prep.
 adj.
 part.
 n.m.
@@ -33559,35 +33560,35 @@ n.f.
 n.m.
 part.
 748684	n.m. mod.
-748686	prep. n.m.
-748688	num. n.f.
+748686	n.m. prep.
+748688	n.f. num.
 m.
-prep. n.m.
+n.m. prep.
 748692	part.
 n.m.
 n.m. num.
 n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 prep.
 748700	n.m. num.
-748702	prep. n.m.
+748702	n.m. prep.
 748704	n.f.
-748706	prep. num. n.f.
+748706	n.f. num. prep.
 748708	n.f.
 part.
-num. n.f.
+n.f. num.
 n.m.
 748713	n.m.
-prep. n.f.
+n.f. prep.
 748717	prep.
 748720	n.m.
 748722	n.m.
 748724	n.m.
 pron. cs.
-748727	prep. n.m.
+748727	n.m. prep.
 adj.
-748730	prep. n.m.
+748730	n.m. prep.
 748736	n.m.
 748738	part. pron.
 748741	n.m.
@@ -33619,13 +33620,13 @@ n.f.
 748794	n.m.
 748796	n.m.
 748800	prep.
-748802	pron. ms. n.m.
+748802	n.m. pron. ms.
 748804	pron. pl.
 n.m.
 748812	n.f.
 748815	prep.
-748817	n.m. pron. pl.
-748819	prep. n.m.
+748817	pron. pl. n.m.
+748819	n.m. prep.
 748821	n.f.
 748823	part.
 748825	n.m.
@@ -33640,7 +33641,7 @@ part.
 748841	prep.
 n.f.
 748844	mod.
-prep. n.m.
+n.m. prep.
 748848	adv.
 pron. ms.
 adj.
@@ -33650,13 +33651,13 @@ pron. pl.
 prep.
 prep.
 748859	pron. ms.
-748861	prep. n.m.
+748861	n.m. prep.
 748863	n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 prep.
 n.f.
 748868	mod.
-748871	prep. n.m.
+748871	n.m. prep.
 adv.
 748874	n.m.
 748878	pron. ms.
@@ -33664,9 +33665,9 @@ adv.
 part.
 748884	n.m. part.
 adv.
-748888	pron. fs. n.f.
+748888	n.f. pron. fs.
 748890	n.f.
-748894	prep. part. pron.
+748894	part. pron. prep.
 748896	part.
 748898	pron. cs.
 748900	n.f.
@@ -33689,11 +33690,11 @@ part.
 n.m. part.
 748928	n.m.
 part.
-prep. n.f.
+n.f. prep.
 748932	pron. pl.
 n.m.
 748936	n.m.
-748941	pron. fs. part.
+748941	part. pron. fs.
 748944	n.f.
 part.
 part.
@@ -33709,13 +33710,13 @@ n.m.
 748971	adj.
 748975	part.
 n.m.
-748979	prep. n.m.
+748979	n.m. prep.
 part.
 pron. pl.
 748983	adv.
 mod.
 748986	n.m.
-pron. fs. part.
+part. pron. fs.
 n.m.
 part.
 748991	n.m.
@@ -33725,9 +33726,9 @@ part.
 prep.
 n.m.
 748998	n.m.
-749000	num. n.f.
-num. n.f.
-num. n.f.
+749000	n.f. num.
+n.f. num.
+n.f. num.
 n.m.
 prep.
 part.
@@ -33801,9 +33802,9 @@ prep.
 749157	n.m.
 749160	n.f.
 part.
-749165	prep. n.m. num.
+749165	n.m. prep. num.
 part.
-prep. n.m.
+n.m. prep.
 part.
 749170	n.m.
 n.f.
@@ -33813,10 +33814,10 @@ n.m.
 prep.
 mod.
 part.
-prep. n.m.
+n.m. prep.
 749185	part.
 part.
-749188	num. m.
+749188	m. num.
 749191	n.m.
 749193	part.
 n.m.
@@ -33833,8 +33834,8 @@ pron. fs.
 n.f.
 749219	n.f.
 prep.
-part. m.
-749223	prep. n.m.
+m. part.
+749223	n.m. prep.
 part.
 n.m.
 adj. invar.
@@ -33843,10 +33844,10 @@ adj. invar.
 n.m. part.
 part.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 749236	n.m.
-749238	prep. n.m.
-749244	prep. n.m.
+749238	n.m. prep.
+749244	n.m. prep.
 749247	pron. ms.
 749251	prep.
 n.m.
@@ -33854,12 +33855,12 @@ n.m.
 n.m. n.f.
 749261	part.
 749263	pron. cs. part.
-749266	prep. n.m.
+749266	n.m. prep.
 n.m. part.
 749269	adj. invar.
 n.f.
 749279	prep.
-749281	prep. n.m.
+749281	n.m. prep.
 part.
 n.m.
 749285	prep.
@@ -33873,15 +33874,15 @@ pron. cs. part.
 749311	prep.
 pron. cs. part.
 749315	part.
-749317	prep. n.m.
+749317	n.m. prep.
 749320	prep.
 749323	n.m.
-749327	prep. n.m.
-prep. n.m.
+749327	n.m. prep.
+n.m. prep.
 749332	part.
 749337	prep.
 749339	n.f.
-749341	part. n.f.
+749341	n.f. part.
 pron. ms.
 num.
 pron. ms.
@@ -33897,35 +33898,35 @@ prep. mod.
 n.f.
 749360	num.
 n.m.
-num. n.f.
-749364	num. n.f.
+n.f. num.
+749364	n.f. num.
 749366	n.m.
 n.m. num.
-749370	prep. n.f.
+749370	n.f. prep.
 749372	n.m.
-prep. n.f.
+n.f. prep.
 part.
-749377	prep. n.f.
+749377	n.f. prep.
 part.
-num. n.f.
+n.f. num.
 749381	part.
 part.
-749384	num. n.f.
+749384	n.f. num.
 749387	prep.
 n.f.
 749391	prep.
-pron. fs. n.f.
+n.f. pron. fs.
 749395	part., prep.
 749397	pron. cs.
 part.
-prep. n.f.
+n.f. prep.
 mod. adv.
 adj. adv. mod.
 n.m.
 749404	n.m. num.
 n.m.
 749407	n.f.
-749409	prep. n.m.
+749409	n.m. prep.
 749411	n.m.
 part., prep.
 749415	adj.
@@ -33944,20 +33945,20 @@ adj. adv. mod.
 749442	n.m. num.
 part.
 n.m.
-749446	prep. n.m. part.
+749446	n.m. prep. part.
 n.pl.
 part.
 749450	mod. adv.
 adj. adv. mod.
-749454	num. n.f.
+749454	n.f. num.
 part.
 n.m.
-749458	prep. n.m. part.
+749458	n.m. prep. part.
 n.pl.
 part.
 749463	mod. adv.
 adj. adv. mod.
-num. n.f.
+n.f. num.
 749467	n.m. num.
 n.m.
 749470	part.
@@ -33968,7 +33969,7 @@ n.m.
 adv.
 749480	n.m.
 749483	n.m.
-749486	prep. n.m. part.
+749486	n.m. prep. part.
 n.pl.
 part.
 n.m.
@@ -33989,12 +33990,12 @@ n.m.
 part.
 749517	adv.
 n.m.
-num. n.f.
+n.f. num.
 adv.
 pron. pl.
 749523	n.f.
-749525	part. num.
-749528	prep. n.f.
+749525	num. part.
+749528	n.f. prep.
 n.m. num.
 749532	adv.
 n.f.
@@ -34029,7 +34030,7 @@ prep.
 749588	mod. adv.
 adj. adv. mod.
 749591	n.f.
-part. num.
+num. part.
 749594	part.
 749597	part.
 pron. pl.
@@ -34062,35 +34063,35 @@ mod.
 n.f.
 749648	n.f.
 749652	n.m.
-749655	part. num.
+749655	num. part.
 part.
-749658	part. num.
+749658	num. part.
 749661	part.
 pron. pl.
 749665	pron. cs.
-num. n.f.
+n.f. num.
 749668	n.m. num.
 part.
 749671	n.m.
 part.
 749674	prep. num.
 n.f.
-749677	part. adv.
-part. mod. n.f.
+749677	adv. part.
+n.f. mod. part.
 749680	n.m. num.
 749683	part.
 prep.
 n.f.
-prep. n.m.
+n.m. prep.
 749688	n.f.
 num.
 749694	n.m.
-749698	pron. ms. n.m.
+749698	n.m. pron. ms.
 749703	prep.
 pron. fs.
 mod.
-749707	mod. num.
-749709	num. n.f.
+749707	num. mod.
+749709	n.f. num.
 part.
 749712	adv.
 adv.
@@ -34100,22 +34101,22 @@ adv.
 n.m.
 749723	n.m.
 adj.
-prep. num. n.f.
-749728	num. n.f.
-num. m.
+n.f. num. prep.
+749728	n.f. num.
+m. num.
 749731	n.m.
 n.m.
 749734	part.
 749738	n.m.
 part.
-prep. n.m.
+n.m. prep.
 749742	part.
 n.m.
 749750	n.m. part.
 749752	n.m.
 749754	n.m. num.
 adj.
-prep. n.f.
+n.f. prep.
 part.
 prep. mod.
 749763	part.
@@ -34134,15 +34135,15 @@ n.m.
 749791	n.m.
 part.
 749798	part.
-749803	prep. n.f.
+749803	n.f. prep.
 749807	num.
-749809	prep. n.f.
-749811	part. num.
+749809	n.f. prep.
+749811	num. part.
 749815	adv.
-749818	part. num.
-749820	prep. n.f.
+749818	num. part.
+749820	n.f. prep.
 749822	part.
-prep. n.f.
+n.f. prep.
 749826	pron. pl.
 749828	n.f.
 749830	n.m.
@@ -34150,9 +34151,9 @@ prep. n.f.
 749834	n.m.
 part.
 n.f.
-part. adv.
+adv. part.
 749839	prep. pron.
-num. n.f.
+n.f. num.
 part.
 749844	n.m.
 adv.
@@ -34187,25 +34188,25 @@ n.f.
 prep.
 n.m.
 749903	part.
-749905	part. num.
+749905	num. part.
 749907	part.
 749913	prep.
-prep. n.f.
-749917	prep. n.f.
+n.f. prep.
+749917	n.f. prep.
 749919	part.
 part.
 749927	part.
 749929	part.
 adv.
-749932	prep. n.f.
+749932	n.f. prep.
 n.m.
 part.
-num. n.f.
+n.f. num.
 749937	part.
 pron. pl.
 mod.
 749946	part.
-749950	num. n.f.
+749950	n.f. num.
 num.
 749953	prep.
 749957	adv.
@@ -34214,12 +34215,12 @@ mod.
 n.m. part.
 n.m.
 749965	part.
-pron. fs. prep. part.
+prep. pron. fs. part.
 adj.
-prep. n.f.
+n.f. prep.
 n.m.
 749971	part. pron.
-749974	prep. n.f.
+749974	n.f. prep.
 749977	n.m.
 part. pron.
 749981	part. pron.
@@ -34241,7 +34242,7 @@ n.f.
 750014	n.f.
 750017	prep.
 750020	part. pron.
-750023	part. part. pron.
+750023	part. pron. part.
 750025	n.m.
 num.
 n.f.
@@ -34267,25 +34268,25 @@ prep.
 part.
 part.
 750075	part.
-750078	prep. n.m.
+750078	n.m. prep.
 750080	n.m.
 750083	part.
 750085	prep.
 n.f.
-750088	prep. n.m.
+750088	n.m. prep.
 pron. ms.
-750093	prep. n.f.
-part. mod.
+750093	n.f. prep.
+mod. part.
 750096	n.m. part.
 n.m. part.
-part. n.f.
+n.f. part.
 mod.
 750105	part.
 n.m.
-750109	prep. n.m. n.f.
-part. n.f.
-750115	prep. n.m.
-750120	prep. n.m.
+750109	n.m. n.f. prep.
+n.f. part.
+750115	n.m. prep.
+750120	n.m. prep.
 750124	n.m.
 750127	n.m. part.
 pron. ms.
@@ -34293,19 +34294,19 @@ pron. ms.
 n.m.
 750139	pron. fs.
 750141	n.m. num.
-750143	prep. n.m.
+750143	n.m. prep.
 adj.
 adj.
-750147	part. num.
-750152	prep. num. n.f.
-750155	part. pron. pl.
+750147	num. part.
+750152	n.f. num. prep.
+750155	pron. pl. part.
 750157	n.m.
-num. n.f.
+n.f. num.
 750162	part.
 n.m.
-750166	prep. n.m. n.f.
-part. n.f.
-750169	part. num.
+750166	n.m. n.f. prep.
+n.f. part.
+750169	num. part.
 750173	adj.
 adj.
 n.m. num.
@@ -34316,14 +34317,14 @@ n.m.
 750182	part.
 n.m.
 n.f.
-750186	num. n.f.
+750186	n.f. num.
 750197	n.m.
-num. n.f.
+n.f. num.
 750205	part.
 n.m.
-750209	prep. n.m. n.f.
-part. n.f.
-750215	prep. n.f.
+750209	n.m. n.f. prep.
+n.f. part.
+750215	n.f. prep.
 750217	part.
 part.
 part.
@@ -34343,7 +34344,7 @@ prep.
 prep.
 750250	n.m.
 750253	n.m.
-750256	prep. n.m.
+750256	n.m. prep.
 750258	prep.
 750260	mod.
 750262	n.m.
@@ -34355,8 +34356,8 @@ part.
 750272	part.
 n.m. num.
 n.m. num.
-750276	prep. n.f.
-prep. num. n.f.
+750276	n.f. prep.
+n.f. num. prep.
 mod.
 750280	n.m. num.
 adj. adv. mod.
@@ -34364,14 +34365,14 @@ adj. adv. mod.
 750285	pron. pl.
 n.m.
 mod.
-750291	pron. fs. n.f.
+750291	n.f. pron. fs.
 prep.
 750296	n.f.
 prep.
 750301	part.
-prep. n.f.
+n.f. prep.
 750305	prep.
-750308	prep. adv.
+750308	adv. prep.
 adv.
 750312	prep.
 n.m.
@@ -34391,13 +34392,13 @@ part.
 adv.
 750338	n.f.
 750343	n.f.
-part. adv.
+adv. part.
 adv.
 750348	part.
-750350	prep. n.m.
+750350	n.m. prep.
 750353	part.
 n.m. part.
-750357	prep. n.m.
+750357	n.m. prep.
 n.m.
 750361	prep.
 750365	n.m. num.
@@ -34410,59 +34411,59 @@ n.f.
 part.
 750379	adj.
 n.m.
-num. n.f.
-750383	n.m. pron. pl.
+n.f. num.
+750383	pron. pl. n.m.
 adv.
 adj.
 adj.
 750388	n.m.
 750390	n.f.
-750394	n.m. pron. pl.
+750394	pron. pl. n.m.
 750396	n.f.
 750400	n.m.
 750403	adj.
-prep. n.m.
-pron. fs. part.
+n.m. prep.
+part. pron. fs.
 n.f.
 750408	n.m.
 adj.
 n.m.
 750412	n.f.
-750414	prep. adv.
+750414	adv. prep.
 adj.
 part.
 750419	adj.
 n.m. num.
 n.m. mod.
-num. n.f.
+n.f. num.
 750424	n.f.
 750430	n.f.
 750432	n.m. mod.
 num.
 part.
 pron. ms.
-750438	num. n.f.
-pron. fs. n.f.
+750438	n.f. num.
+n.f. pron. fs.
 750441	prep.
-prep. n.m.
+n.m. prep.
 750446	pron. cs.
 750449	pron. ms.
 n.m.
 750452	prep.
 n.f.
-750456	num. n.f.
+750456	n.f. num.
 750461	n.f.
 750465	n.m.
 part.
-750469	num. n.f.
-prep. n.f.
-750472	prep. n.f.
+750469	n.f. num.
+n.f. prep.
+750472	n.f. prep.
 750474	n.f.
-750478	num. n.f.
-pron. fs. n.f.
+750478	n.f. num.
+n.f. pron. fs.
 n.f.
 750482	n.m.
-750484	part. mod. adv.
+750484	mod. adv. part.
 750486	n.f.
 750488	n.f.
 750491	n.f.
@@ -34472,7 +34473,7 @@ adj.
 n.m. part.
 750501	pron. fs.
 n.f.
-prep. n.f.
+n.f. prep.
 n.m.
 750506	num.
 n.f.
@@ -34484,12 +34485,12 @@ pron. ms.
 750522	pron. fs.
 n.f.
 n.m. mod.
-750527	prep. n.m.
+750527	n.m. prep.
 750532	n.m./f.
 n.m.
-750535	prep. n.m./f.
+750535	n.m./f. prep.
 n.m. mod.
-750539	prep. n.m.
+750539	n.m. prep.
 750541	n.f.
 750544	n.m.
 750551	pron. ms.
@@ -34498,17 +34499,17 @@ part.
 part.
 part.
 750559	adj. invar.
-750561	prep. n.m./f.
+750561	n.m./f. prep.
 750565	n.m./f.
 750568	n.f.
 part.
 n.m.
-750573	prep. n.m./f.
+750573	n.m./f. prep.
 750575	prep.
 prep. part.
 n.m. mod.
 750579	n.f.
-750581	pron. fs. part.
+750581	part. pron. fs.
 750583	n.m.
 750586	n.m.
 prep.
@@ -34516,23 +34517,23 @@ part.
 750590	part. pron.
 adj.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 750595	part.
 n.m.
 750598	part. pron.
-750602	adj. num.
+750602	num. adj.
 part.
 750607	part. pron.
 750610	part. pron.
 750613	n.m. num.
 750616	n.m. mod.
-prep. n.m.
+n.m. prep.
 750619	m.
 750621	prep.
 n.m. mod.
 n.m. num.
 m.
-750628	prep. part. pron.
+750628	part. pron. prep.
 n.f.
 750631	pron. fs.
 prep.
@@ -34543,8 +34544,8 @@ adj.
 n.m.
 750645	num.
 750647	n.m. mod.
-750650	prep. n.m.
-750652	prep. n.m.
+750650	n.m. prep.
+750652	n.m. prep.
 750654	n.m. num.
 n.m. num.
 m.
@@ -34553,28 +34554,28 @@ m.
 prep.
 m.
 n.m. num.
-750668	prep. n.f.
-750670	prep. n.m.
+750668	n.f. prep.
+750670	n.m. prep.
 750672	prep. num.
-prep. n.m.
+n.m. prep.
 750675	n.m.
 750677	n.f.
 750679	n.f.
 n.f.
-part. pron. pl.
+pron. pl. part.
 750685	mod.
-750687	prep. n.m. num.
+750687	n.m. prep. num.
 750690	n.f.
-750692	prep. n.m. num.
-pron. ms. n.m.
+750692	n.m. prep. num.
+n.m. pron. ms.
 adj.
 n.f.
 750697	part.
-750702	prep. n.m. num.
+750702	n.m. prep. num.
 adj. adv. mod.
 750705	part.
 750709	n.m. num.
-num. n.f.
+n.f. num.
 n.m. num.
 n.m. num.
 adj.
@@ -34583,18 +34584,18 @@ n.m.
 750718	part.
 750720	n.m.
 750725	part.
-750727	part. adv.
+750727	adv. part.
 750731	pron. ms.
 750733	part.
 750736	part.
 750741	part.
 750743	n.m. num.
 part.
-part. num. n.f.
+n.f. part. num.
 750748	n.m.
 750750	n.m.
 750753	part.
-num. n.m./f.
+n.m./f. num.
 750756	prep.
 750758	n.m.
 prep.
@@ -34612,12 +34613,12 @@ n.m.
 750782	prep. pron.
 750784	n.f.
 750787	n.m.
-prep. n.m.
+n.m. prep.
 prep.
 n.f.
 n.f.
 num.
-750795	adj. part. part. pron.
+750795	part. pron. adj. part.
 prep.
 n.m.
 pron. ms.
@@ -34637,11 +34638,11 @@ n.m./f.
 pron. pl.
 n.pl.
 750836	prep. pron.
-750838	part. m.
+750838	m. part.
 adv.
 750841	n.m.
-prep. n.m.
-750844	pron. fs. part.
+n.m. prep.
+750844	part. pron. fs.
 750847	prep.
 n.m.
 part.
@@ -34654,7 +34655,7 @@ n.m.
 750865	prep.
 n.m.
 750869	n.m.
-prep. num. n.f.
+n.f. num. prep.
 750872	part.
 n.m.
 750875	part.
@@ -34669,7 +34670,7 @@ adj.
 pron. pl.
 750896	prep.
 n.m./f.
-pron. ms. n.m.
+n.m. pron. ms.
 750901	adv.
 750903	prep.
 n.m.
@@ -34677,7 +34678,7 @@ part.
 adj.
 750909	mod.
 prep. pron.
-prep. n.f.
+n.f. prep.
 pron. ms.
 n.m./adj.
 n.f.
@@ -34686,7 +34687,7 @@ adj.
 750918	part. pron.
 750920	part. pron.
 part. pron.
-750924	prep. n.m./f.
+750924	n.m./f. prep.
 pron. ms.
 n.m.
 750929	mod.
@@ -34695,23 +34696,23 @@ prep.
 part.
 750938	part.
 750940	n.m.
-prep. n.m.
+n.m. prep.
 750943	n.m.
-750945	prep. n.m.
+750945	n.m. prep.
 750947	mod. adv.
-prep. n.f.
-prep. n.m.
+n.f. prep.
+n.m. prep.
 750951	n.m.
 750953	n.m.
 part.
-pron. ms. part.
+part. pron. ms.
 750960	part.
 750962	n.m.
 n.m. part.
 part.
 prep.
 750968	adj.
-prep. n.m.
+n.m. prep.
 750976	n.m.
 750978	n.f.
 750981	n.m.
@@ -34738,20 +34739,20 @@ n.m.
 751017	pron. fs.
 751021	n.m.
 n.m.
-prep. adv.
+adv. prep.
 751025	n.m.
-751028	part. n.pl. pron. pl.
+751028	pron. pl. n.pl. part.
 751030	prep. pron.
 751033	prep.
 751036	prep.
 pron. ms.
 751039	n.m./adj.
 751041	adv.
-prep. n.m./f.
+n.m./f. prep.
 751044	n.m. part.
 n.m.
-751047	part. part. pron.
-751049	prep. n.m.
+751047	part. pron. part.
+751049	n.m. prep.
 n.m. part.
 751052	pron. cs.
 751056	adj.
@@ -34768,17 +34769,17 @@ part. pron.
 n.f.
 n.f.
 n.f.
-prep. n.m. part.
+n.m. prep. part.
 n.m. part.
 751081	adv.
 751084	n.f.
-751087	prep. n.m.
+751087	n.m. prep.
 751089	n.pl.tan.
 num.
 n.pl.tan.
 part.
 751094	prep.
-prep. n.f.
+n.f. prep.
 adv.
 751098	n.m.
 part.
@@ -34791,13 +34792,13 @@ n.m.
 adv.
 adj.
 part.
-n.m. part. num.
+n.m. num. part.
 751115	n.m.
 adj.
 n.m.
 751119	n.f.
 751121	pron. ms.
-751124	pron. fs. n.f.
+751124	n.f. pron. fs.
 751127	n.m.
 751133	prep. num.
 751135	pron. cs.
@@ -34810,14 +34811,14 @@ part.
 751151	prep. num.
 part.
 part.
-751155	prep. m.
-num. n.f.
+751155	m. prep.
+n.f. num.
 n.m. part.
 751159	n.m.
-prep. n.m.
+n.m. prep.
 751162	n.m.
 751164	pron. ms.
-751166	prep. num. n.f.
+751166	n.f. num. prep.
 751168	n.f.
 adj.
 751171	adj.
@@ -34832,7 +34833,7 @@ adj.
 n.pl.tan.
 751188	n.f.
 m.
-751191	num. n.f.
+751191	n.f. num.
 751194	n.f.
 part.
 mod. adv.
@@ -34845,9 +34846,9 @@ n.pl.tan.
 adj.
 n.m./adj.
 751212	adv.
-751214	part. num.
+751214	num. part.
 751218	part.
-751223	num. n.f.
+751223	n.f. num.
 751225	prep. n.m. adv./adj.
 n.m. num.
 adj.
@@ -34861,13 +34862,13 @@ adj.
 part.
 751244	prep.
 pron. cs.
-pron. fs. part.
+part. pron. fs.
 n.m.
 751251	part. pron.
 part.
 adv.
 751256	part.
-mod. num.
+num. mod.
 n.f.
 751262	adj. invar.
 adj.
@@ -34876,36 +34877,36 @@ part.
 751269	n.f./m. prep. num.
 751271	adj.
 751273	mod.
-751275	prep. n.f.
+751275	n.f. prep.
 mod.
-prep. n.f.
+n.f. prep.
 num.
 751281	mod.
-751283	prep. n.m.
+751283	n.m. prep.
 adj.
 751286	pron. ms. part.
 751289	adv.
 part.
-751292	num. n.f.
+751292	n.f. num.
 751294	part.
 part. pron.
 751298	mod.
 n.m.
 pron. ms.
-pron. ms. n.f.
+n.f. pron. ms.
 751307	adv.
 part.
 adj.
 751311	n.m.
 n.m.
 751315	n.m.
-num. n.f.
+n.f. num.
 751319	n.m. num.
 prep.
 751322	n.m.
 751325	prep.
 part.
-num. n.f.
+n.f. num.
 n.m.
 n.m.
 n.m. num.
@@ -34916,21 +34917,21 @@ n.m.
 prep.
 n.f.
 num.
-prep. n.m.
+n.m. prep.
 adj.
 751343	n.f.
 751350	pron. ms.
 751354	adv.
-pron. ms. n.m.
+n.m. pron. ms.
 751357	prep.
-751359	prep. n.m.
-751363	part. n.f.
+751359	n.m. prep.
+751363	n.f. part.
 751366	part.
 n.m./adj.
 751369	adj. invar.
 751371	n.f.
 751373	n.m.
-751376	n.m. mod. num.
+751376	n.m. num. mod.
 prep. pron.
 751380	pron. cs.
 751382	n.f.
@@ -34962,7 +34963,7 @@ pron. ms.
 n.m.
 pron. ms.
 751441	n.m. num.
-751443	prep. n.f.
+751443	n.f. prep.
 751445	pron. cs.
 751449	n.f.
 751451	adj.
@@ -34973,16 +34974,16 @@ n.m.
 pron. cs.
 n.f.
 751462	prep.
-part. n.f.
+n.f. part.
 751465	prep.
 751468	part.
 n.f.
 751472	pron. cs.
 751474	part.
 part.
-751477	pron. fs. part.
+751477	part. pron. fs.
 751479	pron. cs. part.
-751482	num. n.f.
+751482	n.f. num.
 751485	part.
 n.f.
 n.m.
@@ -34991,12 +34992,12 @@ n.m.
 751497	part.
 part.
 part.
-part. num.
+num. part.
 751502	n.m.
 751504	n.m.
-751506	part. num. n.f.
+751506	n.f. part. num.
 751508	num.
-prep. n.f.
+n.f. prep.
 part.
 751512	prep.
 751517	prep.
@@ -35012,16 +35013,16 @@ n.f.
 751532	pron. ms.
 n.m.
 751535	n.m.
-part. num. pron. pl.
+pron. pl. num. part.
 751541	prep.
-751543	part. num. n.f.
-751547	prep. n.f.
+751543	n.f. part. num.
+751547	n.f. prep.
 part.
 part.
-751552	prep. n.f.
-751554	part. pron. pl.
+751552	n.f. prep.
+751554	pron. pl. part.
 751561	part.
-751563	pron. ms. n.m.
+751563	n.m. pron. ms.
 part.
 prep.
 751568	adj.
@@ -35068,30 +35069,30 @@ n.m. num.
 mod.
 adj.
 751655	part.
-751659	prep. n.m.
-751662	part. n.f.
-751664	n.m. part. mod.
+751659	n.m. prep.
+751662	n.f. part.
+751664	n.m. mod. part.
 751666	part.
 n.m.
 part.
 n.m.
 751672	n.m.
 n.m.
-751675	prep. n.f.
-part. num.
-751678	prep. n.m.
-prep. num.
+751675	n.f. prep.
+num. part.
+751678	n.m. prep.
+num. prep.
 part.
 part. pron.
 adj.
 n.m.
-num. n.f.
+n.f. num.
 751686	part.
 part. pron.
 751689	n.m.
 751692	part., prep.
 n.m.
-751695	prep. n.f.
+751695	n.f. prep.
 751698	n.m.
 part.
 n.m.
@@ -35099,9 +35100,9 @@ n.m.
 751703	adv.
 pron. pl.
 751706	n.m. part.
-part. n.f.
+n.f. part.
 n.m.
-751711	prep. n.m.
+751711	n.m. prep.
 751713	num.
 num.
 part. pron.
@@ -35110,13 +35111,13 @@ part.
 prep.
 751724	n.f.
 n.m.
-num. n.f.
+n.f. num.
 751728	n.m. num.
 mod.
 prep.
 751732	adj.
-751738	prep. n.m.
-751740	prep. n.m.
+751738	n.m. prep.
+751740	n.m. prep.
 751742	n.m.
 751744	adj.
 pron. cs.
@@ -35138,10 +35139,10 @@ pron. ms.
 n.m.
 751782	n.f.
 interj.
-prep. n.f.
+n.f. prep.
 751787	part.
-part. n.f.
-751790	prep. n.m. part.
+n.f. part.
+751790	n.m. prep. part.
 prep.
 n.m.
 n.m. mod.
@@ -35150,18 +35151,18 @@ n.m. mod.
 prep.
 n.m.
 part.
-num. n.f.
+n.f. num.
 751803	pron. pl.
 751805	adv.
 part. pron.
 751808	part. pron.
 751810	n.m.
-751812	prep. n.m.
+751812	n.m. prep.
 751814	n.m.
 751818	n.m.
 751821	pron. fs.
 751823	adj.
-751827	prep. n.m.
+751827	n.m. prep.
 751830	n.f
 n.m.
 751833	n.m.
@@ -35174,9 +35175,9 @@ n.m.
 adj.
 adv.
 751846	pron. pl.
-751849	prep. adv.
+751849	adv. prep.
 n.m.
-751852	prep. adv.
+751852	adv. prep.
 adv.
 n.m.
 751859	adv.
@@ -35191,7 +35192,7 @@ n.m.
 adv.
 751875	adv.
 751877	n.m.
-751880	num. n.f.
+751880	n.f. num.
 751882	prep.
 adv.
 751885	n.f.
@@ -35199,7 +35200,7 @@ adv.
 751890	prep.
 n.f.
 pron. pl.
-751896	prep. adv.
+751896	adv. prep.
 adv.
 751900	n.m. num.
 part.
@@ -35208,14 +35209,14 @@ part.
 n.f.
 n.pl.tan.
 n.f.
-prep. n.m.
-prep. n.f.
+n.m. prep.
+n.f. prep.
 751912	n.m.
 part.
 num.
 n.m./adj.
 pron. fs.
-751918	prep. adv.
+751918	adv. prep.
 pron. fs.
 n.f.
 751922	part. pron.
@@ -35232,14 +35233,14 @@ n.f.
 751942	pron. pl.
 part.
 n.m.
-751947	prep. n.m.
+751947	n.m. prep.
 751949	prep.
 n.m.
 751952	prep.
 n.m.
-prep. n.f.
-751958	prep. n.f.
-pron. fs. part.
+n.f. prep.
+751958	n.f. prep.
+part. pron. fs.
 pron. pl.
 751963	part.
 751966	part.
@@ -35251,19 +35252,19 @@ pron. pl.
 n.m.
 751981	part., prep.
 751983	pron. cs.
-751985	n.m. pron. pl.
+751985	pron. pl. n.m.
 n.m.
 part.
 751992	pron. pl.
 part.
 751995	m.n.
-751998	prep. n.m.
-prep. n.m.
-part. mod.
+751998	n.m. prep.
+n.m. prep.
+mod. part.
 752004	n.m.
-prep. n.m.
+n.m. prep.
 752007	n.m.
-prep. n.m.
+n.m. prep.
 pron. fs.
 752013	n.m.
 prep.
@@ -35275,30 +35276,30 @@ part.
 n.m. part.
 n.m.
 part.
-752031	part. n.f.
+752031	n.f. part.
 n.m.
 752034	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 752039	n.m.
-752041	prep. n.f.
+752041	n.f. prep.
 part.
-num. n.f.
+n.f. num.
 n.m.
 752046	part.
 prep.
-752050	prep. n.m.
+752050	n.m. prep.
 part.
-752053	num. n.f.
+752053	n.f. num.
 752055	adv.
 n.m.
-752059	prep. adv.
+752059	adv. prep.
 752062	prep.
 adv.
 752065	n.f.
 752067	mod.
 752069	mod.
-752071	prep. n.f.
+752071	n.f. prep.
 pron. pl.
 752076	part. pron.
 n.m.
@@ -35307,16 +35308,16 @@ n.m.
 752082	mod.
 adj.
 752086	pron. pl.
-752089	part. pron. pl.
+752089	pron. pl. part.
 752091	adj.
 mod.
 n.m.
 mod.
-752096	part. num. n.f.
+752096	n.f. part. num.
 pron. pl.
 752100	n.f.
-752102	prep. n.f.
-752104	num. n.f.
+752102	n.f. prep.
+752104	n.f. num.
 adv.
 752107	pron. pl.
 n.m.
@@ -35327,7 +35328,7 @@ part.
 752115	part.
 752120	adv.
 mod.
-752124	part. pron. pl.
+752124	pron. pl. part.
 752126	pron. pl.
 n.m.
 prep.
@@ -35337,23 +35338,23 @@ prep.
 mod.
 752137	adj.
 adv.
-prep. num.
+num. prep.
 752141	part.
 num.
 752144	n.m.
-part. num.
+num. part.
 752147	adj.
-prep. n.m.
+n.m. prep.
 752151	n.f.
 part.
-752157	prep. n.m.
+752157	n.m. prep.
 pron. ms.
-752160	adj. adv. mod. part.
-752162	prep. n.pl.tan.
+752160	part. adj. adv. mod.
+752162	n.pl.tan. prep.
 752164	prep.
 n.m.
 n.m.
-752168	prep. adv.
+752168	adv. prep.
 n.m.
 752171	adj.
 adj.
@@ -35394,15 +35395,15 @@ part.
 752251	prep.
 prep.
 n.f.
-752256	mod. num.
+752256	num. mod.
 n.f.
-num. n.f.
+n.f. num.
 752260	adv.
 752264	adv.
 part.
 part.
 752269	adv.
-part. num.
+num. part.
 752274	prep.
 part.
 adj. invar.
@@ -35414,24 +35415,24 @@ mod.
 n.f.
 752288	n.m.
 mod.
-752293	prep. n.f.
+752293	n.f. prep.
 n.m. num.
 num.
 n.m. num.
 752298	n.m. num.
 752303	n.f.
-prep. n.f.
-part. num.
+n.f. prep.
+num. part.
 num.
 752310	n.m.
 prep. part.
-752313	part. num. n.f.
-num. n.f.
+752313	n.f. part. num.
+n.f. num.
 pron. ms.
 prep.
 adj.
 n.f.
-prep. n.f.
+n.f. prep.
 n.m. part.
 n.m.
 part.
@@ -35446,16 +35447,16 @@ n.f.
 adj.
 752339	part. pron.
 pron. cs.
-752342	n.m. pron. pl.
+752342	pron. pl. n.m.
 n.m.
 752345	prep.
 part.
-752348	n.m. pron. pl.
+752348	pron. pl. n.m.
 752350	n.m.
 752355	interj.
-n.m. pron. pl.
+pron. pl. n.m.
 n.m.
-part. n.f.
+n.f. part.
 752361	n.f.
 752364	n.m.
 n.f.
@@ -35469,7 +35470,7 @@ n.f.
 752383	n.m. mod.
 752388	part. pron.
 752390	n.m. num.
-752392	num. n.f.
+752392	n.f. num.
 752396	part.
 752400	prep. mod.
 n.m.
@@ -35490,14 +35491,14 @@ prep.
 mod. adv.
 752431	n.f.
 prep.
-752434	pron. fs. part.
+752434	part. pron. fs.
 752437	part. pron.
 pron. ms. part.
-752440	prep. n.m./f.
+752440	n.m./f. prep.
 752442	mod. adv.
-prep. n.m.
+n.m. prep.
 n.m.
-num. n.f.
+n.f. num.
 752447	mod.
 n.m.
 752450	n.m.
@@ -35508,7 +35509,7 @@ n.m.
 752458	adv.
 part.
 752462	part.
-part. num. n.f.
+n.f. part. num.
 num.
 part.
 752468	n.f.
@@ -35516,21 +35517,21 @@ prep.
 752472	prep.
 part.
 prep.
-752476	pron. ms. n.m.
+752476	n.m. pron. ms.
 752480	n.m.
 prep.
-752484	prep. n.m.
+752484	n.m. prep.
 part.
-num. n.f.
+n.f. num.
 m.
-pron. fs. part.
-pron. ms. n.m.
+part. pron. fs.
+n.m. pron. ms.
 752492	n.pl.
-752495	prep. n.m.
+752495	n.m. prep.
 752497	adv.
 part.
 n.f.
-752501	part. n.f.
+752501	n.f. part.
 adv.
 752505	adv.
 752507	prep.
@@ -35548,7 +35549,7 @@ adj.
 adv.
 752530	prep.
 752533	part.
-prep. n.m.
+n.m. prep.
 pron. pl.
 mod.
 752538	prep.
@@ -35556,12 +35557,12 @@ n.m.
 752542	prep.
 n.f.
 n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 752547	n.m.
 752549	n.m.
-752552	n.m. pron. pl.
+752552	pron. pl. n.m.
 mod.
-752556	prep. n.m.
+752556	n.m. prep.
 part.
 pron. ms.
 adv.
@@ -35579,22 +35580,22 @@ part.
 pron. ms.
 n.m.
 n.f
-part. num.
+num. part.
 752584	pron. cs. part.
 752586	adv.
-752588	prep. pron. pl.
+752588	pron. pl. prep.
 adj.
-752591	prep. n.m.
+752591	n.m. prep.
 752603	part.
 n.m.
 752608	prep.
-prep. n.m.
+n.m. prep.
 752614	n.m. num.
 adj.
 n.m. num.
 adj.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 adj.
 752622	part.
 752624	n.m.
@@ -35621,14 +35622,14 @@ n.m.
 752665	n.m.
 752668	part.
 752670	part.
-752673	prep. n.m.
+752673	n.m. prep.
 752675	n.pl.tan.
 752677	part.
 n.f.
 752680	part.
-752683	part. n.f
+752683	n.f part.
 752686	mod.
-prep. n.m.
+n.m. prep.
 752689	part. pron.
 752691	part.
 prep.
@@ -35638,24 +35639,24 @@ prep.
 prep.
 752703	adv.
 n.m. num.
-part. num.
-num. n.f.
+num. part.
+n.f. num.
 752708	num.
 n.pl.tan.
 prep.
 n.m.
-752713	pron. ms. n.m.
+752713	n.m. pron. ms.
 n.m.
 752719	part.
 752722	n.m.
-752724	mod. part. pron.
+752724	part. pron. mod.
 752726	pron. fs.
 752731	mod. adv.
 n.m.
 752734	n.m
 752736	mod.
 n.m.
-752742	n.m. pron. pl.
+752742	pron. pl. n.m.
 752749	prep.
 n.m.
 752753	n.m.
@@ -35714,13 +35715,13 @@ mod.
 interj.
 n.m.
 pron. pl.
-pron. fs. n.f.
+n.f. pron. fs.
 752864	part.
 752866	n.m.
 n.m.
 752871	n.m.
 n.m.
-part. pron. pl.
+pron. pl. part.
 752876	n.m.
 752880	n.m.
 n.m.
@@ -35736,8 +35737,8 @@ part.
 752899	n.f.
 752903	interj.
 n.m.
-part. n.f.
-part. interj.
+n.f. part.
+interj. part.
 752908	prep.
 part.
 752914	n.m.
@@ -35746,14 +35747,14 @@ part.
 752921	n.m. num.
 752923	n.m. num.
 part. pron.
-prep. n.m.
+n.m. prep.
 adv.
-pron. ms. n.m.
+n.m. pron. ms.
 n.m.
 752935	n.m.
 752941	adv.
 pron. fs.
-752945	part. pron. pl.
+752945	pron. pl. part.
 752948	prep.
 752951	n.m.
 752954	n.f.
@@ -35761,15 +35762,15 @@ part.
 n.m. num.
 pron. cs.
 752964	pron. cs.
-prep. adv.
+adv. prep.
 752968	part. pron.
 752970	n.m.
-752972	n.m. pron. pl.
+752972	pron. pl. n.m.
 752974	part.
 752976	mod.
 n.m.
 n.f.
-752980	prep. n.m.
+752980	n.m. prep.
 part.
 n.m.
 752984	n.m.
@@ -35778,7 +35779,7 @@ n.m.
 n.f.
 adv.
 n.m. num.
-752995	prep. n.m.
+752995	n.m. prep.
 part.
 num.
 adj.
@@ -35821,9 +35822,9 @@ n.f.
 mod.
 n.m.
 753088	n.m.
-prep. n.m. part.
-753092	pron. ms. n.m.
-753094	prep. n.m.
+n.m. prep. part.
+753092	n.m. pron. ms.
+753094	n.m. prep.
 mod.
 753098	n.m. num.
 n.m. num.
@@ -35831,7 +35832,7 @@ adv.
 753104	num.
 753106	num.
 num.
-num. n.f.
+n.f. num.
 753113	adv.
 pron. ms.
 753123	prep.
@@ -35841,8 +35842,8 @@ part.
 753131	adv.
 753135	part.
 753137	part.
-753141	prep. n.f.
-n.m. part. num.
+753141	n.f. prep.
+n.m. num. part.
 753144	n.m.
 prep.
 mod.
@@ -35854,22 +35855,22 @@ part.
 753157	n.m.
 753160	adv.
 753162	adv.
-num. n.f.
+n.f. num.
 753165	part.
 part.
 753168	n.m.
-753170	part. num.
+753170	num. part.
 753173	pron. ms. part.
 753175	part.
 753177	n.m.
-adj. adv. mod. num.
+num. adj. adv. mod.
 753181	n.f.
 753183	n.m.
 753186	part.
-adj. adv. mod. part.
+part. adj. adv. mod.
 753189	n.m. num.
 n.m.
-753194	prep. n.m.
+753194	n.m. prep.
 753196	part.
 pron. ms. adj. adv. mod.
 753200	part. pron.
@@ -35886,7 +35887,7 @@ n.m.
 part.
 num.
 753237	mod.
-753239	prep. n.f.
+753239	n.f. prep.
 753241	prep.
 part., prep.
 753245	prep.
@@ -35902,12 +35903,12 @@ n.m.
 part.
 753263	adv.
 753265	part.
-pron. fs. n.f.
+n.f. pron. fs.
 753269	pron. cs.
 753272	n.f.
 n.f.
 n.m. mod.
-753276	prep. n.f.
+753276	n.f. prep.
 753279	n.m. part.
 n.f.
 pron. cs.
@@ -35926,11 +35927,11 @@ pron. cs.
 pron. ms. part.
 753304	n.m.
 part.
-753307	pron. ms. n.m.
+753307	n.m. pron. ms.
 n.m.
 753311	part.
 753313	n.m. num.
-pron. fs. n.f.
+n.f. pron. fs.
 n.m.
 753318	pron. pl.
 n.m.
@@ -35938,14 +35939,14 @@ n.m.
 753324	n.m.
 753328	part. pron.
 753330	part. pron.
-753334	n.m. pron. pl.
-753336	prep. n.m.
+753334	pron. pl. n.m.
+753336	n.m. prep.
 753338	prep.
 n.m.
 part.
 n.m.
-prep. n.m.
-pron. fs. part.
+n.m. prep.
+part. pron. fs.
 753345	n.m.
 adj.
 n.f.
@@ -35957,7 +35958,7 @@ pron. fs.
 753364	n.m.
 753368	part.
 n.m. num.
-753371	prep. n.m.
+753371	n.m. prep.
 753373	n.m.
 753378	adv.
 753382	adv.
@@ -35965,16 +35966,16 @@ n.m. num.
 753386	part.
 753389	n.m. num.
 753391	n.m.
-753395	prep. n.m.
-753397	prep. n.m.
+753395	n.m. prep.
+753397	n.m. prep.
 753400	pron. cs.
 753404	part.
 753406	pron. cs.
 adj. invar.
-753412	prep. n.m.
+753412	n.m. prep.
 part.
-pron. ms. n.m.
-prep. adv.
+n.m. pron. ms.
+adv. prep.
 part.
 753420	pron. cs. part.
 pron. cs.
@@ -35982,26 +35983,26 @@ pron. cs.
 753430	part.
 753432	adv.
 part.
-753435	prep. n.m.
+753435	n.m. prep.
 pron. fs.
-753438	num. n.f.
+753438	n.f. num.
 753440	n.m./adj.
 753443	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 753449	n.m.
 753451	n.m.
 753453	mod.
 753463	n.f.
 prep.
-753466	num. n.f.
-753468	num. n.f.
+753466	n.f. num.
+753468	n.f. num.
 753472	n.m. num.
 753474	adj. part.
 n.f.
 753478	n.m.
 753480	part.
-pron. fs. part.
+part. pron. fs.
 753486	n.m.
 753491	n.m./adj.
 753495	n.f.
@@ -36009,11 +36010,11 @@ mod.
 753501	part.
 753504	n.pl.tant.
 753506	part.
-prep. n.f.
+n.f. prep.
 n.pl.tant.
 n.f.
 mod. adv.
-pron. fs. n.f.
+n.f. pron. fs.
 part.
 part. pron.
 753515	n.m.
@@ -36025,14 +36026,14 @@ n.f.
 753528	part.
 n.pl.
 753531	num.
-753533	prep. n.f.
-num. n.f.
+753533	n.f. prep.
+n.f. num.
 753539	adj.
 753541	adj.
 753545	pron. cs.
 753547	prep.
 n.m.,
-prep. n.m. part. num.
+n.m. prep. part. num.
 753551	prep.
 n.m. mod.
 num.
@@ -36040,31 +36041,31 @@ num.
 n.m. num.
 753558	prep.
 753564	adv.
-753567	prep. n.f.
+753567	n.f. prep.
 753569	n.f.
 753571	num.
 n.m.
 n.f.
-753575	prep. n.f.
+753575	n.f. prep.
 num.
 n.m.
 n.f.
-753580	prep. n.f.
+753580	n.f. prep.
 num.
 n.m.
 n.f.
-753585	prep. n.f.
+753585	n.f. prep.
 num.
 n.m.
-prep. n.f.
+n.f. prep.
 753590	n.m.
 num.
 n.m.
 753594	n.f.
-pron. fs. part.
+part. pron. fs.
 753597	n.m./adj.
 753601	n.m.
-753604	prep. n.m.
+753604	n.m. prep.
 n.m.
 753607	mod.
 753613	pron. ms.
@@ -36074,19 +36075,19 @@ pron. ms.
 part.
 part.
 n.m.
-753622	prep. n.m.
+753622	n.m. prep.
 753624	pron. pl.
 753626	part.
 753629	part.
 753632	part.
-753636	prep. n.m.
+753636	n.m. prep.
 753640	prep.
 753647	n.f.
 753650	n.m./adj.
 n.m. part.
 n.m. num.
 n.f.
-753656	prep. n.f.
+753656	n.f. prep.
 753662	prep.
 753664	n.m./adj.
 mod.
@@ -36115,14 +36116,14 @@ num.
 n.m.
 753713	part.
 753719	n.m. num.
-prep. n.f.
+n.f. prep.
 n.f.
 mod.
 753724	mod.
 753728	part.
 n.f.
 mod.
-753732	prep. n.m.
+753732	n.m. prep.
 753734	prep.
 753736	n.m./adj.
 pron. pl.
@@ -36130,14 +36131,14 @@ mod.
 753740	n.f.
 n.f.
 753743	mod.
-753745	prep. n.m.
+753745	n.m. prep.
 753748	n.m.
 adj.
 753754	prep.
 753756	pron. cs.
 753760	n.m.
 n.f.
-753763	part. n.f.
+753763	n.f. part.
 753765	part.
 part.
 mod.
@@ -36174,24 +36175,24 @@ prep.
 753821	prep.
 n.f.
 753827	part.
-part. n.f.
+n.f. part.
 pron. cs.
 n.f.
-753832	num. n.f.
+753832	n.f. num.
 adj. adv. mod.
-753836	pron. cs. prep.
+753836	prep. pron. cs.
 753839	pron. cs. part.
 753854	pron. ms.
 part.
 prep.
 753862	pron. fs.
-num. n.f.
+n.f. num.
 adj. adv. mod.
 753867	n.f.
-753870	num. n.f.
+753870	n.f. num.
 adj. adv. mod.
 753875	prep.
-753878	num. n.f.
+753878	n.f. num.
 adj. adv. mod.
 753881	n.f.
 753884	n.f.
@@ -36210,7 +36211,7 @@ n.m.
 753919	part. pron.
 n.m.
 753927	n.m.
-prep. n.m.
+n.m. prep.
 753930	n.m.
 pron. ms.
 n.m.
@@ -36218,7 +36219,7 @@ n.m.
 num.
 753941	n.m.
 753943	n.m. part.
-prep. n.m.
+n.m. prep.
 753948	mod.
 part.
 753952	mod.
@@ -36231,7 +36232,7 @@ n.f.
 753968	prep.
 num.
 n.m.
-753972	num. n.f.
+753972	n.f. num.
 prep.
 753976	prep. part.
 753978	prep.
@@ -36247,14 +36248,14 @@ part.
 part.
 num.
 754002	part.
-adj. adv. mod. num.
+num. adj. adv. mod.
 754005	pron. pl.
 n.m.
 n.f.
 part.
 prep. num.
 part.
-adj. adv. mod. num.
+num. adj. adv. mod.
 part.
 754016	prep.
 754018	part.
@@ -36262,20 +36263,20 @@ part.
 n.f.
 754025	n.m. num.
 754027	adv.
-num. adv.
+adv. num.
 part.
 754033	n.f.
 mod.
 754036	n.f.
-754039	prep. n.m.
-prep. n.m.
+754039	n.m. prep.
+n.m. prep.
 adj.
 754044	n.f.
 n.m. num.
 n.f.
-754048	prep. n.m.
-754050	prep. n.m. num.
-pron. ms. n.m.
+754048	n.m. prep.
+754050	n.m. prep. num.
+n.m. pron. ms.
 754053	part.
 754055	n.m.
 part.
@@ -36286,31 +36287,31 @@ prep.
 n.m. num.
 754067	n.m.
 adv.
-prep. adv.
+adv. prep.
 754071	part. pron.
 prep.
 754074	part., prep.
 754076	adv.
-prep. adv.
+adv. prep.
 754079	n.f.
-part. n.f.
+n.f. part.
 754082	adv.
 754084	part.
-754086	num. n.f.
+754086	n.f. num.
 n.m.
 754089	n.m. num.
-prep. n.m.
+n.m. prep.
 n.f.
 754093	n.f.
 n.f.
 n.f.
 n.m.
-754098	prep. n.m.
+754098	n.m. prep.
 754101	part.
 754104	n.m.
 part.
 754110	pron. cs.
-754114	prep. adv.
+754114	adv. prep.
 754116	part.
 754118	prep.
 754120	n.f.
@@ -36324,16 +36325,16 @@ n.f.
 754138	part.
 part.
 754141	part.
-754144	prep. n.m.
+754144	n.m. prep.
 prep.
 n.m./f.
-prep. n.f.
+n.f. prep.
 754149	adv.
 part.
 mod.
 754156	n.m.
 part.
-pron. fs. n.m.
+n.m. pron. fs.
 754161	mod.
 754163	part. pron.
 754165	n.m. part.
@@ -36345,7 +36346,7 @@ num.
 754176	adj. invar.
 754179	n.m.
 n.m.
-754183	prep. n.m. num.
+754183	n.m. prep. num.
 754185	prep. num.
 n.m.
 754189	n.m.
@@ -36354,9 +36355,9 @@ part.
 754195	adv.
 part.
 n.pl.
-pron. ms. n.m.
+n.m. pron. ms.
 754200	adv.
-part. n.f.
+n.f. part.
 754203	adv.
 754205	n.f.
 part.
@@ -36377,41 +36378,41 @@ part.
 754248	prep.
 754251	part. pron.
 n.f.
-754255	prep. n.m.
+754255	n.m. prep.
 adv.
 part.
 754260	part. pron.
 754263	part. pron.
-754265	pron. ms. adj.
-754267	pron. fs. prep.
+754265	adj. pron. ms.
+754267	prep. pron. fs.
 754269	n.f.
-prep. adv.
-754272	pron. ms. adj.
+adv. prep.
+754272	adj. pron. ms.
 754274	part.
 part.
-n.m. pron. pl.
+pron. pl. n.m.
 n.m. part.
 754279	n.m. part.
 754281	n.m. part.
-754284	pron. fs. part.
+754284	part. pron. fs.
 n.f.
-754288	prep. adv.
+754288	adv. prep.
 754291	n.f.
 754293	part. pron.
 n.f.
 754296	part. pron.
-754300	pron. ms. part. num.
-754305	pron. ms. part. num.
-754307	num. n.f.
+754300	num. pron. ms. part.
+754305	num. pron. ms. part.
+754307	n.f. num.
 num.
 n.f.
-754311	pron. ms. part. num.
+754311	num. pron. ms. part.
 part.
 n.m. part.
 part.
 prep.
 n.m.
-754318	part. num. pron. pl.
+754318	pron. pl. num. part.
 prep.
 754321	n.f.
 754323	part., prep.
@@ -36420,29 +36421,29 @@ prep.
 754335	n.m.
 754337	part.
 754339	n.m.
-754343	prep. n.f.
-num. n.f.
+754343	n.f. prep.
+n.f. num.
 754348	n.m.
 754350	part. pron.
-754356	prep. n.f.
+754356	n.f. prep.
 754358	num.
 754360	n.f.
-754364	prep. n.m.
+754364	n.m. prep.
 754369	adv.
-num. n.f.
+n.f. num.
 part. pron.
 754373	part.
 n.f.
 part.
 part. pron.
-prep. n.f.
+n.f. prep.
 adv.
 part.
 754382	part.
 n.m.
 754385	part.
 n.f.
-part. n.f.
+n.f. part.
 n.m.
 n.m.
 adv.
@@ -36455,21 +36456,21 @@ n.m. num.
 part.
 adv.
 754409	num.
-part. n.f.
+n.f. part.
 n.m. num.
-pron. fs. n.f.
+n.f. pron. fs.
 754414	n.m.
 754416	part.
 n.m.
 754421	adj.
-754423	prep. n.m.
+754423	n.m. prep.
 part., prep.
-754427	part. n.f.
+754427	n.f. part.
 n.m.
 754430	pron. cs. part.
 754432	part.
 754434	n.m.
-754438	prep. n.m.
+754438	n.m. prep.
 754443	n.m.
 754445	part.
 part.
@@ -36477,9 +36478,9 @@ part.
 n.m. part.
 n.f.
 n.m. n.f.
-754455	n.m. part. n.f.
+754455	n.m. n.f. part.
 754458	n.m. num.
-754460	prep. n.m. num.
+754460	n.m. prep. num.
 754464	n.m.
 754466	n.m.
 754468	n.m.
@@ -36490,8 +36491,8 @@ n.m. part.
 part.
 754483	num.
 n.m./f.
-num. n.m./f.
-754487	prep. n.m.
+n.m./f. num.
+754487	n.m. prep.
 754489	part.
 n.m.
 part.
@@ -36499,20 +36500,20 @@ n.m. part.
 754494	part.
 prep.
 n.m./f.
-part. n.m./f.
+n.m./f. part.
 754501	prep.
 754508	n.m.
-mod. num.
+num. mod.
 754511	n.m.
-754513	prep. n.m.
-754516	prep. adv.
+754513	n.m. prep.
+754516	adv. prep.
 n.pl.
-prep. adv.
+adv. prep.
 754520	pron. pl.
 part.
 754524	part.
 754526	n.m. num.
-prep. n.m.
+n.m. prep.
 754531	n.m.
 754533	num.
 754535	prep. adj. adv. mod.
@@ -36544,11 +36545,11 @@ mod.
 prep.
 n.m.
 mod.
-754606	pron. ms. n.m.
+754606	n.m. pron. ms.
 mod.
 754609	part.
 754613	pron. ms.
-754615	part. part. pron.
+754615	part. pron. part.
 prep.
 n.m.
 pron. pl.
@@ -36560,13 +36561,13 @@ pron. cs.
 754628	n.m.
 754630	mod.
 m.
-754633	part. n.f.
-754635	prep. n.pl.tan.
+754633	n.f. part.
+754635	n.pl.tan. prep.
 m.
-prep. n.m.
-prep. part. pron.
+n.m. prep.
+part. pron. prep.
 754640	n.pl.tan.
-prep. adv.
+adv. prep.
 754643	prep.
 adj. part.
 754647	n.m. num.
@@ -36585,11 +36586,11 @@ pron. pl.
 adj.
 n.m.
 754671	n.f.
-prep. n.pl.tan.
+n.pl.tan. prep.
 part.
 754678	n.f.
 n.pl.tan. n.f.
-n.m. part. n.f.
+n.m. n.f. part.
 pron. pl.
 part.
 754686	num.
@@ -36599,10 +36600,10 @@ num.
 part.
 754693	n.m. num.
 mod.
-754696	prep. n.m. num.
+754696	n.m. prep. num.
 754698	part.
 n.m. num.
-prep. n.m.
+n.m. prep.
 754702	mod.
 754704	n.m. part.
 754707	n.m.
@@ -36616,13 +36617,13 @@ part. pron.
 prep.
 754725	n.m. n.f.
 n.f.
-part. n.f.
-adj. invar. part.
+n.f. part.
+part. adj. invar.
 pron. pl.
 754731	part.
 754733	n.pl.
 part.
-754740	pron. ms. n.m.
+754740	n.m. pron. ms.
 n.m.
 part.
 n.m. num.
@@ -36636,22 +36637,22 @@ n.m.
 754757	prep.
 754760	n.f.
 754762	n.m.
-prep. n.f.
+n.f. prep.
 part.
 754766	n.f.
 n.m./f.
 num.
-754770	prep. n.m.
+754770	n.m. prep.
 754772	prep.
 754774	prep.
 754780	part.
-754782	prep. n.m.
+754782	n.m. prep.
 754785	n.f.
-prep. n.m.
+n.m. prep.
 n.f.
 part.
 part.
-754791	num. n.f.
+754791	n.f. num.
 754793	prep.
 754796	part.
 prep.
@@ -36672,7 +36673,7 @@ mod.
 n.pl.
 754831	n.f.
 n.m.
-prep. n.f.
+n.f. prep.
 prep.
 mod.
 754838	n.m.
@@ -36694,25 +36695,25 @@ adv.
 754871	n.f.
 754874	n.m./adj.
 754876	adj.
-prep. n.f.
+n.f. prep.
 pron. ms.
 pron. fs.
 754881	adv.
-part. n.f.
+n.f. part.
 n.m.
 n.m.
 754886	n.f.
 754888	n.m.
-754891	pron. fs. part.
+754891	part. pron. fs.
 n.m.
 mod.
 754896	num.
-754898	n.m. part. pron.
+754898	part. pron. n.m.
 754900	prep.
 n.f.
 n.f.
 pron. pl.
-754905	prep. n.m.
+754905	n.m. prep.
 754908	n.m. num.
 754912	n.f.
 754918	n.m. num.
@@ -36722,11 +36723,11 @@ pron. pl.
 754924	n.m.
 754926	part.
 754928	part.
-754931	n.m num.
+754931	num. n.m
 prep.
 n.f.
 754935	n.m
-prep. n.m.
+n.m. prep.
 754941	n.m
 pron. pl.
 754944	n.m.
@@ -36734,12 +36735,12 @@ pron. pl.
 adj.
 n.f.
 num.
-754953	part. interj.
+754953	interj. part.
 prep. part.
 754956	n.m
 prep.
 n.f.
-part. num.
+num. part.
 n.f.
 754962	n.m
 prep.
@@ -36748,19 +36749,19 @@ pron. ms.
 754967	n.m
 prep.
 n.f.
-754971	pron. fs. part.
+754971	part. pron. fs.
 754973	adv.
-754975	part. num.
+754975	num. part.
 n.f.
 754978	n.m
 prep.
 n.f.
 n.m.
-754983	part. num.
+754983	num. part.
 754986	n.m.
 754988	n.f.
 754990	prep.
-754995	num. n.f.
+754995	n.f. num.
 754997	mod. adv.
 n.m.
 755001	n.f.
@@ -36779,7 +36780,7 @@ part.
 pron. fs.
 n.f.
 part.
-755025	part. num.
+755025	num. part.
 755027	part. pron.
 755031	pron. cs.
 755033	n.m.
@@ -36792,19 +36793,19 @@ pron. fs.
 n.f.
 adj.
 755050	part.
-prep. n.m.
+n.m. prep.
 755054	pron. cs.
 755061	n.f.
-755063	pron. fs. adj.
+755063	adj. pron. fs.
 755065	prep.
 755067	n.m.
 part.
 755070	part.
-755072	part. n.f.
+755072	n.f. part.
 755074	n.m.
 n.m.
 n.m.
-755078	prep. n.m.
+755078	n.m. prep.
 755086	n.m.
 adj. mod.
 part. pron.
@@ -36812,13 +36813,13 @@ part. pron.
 n.f.
 pron. fs.
 n.f.
-755096	prep. n.f.
+755096	n.f. prep.
 755100	n.f.
 part.
 755104	part.
-pron. cs. prep.
+prep. pron. cs.
 755107	n.f.
-755112	prep. n.f.
+755112	n.f. prep.
 755117	n.f.
 755119	part.
 n.f.
@@ -36826,20 +36827,20 @@ n.m.
 755123	part.
 n.f.
 part.
-num. n.f.
+n.f. num.
 755128	part. pron.
-part. n.f.
+n.f. part.
 755133	n.f.
 755135	adj.
 mod.
 part.
 n.m.
-755140	num. n.f.
-755143	prep. n.f.
+755140	n.f. num.
+755143	n.f. prep.
 755146	n.m.
 n.f.
 755152	n.f.
-755155	prep. n.m.
+755155	n.m. prep.
 n.m.
 755158	part.
 755160	num.
@@ -36853,13 +36854,13 @@ num.
 num.
 n.m. num.
 755176	n.m.
-755178	prep. n.f.
+755178	n.f. prep.
 n.m.
 n.f.
 755183	n.m.
 755189	n.f.
 755191	n.m.
-755194	prep. n.m.
+755194	n.m. prep.
 n.m.
 n.m.
 n.f.
@@ -36872,7 +36873,7 @@ pron. ms.
 755218	adj.
 755221	part.
 755224	adj.
-755226	part. adv.
+755226	adv. part.
 755229	part.
 755231	n.m.
 755233	n.f.
@@ -36887,15 +36888,15 @@ mod.
 755255	part.
 755257	n.m. num.
 755260	part.
-755265	pron. ms. adj.
+755265	adj. pron. ms.
 part.
 755268	pron. cs.
-pron. ms. adj.
+adj. pron. ms.
 n.f.
 755273	adj.
 755277	n.m.
 n.m.
-prep. num. n.f.
+n.f. num. prep.
 755281	part.
 755283	n.m./adj.
 part.
@@ -36930,7 +36931,7 @@ part.
 n.f.
 n.f.
 755347	n.f.
-part. n.f.
+n.f. part.
 755351	n.f.
 755353	n.f.
 755355	n.f.
@@ -36947,13 +36948,13 @@ prep.
 755371	pron. ms.
 755373	n.m.
 part.
-755376	part. n.f.
-755378	part. n.f.
-755380	part. n.f.
+755376	n.f. part.
+755378	n.f. part.
+755380	n.f. part.
 n.f.
-755385	prep. n.m.
+755385	n.m. prep.
 n.f.
-755388	part. num.
+755388	num. part.
 755390	adv.
 755393	adv.
 pron. cs.
@@ -36967,7 +36968,7 @@ n.f.
 n.m.
 755417	part.
 755419	prep.
-prep. n.f.
+n.f. prep.
 n.m./adj.
 adj.
 adv.
@@ -36977,7 +36978,7 @@ n.f.
 755436	n.m.
 755440	n.m.
 755442	prep.
-prep. n.f.
+n.f. prep.
 n.f.
 part., prep.
 755447	part. pron.
@@ -36986,7 +36987,7 @@ part.
 n.f.
 755453	n.f.
 755457	n.m. n.f.
-755459	part. n.f.
+755459	n.f. part.
 755461	prep.
 n.f.
 755464	m.
@@ -36994,10 +36995,10 @@ n.f.
 m.
 m.
 n.f.
-755475	pron. fs. part. pron.
+755475	part. pron. pron. fs.
 n.f.
 755478	n.f.
-755480	n.m. part. num.
+755480	n.m. num. part.
 n.f.
 755483	n.m. part.
 n.f.
@@ -37013,19 +37014,19 @@ n.f.
 n.m.
 755499	part.
 n.m. num.
-num. m.
-prep. n.m.
+m. num.
+n.m. prep.
 755504	part.
 755506	n.f.
 755508	n.m./adj.
 755510	part.
 755512	part. pron.
-755516	part. n.f.
+755516	n.f. part.
 part.
 n.f.
 755521	part.
 755523	prep.
-755525	pron. ms. adj.
+755525	adj. pron. ms.
 755527	pron. cs.
 755529	adj.
 n.f.
@@ -37035,7 +37036,7 @@ n.m. num.
 755537	pron. ms.
 755539	n.f.
 pron. cs.
-755544	pron. ms. adj.
+755544	adj. pron. ms.
 part.
 755547	n.m.
 part.
@@ -37085,11 +37086,11 @@ n.m.
 755636	n.f.
 755639	n.f.
 755641	n.f.
-part. n.f.
+n.f. part.
 755644	n.f.
 755646	part.
 755648	adv.
-pron. cs. adv.
+adv. pron. cs.
 755652	adv.
 n.f.
 755656	n.m. num.
@@ -37109,21 +37110,21 @@ n.m.
 755687	n.f.
 755689	n.f.
 755692	n.f.
-prep. adv.
+adv. prep.
 755695	n.f.
-755697	prep. adv.
-755699	part. n.f.
+755697	adv. prep.
+755699	n.f. part.
 part.
 n.m.
-part. n.f.
-part. n.f.
+n.f. part.
+n.f. part.
 755705	n.f.
 755709	m.
 m.
 adj.
 n.m. n.f.
 755715	prep.
-part. pron. pl.
+pron. pl. part.
 n.f.
 755722	pron. pl.
 n.f.
@@ -37136,13 +37137,13 @@ n.m.
 part.
 part.
 755737	n.m.
-755739	prep. n.f.
+755739	n.f. prep.
 pron. cs.
 755742	n.m.
 pron. cs.
 755747	num.
 pron. cs.
-755750	prep. n.f.
+755750	n.f. prep.
 mod.
 n.f.
 755754	prep.
@@ -37150,7 +37151,7 @@ n.f.
 n.m.
 n.f.
 755761	n.m.
-prep. n.f.
+n.f. prep.
 n.m. part.
 part. pron.
 prep.
@@ -37158,20 +37159,20 @@ prep.
 adv.
 n.m. mod.
 755771	num.
-prep. n.m.
-755774	prep. n.m.
+n.m. prep.
+755774	n.m. prep.
 755777	prep.
 n.m.
 755780	mod.
 prep.
-755783	n.m. pron. pl.
+755783	pron. pl. n.m.
 755786	mod.
-755788	prep. n.f.
-755790	prep. n.m.
+755788	n.f. prep.
+755790	n.m. prep.
 n.m.
-755795	n.m. pron. pl.
+755795	pron. pl. n.m.
 part. pron.
-755798	prep. n.m.
+755798	n.m. prep.
 pron. ms.
 m.
 pron. pl.
@@ -37200,8 +37201,8 @@ pron. ms.
 755845	prep.
 755848	n.m.
 n.m.
-755851	prep. n.m.
-755853	prep. n.m.
+755851	n.m. prep.
+755853	n.m. prep.
 mod.
 n.m.
 755857	n.m.
@@ -37222,13 +37223,13 @@ pron. fs.
 755886	mod.
 n.m.
 755890	prep.
-pron. fs. part.
-755895	prep. n.m.
+part. pron. fs.
+755895	n.m. prep.
 755899	n.m.
-755901	prep. n.f.
-755904	prep. n.f.
+755901	n.f. prep.
+755904	n.f. prep.
 n.f.
-755908	part. n.f.
+755908	n.f. part.
 755911	part. pron.
 prep.
 755914	n.f.
@@ -37237,7 +37238,7 @@ part. pron.
 pron. ms.
 755920	pron. ms.
 755922	part.
-part. n.f.
+n.f. part.
 part.
 755926	n.f.
 n.f.
@@ -37256,8 +37257,8 @@ n.m.
 n.m.
 755955	n.f.
 755958	num.
-755960	adj. adv. mod. part. num.
-num. n.f.
+755960	num. part. adj. adv. mod.
+n.f. num.
 755965	pron. fs.
 n.f.
 755968	part.
@@ -37275,14 +37276,14 @@ n.m.
 755993	n.f.
 755999	part. pron.
 756003	n.f.
-756006	pron. fs. n.f.
-part. n.f.
+756006	n.f. pron. fs.
+n.f. part.
 756010	prep.
 n.m. n.f.
 756017	num.
 n.f.
 adj.
-756021	part. mod.
+756021	mod. part.
 prep.
 756025	n.m.
 756027	part.
@@ -37295,7 +37296,7 @@ n.m. n.f.
 756044	prep.
 756046	n.m.
 n.m.
-756052	part. n.f.
+756052	n.f. part.
 adj.
 pron. ms.
 n.f.
@@ -37305,7 +37306,7 @@ part. pron.
 756062	n.m. part.
 756066	prep.
 part. pron.
-prep. n.m.
+n.m. prep.
 mod.
 756071	prep.
 n.f.
@@ -37339,8 +37340,8 @@ n.f.
 756129	part. pron.
 pron. fs.
 756132	n.m. num.
-756134	prep. n.f.
-prep. adv.
+756134	n.f. prep.
+adv. prep.
 756137	adj.
 756143	part.
 mod.
@@ -37348,13 +37349,13 @@ mod.
 756148	part. pron.
 756150	n.f.
 pron. cs.
-756153	prep. n.f.
+756153	n.f. prep.
 756155	n.f.
 prep.
 n.m.
 part.
 756160	n.m. part.
-pron. ms. n.m.
+n.m. pron. ms.
 756165	prep.
 756167	pron. ms.
 n.m.
@@ -37366,35 +37367,35 @@ prep.
 num.
 num.
 n.f.
-756192	prep. n.m.
+756192	n.m. prep.
 756194	num.
-756197	prep. n.f.
+756197	n.f. prep.
 prep.
-756208	prep. n.m.
+756208	n.m. prep.
 n.m.
-756211	prep. n.f.
+756211	n.f. prep.
 n.m.
 756218	n.m.
-pron. ms. prep.
+prep. pron. ms.
 n.m.
 756222	part.
-prep. n.f.
+n.f. prep.
 pron. ms.
 prep.
 756228	part.
 756230	n.m.
 part.
 n.f.
-756234	num. n.f.
+756234	n.f. num.
 756237	n.m.
 part.
 756241	part.
-756244	prep. n.m.
+756244	n.m. prep.
 756246	prep.
 part.
 756250	n.m.
-756252	prep. adv.
-756254	mod. num.
+756252	adv. prep.
+756254	num. mod.
 adj.
 adv.
 756259	pron. pl.
@@ -37402,7 +37403,7 @@ adv.
 n.m.
 n.m.
 756266	n.f.
-756268	prep. num. n.f.
+756268	n.f. num. prep.
 part.
 n.m.
 prep.
@@ -37413,8 +37414,8 @@ prep.
 756284	prep.
 n.m.
 n.m.
-756288	prep. n.m.
-756291	prep. n.m./f.
+756288	n.m. prep.
+756291	n.m./f. prep.
 pron. pl.
 prep.
 756297	n.f.
@@ -37426,7 +37427,7 @@ n.m.
 756313	mod.
 756316	n.m.
 mod.
-756324	num. n.f.
+756324	n.f. num.
 756326	n.m.
 756329	n.m.
 756334	part.
@@ -37450,23 +37451,23 @@ n.m.
 756364	mod.
 n.m.
 756367	n.m.
-756374	prep. n.f.
+756374	n.f. prep.
 n.m.
 part.
-756380	prep. n.m.
-prep. n.m.
-756384	prep. n.m./f.
+756380	n.m. prep.
+n.m. prep.
+756384	n.m./f. prep.
 n.m.
 n.m.
 756393	n.m. num.
-756395	prep. n.m.
-756397	prep. n.m.
-pron. ms. prep.
+756395	n.m. prep.
+756397	n.m. prep.
+prep. pron. ms.
 756400	n.m.
 prep.
 part.
-756408	prep. n.m.
-756410	prep. n.m.
+756408	n.m. prep.
+756410	n.m. prep.
 part.
 756413	part.
 756415	n.m. n.f.
@@ -37475,7 +37476,7 @@ part.
 part.
 adv.
 n.m.
-n.m. part. pron.
+part. pron. n.m.
 756428	prep.
 n.m.
 adv.
@@ -37488,16 +37489,16 @@ n.f.
 756445	pron. cs.
 n.f.
 adj.
-prep. n.f.
+n.f. prep.
 n.m. part.
-prep. n.f.
+n.f. prep.
 n.m. part.
 756453	adj.
 prep.
-756459	prep. n.m.
-756462	prep. n.m.
+756459	n.m. prep.
+756462	n.m. prep.
 756464	n.m.
-adj. invar. part.
+part. adj. invar.
 n.f.
 n.m.
 n.m.
@@ -37512,12 +37513,12 @@ adj.
 prep.
 part.
 756486	n.m.
-prep. n.f.
+n.f. prep.
 n.f.
-prep. n.f.
+n.f. prep.
 prep.
-756493	prep. n.m.
-prep. n.m.
+756493	n.m. prep.
+n.m. prep.
 prep.
 pron. ms.
 756499	n.f.
@@ -37526,16 +37527,16 @@ prep.
 756506	n.m.
 756510	adj.
 part.
-756513	prep. n.f.
+756513	n.f. prep.
 756516	n.m.
 n.m. part.
 n.m.
 756520	n.f.
 756523	n.f.
-prep. n.f.
+n.f. prep.
 pron. ms.
 n.m.
-prep. n.f.
+n.f. prep.
 n.m.
 756532	prep.
 756534	part. pron.
@@ -37554,8 +37555,8 @@ part. pron.
 part.
 756566	pron. cs.
 756570	n.m.
-adj. invar. part.
-756574	prep. n.m.
+part. adj. invar.
+756574	n.m. prep.
 756576	part.
 pron. ms.
 n.m.
@@ -37565,7 +37566,7 @@ n.m.
 756584	adv.
 pron. pl.
 756588	part.
-756590	prep. n.f.
+756590	n.f. prep.
 pron. cs. part.
 756593	adv.
 pron. cs.
@@ -37573,21 +37574,21 @@ pron. cs.
 n.f.
 756600	n.m. num.
 mod.
-prep. n.f.
-prep. n.m.
+n.f. prep.
+n.m. prep.
 n.f.
 756606	n.m.
 adj.
 756610	n.f.
 prep.
-prep. n.f.
+n.f. prep.
 756615	n.f.
 756617	part.
-756620	adj. adv. mod. num.
+756620	num. adj. adv. mod.
 756624	prep.
 n.m.
 n.f.
-prep. n.m.
+n.m. prep.
 756629	n.m.
 part. pron.
 part.
@@ -37598,42 +37599,42 @@ n.f.
 n.m.
 756638	adj.
 n.f.
-mod. n.f.
+n.f. mod.
 adj.
 n.m.
 756644	adj.
 n.f.
-mod. n.f.
+n.f. mod.
 adj.
 756649	n.m. num.
-756651	num. n.f.
-prep. n.m.
+756651	n.f. num.
+n.m. prep.
 part.
 adj.
 n.m. part.
 adj. part.
 n.m.
-756659	num. n.f.
+756659	n.f. num.
 adj.
 756662	n.f.
 756664	n.m.
 part.
 756670	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
-prep. n.m.
-756675	prep. n.f.
+n.m. prep.
+756675	n.f. prep.
 mod.
 part.
 756679	n.m. part.
 756681	mod.
 n.m.
 756684	prep.
-756688	part. num.
+756688	num. part.
 756692	pron. cs.
 part. pron.
 n.m. num.
-756696	pron. fs. prep.
+756696	prep. pron. fs.
 756699	prep.
 756707	prep.
 part. pron.
@@ -37641,7 +37642,7 @@ prep.
 n.f.
 756712	adj. part.
 prep.
-prep. n.m.
+n.m. prep.
 n.m. part.
 756717	n.m. part.
 756722	n.m. num.
@@ -37649,10 +37650,10 @@ n.m. part.
 part.
 756728	part.
 756733	n.m. num.
-prep. n.f.
+n.f. prep.
 756736	n.m.
 756739	n.m. num.
-n.m. part. num.
+n.m. num. part.
 n.m. mod.
 n.m.
 756744	part. pron.
@@ -37661,7 +37662,7 @@ n.m.
 n.m.
 756751	n.f.
 756754	part.
-prep. n.m.
+n.m. prep.
 756757	n.m.
 756760	prep.
 756762	prep.
@@ -37670,11 +37671,11 @@ adj.
 756770	n.m.
 756772	part.
 756774	prep.
-756778	prep. n.m.
+756778	n.m. prep.
 part.
 756781	mod.
-pron. fs. n.f./m.
-756785	prep. n.m.
+n.f./m. pron. fs.
+756785	n.m. prep.
 part.
 part.
 756789	n.f./m. num.
@@ -37686,7 +37687,7 @@ part.
 n.m. part.
 n.f.
 n.m.
-n.m. part. n.f.
+n.m. n.f. part.
 n.m.
 756804	n.f.
 756806	prep.
@@ -37699,21 +37700,21 @@ n.f.
 756820	n.f.
 756822	n.m. part.
 part. pron.
-756826	prep. n.f.
-756828	prep. n.f.
+756826	n.f. prep.
+756828	n.f. prep.
 756830	n.f.
 756833	n.m.
 756835	n.f.
-756838	part. n.f.
+756838	n.f. part.
 pron. pl.
 n.m.
 part.
 756843	adv.
 756845	adv.
 n.m.
-756848	prep. n.f.
+756848	n.f. prep.
 n.m.
-756851	prep. n.m.
+756851	n.m. prep.
 part.
 756854	n.m.
 756856	part.
@@ -37736,12 +37737,12 @@ part.
 n.m.
 756895	adv.
 adj. mod.
-part. n.f.
+n.f. part.
 756900	adj.
 756906	part.
 part.
 756910	adj.
-prep. n.m.
+n.m. prep.
 756913	adv.
 756916	adj.
 756918	prep.
@@ -37750,11 +37751,11 @@ prep. n.m.
 n.pl.tan.
 756926	num.
 n.pl.tan.
-part. adv.
+adv. part.
 prep.
 n.m. n.f.
 n.m. n.f.
-n.m. part. n.f.
+n.m. n.f. part.
 prep.
 pron. fs.
 756936	n.pl.tan.
@@ -37773,8 +37774,8 @@ n.m.
 prep.
 756961	n.f.
 756963	n.f.
-756965	part. n.f.
-prep. n.m. part.
+756965	n.f. part.
+n.m. prep. part.
 756968	prep.
 756970	part.
 prep.
@@ -37782,20 +37783,20 @@ part.
 756974	n.m.
 n.m. part.
 part.
-756981	prep. n.f.
+756981	n.f. prep.
 n.f.
-756984	prep. n.m.
+756984	n.m. prep.
 756987	adj.
 part.
-756990	num. n.f.
-756994	num. n.f.
+756990	n.f. num.
+756994	n.f. num.
 756997	n.m.
 757006	pron. cs.
 n.m. part.
 n.m.
 pron. cs. part.
 757011	n.m.
-part. num.
+num. part.
 757015	n.f.
 757017	pron. ms.
 n.f.
@@ -37809,10 +37810,10 @@ n.m.
 part.
 757036	n.m.
 757038	num.
-mod. n.f.
+n.f. mod.
 757043	n.m.
 757045	num.
-757047	num. n.f.
+757047	n.f. num.
 757053	n.f.
 757055	n.m. part.
 adj. adv. mod.
@@ -37820,8 +37821,8 @@ mod.
 757059	prep.
 757061	n.m. mod.
 757063	n.m.
-part. n.f.
-n.m. part. mod.
+n.f. part.
+n.m. mod. part.
 757067	part.
 n.m.
 757071	n.m.
@@ -37833,14 +37834,14 @@ n.m.
 n.m.
 pron. cs. part.
 757092	n.m.
-757094	part. pron. pl.
+757094	pron. pl. part.
 757096	pron. ms.
 757098	part.
 757100	pron. ms.
 757102	n.f.
-757106	prep. n.m.
+757106	n.m. prep.
 757108	n.m.
-757113	num. n.f.
+757113	n.f. num.
 757116	n.f.
 n.m.
 757122	part.
@@ -37850,7 +37851,7 @@ n.m.
 757129	prep.
 n.f.
 n.f.
-757133	prep. part. n.m./f.
+757133	n.m./f. part. prep.
 adj.
 part.
 757138	n.m. part.
@@ -37867,22 +37868,22 @@ adj.
 757164	adv.
 757166	n.f.
 757168	n.f.
-757173	part. mod.
+757173	mod. part.
 757176	part.
-prep. n.m.
+n.m. prep.
 prep.
 n.m.
 757182	n.m.
 n.m.
-part. num.
+num. part.
 757187	n.m.
 757190	mod. adv.
 n.m.
 prep.
 757195	n.pl.tan.
 part.
-pron. ms. n.m.
-prep. mod. n.f.
+n.m. pron. ms.
+n.f. mod. prep.
 757201	part.
 prep.
 n.f.
@@ -37892,11 +37893,11 @@ n.f.
 757213	num.
 prep.
 757218	n.m. part.
-757221	prep. n.m.
+757221	n.m. prep.
 n.f.
-757225	prep. n.m.
+757225	n.m. prep.
 757228	n.m.
-part. n.f.
+n.f. part.
 n.m.
 part.
 757233	n.m.
@@ -37911,37 +37912,37 @@ n.f.
 757266	prep.
 757268	n.m.
 757270	n.m.
-prep. n.m.
+n.m. prep.
 757273	part.
 757276	n.m.
 757278	prep.
 part.
 adv.
-757283	prep. n.m.
+757283	n.m. prep.
 757285	n.m. part.
 n.m.
 part.
-prep. part. n.f.
+n.f. part. prep.
 part.
 part.
 757295	part.
 part.
 757298	adv.
-prep. adv.
-757301	prep. n.f.
+adv. prep.
+757301	n.f. prep.
 757303	pron. cs.
 n.f.
 757306	pron. cs.
 757308	pron. cs.
 757310	n.m.
 part.
-part. n.f.
+n.f. part.
 adv.
-prep. adv.
+adv. prep.
 n.m.
-prep. n.m.
+n.m. prep.
 n.m.
-prep. n.m.
+n.m. prep.
 757321	n.m.
 757324	prep.
 pron. fs.
@@ -37966,7 +37967,7 @@ n.m.
 mod.
 757369	n.pl.
 757371	n.f.
-prep. n.m.
+n.m. prep.
 757374	n.pl.
 part.
 n.m.
@@ -38000,17 +38001,17 @@ n.pl.
 adj.
 num.
 prep.
-part. num.
+num. part.
 prep.
 pron. fs.
 757446	n.m. num.
 757448	num.
-part. num.
+num. part.
 prep.
-757452	prep. part. pron.
+757452	part. pron. prep.
 757456	pron. ms.
 n.m.
-pron. ms. n.f.
+n.f. pron. ms.
 757462	n.m.
 prep.
 n.m.
@@ -38031,20 +38032,20 @@ prep. part.
 part.
 757493	part.
 757495	mod.
-757497	part. n.pl.
+757497	n.pl. part.
 part.
-prep. n.m.
+n.m. prep.
 757501	adv.
 757503	n.f.
 757505	mod.
 n.f.
 757508	part.
-757510	prep. n.m.
+757510	n.m. prep.
 757513	n.m.
 757517	mod. adv.
 n.m.
 adv.
-prep. adv.
+adv. prep.
 757523	n.m. num.
 757525	part.
 n.f.
@@ -38070,18 +38071,18 @@ n.m.
 part.
 n.m.
 757559	mod.
-757561	prep. n.m.
+757561	n.m. prep.
 757563	part.
 757566	n.f.
 n.m.
-757572	prep. n.m.
+757572	n.m. prep.
 757576	n.m.
 757578	pron. ms.
 757582	pron. fs.
 n.m.
 757590	part.
 757592	prep.
-757594	prep. n.f.
+757594	n.f. prep.
 part., prep.
 pron. fs.
 n.f.
@@ -38090,7 +38091,7 @@ part.
 757603	part.
 part.
 part.
-757607	part. mod. num.
+757607	num. mod. part.
 n.m.
 757610	part.
 prep.
@@ -38108,7 +38109,7 @@ n.m.
 757634	adj.
 757636	pron. cs.
 757638	part.
-part. adv.
+adv. part.
 757641	pron. cs.
 part.
 pron. fs.
@@ -38117,7 +38118,7 @@ n.f.
 n.m.
 757652	prep.
 n.m.
-757657	pron. ms. n.f.
+757657	n.f. pron. ms.
 prep.
 757660	n.m.
 757663	pron. ms.
@@ -38130,12 +38131,12 @@ pron. cs.
 n.m. num.
 part.
 757677	prep.
-prep. n.pl.tan.
-757680	prep. adv.
+n.pl.tan. prep.
+757680	adv. prep.
 757682	n.m. num.
 n.pl.tan.
-757685	prep. adv.
-757688	prep. n.f.
+757685	adv. prep.
+757688	n.f. prep.
 adj. invar.
 pron. cs.
 757693	n.f.
@@ -38167,29 +38168,29 @@ prep.
 num.
 757751	num.
 757753	adj. invar.
-757755	prep. n.f.
+757755	n.f. prep.
 757757	n.m.
 757759	n.m.
 757761	n.f.
 757763	part.
 757765	prep. pron.
 part.
-prep. n.m.
+n.m. prep.
 part.
 757770	n.m.
 mod.
-prep. n.f.
+n.f. prep.
 prep. part.
-prep. n.f.
+n.f. prep.
 n.m. part.
-757777	prep. n.m.
+757777	n.m. prep.
 n.m.
 757783	pron. cs.
 757789	part.
 757791	part.
-757793	n.m. part. n.f.
+757793	n.m. n.f. part.
 prep.
-pron. ms. n.f.
+n.f. pron. ms.
 757799	prep.
 757804	adj.
 n.f.
@@ -38210,7 +38211,7 @@ n.f.
 pron. cs. part.
 757838	prep.
 n.f.
-part. mod.
+mod. part.
 adj.
 n.m.
 757845	pron. cs. part.
@@ -38223,7 +38224,7 @@ adv.
 mod.
 adj.
 757862	n.m.
-part. adv.
+adv. part.
 adv.
 757869	pron. cs.
 adv.
@@ -38238,7 +38239,7 @@ pron. cs.
 757886	prep.
 part.
 n.f.
-757890	pron. fs. n.f.
+757890	n.f. pron. fs.
 part.
 part.
 757895	part.
@@ -38255,7 +38256,7 @@ adv.
 part.
 adv.
 757913	n.m.
-prep. n.f.
+n.f. prep.
 part.
 num.
 part.
@@ -38265,7 +38266,7 @@ n.m.
 part.
 num.
 n.m.
-757926	prep. n.m.
+757926	n.m. prep.
 757928	n.m.
 757930	pron. fs.
 757932	pron. pl.
@@ -38276,7 +38277,7 @@ pron. fs.
 757944	part.
 757947	part.
 n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 757952	n.m.
 prep.
@@ -38289,7 +38290,7 @@ adj. m.
 757967	pron. cs. part.
 prep.
 757970	n.m.
-prep. n.m.
+n.m. prep.
 757973	n.m.
 pron. cs.
 757976	pron. fs.
@@ -38297,7 +38298,7 @@ pron. cs.
 757983	n.f.
 757989	n.m. part.
 757991	n.f.
-num. n.f.
+n.f. num.
 757994	part.
 757996	pron. cs.
 mod.
@@ -38309,7 +38310,7 @@ n.m.
 n.m.
 758008	n.m. num.
 n.m.
-prep. n.m. num.
+n.m. prep. num.
 n.m.
 758014	prep.
 758016	n.m.
@@ -38328,8 +38329,8 @@ pron. cs.
 758041	n.m.
 758043	n.m.
 758045	n.m.
-758047	prep. n.m.
-prep. n.m.
+758047	n.m. prep.
+n.m. prep.
 758050	adv.
 part.
 758053	pron. cs.
@@ -38340,12 +38341,12 @@ part.
 num.
 num.
 n.m. num.
-num. n.f.
+n.f. num.
 758067	n.m.
 758071	n.m.
 n.f.
 758074	n.m.
-758079	prep. n.m.
+758079	n.m. prep.
 part. pron.
 758084	n.m.
 part. pron.
@@ -38366,7 +38367,7 @@ n.m.
 758117	n.f.
 prep.
 n.m.
-758121	prep. n.m.
+758121	n.m. prep.
 n.m.
 758124	n.m. part.
 pron. cs.
@@ -38378,14 +38379,14 @@ n.f.
 n.m.
 prep. part.
 prep.
-758138	pron. ms. n.m.
+758138	n.m. pron. ms.
 n.m. part.
-758141	num. n.f.
+758141	n.f. num.
 adv.
-num. n.f.
+n.f. num.
 adj. adv. mod.
 758147	n.m.
-num. n.f.
+n.f. num.
 adj. adv. mod.
 758151	n.m. part.
 758153	n.m.
@@ -38405,11 +38406,11 @@ num.
 n.m.
 758178	n.m.
 758180	n.m.
-758183	pron. ms. n.m.
+758183	n.m. pron. ms.
 part.
 part.
 n.m. num.
-758188	num. n.f.
+758188	n.f. num.
 adj. adv. mod.
 n.m.
 758192	n.m.
@@ -38429,14 +38430,14 @@ prep.
 part.
 n.pl.
 n.f.
-758221	prep. n.f.
+758221	n.f. prep.
 n.pl.
 adj. adv. mod.
 758227	n.m.
 758229	n.f.
 mod.
 758232	mod.
-758234	prep. n.m.
+758234	n.m. prep.
 n.pl.
 n.m.
 n.m. part.
@@ -38444,7 +38445,7 @@ part.
 758240	n.m. num.
 758243	prep.
 758245	n.m.
-758247	prep. n.m.
+758247	n.m. prep.
 758251	n.m.
 758254	part. pron.
 758256	n.m.
@@ -38462,9 +38463,9 @@ n.f.
 758288	prep.
 758292	part.
 n.m.
-758295	num. n.f.
+758295	n.f. num.
 758299	part.
-pron. ms. prep.
+prep. pron. ms.
 758302	prep.
 prep.
 pron. cs.
@@ -38492,11 +38493,11 @@ n.m.
 n.m.
 part.
 pron. pl.
-758349	n.m. pron. pl.
-758351	pron. mod. n.m.
+758349	pron. pl. n.m.
+758351	n.m. pron. mod.
 758353	prep.
 758355	part.
-n.m. pron. pl.
+pron. pl. n.m.
 758361	pron. cs.
 n.m. part.
 n.f.
@@ -38506,11 +38507,11 @@ part.
 n.f.
 758376	n.m.
 758378	n.m.
-758381	n.m. pron. pl.
+758381	pron. pl. n.m.
 758385	n.m.
-758389	n.m. pron. pl.
+758389	pron. pl. n.m.
 adj.
-758393	part. pron. pl.
+758393	pron. pl. part.
 758397	n.m. num.
 758399	n.m.
 n.f.
@@ -38524,8 +38525,8 @@ adv.
 part.
 758418	pron. pl.
 758420	n.f.
-part. pron. pl.
-758424	part. pron. pl.
+pron. pl. part.
+758424	pron. pl. part.
 758427	n.m.
 758429	n.m.
 pron. pl.
@@ -38538,11 +38539,11 @@ part.
 758442	pron. cs.
 758444	num. m.n.
 758446	part.
-758448	pron. ms. prep.
+758448	prep. pron. ms.
 758451	imper. pl. part.
 758455	num.
 n.m.
-pron. fs. part.
+part. pron. fs.
 adj.
 758462	n.m.
 758464	n.m.
@@ -38576,7 +38577,7 @@ adj.
 758554	prep.
 758558	part.
 758560	mod.
-pron. ms. n.m.
+n.m. pron. ms.
 758564	mod.
 part.
 758567	mod. adv.
@@ -38600,10 +38601,10 @@ n.m.
 758607	part.
 n.m.
 758611	mod.
-758613	prep. n.f.
-prep. n.f.
-prep. n.m.
-prep. n.m.
+758613	n.f. prep.
+n.f. prep.
+n.m. prep.
+n.m. prep.
 mod.
 758622	pron. cs.
 758630	num.
@@ -38612,7 +38613,7 @@ n.m.
 n.m.
 758640	adj. adv. mod.
 n.m.
-758644	prep. n.m.
+758644	n.m. prep.
 n.m.
 n.m.
 n.m.
@@ -38621,17 +38622,17 @@ n.f.
 758651	mod. adv.
 n.m. num.
 758654	n.m.
-758660	prep. n.m.
+758660	n.m. prep.
 758662	part. pron.
 758665	prep.
 758668	part. pron.
 mod. adv.
 adj.
-758675	prep. n.f.
+758675	n.f. prep.
 758680	n.m.
 n.f.
 pron. fs.
-758688	prep. n.f.
+758688	n.f. prep.
 758691	n.f.
 758693	part.
 part.
@@ -38645,18 +38646,18 @@ n.m.
 758714	part.
 758718	n.m. num.
 num.
-num. n.f.
+n.f. num.
 n.m. num.
 758724	pron. ms.
 758731	n.f.
 pron. cs.
 n.f.
-num. n.f.
+n.f. num.
 758736	pron. fs.
 758741	n.f.
 adv.
-prep. adv.
-758749	pron. fs. part.
+adv. prep.
+758749	part. pron. fs.
 n.f.
 758752	n.f
 758756	n.m.
@@ -38683,10 +38684,10 @@ n.m.
 n.f.
 758802	n.m.
 758804	part.
-num. n.f.
+n.f. num.
 adj. adv. mod.
 758809	n.m. num.
-num. n.f.
+n.f. num.
 adj. adv. mod.
 n.m.
 758814	part. pron.
@@ -38702,16 +38703,16 @@ n.m.
 758843	pron. cs.
 758845	adv.
 758847	adv.
-758850	num. n.f.
+758850	n.f. num.
 n.f.
 758853	n.m.
 758856	n.m. part.
 n.m. num.
 758860	n.m.
-prep. n.m.
+n.m. prep.
 758863	n.m.
 prep.
-prep. n.m.
+n.m. prep.
 adj.
 part.
 part.
@@ -38751,24 +38752,24 @@ mod.
 758912	prep.
 758916	prep.
 758918	n.m. num.
-758920	prep. n.m.
+758920	n.m. prep.
 758922	n.m.
 prep.
-758925	prep. n.m./f.
+758925	n.m./f. prep.
 758927	part.
 758929	pron. ms.
 758935	n.m. num.
 758938	n.f.
 758941	prep.
 758945	adv.
-part. n.f.
-758951	prep. n.m.
-pron. fs. part.
-num. n.f.
+n.f. part.
+758951	n.m. prep.
+part. pron. fs.
+n.f. num.
 prep.
-758956	num. n.m./f.
+758956	n.m./f. num.
 n.m./f.
-pron. fs. part.
+part. pron. fs.
 758961	pron. ms.
 n.m.
 n.m.
@@ -38783,8 +38784,8 @@ num.
 758978	n.m. part.
 part.
 n.m.
-pron. mod. n.m.
-758983	prep. n.m.
+n.m. pron. mod.
+758983	n.m. prep.
 758985	n.m. num.
 758988	prep.
 758990	n.m.
@@ -38802,20 +38803,20 @@ n.m. part.
 n.m. part.
 759016	n.m. num.
 prep.
-759019	pron. ms. n.m.
+759019	n.m. pron. ms.
 part.
 part.
-759023	pron. ms. n.m.
+759023	n.m. pron. ms.
 n.m.
 adj.
 n.m.
 part.
-num. n.f.
+n.f. num.
 759031	part.
 759034	n.m./f.
 n.f.
 part.
-num. n.f.
+n.f. num.
 759039	n.m. part.
 part. pron.
 part.
@@ -38826,10 +38827,10 @@ n.m.
 mod. adv.
 759049	part.
 759051	part.
-part. n.f.
+n.f. part.
 759056	prep. adj.
 759060	part.
-num. n.f.
+n.f. num.
 759063	part.
 prep.
 759068	n.f.
@@ -38843,21 +38844,21 @@ n.f.
 759081	adj. invar.
 759083	n.f.
 759085	adj. invar.
-759087	prep. n.m.
+759087	n.m. prep.
 prep.
 759090	n.m. part.
 759092	prep.
 759094	n.m. num.
-prep. n.m.
-759099	prep. n.m.
+n.m. prep.
+759099	n.m. prep.
 n.f.
 759102	part.
-759104	pron. ms. n.m.
+759104	n.m. pron. ms.
 part.
-prep. n.m.
+n.m. prep.
 759108	n.m.
-759111	prep. n.m./f.
-759114	part. n.f.
+759111	n.m./f. prep.
+759114	n.f. part.
 759118	part. pron.
 adj.
 759121	part. pron.
@@ -38875,45 +38876,45 @@ n.m.
 759149	n.f.
 759151	n.m.
 759155	prep.
-num. n.f.
-num. n.f.
-759162	prep. n.m.
-759165	part. n.f.
+n.f. num.
+n.f. num.
+759162	n.m. prep.
+759165	n.f. part.
 m.
 n.m. part.
 759169	n.pl.tan.
 adj.
-759175	part. n.f.
+759175	n.f. part.
 part.
 n.m.
 759179	n.f.
-prep. n.f.
+n.f. prep.
 759182	prep.
-759184	num. n.f.
+759184	n.f. num.
 759186	n.f.
 759188	part.
 mod.
-part. adv.
+adv. part.
 part.
 759193	mod.
 759195	n.f.
 759199	n.f.
 759201	mod.
-part. n.f.
+n.f. part.
 759204	n.f.
-prep. n.m. num.
+n.m. prep. num.
 adj.
-759208	prep. n.m.
+759208	n.m. prep.
 part.
-prep. num. n.f.
+n.f. num. prep.
 n.f.
-759214	prep. n.m.
-759216	prep. n.m.
+759214	n.m. prep.
+759216	n.m. prep.
 mod.
 759221	pron. pl.
 759223	adv.
 num.
-759226	prep. n.m.
+759226	n.m. prep.
 pron. pl.
 759231	n.f.
 759233	part.
@@ -38926,8 +38927,8 @@ n.f.
 prep. part.
 759250	n.m.
 759253	n.f.
-prep. n.m.
-759257	num. n.f.
+n.m. prep.
+759257	n.f. num.
 adv.
 759263	part.
 759266	adv.
@@ -38936,7 +38937,7 @@ n.f.
 759272	n.f.
 part.
 759275	part.
-prep. n.f.
+n.f. prep.
 759279	part.
 759281	adj.
 759284	n.f.
@@ -38953,7 +38954,7 @@ adv.
 759311	n.m.
 759314	n.f.
 759316	part.
-prep. n.m.
+n.m. prep.
 part.
 n.m.
 759322	n.m. n.f.
@@ -38969,22 +38970,22 @@ part.
 n.m.
 n.m.
 mod.
-num. n.m./f.
+n.m./f. num.
 759349	adv.
 adj.
-num. n.f.
+n.f. num.
 n.f./adj.f
 n.f./adj.f
 n.f./adj.f
 759357	n.f.
 759359	mod.
-prep. n.m.
-759363	num. n.f
+n.m. prep.
+759363	n.f num.
 part.
 n.m.
-prep. n.m.
+n.m. prep.
 759372	n.f
-prep. n.m.
+n.m. prep.
 759376	prep.
 part.
 n.f
@@ -38994,7 +38995,7 @@ prep.
 759384	part.
 part.
 759389	prep.
-pron. ms. n.m.
+n.m. pron. ms.
 759396	mod.
 759398	n.f.
 759400	mod.
@@ -39017,10 +39018,10 @@ adj.
 759432	n.m. num.
 adj.
 adv.
-mod. n.f.
+n.f. mod.
 759437	pron. cs.
 759440	part.
-prep. n.m.
+n.m. prep.
 n.f.
 759444	part.
 759446	n.f.
@@ -39030,7 +39031,7 @@ adv.
 part.
 759457	mod.
 n.f.
-prep. n.m.
+n.m. prep.
 759463	n.f.
 adj.
 759467	mod. adv.
@@ -39042,14 +39043,14 @@ mod.
 759478	part.
 759481	part.
 prep.
-759486	prep. n.m.
+759486	n.m. prep.
 prep.
 n.m.
 adj.
 mod.
 adv.
 759494	num.
-759497	prep. n.m.
+759497	n.m. prep.
 759499	prep.
 759502	mod.
 759504	pron. cs.
@@ -39058,15 +39059,15 @@ prep.
 part.
 759512	pron. pl.
 pron. cs.
-759516	pron. ms. n.m.
+759516	n.m. pron. ms.
 part.
 759522	n.m.
 759525	num.
 n.m.
-prep. num. n.f.
-759530	mod. part. pron.
+n.f. num. prep.
+759530	part. pron. mod.
 759532	part.
-prep. num. n.f.
+n.f. num. prep.
 n.f.
 759536	adj.
 mod. adv.
@@ -39076,7 +39077,7 @@ n.f.
 n.f.
 n.f.
 759548	part.
-759551	num. n.f.
+759551	n.f. num.
 n.m. part.
 adj. cs.
 n.m.
@@ -39087,9 +39088,9 @@ adj. cs.
 759562	mod. adv.
 759565	n.m.
 759568	mod.
-759570	pron. ms. n.m.
+759570	n.m. pron. ms.
 759576	num.
-759578	prep. n.m.
+759578	n.m. prep.
 759584	n.m.
 mod.
 adj.
@@ -39122,19 +39123,19 @@ part.
 759641	pron. cs.
 pron. pl.
 759645	prep.
-759647	prep. pron. pl.
+759647	pron. pl. prep.
 759652	part.
 pron. cs.
 759655	n.m.
 pron. cs.
 mod.
-759659	num. m.
+759659	m. num.
 759661	n.f.
 adj.
 759664	part.
 adj.
 759667	n.f.
-759669	pron. ms. adj.
+759669	adj. pron. ms.
 num.
 m.
 759675	n.m.
@@ -39142,13 +39143,13 @@ m.
 part.
 759680	prep. num.
 part.
-pron. ms. num.
+num. pron. ms.
 part.
-pron. ms. num.
-pron. ms. num.
-pron. ms. num.
+num. pron. ms.
+num. pron. ms.
+num. pron. ms.
 adj. part.
-759690	prep. n.m.
+759690	n.m. prep.
 part.
 759695	adj.
 759698	n.m.
@@ -39168,12 +39169,12 @@ part. pron.
 n.m.
 n.m.
 n.m.
-759732	pron. ms. n.m.
+759732	n.m. pron. ms.
 mod.
 759737	n.m.
 n.m. num.
 759740	pron. cs.
-759742	num. n.f.
+759742	n.f. num.
 759744	n.f.
 n.f.
 759747	n.f.
@@ -39188,22 +39189,22 @@ pron. cs.
 mod.
 759768	pron. pl.
 n.m. num.
-759775	num. n.f.
+759775	n.f. num.
 part.
 759778	adj.
 pron. pl.
-759782	mod. part. pron.
+759782	part. pron. mod.
 759785	pron. fs.
-759788	prep. n.f.
+759788	n.f. prep.
 mod.
 759791	n.f.
 part.
-759794	pron. ms. n.m.
+759794	n.m. pron. ms.
 759797	part.
 759800	mod.
 part. pron.
 759805	part. pron.
-mod. n.f.
+n.f. mod.
 759808	n.f.
 759810	part.
 part.
@@ -39219,7 +39220,7 @@ n.m.
 mod.
 759830	prep.
 759832	prep.
-759834	prep. n.f.
+759834	n.f. prep.
 759836	part. pron.
 n.f.
 759842	n.f.
@@ -39228,7 +39229,7 @@ n.f.
 part.
 adv.
 759857	part.
-mod. adv.
+adv. mod.
 759860	part.
 759862	mod.
 759865	adv.
@@ -39236,22 +39237,22 @@ mod. adv.
 759874	num.
 759876	num.
 n.f.
-part. num.
+num. part.
 part.
 n.pl.tan.
 759883	n.m. part.
 part.
 adv.
 n.m. mod.
-759890	prep. n.f.
+759890	n.f. prep.
 759892	part.
 mod.
-759895	pron. ms. part.
+759895	part. pron. ms.
 759897	n.m.
 759901	n.m. num.
 759903	num.
 n.m.
-759906	pron. ms. adj.
+759906	adj. pron. ms.
 759908	num.
 n.f.
 759911	prep.
@@ -39273,13 +39274,13 @@ n.f.
 759945	prep. pron.
 759948	n.m.
 n.m.
-n.m. part. num.
+n.m. num. part.
 759952	num.
 n.f.
-759955	prep. num. m.n.
+759955	prep. m.n. num.
 adj. adv. mod.
 part.
-pron. ms. n.m.
+n.m. pron. ms.
 759961	n.m.
 part. pron.
 759964	num.
@@ -39289,14 +39290,14 @@ part.
 759971	adv.
 759973	n.f.
 759975	n.f.
-prep. n.m.
-part. n.f.
-prep. n.m.
-part. n.f.
-prep. n.m.
-part. pron. pl.
+n.m. prep.
+n.f. part.
+n.m. prep.
+n.f. part.
+n.m. prep.
+pron. pl. part.
 759983	pron. cs.
-759986	pron. ms. adj.
+759986	adj. pron. ms.
 n.f.
 759993	pron. cs.
 759995	n.m.
@@ -39307,16 +39308,16 @@ n.m.
 760004	n.f.
 n.f.
 760007	n.f.
-prep. n.m.
-part. n.f.
-prep. n.m.
-part. n.f.
-prep. n.m.
+n.m. prep.
+n.f. part.
+n.m. prep.
+n.f. part.
+n.m. prep.
 760014	part. pron.
 760017	n.m.
 n.m.
 760020	n.m.
-760023	prep. n.m. num.
+760023	n.m. prep. num.
 760026	part.
 760028	n.pl.tan.
 adv.
@@ -39325,10 +39326,10 @@ prep.
 760036	pron. pl.
 760038	adv.
 mod.
-760041	pron. ms. n.m.
+760041	n.m. pron. ms.
 760043	n.m.
 760045	n.m.
-num. n.f.
+n.f. num.
 pron. ms.
 part.
 760050	n.m. num.
@@ -39350,9 +39351,9 @@ mod.
 n.f.
 n.m.
 n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 adv.
-prep. adv.
+adv. prep.
 pron. pl.
 part.
 760093	prep.
@@ -39365,26 +39366,26 @@ pron. cs.
 prep.
 part.
 760104	n.m.
-prep. n.m.
-760110	pron. ms. n.m.
-760112	prep. n.m. num.
+n.m. prep.
+760110	n.m. pron. ms.
+760112	n.m. prep. num.
 760115	adv.
-part. n.f.
+n.f. part.
 760122	num.
 n.m./f.
-prep. n.m. num.
+n.m. prep. num.
 n.m.
-760129	prep. n.m.
+760129	n.m. prep.
 760132	n.m.
 adv.
-760137	prep. num. n.f.
+760137	n.f. num. prep.
 760140	part. pron.
 760143	adj.
 prep.
 n.m.
 pron. pl.
 760150	n.m. num.
-prep. n.m.
+n.m. prep.
 760153	n.m.
 n.f.
 n.m./f.
@@ -39401,21 +39402,21 @@ pron. pl.
 760179	n.m./f.
 760181	pron. cs.
 760184	n.m.
-part. mod.
+mod. part.
 760187	pron. ms.
 760189	n.m.
 n.m.
-760193	prep. n.m.
-760195	prep. n.m./f.
-760198	prep. n.f.
+760193	n.m. prep.
+760195	n.m./f. prep.
+760198	n.f. prep.
 n.f.
 760201	mod.
 760205	adj.
 760207	n.m.
 part.
 760210	prep. part.
-760213	prep. adv.
-prep. n.m.
+760213	adv. prep.
+n.m. prep.
 760216	n.m.
 n.m.
 n.m.
@@ -39446,7 +39447,7 @@ prep.
 n.f.
 760257	n.m.
 part. pron.
-pron. ms. n.m.
+n.m. pron. ms.
 mod.
 adj.
 760263	prep.
@@ -39454,7 +39455,7 @@ pron. cs.
 760271	n.m.
 pron. pl.
 760274	adv.
-prep. adv.
+adv. prep.
 n.m.
 760278	pron. cs.
 760281	pron. pl.
@@ -39462,15 +39463,15 @@ n.m.
 760285	n.m.
 part.
 760289	part.
-pron. ms. n.m.
+n.m. pron. ms.
 n.m.
 n.m.
 n.m.
 prep.
-prep. n.f.
-prep. n.f.
+n.f. prep.
+n.f. prep.
 760298	n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 760302	pron. ms.
 760304	adj.
 n.m.
@@ -39478,13 +39479,13 @@ n.m.
 n.m.
 num.
 adj.
-prep. n.m.
-760314	prep. n.m.
+n.m. prep.
+760314	n.m. prep.
 760316	prep.
 760319	n.f.
 760321	adv.
 760323	pron. pl.
-760325	pron. ms. adj.
+760325	adj. pron. ms.
 pron. ms.
 760329	interj.
 n.f.
@@ -39492,7 +39493,7 @@ n.f.
 n.m.
 760335	prep.
 760338	n.m.
-760340	prep. n.m. part.
+760340	n.m. prep. part.
 n.m.
 part. pron.
 760345	adv.
@@ -39504,7 +39505,7 @@ pron. pl.
 mod.
 760357	pron. ms.
 n.f
-760360	prep. n.f.
+760360	n.f. prep.
 760362	num.
 num.
 n.m. num.
@@ -39517,7 +39518,7 @@ n.f.
 n.m.
 pron. ms.
 760384	n.f.
-760386	part. adv.
+760386	adv. part.
 adv.
 760390	pron. ms.
 n.f.
@@ -39529,31 +39530,31 @@ prep.
 n.m.
 760403	prep.
 760405	n.m.
-prep. n.m.
+n.m. prep.
 n.m. part.
-760409	prep. part. n.f.
+760409	n.f. part. prep.
 760413	adv.
 760420	part. pron.
 760422	pron. cs.
 760424	part.
 760426	pron. pl.
-760428	mod. n.f.
+760428	n.f. mod.
 760440	n.f.
 760444	part.
-760447	part. n.f.
+760447	n.f. part.
 760451	n.f.
 760455	adv.
 prep.
 n.m.
 pron. cs.
-prep. n.m.
+n.m. prep.
 n.f.
-760465	num. n.f.
+760465	n.f. num.
 n.m.
 760468	num.
 n.f.
 760471	part.
-760475	prep. n.f.
+760475	n.f. prep.
 n.m.
 n.f.
 part. pron.
@@ -39561,28 +39562,28 @@ adj.
 760488	part.
 760490	n.f.
 760495	adj.
-prep. n.m.
+n.m. prep.
 part.
 760499	pron. fs.
 n.f.
 pron. pl.
 760504	n.m./f.
 760506	part.
-760508	prep. n.m.
-760512	prep. n.m.
+760508	n.m. prep.
+760512	n.m. prep.
 760515	n.m.
-pron. ms. adj.
+adj. pron. ms.
 760518	n.m. part.
 760520	part.
 760523	n.m. part.
 760526	prep.
-760528	pron. ms. n.m.
+760528	n.m. pron. ms.
 adj.
 760532	part.
-760536	prep. n.m.
+760536	n.m. prep.
 760538	n.m. num.
-760547	prep. n.m.
-760550	prep. n.m. num.
+760547	n.m. prep.
+760550	n.m. prep. num.
 n.m./f.
 760556	part.
 760560	pron. pl.
@@ -39590,7 +39591,7 @@ n.m./f.
 num.
 760570	num.
 760572	adj.
-760575	prep. n.m.
+760575	n.m. prep.
 760577	prep.
 760582	n.m. part.
 760584	pron. ms.
@@ -39600,13 +39601,13 @@ n.m. num.
 adj.
 760595	adj.
 760597	n.m.
-prep. n.f.
-prep. n.f.
-760603	prep. n.f.
+n.f. prep.
+n.f. prep.
+760603	n.f. prep.
 760607	n.f.
-760610	part. mod.
-760613	prep. n.m.
-760617	prep. n.m.
+760610	mod. part.
+760613	n.m. prep.
+760617	n.m. prep.
 760619	num.
 n.m.
 760622	part. pron.
@@ -39614,47 +39615,47 @@ n.m.
 n.m.
 760631	n.m.
 760633	n.m.
-prep. n.m.
+n.m. prep.
 pron. fs.
 760637	part. pron.
 prep.
 n.m.
 760646	part. pron.
-760648	mod. n.f.
-num. n.f.
+760648	n.f. mod.
+n.f. num.
 n.m.
 prep.
 760656	pron. cs.
 760669	num.
 n.f.
-760674	part. n.f.
+760674	n.f. part.
 n.f.
-760683	prep. n.m.
-prep. n.f.
+760683	n.m. prep.
+n.f. prep.
 n.m.
 adj.
-760689	prep. n.m.
+760689	n.m. prep.
 n.m. part.
-prep. n.m. part.
-pron. ms. n.m.
-pron. ms. n.m.
+n.m. prep. part.
+n.m. pron. ms.
+n.m. pron. ms.
 adv.
-760696	num. n.f.
+760696	n.f. num.
 n.f.
 adj.
 n.m. num.
 760701	adj. cs.
 part.
-part. n.f.
+n.f. part.
 n.f.
-mod. num.
+num. mod.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 adj.
 760710	prep.
 760712	pron. fs.
 760716	pron. cs.
-prep. adv.
+adv. prep.
 760720	n.m.
 pron. pl.
 760723	adj.
@@ -39664,24 +39665,24 @@ part.
 n.m.
 n.f.
 part.
-760732	num. n.f.
+760732	n.f. num.
 n.m. num.
 mod.
 adj.
-pron. ms. n.m.
+n.m. pron. ms.
 adj.
 part.
 n.m.
 adj.
-760742	prep. n.m.
+760742	n.m. prep.
 n.m.
-760747	mod. part. pron.
+760747	part. pron. mod.
 pron. fs.
 760752	part.
 760755	pron. fs.
-760758	prep. n.f.
+760758	n.f. prep.
 adj.
-num. n.f.
+n.f. num.
 mod.
 760764	num.
 n.f.
@@ -39690,17 +39691,17 @@ n.f.
 760772	mod.
 760774	n.m.
 part.
-num. n.f.
+n.f. num.
 760779	n.f.
 n.m.
 pron. pl.
 num.
 n.f.
-760786	prep. n.m.
-pron. ms. n.m.
-760790	part. n.f.
+760786	n.m. prep.
+n.m. pron. ms.
+760790	n.f. part.
 n.m.
-mod. n.f.
+n.f. mod.
 760795	n.f.
 n.m. part.
 adj. adv. mod.
@@ -39718,7 +39719,7 @@ adv.
 760815	part.
 760819	adv.
 pron. cs. part.
-760823	part. n.f.
+760823	n.f. part.
 760825	pron. pl.
 760829	pron. pl.
 num.
@@ -39728,17 +39729,17 @@ part. pron.
 760836	n.f.
 760838	part., prep.
 760841	part.
-part. mod.
-760846	prep. n.f.
+mod. part.
+760846	n.f. prep.
 adj.
 760850	n.m. num.
 num.
 760854	n.m.
-prep. n.m.
+n.m. prep.
 760858	n.m. num.
 prep.
 n.f.
-760863	prep. n.m.
+760863	n.m. prep.
 prep.
 num.
 760867	n.m.
@@ -39747,7 +39748,7 @@ n.m.
 part.
 n.m.
 760874	part.
-prep. n.f.
+n.f. prep.
 760878	n.f.
 mod.
 n.m.
@@ -39768,12 +39769,12 @@ n.f.
 num.
 n.f.
 n.m.
-pron. fs. n.f.
+n.f. pron. fs.
 pron. fs.
 760917	num.
 n.f.
-760920	prep. n.m.
-760922	prep. n.m.
+760920	n.m. prep.
+760922	n.m. prep.
 760924	adj. invar.
 part.
 pron. fs.
@@ -39782,7 +39783,7 @@ n.f.
 760931	part.
 part. pron.
 760937	num.
-part. n.f.
+n.f. part.
 760941	part. pron.
 part.
 760946	n.m.
@@ -39790,7 +39791,7 @@ part.
 760951	prep.
 760953	pron. ms.
 760956	prep.
-num. n.f.
+n.f. num.
 prep.
 760961	n.m. num.
 mod.
@@ -39800,18 +39801,18 @@ n.m.
 part.
 num.
 n.f.
-760972	prep. n.f.
+760972	n.f. prep.
 adj. invar.
 pron. fs.
 n.f.
-760982	prep. n.f.
+760982	n.f. prep.
 prep.
 n.f.
 n.f.
 760988	prep.
 760991	prep.
 n.f.
-760996	part. adv.
+760996	adv. part.
 part.
 part.
 761000	n.f.
@@ -39827,37 +39828,37 @@ n.m.
 num.
 n.m.
 761026	n.m. mod.
-num. n.f.
+n.f. num.
 adv.
 pron. ms. part.
-761031	part. n.f.
+761031	n.f. part.
 n.m.
 part.
 part.
 761036	num.
 interj.
 part.
-pron. fs. part.
+part. pron. fs.
 761041	n.m.
 adj.
 pron. fs.
 761048	pron. ms.
-761054	prep. n.m.
-prep. n.m.
+761054	n.m. prep.
+n.m. prep.
 761058	n.m.
-part. mod.
+mod. part.
 761062	n.f.
 pron. ms.
 761068	n.m.
 n.m.
 761071	n.f.
-part. mod.
+mod. part.
 761076	part.
 761079	adj. invar.
 n.f.
 761082	n.f.
-part. mod.
-761087	part. adv.
+mod. part.
+761087	adv. part.
 n.f.
 adj. adv. mod.
 n.m.
@@ -39867,12 +39868,12 @@ n.m.
 n.m.
 761100	prep.
 761102	pron. pl.
-761105	prep. n.m.
+761105	n.m. prep.
 761107	part.
 n.m.
 adj.
 761111	n.m.
-prep. n.f.
+n.f. prep.
 part.
 pron. fs.
 n.f.
@@ -39895,7 +39896,7 @@ n.m.
 part. pron.
 761170	pron. cs.
 761175	n.f.
-prep. n.m.
+n.m. prep.
 n.m. part.
 n.f.
 761180	n.m.
@@ -39903,14 +39904,14 @@ n.f.
 n.f.
 761186	pron. cs.
 761188	n.m.
-761192	prep. n.m.
+761192	n.m. prep.
 pron. ms.
-761195	prep. n.m.
-761197	num. n.f.
+761195	n.m. prep.
+761197	n.f. num.
 761199	prep.
 761202	prep.
 761207	part.
-761210	prep. n.m.
+761210	n.m. prep.
 num.
 761215	part.
 n.m.
@@ -39920,7 +39921,7 @@ n.f.
 adv.
 part.
 n.f.
-761226	pron. ms. n.m.
+761226	n.m. pron. ms.
 761228	n.m. num.
 761230	n.f.
 761232	n.m.
@@ -39929,9 +39930,9 @@ n.f.
 761240	part., prep.
 761247	pron. cs. part.
 761250	part.
-part. mod.
+mod. part.
 761255	n.m. mod.
-761257	num. n.f.
+761257	n.f. num.
 761261	pron. cs.
 761265	part.
 part. part., prep.
@@ -39947,7 +39948,7 @@ n.m. num.
 n.f.
 part.
 n.f.
-761287	prep. n.m.
+761287	n.m. prep.
 n.m. part.
 part.
 mod.
@@ -39956,16 +39957,16 @@ n.f.
 n.f.
 n.m.
 761301	pron. cs.
-761304	prep. num. m.
+761304	m. prep. num.
 adj. adv. mod.
 part.
 n.m.
-part. m.
+m. part.
 761311	n.m. part.
 761315	pron. cs.
 761319	n.f.
 761321	pron. cs.
-761323	part. n.f.
+761323	n.f. part.
 761326	prep.
 part. part., prep.
 761329	pron. cs.
@@ -39979,22 +39980,22 @@ num.
 n.f./m.
 prep.
 n.f./m.
-761348	n.f./m., num.
+761348	num. n.f./m.,
 761350	pron. fs. n.f./m.,
-761353	part. n.f.
+761353	n.f. part.
 761355	pron. ms.
 n.m.
 761358	pron. ms. n.f./m.,
-mod. n.f.
+n.f. mod.
 pron. fs. n.f./m.,
-761362	pron. fs. part.
+761362	part. pron. fs.
 pron. cs.
 761365	pron. ms.
 n.m. part.
 n.f.
 761369	part.
 761371	num.
-761373	part. n.f.
+761373	n.f. part.
 n.m.
 prep.
 761377	num.
@@ -40016,7 +40017,7 @@ n.f.
 761405	pron. cs.
 761408	part., prep.
 761410	num.
-prep. n.m.
+n.m. prep.
 761415	num.
 n.m.
 part.
@@ -40028,15 +40029,15 @@ n.m.
 n.m.
 part.
 part.
-761429	n.m. part. num.
+761429	n.m. num. part.
 n.f.
-761433	part. n.f.
+761433	n.f. part.
 761435	pron. cs.
-761437	prep. n.m.
+761437	n.m. prep.
 761441	n.m. mod.
-761443	prep. n.m.
+761443	n.m. prep.
 n.f.
-prep. n.f.
+n.f. prep.
 pron. ms.
 n.m.
 761449	part.
@@ -40047,31 +40048,31 @@ n.m.
 prep.
 761469	part.
 761471	n.m. num.
-761474	part. n.f.
+761474	n.f. part.
 761476	pron. cs.
-761478	prep. n.m.
+761478	n.m. prep.
 761481	n.m.
 761484	pron. ms.
 761488	prep.
 part.
 part.
-761492	n.m. part. num. n.f.
-part. n.f.
+761492	n.m. n.f. part. num.
+n.f. part.
 n.m. part.
 761496	part. pron.
 761498	pron. ms. part.
 761500	n.m. mod.
 n.f.
-prep. n.f.
+n.f. prep.
 n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 761508	prep.
 n.m.
 part.
 n.m. num.
 761513	num.
 761515	num.
-prep. n.f.
+n.f. prep.
 prep.
 761519	num.
 761521	pron. ms.
@@ -40079,18 +40080,18 @@ prep.
 n.f.
 761526	part.
 pron. ms.
-pron. fs. part.
-pron. ms. n.m.
+part. pron. fs.
+n.m. pron. ms.
 761534	n.m. num.
 prep.
 761541	pron. ms.
-761543	prep. n.m.
-761545	prep. n.m.
+761543	n.m. prep.
+761545	n.m. prep.
 prep.
 761548	part.
-prep. n.m.
+n.m. prep.
 761554	part.
-num. pron. pl.
+pron. pl. num.
 n.f.
 761559	pron. ms.
 n.m.
@@ -40100,19 +40101,19 @@ adv.
 pron. ms.
 761567	n.m.
 adv.
-num. n.f.
+n.f. num.
 m.
 part.
 n.pl.tan.
 761574	n.pl.tan.
-761577	num. n.f.
+761577	n.f. num.
 761579	mod. adv.
 n.f.
 761582	pron. fs.
-761584	prep. n.pl.tan.
-pron. fs. n.f.
-761587	prep. adv.
-n.pl.tan. pron. pl.
+761584	n.pl.tan. prep.
+n.f. pron. fs.
+761587	adv. prep.
+pron. pl. n.pl.tan.
 761590	n.f.
 n.pl.tan.
 761593	mod. adv.
@@ -40127,19 +40128,19 @@ n.m.
 761605	n.pl.tan.
 761609	n.m.
 761612	n.m.
-part. num.
+num. part.
 761617	adj. invar.
 n.f.
 adj.
-761621	prep. n.m.
+761621	n.m. prep.
 prep.
 761624	prep.
 n.m.
-pron. fs. part.
+part. pron. fs.
 761628	pron. pl.
-part. n.f.
+n.f. part.
 n.m.
-761639	pron. fs. n.f./m.
+761639	n.f./m. pron. fs.
 num.
 prep.
 761643	prep.
@@ -40148,15 +40149,15 @@ prep.
 761654	prep.
 761656	n.f.
 761659	n.f.
-part. n.f.
+n.f. part.
 n.f.
 n.pl.tan.
-761665	part. adv.
+761665	adv. part.
 761668	mod. adv.
 n.m.
 part.
 761676	num.
-761679	num. n.f.
+761679	n.f. num.
 761681	part.
 n.m.
 prep.
@@ -40165,19 +40166,19 @@ n.pl.tan.
 761690	part.
 761692	n.m.
 761694	n.m.
-761697	part. num.
-761699	prep. n.m.
+761697	num. part.
+761699	n.m. prep.
 adj.
-part. num.
-761704	part. num.
+num. part.
+761704	num. part.
 761707	n.m.
 n.f.
 num.
-761715	pron. ms. n.m.
+761715	n.m. pron. ms.
 761718	prep.
 adv.
 761721	num.
-part. n.f.
+n.f. part.
 n.m.
 761732	part.
 num.
@@ -40190,15 +40191,15 @@ mod.
 pron. ms.
 761755	n.m.
 761759	prep. adj.
-761761	prep. n.m.
+761761	n.m. prep.
 part.
 adj.
-761765	pron. fs. part. pron.
+761765	part. pron. pron. fs.
 761767	prep.
 761769	pron. ms.
 761771	n.m.
 761773	part. pron.
-761777	prep. n.m.
+761777	n.m. prep.
 pron. ms.
 num.
 adj. m.
@@ -40208,9 +40209,9 @@ adj.
 761789	part.
 part.
 adj.
-761793	num. n.f.
-761795	part. mod.
-761797	pron. ms. n.m.
+761793	n.f. num.
+761795	mod. part.
+761797	n.m. pron. ms.
 761800	n.m.,
 n.m.
 761805	part.
@@ -40219,17 +40220,17 @@ part.
 part.
 mod.
 761815	part.
-761817	part. n.f.
-761819	pron. ms. n.m.
+761817	n.f. part.
+761819	n.m. pron. ms.
 761821	pron. ms.
-761825	prep. n.m.
+761825	n.m. prep.
 761828	adv.
 mod. adv. n.f.
 761831	part.
-prep. n.m.
+n.m. prep.
 761834	prep.
 761841	n.m. num.
-prep. n.f.
+n.f. prep.
 n.f.
 pron. ms.
 761848	prep. num.
@@ -40247,7 +40248,7 @@ n.f.
 761876	n.m. part.
 761883	part.
 761885	n.f.
-num. pron. pl.
+pron. pl. num.
 n.f.
 mod.
 761892	n.m. part.
@@ -40259,8 +40260,8 @@ n.f.
 prep.
 n.m.
 n.m. mod.
-761908	pron. fs. n.f.
-761910	pron. fs. n.f.
+761908	n.f. pron. fs.
+761910	n.f. pron. fs.
 761912	adj.
 n.m.
 761919	adj.
@@ -40274,7 +40275,7 @@ n.m. mod.
 pron. pl.
 761942	n.m.
 761944	n.f.
-761946	prep. n.m.
+761946	n.m. prep.
 761948	num.
 n.f.
 761956	prep.
@@ -40285,11 +40286,11 @@ n.f.
 761964	n.m.
 num.
 761967	n.m.
-761970	prep. n.f.
+761970	n.f. prep.
 761972	n.m.
-761974	part. pron. pl.
+761974	pron. pl. part.
 761976	adj. invar.
-761980	part. n.f.
+761980	n.f. part.
 pron. pl.
 mod.
 761984	n.m.
@@ -40303,9 +40304,9 @@ part.
 n.f.
 pron. cs.
 762006	n.m.
-prep. n.m.
+n.m. prep.
 762009	n.m.
-prep. n.m.
+n.m. prep.
 762012	n.m.
 762014	adj.
 pron. ms.
@@ -40332,7 +40333,7 @@ pron. mod.
 762062	mod.
 762067	pron. pl.
 762069	n.m.
-prep. num.
+num. prep.
 762073	num.
 762076	n.m.
 mod.
@@ -40348,12 +40349,12 @@ n.f.
 prep.
 n.m.
 pron. fs.
-762104	prep. n.m.
+762104	n.m. prep.
 pron. ms.
 762107	n.m.
 prep.
 n.m.
-762112	prep. n.m.
+762112	n.m. prep.
 762116	n.m.
 762118	n.m.
 762120	adj.
@@ -40372,7 +40373,7 @@ n.f.
 pron. pl.
 num.
 n.f.
-part. num.
+num. part.
 762145	adj.
 762148	part.
 part. pron.
@@ -40381,12 +40382,12 @@ part. pron.
 n.m.
 762158	part.
 n.f.
-prep. n.f.
+n.f. prep.
 762164	n.m.
 762166	adj.
 part.
 pron. cs.
-762170	part. n.f.
+762170	n.f. part.
 762172	part.
 n.m.
 n.m. n.f.
@@ -40394,7 +40395,7 @@ n.m. n.f.
 762178	pron. ms.
 762180	part.
 pron. ms.
-762192	pron. ms. n.m.
+762192	n.m. pron. ms.
 762195	n.m. num.
 762198	n.m. num.
 762202	part.
@@ -40409,9 +40410,9 @@ prep.
 n.m.
 762229	adj.
 762232	part.
-762234	num. pron. pl.
+762234	pron. pl. num.
 n.f.
-762237	prep. n.f.
+762237	n.f. prep.
 part.
 762240	n.m.
 n.m.
@@ -40431,11 +40432,11 @@ n.m.
 762262	n.f.
 762264	n.m.
 762266	part.
-pron. fs. part.
+part. pron. fs.
 n.m.
 mod. adv. n.f.
 762271	n.f.
-762276	num. n.f.
+762276	n.f. num.
 762278	n.m.
 762280	part.
 762282	adv.
@@ -40449,12 +40450,12 @@ n.f.
 762294	num.
 num.
 num.
-762302	pron. fs. mod.
+762302	mod. pron. fs.
 762304	prep.
 762306	pron. cs.
 762309	mod.
-pron. fs. part.
-762312	prep. n.m./f.
+part. pron. fs.
+762312	n.m./f. prep.
 mod.
 n.m. part.
 762316	mod.
@@ -40468,23 +40469,23 @@ part.
 762329	prep.
 762331	n.m.
 762333	n.m.
-762337	prep. n.m.
+762337	n.m. prep.
 n.m.
 762346	adj.
 762350	part.
-762354	pron. fs. n.f.
+762354	n.f. pron. fs.
 762356	prep.
 762360	pron. ms.
 762363	pron. ms.
 762366	adj. adv. mod.
 762369	mod.
 762371	mod. adv.
-762373	num. n.f.
-762375	prep. n.m.
+762373	n.f. num.
+762375	n.m. prep.
 762377	n.m.
 n.f.
-762380	pron. ms. n.m.
-762382	prep. n.m.
+762380	n.m. pron. ms.
+762382	n.m. prep.
 762385	mod.
 762388	num.
 m.
@@ -40527,12 +40528,12 @@ n.f.
 pron. fs.
 762461	n.m.
 762464	n.m.
-762466	prep. n.m.
+762466	n.m. prep.
 762469	n.m.
-762471	prep. n.m.
+762471	n.m. prep.
 prep. n.pl.
 762474	n.f.
-prep. adv.
+adv. prep.
 prep.
 n.f.
 part.
@@ -40560,14 +40561,14 @@ n.f.
 762520	n.f.
 762523	prep.
 n.f.
-762526	part. n.f.
+762526	n.f. part.
 762529	n.f.
-762532	prep. n.f.
+762532	n.f. prep.
 762538	n.m. num.
 part.
 762542	n.m. adv./adj.
-prep. n.f.
-pron. fs. part.
+n.f. prep.
+part. pron. fs.
 prep.
 part. pron.
 762549	part.
@@ -40578,13 +40579,13 @@ pron. pl.
 n.m.
 part.
 n.m.
-prep. n.m.
+n.m. prep.
 762561	n.m.
 n.f.
 part.
 mod.
-prep. n.m.
-pron. fs. part.
+n.m. prep.
+part. pron. fs.
 762568	mod.
 mod.
 762571	n.m.
@@ -40595,19 +40596,19 @@ part.
 762580	part.
 pron. fs.
 n.m.
-prep. n.f.
+n.f. prep.
 762585	part.
 mod.
 n.m.
-762589	prep. adv.
+762589	adv. prep.
 n.m.
 762593	n.f.
-762596	prep. n.m.
+762596	n.m. prep.
 762598	n.m.
 n.m.
 762602	n.m.
 762604	n.m.
-762606	pron. fs. part.
+762606	part. pron. fs.
 part.
 prep.
 n.m.
@@ -40619,21 +40620,21 @@ part.
 mod.
 762619	adv.
 762621	n.f.
-762624	prep. part. n.f.
+762624	n.f. part. prep.
 n.m. part.
-part. adv.
+adv. part.
 adv.
-762630	prep. n.m.
+762630	n.m. prep.
 762633	part.
 n.m.
 762637	part.
 762641	n.m.
-762647	prep. n.f.
+762647	n.f. prep.
 762656	n.m.
 762660	n.m.
 762663	part.
 762668	adv.
-pron. fs. part.
+part. pron. fs.
 pron. pl.
 n.m.
 762673	adj. invar.
@@ -40646,7 +40647,7 @@ adv.
 part.
 adv.
 762692	n.m. num.
-762694	num. n.f.
+762694	n.f. num.
 762698	n.m.
 mod.
 n.m. num.
@@ -40660,7 +40661,7 @@ n.f.
 762720	part.
 762727	n.m.
 762729	prep.
-num. n.f.
+n.f. num.
 762732	n.f.
 part.
 762735	part.
@@ -40705,17 +40706,17 @@ n.f.
 n.m. num.
 762816	prep.
 762818	part.
-prep. num. n.f.
+n.f. num. prep.
 762821	adv.
 762824	n.m. num.
-762826	pron. fs. part.
-prep. n.m.
+762826	part. pron. fs.
+n.m. prep.
 762829	n.f.
 n.f.
 762832	n.f.
-part. mod.
+mod. part.
 762836	n.m.
-pron. fs. part.
+part. pron. fs.
 n.m.
 762841	n.m. num.
 num.
@@ -40727,7 +40728,7 @@ n.m.
 adj.
 part.
 762857	part.
-762860	prep. n.m.
+762860	n.m. prep.
 762863	n.m.
 762866	n.m.
 part.
@@ -40736,12 +40737,12 @@ n.m.
 762875	n.m.
 762877	n.m.
 adj.
-part. num.
+num. part.
 part.
-762882	prep. n.f.
-part. num.
+762882	n.f. prep.
+num. part.
 n.f.
-762887	prep. n.f.
+762887	n.f. prep.
 mod.
 762890	mod.
 762892	n.m.
@@ -40749,12 +40750,12 @@ n.m. part.
 762895	n.m.
 n.m.
 adj.
-part. num.
+num. part.
 762900	part.
 762904	n.m. num.
 762908	part.
 adv.
-762917	pron. ms. n.m.
+762917	n.m. pron. ms.
 762919	n.f.
 762925	interj.
 pron. cs.
@@ -40765,28 +40766,28 @@ pron. cs.
 762947	n.m. num.
 n.f.
 762951	part. pron.
-762956	prep. n.m. num.
-762958	num. n.f.
+762956	n.m. prep. num.
+762958	n.f. num.
 adv.
-prep. n.m.
+n.m. prep.
 n.f.
 mod.
 n.f.
 762966	n.f.
-762971	prep. n.m.
+762971	n.m. prep.
 n.f.
-762974	part. num.
+762974	num. part.
 n.m.
 762979	num.
 n.m.
 762983	pron. fs.
 762985	n.m.
 762989	n.pl.tan.
-762991	num. n.f.
+762991	n.f. num.
 adj. adv. mod.
-762994	prep. n.m.
-pron. fs. n.f.
-762998	part. num.
+762994	n.m. prep.
+n.f. pron. fs.
+762998	num. part.
 763002	part. pron.
 763004	adj.
 763006	n.m. part.
@@ -40799,27 +40800,27 @@ n.m.
 mod.
 adj.
 n.m.
-763020	num. m.
+763020	m. num.
 n.m.
 prep.
 prep.
 n.m./f.
-763030	prep. n.f.
-763032	prep. n.f.
+763030	n.f. prep.
+763032	n.f. prep.
 763034	n.f.
 763039	mod.
 763046	adj.
 763049	mod.
 763051	n.pl.tan.
 763054	part.
-763056	pron. ms. m.
-prep. n.f.
+763056	m. pron. ms.
+n.f. prep.
 763059	mod.
 mod.
 763065	mod.
-763067	part. n.f.
-part. num.
-763072	pron. fs. part. n.f.
+763067	n.f. part.
+num. part.
+763072	n.f. part. pron. fs.
 part.
 n.f.
 763078	mod.
@@ -40829,19 +40830,19 @@ n.f.
 n.f.
 763090	mod. adv.
 n.f.
-prep. n.f.
+n.f. prep.
 763095	n.pl.tan.
 part.
 n.f.
 adj. part.
 part.
 n.f.
-763102	prep. n.f.
+763102	n.f. prep.
 mod.
 763105	n.m.
 763109	pron. cs.
 763119	part.
-pron. fs. part.
+part. pron. fs.
 763125	n.m.
 part.
 n.m.
@@ -40860,9 +40861,9 @@ part. pron.
 763156	n.f.
 763158	part.
 n.f.
-763161	prep. n.m.
+763161	n.m. prep.
 763164	n.m.
-763167	prep. n.m.
+763167	n.m. prep.
 n.m.
 part.
 n.f.
@@ -40872,11 +40873,11 @@ n.m.
 763180	adv.
 763182	adv.
 763184	n.m. num.
-prep. num. n.f.
+n.f. num. prep.
 mod.
 mod.
 n.m./adj.
-763190	prep. n.m.
+763190	n.m. prep.
 763194	pron. mod.
 763197	pron. mod.
 mod.
@@ -40888,7 +40889,7 @@ n.f.
 763209	n.m.
 763214	mod. adv.
 n.m. adv./adj.
-prep. n.f.
+n.f. prep.
 n.m. num.
 prep.
 n.m.
@@ -40918,12 +40919,12 @@ prep.
 part.
 part.
 763269	n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 763273	adv.
 n.m. num.
 n.m. num.
-763277	num. n.f.
-763282	part. num.
+763277	n.f. num.
+763282	num. part.
 763285	adv.
 n.m.
 763288	interj.
@@ -40932,7 +40933,7 @@ n.m.
 763300	num.
 part. pron.
 763303	part.
-763305	prep. n.f.
+763305	n.f. prep.
 pron. ms.
 763308	part.
 pron. ms.
@@ -40944,7 +40945,7 @@ prep. num.
 prep. adj. adv. mod.
 part.
 763320	n.m.
-prep. n.f.
+n.f. prep.
 763323	n.m.
 763325	n.m.
 763328	interj.
@@ -40957,7 +40958,7 @@ mod.
 num.
 n.f.
 part.
-763346	part. n.f.
+763346	n.f. part.
 763349	part.
 adj.
 adj. part.
@@ -40967,7 +40968,7 @@ n.m.
 n.m.
 n.m.
 763364	adv.
-prep. adv.
+adv. prep.
 adv.
 763368	part.
 763374	part.
@@ -40978,11 +40979,11 @@ n.f.
 763382	n.m.
 763384	num.
 n.m.
-n.m./adj. num.
+num. n.m./adj.
 763388	mod.
 n.m.
 763391	n.m.
-prep. n.m.
+n.m. prep.
 pron. cs. part.
 763395	n.m.
 763399	n.f.
@@ -40996,7 +40997,7 @@ part.
 763420	pron. cs. part.
 763423	num.
 763425	part.
-763430	prep. part. pron.
+763430	part. pron. prep.
 n.f.
 763433	mod.
 n.m.
@@ -41012,12 +41013,12 @@ prep.
 mod.
 n.m.
 763469	pron. cs. part.
-763474	prep. part. pron.
+763474	part. pron. prep.
 n.f.
 763478	n.m.
 n.f.
 763482	n.m.
-part. n.f.
+n.f. part.
 n.m. part.
 n.m.
 763487	n.f.
@@ -41026,15 +41027,15 @@ n.m.
 prep.
 pron. cs. part.
 763500	part.
-prep. n.m.
+n.m. prep.
 763503	part. pron.
-763505	num. n.f.
+763505	n.f. num.
 mod.
 n.m./adj.
 part.
-763511	pron. ms. n.m.
+763511	n.m. pron. ms.
 763515	part.
-763517	prep. n.f.
+763517	n.f. prep.
 part.
 763521	mod.
 n.m.
@@ -41042,7 +41043,7 @@ n.m.
 763526	prep.
 part.
 763530	prep.
-763533	prep. n.m.
+763533	n.m. prep.
 763536	num.
 num.
 n.f.
@@ -41052,9 +41053,9 @@ n.f.
 763544	prep.
 part.
 n.m.
-763548	prep. n.m.
+763548	n.m. prep.
 part.
-763551	num. n.f.
+763551	n.f. num.
 n.m.
 763554	pron. ms.
 763560	n.m.
@@ -41070,7 +41071,7 @@ part.
 763592	pron. cs.
 763595	mod. adv.
 n.m.
-763599	prep. n.f.
+763599	n.f. prep.
 mod. adv.
 n.m. part.
 n.m.
@@ -41085,7 +41086,7 @@ prep.
 part.
 part.
 part.
-prep. n.m.
+n.m. prep.
 763621	n.f.
 prep.
 763624	pron. fs.
@@ -41096,12 +41097,12 @@ part.
 763638	n.m.
 763641	n.m.
 763643	n.m.
-763645	prep. n.m.
+763645	n.m. prep.
 763648	pron. ms.
 763652	mod. adv.
 adj. adv. mod.
 n.m.
-763656	prep. n.f.
+763656	n.f. prep.
 763658	n.m..
 prep.
 part.
@@ -41113,13 +41114,13 @@ prep.
 n.m.
 763670	part.
 pron. ms.
-763673	prep. n.f.
+763673	n.f. prep.
 763675	n.m.
 763677	n.m.
-763680	prep. n.m. part.
+763680	n.m. prep. part.
 n.pl.
-prep. n.m.
-part. part. pron.
+n.m. prep.
+part. pron. part.
 763688	n.m. num.
 763690	part. pron.
 763693	pron. cs.
@@ -41127,17 +41128,17 @@ part. part. pron.
 763701	num.
 n.m.
 n.m. mod.
-763706	num. pron. pl.
+763706	pron. pl. num.
 n.m.
-prep. n.m.
+n.m. prep.
 763710	m.
 763716	part.
 pron. ms.
 adj.
 763720	pron. ms.
-763723	n.m. pron. pl.
-prep. n.m.
-pron. fs. part.
+763723	pron. pl. n.m.
+n.m. prep.
+part. pron. fs.
 num.
 n.m.
 763729	prep.
@@ -41148,9 +41149,9 @@ n.m.
 763738	n.m.
 763740	part.
 part. pron.
-763746	n.m. pron. pl.
+763746	pron. pl. n.m.
 763748	n.m.
-763750	prep. n.m.
+763750	n.m. prep.
 num.
 n.m. part.
 763755	n.m./f.
@@ -41160,27 +41161,27 @@ pron. fs.
 n.m./f.
 763764	part.
 part.
-prep. n.m.
+n.m. prep.
 adv.
 n.m.
-part. pron. pl.
-prep. n.m.
-763773	prep. n.m./f.
-763775	n.m. pron. pl.
+pron. pl. part.
+n.m. prep.
+763773	n.m./f. prep.
+763775	pron. pl. n.m.
 mod.
 763780	part.
 763782	n.m.
 adv.
 763794	part.
 763798	n.m.
-763802	prep. n.m.
+763802	n.m. prep.
 763804	part.
 763807	part. pron.
 pron. pl.
 763810	n.f.
 763812	n.m.
 763815	part. pron.
-763819	prep. n.m.
+763819	n.m. prep.
 763821	part.
 n.m. num.
 n.m.
@@ -41194,30 +41195,30 @@ part.
 n.m.
 n.m.
 763844	part.
-part. n.pl.
-part. n.pl.
+n.pl. part.
+n.pl. part.
 mod.
 763849	prep.
 part.
 part.
-763853	part. num. n.f.
+763853	n.f. part. num.
 adj.
 part.
 n.f.
-763859	part. mod.
+763859	mod. part.
 763861	part.
 763868	pron. fs.
 n.f./m.
 763871	n.f.
 n.f.
 n.m.
-763876	part. n.f.
+763876	n.f. part.
 n.m.
 763879	part. pron.
 763881	prep.
 763883	prep.
 pron. fs.
-763887	num. n.f.
+763887	n.f. num.
 part.
 prep.
 763891	adj.
@@ -41225,7 +41226,7 @@ prep.
 part.
 763898	n.f.
 n.m.
-part. n.f.
+n.f. part.
 n.m.
 763903	prep.
 n.f./m.
@@ -41236,35 +41237,35 @@ prep.
 763910	n.m.
 763913	num.
 n.f.
-763917	prep. n.f.
+763917	n.f. prep.
 n.f.
-prep. n.f.
-763921	prep. n.m.
+n.f. prep.
+763921	n.m. prep.
 763925	part.
 n.m.
 763928	n.f.
 n.m.
-763933	prep. n.m.
+763933	n.m. prep.
 pron. ms.
 763937	prep.
 n.pl.
-prep. n.m.
-763941	pron. ms. n.m.
+n.m. prep.
+763941	n.m. pron. ms.
 prep.
 n.pl.
 763945	prep.
 763947	n.f.
-n.pl. pron. pl.
+pron. pl. n.pl.
 mod.
-763951	prep. n.f.
+763951	n.f. prep.
 763953	n.f.
-part. n.pl.
+n.pl. part.
 prep. pron.
-pron. ms. n.m.
+n.m. pron. ms.
 763963	part.
 763967	prep.
 763970	n.m. n.f.
-part. n.f.
+n.f. part.
 n.m.
 763974	n.f./m. prep.
 763976	n.f.
@@ -41272,24 +41273,24 @@ n.m.
 pron. cs. part.
 763982	n.f.
 763985	n.f.
-763989	prep. n.f.
+763989	n.f. prep.
 n.f.
 763995	pron. ms.
 n.m.
 763998	prep.
 764000	n.pl.
-764003	prep. n.f.
+764003	n.f. prep.
 n.f.
-part. n.pl.
+n.pl. part.
 764008	pron. cs.
 part. pron.
-764013	part. part. pron.
+764013	part. pron. part.
 764019	part.
 prep. part.
 764022	mod.
 part.
 764025	n.f.
-part. num.
+num. part.
 n.m.
 764033	part.
 764039	mod.
@@ -41302,20 +41303,20 @@ pron. cs.
 prep.
 n.m.
 pron. cs. part.
-764060	part. num.
+764060	num. part.
 n.f.
-764063	prep. n.m.
+764063	n.m. prep.
 prep.
 764066	prep.
-pron. ms. part.
-764070	num. n.f.
+part. pron. ms.
+764070	n.f. num.
 764072	adv.
 prep.
 764076	prep.
 part.
 764079	pron. cs.
 764091	adv.
-764093	adj. adv. mod. num.
+764093	num. adj. adv. mod.
 764095	prep.
 part.
 764100	mod. adv.
@@ -41329,28 +41330,28 @@ prep.
 764117	part.
 764126	n.m.
 n.m.
-764130	prep. n.m.
-prep. n.f.
+764130	n.m. prep.
+n.f. prep.
 764133	part.
-prep. n.m.
+n.m. prep.
 764136	n.m.
 764142	n.f.
 764144	n.m.
 num.
 adv.
-prep. adv.
-764150	prep. n.m.
-764152	prep. n.m.
+adv. prep.
+764150	n.m. prep.
+764152	n.m. prep.
 764154	n.m.
 764156	n.m./f.
 764158	n.m.
-764160	prep. n.m.
-mod. num.
-764164	num. n.f.
+764160	n.m. prep.
+num. mod.
+764164	n.f. num.
 adj.
 part.
 764172	adv.
-prep. adv.
+adv. prep.
 764175	n.m.
 part.
 n.m.
@@ -41359,8 +41360,8 @@ n.m.
 part.
 764186	n.m.
 764190	n.m.
-764192	part. part. pron.
-764194	part. n.f.
+764192	part. pron. part.
+764194	n.f. part.
 764196	adj.
 prep.
 n.m. part.
@@ -41386,7 +41387,7 @@ pron. cs.
 part.
 764243	n.m.
 764249	n.f.
-764251	prep. n.m.
+764251	n.m. prep.
 764254	part.
 764257	part.
 764260	n.m.
@@ -41408,13 +41409,13 @@ num.
 764301	m.
 n.m.
 adj.
-prep. n.m.
+n.m. prep.
 n.m.
 part.
 n.m.
 764310	n.m.
 764312	prep.
-764315	prep. n.m.
+764315	n.m. prep.
 764317	part.
 part. pron.
 adj. adv. mod.
@@ -41428,24 +41429,24 @@ n.f.
 part.
 n.pl.
 764335	prep. pron.
-part. n.f.
+n.f. part.
 764339	prep.
 adv.
 764343	n.f.
 n.f.
 764349	part.
 764351	prep.
-764353	part. num.
+764353	num. part.
 n.f.
-764356	prep. n.m.
-764358	adj. adv. mod. num.
-764361	adj. adv. mod. num.
+764356	n.m. prep.
+764358	num. adj. adv. mod.
+764361	num. adj. adv. mod.
 764364	pron. cs.
 part.
 764368	pron. cs.
 764371	part.
 n.f.
-764375	prep. n.m.
+764375	n.m. prep.
 n.m.
 prep.
 764380	n.m.
@@ -41457,9 +41458,9 @@ part.
 764391	prep.
 764398	part.
 764407	part.
-764413	prep. n.m.
-764416	prep. n.m.
-764418	prep. n.m.
+764413	n.m. prep.
+764416	n.m. prep.
+764418	n.m. prep.
 764423	part.
 764425	n.m.
 764429	n.f.
@@ -41470,7 +41471,7 @@ pron. cs.
 adj. adv. mod.
 n.m.
 n.f.
-part. n.f.
+n.f. part.
 764445	adv.
 part.
 adv.
@@ -41481,7 +41482,7 @@ n.m.
 part.
 764460	pron. cs.
 part.
-764465	part. adv.
+764465	adv. part.
 adv.
 764469	num.
 764471	prep.
@@ -41494,9 +41495,9 @@ pron. ms.
 part. pron.
 n.m.
 764485	n.f.
-prep. n.m.
+n.m. prep.
 764488	n.m.
-764490	num. n.f.
+764490	n.f. num.
 764494	n.f.
 764496	n.f.
 764498	adv.
@@ -41505,9 +41506,9 @@ part.
 part.
 n.f.
 prep.
-764510	prep. part. pron.
+764510	part. pron. prep.
 764513	mod.
-764515	prep. n.m.
+764515	n.m. prep.
 prep.
 prep. part.
 764519	mod.
@@ -41525,19 +41526,19 @@ part.
 764539	part. pron.
 n.m./adj.
 n.m.
-prep. n.m.
-pron. ms. n.m.
+n.m. prep.
+n.m. pron. ms.
 764546	prep.
 764548	interj.
 764551	adj.
-764555	part. adv.
+764555	adv. part.
 adv.
 764558	prep.
 764563	n.m.
 part.
 764566	n.m.
 764569	n.m.
-764571	prep. n.m.
+764571	n.m. prep.
 prep. n.pl.
 764578	part.
 764580	part. pron.
@@ -41547,9 +41548,9 @@ prep. n.pl.
 n.m.
 764592	part. pron.
 764595	part.
-prep. n.m.
+n.m. prep.
 n.m.
-764599	prep. n.f.
+764599	n.f. prep.
 764601	pron. ms.
 764604	part.
 764608	part.
@@ -41559,28 +41560,28 @@ n.m.
 764617	part.
 764621	part.
 764623	interj.
-764625	part. adv.
+764625	adv. part.
 adv.
 n.f.
 part. pron.
-part. n.f.
+n.f. part.
 n.f.
 pron. cs.
 n.f.
 764637	part.
 764640	prep.
 764643	part.
-764647	pron. fs. n.f.
-num. n.f.
+764647	n.f. pron. fs.
+n.f. num.
 764652	pron. fs.
-764657	pron. fs. n.f.
-764661	pron. fs. n.f.
+764657	n.f. pron. fs.
+764661	n.f. pron. fs.
 764665	adv.
 764667	part.
 764670	n.m. num.
 764672	n.f.
 764675	pron. cs.
-pron. fs. n.f.
+n.f. pron. fs.
 pron. cs.
 764680	adj.
 prep.
@@ -41616,15 +41617,15 @@ n.m.
 764726	pron. cs.
 764729	part.
 764732	part. pron.
-764735	num. n.f.
+764735	n.f. num.
 part.
 part.
 n.f.
 764741	adj.
 adv.
-part. n.f.
+n.f. part.
 764745	adv.
-pron. ms. n.m. part.
+n.m. part. pron. ms.
 764748	adv.
 764750	num.
 n.pl.tan.
@@ -41633,18 +41634,18 @@ n.pl.tan.
 764758	n.f.
 n.pl.tan.
 adj.
-prep. n.f.
+n.f. prep.
 n.f.
 part.
 part. pron.
-prep. adv.
-764767	prep. n.m.
+adv. prep.
+764767	n.m. prep.
 n.m. part.
 764770	n.pl.tan. part.
-764772	prep. n.f.
+764772	n.f. prep.
 pron. pl.
 764775	adj.
-pron. ms. n.m.
+n.m. pron. ms.
 764778	n.f.
 764780	prep.
 n.f.
@@ -41666,43 +41667,43 @@ n.f.
 pron. cs.
 part.
 764813	part.
-prep. n.m.
+n.m. prep.
 764817	n.m. num.
-764819	prep. num. n.f.
+764819	n.f. num. prep.
 764821	n.m. num.
 n.m.
 n.m.
-764825	prep. num. n.f.
+764825	n.f. num. prep.
 764828	n.m.
 764830	n.pl.tan.
 764832	mod.
 n.pl.
-764837	prep. n.f.
+764837	n.f. prep.
 pron. ms.
 764840	n.pl.
 764843	pron. ms.
-764845	prep. n.f.
+764845	n.f. prep.
 764847	num.
 n.m.
 adj. adv. mod.
 n.m.
-764852	prep. n.f.
+764852	n.f. prep.
 part.
 n.m.
 764857	n.m.
 764859	prep.
 part.
-pron. ms. adj.
-764871	prep. n.f.
+adj. pron. ms.
+764871	n.f. prep.
 part.
-pron. ms. n.m.
+n.m. pron. ms.
 adj.
-764876	prep. n.f.
+764876	n.f. prep.
 764878	n.m. num.
 n.m.
-764881	prep. n.f.
+764881	n.f. prep.
 764884	part.
-764886	pron. ms. adj.
+764886	adj. pron. ms.
 764888	n.pl.
 764896	n.m.
 764898	pron. cs.
@@ -41711,10 +41712,10 @@ part.
 764903	interj.
 764905	n.pl.
 n.f.
-part. adv.
+adv. part.
 adv.
 part.
-prep. n.f.
+n.f. prep.
 n.f.
 764917	n.pl.
 764920	part.
@@ -41723,17 +41724,17 @@ n.m.
 part. pron.
 n.m.
 pron. ms.
-764927	prep. n.m.
+764927	n.m. prep.
 part.
 764930	n.m. part.
 part.
 764933	n.m.
-764936	prep. num. n.f.
-num. n.f.
+764936	n.f. num. prep.
+n.f. num.
 764940	part.
 764944	prep.
 n.f.
-part. n.f.
+n.f. part.
 764948	n.f.
 part.
 n.f.
@@ -41749,31 +41750,31 @@ n.f.
 764972	n.m.
 n.m.
 prep.
-part. n.f.
+n.f. part.
 n.f.
 764978	pron. cs. part.
 764980	n.m.
 n.m.
 prep.
 n.f.
-part. n.f.
+n.f. part.
 764986	n.m.
-764988	prep. n.m.
+764988	n.m. prep.
 764991	prep.
 n.m. mod.
 764995	part.
 764997	part. pron.
 764999	pron. cs.
 part.
-765006	prep. num. n.f.
+765006	n.f. num. prep.
 765008	prep.
 n.f.
 part.
 765012	prep.
 765014	n.m. num.
-765016	prep. n.m.
+765016	n.m. prep.
 n.m.
-prep. n.m.
+n.m. prep.
 prep. n.pl.
 765023	adv.
 part.
@@ -41782,7 +41783,7 @@ part.
 adj.
 765029	prep.
 n.m.
-765032	prep. n.m.
+765032	n.m. prep.
 765037	part.
 part.
 765040	n.m.
@@ -41792,7 +41793,7 @@ n.f.
 765047	pron. ms.
 n.m.
 adj.
-765051	prep. n.f.
+765051	n.f. prep.
 part.
 part., prep.
 765055	pron. ms.
@@ -41804,7 +41805,7 @@ n.m.
 765069	n.m.
 n.m. part.
 765072	n.m.
-num. n.f.
+n.f. num.
 765075	n.m.
 765077	n.m.
 pron. ms.
@@ -41813,21 +41814,21 @@ n.m.
 part.
 765084	num.
 n.m.
-pron. ms. part.
+part. pron. ms.
 part.
 part.
 prep.
-765092	num. n.f.
+765092	n.f. num.
 765095	pron. fs.
 765097	n.f.
 765099	part.
 part.
 765102	n.f.
-part. n.f.
-765105	prep. num. n.f.
+n.f. part.
+765105	n.f. num. prep.
 765107	n.m.
-765110	prep. n.f.
-765112	prep. n.m. num.
+765110	n.f. prep.
+765112	n.m. prep. num.
 765114	n.m.
 n.m.
 num.
@@ -41839,18 +41840,18 @@ n.pl.tan.
 765126	n.m.
 part.
 765129	n.pl.tan.
-prep. n.f.
+n.f. prep.
 765132	prep.
 n.m.
-765135	prep. n.m.
+765135	n.m. prep.
 765139	pron. fs.
 n.f.
 part.
 765144	n.f.
 prep.
 part.
-765148	prep. num. n.f.
-765150	prep. n.f.
+765148	n.f. num. prep.
+765150	n.f. prep.
 765153	prep. num.
 765155	pron. fs.
 765157	n.f.
@@ -41861,7 +41862,7 @@ prep. part.
 765170	n.m. mod.
 765172	prep.
 765174	part.
-765177	prep. n.m. num.
+765177	n.m. prep. num.
 n.m.
 n.m.
 adj.
@@ -41871,15 +41872,15 @@ n.m.
 765189	prep.
 765191	n.m.
 765193	m.
-prep. n.m.
-765197	prep. n.m.
+n.m. prep.
+765197	n.m. prep.
 part.
 pron. pl.
 765203	n.m. part.
 765206	n.m.
-765208	prep. n.m.
+765208	n.m. prep.
 765211	adj.
-765213	prep. n.m.
+765213	n.m. prep.
 765215	prep.
 n.f.
 part.
@@ -41896,10 +41897,10 @@ n.f.
 765241	part.
 m.
 765244	n.m.
-765246	prep. part. pron.
+765246	part. pron. prep.
 part.
 part.
-prep. part. pron.
+part. pron. prep.
 765251	part.
 765253	pron. cs.
 n.m.
@@ -41916,46 +41917,46 @@ part.
 765273	prep.
 765276	pron. cs.
 765280	adv.
-num. n.f.
+n.f. num.
 765283	adv.
 prep.
 n.f.
 765287	n.m. num.
 n.m.
-765291	prep. n.f.
+765291	n.f. prep.
 765293	n.m.
 part.
 n.pl.
 765297	adv.
-765300	adj. adv. mod. num.
-n.pl. pron. pl.
+765300	num. adj. adv. mod.
+pron. pl. n.pl.
 765303	part.
 765305	n.m. num.
 n.m.
-765308	pron. ms. adj.
+765308	adj. pron. ms.
 part.
-pron. ms. n.m.
-prep. part. pron.
+n.m. pron. ms.
+part. pron. prep.
 765314	pron. ms.
 765316	n.pl.
 pron. pl.
-765325	pron. ms. n.m.
+765325	n.m. pron. ms.
 n.m.
-765328	pron. ms. n.m.
+765328	n.m. pron. ms.
 part.
 765331	part. pron.
 pron. fs.
 765334	part.
 part. pron.
-prep. n.m.
-765338	part. num.
+n.m. prep.
+765338	num. part.
 num.
 n.f.
 765342	n.m.
 part.
 765347	part.
 765349	prep.
-part. num.
+num. part.
 num.
 n.f.
 765355	n.m.
@@ -41967,21 +41968,21 @@ n.m.
 765367	n.m.
 n.f.
 765370	n.m.
-part. n.f.
-prep. n.m.
+n.f. part.
+n.m. prep.
 adj. part.
 prep.
 n.f.
 765380	n.m.
-part. num.
+num. part.
 765384	part. pron.
-pron. fs. part.
+part. pron. fs.
 765387	part. pron.
 prep.
 765390	n.f.
 n.m.
 765393	prep.
-765395	pron. fs. prep.
+765395	prep. pron. fs.
 n.f.
 765398	pron. ms.
 n.m.
@@ -41998,7 +41999,7 @@ prep.
 pron. ms.
 n.m.
 n.m.
-prep. part. pron.
+part. pron. prep.
 part.
 765425	pron. ms.
 n.m.
@@ -42010,7 +42011,7 @@ prep.
 n.m.
 765434	adj.
 n.m. part.
-765439	part. n.f.
+765439	n.f. part.
 765442	n.m. part.
 765444	n.m. part.
 part.
@@ -42020,17 +42021,17 @@ mod.
 part.
 part.
 765460	prep.
-prep. num. n.f.
+n.f. num. prep.
 pron. cs.
-765464	prep. n.m.
+765464	n.m. prep.
 part.
 pron. cs.
-765468	part. n.f.
-prep. n.m.
+765468	n.f. part.
+n.m. prep.
 765474	n.f.
 n.m.
-part. n.f.
-765478	prep. n.f.
+n.f. part.
+765478	n.f. prep.
 765485	prep.
 pron. ms.
 765488	part.
@@ -42041,14 +42042,14 @@ part.
 adv.
 n.m. num.
 765498	n.m. num.
-n.m. part. num.
+n.m. num. part.
 n.m.
 765502	prep.
 n.m. part.
-765505	prep. n.m.
+765505	n.m. prep.
 765507	pron.
 prep.
-765510	prep. num. n.f.
+765510	n.f. num. prep.
 765512	adv.
 765514	n.m.
 765517	n.m.
@@ -42061,31 +42062,31 @@ n.m.
 n.m.
 765529	part.
 765532	part.
-765534	part. n.f.
+765534	n.f. part.
 765538	adj.
 765541	prep.
 n.f.
-pron. ms. n.m. part.
+n.m. pron. ms. part.
 765545	adv.
 n.f.
-765550	num. n.f.
+765550	n.f. num.
 part. pron.
-765553	num. n.f.
-765557	part. n.f.
+765553	n.f. num.
+765557	n.f. part.
 765560	prep.
-prep. part. pron.
-765564	prep. n.m.
-part. adv.
+part. pron. prep.
+765564	n.m. prep.
+adv. part.
 765569	part.
-765574	num. n.f.
+765574	n.f. num.
 part.
-765577	prep. n.f.
+765577	n.f. prep.
 part.
 part.
-765581	num. n.f.
+765581	n.f. num.
 765583	num.
 765585	n.m.
-765588	prep. n.m.
+765588	n.m. prep.
 765590	part.
 765592	n.m.
 765595	n.m.
@@ -42095,30 +42096,30 @@ part.
 n.m.
 765606	n.f.
 pron. cs.
-765609	prep. n.f.
+765609	n.f. prep.
 part. pron.
 765614	part.
 adj.
 765617	part.
 765619	pron. cs.
-prep. adv.
+adv. prep.
 n.m.
 765623	n.m.
 765626	n.m.
 765628	num.
 n.f.
 n.m.
-765632	part. n.f.
+765632	n.f. part.
 n.m. part.
 part.
 pron. ms.
 765638	n.f.
-prep. n.m.
+n.m. prep.
 765642	part.
 adv.
 765645	mod.
 n.f.
-765650	prep. n.f.
+765650	n.f. prep.
 part.
 765653	n.m. part.
 765656	part.
@@ -42134,8 +42135,8 @@ n.m.
 765679	prep.
 part.
 pron. cs.
-765683	prep. n.m.
-prep. n.f.
+765683	n.m. prep.
+n.f. prep.
 765686	n.m.
 765688	prep.
 n.m.
@@ -42149,15 +42150,15 @@ n.m.
 part.
 part.
 prep. part.
-part. adv.
+adv. part.
 n.m.
 adj.
 part.
-n.m. part. mod.
+n.m. mod. part.
 765717	part.
 765719	n.m.
 prep.
-765722	prep. adv.
+765722	adv. prep.
 765724	part.
 pron. ms.
 pron. cs.
@@ -42189,8 +42190,8 @@ part.
 part.
 765784	pron. cs. part.
 prep.
-765787	pron. fs. n.f.
-765789	prep. n.m.
+765787	n.f. pron. fs.
+765789	n.m. prep.
 part.
 part.
 765793	n.m. part.
@@ -42205,12 +42206,12 @@ part.
 765810	prep.
 765812	mod.
 n.m.
-765815	n.m. part. num.
+765815	n.m. num. part.
 n.f.
 765818	n.m.
 n.m. mod.
 765821	n.m.
-prep. n.m.
+n.m. prep.
 765824	n.m. part.
 765827	n.f.
 765829	mod. adv.
@@ -42230,7 +42231,7 @@ n.m.
 part.
 part.
 n.m.
-765856	prep. n.f.
+765856	n.f. prep.
 765862	n.m.
 n.m.
 765865	pron. cs.
@@ -42239,14 +42240,14 @@ part.
 part.
 num.
 n.f.
-765872	num. n.f.
+765872	n.f. num.
 765875	num.
 n.f.
 765878	n.m.
 765880	num.
 765883	n.m. part.
 765886	adv.
-prep. adv.
+adv. prep.
 765889	part.
 pron. cs.
 pron. fs.
@@ -42254,7 +42255,7 @@ pron. fs.
 n.f.
 765896	num.
 n.f.
-765899	part. interj.
+765899	interj. part.
 part.
 prep.
 part.
@@ -42263,7 +42264,7 @@ prep. num. n.pl.
 mod.
 n.m.
 765908	adv.
-prep. adv.
+adv. prep.
 n.m.
 765912	n.m.
 765914	part.
@@ -42278,8 +42279,8 @@ n.m.
 765930	interj.
 prep.
 765933	part.
-prep. num. n.f.
-765938	num. n.f.
+n.f. num. prep.
+765938	n.f. num.
 pron. cs.
 n.f.
 765943	prep.
@@ -42287,15 +42288,15 @@ n.f.
 n.m.
 num.
 n.f.
-765950	num. n.f.
+765950	n.f. num.
 765952	adv.
 765954	adv.
 n.m.
-part. num.
+num. part.
 n.f.
 n.m.
 765960	prep.
-765962	prep. n.m.
+765962	n.m. prep.
 adj. part.
 765966	prep.
 765968	n.m.
@@ -42303,7 +42304,7 @@ adj. part.
 765972	n.f.
 prep.
 n.f.
-765979	prep. n.f.
+765979	n.f. prep.
 765981	part.
 mod.
 n.m.
@@ -42314,7 +42315,7 @@ n.f.
 pron. cs.
 prep.
 pron. cs.
-765996	num. n.f.
+765996	n.f. num.
 765999	part.
 766005	pron. cs.
 prep.
@@ -42337,11 +42338,11 @@ prep.
 part.
 prep. num.
 n.f.
-766041	part. mod.
+766041	mod. part.
 n.f.
 766046	n.m.
 766049	adv.
-part. num.
+num. part.
 n.f.
 part.
 part.
@@ -42360,7 +42361,7 @@ pron. pl.
 766078	n.f.
 766080	n.f.
 part.
-766086	prep. n.m.
+766086	n.m. prep.
 766089	part.
 766091	adv.
 766093	n.m.
@@ -42368,7 +42369,7 @@ part. pron.
 pron. cs.
 prep.
 766098	n.f.
-766100	prep. n.m.
+766100	n.m. prep.
 n.m.
 766104	n.f.
 766106	n.f.
@@ -42378,11 +42379,11 @@ prep.
 n.m.
 n.m. part.
 766113	n.m.
-766117	pron. fs. n.m.
+766117	n.m. pron. fs.
 part., prep.
 part., prep.
 766121	adv.
-prep. adv.
+adv. prep.
 766124	adj. invar.
 adj.
 mod.
@@ -42390,21 +42391,21 @@ mod.
 766130	prep.
 766134	mod.
 n.m.
-prep. n.m.
+n.m. prep.
 766139	n.m. mod.
 766142	n.f.
 n.m.
 766146	n.m. mod.
-766150	num. n.f.
+766150	n.f. num.
 part.
 766154	n.m.
 766157	part. pron.
 prep.
 adj. adv. mod.
-766161	prep. n.f.
+766161	n.f. prep.
 766168	pron. mod.
 766171	part.
-766173	prep. n.f.
+766173	n.f. prep.
 766175	pron. cs.
 766177	n.m.
 766180	n.f.
@@ -42431,7 +42432,7 @@ adj. invar.
 766222	mod.
 n.m.
 766225	prep.
-prep. n.m.
+n.m. prep.
 766228	n.m.
 n.f.
 part.
@@ -42445,7 +42446,7 @@ n.f.
 prep. part. num.
 766248	part. pron.
 766251	n.f.
-prep. num. n.f.
+n.f. num. prep.
 766254	num.
 766256	num.
 766258	n.m. num.
@@ -42463,7 +42464,7 @@ num.
 n.m.
 766290	n.f.
 766292	prep.
-766294	part. adv.
+766294	adv. part.
 adv.
 766301	pron. ms.
 766304	part.
@@ -42474,8 +42475,8 @@ mod.
 mod. adv.
 766315	mod.
 n.m.
-766318	prep. n.m.
-part. n.f.
+766318	n.m. prep.
+n.f. part.
 prep.
 766323	pron. cs.
 n.pl.
@@ -42495,10 +42496,10 @@ n.f.
 766348	n.m.
 766351	n.m. mod.
 766353	part.
-766355	prep. n.f.
+766355	n.f. prep.
 766357	n.m.
-prep. n.f.
-766362	prep. n.m.
+n.f. prep.
+766362	n.m. prep.
 766364	n.m.
 pron. pl.
 n.m. num.
@@ -42515,7 +42516,7 @@ part.
 766386	n.f.
 766388	n.m. num.
 766390	n.m.
-766393	prep. n.m.
+766393	n.m. prep.
 766395	num.
 766397	prep. num.
 pron. cs.
@@ -42525,7 +42526,7 @@ pron. cs. part.
 766407	pron. cs. part.
 766409	n.m.
 adv.
-766412	part. n.f.
+766412	n.f. part.
 adv.
 pron. cs. part.
 part.
@@ -42541,7 +42542,7 @@ n.f.
 prep.
 adv.
 prep.
-num. n.f.
+n.f. num.
 766432	part. pron.
 766436	num.
 pron. ms.
@@ -42557,24 +42558,24 @@ n.m.
 part.
 766465	n.m.
 766467	adv.
-prep. adv.
+adv. prep.
 766471	n.pl.tan.
 766477	n.pl.tan.
 adv.
-prep. adv.
-num. n.f.
+adv. prep.
+n.f. num.
 n.m.
 766483	part.
 766485	part.
 n.m. n.f.
-766489	n.m. part. n.f.
-766494	prep. m.
+766489	n.m. n.f. part.
+766494	m. prep.
 766496	m.
 766501	n.m.
 766503	pron. ms.
 m.
 prep.
-num. m.
+m. num.
 n.m.
 766509	prep.
 766511	prep.
@@ -42591,11 +42592,11 @@ n.f.
 766532	pron. ms.
 766535	n.m.
 766537	part.
-766539	pron. ms. m.
+766539	m. pron. ms.
 n.m.
 part.
-prep. n.m.
-prep. n.m.
+n.m. prep.
+n.m. prep.
 part.
 766546	n.m.
 766549	n.m.
@@ -42609,21 +42610,21 @@ part.
 prep.
 n.f.
 766568	n.m.
-766570	prep. n.m.
+766570	n.m. prep.
 prep. n.pl.
 766573	interj.
 prep.
 766576	part.
-prep. n.m.
+n.m. prep.
 766583	part.
 766586	mod. adv.
 n.pl.tan.
-766590	num. n.f.
+766590	n.f. num.
 prep.
-part. num.
+num. part.
 part.
 adv.
-prep. n.m.
+n.m. prep.
 n.pl.
 766600	num.
 766602	n.m.
@@ -42636,7 +42637,7 @@ n.m. num.
 n.m.
 part.
 766616	part.
-766624	num. m.
+766624	m. num.
 adj. adv. mod.
 766630	adj. invar.
 766632	n.m.
@@ -42655,31 +42656,31 @@ prep.
 766659	part.
 part.
 adv.
-766663	prep. n.f.
+766663	n.f. prep.
 prep.
-766666	num. n.f.
-num. n.f.
+766666	n.f. num.
+n.f. num.
 adv.
 766670	n.m.
 mod.
 n.m.
 part., prep.
 part., prep.
-766677	prep. n.m.
+766677	n.m. prep.
 n.pl.
 mod.
-prep. n.m.
+n.m. prep.
 766682	adj.
 mod.
 prep.
 n.m.
 766687	prep.
-prep. n.f.
-prep. n.m.
-prep. n.f.
+n.f. prep.
+n.m. prep.
+n.f. prep.
 n.f.
 n.m.
-mod. num.
+num. mod.
 n.m.
 766697	adj.
 mod.
@@ -42689,8 +42690,8 @@ part.
 pron. cs.
 prep. pron.
 766709	part.
-part. num.
-prep. n.m.
+num. part.
+n.m. prep.
 766713	n.f.
 pron. cs. part.
 766716	pron. fs.
@@ -42698,7 +42699,7 @@ n.f.
 766719	part.
 766721	adj.
 766724	n.m.
-num. n.f.
+n.f. num.
 n.m.
 766729	part.
 766737	n.m.
@@ -42719,13 +42720,13 @@ prep.
 766767	part.
 m.
 766770	n.f./m. prep.
-part. n.f.
+n.f. part.
 766773	prep.
 n.m.
 766776	prep.
-766779	prep. n.m.
+766779	n.m. prep.
 part.
-prep. n.m.
+n.m. prep.
 766783	prep. pron.
 766789	num.
 prep. adj. adv. mod.
@@ -42735,7 +42736,7 @@ pron. pl.
 766800	prep. pron.
 part.
 766809	part.
-766813	part. num.
+766813	num. part.
 766816	adj.
 prep.
 766821	n.m. num.
@@ -42772,7 +42773,7 @@ n.m.
 766888	prep.
 n.m.
 prep. part.
-766894	num. n.f.
+766894	n.f. num.
 part.
 766901	part.
 part.
@@ -42788,14 +42789,14 @@ part.
 prep.
 766930	adv.
 766933	n.m.
-766936	prep. n.m.
+766936	n.m. prep.
 part.
 766939	prep. num.
 adj.
 mod.
 766943	n.f.
 766946	m.
-prep. num. n.f.
+n.f. num. prep.
 adj.
 part.
 766951	n.m.
@@ -42805,17 +42806,17 @@ adv.
 766960	pron. ms.
 prep.
 766964	n.m.
-766966	prep. num. n.f.
+766966	n.f. num. prep.
 adj.
 n.f.
 part.
 part.
 766974	adv.
-766977	prep. n.m.
+766977	n.m. prep.
 766980	n.f.
 766982	prep.
 prep.
-766985	prep. n.pl.tan.
+766985	n.pl.tan. prep.
 766987	pron. ms.
 n.m.
 part.
@@ -42825,17 +42826,17 @@ pron. ms.
 766998	n.f.
 767002	n.f.
 n.pl.tan.
-767008	pron. ms. n.m.
-prep. n.pl.tan.
+767008	n.m. pron. ms.
+n.pl.tan. prep.
 767012	part.
-767014	pron. ms. n.m.
+767014	n.m. pron. ms.
 adv.
-767017	num. m.
+767017	m. num.
 767021	n.m.
 767023	n.m.
 adv.
 part.
-767027	prep. n.f.
+767027	n.f. prep.
 767030	part.
 767032	n.f.
 n.f.
@@ -42847,7 +42848,7 @@ part.
 767053	n.f.
 767056	pron. cs. part.
 767058	m.
-prep. n.m.
+n.m. prep.
 767063	adv.
 767067	n.m.
 767070	n.m.
@@ -42857,20 +42858,20 @@ pron. cs.
 767076	n.m.
 767081	n.f.
 n.f.
-767084	n.m. part. n.f.
+767084	n.m. n.f. part.
 n.m. part.
-767088	n.pl. pron. pl.
+767088	pron. pl. n.pl.
 prep.
-prep. n.m.
+n.m. prep.
 n.f.
 pron. pl.
 767094	part.
 part.
-767097	prep. n.m.
+767097	n.m. prep.
 adv.
-767101	prep. n.m.
+767101	n.m. prep.
 767104	part.
-767106	prep. n.m.
+767106	n.m. prep.
 767108	n.m. num.
 pron. ms.
 767113	mod. adv.
@@ -42885,19 +42886,19 @@ adv.
 pron. ms. adj. adv. mod.
 767132	adv.
 767135	part.
-prep. adv.
+adv. prep.
 n.f.
-767139	num. n.f.
-prep. n.f.
+767139	n.f. num.
+n.f. prep.
 n.f.
-767143	prep. adv.
+767143	adv. prep.
 n.f.
 767147	num.
 n.f.
 n.m.
 767152	n.m.
 767154	part.
-prep. n.pl.tan.
+n.pl.tan. prep.
 767157	adv.
 n.m.
 767160	adv.
@@ -42914,13 +42915,13 @@ n.f.
 767180	pron. fs.
 n.f.
 767184	n.f.
-prep. mod. adv.
+adv. prep. mod.
 n.pl.tan.
 767188	adv.
 767194	pron. fs.
 n.f.
 adv.
-part. num.
+num. part.
 767201	adj.
 767203	n.m. part.
 pron. cs. part.
@@ -42928,10 +42929,10 @@ pron. cs. part.
 n.f.
 767211	pron. fs.
 n.f.
-767215	prep. n.f.
+767215	n.f. prep.
 767217	n.f.
 767219	n.f.
-prep. n.m.
+n.m. prep.
 767223	prep.
 n.f.
 part.
@@ -42939,14 +42940,14 @@ prep.
 767230	n.m. part.
 part.
 n.m.
-767235	pron. ms. n.m.
+767235	n.m. pron. ms.
 n.f.
 part.
 n.f.
 pron. ms.
 767243	num.
 n.m./f.
-num. n.m./f.
+n.m./f. num.
 adj. adv. mod.
 part.
 767249	adj. invar.
@@ -42972,7 +42973,7 @@ n.f.
 767303	prep.
 n.m.
 767306	part.
-pron. ms. n.m.
+n.m. pron. ms.
 767309	pron. cs. part.
 767313	n.f.
 pron. ms.
@@ -42984,21 +42985,21 @@ mod. adv.
 adj.
 767329	part.
 767331	n.m.
-prep. n.m.
+n.m. prep.
 767335	n.m.
 767337	n.m.
 part.
 part.
 n.m.
-prep. n.m.
+n.m. prep.
 767343	part.
 767345	prep.
-767347	num. n.f.
+767347	n.f. num.
 n.m.
 n.m.
-767351	prep. n.m.
+767351	n.m. prep.
 part.
-767354	part. part. pron.
+767354	part. pron. part.
 767358	part. pron.
 part.
 767361	n.m. part.
@@ -43019,17 +43020,17 @@ n.m.
 767384	n.m. mod.
 part.
 767388	adj. invar.
-adj. invar. prep.
+prep. adj. invar.
 adj. invar.
 adv.
 767393	n.m.
 n.m.
-767396	prep. n.f.
+767396	n.f. prep.
 mod.
 767401	num.
 767403	pron. cs.
 part.
-num. n.f.
+n.f. num.
 767408	num.
 n.f.
 part.
@@ -43052,14 +43053,14 @@ n.f.
 767445	n.m.
 767455	n.m.
 n.m.
-767458	part. num.
-767461	prep. part. pron.
+767458	num. part.
+767461	part. pron. prep.
 num.
 767470	part.
 767474	n.m.
 767479	adj.
 n.m.
-767483	part. num.
+767483	num. part.
 n.f.
 767486	part.
 767489	n.m.
@@ -43070,9 +43071,9 @@ part.
 prep.
 n.pl.
 n.pl.
-prep. n.m.
+n.m. prep.
 767503	n.m.
-prep. n.m.
+n.m. prep.
 767511	mod.
 767517	adj.
 pron. cs.
@@ -43110,8 +43111,8 @@ prep.
 num.
 n.f.
 767588	n.f.
-767591	part. n.f.
-pron. fs. n.f.
+767591	n.f. part.
+n.f. pron. fs.
 767594	part. pron.
 767596	n.m.
 part. pron.
@@ -43132,8 +43133,8 @@ part.
 767630	n.f.
 767633	part.
 n.f.
-prep. n.m.
-767638	prep. n.m. num.
+n.m. prep.
+767638	n.m. prep. num.
 part.
 n.pl.tan.
 adj.
@@ -43142,22 +43143,22 @@ adj.
 767652	n.m.
 mod.
 part.
-num. n.f.
+n.f. num.
 767657	prep.
 767660	prep.
 n.f.
-767666	prep. n.m.
-pron. ms. part. n.f.
+767666	n.m. prep.
+n.f. pron. ms. part.
 767670	prep. num.
 part.
 n.pl.tan.
 n.f.
-part. num. n.f.
+n.f. part. num.
 767676	n.m./f.
 767679	prep.
 n.m.
-prep. adv.
-767683	prep. n.m.
+adv. prep.
+767683	n.m. prep.
 767685	n.m.
 767687	n.f.
 767691	prep.
@@ -43166,7 +43167,7 @@ prep. adv.
 n.m.
 767703	prep.
 767706	num.
-767709	adj. adv. mod. num.
+767709	num. adj. adv. mod.
 767711	n.f.
 pron. pl.
 n.m.
@@ -43174,7 +43175,7 @@ n.m.
 n.f.
 n.m. num.
 part.
-adj. adv. mod. num.
+num. adj. adv. mod.
 767721	n.m.
 part. pron.
 767725	part. pron.
@@ -43184,8 +43185,8 @@ part. pron.
 767736	part.
 767738	num.
 n.f.
-767742	n.m. part. num.
-767744	prep. n.f.
+767742	n.m. num. part.
+767744	n.f. prep.
 num.
 prep.
 n.f.
@@ -43196,9 +43197,9 @@ part.
 767759	n.m. num.
 mod.
 adj. invar.
-767767	pron. fs. n.f.
+767767	n.f. pron. fs.
 767771	part.
-767773	num. n.f.
+767773	n.f. num.
 n.f.
 n.f.
 mod.
@@ -43206,10 +43207,10 @@ n.m. num.
 num.
 767780	n.f.
 767782	num.
-767784	prep. n.m.
+767784	n.m. prep.
 767786	pron. cs.
-767789	num. n.f.
-prep. n.m.
+767789	n.f. num.
+n.m. prep.
 adj.
 part.
 767800	n.f.
@@ -43223,14 +43224,14 @@ mod.
 adj.
 767816	m.n.
 mod.
-767820	prep. n.m.
+767820	n.m. prep.
 767822	part.
 mod.
 prep.
 part.
 mod.
-767829	prep. n.f.
-part. n.f.
+767829	n.f. prep.
+n.f. part.
 767832	part.
 767835	part.
 n.m. num.
@@ -43245,37 +43246,37 @@ n.f.
 m.n.
 767854	n.m.
 767858	adj.
-767860	num. n.f.
+767860	n.f. num.
 part.
 767863	num.
-767865	part. num. n.f.
+767865	n.f. part. num.
 767868	num.
-part. num. n.f.
+n.f. part. num.
 767872	part.
-m.n. pron. pl.
+pron. pl. m.n.
 pron. pl.
 767876	num.
 767878	part.
 767880	num.
-part. num.
+num. part.
 767885	mod.
 part.
 n.m. n.f.
 767889	n.m. num.
-prep. num. n.f.
-pron. ms. n.m.
+n.f. num. prep.
+n.m. pron. ms.
 767893	num.
 n.f.
 767898	n.m.
 n.m.
 767902	n.f.
-767904	pron. ms. n.m.
+767904	n.m. pron. ms.
 767906	n.m.
 767908	prep.
 n.f.
 n.m. num.
-767912	prep. n.m.
-767914	prep. n.m.
+767912	n.m. prep.
+767914	n.m. prep.
 767917	n.f.
 767920	adj.
 n.m.
@@ -43297,20 +43298,20 @@ part.
 767950	n.m.
 pron. pl.
 767958	part.
-pron. ms. n.m.
+n.m. pron. ms.
 pron. fs.
 part. pron.
-767963	pron. fs. n.f.
+767963	n.f. pron. fs.
 767965	prep.
 767967	prep.
-767970	prep. n.m.
+767970	n.m. prep.
 767974	n.f.
 767977	part.
 n.m.
 767982	part.
 n.m.
-767985	pron. ms. part.
-767989	prep. n.f.
+767985	part. pron. ms.
+767989	n.f. prep.
 n.f.
 part.
 767996	n.m.
@@ -43318,7 +43319,7 @@ prep.
 767999	n.m.
 768001	pron. fs.
 adj.
-part. num.
+num. part.
 768005	n.f.
 768007	part.
 768015	n.m.
@@ -43328,16 +43329,16 @@ part.
 part.
 part.
 768031	adj.
-prep. n.f.
+n.f. prep.
 768035	n.f.
 768038	n.f.
-prep. n.m.
+n.m. prep.
 n.m.
-num. n.f.
+n.f. num.
 768047	prep.
 n.m.
-num. n.f.
-768053	part. adv.
+n.f. num.
+768053	adv. part.
 768056	n.m.
 768058	n.m.
 768060	prep. part.
@@ -43350,7 +43351,7 @@ n.m.
 n.m.
 768073	n.m.
 n.m.
-768077	prep. n.m. num.
+768077	n.m. prep. num.
 768079	adj.
 768083	prep.
 n.pl.tan.
@@ -43362,7 +43363,7 @@ prep.
 768092	part.
 768094	n.m. part.
 768096	n.m.
-768098	prep. n.f.
+768098	n.f. prep.
 768100	prep.
 n.m.
 768105	n.m.
@@ -43380,15 +43381,15 @@ part.
 adv.
 768144	prep.
 n.m.
-768147	prep. n.m.
+768147	n.m. prep.
 adj.
 768152	n.m.
 768154	prep.
 n.m. part.
-768158	prep. n.m.
-prep. n.m. part.
+768158	n.m. prep.
+n.m. prep. part.
 adj.
-prep. n.m.
+n.m. prep.
 adj.
 mod.
 768165	adv.
@@ -43400,9 +43401,9 @@ prep.
 pron. pl.
 768181	part.
 part. pron.
-768187	prep. n.m.
+768187	n.m. prep.
 768190	n.m.
-prep. n.m.
+n.m. prep.
 768195	n.m.
 768199	n.f.
 n.m. part.
@@ -43433,11 +43434,11 @@ part.
 mod.
 768239	n.f.
 768242	adv.
-prep. n.m.
+n.m. prep.
 n.m.
 prep.
 768248	num.
-768250	pron. fs. adj.
+768250	adj. pron. fs.
 adj.
 part.
 pron. fs.
@@ -43446,26 +43447,26 @@ pron. fs.
 n.m.
 768262	n.m. num.
 768266	pron. pl.
-768271	pron. fs. adj.
+768271	adj. pron. fs.
 768275	n.m. num.
 adv.
-num. part. adv.
-num. part. adv.
+adv. num. part.
+adv. num. part.
 n.m.
 768281	prep.
 adv.
 768284	adv.
 768286	adj. part.
-768288	pron. fs. adv.
+768288	adv. pron. fs.
 part.
-pron. fs. adj.
-pron. fs. adj.
+adj. pron. fs.
+adj. pron. fs.
 adj.
-768294	part. num.
+768294	num. part.
 768296	adj.
-part. num.
-768299	n.m. part. num.
-768307	pron. ms. prep.
+num. part.
+768299	n.m. num. part.
+768307	prep. pron. ms.
 n.m.
 768311	n.f.
 part.
@@ -43487,16 +43488,16 @@ prep.
 768334	pron. cs. part.
 adj.
 part.
-768338	prep. n.m.
+768338	n.m. prep.
 n.m.
 pron. ms.
 768345	prep. mod.
 768349	adj. invar.
 768352	pron. cs.
-prep. n.f
+n.f prep.
 768355	pron. fs.
 768357	pron. fs.
-768361	prep. n.m.
+768361	n.m. prep.
 768367	part. pron.
 768372	part. pron.
 768378	pron. cs.
@@ -43527,7 +43528,7 @@ n.m.
 pron. cs.
 768422	pron. cs.
 768424	adj.
-pron. fs. num.
+num. pron. fs.
 768427	part.
 768430	n.m.
 pron. cs.
@@ -43537,10 +43538,10 @@ n.f.
 768445	prep.
 768447	n.m. num.
 adv.
-n.m. part. num.
+n.m. num. part.
 adv.
-num. part. adv.
-part. num.
+adv. num. part.
+num. part.
 prep.
 768455	part.
 768457	part.
@@ -43553,19 +43554,19 @@ prep.
 prep.
 n.m.
 768481	n.m.
-n.m. part. pron.
+part. pron. n.m.
 n.m.
 768486	n.m.
 768488	n.m. num.
-768493	prep. n.m.
-768495	prep. n.m.
-pron. fs. part.
+768493	n.m. prep.
+768495	n.m. prep.
+part. pron. fs.
 768499	part.
 pron. pl.
 768504	mod.
-768507	prep. n.m.
+768507	n.m. prep.
 adj.
-768512	num. n.f.
+768512	n.f. num.
 768514	n.m.
 prep.
 768519	num.
@@ -43587,7 +43588,7 @@ num.
 768555	n.m.
 768557	adj.
 part.
-num. n.f.
+n.f. num.
 n.f.
 768562	part.
 768567	part. pron.
@@ -43607,10 +43608,10 @@ n.m.
 prep.
 768602	prep. pron.
 768604	pron. ms.
-768606	prep. n.f.
+768606	n.f. prep.
 n.m.
 768609	prep. pron.
-768611	num. n.f.
+768611	n.f. num.
 prep.
 n.f.
 768615	n.f.
@@ -43621,17 +43622,17 @@ prep.
 prep.
 n.f.
 n.f.
-part. num. n.f.
+n.f. part. num.
 pron. ms. adj. adv. mod.
 768626	part.
 768629	n.m.
 768634	n.m.
 part.
-prep. num. n.f.
+n.f. num. prep.
 n.m. part.
-prep. num. n.f.
+n.f. num. prep.
 n.m. num.
-768642	prep. n.f.
+768642	n.f. prep.
 768644	part.
 768646	pron.
 part.
@@ -43642,50 +43643,50 @@ n.m. part.
 768654	part.
 part.
 768657	n.m. num.
-768660	prep. n.f.
+768660	n.f. prep.
 768663	prep.
-mod. num.
+num. mod.
 prep.
 n.m.
 768670	pron. ms.
 n.m.
 768674	part.
 n.m.
-768677	pron. fs. prep. n.f.
+768677	n.f. pron. fs. prep.
 768679	part.
 part.
 768682	n.m.
-768688	prep. n.m.
+768688	n.m. prep.
 768691	num.
 768694	n.f.
-768700	prep. n.f.
+768700	n.f. prep.
 768703	part.
 part.
 part.
-part. adv.
+adv. part.
 adv.
 768709	n.m. num.
-768711	prep. n.f.
+768711	n.f. prep.
 part.
 n.m.
 768715	pron. ms.
 part. pron.
 768720	pron. ms.
-prep. n.f.
+n.f. prep.
 768724	pron. ms.
 part. pron.
 768727	n.f.
 n.m.
-768731	part. adv.
+768731	adv. part.
 adv.
 part.
 n.m.
 768738	part.
 768740	n.f.
 768742	n.f.
-768745	num. n.f.
+768745	n.f. num.
 n.m.
-num. n.f.
+n.f. num.
 768749	part.
 adj.
 prep.
@@ -43693,7 +43694,7 @@ prep.
 pron. cs.
 768758	pron. cs.
 part. pron.
-prep. n.f.
+n.f. prep.
 768765	n.m.
 768767	pron. cs.
 768771	n.m.
@@ -43716,22 +43717,22 @@ prep.
 n.m.
 768821	prep.
 n.f.
-adj. num.
-adj. num.
-adj. num.
+num. adj.
+num. adj.
+num. adj.
 768829	n.f.
-prep. n.f.
-768833	prep. n.f.
+n.f. prep.
+768833	n.f. prep.
 768835	n.pl.tan.
 768839	part.
-768841	prep. n.f.
+768841	n.f. prep.
 n.m.
 768845	pron. pl.
 768852	pron. fs.
 adj.
-768856	pron. fs. part.
+768856	part. pron. fs.
 adj.
-768860	pron. fs. part.
+768860	part. pron. fs.
 adj.
 768865	pron. pl.
 768868	adv.
@@ -43741,8 +43742,8 @@ adj.
 part.
 prep.
 pron. cs.
-768883	part. mod.
-768889	prep. n.m.
+768883	mod. part.
+768889	n.m. prep.
 768891	prep.
 n.f.
 768895	part.
@@ -43759,17 +43760,17 @@ n.f.
 n.m.
 768922	n.m.
 n.m.
-pron. cs. prep.
+prep. pron. cs.
 768928	part. pron.
 768930	adj.
 768932	pron.
 768934	n.m. num.
-num. n.m./f.
+n.m./f. num.
 768937	n.m. num.
 part.
 768941	adj.
 pron.
-768944	prep. n.m.
+768944	n.m. prep.
 768946	n.m. part.
 768951	pron. fs.
 768953	prep. part.
@@ -43782,11 +43783,11 @@ part. pron.
 prep.
 768967	adv.
 part.
-prep. n.m.
+n.m. prep.
 pron. ms.
 768972	n.f.
-768974	prep. num.
-768977	prep. n.m.
+768974	num. prep.
+768977	n.m. prep.
 768979	part.
 768982	prep.
 768985	prep.
@@ -43797,14 +43798,14 @@ part.
 768994	prep.
 768997	prep.
 768999	part.
-769004	prep. adv.
-prep. n.m.
+769004	adv. prep.
+n.m. prep.
 part.
 769010	n.m./f.
 769012	prep.
 n.m.
 part.
-prep. n.m.
+n.m. prep.
 769017	n.m.
 num.
 prep.
@@ -43815,12 +43816,12 @@ n.m.
 769028	n.m.
 769032	part.
 769034	n.m
-prep. n.m./f.
+n.m./f. prep.
 769037	part.
 n.m. part.
-769040	prep. n.m./f.
+769040	n.m./f. prep.
 769044	n.m. num.
-prep. n.m.
+n.m. prep.
 769047	pron. cs.
 769050	prep.
 769055	n.m. part.
@@ -43837,7 +43838,7 @@ n.f.
 769079	n.m.
 769083	n.m.
 769085	prep.
-prep. n.m.
+n.m. prep.
 mod.
 n.m./adj.
 n.m. part.
@@ -43850,17 +43851,17 @@ part.
 mod.
 n.m./adj.
 n.f.
-769108	prep. n.f.
+769108	n.f. prep.
 n.m.
 769112	n.m. num.
-prep. n.m.
+n.m. prep.
 769116	m.
 part.
 n.m.
 769121	part.
 pron. ms.
 n.m.
-prep. n.m.
+n.m. prep.
 769138	n.m.
 part.
 769141	n.m.
@@ -43873,17 +43874,17 @@ n.m.
 adj.
 part.
 769161	n.f.
-769163	prep. n.m.
+769163	n.m. prep.
 part.
 769167	prep.
 769170	part.
 769174	part.
-769177	prep. n.f.
+769177	n.f. prep.
 n.m.
 n.m.
-769181	part. num.
+769181	num. part.
 769183	n.f.
-769186	prep. n.f.
+769186	n.f. prep.
 n.m.
 n.m.
 n.f.
@@ -43895,29 +43896,29 @@ n.m. num.
 adv.
 num.
 n.m.
-769205	part. n.f.
+769205	n.f. part.
 769209	adv.
 num.
 n.m.
 769213	num.
 n.pl.
-part. n.f.
+n.f. part.
 prep. pron.
 part.
 adv.
 769221	n.m.
-prep. adv.
+adv. prep.
 769224	part.
 769228	pron. pl.
-769230	part. part. pron.
+769230	part. pron. part.
 769232	prep.
 n.m.
 part.
 769236	num.
 769242	n.m.
-769245	part. num.
+769245	num. part.
 769249	prep.
-769251	prep. n.m.
+769251	n.m. prep.
 769253	n.m.
 769256	prep.
 part.
@@ -43933,14 +43934,14 @@ n.m. part.
 769275	n.m. part.
 769279	mod.
 pron. pl.
-769283	pron. ms. n.m.
+769283	n.m. pron. ms.
 prep.
 769286	part.
-769300	part. adv.
+769300	adv. part.
 adv.
 769305	n.m.
 769307	prep.
-769309	prep. n.m.
+769309	n.m. prep.
 769312	prep.
 mod. adv.
 769315	prep.
@@ -43959,18 +43960,18 @@ prep.
 769345	mod.
 769347	n.m. part.
 769349	prep.
-769353	pron. ms. n.m.
-769355	prep. n.f.
+769353	n.m. pron. ms.
+769355	n.f. prep.
 part.
 adv.
 n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 769361	part.
 769368	prep.
 769370	prep.
 n.m.
 769373	n.m. part.
-769379	prep. n.m.
+769379	n.m. prep.
 769381	n.m.
 part.
 769384	num.
@@ -43980,17 +43981,17 @@ n.f.
 n.m.
 769394	n.f.
 769397	n.m. num.
-prep. n.m.
+n.m. prep.
 769400	n.m.
-769403	prep. adv.
+769403	adv. prep.
 769405	mod.
-769407	num. n.f.
+769407	n.f. num.
 adj.
 part.
 part.
-769412	prep. n.f.
+769412	n.f. prep.
 769414	n.m.
-769418	prep. n.m.
+769418	n.m. prep.
 n.f.
 769423	part.
 n.f.
@@ -44001,12 +44002,12 @@ n.f.
 769431	prep. part.
 adj.
 part.
-prep. n.f.
+n.f. prep.
 part.
 adj.
-769439	prep. n.f.
+769439	n.f. prep.
 769441	part.
-769443	prep. part. pron.
+769443	part. pron. prep.
 769445	adj.
 769449	n.f.
 769451	n.f.
@@ -44016,7 +44017,7 @@ mod.
 adj.
 769459	n.m.
 769461	prep.
-769465	prep. n.f.
+769465	n.f. prep.
 769471	n.m.
 769473	pron. cs.
 769475	adv.
@@ -44025,19 +44026,19 @@ part. pron.
 part.
 part.
 769487	adj.
-769491	prep. n.pl.tan.
-769493	prep. n.m.
-769495	mod. n.f.
+769491	n.pl.tan. prep.
+769493	n.m. prep.
+769495	n.f. mod.
 n.m.
 769500	part.
 769502	pron. cs.
 769505	adv.
-pron. fs. n.f.
+n.f. pron. fs.
 n.f.
 n.f.
-769510	pron. ms. n.m.
+769510	n.m. pron. ms.
 769513	adv.
-769515	prep. n.m.
+769515	n.m. prep.
 769517	pron. ms.
 n.m.
 769521	n.f.
@@ -44045,7 +44046,7 @@ num.
 769524	prep.
 769526	n.m.
 769530	n.f.
-num. n.f.
+n.f. num.
 769534	part.
 pron. fs.
 n.f.
@@ -44059,7 +44060,7 @@ prep.
 part.
 769564	n.f.
 part.
-769568	pron. fs. prep.
+769568	prep. pron. fs.
 n.f.
 769573	n.f.
 mod.
@@ -44075,7 +44076,7 @@ n.m. num.
 n.f.
 769599	n.m. num.
 769601	prep.
-769603	prep. n.m.
+769603	n.m. prep.
 769612	n.m.
 769615	n.m.
 part. pron.
@@ -44097,7 +44098,7 @@ prep. pron.
 part.
 n.f.
 769647	n.f.
-part. adv.
+adv. part.
 adv.
 769652	pron. cs.
 769654	prep.
@@ -44107,14 +44108,14 @@ pron. cs.
 769662	n.m.
 part.
 prep.
-769666	part. n.f.
+769666	n.f. part.
 mod.
 769671	n.f.
 769673	part.
 769677	pron. fs.
 mod.
 prep.
-769686	num. n.f.
+769686	n.f. num.
 769688	n.f.
 769691	n.m.
 part.
@@ -44130,11 +44131,11 @@ prep.
 769716	adj.
 mod.
 769723	n.m.
-769726	num. n.f.
+769726	n.f. num.
 769728	adv.
 pron. cs.
 769732	n.f.
-769734	part. num.
+769734	num. part.
 769738	mod.
 769741	n.m.
 769745	mod.
@@ -44147,9 +44148,9 @@ adv.
 769760	part.
 n.m. part.
 769764	n.f.
-769767	part. n.f.
+769767	n.f. part.
 769769	n.f.
-part. adv.
+adv. part.
 adv.
 769773	part., prep.
 769776	n.f.
@@ -44162,7 +44163,7 @@ adv.
 769795	prep.
 769801	prep.
 769804	n.m.
-part. num.
+num. part.
 769808	pron. fs.
 769811	adj.
 prep.
@@ -44181,9 +44182,9 @@ part.
 769847	n.m.
 769849	part.
 769851	part.
-prep. n.f.
+n.f. prep.
 769854	prep.
-769856	pron. fs. n.f.
+769856	n.f. pron. fs.
 769860	adj.
 769866	part.
 769868	part.
@@ -44193,7 +44194,7 @@ part.
 prep.
 769877	n.f.
 prep.
-pron. fs. part.
+part. pron. fs.
 769881	part., prep.
 n.m.
 769891	part.
@@ -44216,15 +44217,15 @@ n.f.
 769923	n.f.
 mod.
 mod.
-prep. n.f.
+n.f. prep.
 part.
 mod.
 prep.
 n.f.
-769934	prep. n.m.
-prep. n.f.
+769934	n.m. prep.
+n.f. prep.
 769937	mod.
-769940	part. n.f.
+769940	n.f. part.
 pron. cs.
 n.f.
 769946	pron. fs.
@@ -44246,16 +44247,16 @@ num.
 prep.
 n.m. num.
 part.
-prep. n.m. num.
+n.m. prep. num.
 769983	n.m.
 769985	num.
 769987	prep.
-769995	part. num.
+769995	num. part.
 n.f.
 prep.
 770000	n.m./f.
 770003	n.m.
-770007	part. adv.
+770007	adv. part.
 adv.
 770017	mod.
 770019	part.
@@ -44272,19 +44273,19 @@ part.
 n.m. num.
 adv.
 770058	adv.
-770061	prep. n.m.
+770061	n.m. prep.
 n.m.
-770064	prep. n.m.
+770064	n.m. prep.
 part.
 n.m.
-part. adv.
+adv. part.
 adv.
 770073	n.m.
-num. n.f.
+n.f. num.
 770081	n.f.
 770084	part.
 770086	adj.
-num. n.f.
+n.f. num.
 adv.
 770092	part.
 770094	n.f.
@@ -44293,7 +44294,7 @@ part.
 770102	mod.
 n.m.
 n.f.
-prep. n.m.
+n.m. prep.
 770107	part.
 prep.
 part.
@@ -44303,41 +44304,41 @@ n.m.
 prep.
 n.m.
 n.m. part.
-770118	part. adv.
-prep. adv.
+770118	adv. part.
+adv. prep.
 n.m.
 770125	pron. cs.
 770130	m.n.
 part.
 pron. cs.
 770134	n.m. part.
-prep. n.f.
-prep. part. n.f.
+n.f. prep.
+n.f. part. prep.
 770138	adv.
-prep. adv.
+adv. prep.
 adv.
 770142	n.f.
 770144	part.
-prep. adv.
+adv. prep.
 770147	prep.
 770151	part.
 770154	part.
 770156	pron. cs.
-770160	part. n.f.
+770160	n.f. part.
 770163	pron. cs.
 770166	pron. cs.
-770168	pron. cs. n.f.
+770168	n.f. pron. cs.
 770171	part.
 770174	part.
 770177	n.f.
 770180	num.
 prep.
-770183	part. num.
+770183	num. part.
 770190	pron. cs. part.
 770192	pron. fs.
 n.f.
 adv.
-prep. n.m.
+n.m. prep.
 770199	pron. fs.
 770201	part. pron.
 770204	pron. pl.
@@ -44354,7 +44355,7 @@ n.f.
 770227	prep.
 adj.
 770231	num.
-770234	prep. n.f.
+770234	n.f. prep.
 770238	n.m.
 770240	part.
 n.f.
@@ -44366,7 +44367,7 @@ n.m
 part. pron.
 770251	part.
 770253	pron. pl.
-prep. n.m.
+n.m. prep.
 770257	n.m.
 770260	pron. cs. part.
 770265	n.f.
@@ -44377,16 +44378,16 @@ n.m.
 770274	n.m.
 770277	prep. n.m
 770280	part.
-770283	pron. fs. adj.
+770283	adj. pron. fs.
 770286	adj.
-part. n.f.
-prep. n.m.
+n.f. part.
+n.m. prep.
 pron. pl.
 n.m.
 770296	n.m.
 770305	prep.
 770307	prep.
-prep. n.f.
+n.f. prep.
 770311	n.f.
 adj.
 adv.
@@ -44441,7 +44442,7 @@ n.f.
 n.m.
 mod.
 adj.
-part. num. n.f.
+n.f. part. num.
 mod.
 adj.
 770411	part.
@@ -44471,7 +44472,7 @@ part.
 770461	prep.
 770463	adj.
 prep.
-770466	part. n.f.
+770466	n.f. part.
 pron. cs.
 770469	adj.
 prep.
@@ -44484,7 +44485,7 @@ pron. cs.
 770484	part.
 770486	part.
 prep.
-770490	part. n.f.
+770490	n.f. part.
 770496	n.m.
 prep.
 part.
@@ -44503,7 +44504,7 @@ adv.
 770525	pron. fs.
 n.f.
 770529	adj.
-770531	prep. adv.
+770531	adv. prep.
 pron. cs. part.
 770534	n.f.
 n.m./adj.
@@ -44516,13 +44517,13 @@ prep.
 770554	adj.
 770562	n.f./m. prep.
 770564	pron. pl.
-770569	prep. n.f.
-prep. part. n.f.
+770569	n.f. prep.
+n.f. part. prep.
 prep.
 770575	n.f.
 n.m. part.
 770579	num.
-prep. n.m.
+n.m. prep.
 adj. adv. mod.
 n.f.
 770584	prep. pron.
@@ -44532,7 +44533,7 @@ n.m.
 770597	part.
 prep. adj.
 770605	prep.
-part. mod. n.f.
+n.f. mod. part.
 n.f.
 prep.
 770610	prep.
@@ -44549,9 +44550,9 @@ n.m.
 770637	part. pron.
 770639	adj.
 770642	prep.
-part. n.f.
+n.f. part.
 770646	adv.
-num. n.f.
+n.f. num.
 770649	adj.
 770651	part.
 n.f.
@@ -44560,7 +44561,7 @@ n.f.
 n.f.
 770661	pron. pl.
 770664	n.f.
-prep. n.m.
+n.m. prep.
 adj.
 prep.
 770669	prep.
@@ -44574,7 +44575,7 @@ pron. ms.
 770687	part.
 pron. fs.
 n.f.
-part. n.f.
+n.f. part.
 770693	n.f.
 770695	n.f.
 part.
@@ -44584,24 +44585,24 @@ part.
 770709	pron. cs.
 770712	n.f.
 770715	adj.
-770719	prep. n.m.
+770719	n.m. prep.
 770721	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 770726	n.m. part.
-prep. n.m.
+n.m. prep.
 770730	n.m. mod.
 n.m.
 770733	n.m.
 770736	pron. pl.
 n.f.
-770743	prep. n.m.
+770743	n.m. prep.
 n.m.
 n.m. mod.
 770747	n.m.
 n.m. mod.
 770750	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
 770755	pron. pl.
 n.f.
@@ -44610,16 +44611,16 @@ n.f.
 770767	n.m.
 770769	part.
 n.m.
-770773	prep. n.f.
-770775	prep. part. n.f.
+770773	n.f. prep.
+770775	n.f. part. prep.
 part.
 part.
 part.
 770780	num.
 n.m.
-770783	prep. n.f.
+770783	n.f. prep.
 n.m. n.f.
-part. n.f.
+n.f. part.
 n.m.
 770789	prep.
 770791	prep.
@@ -44627,9 +44628,9 @@ n.m.
 770796	pron. pl.
 n.m. num.
 num.
-770800	n.f. pron. pl.
+770800	pron. pl. n.f.
 n.m.
-part. n.f.
+n.f. part.
 770804	n.m.
 770807	mod. adv.
 part.
@@ -44637,10 +44638,10 @@ part.
 n.m.
 770813	n.f.
 770815	n.m.
-770817	num. n.f.
+770817	n.f. num.
 adv.
-770821	part. adv.
-prep. adv.
+770821	adv. part.
+adv. prep.
 part.
 pron. pl.
 n.m. part.
@@ -44648,7 +44649,7 @@ n.m. part.
 n.m.
 770831	adv.
 770833	n.m.
-770835	prep. n.m.
+770835	n.m. prep.
 770837	prep.
 770842	prep.
 adj.
@@ -44666,9 +44667,9 @@ prep.
 n.f.
 num.
 n.m.
-770873	part. n.f.
+770873	n.f. part.
 n.m. n.f.
-adj. part. n.f.
+n.f. adj. part.
 part.
 n.f.
 770880	n.m.
@@ -44676,12 +44677,12 @@ part.
 770884	prep.
 770887	pron. fs.
 770891	adj.
-770895	prep. n.m.
+770895	n.m. prep.
 770897	adj.
 770899	part.
 adj.
 num.
-770904	pron. fs. adj.
+770904	adj. pron. fs.
 part.
 adj.
 adj. part.
@@ -44704,7 +44705,7 @@ adj.
 770936	prep.
 770938	adj.
 770941	prep.
-770943	num. n.f.
+770943	n.f. num.
 part.
 770947	adj.
 prep.
@@ -44722,18 +44723,18 @@ pron. fs.
 770970	pron. fs.
 part. pron.
 770973	n.m.
-770975	prep. n.f.
+770975	n.f. prep.
 part.
 n.m. part.
-770980	prep. n.f.
+770980	n.f. prep.
 770982	mod.
 n.f.
 adv.
 770986	n.m.
-770989	prep. n.m.
+770989	n.m. prep.
 prep. n.pl.
-prep. adv.
-prep. part. adv.
+adv. prep.
+adv. prep. part.
 770995	pron. pl.
 prep.
 part.
@@ -44750,7 +44751,7 @@ mod.
 771024	part.
 n.m. part.
 771028	pron. pl.
-771031	prep. n.f.
+771031	n.f. prep.
 pron. pl.
 771034	prep.
 prep. adj.
@@ -44764,14 +44765,14 @@ part. pron.
 771055	part.
 771059	n.m.
 771061	part.
-adj. n.m.
+n.m. adj.
 771065	part.
 771067	n.f.
 771069	part.
 771071	n.f.
 771074	part.
 771078	n.f.
-771080	adj. invar. part.
+771080	part. adj. invar.
 771082	prep.
 771085	n.m. part.
 771088	mod.
@@ -44781,7 +44782,7 @@ adj. n.m.
 num.
 n.f.
 771101	prep.
-771109	prep. n.m.
+771109	n.m. prep.
 mod.
 n.f.
 771113	part.
@@ -44790,11 +44791,11 @@ adj.
 adv.
 771120	n.m.
 771122	n.m.
-prep. adv.
+adv. prep.
 n.f.
 n.m.
-771133	prep. n.m.
-prep. n.m.
+771133	n.m. prep.
+n.m. prep.
 771136	pron. ms.
 771139	part.
 771142	prep.
@@ -44802,10 +44803,10 @@ prep. n.m.
 part.
 771148	prep.
 771153	n.m.
-771162	prep. n.f.
+771162	n.f. prep.
 adj. part.
-771166	prep. n.f.
-num. n.f.
+771166	n.f. prep.
+n.f. num.
 771171	part.
 771174	n.m. num.
 771178	adj.
@@ -44829,8 +44830,8 @@ n.m.
 771220	prep.
 n.m.
 771223	part.
-771225	prep. n.f.
-pron. fs. n.f.
+771225	n.f. prep.
+n.f. pron. fs.
 771229	adj.
 adv.
 771235	n.m.
@@ -44850,11 +44851,11 @@ part.
 adv.
 interj.
 part. pron.
-prep. part. pron.
+part. pron. prep.
 prep.
 n.m. num.
 adv.
-prep. adv.
+adv. prep.
 771268	part. pron.
 771270	pron. cs.
 part.
@@ -44873,9 +44874,9 @@ prep.
 n.m.
 771299	n.m. part.
 n.m. part.
-prep. n.f.
+n.f. prep.
 771305	part.
-prep. part. pron.
+part. pron. prep.
 771308	prep.
 part.
 pron. cs.
@@ -44884,25 +44885,25 @@ prep.
 n.m.
 771319	part.
 771321	pron. ms.
-771334	prep. n.f.
+771334	n.f. prep.
 771336	part.
 771338	part.
 771340	n.m.
 771342	n.f.
 n.m.
 771346	n.f.
-771348	prep. n.m.
+771348	n.m. prep.
 part.
 771351	n.f.
 pron. cs.
-pron. fs. prep.
+prep. pron. fs.
 771355	part.
 771359	n.f.
 771361	n.f.
 771369	part.
 n.m.
 771374	part.
-771376	prep. n.m.
+771376	n.m. prep.
 771379	adj. invar.
 771385	n.f.
 771388	pron. fs.
@@ -44924,15 +44925,15 @@ part.
 771429	part.
 prep.
 771434	n.m.
-771438	prep. n.m.
-771440	prep. n.m.
+771438	n.m. prep.
+771440	n.m. prep.
 771444	adj.
-pron. pl. part. n.f.
-771448	prep. n.f.
-771453	prep. n.f.
-771457	pron. cs. n.f.
+pron. pl. n.f. part.
+771448	n.f. prep.
+771453	n.f. prep.
+771457	n.f. pron. cs.
 771463	pron. cs.
-771465	pron. cs. n.f.
+771465	n.f. pron. cs.
 771468	n.f.
 prep.
 771471	adj.
@@ -44945,12 +44946,12 @@ n.f.
 771489	part.
 771491	n.f.
 771493	prep.
-part. n.f.
+n.f. part.
 771496	part.
 part.
 771500	n.m.
 part.
-771506	prep. adv.
+771506	adv. prep.
 771510	num.
 n.pl.tan.
 771514	num.
@@ -44961,7 +44962,7 @@ part.
 n.f.
 mod.
 part.
-771525	prep. n.m.
+771525	n.m. prep.
 771527	adv.
 pron. pl.
 771530	prep. pron.
@@ -44971,28 +44972,28 @@ pron. pl.
 prep.
 prep.
 771542	n.f.
-771544	prep. n.m.
+771544	n.m. prep.
 pron. cs.
-771548	prep. n.m.
+771548	n.m. prep.
 771551	prep.
-771555	prep. n.m.
-prep. n.m.
+771555	n.m. prep.
+n.m. prep.
 771558	n.f.
 771560	pron. cs.
-prep. n.m.
+n.m. prep.
 n.f.
-771565	prep. n.m.
+771565	n.m. prep.
 pron. cs.
 771568	n.f.
 771571	adv.
 adj.
-prep. n.m.
+n.m. prep.
 part.
-771580	prep. n.m.
+771580	n.m. prep.
 771585	n.m.
 771590	n.m.
 771594	n.m.
-771598	part. n.f.
+771598	n.f. part.
 n.f.
 part.
 n.m.
@@ -45002,15 +45003,15 @@ n.m.
 n.m.
 771615	n.f.
 771617	n.m.
-771620	prep. n.m.
-part. n.f.
+771620	n.m. prep.
+n.f. part.
 771623	adj.
-771627	prep. n.m.
+771627	n.m. prep.
 prep.
 771631	n.f.
 n.m.
 771636	n.m. num.
-771639	prep. adj. n.f.
+771639	n.f. adj. prep.
 n.f.
 771642	pron. pl.
 771644	n.f.
@@ -45020,24 +45021,24 @@ n.f.
 part.
 adj.
 771656	pron.
-771658	pron. ms. n.m.
+771658	n.m. pron. ms.
 771661	prep.
 771663	prep. pron.
 771667	pron. ms.
 771669	part.
 prep.
-pron. fs. part.
+part. pron. fs.
 mod.
 771674	n.m.
 mod.
-prep. n.m.
+n.m. prep.
 771678	n.m.
 prep.
 mod.
 n.m.
 adj.
 771685	n.m.
-771687	prep. n.m.
+771687	n.m. prep.
 prep. n.pl.
 part.
 771692	prep.
@@ -45048,11 +45049,11 @@ n.m.
 771703	prep.
 771705	n.f.
 771707	prep.
-771709	prep. n.m./f.
+771709	n.m./f. prep.
 771711	n.m.
 n.f.
 n.m.
-prep. n.m./f.
+n.m./f. prep.
 771718	prep.
 771722	part.
 771724	n.m.
@@ -45061,7 +45062,7 @@ part.
 part.
 771730	num.
 prep. part.
-771733	pron. fs. part.
+771733	part. pron. fs.
 771747	pron. cs. part.
 pron. cs.
 771753	prep.
@@ -45077,27 +45078,27 @@ n.m.
 771780	prep.
 771782	adj.
 n.m.
-771787	prep. adv.
+771787	adv. prep.
 771789	adj. part.
 771792	prep.
 771797	prep.
-part. n.f.
+n.f. part.
 771800	part.
 adj.
-771804	prep. n.m.
+771804	n.m. prep.
 771806	n.m.
-prep. n.m.
+n.m. prep.
 771811	n.m.
 n.m. part.
 mod.
 771816	n.m.
 part.
 adj.
-771820	prep. n.m.
+771820	n.m. prep.
 771822	part.
 part.
-adj. n.m.
-771826	prep. n.f.
+n.m. adj.
+771826	n.f. prep.
 n.m. part.
 part.
 mod.
@@ -45113,14 +45114,14 @@ num.
 n.f./m.
 n.m.
 771848	n.m.
-prep. n.m.
+n.m. prep.
 771851	n.m.
-prep. n.m.
+n.m. prep.
 771855	part.
 n.f.
 n.m. part.
 771860	prep.
-n.m./adj. num.
+num. n.m./adj.
 n.m./adj.
 pron. ms.
 771872	pron. ms.
@@ -45135,7 +45136,7 @@ adv.
 n.m.
 771908	prep.
 771910	pron. ms.
-771912	prep. n.m.
+771912	n.m. prep.
 771917	pron. cs.
 771919	n.f.
 part.
@@ -45143,18 +45144,18 @@ part., prep.
 prep.
 771924	part.
 771930	prep.
-num. n.f.
+n.f. num.
 n.f.
 prep. num.
 n.f.
 prep.
-771951	num. n.f.
+771951	n.f. num.
 pron. ms.
 771956	n.f.
 771958	prep.
 771963	adv.
 part.
-771968	num. n.f.
+771968	n.f. num.
 prep.
 prep.
 771972	interj.
@@ -45226,7 +45227,7 @@ pron. fs.
 adj.
 772116	num.
 num.
-part. num.
+num. part.
 pron. ms.
 772122	prep.
 772126	adj.
@@ -45243,11 +45244,11 @@ n.m.
 n.m. part.
 pron. cs. part.
 772148	adv.
-prep. adv.
+adv. prep.
 772152	part.
 part.
 772156	prep.
-pron. ms. num.
+num. pron. ms.
 n.m.
 772160	adj. adv. mod.
 part.
@@ -45257,16 +45258,16 @@ n.m.
 772170	pron. ms.
 772173	n.m.
 mod.
-n.m./adj. num.
-772177	num. n.f.
+num. n.m./adj.
+772177	n.f. num.
 n.m.
 772181	prep.
-772184	prep. n.m./f.
+772184	n.m./f. prep.
 n.m. part.
 mod.
-772188	prep. n.m./f.
+772188	n.m./f. prep.
 772191	prep.
-num. n.f.
+n.f. num.
 772196	n.f.
 prep.
 772199	pron. cs.
@@ -45282,10 +45283,10 @@ n.m.
 n.m. part.
 772230	adv.
 adv.
-prep. adv.
-772234	part. mod.
+adv. prep.
+772234	mod. part.
 772236	part.
-prep. n.f.
+n.f. prep.
 part.
 772242	part.
 772244	n.m.
@@ -45295,17 +45296,17 @@ pron. ms.
 part.
 772253	prep.
 772256	pron. cs.
-772268	prep. n.f.
+772268	n.f. prep.
 adj. part.
 mod.
-772272	prep. n.f.
+772272	n.f. prep.
 n.m.
 n.m. n.f.
 n.m.
 prep.
 n.m.
 772279	prep. adj.
-772282	num. n.f.
+772282	n.f. num.
 772289	pron. cs.
 772295	pron. fs.
 prep.
@@ -45316,7 +45317,7 @@ part.
 772305	prep. part.
 n.m.
 772310	adj.
-prep. n.f.
+n.f. prep.
 adj.
 prep. part.
 n.f.
@@ -45335,7 +45336,7 @@ n.m.
 part.
 772359	pron. cs.
 772362	pron. ms.
-772365	prep. n.m.
+772365	n.m. prep.
 pron. ms.
 772369	prep.
 n.m.
@@ -45343,32 +45344,32 @@ n.m.
 part.
 n.m. part.
 772378	pron. ms.
-772381	pron. ms. num.
+772381	num. pron. ms.
 part.
 adj.
-part. num.
+num. part.
 772386	n.f.
-772388	prep. n.m./f.
-772392	prep. n.m.
+772388	n.m./f. prep.
+772392	n.m. prep.
 772394	prep.
-772406	prep. part. pron.
+772406	part. pron. prep.
 772409	prep.
-part. n.f.
+n.f. part.
 772416	prep.
 772423	pron. cs.
 prep.
 772430	n.m.
 pron. cs. part.
-num. n.f.
+n.f. num.
 pron. cs.
-772435	prep. n.m.
+772435	n.m. prep.
 prep.
-772438	prep. n.m.
+772438	n.m. prep.
 772442	part.
 num.
 772445	num.
 part.
-prep. part. pron.
+part. pron. prep.
 772451	pron. ms.
 772456	part.
 part.
@@ -45376,44 +45377,44 @@ part.
 part. pron.
 772470	pron. cs. part.
 772473	prep.
-772475	part. pron. pl.
+772475	pron. pl. part.
 772477	n.f.
 772479	n.f.
 772483	pron. pl.
-772485	num. n.f.
+772485	n.f. num.
 pron. pl.
 part., prep.
-772491	prep. n.m.
+772491	n.m. prep.
 n.m.
 772494	n.m.
 n.m.
 772497	adv.
 n.m. part.
-prep. n.m. part.
+n.m. prep. part.
 prep. adj.
 n.f.
-num. n.f.
+n.f. num.
 772506	part.
 772510	prep.
-772515	prep. n.m.
+772515	n.m. prep.
 772517	part.
 772519	num.
 n.m.
 prep.
 n.m.
-prep. n.m. part.
+n.m. prep. part.
 772527	prep.
 772531	n.m.
 772533	n.pl.
 prep.
-prep. n.m.
-772538	prep. n.m.
+n.m. prep.
+772538	n.m. prep.
 prep. part.
 pron. pl.
 772546	prep.
 772553	n.f.
 772556	interj.
-prep. part. pron.
+part. pron. prep.
 772559	pron. pl.
 772561	pron. cs.
 n.f.
@@ -45421,17 +45422,17 @@ prep.
 772565	prep.
 772567	pron. pl.
 pron. cs.
-772570	prep. n.m.
-prep. n.m.
+772570	n.m. prep.
+n.m. prep.
 772576	part.
 772583	pron. pl.
-prep. part. pron.
+part. pron. prep.
 772586	pron. pl.
 772588	adj.
 772590	n.f.
 n.m.
 n.m.
-prep. n.f.
+n.f. prep.
 772595	n.f.
 n.m. part.
 num.
@@ -45456,7 +45457,7 @@ part.
 772634	n.m. num.
 772636	n.f.
 772642	pron. fs.
-num. n.f.
+n.f. num.
 772645	adv.
 adv.
 772651	adj.
@@ -45466,7 +45467,7 @@ n.f.
 n.f.
 772658	part.
 adj.
-prep. adj. adv. mod. num.
+prep. num. adj. adv. mod.
 pron. ms.
 n.f.
 772664	adj.
@@ -45477,18 +45478,18 @@ n.m.
 772671	n.m. part.
 772673	adj. part.
 part.
-adj. n.m. part.
+n.m. adj. part.
 n.f.
 772678	part.
 n.f.
-772681	pron. fs. n.f.
+772681	n.f. pron. fs.
 adv.
 adj.
 772685	n.m.
-prep. n.m.
+n.m. prep.
 772688	n.m.
 n.m. part.
-772692	pron. fs. prep.
+772692	prep. pron. fs.
 pron. cs.
 772698	adj.
 prep.
@@ -45504,7 +45505,7 @@ n.f.
 772722	n.f.
 prep.
 772725	n.m.
-772728	pron. fs. part.
+772728	part. pron. fs.
 n.f.
 772731	pron. pl.
 772733	n.m.
@@ -45516,14 +45517,14 @@ n.m.
 n.m.
 772747	n.f.
 772750	pron. cs.
-772753	prep. n.m.
+772753	n.m. prep.
 772756	pron. cs.
-772758	prep. n.m.
+772758	n.m. prep.
 772761	pron. fs.
 772763	prep.
 772766	pron. cs.
 772769	adv.
-prep. adv.
+adv. prep.
 n.f.
 n.m.
 pron. ms.
@@ -45532,16 +45533,16 @@ adv.
 772779	n.m.
 772781	part.
 part.
-prep. n.m. part.
-772787	pron. fs. n.f.
+n.m. prep. part.
+772787	n.f. pron. fs.
 adv.
 mod.
-772791	pron. fs. part.
+772791	part. pron. fs.
 772793	prep.
 772799	adj. part.
 adj. part.
 part.
-772803	part. n.f.
+772803	n.f. part.
 pron. cs.
 772806	n.f.
 n.m. part.
@@ -45559,16 +45560,16 @@ prep.
 772840	n.m. part.
 772843	adj. part.
 772848	part.
-pron. ms. n.m.
-772851	prep. part. adv.
+n.m. pron. ms.
+772851	adv. prep. part.
 772853	n.m.
 772858	adj.
 adj.
-772861	prep. part. pron.
+772861	part. pron. prep.
 772863	part.
 772865	pron. cs.
 n.m. part.
-772869	prep. n.f.
+772869	n.f. prep.
 pron. cs.
 772872	n.m. part.
 772874	pron. cs.
@@ -45580,16 +45581,16 @@ prep.
 pron.
 part.
 772891	n.m.
-prep. n.m.
+n.m. prep.
 772894	part.
-772899	pron. ms. n.m.
+772899	n.m. pron. ms.
 mod.
-772902	prep. n.m. num.
+772902	n.m. prep. num.
 part.
 772905	part.
 n.m.
 n.m.
-prep. n.m.
+n.m. prep.
 772910	part.
 772912	n.m.
 n.f.
@@ -45605,31 +45606,31 @@ pron. cs.
 772939	n.f.
 n.f.
 n.m.
-part. n.f.
+n.f. part.
 pron. cs.
 772945	n.f.
-part. num.
+num. part.
 n.f.
 pron. cs.
 772950	prep.
 772952	n.m.
 part.
 n.m.
-772956	prep. part. n.f.
+772956	n.f. part. prep.
 n.m.
 n.m. n.f.
-pron. fs. part.
-772963	part. mod.
-772965	prep. n.f.
+part. pron. fs.
+772963	mod. part.
+772965	n.f. prep.
 772967	pron.
 772971	n.m. part.
-772973	prep. n.f.
+772973	n.f. prep.
 772976	num.
 n.f.
 n.m. num.
 772980	prep.
 n.f.
-772983	num. n.f.
+772983	n.f. num.
 772985	part.
 772987	n.f.
 772990	m.
@@ -45637,13 +45638,13 @@ n.m.
 num.
 n.m.
 772995	prep.
-num. n.f.
+n.f. num.
 mod.
 772999	adj.
-773001	pron. fs. n.f.
+773001	n.f. pron. fs.
 773004	prep. part.
 773006	pron. fs.
-773008	part. adv.
+773008	adv. part.
 773010	adv.
 pron. ms.
 773015	prep.
@@ -45653,25 +45654,25 @@ adj. part.
 adj.
 773022	n.f.
 part.
-prep. n.m.
-773026	prep. n.m.
-773029	prep. n.m.
+n.m. prep.
+773026	n.m. prep.
+773029	n.m. prep.
 part.
 n.f.
-part. n.f.
+n.f. part.
 part.
 n.m.
 mod.
-773038	prep. n.m. part.
-773040	prep. n.m.
+773038	n.m. prep. part.
+773040	n.m. prep.
 part.
-prep. n.m.
+n.m. prep.
 773044	n.m.
 n.m. part.
 773047	n.m.
-773049	prep. n.m.
+773049	n.m. prep.
 n.m. num.
-773052	prep. n.m.
+773052	n.m. prep.
 773054	n.m. num.
 773058	n.m. num.
 773062	prep.
@@ -45679,15 +45680,15 @@ n.m.
 773065	n.m.
 n.f.
 773072	part.
-773074	prep. n.m.
+773074	n.m. prep.
 part.
-773077	prep. n.m.
+773077	n.m. prep.
 773079	n.m.
 773082	n.m.
 adj.
 num.
 n.m.
-num. n.f.
+n.f. num.
 adv.
 part.
 n.f.
@@ -45696,9 +45697,9 @@ part.
 773095	mod.
 n.m.
 773099	mod.
-prep. n.m.
+n.m. prep.
 773102	prep.
-773105	n.m. pron. pl.
+773105	pron. pl. n.m.
 773108	n.m. part.
 773112	mod.
 n.m.
@@ -45708,11 +45709,11 @@ n.m.
 773121	pron. pl.
 773123	prep. pron.
 part.
-prep. num.
+num. prep.
 773130	num.
 part.
 773133	adj.
-773135	pron. ms. n.m.
+773135	n.m. pron. ms.
 773137	pron. cs. part.
 mod.
 773140	n.m.
@@ -45731,19 +45732,19 @@ part.
 773176	n.f.
 part.
 adv.
-773184	prep. n.f.
+773184	n.f. prep.
 n.f.
-773188	num. n.f.
+773188	n.f. num.
 773191	n.m. num.
 part.
 n.m.
 773195	n.m.
 adv.
-773198	pron. ms. part.
+773198	part. pron. ms.
 n.m.
 773202	n.m.
-773204	pl. mod.
-n.m num.
+773204	mod. pl.
+num. n.m
 773209	prep.
 part.
 773214	num.
@@ -45756,7 +45757,7 @@ part., prep.
 773224	n.m.
 n.f.
 773227	n.f.
-773232	n.m. part. num.
+773232	n.m. num. part.
 part.
 part.
 n.f.
@@ -45764,53 +45765,53 @@ n.f.
 773240	n.m. part.
 num.
 n.m. part.
-num. n.f.
+n.f. num.
 pron. pl.
-773246	part. pron. pl.
+773246	pron. pl. part.
 773248	n.m.
 773250	pron. pl.
 mod.
-prep. n.m.
+n.m. prep.
 773254	n.m. part.
 n.m.
 n.f.
-773258	mod. n.f.
+773258	n.f. mod.
 part.
 n.m. part.
-773263	pron. ms. n.m. part.
+773263	n.m. pron. ms. part.
 773265	n.m.
 n.m.
-773269	pl. mod.
+773269	mod. pl.
 n.m
 773272	part.
-773275	prep. n.m.
-773277	prep. n.f.
+773275	n.m. prep.
+773277	n.f. prep.
 773279	pron. cs.
 773281	pron. ms.
 n.m.
 prep.
 pron. cs. part.
-773287	prep. n.f.
+773287	n.f. prep.
 pron. cs.
 773290	pron. cs. part.
 part.
 773295	n.m.
-773297	prep. n.m.
+773297	n.m. prep.
 n.m.
 773301	part.
 773306	part., prep.
 773308	n.f.
 773310	n.m.
-num. n.f.
+n.f. num.
 773313	n.m.
 773315	n.f.
 adj. invar.
 n.m.
-773321	part. mod.
-part. num. n.f.
+773321	mod. part.
+n.f. part. num.
 n.m.
-773326	prep. n.f.
-part. n.f.
+773326	n.f. prep.
+n.f. part.
 n.m. part.
 773333	n.m.
 n.f.
@@ -45820,9 +45821,9 @@ part.
 n.f.
 part.
 773344	n.m.
-773346	prep. n.m.
+773346	n.m. prep.
 part.
-prep. n.f.
+n.f. prep.
 773352	part. pron.
 773354	n.m.
 n.m.
@@ -45831,35 +45832,35 @@ part.
 part.
 773360	mod.
 773363	part.
-773366	num. n.f.
+773366	n.f. num.
 773368	n.m.
-773370	prep. n.m.
+773370	n.m. prep.
 part., prep.
-773373	prep. n.m.
-pron. ms. n.m.
+773373	n.m. prep.
+n.m. pron. ms.
 773376	n.f.
 part.
 773379	part.
-773382	num. n.f.
+773382	n.f. num.
 773384	n.m.
 773386	adv.
-prep. adv.
+adv. prep.
 prep. part.
 n.m. part.
 prep.
 n.f.
-773394	prep. n.m.
+773394	n.m. prep.
 773400	adv.
-part. mod.
+mod. part.
 adv.
 773405	part.
 773408	part.
 n.f.
-773413	num. n.f.
+773413	n.f. num.
 num.
 n.m. num.
-773418	part. mod.
-773420	prep. n.m.
+773418	mod. part.
+773420	n.m. prep.
 773422	n.f.
 prep.
 773425	adj.
@@ -45875,7 +45876,7 @@ n.m.
 part.
 part.
 773439	part.
-part. mod.
+mod. part.
 n.m.
 773445	num.
 num.
@@ -45898,7 +45899,7 @@ part.
 773477	part., prep.
 n.f.
 n.m.
-773481	prep. n.m.
+773481	n.m. prep.
 n.m.
 773484	n.f.
 773487	mod.
@@ -45909,12 +45910,12 @@ n.m.
 773504	part.
 prep.
 773510	part. pron.
-773512	prep. n.m.
+773512	n.m. prep.
 n.m.
-773515	prep. num. n.f.
+773515	n.f. num. prep.
 n.m. part.
-num. n.f.
-773519	mod. num.
+n.f. num.
+773519	num. mod.
 prep.
 773524	n.m.
 interj.
@@ -45931,15 +45932,15 @@ pron. cs.
 773550	n.m./adj.
 adv.
 773553	n.m.
-part. adv.
+adv. part.
 adv.
 773558	adv.
 773564	n.m. num.
 adv.
 773569	adv.
-prep. adv.
+adv. prep.
 773573	part., prep.
-773575	pron. fs. n.f.
+773575	n.f. pron. fs.
 n.m.
 773579	part.
 773583	n.m.
@@ -45947,9 +45948,9 @@ n.m.
 773587	pron. cs.
 part. pron.
 773590	part.
-pron. fs. prep.
+prep. pron. fs.
 part.
-773595	prep. n.m.
+773595	n.m. prep.
 pron. pl.
 n.m. num.
 773600	part.
@@ -45959,9 +45960,9 @@ num.
 pron. cs.
 prep.
 773617	part.
-prep. n.m.
-part. num. n.f.
-773622	prep. n.m.
+n.m. prep.
+n.f. part. num.
+773622	n.m. prep.
 773624	prep.
 n.m.
 773628	n.m.
@@ -45969,15 +45970,15 @@ n.m.
 773633	part.
 773635	n.m.
 773638	part.
-part. n.f.
+n.f. part.
 773646	n.m.
 773650	n.f.
 773652	part., prep.
-pron. fs. n.f.
+n.f. pron. fs.
 773655	pron. cs.
 773657	part.
 773659	n.f.
-part. pron. pl.
+pron. pl. part.
 773662	part.
 773664	n.m.
 part.
@@ -45985,11 +45986,11 @@ pron. pl.
 part.
 773669	mod.
 n.m.
-773672	prep. n.m.
+773672	n.m. prep.
 n.m.
 773676	n.m.
-773680	pron. ms. n.m.
-pron. ms. n.f.
+773680	n.m. pron. ms.
+n.f. pron. ms.
 773687	n.m.
 n.m. part.
 773692	n.m.
@@ -46003,39 +46004,39 @@ n.f.
 773708	n.m.
 part.
 n.m.
-773712	prep. n.m.
+773712	n.m. prep.
 773714	n.m.
-773716	prep. n.m.
-num. n.f.
+773716	n.m. prep.
+n.f. num.
 n.m.
 773722	part.
 part.
 part.
-prep. n.m.
-num. n.f.
+n.m. prep.
+n.f. num.
 773728	interj.
 n.m.
 773731	n.m.
-773734	part. adv.
+773734	adv. part.
 adv.
 773737	mod.
 pron. cs.
 773740	n.pl.
 prep.
-num. n.f.
+n.f. num.
 773745	pron. cs.
 773747	part., prep.
-773749	pron. fs. n.f.
-773751	mod. n.f.
+773749	n.f. pron. fs.
+773751	n.f. mod.
 pron. cs.
 773758	part.
 part.
-773761	prep. n.m.
-773763	num. n.f.
+773761	n.m. prep.
+773763	n.f. num.
 773765	part.
 773770	n.m.
 773772	n.m.
-prep. num. n.f.
+n.f. num. prep.
 773776	prep. part.
 adj.
 773780	prep.
@@ -46044,19 +46045,19 @@ adv.
 part. pron.
 prep.
 773786	prep.
-773793	prep. n.m.
+773793	n.m. prep.
 n.m.
 773801	pron. cs. part.
 n.m.
-773805	pron. fs. n.f.
+773805	n.f. pron. fs.
 adv.
 773809	part.
 adv.
 adj.
-mod. num.
-773817	part. num.
+num. mod.
+773817	num. part.
 773819	adj. adv. mod.
-773821	part. pron. pl.
+773821	pron. pl. part.
 adj.
 773825	prep. pron.
 part.
@@ -46074,10 +46075,10 @@ part.
 773847	part.
 part.
 773854	n.f.
-prep. n.f.
+n.f. prep.
 773857	n.f.
 prep.
-part. adv.
+adv. part.
 adj.
 part.
 773863	part.
@@ -46087,7 +46088,7 @@ part.
 n.m.
 part.
 773873	interj.
-773880	num. n.f.
+773880	n.f. num.
 part.
 part.
 n.m.
@@ -46115,16 +46116,16 @@ n.m.
 n.m.
 part.
 773937	n.m.
-part. n.f.
+n.f. part.
 part.
 773941	part. pron.
 773943	n.f.
 773945	n.m.
-part. n.f.
+n.f. part.
 pron. cs.
 773950	part.
 prep.
-part. num.
+num. part.
 773954	part.
 773957	n.m.
 n.m.
@@ -46135,17 +46136,17 @@ n.m. part.
 n.f.
 773969	n.m. part.
 adv.
-part. mod.
+mod. part.
 adv.
 mod.
 773977	part. pron.
 773979	n.m. num.
-773982	prep. n.m.
+773982	n.m. prep.
 773984	n.m.
 773988	prep.
 773990	n.m.
 773992	n.m.
-prep. n.f.
+n.f. prep.
 pron. cs. part.
 773996	n.m.
 774001	part.
@@ -46157,7 +46158,7 @@ part.
 774015	prep.
 774017	n.m.
 774019	prep.
-part. adv.
+adv. part.
 adv.
 n.f.
 774024	part.
@@ -46167,40 +46168,40 @@ n.f.
 n.m.
 n.f.
 774036	part.
-774039	part. adv.
+774039	adv. part.
 adv.
 n.m. num.
 part.
-prep. n.f.
-774045	prep. n.f.
+n.f. prep.
+774045	n.f. prep.
 part.
 adv.
 part.
-774050	part. num.
+774050	num. part.
 774053	part.
 n.m.
-part. num.
+num. part.
 774058	n.f.
-774063	prep. adv.
+774063	adv. prep.
 774066	adj. invar.
 part.
 n.m.
 774072	adj.
-prep. adv.
+adv. prep.
 adv.
 774076	n.m.
 774078	n.f.
-774080	prep. n.m.
+774080	n.m. prep.
 774082	n.m.
 774088	interj.
-mod. num.
+num. mod.
 774094	part.
 774098	adv.
 part.
 adv.
-774102	num. n.f.
+774102	n.f. num.
 n.m.
-774107	prep. n.m.
+774107	n.m. prep.
 n.m.
 prep.
 774111	n.m.
@@ -46212,7 +46213,7 @@ n.m.
 adv.
 774120	num.
 774123	n.f.
-774125	prep. n.m.
+774125	n.m. prep.
 pron. pl.
 774128	pron. pl.
 774130	n.f.
@@ -46231,11 +46232,11 @@ adj.
 n.f.
 n.m./adj.
 774156	n.m.
-774158	pron. ms. adj.
+774158	adj. pron. ms.
 774161	adj.
-part., prep. n.f.
+n.f. part., prep.
 mod.
-prep. n.m.
+n.m. prep.
 n.f.
 part.
 774168	pron. ms.
@@ -46245,7 +46246,7 @@ n.m.
 774180	num.
 n.m.
 774184	n.f.
-774186	pron. ms. n.m.
+774186	n.m. pron. ms.
 774188	n.f.
 774190	n.m.
 774194	prep. n.m./adj.
@@ -46253,9 +46254,9 @@ n.m.
 adj.
 part.
 part.
-774202	adj. adv. mod. part.
+774202	part. adj. adv. mod.
 adv.
-adj. adv. mod. part.
+part. adj. adv. mod.
 adv.
 pron. ms.
 mod.
@@ -46264,7 +46265,7 @@ mod.
 774218	num.
 n.m.
 774222	n.f.
-774224	pron. ms. n.m.
+774224	n.m. pron. ms.
 774226	n.f.
 774228	n.m.
 774235	prep. m.n.
@@ -46279,18 +46280,18 @@ pron. cs.
 774267	n.m.
 part.
 774270	n.m.
-prep. n.m.
+n.m. prep.
 part.
 774274	n.m.
-774278	prep. n.f.
+774278	n.f. prep.
 774280	n.f.
-774283	prep. n.m.
+774283	n.m. prep.
 n.m.
 part.
 774290	part.
 part.
 part.
-774294	prep. num. n.f.
+774294	n.f. num. prep.
 774298	n.m.
 774300	part.
 774302	n.m.
@@ -46300,9 +46301,9 @@ n.m.
 774313	adj.
 prep.
 n.m.
-774317	num. n.f.
+774317	n.f. num.
 774319	prep.
-774321	prep. m.
+774321	m. prep.
 adj. part.
 774326	prep.
 774330	n.pl.
@@ -46313,7 +46314,7 @@ n.f.
 774343	part.
 774346	n.f.
 774348	mod.
-774350	prep. adv.
+774350	adv. prep.
 774352	n.f.
 n.f.
 774356	n.m. part.
@@ -46321,28 +46322,28 @@ part. pron.
 774359	n.m.
 774361	num.
 n.f.
-prep. n.f.
+n.f. prep.
 n.m.
 774367	n.m.
 774371	n.m./adj.
 pron. ms.
 774375	part.
-774377	prep. n.f.
+774377	n.f. prep.
 part.
 774380	prep.
 n.f.
-mod. n.f.
+n.f. mod.
 774385	adv.
 774387	part. pron.
-pron. ms. n.m.
+n.m. pron. ms.
 774390	n.f.
 n.m.
 774395	n.m.
 pron. fs.
 n.f.
 774405	pron. cs.
-774413	pron. ms. n.m.
-774415	prep. adv.
+774413	n.m. pron. ms.
+774415	adv. prep.
 774419	prep.
 pron. fs.
 prep.
@@ -46350,13 +46351,13 @@ prep.
 part.
 n.f.
 774428	pron. cs. part.
-pron. pl. num. n.f.
+pron. pl. n.f. num.
 774431	part.
-774435	part. n.pl.
+774435	n.pl. part.
 774445	adj.
 774448	part.
 pron. ms.
-774452	prep. n.m.
+774452	n.m. prep.
 num.
 774455	n.f.
 774459	pron. cs.
@@ -46366,7 +46367,7 @@ prep.
 774466	n.f.
 774468	adv.
 774471	pron.
-pron. fs. part.
+part. pron. fs.
 774474	part.
 774477	pron. pl.
 774483	n.m.
@@ -46377,36 +46378,36 @@ adv.
 774491	n.m. num.
 774493	num.
 n.m.
-pron. ms. n.m.
+n.m. pron. ms.
 774497	prep.
 adv.
 774500	num.
 num.
 n.f.
 774506	adj.
-774509	prep. n.m.
+774509	n.m. prep.
 774513	n.m. num.
-774515	num. n.f.
+774515	n.f. num.
 prep. part.
 prep.
 774519	n.f.
 n.m.
-774529	mod. num.
+774529	num. mod.
 774531	n.pl.
-774533	mod. num.
+774533	num. mod.
 774539	n.f.
 prep. part.
 774543	n.m.
 774545	part.
 774547	n.m.
-774550	prep. n.f.
+774550	n.f. prep.
 774552	prep.
 n.f.
 774555	prep.
 774558	adj.
 prep. num.
 n.f.
-pron. ms. adj.
+adj. pron. ms.
 774563	pron. cs.
 774565	adv.
 prep.
@@ -46414,14 +46415,14 @@ n.f.
 part. pron.
 774572	n.m. num.
 part.
-774575	prep. n.f.
+774575	n.f. prep.
 prep.
 774581	prep. num.
 n.m.
 774586	interj.
 pron. cs.
 774593	part.
-prep. part. pron.
+part. pron. prep.
 n.f.
 774597	mod. adv.
 774601	num.
@@ -46432,36 +46433,36 @@ n.m. mod.
 prep.
 n.m.
 774612	part. pron.
-pron. ms. adj.
+adj. pron. ms.
 774615	adv.
-774617	num. pron. pl.
-774620	num. pron. pl.
-pron. ms. adj. part.
-774623	num. n.f.
+774617	pron. pl. num.
+774620	pron. pl. num.
+adj. pron. ms. part.
+774623	n.f. num.
 774626	part.
 774628	adv.
-774630	prep. n.m.
+774630	n.m. prep.
 774632	n.m. num.
 adv.
-prep. n.f.
+n.f. prep.
 prep.
 774639	num.
-774641	prep. n.f.
+774641	n.f. prep.
 adj.
 n.m.
 774647	pron. cs.
 774650	n.m.
 774653	n.f.
-774655	prep. part. pron.
+774655	part. pron. prep.
 n.f.
 774658	num.
 774660	n.m. mod.
 774662	part. pron.
 part.
 774665	adv.
-774667	pron. ms. adj.
-pron. ms. adj.
-774670	prep. n.f.
+774667	adj. pron. ms.
+adj. pron. ms.
+774670	n.f. prep.
 774674	num.
 num.
 n.m.
@@ -46477,13 +46478,13 @@ adj.
 774703	prep.
 n.m. part.
 774708	n.m. num.
-pron. ms. n.m.
-prep. n.m.
+n.m. pron. ms.
+n.m. prep.
 774713	prep.
 774720	part.
 adj.
 774723	n.m.
-num. n.f.
+n.f. num.
 774726	part.
 pron. cs.
 774729	num.
@@ -46492,7 +46493,7 @@ n.f.
 n.f.
 n.m. num.
 adj. adv. mod.
-prep. n.f.
+n.f. prep.
 pron. cs. part.
 774740	part.
 774743	part.
@@ -46512,7 +46513,7 @@ n.m.
 774784	pron. cs.
 part.
 774789	n.f.
-774796	pron. ms. n.m.
+774796	n.m. pron. ms.
 774799	n.m.
 m.
 adv.
@@ -46521,7 +46522,7 @@ adj.
 774809	n.f.
 774814	n.m.
 774816	part.
-pron. ms. n.m.
+n.m. pron. ms.
 774819	prep.
 774821	n.m.
 774823	n.m. num.
@@ -46533,39 +46534,39 @@ n.m./f.
 prep. part.
 n.f.
 adj.
-774834	prep. n.m.
+774834	n.m. prep.
 774836	pron.
 part.
-prep. n.pl.tan.
+n.pl.tan. prep.
 774840	num.
 n.f.
 774845	n.f.
 774850	prep.
 774853	part.
 part.
-prep. n.pl.tan.
-n.pl.tan. pron. pl.
+n.pl.tan. prep.
+pron. pl. n.pl.tan.
 774858	n.m. num.
 774860	part.
-n.pl.tan. pron. pl.
+pron. pl. n.pl.tan.
 774863	prep.
 774865	num.
 774868	n.m.
 prep.
 n.f.
-part. n.f.
+n.f. part.
 774873	prep.
 n.f.
-prep. n.m.
+n.m. prep.
 774878	n.m.
-prep. part. n.f.
+n.f. part. prep.
 774882	n.m.
 774884	n.m.
-prep. n.f.
-774887	prep. n.m.
+n.f. prep.
+774887	n.m. prep.
 n.m. part.
-774890	prep. n.m.
-774892	prep. n.f.
+774890	n.m. prep.
+774892	n.f. prep.
 part.
 num.
 n.f./m.
@@ -46574,27 +46575,27 @@ n.f./m.
 774904	pron. fs.
 n.f./m.
 774907	n.m.
-774910	prep. n.f.
+774910	n.f. prep.
 prep.
 n.f.
-prep. n.m.
+n.m. prep.
 774915	prep.
 n.m.
-774918	prep. n.m.
+774918	n.m. prep.
 n.m.
 774923	num.
 n.m.
 n.m.
-prep. adv.
+adv. prep.
 mod.
 774929	adj.
 774931	num.
-prep. n.m.
+n.m. prep.
 num.
 n.m.
 774936	adj.
 774940	n.m.
-prep. adv.
+adv. prep.
 774944	n.m.
 adv.
 774948	n.m.
@@ -46613,25 +46614,25 @@ part.
 774973	part.
 774975	part.
 774979	prep.
-774981	prep. n.m.
+774981	n.m. prep.
 774983	prep.
 n.m.
 774986	n.m.
 774988	mod.
 774990	n.m.
 774994	n.m.
-774996	prep. n.m.
+774996	n.m. prep.
 prep.
 adv.
 n.m.
-775001	prep. n.f.
-part. n.f.
+775001	n.f. prep.
+n.f. part.
 775005	prep.
 n.m. num.
 775008	prep. pron.
-part. pron. pl.
-775012	prep. n.pl.tan.
-775014	num. n.f.
+pron. pl. part.
+775012	n.pl.tan. prep.
+775014	n.f. num.
 part.
 775018	n.m.
 775022	mod.
@@ -46647,7 +46648,7 @@ part.
 775058	prep.
 part.
 775062	part.
-775066	prep. n.m.
+775066	n.m. prep.
 775073	pron. ms.
 775076	n.m.
 775080	prep.
@@ -46671,32 +46672,32 @@ prep. num.
 775124	prep.
 775128	part.
 part.
-part. num.
-775135	n.pl. n.f.
+num. part.
+775135	n.f. n.pl.
 775140	prep.
 n.m.
 775143	prep.
 775145	n.m.
-num. n.f.
+n.f. num.
 775148	n.m. num.
 775150	n.m.
-775152	num. n.f.
+775152	n.f. num.
 n.m.
 pron. ms.
 adj.
 775158	pron. cs.
 775160	adj.
-prep. n.f.
-prep. n.m. n.f.
+n.f. prep.
+n.m. n.f. prep.
 775167	mod. adv.
 775169	mod. adv.
 part.
-775172	prep. n.m.
+775172	n.m. prep.
 775174	part. pron.
-num. n.f.
+n.f. num.
 part.
 n.m.
-pron. ms. adj.
+adj. pron. ms.
 part. pron.
 775182	prep.
 adj.
@@ -46705,13 +46706,13 @@ n.m.
 775195	n.m.
 n.m.
 775198	n.m.
-775201	num. n.f.
+775201	n.f. num.
 775204	n.m.
 775209	part.
 adv.
-part. pron. pl.
+pron. pl. part.
 775214	adj.
-prep. n.m.
+n.m. prep.
 775219	prep.
 prep.
 775222	part.
@@ -46724,7 +46725,7 @@ n.m.
 775241	prep.
 775243	n.m.
 775246	adv.
-775248	num. n.f.
+775248	n.f. num.
 775250	prep.
 n.f.
 n.m.
@@ -46753,11 +46754,11 @@ n.m.
 775308	mod. adv.
 775310	adj. invar.
 775312	part.
-n.pl.tan. pron. pl.
-prep. n.m.
+pron. pl. n.pl.tan.
+n.m. prep.
 prep.
 775318	mod. adv.
-775322	prep. n.m.
+775322	n.m. prep.
 interj.
 n.f.
 775326	n.m. num.
@@ -46768,7 +46769,7 @@ n.m. num.
 775340	pron. pl.
 prep.
 775343	part. pron.
-775347	prep. n.m.
+775347	n.m. prep.
 775349	part.
 775353	prep.
 775356	n.m.
@@ -46785,12 +46786,12 @@ n.f.
 part., prep.
 775385	n.m.
 775387	n.m.
-pron. ms. adj.
+adj. pron. ms.
 775397	n.m.
 pron. ms.
 775400	n.m.
-775402	pron. ms. num.
-775404	pron. ms. num.
+775402	num. pron. ms.
+775404	num. pron. ms.
 775410	part., prep.
 775412	pron. cs.
 775417	prep.
@@ -46826,29 +46827,29 @@ n.f./adj.f
 775490	adv.
 775493	part.
 775497	n.m.
-prep. n.f.
-part. n.f.
-prep. n.f.
-prep. n.m.
+n.f. prep.
+n.f. part.
+n.f. prep.
+n.m. prep.
 775503	n.m.
-prep. n.f.
+n.f. prep.
 775506	n.m.
 775508	n.m.
-prep. n.f.
-775511	prep. n.m.
-prep. n.m. part.
+n.f. prep.
+775511	n.m. prep.
+n.m. prep. part.
 775514	n.m.
-775516	prep. n.f.
+775516	n.f. prep.
 775518	n.f./m. num.
 775520	num.
-775524	part. num.
+775524	num. part.
 775526	adj.
-775529	prep. n.f.
+775529	n.f. prep.
 775531	n.m.
 775534	prep.
 775537	prep.
-775539	prep. n.m.
-775541	part. num. n.f.
+775539	n.m. prep.
+775541	n.f. part. num.
 775543	part.
 775545	part.
 pron. fs.
@@ -46857,7 +46858,7 @@ pron. fs.
 775554	part. pron.
 775558	prep.
 n.m.
-775561	prep. n.m.
+775561	n.m. prep.
 n.m.
 775565	prep.
 n.m.
@@ -46872,14 +46873,14 @@ pron. cs.
 775598	n.m.
 775605	num.
 n.m. num.
-775608	prep. n.m.
+775608	n.m. prep.
 775610	part.
-775612	prep. num. n.f.
+775612	n.f. num. prep.
 n.f.
 775615	n.f.
-775622	prep. n.f.
+775622	n.f. prep.
 775624	n.m.
-num. n.f.
+n.f. num.
 n.f.
 n.f.
 775629	part.
@@ -46887,15 +46888,15 @@ n.f.
 n.pl.tan.
 775636	mod. adv.
 n.pl.tan.
-775641	prep. n.m.
+775641	n.m. prep.
 part.
 775646	part.
-prep. n.m.
+n.m. prep.
 n.pl.tan.
 775650	part.
 775652	pron. pl.
 775657	n.pl.tan.
-775659	mod. num.
+775659	num. mod.
 n.m.
 n.m.
 775663	n.pl.tan.
@@ -46904,9 +46905,9 @@ n.m.
 n.f.
 part., prep.
 775676	n.pl.tan.
-775678	mod. num.
+775678	num. mod.
 n.m.
-775681	num. n.f.
+775681	n.f. num.
 prep.
 n.pl.tan.
 n.m.
@@ -46919,7 +46920,7 @@ n.m.
 mod.
 775702	part.
 775706	num.
-775708	prep. n.f.
+775708	n.f. prep.
 775710	n.m.
 775712	part.
 775717	n.m.
@@ -46939,7 +46940,7 @@ mod.
 775741	n.m.
 775744	adj. invar.
 n.m.
-num. n.f.
+n.f. num.
 775748	part.
 775751	prep.
 n.m.
@@ -46959,11 +46960,11 @@ part.
 n.m.
 775781	n.m.
 775783	pron. cs.
-775785	prep. num. adv.
+775785	adv. prep. num.
 prep. num.
 775788	part.
 pron. cs.
-775791	prep. num. n.f.
+775791	n.f. num. prep.
 prep. num.
 775794	mod.
 775796	part.
@@ -46978,13 +46979,13 @@ n.f.
 part. pron.
 775809	part.
 n.f.
-prep. n.m.
+n.m. prep.
 part.
-prep. n.m.
-775815	prep. n.m.
+n.m. prep.
+775815	n.m. prep.
 n.m.
 part.
-prep. n.f.
+n.f. prep.
 775822	n.m.
 n.f.
 n.f.
@@ -47000,7 +47001,7 @@ part.
 775840	n.pl.tan.
 n.f.
 775843	n.pl.tan.
-775846	part. adv.
+775846	adv. part.
 adv.
 pron. pl.
 part.
@@ -47008,10 +47009,10 @@ n.m.
 n.m.
 775854	n.m.
 n.m.
-775857	num. n.f.
+775857	n.f. num.
 adv.
 775861	n.pl.tan.
-part. mod. num.
+num. mod. part.
 775864	n.f.
 n.pl.tan.
 775868	n.pl.tan.
@@ -47032,22 +47033,22 @@ mod.
 775891	n.m.
 775894	n.m.
 part.
-775900	num. n.f.
+775900	n.f. num.
 775902	mod.
 n.m.
 775907	part.
 775909	n.m.
 n.f.
 775918	n.f.
-775920	prep. n.m.
+775920	n.m. prep.
 n.m.
 775923	n.m.
 775925	n.m.
 775927	num.
 num.
 n.m.
-part. adv.
-775932	prep. n.m.
+adv. part.
+775932	n.m. prep.
 adv.
 775937	num.
 n.f.
@@ -47059,9 +47060,9 @@ n.m.
 775953	n.m.
 775955	part.
 775962	n.m.
-775964	prep. n.m.
-775967	prep. n.m.
-775969	prep. n.m.
+775964	n.m. prep.
+775967	n.m. prep.
+775969	n.m. prep.
 775974	n.m.
 pron. cs. part.
 775980	pron. cs.
@@ -47073,21 +47074,21 @@ n.m.
 775991	n.m.
 776001	part.
 776004	n.m. num.
-num. n.f.
+n.f. num.
 adj.
 776008	n.m.
 n.m.
 n.m.
 776012	n.m.
-prep. n.f.
+n.f. prep.
 n.m. num.
 adv.
-776018	n.m. pron. pl.
-pron. ms. n.m.
+776018	pron. pl. n.m.
+n.m. pron. ms.
 776021	n.m.
 part. pron.
 776024	part.
-pron. ms. n.m.
+n.m. pron. ms.
 part.
 part.
 prep.
@@ -47095,22 +47096,22 @@ n.m.
 776031	part.
 776039	n.f.
 776041	n.m.
-num. n.f.
+n.f. num.
 adv.
 n.m.
 776049	part.
 776051	n.m.
 776053	part.
-776055	part. pron. pl.
+776055	pron. pl. part.
 776057	n.m.
 776062	pron. ms.
-776068	num. n.f.
+776068	n.f. num.
 776072	mod.
 776074	pron. cs.
 776079	n.f.
 mod.
 776082	pron. cs.
-776085	num. n.f.
+776085	n.f. num.
 776088	part. pron.
 776094	prep.
 n.m. part.
@@ -47138,18 +47139,18 @@ prep.
 776131	prep.
 n.m.
 776135	prep.
-prep. n.m.
-prep. n.m.
-776140	num. pron. pl.
+n.m. prep.
+n.m. prep.
+776140	pron. pl. num.
 776143	mod.
 776146	pron. cs.
 776148	adv.
 776152	part. pron.
-776154	prep. n.m.
+776154	n.m. prep.
 776156	part.
 776159	part.
 776166	part.
-prep. n.m.
+n.m. prep.
 n.m.
 776172	prep.
 n.m.
@@ -47157,7 +47158,7 @@ mod.
 776176	n.m. num.
 776182	part.
 776184	mod.
-num. n.f.
+n.f. num.
 part.
 776191	n.m.
 n.m. part.
@@ -47165,7 +47166,7 @@ n.m. part.
 n.m.
 n.f.
 n.m. part.
-prep. n.m. part.
+n.m. prep. part.
 n.pl.
 776202	prep.
 776205	prep.
@@ -47175,9 +47176,9 @@ n.pl.
 776221	part. pron.
 776226	pron. ms.
 n.m.
-776229	prep. n.f.
-776232	num. n.f.
-pron. fs. part.
+776229	n.f. prep.
+776232	n.f. num.
+part. pron. fs.
 776235	pron. pl.
 776238	prep. part.
 776244	prep.
@@ -47192,36 +47193,36 @@ n.m.
 776265	num.
 n.pl.
 n.m.
-776269	prep. n.m.
-776272	num. n.f.
+776269	n.m. prep.
+776272	n.f. num.
 776274	n.f.
-776276	prep. n.m.
+776276	n.m. prep.
 part.
-776279	prep. n.m.
-prep. n.m.
-part. adv.
+776279	n.m. prep.
+n.m. prep.
+adv. part.
 adv.
 part.
 776285	n.m.
-776290	num. n.f.
-776293	num. n.f.
+776290	n.f. num.
+776293	n.f. num.
 776299	num.
 n.m.
 776302	m.
 776304	part.
 776307	adv.
-776309	part. mod.
+776309	mod. part.
 776313	part.
 776315	n.m./f.
 part.
-prep. n.m.
+n.m. prep.
 776319	part.
-776321	prep. n.m.
-num. n.f.
+776321	n.m. prep.
+n.f. num.
 adv.
 776328	n.f.
 adv.
-776332	num. m.
+776332	m. num.
 776334	part.
 776339	n.f.
 n.f.
@@ -47246,47 +47247,47 @@ n.m. part.
 n.m./f.
 776384	num.
 776387	n.f.
-776389	prep. n.m.
+776389	n.m. prep.
 776391	mod.
-776396	num. pron. pl.
+776396	pron. pl. num.
 n.m./f.
 part.
 776400	part.
-776402	prep. n.m.
+776402	n.m. prep.
 776404	part.
-776407	prep. n.m.
-776409	prep. n.m.
+776407	n.m. prep.
+776409	n.m. prep.
 part.
-n.m. num. pron. pl.
-part. adv.
+pron. pl. num. n.m.
+adv. part.
 n.m.
 776415	n.m.
 part.
 776418	prep.
 n.m. part.
-num. n.f.
+n.f. num.
 776426	part.
 n.m.
-776430	prep. n.m.
+776430	n.m. prep.
 part.
 n.m.
 776435	n.m.
-776438	num. n.f.
-776442	part. mod.
-prep. n.m.
+776438	n.f. num.
+776442	mod. part.
+n.m. prep.
 776446	n.f.
 776450	n.f.
 776454	part.
 776456	n.m.
-776458	prep. n.m.
+776458	n.m. prep.
 part.
 776462	n.m.
-776464	prep. part. adv.
+776464	adv. prep. part.
 adv.
 776467	prep.
 n.m.
-776472	prep. n.m.
-776474	prep. n.m.
+776472	n.m. prep.
+776474	n.m. prep.
 776477	part.
 n.f.
 776480	mod.
@@ -47298,7 +47299,7 @@ n.f.
 776494	part.
 part.
 prep.
-776498	prep. adv.
+776498	adv. prep.
 adv.
 776501	pron.
 part.
@@ -47307,17 +47308,17 @@ part.
 adv.
 776507	num.
 776512	pron. ms.
-776514	prep. n.m.
-prep. n.m.
+776514	n.m. prep.
+n.m. prep.
 776520	prep.
-776522	prep. n.m.
+776522	n.m. prep.
 776525	prep. pron.
 776530	prep.
 776532	prep.
 776534	adv.
 n.m.
-776537	prep. n.m.
-776544	num. n.f.
+776537	n.m. prep.
+776544	n.f. num.
 mod.
 n.f.
 776550	n.m.
@@ -47327,8 +47328,8 @@ n.f.
 pron. ms.
 776561	n.m.
 776564	part.
-prep. n.m.
-776567	prep. n.m.
+n.m. prep.
+776567	n.m. prep.
 part.
 n.f.
 n.m.
@@ -47336,11 +47337,11 @@ n.m.
 776574	n.f.
 n.m.
 pron. ms.
-776578	prep. n.m.
-776580	prep. n.m. num.
-776582	prep. n.m.
+776578	n.m. prep.
+776580	n.m. prep. num.
+776582	n.m. prep.
 776584	n.m.
-776587	prep. n.m.
+776587	n.m. prep.
 776589	part.
 prep.
 part.
@@ -47359,7 +47360,7 @@ part.
 prep.
 n.m.
 776616	part.
-prep. n.m.
+n.m. prep.
 776622	part. pron.
 776625	part. pron.
 776628	n.f.
@@ -47368,10 +47369,10 @@ prep. n.m.
 776640	n.f.
 776643	n.f.
 776646	pron. cs.
-776648	prep. n.m.
+776648	n.m. prep.
 n.f.
 776652	pron. cs.
-776654	prep. n.m. num.
+776654	n.m. prep. num.
 part.
 776658	n.m.
 776660	adv.
@@ -47389,17 +47390,17 @@ n.m.
 776692	prep.
 776695	n.m.
 776697	part.
-776700	prep. n.m.
+776700	n.m. prep.
 part.
 776703	prep.
 776715	n.m.
 776717	n.m. part.
-776724	num. n.f.
-776726	num. n.f.
+776724	n.f. num.
+776726	n.f. num.
 n.m.
 776729	part.
-prep. n.f.
-776732	prep. n.f.
+n.f. prep.
+776732	n.f. prep.
 776737	n.m.
 776744	n.m. num.
 adj.
@@ -47415,12 +47416,12 @@ adj.
 776773	prep.
 n.m./f.
 part.
-776782	prep. n.f.
+776782	n.f. prep.
 part.
 776791	n.m.
-776797	part. num.
+776797	num. part.
 776800	prep.
-prep. n.f.
+n.f. prep.
 776804	pron. cs.
 776806	pron. ms.
 776809	prep. pron.
@@ -47440,13 +47441,13 @@ adv.
 pron. cs.
 776855	n.m.
 776857	n.m.
-776859	prep. n.m. n.f.
+776859	n.m. n.f. prep.
 776862	n.m., prep. num.
 776865	prep.
 n.f.
-pron. ms. prep.
+prep. pron. ms.
 n.m.
-pron. ms. prep.
+prep. pron. ms.
 n.m.
 776872	part.
 776876	part., prep.
@@ -47475,7 +47476,7 @@ part.
 pron. ms.
 776926	n.f.
 776936	part.
-776944	prep. n.m.
+776944	n.m. prep.
 776946	num.
 776948	num.
 adj.
@@ -47484,12 +47485,12 @@ adj.
 776959	prep.
 n.f.
 776963	n.f.
-mod. n.f.
-776966	prep. n.m.
+n.f. mod.
+776966	n.m. prep.
 part.
 adj.
 776971	n.m. part.
-776973	prep. adv.
+776973	adv. prep.
 776980	n.f.
 776982	n.f.
 part.
@@ -47505,22 +47506,22 @@ n.m.
 prep. pron.
 pron. ms.
 777005	n.m.
-prep. n.m.
+n.m. prep.
 n.m.
-777009	part. m.
+777009	m. part.
 n.m
 777015	part. pron.
-777017	prep. n.m.
+777017	n.m. prep.
 777020	n.m.
 n.m.
-777023	pron. ms. n.m.
+777023	n.m. pron. ms.
 part.
 777026	num.
 n.f.
 777029	part.
 n.m.
 part.
-prep. n.m.
+n.m. prep.
 777035	part.
 part.
 777038	pron. cs.
@@ -47529,11 +47530,11 @@ part.
 prep.
 prep.
 pron. ms.
-777046	prep. n.m.
-pron. ms. m.
-pron. fs. n.f.
+777046	n.m. prep.
+m. pron. ms.
+n.f. pron. fs.
 777050	prep.
-777052	num. n.f.
+777052	n.f. num.
 777055	pron. cs.
 777057	n.m.
 777059	n.f.
@@ -47541,7 +47542,7 @@ pron. fs. n.f.
 777064	part.
 pron. fs.
 n.m.
-777074	pron. fs. part.
+777074	part. pron. fs.
 part.
 777078	n.m.
 777081	prep.
@@ -47551,13 +47552,13 @@ n.f.
 prep.
 n.f.
 n.pl.tant.
-777098	pron. ms. n.m./f.
+777098	n.m./f. pron. ms.
 777100	n.m.
 777103	adv.
 pron. pl.
 num.
 777107	part.
-pron. fs. n.f.
+n.f. pron. fs.
 777110	part.
 adv.
 mod. adv.
@@ -47582,7 +47583,7 @@ n.m.
 adj.
 part.
 777174	n.m. part.
-777176	pron. ms. n.m.
+777176	n.m. pron. ms.
 777179	adj.
 777181	part.
 prep.
@@ -47601,13 +47602,13 @@ n.m.
 777205	prep.
 n.m.
 part.
-777209	prep. n.f.
+777209	n.f. prep.
 prep. pron.
 n.m.
 777214	part.
 777218	prep. pron.
 777221	prep. pron.
-777223	part. num.
+777223	num. part.
 777228	adj. invar.
 777231	adj. invar.
 777236	n.f.
@@ -47615,8 +47616,8 @@ pron. ms. adj. adv. mod.
 777244	part.
 777250	n.m.
 777252	n.m.
-777255	prep. n.m.
-777257	prep. n.m.
+777255	n.m. prep.
+777257	n.m. prep.
 777260	part.
 777262	adv.
 777264	n.m.
@@ -47624,19 +47625,19 @@ part.
 adj.
 777272	part.
 pron. ms.
-777278	prep. n.f.
+777278	n.f. prep.
 pron. fs.
 n.f.
 prep.
 777283	n.f.
 777288	n.f.
-pron. fs. part.
+part. pron. fs.
 777299	mod.
 777301	n.m.
 777306	n.m.
-777308	prep. n.f.
+777308	n.f. prep.
 mod.
-777311	prep. n.f.
+777311	n.f. prep.
 777313	n.m.
 part.
 adv.
@@ -47647,22 +47648,22 @@ adv.
 n.m.
 part.
 777331	part.
-777333	part. adv.
+777333	adv. part.
 adv.
 777336	n.m.
 777339	n.m.
 777341	n.m.
-777354	prep. n.m.
+777354	n.m. prep.
 777356	prep.
 n.m.
-part. n.f.
+n.f. part.
 777360	prep.
 777363	n.m. part.
 777368	part.
 777370	prep.
 777374	prep.
 777376	part.
-777381	part. n.f.
+777381	n.f. part.
 777383	n.m.
 adv.
 777388	n.m.
@@ -47681,14 +47682,14 @@ part.
 777426	part.
 777428	part.
 part.
-777431	part. n.f.
+777431	n.f. part.
 777434	adj.
 n.m.
-777439	num. n.f.
+777439	n.f. num.
 777442	n.m.
 777445	n.m.
 777448	adv.
-mod. num.
+num. mod.
 777451	prep.
 777455	n.m. part.
 777457	n.f.
@@ -47696,7 +47697,7 @@ num.
 n.f.
 n.m.
 777462	adv.
-pron. fs. num.
+num. pron. fs.
 777465	n.f.
 777467	prep.
 pron. ms.
@@ -47710,9 +47711,9 @@ n.f.
 777483	mod.
 777492	prep.
 part.
-777495	pron. fs. part.
+777495	part. pron. fs.
 n.f.
-777502	part. mod.
+777502	mod. part.
 part.
 777505	part.
 part.
@@ -47720,7 +47721,7 @@ part.
 part.
 adv.
 777513	adv.
-num. n.f.
+n.f. num.
 777517	prep.
 777520	part.
 777524	pron. pl.
@@ -47729,13 +47730,13 @@ n.m.
 n.m.
 777531	adj. part.
 n.m.
-part. num.
+num. part.
 n.f.
-777536	pron. fs. part.
+777536	part. pron. fs.
 777541	pron. fs.
 777543	num.
 n.m.
-part. num.
+num. part.
 777548	adj.
 n.f.
 777551	n.f.
@@ -47743,15 +47744,15 @@ n.f.
 777562	n.m.
 777565	prep.
 n.m.
-777568	pron. ms. n.m.
-777571	num. n.f.
+777568	n.m. pron. ms.
+777571	n.f. num.
 777576	part. pron.
 adj.
 n.m.
 n.f.
 777582	prep.
 777585	n.f.
-prep. n.m.
+n.m. prep.
 777588	part.
 prep.
 n.f.
@@ -47769,8 +47770,8 @@ n.f.
 777614	pron. pl.
 n.f.
 777619	part.
-777622	prep. n.f.
-part. n.f.
+777622	n.f. prep.
+n.f. part.
 777625	pron. pl.
 n.f.
 part. pron.
@@ -47783,12 +47784,12 @@ part.
 part.
 777640	n.f.
 prep.
-777643	part. n.f.
+777643	n.f. part.
 777645	pron. cs.
 777652	n.f.
 777657	n.m.
 cst.
-777661	prep. n.f.
+777661	n.f. prep.
 n.f.
 777665	part.
 n.f.
@@ -47798,23 +47799,23 @@ part. pron.
 prep.
 777676	part.
 777679	pron. cs.
-777681	num. n.f.
+777681	n.f. num.
 777684	pron. mod.
 m.n.
 num. m.n.
 n.m. adv./adj.
-777695	prep. n.m.
-777699	part. pron. pl.
+777695	n.m. prep.
+777699	pron. pl. part.
 n.m.
 n.m.
 n.m. part.
-777704	part. pron. pl.
+777704	pron. pl. part.
 n.f.
 mod.
 777711	prep.
 part.
 777714	n.f.
-777721	prep. n.m.
+777721	n.m. prep.
 777723	part.
 pron. fs.
 n.f.
@@ -47831,7 +47832,7 @@ part.
 n.m. num.
 n.m.
 777746	part.
-prep. n.m.
+n.m. prep.
 777751	adj.
 adj.
 777756	prep.
@@ -47839,40 +47840,40 @@ adj.
 part. pron.
 adj.
 n.m.
-777767	prep. n.m.
+777767	n.m. prep.
 777769	n.f.
 n.m.
 cst.
 777777	n.pl.
 777780	prep.
-777784	mod. n.f.
+777784	n.f. mod.
 777786	part.
 part.
 n.m. num.
 777793	part.
 777797	prep.
-part. n.f.
+n.f. part.
 777800	mod.
 n.f.
 n.f.
 part.
-part. m.n.
+m.n. part.
 777806	part.
 777808	n.m.
-777812	part. mod.
+777812	mod. part.
 777816	n.m. part.
 777818	n.m.
 777820	part.
 n.m.
-prep. n.m. part.
+n.m. prep. part.
 n.f.
-pron. fs. part.
+part. pron. fs.
 777826	n.f.
-prep. n.m.
-num. m.
-777830	prep. n.m.
+n.m. prep.
+m. num.
+777830	n.m. prep.
 777835	n.f.
-part. mod.
+mod. part.
 777838	n.m. part.
 n.f.
 777841	pron. fs.
@@ -47880,12 +47881,12 @@ n.f.
 n.m.
 n.m.
 777848	part.
-prep. n.m.
+n.m. prep.
 n.m.
 777854	n.m.
 777857	n.m.
 n.m.
-777860	prep. n.f.
+777860	n.f. prep.
 777862	num.
 777866	n.f.
 n.f.
@@ -47897,12 +47898,12 @@ n.f.
 777891	n.m.
 adj.
 777894	part.
-prep. n.f.
+n.f. prep.
 777898	n.f.
 n.f.
-777902	n.m. pron. pl.
+777902	pron. pl. n.m.
 adj.
-mod. num.
+num. mod.
 777907	num.
 n.f.
 777911	n.m.
@@ -47922,66 +47923,66 @@ part.
 777944	n.f.
 777946	prep. part.
 777950	part.
-pron. fs. n.f.
+n.f. pron. fs.
 777954	prep.
 777956	pron. ms.
-777958	pron. ms. part.
+777958	part. pron. ms.
 777960	n.m.
-pron. ms. part.
-adj. n.m.
-prep. n.m.
+part. pron. ms.
+n.m. adj.
+n.m. prep.
 part.
 777966	n.m. num.
 num.
-part. num.
+num. part.
 777971	num.
 777974	num.
 n.f.
 777977	pron. fs.
 777979	num.
 n.m.
-part. num.
+num. part.
 777984	adj.
 777987	prep.
 n.m.
 777990	pron. cs.
-part. n.f.
+n.f. part.
 pron. cs.
 777994	adv.
 n.f.
 n.m.
 777998	n.m.
 778000	adj. invar.
-778007	pron. fs. part. n.f.
+778007	n.f. part. pron. fs.
 prep. part.
 778011	n.m. part.
-778014	prep. n.f.
+778014	n.f. prep.
 mod.
 778017	n.f.
 778019	n.f.
 n.f.
-num. n.f.
+n.f. num.
 778024	part.
 n.m. num.
 778028	n.m.
 prep.
-prep. n.m.
+n.m. prep.
 778032	n.m.
 778035	n.m.
 778037	part. pron.
 part.
-pron. ms. n.m.
-pron. ms. n.m.
-pron. ms. n.m.
+n.m. pron. ms.
+n.m. pron. ms.
+n.m. pron. ms.
 n.f.
 n.m.
 n.m.
-prep. n.m.
+n.m. prep.
 prep.
-778048	prep. n.m.
+778048	n.m. prep.
 n.m. part.
-778053	prep. n.m. num.
-prep. n.m.
+778053	n.m. prep. num.
+n.m. prep.
 778056	prep.
 778059	adv.
 pron. ms.
@@ -47996,10 +47997,10 @@ n.m.
 n.m.
 778081	prep. part.
 778083	prep.
-part. n.f.
+n.f. part.
 778087	n.m. num.
 778089	prep.
-prep. adv.
+adv. prep.
 778092	pron. cs.
 778094	pron. ms.
 m.
@@ -48008,7 +48009,7 @@ m.
 part.
 mod.
 n.m.
-778113	pron. ms. prep.
+778113	prep. pron. ms.
 n.m.
 pron. ms.
 778117	part. pron.
@@ -48038,7 +48039,7 @@ pron. cs.
 adj.
 n.m.
 adj.
-prep. n.m.
+n.m. prep.
 part.
 part.
 n.m.
@@ -48050,11 +48051,11 @@ part.
 adj.
 n.m.
 778185	prep.
-num. n.f.
-num. n.f.
+n.f. num.
+n.f. num.
 mod.
 n.f./adj.f
-pron. fs. n.f.
+n.f. pron. fs.
 778192	pron. cs.
 778195	adv.
 778197	pron. cs.
@@ -48087,12 +48088,12 @@ prep.
 part.
 pron. fs.
 n.f.
-778244	part. n.f.
+778244	n.f. part.
 prep.
 778247	adj. invar.
 part.
 n.m. part.
-778252	pron. fs. n.f.
+778252	n.f. pron. fs.
 part.
 n.m.
 mod.
@@ -48102,9 +48103,9 @@ n.f.
 778264	prep.
 pron. ms.
 n.m.
-778269	prep. n.m. part.
-part. n.f.
-778274	prep. n.m.
+778269	n.m. prep. part.
+n.f. part.
+778274	n.m. prep.
 778277	part.
 n.m.
 n.f
@@ -48119,15 +48120,15 @@ n.m.
 778300	n.m.
 778304	part.
 778306	part.
-778308	part. part. pron.
+778308	part. pron. part.
 778310	prep.
-part. n.f.
+n.f. part.
 778314	part.
 778317	pron. cs.
 prep.
 778321	part.
-prep. n.m.
-778324	pron. ms. n.m. part.
+n.m. prep.
+778324	n.m. part. pron. ms.
 adv.
 pron. ms.
 pron. fs.
@@ -48138,7 +48139,7 @@ part.
 n.f.
 778341	n.f
 778343	pron. cs.
-778347	pron. fs. part.
+778347	part. pron. fs.
 778349	pron. cs.
 778352	prep.
 prep.
@@ -48149,7 +48150,7 @@ n.f.
 778361	n.f.
 prep.
 n.m.
-778365	pron. fs. part. n.f.
+778365	n.f. part. pron. fs.
 778372	n.m.
 part.
 778377	n.f.
@@ -48169,7 +48170,7 @@ prep.
 778405	n.f.
 778408	n.m.
 778413	part.
-778417	prep. n.m. part.
+778417	n.m. prep. part.
 adv.
 778420	part.
 n.m.
@@ -48182,11 +48183,11 @@ part.
 778435	n.f.
 778437	n.m.
 778440	part.
-prep. n.f.
-778443	prep. n.m.
+n.f. prep.
+778443	n.m. prep.
 778447	prep.
 778450	n.f.
-778455	prep. n.m.
+778455	n.m. prep.
 778457	n.m.
 778463	pron. fs.
 778466	n.f.
@@ -48195,26 +48196,26 @@ n.f.
 pron. fs.
 778473	prep.
 prep.
-778476	prep. n.m.
-778478	part. pron. pl.
+778476	n.m. prep.
+778478	pron. pl. part.
 778480	n.m.
 778482	n.f.
 778484	part.
-778487	prep. n.m.
+778487	n.m. prep.
 778489	adv.
 778492	prep.
 778494	prep.
 n.f.
 778503	n.f.
 778505	n.m.
-n.m. part. num.
+n.m. num. part.
 num.
-part. num.
+num. part.
 part.
 adj.
 778512	n.m.
 n.f.
-778515	num. n.f.
+778515	n.f. num.
 778519	num.
 778522	n.f.
 778524	prep.
@@ -48228,7 +48229,7 @@ n.f.
 778536	n.m.
 778540	n.f.
 part.
-778545	n.m. pron. pl.
+778545	pron. pl. n.m.
 778548	n.f.
 778552	n.m.
 prep.
@@ -48248,25 +48249,25 @@ n.m.
 mod.
 778591	pron. ms.
 part.
-778597	pron. fs. n.f.
+778597	n.f. pron. fs.
 prep.
 part.
-pron. ms. mod.
+mod. pron. ms.
 778603	n.f
 778606	n.m.
-778609	prep. n.m./f.
+778609	n.m./f. prep.
 part.
 n.m.
 n.m. part.
 n.m.
 778615	mod.
-778617	prep. n.m./f.
-part. n.f.
-778620	prep. num. n.f.
+778617	n.m./f. prep.
+n.f. part.
+778620	n.f. num. prep.
 pron. pl.
 778624	prep.
-n.m. pron. pl.
-778627	prep. n.m.
+pron. pl. n.m.
+778627	n.m. prep.
 pron. cs.
 prep.
 778632	n.m. part.
@@ -48276,9 +48277,9 @@ n.f.
 778641	prep. num.
 778645	pron. fs.
 778647	n.m.
-778651	prep. n.m.
+778651	n.m. prep.
 778653	n.m.
-778658	part. pron. pl.
+778658	pron. pl. part.
 778660	n.m.
 n.m.
 778663	n.m.
@@ -48288,20 +48289,20 @@ part.
 prep.
 778681	n.m.
 prep.
-pron. ms. n.m.
+n.m. pron. ms.
 part.
 n.f.
-prep. n.m.
+n.m. prep.
 part.
 778689	pron. fs.
-778694	prep. n.f.
-778698	prep. n.m.
+778694	n.f. prep.
+778698	n.m. prep.
 778701	prep.
-778703	pron. ms. n.m.
+778703	n.m. pron. ms.
 pron. fs.
 778707	pron. ms.
 n.m.
-pron. ms. adj.
+adj. pron. ms.
 n.f.
 n.f.
 778719	mod.
@@ -48309,15 +48310,15 @@ n.f.
 778723	pron. ms.
 n.f.
 778728	n.m.
-778730	part. num.
+778730	num. part.
 778732	part.
-778734	pron. ms. n.m.
+778734	n.m. pron. ms.
 778738	adv.
 778740	adv.
 pron. ms.
 778745	n.m.
 778748	n.f.
-prep. num. n.f.
+n.f. num. prep.
 778751	part.
 778753	num.
 n.m.
@@ -48328,17 +48329,17 @@ n.f.
 778767	n.m.
 num.
 n.f.
-778771	pron. fs. n.f.
-prep. n.m.
+778771	n.f. pron. fs.
+n.m. prep.
 mod.
 778775	prep.
-prep. n.m.
+n.m. prep.
 part.
 778779	prep.
 n.m.
-778783	prep. n.m./f.
+778783	n.m./f. prep.
 778785	n.m.
-778787	prep. n.m.
+778787	n.m. prep.
 778789	num.
 n.f.
 778793	n.m.
@@ -48352,20 +48353,20 @@ prep.
 n.m.
 part.
 n.f.
-pron. ms. n.m.
+n.m. pron. ms.
 778814	num.
-778817	num. n.f.
+778817	n.f. num.
 778819	n.f.
-pron. ms. n.m. part.
-pron. fs. n.f.
+n.m. part. pron. ms.
+n.f. pron. fs.
 778823	prep.
 778826	prep.
 n.m.
 778829	part.
 778831	part.
-778834	prep. n.m./f.
+778834	n.m./f. prep.
 778837	n.m.
-778839	prep. n.m.
+778839	n.m. prep.
 778841	num.
 n.f.
 n.f.
@@ -48376,35 +48377,35 @@ n.f.
 n.m.
 n.f.
 778856	adv.
-778860	pron. ms. n.m.
+778860	n.m. pron. ms.
 778862	prep.
 prep.
-part. n.f.
+n.f. part.
 part.
 part. pron.
 n.f.
 pron. fs.
 part. pron.
-778871	prep. n.f.
+778871	n.f. prep.
 part.
-778874	prep. adv.
+778874	adv. prep.
 778876	pron. pl.
 n.m.
 778880	pron. cs.
 778886	n.m.
 778888	n.f.
-prep. n.m./f.
+n.m./f. prep.
 778891	prep.
 part. pron.
-prep. n.m./f.
+n.m./f. prep.
 778896	part.
-pron. ms. m.
-778899	part. m.
-778902	prep. n.f.
+m. pron. ms.
+778899	m. part.
+778902	n.f. prep.
 part.
-mod. num.
+num. mod.
 part.
-num. n.f.
+n.f. num.
 n.m.
 778910	pron. ms.
 n.m.
@@ -48412,10 +48413,10 @@ prep.
 778915	prep.
 778917	pron. ms.
 778919	pron. ms.
-778921	prep. part. pron.
+778921	part. pron. prep.
 778923	n.m.
 778927	part.
-778930	prep. part. pron.
+778930	part. pron. prep.
 778932	adv.
 778935	adv.
 part.
@@ -48434,7 +48435,7 @@ pron. cs.
 778969	n.f.
 778971	pron. pl.
 778974	prep. pron.
-778976	prep. n.f.
+778976	n.f. prep.
 778978	mod.
 n.m.
 778981	adv.
@@ -48446,10 +48447,10 @@ mod.
 779000	n.m. part.
 779003	prep.
 779008	pron. pl.
-779010	n.m. pron. pl.
+779010	pron. pl. n.m.
 adj.
 779016	n.f.
-779018	prep. n.m./f.
+779018	n.m./f. prep.
 pron. pl.
 779022	n.f.
 adv.
@@ -48469,10 +48470,10 @@ n.m.
 779059	part.
 n.m. part.
 779063	n.f.
-prep. n.m.
+n.m. prep.
 779069	prep.
 779074	n.m. part.
-779080	part. n.f.
+779080	n.f. part.
 779082	mod.
 n.m.
 779086	pron. pl.
@@ -48481,8 +48482,8 @@ n.m.
 pron. cs.
 779094	pron. fs.
 n.f.
-779098	prep. part. n.f.
-prep. n.m. part.
+779098	n.f. part. prep.
+n.m. prep. part.
 779101	prep.
 779103	adv.
 779105	adj. invar.
@@ -48493,15 +48494,15 @@ part.
 779118	prep.
 779121	n.m.
 part.
-n.m. pron. pl.
+pron. pl. n.m.
 part.
 n.f.
 779127	part.
-779129	n.m. part. num.
-part. num.
+779129	n.m. num. part.
+num. part.
 num.
 779137	part.
-pron. fs. n.f.
+n.f. pron. fs.
 779140	prep.
 779143	n.m.
 num.
@@ -48512,7 +48513,7 @@ n.m. part.
 n.f.
 part.
 prep.
-779153	pron. fs. n.f.
+779153	n.f. pron. fs.
 pron. cs. part.
 779156	adv.
 part.
@@ -48520,7 +48521,7 @@ adv.
 779160	n.m. num.
 779162	n.m.
 779165	n.m.
-part. n.f.
+n.f. part.
 779172	n.m.
 779174	prep. pron.
 779176	n.m.
@@ -48538,17 +48539,17 @@ n.f.
 adj.
 779200	n.m.
 779203	mod.
-779205	prep. n.f.
+779205	n.f. prep.
 prep.
-prep. n.m. num.
+n.m. prep. num.
 adj.
-prep. n.m.
+n.m. prep.
 part. pron.
 779212	part.
 n.m.
-779215	prep. n.m. num.
+779215	n.m. prep. num.
 adj.
-prep. n.m.
+n.m. prep.
 n.m.
 779220	n.m.
 779222	part.
@@ -48561,9 +48562,9 @@ n.f.
 779237	n.f.
 n.m.
 pron. fs.
-779244	adj. num.
+779244	num. adj.
 part. pron.
-prep. n.m.
+n.m. prep.
 adj.
 part.
 part.
@@ -48572,7 +48573,7 @@ part.
 prep.
 779255	adj.
 779260	adv.
-num. m.
+m. num.
 779266	n.m.
 779268	n.pl.
 part.
@@ -48582,16 +48583,16 @@ n.m. part.
 779274	part.
 779276	part.
 adv.
-779279	pron. ms. n.m.
+779279	n.m. pron. ms.
 n.m.
-prep. part. n.f.
+n.f. part. prep.
 part.
 779285	n.f.
-779287	num. n.f.
-779289	prep. num. n.f.
+779287	n.f. num.
+779289	n.f. num. prep.
 779292	n.f.
 prep.
-779295	num. n.f.
+779295	n.f. num.
 779299	n.m.
 part.
 779302	n.m.
@@ -48620,7 +48621,7 @@ pron. cs.
 779356	mod.
 779359	n.m. num.
 adj.
-prep. n.m.
+n.m. prep.
 part.
 779364	n.m.
 779366	adj.
@@ -48636,13 +48637,13 @@ num.
 779403	adv.
 n.m. part.
 part.
-779407	num. n.m./f.
+779407	n.m./f. num.
 779413	prep.
 779415	n.f.
 779418	n.f.
-779420	prep. n.f.
-prep. part. n.f.
-779423	prep. n.m.
+779420	n.f. prep.
+n.f. part. prep.
+779423	n.m. prep.
 779430	n.m.
 779432	adj.
 prep.
@@ -48654,10 +48655,10 @@ n.m.
 779448	n.f.
 n.f.
 779451	part.
-779453	prep. n.m.
+779453	n.m. prep.
 m.
-prep. n.f.
-prep. n.f.
+n.f. prep.
+n.f. prep.
 m.
 n.m.
 n.m. mod.
@@ -48673,7 +48674,7 @@ mod.
 n.f./m. num.
 779480	n.f./m. num.
 779483	n.m.
-mod. num.
+num. mod.
 779487	adj.
 adj.
 part.
@@ -48691,10 +48692,10 @@ adj.
 prep.
 n.f.
 adj.
-adj. invar. part.
+part. adj. invar.
 part.
 779522	pron. cs.
-pron. cs. prep.
+prep. pron. cs.
 779526	part., prep.
 n.f.
 n.f.
@@ -48720,7 +48721,7 @@ n.m.
 pron. ms.
 n.m.
 779565	n.m. num.
-part. n.f.
+n.f. part.
 779568	mod.
 n.m.
 779573	prep.
@@ -48730,7 +48731,7 @@ n.m.
 779578	mod.
 779582	pron. ms.
 n.m.
-779586	prep. n.m.
+779586	n.m. prep.
 779588	prep.
 n.m.
 n.m.
@@ -48747,9 +48748,9 @@ pron. ms.
 779611	part.
 779617	part.
 779619	pron. ms.
-779624	prep. n.f.
+779624	n.f. prep.
 779626	n.m. num.
-779628	pron. ms. n.m.
+779628	n.m. pron. ms.
 779630	n.m. part.
 779632	n.m.
 779634	prep.
@@ -48759,23 +48760,23 @@ n.m.
 779640	n.m. num.
 n.m.
 mod.
-779645	prep. n.m.
+779645	n.m. prep.
 part.
 prep.
 n.m.
 n.m.
-pron. fs. part.
+part. pron. fs.
 part.
 779655	n.m. num.
 part.
 n.m.
-779659	prep. n.m.
+779659	n.m. prep.
 779661	n.m.
 part.
-779664	pron. ms. n.m.
+779664	n.m. pron. ms.
 779667	pron. cs. part.
 779671	n.m.
-prep. n.m.
+n.m. prep.
 pron. pl.
 n.m.
 n.m.
@@ -48788,7 +48789,7 @@ n.m.
 mod.
 779691	n.m.
 779693	n.m.
-779699	prep. n.m.
+779699	n.m. prep.
 779701	prep.
 n.f.
 779704	n.m.
@@ -48814,12 +48815,12 @@ part. pron.
 779748	prep.
 n.m.
 779753	pron. cs.
-779755	part. num.
+779755	num. part.
 779758	n.m.
 779761	part.
 n.m.
 779765	n.m.
-779771	prep. n.m.
+779771	n.m. prep.
 779773	part.
 779775	n.m. num.
 n.m.
@@ -48834,12 +48835,12 @@ n.m.
 n.m.
 779791	part.
 mod.
-prep. n.m.
+n.m. prep.
 779795	part.
 779798	prep.
 779802	n.m.
 779805	n.f.
-779808	part. n.f.
+779808	n.f. part.
 779814	part.
 n.f.
 adv.
@@ -48848,17 +48849,17 @@ n.f.
 prep.
 779822	part.
 n.m.
-779826	pron. mod. part.
+779826	part. pron. mod.
 779828	n.m.
 779830	prep.
 n.m.
 779833	mod.
 779835	prep.
-779838	n.pl. pron. pl.
+779838	pron. pl. n.pl.
 779846	mod.
 779850	n.m.
 779852	n.m.
-779855	part. num.
+779855	num. part.
 779857	n.m.
 n.m.
 prep.
@@ -48874,13 +48875,13 @@ part., prep.
 n.f.
 pron. fs.
 n.f.
-part. mod.
+mod. part.
 779880	part.
 prep.
 779884	n.m.
 779886	n.m.
 779891	n.m.
-prep. n.m.
+n.m. prep.
 n.f.
 779895	n.m.
 779898	part.
@@ -48901,7 +48902,7 @@ part.
 n.m.
 779932	n.m.
 n.m.
-779935	part. num.
+779935	num. part.
 779939	n.m.
 pron. fs.
 n.f.
@@ -48909,18 +48910,18 @@ n.f.
 n.m.
 prep.
 n.m.
-779950	pron. ms. n.m.
-prep. n.m.
+779950	n.m. pron. ms.
+n.m. prep.
 prep.
 779954	n.m.
 n.m.
-779960	prep. n.m.
-prep. n.m.
-779966	prep. adv.
-779968	prep. n.m.
+779960	n.m. prep.
+n.m. prep.
+779966	adv. prep.
+779968	n.m. prep.
 n.m.
 n.m.
-part. num.
+num. part.
 779976	n.m. num.
 779978	part.
 779980	n.m. num.
@@ -48935,9 +48936,9 @@ part.
 779999	pron. fs.
 n.f.
 part. pron.
-780003	pron. fs. n.f.
+780003	n.f. pron. fs.
 n.m. part.
-780006	prep. n.m.
+780006	n.m. prep.
 part.
 780011	prep.
 780013	part. pron.
@@ -48945,29 +48946,29 @@ part.
 780020	n.m.
 780022	part.
 n.f.
-780027	part. n.pl.
+780027	n.pl. part.
 mod.
 780032	n.m.
 part.
 pron. pl.
 adj.
-780039	part. num.
+780039	num. part.
 780041	n.m.
 780043	prep.
 780045	part.
-780048	prep. n.m.
+780048	n.m. prep.
 780053	n.m.
 780055	n.m.
 780057	n.f.
 780060	part.
 part.
-pron. fs. n.f.
+n.f. pron. fs.
 780066	mod. adv.
 780068	n.pl.
 780071	n.m.
 780073	n.m.
 780081	part.
-780083	prep. n.m.
+780083	n.m. prep.
 n.f.
 780086	n.m.
 n.f.
@@ -48984,16 +48985,16 @@ n.f.
 780116	n.m.
 n.m.
 780119	part.
-num. adv.
-prep. adv.
-780123	prep. n.m.
+adv. num.
+adv. prep.
+780123	n.m. prep.
 part.
-n.m. num. pron. pl.
+pron. pl. num. n.m.
 n.m.
 780129	part.
 n.m.
 780132	n.m.
-prep. n.m.
+n.m. prep.
 prep. n.pl.
 780138	mod.
 n.m.
@@ -49017,11 +49018,11 @@ n.m. part.
 adj.
 n.m. part.
 780171	part.
-780174	pron. ms. n.f.
+780174	n.f. pron. ms.
 adj.
 780177	prep.
 780180	n.m.
-780182	prep. n.m.
+780182	n.m. prep.
 n.f.
 780185	n.m.
 pron. ms.
@@ -49031,7 +49032,7 @@ adj.
 part.
 780196	n.pl.
 780198	adj.
-prep. n.m.
+n.m. prep.
 n.m.
 part.
 adj.
@@ -49040,7 +49041,7 @@ n.f.
 prep.
 780210	part.
 780217	part. pron.
-part. pron. pl.
+pron. pl. part.
 n.m.
 780222	num.
 780224	n.m.
@@ -49066,7 +49067,7 @@ part.
 prep.
 780259	n.pl.
 780261	n.m. num.
-pron. ms. n.m.
+n.m. pron. ms.
 part.
 adj. m.
 780268	pron. cs.
@@ -49074,14 +49075,14 @@ adj. m.
 780273	part.
 780276	n.m.
 part.
-780279	prep. n.m.
+780279	n.m. prep.
 780281	n.m.
 780283	n.m.
 780286	n.m.
 n.f.
 780289	n.m.
 780291	pron. cs.
-780293	adj. n.m.
+780293	n.m. adj.
 780295	pron. pl.
 n.pl.
 n.m.
@@ -49092,36 +49093,36 @@ prep.
 780306	pron. pl.
 n.pl.
 780312	part.
-n.pl. pron. pl.
+pron. pl. n.pl.
 mod.
 780316	pron. cs.
-780319	prep. n.f.
-780321	prep. n.m.
+780319	n.f. prep.
+780321	n.m. prep.
 780323	adv.
 part.
 adv.
 780327	n.m. num.
 adj.
 n.m.
-prep. n.f.
+n.f. prep.
 780332	num.
 adv.
 780335	num.
 prep.
 n.m. num.
 adj.
-adj. n.f.
+n.f. adj.
 780341	adj.
 num.
-num. n.f.
+n.f. num.
 780345	n.m.
 780347	n.m.
 780349	part.
 n.m. num.
 adj.
-780354	pron. ms. n.m.
+780354	n.m. pron. ms.
 adj.
-780357	num. n.f.
+780357	n.f. num.
 780359	prep.
 adj.
 n.m.
@@ -49136,10 +49137,10 @@ adj.
 780379	adj.
 780383	part.
 n.m.
-780386	prep. n.pl.tant. part.
+780386	prep. part. n.pl.tant.
 n.f.
 adj.
-780393	num. n.f.
+780393	n.f. num.
 780396	n.m.
 n.pl.tan.
 780400	n.f.
@@ -49162,7 +49163,7 @@ prep.
 n.m.
 780431	part.
 part. pron.
-780435	prep. n.m. num.
+780435	n.m. prep. num.
 780440	part.
 n.f.
 pron. ms.
@@ -49171,7 +49172,7 @@ n.m.
 n.m.
 780451	n.m.
 n.m.
-780454	adj. adv. mod. num.
+780454	num. adj. adv. mod.
 prep.
 780457	n.m.
 780460	pron. cs.
@@ -49189,63 +49190,63 @@ n.m.
 n.f.
 780479	n.m.
 780481	n.f.
-part. num.
+num. part.
 n.f.
 adj.
 adv.
 pron. ms.
 780488	n.m.
-prep. n.f.
-pron. ms. n.m.
+n.f. prep.
+n.m. pron. ms.
 n.m.
-780493	prep. n.m.
+780493	n.m. prep.
 adj.
 780498	pron. cs.
 part.
-780502	prep. n.m.
-780504	prep. n.m.
+780502	n.m. prep.
+780504	n.m. prep.
 pron. ms.
 n.f
 780508	prep.
-780510	pron. ms. n.m.
+780510	n.m. pron. ms.
 adj.
-780513	num. n.f.
+780513	n.f. num.
 part.
 part.
 n.m.
 n.m.
 780519	adj. invar.
 n.m.
-780523	prep. n.m.
+780523	n.m. prep.
 780527	part.
 780529	part., prep.
 780531	adj. invar.
 780533	adj. invar.
-part. n.f.
+n.f. part.
 780537	mod.
 adj. invar.
 part.
 780541	n.m. num.
-n.m./adj. num.
+num. n.m./adj.
 780546	part., prep.
 780551	n.f.
 n.m. num.
 780554	adj.
 n.m.
 780558	n.m.
-780560	prep. n.pl.tant. part.
+780560	prep. part. n.pl.tant.
 n.f.
 adj.
 n.m.
 780567	part. pron.
 780570	part.
 part. pron.
-780573	part. n.f.
+780573	n.f. part.
 780575	part., prep.
 780578	n.m.
 780581	part.
 780583	part.
-part. part. pron.
+part. pron. part.
 780588	n.m. num.
 780591	n.m.
 780594	n.m.
@@ -49253,7 +49254,7 @@ part. part. pron.
 780598	m.
 prep.
 780601	n.m.
-part. n.f.
+n.f. part.
 780604	n.m.
 780606	n.m.
 n.m.
@@ -49269,12 +49270,12 @@ prep.
 780632	n.f.
 prep.
 780635	n.m.
-780639	prep. n.m.
+780639	n.m. prep.
 part. pron.
 780643	part.
 n.f.
 780646	n.f.
-780650	prep. n.m.
+780650	n.m. prep.
 780652	part. pron.
 780654	n.f.
 780657	n.m.
@@ -49284,24 +49285,24 @@ n.f.
 part.
 num.
 n.m.
-prep. n.f.
-780670	prep. n.m.
+n.f. prep.
+780670	n.m. prep.
 780672	pron. ms.
-780674	prep. n.f.
-num. n.f.
-n.m. part. num.
+780674	n.f. prep.
+n.f. num.
+n.m. num. part.
 780683	part.
 pron. ms.
 n.m.
 780690	part.
-num. n.f.
+n.f. num.
 n.m.
 780694	part.
 780696	num.
 num.
 n.m.
 780700	n.f.
-780704	prep. part. pron.
+780704	part. pron. prep.
 780706	pron. pl.
 780708	n.f.
 780710	n.m. num.
@@ -49309,14 +49310,14 @@ n.m. part.
 780713	n.m. num.
 pron. pl.
 780716	num.
-780718	part. num.
+780718	num. part.
 n.f.
 780724	pron. pl.
 part.
 780727	prep.
 780730	part.
-780735	prep. part. pron.
-780737	pron. ms. n.m.
+780735	part. pron. prep.
+780737	n.m. pron. ms.
 part.
 part.
 780742	n.m.
@@ -49327,11 +49328,11 @@ num.
 780754	pron. pl.
 780757	n.m. num.
 part.
-780760	n.m. part. num.
+780760	n.m. num. part.
 780762	n.f.
-780768	prep. n.f.
-780770	n.m. part. num.
-num. n.f.
+780768	n.f. prep.
+780770	n.m. num. part.
+n.f. num.
 780773	interj.
 780775	prep.
 780778	pron. cs.
@@ -49339,15 +49340,15 @@ num. n.f.
 part.
 780784	n.m.
 pron. cs.
-num. n.f.
-780788	prep. n.f.
+n.f. num.
+780788	n.f. prep.
 780790	n.m. num.
-n.m. part. num.
-780793	prep. n.m.
-780796	n.m. part. num.
+n.m. num. part.
+780793	n.m. prep.
+780796	n.m. num. part.
 780801	adv.
 part.
-780807	pron. ms. n.m.
+780807	n.m. pron. ms.
 adj.
 780810	part. pron.
 780814	part.
@@ -49359,13 +49360,13 @@ part.
 n.f.
 part.
 780825	part.
-part. n.f.
-780828	part. n.f.
+n.f. part.
+780828	n.f. part.
 n.m. num.
 prep.
 780832	n.m. n.f.
 n.f.
-part. num. n.f.
+n.f. part. num.
 part.
 780838	n.m.
 pron. ms.
@@ -49382,21 +49383,21 @@ prep.
 part.
 n.f.
 780862	n.m.
-prep. m.
-part. adv.
+m. prep.
+adv. part.
 adv.
 num.
 780868	pron. ms. adj. adv. mod.
-780870	prep. n.m.
+780870	n.m. prep.
 780872	n.m.
 num.
 prep.
 pron. ms. adj. adv. mod.
 n.f.
-780880	pron. fs. part.
-780882	prep. n.m.
-780886	prep. n.m.
-part. n.f.
+780880	part. pron. fs.
+780882	n.m. prep.
+780886	n.m. prep.
+n.f. part.
 780891	n.m.
 780894	n.f.
 780896	prep. pron.
@@ -49404,14 +49405,14 @@ n.m.
 n.m.
 780900	part.
 780906	n.m.
-780909	part. adv.
+780909	adv. part.
 adv.
 780912	prep.
 780916	adv.
-780919	part. num.
+780919	num. part.
 780922	part.
-780924	prep. n.m.
-780926	prep. n.m.
+780924	n.m. prep.
+780926	n.m. prep.
 780929	pron. ms.
 780933	n.f.
 n.m.
@@ -49426,7 +49427,7 @@ pron. ms.
 adj.
 780947	adj.
 adv.
-prep. adv.
+adv. prep.
 adv.
 780953	prep. pron.
 n.m. part.
@@ -49447,28 +49448,28 @@ n.m.
 780990	n.f.
 part.
 780993	mod.
-780995	prep. n.m.
+780995	n.m. prep.
 780997	part.
 780999	n.f.
 pron. ms.
 n.f.
-781003	prep. mod. adv.
-781005	prep. n.m. num.
+781003	mod. adv. prep.
+781005	n.m. prep. num.
 n.m.
 781009	part. pron.
 781011	pron. ms.
 781013	n.f.
-781017	num. n.f.
+781017	n.f. num.
 781019	n.f.
 781021	prep.
 781023	n.m.
 mod.
-prep. adv.
+adv. prep.
 781027	n.m.
 781030	prep.
 part.
 n.m.
-num. n.f.
+n.f. num.
 pron. ms.
 781036	prep.
 pron. ms.
@@ -49508,11 +49509,11 @@ pron. fs.
 pron. fs.
 part.
 part.
-781102	part. interj.
+781102	interj. part.
 n.m.
 781106	n.m.
 781109	part.
-781114	prep. n.f.
+781114	n.f. prep.
 part.
 781117	n.m.
 mod.
@@ -49523,13 +49524,13 @@ num.
 prep.
 781131	n.m.
 part.
-prep. n.f.
+n.f. prep.
 pron. ms.
 781137	n.m.
 781144	n.f.
-781146	part. n.f.
+781146	n.f. part.
 781148	mod.
-part. adv.
+adv. part.
 adv.
 prep.
 n.m. num.
@@ -49539,22 +49540,22 @@ n.m. num.
 part.
 781161	part.
 n.m.
-781164	prep. n.m.
+781164	n.m. prep.
 781167	n.f.
 781170	n.m.
 781172	n.m.
 781174	prep.
 n.m.
-pron. ms. n.m.
-781178	prep. n.m.
-781180	prep. n.m.
+n.m. pron. ms.
+781178	n.m. prep.
+781180	n.m. prep.
 781182	n.m.
 781185	adv.
 781195	part.
 781200	pron. cs.
 781202	n.f.
 781205	n.f.
-prep. n.m.
+n.m. prep.
 781208	n.m. num.
 781211	n.f.
 n.m. part.
@@ -49565,9 +49566,9 @@ n.m. num.
 part.
 pron. ms.
 n.f.
-781223	part. n.f.
+781223	n.f. part.
 781226	part.
-781228	prep. n.m.
+781228	n.m. prep.
 part. pron.
 prep.
 n.m.
@@ -49578,14 +49579,14 @@ n.m.
 781243	adj.
 n.m.
 781246	mod.
-781251	prep. n.m.
+781251	n.m. prep.
 part.
 adj.
 781255	prep. adj.
 781258	part. pron.
 781261	part. pron.
-781264	pron. ms. adj.
-781266	pron. ms. num.
+781264	adj. pron. ms.
+781266	num. pron. ms.
 781268	part.
 n.m.
 781273	n.m.
@@ -49605,7 +49606,7 @@ pron. fs.
 781308	pron. ms.
 part.
 n.f.
-781313	part. n.f.
+781313	n.f. part.
 781318	pron. cs.
 781320	prep.
 part. pron.
@@ -49614,7 +49615,7 @@ part.
 part. pron.
 781330	pron. cs.
 781332	part.
-781335	pron. ms. n.m.
+781335	n.m. pron. ms.
 part.
 781340	n.m.
 part.
@@ -49624,7 +49625,7 @@ n.m.
 pron. ms.
 781354	n.f.
 n.m.
-781361	prep. n.m.
+781361	n.m. prep.
 781363	part.
 781366	n.m.
 781368	part. pron.
@@ -49633,20 +49634,20 @@ n.m.
 part.
 n.m.
 part.
-781379	part. n.f.
-781381	part. n.f.
+781379	n.f. part.
+781381	n.f. part.
 781383	part.
 781387	n.m.
 part.
 781390	prep.
-prep. n.m.
+n.m. prep.
 781394	part.
 781397	part.
 781399	pron. cs.
 prep.
 prep.
 781404	n.m. part.
-prep. n.m.
+n.m. prep.
 781407	part.
 781409	pron. cs.
 n.f.
@@ -49655,8 +49656,8 @@ part.
 adj.
 mod.
 781418	n.m.
-781420	prep. n.f.
-781426	pron. fs. n.f.
+781420	n.f. prep.
+781426	n.f. pron. fs.
 num.
 n.f.
 num.
@@ -49681,9 +49682,9 @@ mod.
 781454	n.m. num.
 781457	pron. fs.
 n.m.
-781463	num. n.f.
-781465	n.m. part. num.
-781467	part. num. n.f.
+781463	n.f. num.
+781465	n.m. num. part.
+781467	n.f. part. num.
 781470	mod.
 781474	part.
 781476	prep.
@@ -49701,9 +49702,9 @@ prep.
 part.
 prep.
 781506	mod.
-781509	prep. n.m.
+781509	n.m. prep.
 781511	n.m.
-781514	prep. n.m.
+781514	n.m. prep.
 781516	n.m.
 781519	n.m.
 781523	n.m. part.
@@ -49712,11 +49713,11 @@ prep.
 n.m.
 781531	n.m.
 781535	prep.
-prep. n.m.
+n.m. prep.
 781540	n.m.
 part.
 n.m.
-prep. part. pron.
+part. pron. prep.
 n.m.
 781549	n.pl.tan.
 781551	n.m.
@@ -49726,9 +49727,9 @@ n.m.
 781561	prep.
 prep.
 781565	n.m.
-prep. n.m. num.
+n.m. prep. num.
 781573	n.f.
-781576	prep. n.f.
+781576	n.f. prep.
 781580	n.m.
 781583	n.m.
 781587	part.
@@ -49741,52 +49742,52 @@ n.m.
 part. pron.
 781612	n.m.
 adj.
-prep. n.f.
+n.f. prep.
 adj.
-prep. n.f.
+n.f. prep.
 781619	num.
 adj.
 n.f.
-781623	part. num.
+781623	num. part.
 781626	pron. ms.
-781628	prep. n.m.
+781628	n.m. prep.
 781631	part.
 781636	pron. fs.
-781639	part. num.
+781639	num. part.
 781642	prep.
 n.m.
-part. num.
+num. part.
 781647	n.m. mod.
 adv.
 781650	part.
-prep. n.m.
+n.m. prep.
 part.
-prep. n.m.
+n.m. prep.
 adj.
 pron. pl.
 781658	pron. pl.
 781661	part.
 n.m.
 n.m.
-781665	part. n.f.
+781665	n.f. part.
 n.m.
 pron. pl.
 781669	n.m./adj.
 pron. pl.
 781672	n.m./adj.
-part. pron. pl.
-781675	prep. n.m.
+pron. pl. part.
+781675	n.m. prep.
 781677	mod.
 781682	n.m.
 781684	part. pron.
-prep. part. pron.
+part. pron. prep.
 781689	n.m.
 781691	pron. cs.
 781694	pron. cs.
 781697	part.
 781700	n.f.
 781704	n.m.
-prep. adv.
+adv. prep.
 n.m.
 781708	adv.
 781716	pron. fs.

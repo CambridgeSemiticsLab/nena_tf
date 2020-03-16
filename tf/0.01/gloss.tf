@@ -2,13 +2,14 @@
 @about=English gloss of a word lemma
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
+@feature_type=string
 @origin=Cambridge University, Faculty of Asian and Middle Eastern Studies
 @researchers=Dorota Molin, Johan Lundberg
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-09T22:02:32Z
+@dateWritten=2020-03-16T20:10:53Z
 
 577912	one; a 
 almost, about to; connective particle .
@@ -28975,18 +28976,18 @@ something hidden, secret
 634780	house; home; verse (of poetry/song)
 739771	one; a  almost, about to; connective particle .
 739776	what; why?; how could it be? how (exclamatory).
-739778	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
-739780	always; again; still; as soon as; directly; just, only; the same; surely . and thin cane, reed
+739778	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
+739780	and thin cane, reed always; again; still; as soon as; directly; just, only; the same; surely .
 739782	and thin cane, reed
 739784	master, owner
 God  vocative particle
 739787	hundred
 gold; gold coin
-air if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. air
 ninety
 nine
-739793	air and if ; either/or ; interrogative particle.
-also, even; connective particle . hundred one; a  and
+739793	and if ; either/or ; interrogative particle. air
+hundred also, even; connective particle . one; a  and
 side, direction
 particle expressing prominence 
 hundred
@@ -28997,11 +28998,11 @@ in, at, on, with, by means of.
 739806	neighbour one; a 
 Jew; Jewish
 739813	speaker deixis demonstrative 
-739818	to, for, upon, at, by: Admominal uses roof
+739818	roof to, for, upon, at, by: Admominal uses
 739820	ninety
 nine
 gold; gold coin
-in; concerning; compared with; by (oath). one; a  small bag
+small bag in; concerning; compared with; by (oath). one; a 
 739825	in, at, on, with, by means of.
 default demonstrative 
 woman; wife
@@ -29017,7 +29018,7 @@ ninety
 nine
 ten
 ten
-always; again; still; as soon as; directly; just, only; the same; surely . ninety
+ninety always; again; still; as soon as; directly; just, only; the same; surely .
 nine
 739851	woman; wife
 739853	God 
@@ -29029,17 +29030,17 @@ I
 like, as
 speaker deixis demonstrative 
 small bag
-739864	one; a  like, as
+739864	like, as one; a 
 presentative particle
 739868	Jew; Jewish
-to, for, upon, at, by: Admominal uses roof
+roof to, for, upon, at, by: Admominal uses
 739871	half; middle. to, for, upon, at, by: Admominal uses
 interjection opening speech turns
 739875	which?
 dog
 739878	there
-to, for, upon, at, by: Admominal uses roof
-739883	also, even; connective particle . speaker deixis demonstrative 
+roof to, for, upon, at, by: Admominal uses
+739883	speaker deixis demonstrative  also, even; connective particle .
 739886	yesterday; tomorrow
 739888	judge
 Jew; Jewish
@@ -29062,8 +29063,8 @@ hour
 six
 morning
 739917	Jew; Jewish
-739920	bird to, for, upon, at, by: Admominal uses
-and chicken coop
+739920	to, for, upon, at, by: Admominal uses bird
+chicken coop and
 to, for, upon, at, by: Admominal uses
 739924	story; affair
 739927	mullah
@@ -29092,7 +29093,7 @@ man, person; family relative
 739967	thus, like this, so, such
 and suit, smart clothes
 speaker deixis demonstrative 
-739971	saddle and
+739971	and saddle
 and
 in, at, on, with, by means of.
 long loose clothes (worn by men) and
@@ -29108,10 +29109,10 @@ presentative particle; but; otherwise .
 739993	and
 739995	I
 to, for, upon, at, by: Admominal uses back; waist
-you and
+and you
 739999	and
 also; even; again. if ; either/or ; interrogative particle.
-740002	also, even; connective particle . speaker deixis demonstrative 
+740002	speaker deixis demonstrative  also, even; connective particle .
 740005	or
 740007	mullah
 and
@@ -29124,7 +29125,7 @@ and
 and
 judge
 740020	judge
-740022	condition; agreement; test, ordeal, challenge; court case; judgement, sentence; court; custom judge
+740022	judge condition; agreement; test, ordeal, challenge; court case; judgement, sentence; court; custom
 740024	story; affair
 mullah
 740027	judge
@@ -29138,28 +29139,28 @@ God
 gold; gold coin
 speaker deixis demonstrative  and
 Jew; Jewish
-740045	to, for, upon, at, by: Admominal uses roof
+740045	roof to, for, upon, at, by: Admominal uses
 God  and
-to, for, upon, at, by: Admominal uses praise sky
+praise sky to, for, upon, at, by: Admominal uses
 preverbal particle
 ninety
 nine
 gold; gold coin
-and I
+I and
 740054	woman; wife
 also, even; connective particle .
 speaker deixis demonstrative  small bag
 God 
-740059	gold; gold coin one; a  from, with:
-also, even; connective particle . speaker deixis demonstrative  and
+740059	gold; gold coin from, with: one; a 
+speaker deixis demonstrative  and also, even; connective particle .
 Jew; Jewish
-to, for, upon, at, by: Admominal uses roof
+roof to, for, upon, at, by: Admominal uses
 unless, only if, except, but, particle of insistence; or not .
 speaker deixis demonstrative 
 gold; gold coin
 740068	thus, like this, so, such and
 household of; family of
-vocative particle judge
+judge vocative particle
 740072	pleasant, beautiful; delicious; healthy; sharp.
 speaker deixis demonstrative 
 Jew; Jewish
@@ -29181,28 +29182,28 @@ Jew; Jewish
 740103	presentative particle; but; otherwise .
 740105	judge
 740108	dog
-son of dog
+dog son of
 Jew; Jewish
 740113	condition; agreement; test, ordeal, challenge; court case; judgement, sentence; court; custom
 740115	one; a 
 name
 740118	speaker deixis demonstrative 
 740120	life
-village in; concerning; compared with; by (oath). one; a 
-village in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). one; a  village
+in; concerning; compared with; by (oath). village
 740125	in; concerning; compared with; by (oath).
 740128	every; all, all of . thing
 740131	sky
 740134	village
 740137	speaker deixis demonstrative 
 every; all, all of .
-740143	one; a  day; sun.
+740143	day; sun. one; a 
 740146	to, for.
 village
 speaker deixis demonstrative 
 name
 740151	speaker deixis demonstrative 
-740157	name one; a 
+740157	one; a  name
 other, another; more; again; discourse particle.
 740160	interjection opening speech turns
 740167	every; all, all of .
@@ -29212,25 +29213,25 @@ party
 740173	and
 and
 and
-740178	name one; a 
+740178	one; a  name
 new
 and
-also, even; connective particle . speaker deixis demonstrative  and
+speaker deixis demonstrative  and also, even; connective particle .
 740184	ox
-740187	every; all, all of . thing and
+740187	and every; all, all of . thing
 and
 drink
 and
-small and
+and small
 big; great; old.
 740194	interjection opening speech turns
-740202	name one; a 
+740202	one; a  name
 other, another; more; again; discourse particle.
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 740206	and
 740208	and
 740210	until, up to; before; until when.
-hour one; a 
+one; a  hour
 hour two
 740214	negative copula
 740217	each, every; whoever 
@@ -29238,7 +29239,7 @@ hour two
 740224	pleasant, beautiful; delicious; healthy; sharp.
 740226	pleasant, beautiful; delicious; healthy; sharp.
 740228	pleasant, beautiful; delicious; healthy; sharp.
-always; again; still; as soon as; directly; just, only; the same; surely . and
+and always; again; still; as soon as; directly; just, only; the same; surely .
 sky
 740233	and
 740235	to, for.
@@ -29247,8 +29248,8 @@ I
 740243	every; all, all of .
 740247	always; again; still; as soon as; directly; just, only; the same; surely .
 740251	day; sun.
-740253	to, for, upon, at, by: Admominal uses roof
-740258	thing one; a 
+740253	roof to, for, upon, at, by: Admominal uses
+740258	one; a  thing
 in; concerning; compared with; by (oath).
 740262	in; concerning; compared with; by (oath).
 740265	village
@@ -29274,9 +29275,9 @@ and
 and
 singer
 first class, excellent, special
-740302	in, at, on, with, by means of. negative copula
+740302	negative copula in, at, on, with, by means of.
 740305	load (on the back of an animal) upon
-740307	ass and
+740307	and ass
 to, for, upon, at, by: Admominal uses
 Arab
 740311	voice; utterance; song; sound.
@@ -29289,7 +29290,7 @@ I
 and man, person; family relative
 side, direction
 to, for, upon, at, by: Admominal uses
-air and side, direction
+and side, direction air
 740331	air
 distance; distant.
 how? how could it be? like, just as; when
@@ -29299,7 +29300,7 @@ man, person; family relative
 740340	thus, like this, so, such
 to, for, upon, at, by: Admominal uses
 in; concerning; compared with; by (oath). desert
-and sitting; inhabited
+sitting; inhabited and
 and
 740353	default demonstrative 
 740356	default demonstrative 
@@ -29309,7 +29310,7 @@ load (on the back of an animal) upon
 in, at, on, with, by means of.
 peace; greeting
 740364	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 740368	interjection opening speech turns
 740371	master, owner
 we
@@ -29340,7 +29341,7 @@ valulable; tasty
 if ; either/or ; interrogative particle.
 gold; gold coin also, even; connective particle .
 we
-740433	one; a  in, at, on, with, by means of. three
+740433	in, at, on, with, by means of. one; a  three
 740437	speaker deixis demonstrative 
 740442	until, up to; before; until when. morning
 in; concerning; compared with; by (oath). morning
@@ -29375,35 +29376,35 @@ load (on the back of an animal)
 to, for, upon, at, by: Admominal uses
 740510	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 and
-740517	one; a  in, at, on, with, by means of.
+740517	in, at, on, with, by means of. one; a 
 load (on the back of an animal)
 excrement
 and
-three in, at, on, with, by means of.
+in, at, on, with, by means of. three
 load (on the back of an animal)
 740524	story; affair
 side, direction
 740527	and
-740529	village in; concerning; compared with; by (oath).
+740529	in; concerning; compared with; by (oath). village
 740534	speaker deixis demonstrative 
 what? 
-740538	load (on the back of an animal) one; a  in, at, on, with, by means of.
+740538	load (on the back of an animal) in, at, on, with, by means of. one; a 
 excrement
-740541	three in, at, on, with, by means of.
+740541	in, at, on, with, by means of. three
 gold; gold coin
 740544	blue/green colour
 in, at, on, with, by means of.
 in; concerning; compared with; by (oath).
 excrement
 740550	hand; handle; arm; foot (of an animal); round of a game. in, at, on, with, by means of.
-one; a  kilo
+kilo one; a 
 excrement
-three in, at, on, with, by means of.
+in, at, on, with, by means of. three
 740555	how? how could it be? like, just as; when
 master, owner
 thus, like this, so, such
 740559	man, person; family relative
-740563	village in; concerning; compared with; by (oath).
+740563	in; concerning; compared with; by (oath). village
 each, every; whoever  one; a 
 740566	reciprocal pronoun 
 and excrement
@@ -29428,15 +29429,15 @@ breath; time, instance; yes.
 740614	how? how could it be? like, just as; when
 740617	thus; like that; the same; so much.
 and
-740623	village in; concerning; compared with; by (oath).
+740623	in; concerning; compared with; by (oath). village
 and or
 default demonstrative 
 740629	one; a 
 sheep; goat
 one; a 
-740634	thing one; a 
+740634	one; a  thing
 vocative particle
-740638	one; a  goodness; favour
+740638	goodness; favour one; a 
 740642	man, person; family relative
 740649	one; a 
 paternal uncle
@@ -29444,9 +29445,9 @@ thus; like that; the same; so much.
 740653	like, as
 day; sun.
 default demonstrative 
-in, at, on, with, by means of. strength, force, power
+strength, force, power in, at, on, with, by means of.
 740664	and
-740666	stamp, seal and
+740666	and stamp, seal
 yes
 yes
 I
@@ -29456,12 +29457,12 @@ pleased, happy, agreeable
 pleased, happy, agreeable
 default demonstrative 
 740677	you
-740679	stamp, seal I
+740679	I stamp, seal
 740682	and
 job, profession, business; affair, thing
 740686	in, at, on, with, by means of.
-also, even; connective particle . speaker deixis demonstrative 
-740689	hat (worn by men) default demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
+740689	default demonstrative  hat (worn by men)
 740691	in; concerning; compared with; by (oath).
 740695	interjection opening speech turns
 pleased, happy, agreeable
@@ -29497,9 +29498,9 @@ evening; late afternoon
 seven
 in; concerning; compared with; by (oath).
 day; sun.
-740758	group; flock; horde one; a 
+740758	one; a  group; flock; horde
 sheep; goat
-740762	village in; concerning; compared with; by (oath).
+740762	in; concerning; compared with; by (oath). village
 and
 in; concerning; compared with; by (oath).
 740769	master, owner
@@ -29550,7 +29551,7 @@ because
 740850	master, owner
 side, direction
 from, with: horn; horn container used to carry grease (məšxa) for applying to the whetsone (məšna); peak of a mountain
-740854	hornless (goat/sheep); type of wheat without hairs (dasiye) from, with:
+740854	from, with: hornless (goat/sheep); type of wheat without hairs (dasiye)
 740856	measure
 old woman; grandmother
 740861	particle expressing prominence 
@@ -29589,7 +29590,7 @@ queen
 740943	speaker deixis demonstrative 
 man; married man, husband; gentleman, courtier; valiant man
 740947	to, for, upon, at, by: Admominal uses
-740951	a little (quantity); a few  time; point in time; period of time
+740951	time; point in time; period of time a little (quantity); a few 
 740953	some, a few, a little (quantity) 
 740955	default demonstrative 
 740958	I
@@ -29611,8 +29612,8 @@ speaker deixis demonstrative
 740995	hunt
 741000	hunt
 741002	king
-741004	default demonstrative  thing
-741007	default demonstrative  day; sun.
+741004	thing default demonstrative 
+741007	day; sun. default demonstrative 
 other, another; more; again; discourse particle.
 741010	party
 741012	each, every; whoever  one; a 
@@ -29621,11 +29622,11 @@ other, another; more; again; discourse particle.
 thing
 speaker deixis demonstrative 
 741026	sitting; inhabited
-place, space. one; a 
+one; a  place, space.
 speaker deixis demonstrative 
 741030	speaker deixis demonstrative 
 741038	I
-741040	always; again; still; as soon as; directly; just, only; the same; surely . I
+741040	I always; again; still; as soon as; directly; just, only; the same; surely .
 741042	you
 more, most; (not) at all 
 741050	story; affair
@@ -29643,7 +29644,7 @@ in, at, on, with, by means of.
 place, space.
 741077	in; concerning; compared with; by (oath).
 porch, balcony; shelter (under a rock)
-741080	what; why?; how could it be? how (exclamatory). side
+741080	side what; why?; how could it be? how (exclamatory).
 741082	three
 741086	one; a  almost, about to; connective particle .
 741088	default demonstrative 
@@ -29655,10 +29656,10 @@ speaker deixis demonstrative
 741098	every; all, all of .
 thin cane, reed
 hunt
-from, with: side
+side from, with:
 741103	king
 741109	and
-in; concerning; compared with; by (oath). balcony one; a 
+in; concerning; compared with; by (oath). one; a  balcony
 741113	also, even; connective particle . one; a 
 negative copula
 741116	secret
@@ -29685,14 +29686,14 @@ preverbal particle
 king
 and
 741159	default demonstrative 
-woman; wife and
+and woman; wife
 every; all, all of . default demonstrative 
 preverbal particle
 741166	world, weather. (K./A.)
 741168	existential particle  if ; either/or ; interrogative particle.
 man, person; family relative
 more, most; (not) at all 
-741173	negative existential particle  if ; either/or ; interrogative particle.
+741173	if ; either/or ; interrogative particle. negative existential particle 
 more, most; (not) at all 
 741176	always; again; still; as soon as; directly; just, only; the same; surely .
 from, with: there
@@ -29702,37 +29703,37 @@ there
 741184	under one; a 
 date (dark and soft)
 741188	one; a  steamship
-thing one; a 
+one; a  thing
 741193	master, owner
 breath; time, instance; yes. one; a 
-741196	in; concerning; compared with; by (oath). sea; lake
-in; concerning; compared with; by (oath). sea; lake
+741196	sea; lake in; concerning; compared with; by (oath).
+sea; lake in; concerning; compared with; by (oath).
 741199	one; a  smoke
 741201	in; concerning; compared with; by (oath). sky, heaven
 741204	one; a 
-741206	in; concerning; compared with; by (oath). sea; lake
-741208	one; a  box
+741206	sea; lake in; concerning; compared with; by (oath).
+741208	box one; a 
 seized, clasped; blocked (road)
 thus, like this, so, such
 upon
-741215	to, for, upon, at, by: Admominal uses tree
+741215	tree to, for, upon, at, by: Admominal uses
 speaker deixis demonstrative 
-741219	upon tree
+741219	tree upon
 fear from, with:
-741222	default demonstrative  box
+741222	box default demonstrative 
 from, with:
 to, for, upon, at, by: Admominal uses
 or
-741227	metal lock seven
-741230	in, at, on, with, by means of. box
-741232	one; a  and
-two and
-three and
+741227	seven metal lock
+741230	box in, at, on, with, by means of.
+741232	and one; a 
+and two
+and three
 four
 breath; time, instance; yes. one; a 
-741238	girl; daughter one; a 
+741238	one; a  girl; daughter
 presentative particle; but; otherwise .
-girl; daughter what; why?; how could it be? how (exclamatory).
+what; why?; how could it be? how (exclamatory). girl; daughter
 741242	world, weather. (K./A.)
 741244	unless, only if, except, but, particle of insistence; or not .
 master, owner
@@ -29746,11 +29747,11 @@ and
 741264	sea; lake
 or
 head; top; beginning.
-upon thigh
+thigh upon
 741269	speaker deixis demonstrative 
 741271	thus, like this, so, such
 in; concerning; compared with; by (oath). tree
-741274	default demonstrative  two man, person; family relative
+741274	man, person; family relative default demonstrative  two
 there
 speaker deixis demonstrative 
 741278	speaker deixis demonstrative 
@@ -29763,7 +29764,7 @@ speaker deixis demonstrative
 741298	what; why?; how could it be? how (exclamatory).
 741303	ring
 741306	one; a  chain (for securing, e.g. prisoner)
-and four
+four and
 fifty
 ring
 in, at, on, with, by means of.
@@ -29771,16 +29772,16 @@ chain (for securing, e.g. prisoner)
 also, even; connective particle . default demonstrative 
 741316	thus, like this, so, such
 741319	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 741323	in, at, on, with, by means of.
 741327	I
 741329	to, for, upon, at, by: Admominal uses
 741331	default demonstrative 
 741334	speaker deixis demonstrative 
-741337	in; concerning; compared with; by (oath). and
+741337	and in; concerning; compared with; by (oath).
 box
 and from, with:
-741341	and four
+741341	four and
 fifty
 man, person; family relative
 asleep
@@ -29799,12 +29800,12 @@ in; concerning; compared with; by (oath).
 741371	in; concerning; compared with; by (oath). sky, heaven
 741373	and
 741376	side, direction
-always; again; still; as soon as; directly; just, only; the same; surely . we
+we always; again; still; as soon as; directly; just, only; the same; surely .
 741379	one; a 
-other, another; more; again; discourse particle. to, for.
+to, for. other, another; more; again; discourse particle.
 master, owner
 741383	side, direction
-always; again; still; as soon as; directly; just, only; the same; surely . we
+we always; again; still; as soon as; directly; just, only; the same; surely .
 741386	speaker deixis demonstrative 
 741388	more, most; (not) at all 
 741391	speaker deixis demonstrative 
@@ -29812,7 +29813,7 @@ always; again; still; as soon as; directly; just, only; the same; surely . we
 woman; wife
 in; concerning; compared with; by (oath).
 box
-metal lock seven
+seven metal lock
 741400	four man, person; family relative
 741402	asleep
 741404	speaker deixis demonstrative 
@@ -29821,11 +29822,11 @@ more, most; (not) at all
 741411	to, for, upon, at, by: Admominal uses
 741413	one; a  almost, about to; connective particle .
 741415	to, for, upon, at, by: Admominal uses
-741418	more, most; (not) at all  from, with:
+741418	from, with: more, most; (not) at all 
 big; great; old.
-741422	one; a  king
+741422	king one; a 
 king or
-741425	son; young animal one; a 
+741425	one; a  son; young animal
 741427	one; a 
 day; sun. from, with:
 or
@@ -29845,17 +29846,17 @@ also, even; connective particle .
 741450	in; concerning; compared with; by (oath). mountain; region of mountains
 from, with:
 741454	in; concerning; compared with; by (oath). mountain; region of mountains
-one; a  day; sun.
+day; sun. one; a 
 day; sun.
 two
-741459	in, at, on, with, by means of. negative copula
+741459	negative copula in, at, on, with, by means of.
 one; a  almost, about to; connective particle .
 741462	two
 angel
 741466	tent
 king
 now
-angel default demonstrative 
+default demonstrative  angel
 741472	or
 741474	or
 741478	or
@@ -29866,12 +29867,12 @@ presentative particle; but; otherwise .
 existential particle 
 like, as; when.
 also, even; connective particle .
-beautiful, pleasant and
+and beautiful, pleasant
 clever
 741491	West
 741495	master, owner
 speaker deixis demonstrative 
-741499	which? or
+741499	or which?
 741502	speaker deixis demonstrative 
 741505	speaker deixis demonstrative 
 741509	woman; wife
@@ -29907,14 +29908,14 @@ in; concerning; compared with; by (oath). tent
 741568	speaker deixis demonstrative 
 wretched, poor
 much, a lot, many; very .
-741572	which? and
-741574	always; again; still; as soon as; directly; just, only; the same; surely . day; sun.
+741572	and which?
+741574	day; sun. always; again; still; as soon as; directly; just, only; the same; surely .
 741578	king
 741582	cloth
 741584	also, even; connective particle . one; a 
 more, most; (not) at all  side, direction
 741588	king
-741591	every; all, all of . to, for, upon, at, by: Admominal uses
+741591	to, for, upon, at, by: Admominal uses every; all, all of .
 default demonstrative 
 741595	interjection opening speech turns
 741597	enough! stop!
@@ -29923,11 +29924,11 @@ enough! stop!
 I
 741605	I
 741610	house; home; verse (of poetry/song)
-741617	thing one; a 
+741617	one; a  thing
 741621	until, up to; before; until when.
 and
 thus, like this, so, such
-741625	in; concerning; compared with; by (oath). time; point in time; period of time
+741625	time; point in time; period of time in; concerning; compared with; by (oath).
 741628	perhaps
 in; concerning; compared with; by (oath).
 dream
@@ -29971,17 +29972,17 @@ and
 741704	and man, person; family relative
 and
 in, at, on, with, by means of.
-741708	village from, with:
-village to, for, upon, at, by: Admominal uses
-from, with: town
-to, for, upon, at, by: Admominal uses town
+741708	from, with: village
+to, for, upon, at, by: Admominal uses village
+town from, with:
+town to, for, upon, at, by: Admominal uses
 741713	where? how?
 in, at, on, with, by means of.
 default demonstrative 
 741718	king
 house; home; verse (of poetry/song) from, with:
-default demonstrative  day; sun.
-741724	default demonstrative  day; sun.
+day; sun. default demonstrative 
+741724	day; sun. default demonstrative 
 741728	speaker deixis demonstrative 
 side, direction
 and
@@ -29991,23 +29992,23 @@ and
 and
 end; summary
 God 
-741738	in; concerning; compared with; by (oath). town
+741738	town in; concerning; compared with; by (oath).
 741740	default demonstrative  girl; daughter
 king
 741743	man, person; family relative
 741747	king
 each, every; whoever  one; a 
-741750	thing one; a 
+741750	one; a  thing
 each, every; whoever  one; a 
 master, owner
-thing one; a 
-also, even; connective particle . speaker deixis demonstrative 
+one; a  thing
+speaker deixis demonstrative  also, even; connective particle .
 741758	story; affair
 741760	king
 741766	speaker deixis demonstrative 
 side, direction
 741769	master, owner
-741771	one; a  king
+741771	king one; a 
 741773	where? how?
 and
 and
@@ -30017,7 +30018,7 @@ also, even; connective particle . one; a
 negative copula
 741785	who?; which? .
 741787	man, person; family relative
-741795	old woman; grandmother one; a 
+741795	one; a  old woman; grandmother
 741797	magic
 which?
 741800	and
@@ -30035,15 +30036,15 @@ in; concerning; compared with; by (oath). tent
 story; affair
 741835	in, at, on, with, by means of. love
 741839	one; a 
-741841	one; a  and king
+741841	king and one; a 
 and
 two
 morning
 741847	in; concerning; compared with; by (oath).
 741849	day; sun. from, with:
-741854	thing one; a 
+741854	one; a  thing
 741856	first
-one; a  small bag
+small bag one; a 
 gold; gold coin
 741860	which?
 741863	job, profession, business; affair, thing
@@ -30057,7 +30058,7 @@ each, every; whoever
 741880	speaker deixis demonstrative 
 apple; apple tree
 741883	handkerchief; scarf
-or apple; apple tree
+apple; apple tree or
 741890	and apple; apple tree
 741892	in; concerning; compared with; by (oath).
 741894	in, at, on, with, by means of.
@@ -30068,7 +30069,7 @@ handkerchief; scarf
 741902	unless, only if, except, but, particle of insistence; or not .
 741904	and what; why?; how could it be? how (exclamatory).
 741907	when.
-741909	one; a  small bag
+741909	small bag one; a 
 like, as
 741913	how? how could it be? like, just as; when
 respect; good will; favour
@@ -30077,7 +30078,7 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 always; again; still; as soon as; directly; just, only; the same; surely .
 741924	in; concerning; compared with; by (oath).
 room
-741927	which? distance; distant. from, with:
+741927	distance; distant. from, with: which?
 741930	default demonstrative  handkerchief; scarf
 thus, like this, so, such
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. eye; aperture; spring of water.
@@ -30092,8 +30093,8 @@ thus, like this, so, such
 like, as; when.
 741947	a little (quantity); a few 
 more, most; (not) at all 
-741950	existential particle  thing one; a 
-story; affair in; concerning; compared with; by (oath).
+741950	existential particle  one; a  thing
+in; concerning; compared with; by (oath). story; affair
 and
 old woman; grandmother
 741961	presentative particle
@@ -30101,10 +30102,10 @@ old woman; grandmother
 speaker deixis demonstrative 
 741967	handkerchief; scarf
 741970	apple; apple tree
-741972	default demonstrative  apple; apple tree
+741972	apple; apple tree default demonstrative 
 741974	presentative particle; but; otherwise .
 ring
-741978	also, even; connective particle . speaker deixis demonstrative 
+741978	speaker deixis demonstrative  also, even; connective particle .
 741980	measure
 master, owner
 741983	who?; which? .
@@ -30135,7 +30136,7 @@ to, for.
 742046	king
 king
 742050	also, even; connective particle .
-742052	one; a  small bag
+742052	small bag one; a 
 to, for; so that.
 742055	to, for; so that.
 always; again; still; as soon as; directly; just, only; the same; surely .
@@ -30156,7 +30157,7 @@ you
 742099	king
 742101	I
 742105	existential particle 
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 742108	speaker deixis demonstrative 
 side, direction
 742113	default demonstrative 
@@ -30175,8 +30176,8 @@ from, with:
 we
 742139	we
 742147	and
-742149	and drum.
-pipe and
+742149	drum. and
+and pipe
 clamour, commotion
 and
 and
@@ -30193,7 +30194,7 @@ like, as; when.
 and
 742176	and
 742178	reciprocal pronoun 
-and I
+I and
 742182	God  and
 preverbal particle
 742186	here
@@ -30205,17 +30206,17 @@ God
 742201	also, even; connective particle .
 if ; either/or ; interrogative particle. side, direction
 742206	and
-742208	girl; daughter and
-742210	and much, a lot, many; very .
+742208	and girl; daughter
+742210	much, a lot, many; very . and
 camel like, as
 742216	like, as
 742219	father; term of endearment.
 742222	and
 and
-and town
+town and
 742227	now
-742229	one; a  day; sun.
-two day; sun.
+742229	day; sun. one; a 
+day; sun. two
 three
 742236	presentative particle; but; otherwise .
 742238	every; all, all of .
@@ -30246,16 +30247,16 @@ custom
 I
 742290	which?
 742292	or
-742295	one; a  from, with: cultivator
+742295	cultivator one; a  from, with:
 742299	speaker deixis demonstrative 
 town
 thus, like this, so, such
 or
 negative copula
 742308	what; why?; how could it be? how (exclamatory).
-742310	story; affair one; a 
+742310	one; a  story; affair
 much, a lot, many; very .
-742314	one; a  king
+742314	king one; a 
 thus; like that; the same; so much.
 good man, person; family relative
 thus; like that; the same; so much.
@@ -30264,14 +30265,14 @@ man, person; family relative
 742321	speaker deixis demonstrative 
 king
 742325	from, with:
-742330	girl; daughter one; a 
+742330	one; a  girl; daughter
 742333	default demonstrative 
-742339	also, even; connective particle . and we
+742339	we also, even; connective particle . and
 742342	from, with:
 742344	king
 and
 742347	every; all, all of .
-blue/green colour to, for, upon, at, by: Admominal uses and
+blue/green colour and to, for, upon, at, by: Admominal uses
 to, for, upon, at, by: Admominal uses black
 from, with:
 742352	default demonstrative  and almost, about to; connective particle .
@@ -30284,9 +30285,9 @@ so-and-so; such-and-such
 742375	side, direction
 sadness; suffering in, at, on, with, by means of.
 and
-742380	in, at, on, with, by means of. and drum.
-pipe and
-gun, rifle and
+742380	drum. in, at, on, with, by means of. and
+and pipe
+and gun, rifle
 742384	official
 side, direction
 speaker deixis demonstrative 
@@ -30305,11 +30306,11 @@ black
 742408	now
 742410	word
 to, for.
-always; again; still; as soon as; directly; just, only; the same; surely . in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of. always; again; still; as soon as; directly; just, only; the same; surely .
 every; all, all of .
 town
 742418	white
-first like, as
+like, as first
 and
 morning
 stroke (of a stick, whip)
@@ -30317,7 +30318,7 @@ stroke (of a stick, whip)
 other, another; more; again; discourse particle.
 like, as; when.
 742429	king
-in, at, on, with, by means of. and
+and in, at, on, with, by means of.
 speaker deixis demonstrative 
 742436	thus, like this, so, such
 742438	fiancé, betrothed
@@ -30325,18 +30326,18 @@ speaker deixis demonstrative
 742444	yesterday; tomorrow
 speaker deixis demonstrative 
 town
-black intensifying particle 
+intensifying particle  black
 742449	today
 742451	white
 742454	which?
 742456	tired
 thus; like that; the same; so much.
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
-742460	always; again; still; as soon as; directly; just, only; the same; surely . white
+742460	white always; again; still; as soon as; directly; just, only; the same; surely .
 742463	which?
 742465	master, owner
 742470	negative copula
-742473	also, even; connective particle . I
+742473	I also, even; connective particle .
 which?
 perhaps
 742478	side, direction
@@ -30347,10 +30348,10 @@ bridegroom; son-in-law; father-in-law; husband of a relative (e.g. husband of pa
 other, another; more; again; discourse particle.
 742488	in; concerning; compared with; by (oath). floor, storey
 three
-in; concerning; compared with; by (oath). room
+room in; concerning; compared with; by (oath).
 742494	servant
-to, for, upon, at, by: Admominal uses side
-to, for, upon, at, by: Admominal uses and
+side to, for, upon, at, by: Admominal uses
+and to, for, upon, at, by: Admominal uses
 or
 742504	to, for, upon, at, by: Admominal uses
 and
@@ -30369,7 +30370,7 @@ king
 what; why?; how could it be? how (exclamatory).
 speaker deixis demonstrative 
 woman; wife which?
-742536	which? one; a  day; sun.
+742536	day; sun. one; a  which?
 always; again; still; as soon as; directly; just, only; the same; surely .
 742539	dead
 742548	which?
@@ -30377,7 +30378,7 @@ here
 in, at, on, with, by means of.
 742553	queen
 in, at, on, with, by means of.
-when. I
+I when.
 742557	and
 742559	to, for, upon, at, by: Admominal uses
 father; term of endearment.
@@ -30390,10 +30391,10 @@ and
 742574	or
 742589	some, a few, a little (quantity) 
 word
-742598	default demonstrative  day; sun.
+742598	day; sun. default demonstrative 
 742600	I
 742604	to, for; so that.
-default demonstrative  day; sun.
+day; sun. default demonstrative 
 742608	which?
 how? how could it be? like, just as; when
 742618	speaker deixis demonstrative 
@@ -30418,7 +30419,7 @@ finally; afterwards, then; recently
 742655	side, direction
 742657	I
 742661	room one; a 
-upon grave
+grave upon
 742664	every; all, all of .
 742666	in, at, on, with, by means of. life
 742668	until, up to; before; until when.
@@ -30436,9 +30437,9 @@ upon
 and
 day; sun. one; a  and
 two
-one; a  and month
+and one; a  month
 breath; time, instance; yes. one; a 
-angel default demonstrative  two
+default demonstrative  angel two
 742704	in, at, on, with, by means of. reciprocal pronoun 
 742707	there
 there
@@ -30448,10 +30449,10 @@ what; why?; how could it be? how (exclamatory).
 742714	other, another; more; again; discourse particle. default demonstrative 
 742716	side, direction
 what; why?; how could it be? how (exclamatory).
-742720	default demonstrative  one; a  two
+742720	one; a  default demonstrative  two
 742722	reciprocal pronoun 
 yes
-742725	finally and
+742725	and finally
 fiancé, betrothed
 742728	preverbal particle
 which?
@@ -30481,7 +30482,7 @@ always; again; still; as soon as; directly; just, only; the same; surely . here
 742783	peace; greeting
 peace; greeting
 in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 742789	here
 from, with:
 742795	we
@@ -30499,7 +30500,7 @@ side, direction
 sixty
 hundred two
 here
-742824	thing one; a 
+742824	one; a  thing
 742828	sixty
 742832	here
 742839	you
@@ -30538,18 +30539,18 @@ each, every; whoever  morning
 servant girl
 girl; daughter
 742896	tea
-breakfast and
+and breakfast
 and
 speaker deixis demonstrative 
 what? 
 happy; festive
 in, at, on, with, by means of. reciprocal pronoun 
-and asleep
+asleep and
 742906	reciprocal pronoun 
 speaker deixis demonstrative 
 742912	thus, like this, so, such
 presentative particle; but; otherwise .
-742915	prince one; a 
+742915	one; a  prince
 asleep
 742920	speaker deixis demonstrative 
 from, with:
@@ -30562,7 +30563,7 @@ upon
 742930	each, every; whoever 
 one; a 
 742938	order, command
-to, for. king
+king to, for.
 742942	story; affair
 742944	king
 742947	man, person; family relative
@@ -30571,7 +30572,7 @@ there
 to, for; so that.
 742953	each, every; whoever 
 one; a 
-742956	giant one; a 
+742956	one; a  giant
 from, with:
 to, for, upon, at, by: Admominal uses
 asleep
@@ -30606,7 +30607,7 @@ stroke (of a stick, whip)
 743027	in; concerning; compared with; by (oath).
 house; home; verse (of poetry/song)
 or
-which? and
+and which?
 743033	and
 743035	from, with: there
 distance; distant.
@@ -30621,29 +30622,29 @@ and
 743056	one; a 
 joy
 in; concerning; compared with; by (oath). world; crowd of people
-thing one; a 
+one; a  thing
 amazing
 743062	thus; like that; the same; so much.
 joyful, happy
-743066	in, at, on, with, by means of. and drum.
+743066	drum. in, at, on, with, by means of. and
 pipe
 743069	gun, rifle
 thus; like that; the same; so much. and
 743072	wedding
-day; sun. seven
-and seven
+seven day; sun.
+seven and
 wedding
 preverbal particle
 thus; like that; the same; so much.
 from, with:
 God 
 preverbal particle
-son; young animal one; a 
+one; a  son; young animal
 when.
 default demonstrative 
 743085	default demonstrative 
 743087	preverbal particle
-son; young animal one; a 
+one; a  son; young animal
 small
 now
 default demonstrative 
@@ -30651,7 +30652,7 @@ default demonstrative
 743097	to, for, upon, at, by: Admominal uses
 743099	and man; married man, husband; gentleman, courtier; valiant man
 sitting; inhabited
-to, for, upon, at, by: Admominal uses side
+side to, for, upon, at, by: Admominal uses
 child default demonstrative 
 small
 743106	half; middle. household of; family of
@@ -30661,16 +30662,16 @@ which?
 to, for.
 743118	also, even; connective particle .
 743122	angel
-743125	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed to, for, upon, at, by: Admominal uses
-743128	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed to, for, upon, at, by: Admominal uses
+743125	to, for, upon, at, by: Admominal uses small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
+743128	to, for, upon, at, by: Admominal uses small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 743132	time; point in time; period of time
 743135	child default demonstrative 
 743139	thus; like that; the same; so much. and
-743141	default demonstrative  one; a 
+743141	one; a  default demonstrative 
 743146	some, a few, a little (quantity) 
-from, with: soot
+soot from, with:
 743149	in; concerning; compared with; by (oath).
-angel one; a  from, with:
+one; a  from, with: angel
 and
 achoo! (noise of sneeze)
 743154	child default demonstrative 
@@ -30678,7 +30679,7 @@ small
 743157	mercy, compassion (sing. raxma act of mercy) in, at, on, with, by means of.
 like, as; when.
 lord, prince
-small default demonstrative 
+default demonstrative  small
 mercy, compassion (sing. raxma act of mercy) in, at, on, with, by means of.
 743163	mercy, compassion (sing. raxma act of mercy) in, at, on, with, by means of.
 to, for, upon, at, by: Admominal uses
@@ -30689,10 +30690,10 @@ each, every; whoever  one; a
 743176	there
 and
 here
-743180	one; a  king
+743180	king one; a 
 743182	four
 son; young animal
-default demonstrative  four
+four default demonstrative 
 son; young animal
 new one; a 
 743188	new one; a 
@@ -30700,12 +30701,12 @@ new one; a
 743192	new one; a 
 743194	preverbal particle
 new
-743197	default demonstrative  new
+743197	new default demonstrative 
 743199	small
 in; concerning; compared with; by (oath). cradle
 743205	and
-village in; concerning; compared with; by (oath).
-743208	son; young animal one; a 
+in; concerning; compared with; by (oath). village
+743208	one; a  son; young animal
 743211	also, even; connective particle . one; a 
 743217	king to, for; so that.
 king
@@ -30719,18 +30720,18 @@ asleep
 how? how could it be? like, just as; when
 thus, like this, so, such
 side
-default demonstrative  thing
+thing default demonstrative 
 743238	turn; guard duty
 743241	turn; guard duty
 to, for, upon, at, by: Admominal uses
 corner
 beyond; onwards
 speaker deixis demonstrative 
-in; concerning; compared with; by (oath). corner
+corner in; concerning; compared with; by (oath).
 743248	also, even; connective particle . day; sun.
 743250	day; sun.
 743253	thus; like that; the same; so much.
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 743265	child one; a 
 other, another; more; again; discourse particle.
 and
@@ -30742,7 +30743,7 @@ thus; like that; the same; so much.
 743276	three
 743278	four
 brother
-743281	small default demonstrative 
+743281	default demonstrative  small
 743283	default demonstrative 
 every; all, all of .
 743286	unless, only if, except, but, particle of insistence; or not .
@@ -30761,9 +30762,9 @@ negative copula or
 other, another; more; again; discourse particle.
 743315	hour
 three
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 743321	and
-743323	son; young animal one; a 
+743323	one; a  son; young animal
 other, another; more; again; discourse particle.
 and
 743330	in; concerning; compared with; by (oath). cradle
@@ -30776,12 +30777,12 @@ side, direction
 743343	speaker deixis demonstrative 
 side, direction
 743347	also, even; connective particle .
-default demonstrative  negative copula
+negative copula default demonstrative 
 743352	yesterday; tomorrow
 743355	morning
 743358	man, person; family relative
 743363	word one; a 
-743365	you if ; either/or ; interrogative particle.
+743365	if ; either/or ; interrogative particle. you
 743368	I
 743371	side, direction
 743373	thus, like this, so, such
@@ -30790,8 +30791,8 @@ father; term of endearment.
 obliged; forced
 to, for; so that.
 I
-743382	thing one; a 
-who?; which? . before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+743382	one; a  thing
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. who?; which? .
 743386	side, direction
 we
 743389	king
@@ -30805,7 +30806,7 @@ thing
 743411	master, owner
 743414	in, at, on, with, by means of.
 743426	and
-again and
+and again
 preverbal particle
 743435	day; sun.
 man, person; family relative
@@ -30817,7 +30818,7 @@ thus, like this, so, such
 I
 743452	side, direction
 743459	and
-in; concerning; compared with; by (oath). town
+town in; concerning; compared with; by (oath).
 743463	and
 town
 743467	every; all, all of .
@@ -30827,37 +30828,37 @@ every; all, all of .
 child
 small
 preverbal particle
-743480	one; a  negative copula
+743480	negative copula one; a 
 743482	father; term of endearment.
-one; a  negative copula
+negative copula one; a 
 743485	mother
 also, even; connective particle . one; a 
 side, direction
 every; all, all of .
 preverbal particle
-son; young animal default demonstrative 
-743493	one; a  town
-743496	one; a  town
-village one; a 
+default demonstrative  son; young animal
+743493	town one; a 
+743496	town one; a 
+one; a  village
 743499	much, a lot, many; very .
 743502	to, for, upon, at, by: Admominal uses
 743508	four
 five
 six
 743512	side, direction
-743520	who?; which? . before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+743520	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. who?; which? .
 743523	how? how could it be? like, just as; when
 743526	what; why?; how could it be? how (exclamatory).
-743528	default demonstrative  man, person; family relative
+743528	man, person; family relative default demonstrative 
 743531	horse
 743533	or
 and
 743536	from, with: reciprocal pronoun 
-743538	son; young animal two
-girl; daughter one; a  and
+743538	two son; young animal
+and one; a  girl; daughter
 743541	to, for.
 743543	I
-vocative particle woman; wife
+woman; wife vocative particle
 speaker deixis demonstrative 
 743550	lion
 speaker deixis demonstrative  if ; either/or ; interrogative particle.
@@ -30865,9 +30866,9 @@ speaker deixis demonstrative  if ; either/or ; interrogative particle.
 743558	lion
 743560	I
 in; concerning; compared with; by (oath).
-you and
+and you
 743564	man; married man, husband; gentleman, courtier; valiant man
-also, even; connective particle . I
+I also, even; connective particle .
 743567	seed; stone in a fruit two
 also, even; connective particle . which?
 743570	speaker deixis demonstrative 
@@ -30880,20 +30881,20 @@ to, for, upon, at, by: Admominal uses
 743584	two
 743586	above; directly
 743589	perhaps
-woolen trousers; suit of clothes; type of fabric made from wool if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. woolen trousers; suit of clothes; type of fabric made from wool
 until, up to; before; until when. default demonstrative 
 lion
 743594	reciprocal pronoun 
 743598	ripe
-one; a  day; sun.
-two day; sun.
+day; sun. one; a 
+day; sun. two
 743603	to, for, upon, at, by: Admominal uses
 743607	mind
-village in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). village
 cock side, direction
 and chicken side, direction
 man, person; family relative side, direction
-woman; wife and side, direction
+and woman; wife side, direction
 voice; utterance; song; sound. side, direction
 child and side, direction
 small
@@ -30910,20 +30911,20 @@ smell
 743632	perhaps
 one; a 
 743636	one; a 
-always; again; still; as soon as; directly; just, only; the same; surely . new
+new always; again; still; as soon as; directly; just, only; the same; surely .
 743639	always; again; still; as soon as; directly; just, only; the same; surely .
 743641	to, for, upon, at, by: Admominal uses
 743645	or
-743649	trousers one; a 
+743649	one; a  trousers
 743651	cloth
 743655	ash
 743659	side
-thing one; a 
+one; a  thing
 to, for; so that.
-743663	solution; cure one; a 
+743663	one; a  solution; cure
 if ; either/or ; interrogative particle.
 743666	to, for; so that.
-solution; cure one; a 
+one; a  solution; cure
 to, for; so that.
 743675	to, for, upon, at, by: Admominal uses
 presentative particle; but; otherwise .
@@ -30932,15 +30933,15 @@ yes
 743680	in, at, on, with, by means of. peace
 from, with:
 743683	how? how could it?
-743685	and how? how could it?
+743685	how? how could it? and
 743691	which?
 time; point in time; period of time default demonstrative 
-743695	and I
+743695	I and
 743697	lion
 743703	time; point in time; period of time default demonstrative 
-in; concerning; compared with; by (oath). basement stable
+basement stable in; concerning; compared with; by (oath).
 or
-743707	in; concerning; compared with; by (oath). sheep-fold, animal pen
+743707	sheep-fold, animal pen in; concerning; compared with; by (oath).
 743709	leg; foot
 horse
 743716	how? how could it be? like, just as; when
@@ -30950,7 +30951,7 @@ leg; foot
 leg; foot
 limping
 limping
-here until, up to; before; until when.
+until, up to; before; until when. here
 743730	to, for, upon, at, by: Admominal uses
 743734	a little (quantity); a few 
 other, another; more; again; discourse particle.
@@ -30963,7 +30964,7 @@ leg; foot
 743750	always; again; still; as soon as; directly; just, only; the same; surely .
 from, with: there
 to, for, upon, at, by: Admominal uses
-two in, at, on, with, by means of.
+in, at, on, with, by means of. two
 leg; foot
 743756	to, for, upon, at, by: Admominal uses
 743758	also, even; connective particle . one; a 
@@ -30971,15 +30972,15 @@ leg; foot
 four
 743763	insignificant; useless
 743765	which?
-or torso (of an animal)
+torso (of an animal) or
 743774	thing
 under leg; foot
-743777	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed one; a 
+743777	one; a  small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 743780	default demonstrative 
 743782	in, at, on, with, by means of.
 which?
 still; (not) yet; (no) longer .
-in; concerning; compared with; by (oath). basement stable
+basement stable in; concerning; compared with; by (oath).
 or
 743788	and or
 full
@@ -30990,7 +30991,7 @@ in; concerning; compared with; by (oath). eye; aperture; spring of water.
 to, for; so that.
 743802	one; a  leg; foot
 743804	ash
-743807	in; concerning; compared with; by (oath). face; front; upper surface; side (of river).
+743807	face; front; upper surface; side (of river). in; concerning; compared with; by (oath).
 743809	or
 four
 five
@@ -31022,7 +31023,7 @@ presentative particle; but; otherwise .
 changed in colour, faint
 743855	blind
 I
-743860	in; concerning; compared with; by (oath). sheep-fold, animal pen
+743860	sheep-fold, animal pen in; concerning; compared with; by (oath).
 743862	lion
 743869	lion
 743872	still; (not) yet; (no) longer .
@@ -31033,7 +31034,7 @@ almost, about to; connective particle .
 743880	seed; stone in a fruit
 743882	seed; stone in a fruit
 743884	friend two
-743886	still; (not) yet; (no) longer . one; a  tall willow tree
+743886	tall willow tree one; a  still; (not) yet; (no) longer .
 ripe
 lion
 743893	also, even; connective particle .
@@ -31049,7 +31050,7 @@ story
 743907	man, person; family relative
 we
 how? how could it be? like, just as; when
-also, even; connective particle . we
+we also, even; connective particle .
 743912	default demonstrative  piece
 small
 743915	always; again; still; as soon as; directly; just, only; the same; surely .
@@ -31071,7 +31072,7 @@ default demonstrative  piece
 743948	sparrow
 743951	and
 743954	worm
-like, as; when. small snake
+small snake like, as; when.
 743957	heart; kernel of fruit or berry
 743960	thus, like this, so, such
 presentative particle; but; otherwise .
@@ -31102,7 +31103,7 @@ much, a lot, many; very .
 744016	presentative particle; but; otherwise .
 744018	and
 much, a lot, many; very .
-744023	thing from, with:
+744023	from, with: thing
 744025	one; a 
 744027	in, at, on, with, by means of.
 744031	presentative particle; but; otherwise .
@@ -31112,16 +31113,16 @@ strong, mighty, huge
 744036	breath; time, instance; yes. one; a 
 lion
 744041	speaker deixis demonstrative 
-744043	lion to, for.
+744043	to, for. lion
 presentative particle; but; otherwise .
 lion
 744048	preverbal particle
 king
-744054	default demonstrative  man, person; family relative
+744054	man, person; family relative default demonstrative 
 744057	lion
 744063	how? how could it be? like, just as; when
 744065	you
-lion or
+or lion
 744068	from, with:
 always; again; still; as soon as; directly; just, only; the same; surely . side, direction
 744071	if ; either/or ; interrogative particle.
@@ -31141,20 +31142,20 @@ king
 744102	gold; gold coin
 744107	king from, with:
 744109	king
-one; a  day; sun.
+day; sun. one; a 
 744112	hunt
-744114	place, space. one; a 
+744114	one; a  place, space.
 king
-744117	also, even; connective particle . speaker deixis demonstrative 
-744119	pipe (musical instrument) in, at, on, with, by means of.
+744117	speaker deixis demonstrative  also, even; connective particle .
+744119	in, at, on, with, by means of. pipe (musical instrument)
 744123	upon
 yoghurt
-744126	fly one; a 
+744126	one; a  fly
 from, with:
 king
 above; directly
 pipe (musical instrument)
-744132	upon yoghurt
+744132	yoghurt upon
 744135	in; concerning; compared with; by (oath). one; a 
 stone
 speaker deixis demonstrative 
@@ -31178,12 +31179,12 @@ what?
 king
 744172	pleasant, beautiful; delicious; healthy; sharp.
 744174	what? 
-744177	one; a  dream
+744177	dream one; a 
 much, a lot, many; very .
 frightening
 744181	what; why?; how could it be? how (exclamatory).
 dream
-how? how could it be? like, just as; when and
+and how? how could it be? like, just as; when
 744186	in, at, on, with, by means of.
 thin cane, reed
 above; directly
@@ -31200,7 +31201,7 @@ thin cane, reed
 presentative particle; but; otherwise .
 much, a lot, many; very .
 744205	side, direction
-in; concerning; compared with; by (oath). sea; lake
+sea; lake in; concerning; compared with; by (oath).
 from, with: there
 744210	cave in; concerning; compared with; by (oath). one; a 
 one; a  mountain; region of mountains
@@ -31209,7 +31210,7 @@ master, owner
 gold; gold coin
 744220	world, weather. (K./A.)
 744222	there
-master, owner and
+and master, owner
 one; a  almost, about to; connective particle .
 744228	above; directly
 744230	beam
@@ -31221,11 +31222,11 @@ thus; like that; the same; so much. and
 and
 now
 or
-or dream
+dream or
 to, for; so that.
 744246	speaker deixis demonstrative 
 744248	in, at, on, with, by means of.
-always; again; still; as soon as; directly; just, only; the same; surely . thing one; a 
+always; again; still; as soon as; directly; just, only; the same; surely . one; a  thing
 existential particle 
 in, at, on, with, by means of.
 place, space.
@@ -31243,9 +31244,9 @@ where? how?
 place, space.
 744282	and
 and
-744286	place, space. default demonstrative 
+744286	default demonstrative  place, space.
 sign, symbol, symbolic act, token
-place, space. default demonstrative 
+default demonstrative  place, space.
 744290	default demonstrative  fly
 744292	there
 and
@@ -31268,9 +31269,9 @@ always; again; still; as soon as; directly; just, only; the same; surely . one; 
 744328	one; a 
 ox
 744331	house; home; verse (of poetry/song) one; a 
-also, even; connective particle . I
+I also, even; connective particle .
 744335	speaker deixis demonstrative 
-744339	place, space. in, at, on, with, by means of.
+744339	in, at, on, with, by means of. place, space.
 744342	one; a 
 ox
 much, a lot, many; very .
@@ -31284,28 +31285,28 @@ thus; like that; the same; so much.
 744361	needle
 744363	thus; like that; the same; so much.
 744367	money
-744369	place, space. default demonstrative 
+744369	default demonstrative  place, space.
 every; all, all of .
 744373	ox
 negative copula
 string; thread
 small
 how many/much? some, several; so much/many; however much, as much as; when; as for 
-744380	place, space. default demonstrative 
+744380	default demonstrative  place, space.
 744388	there
 744390	gold; gold coin
 744393	builder
 744397	also, even; connective particle .
 744399	default demonstrative  wall
 744401	wall
-and arm, cubit
+arm, cubit and
 744405	also, even; connective particle . if ; either/or ; interrogative particle.
 744407	artillery
 side, direction
 wall
 744414	and
 water
-mountain; region of mountains from, with:
+from, with: mountain; region of mountains
 744418	below. xoθa xoθa prep. under
 soil, ground; land
 744421	in; concerning; compared with; by (oath).
@@ -31323,7 +31324,7 @@ from, with:
 744439	every; all, all of .
 744442	side, direction
 744445	you
-744447	man; married man, husband; gentleman, courtier; valiant man good
+744447	good man; married man, husband; gentleman, courtier; valiant man
 744449	army
 744452	man, person; family relative
 744454	king
@@ -31346,23 +31347,23 @@ finally; afterwards, then; recently
 744486	fighting; war
 army
 744490	and or
-one; a  fighting; war
+fighting; war one; a 
 much, a lot, many; very .
 strong, mighty, huge
-not any  in, at, on, with, by means of. road; way.
+in, at, on, with, by means of. not any  road; way.
 744497	king
 744501	what? 
 744503	water
 744505	army
 744507	maternal aunt
 744509	money
-744511	every; all, all of . thing one; a 
+744511	every; all, all of . one; a  thing
 744513	presentative particle; but; otherwise .
 girl; daughter
 744521	king
-744524	one; a  book; letter
+744524	book; letter one; a 
 744526	about, concerning; on account of; in, by. messenger; goal, objective
-744528	not any  in, at, on, with, by means of. road; way.
+744528	in, at, on, with, by means of. not any  road; way.
 default demonstrative 
 744532	unless, only if, except, but, particle of insistence; or not .
 744536	and
@@ -31372,9 +31373,9 @@ book; letter
 from, with:
 744544	what? 
 king
-744547	default demonstrative  book; letter
+744547	book; letter default demonstrative 
 744549	good, well.
-744553	default demonstrative  water
+744553	water default demonstrative 
 744555	from, with:
 water
 744558	from, with:
@@ -31399,36 +31400,36 @@ until, up to; before; until when. one; a  almost, about to; connective particle 
 mother
 744599	in; concerning; compared with; by (oath).
 palace; large house (consisting of two storeys and made of dressed stones)
-pipe one; a 
+one; a  pipe
 from, with:
 to, for, upon, at, by: Admominal uses
 ember of burning wood one; a 
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 744608	what; why?; how could it be? how (exclamatory).
 dog
 744611	you
-default demonstrative  fighting; war
+fighting; war default demonstrative 
 speaker deixis demonstrative 
 blood
-744616	default demonstrative  goodness; favour
+744616	goodness; favour default demonstrative 
 I
 744620	speaker deixis demonstrative 
 negative copula
 dog
 744624	dog
 speaker deixis demonstrative 
-744627	to, for. king
-default demonstrative  ember of burning wood
+744627	king to, for.
+ember of burning wood default demonstrative 
 pipe upon
 744631	thus, like this, so, such
 744633	default demonstrative  almost, about to; connective particle .
-place, space. in, at, on, with, by means of.
+in, at, on, with, by means of. place, space.
 below. xoθa xoθa prep. under
 744640	and
 every; all, all of .
 man, person; family relative
 744644	I
-744646	story one; a 
+744646	one; a  story
 744649	and
 name
 744655	and
@@ -31444,12 +31445,12 @@ no, none  man, person; family relative
 about, concerning
 one; a 
 king
-744674	son; young animal one; a 
+744674	one; a  son; young animal
 or
 king
 much, a lot, many; very .
 744679	or
-744681	of course and
+744681	and of course
 king
 744686	footprint; place
 744688	when.
@@ -31459,24 +31460,24 @@ king
 son; young animal
 744697	footprint; place
 744700	default demonstrative  almost, about to; connective particle .
-one; a  day; sun.
+day; sun. one; a 
 king
 asleep
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 asleep
 744707	and
-in, at, on, with, by means of. dream
+dream in, at, on, with, by means of.
 744710	existential particle 
 one; a  man, person; family relative
 in; concerning; compared with; by (oath).
 town
 more, most; (not) at all 
-every; all, all of . from, with:
+from, with: every; all, all of .
 man, person; family relative
 much, a lot, many; very .
 744719	speaker deixis demonstrative  man, person; family relative
 king
-744722	in, at, on, with, by means of. dream
+744722	dream in, at, on, with, by means of.
 744725	speaker deixis demonstrative 
 man, person; family relative
 744729	one; a 
@@ -31485,19 +31486,19 @@ or
 744733	king
 744738	king
 and
-744741	sleep from, with:
+744741	from, with: sleep
 king
 much, a lot, many; very .
 744745	much, a lot, many; very .
 744747	and
-or man, person; family relative
+man, person; family relative or
 744752	much, a lot, many; very .
 every; all, all of .
 man, person; family relative
 744756	king
-744758	default demonstrative  man, person; family relative
-744760	default demonstrative  man, person; family relative
-744762	default demonstrative  man, person; family relative
+744758	man, person; family relative default demonstrative 
+744760	man, person; family relative default demonstrative 
+744762	man, person; family relative default demonstrative 
 thus, like this, so, such
 wretched, poor
 how? how could it be? like, just as; when
@@ -31544,9 +31545,9 @@ king and
 woman; wife
 744852	twin
 child two
-son; young animal one; a 
-girl; daughter one; a 
-default demonstrative  and
+one; a  son; young animal
+one; a  girl; daughter
+and default demonstrative 
 child two
 from, with:
 day; sun. from, with:
@@ -31554,13 +31555,13 @@ day; sun. from, with:
 thus, like this, so, such good, well.
 thus, like this, so, such
 beautiful; pleasant
-sweet and
+and sweet
 and man, person; family relative
 744871	in; concerning; compared with; by (oath). story
 one; a 
 forelock; front of hair
 744878	gold; gold coin and
-one; a  silver
+silver one; a 
 thus, like this, so, such
 744882	king
 744884	in, at, on, with, by means of.
@@ -31572,23 +31573,23 @@ thus, like this, so, such
 good, fine, beautiful
 particle expressing necessity (deontic and epistemic)
 or
-744897	default demonstrative  thing one; a 
+744897	one; a  default demonstrative  thing
 744899	vision, revelation
 744901	negative copula
 dream
 much, a lot, many; very .
 744905	what; why?; how could it be? how (exclamatory).
 744909	I
-744912	speaker deixis demonstrative  child
+744912	child speaker deixis demonstrative 
 744916	speaker deixis demonstrative 
 child
 744920	speaker deixis demonstrative 
 every; all, all of .
 wealth
-744924	in, at, on, with, by means of. and
+744924	and in, at, on, with, by means of.
 744926	in, at, on, with, by means of.
 and
-744929	name and
+744929	and name
 744931	king
 how? how could it be? like, just as; when
 744934	speaker deixis demonstrative 
@@ -31597,9 +31598,9 @@ what; why?; how could it be? how (exclamatory).
 744939	to, for.
 police
 744943	to, for, upon, at, by: Admominal uses
-man, person; family relative so-and-so; such-and-such
+so-and-so; such-and-such man, person; family relative
 744946	to, for, upon, at, by: Admominal uses
-man, person; family relative so-and-so; such-and-such
+so-and-so; such-and-such man, person; family relative
 and
 child default demonstrative  two
 and
@@ -31607,7 +31608,7 @@ side, direction
 healthy, alive
 744954	speaker deixis demonstrative 
 744956	secret
-744958	thing one; a 
+744958	one; a  thing
 side, direction
 no, none  man, person; family relative
 744962	other, another; more; again; discourse particle.
@@ -31617,7 +31618,7 @@ what; why?; how could it be? how (exclamatory).
 what; why?; how could it be? how (exclamatory).
 744971	thus; like that; the same; so much.
 744974	police
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 preverbal particle
 default demonstrative  two
 child
@@ -31625,7 +31626,7 @@ from, with:
 and
 how many/much? some, several; so much/many; however much, as much as; when; as for 
 744983	and
-744985	in, at, on, with, by means of. and
+744985	and in, at, on, with, by means of.
 and
 how? how could it be? like, just as; when
 744990	how? how could it be? like, just as; when
@@ -31635,14 +31636,14 @@ what; why?; how could it be? how (exclamatory).
 744998	side, direction
 745000	police and
 preverbal particle
-father; term of endearment. and
+and father; term of endearment.
 mother
 and
 child default demonstrative  two
 745007	preverbal particle
 police
 child default demonstrative  two
-default demonstrative  police
+police default demonstrative 
 745013	in, at, on, with, by means of.
 master, owner
 how? how could it be? like, just as; when
@@ -31652,7 +31653,7 @@ thus, like this, so, such
 745021	child
 small
 just now, hardly
-745026	default demonstrative  king
+745026	king default demonstrative 
 what; why?; how could it be? how (exclamatory).
 745031	speaker deixis demonstrative 
 job, profession, business; affair, thing default demonstrative 
@@ -31681,7 +31682,7 @@ world, weather. (K./A.)
 police and
 745076	child default demonstrative 
 745078	preverbal particle
-in, at, on, with, by means of. box
+box in, at, on, with, by means of.
 preverbal particle
 a little (quantity); a few 
 food, a meal and
@@ -31689,15 +31690,15 @@ preverbal particle
 thus, like this, so, such
 side, direction
 preverbal particle and
-in; concerning; compared with; by (oath). water
+water in; concerning; compared with; by (oath).
 preverbal particle
-in; concerning; compared with; by (oath). water
+water in; concerning; compared with; by (oath).
 thus, like this, so, such
 745092	in, at, on, with, by means of. irrigation channel; groove; scar.
 745094	in, at, on, with, by means of. irrigation channel; groove; scar.
 and
 and
-745099	place, space. one; a 
+745099	one; a  place, space.
 irrigation channel; groove; scar.
 745102	bend
 745104	thus, like this, so, such
@@ -31711,10 +31712,10 @@ distance; distant.
 one; a  two
 745124	default demonstrative  almost, about to; connective particle .
 745126	there
-default demonstrative  day; sun.
+day; sun. default demonstrative 
 745129	day; sun.
 745132	king
-in, at, on, with, by means of. chance
+chance in, at, on, with, by means of.
 king
 or
 king
@@ -31722,7 +31723,7 @@ king
 745141	there
 in; concerning; compared with; by (oath). irrigation channel; groove; scar.
 presentative particle; but; otherwise .
-one; a  box
+box one; a 
 745148	in; concerning; compared with; by (oath).
 box
 745152	default demonstrative 
@@ -31765,10 +31766,10 @@ child two
 preverbal particle
 side, direction
 master, owner
-afraid and
+and afraid
 in; concerning; compared with; by (oath).
 box
-afraid and
+and afraid
 in; concerning; compared with; by (oath).
 irrigation channel; groove; scar.
 and
@@ -31824,13 +31825,13 @@ from, with:
 from, with:
 from, with:
 mind
-and I
+I and
 745342	each, every; whoever  day; sun.
 745352	speaker deixis demonstrative 
 745354	in, at, on, with, by means of.
 745356	speaker deixis demonstrative  and
 745362	in, at, on, with, by means of.
-from, with: dream
+dream from, with:
 745367	now
 side, direction
 much, a lot, many; very .
@@ -31840,14 +31841,14 @@ now
 speaker deixis demonstrative 
 745378	from, with:
 branch; strand (of wool)
-745381	branch; strand (of wool) to, for, upon, at, by: Admominal uses one; a 
+745381	to, for, upon, at, by: Admominal uses one; a  branch; strand (of wool)
 other, another; more; again; discourse particle.
 now
 745385	speaker deixis demonstrative 
-here until, up to; before; until when.
+until, up to; before; until when. here
 story
 745390	now
-745392	branch; strand (of wool) one; a 
+745392	one; a  branch; strand (of wool)
 other, another; more; again; discourse particle.
 745398	also; even; again.
 745400	in, at, on, with, by means of.
@@ -31866,9 +31867,9 @@ side, direction
 745423	how? how could it be? like, just as; when
 745425	thus, like this, so, such
 high
-to, for, upon, at, by: Admominal uses and
+and to, for, upon, at, by: Admominal uses
 745429	existential particle 
-countryside, unsown land one; a 
+one; a  countryside, unsown land
 plain; level ground
 much, a lot, many; very .
 big; great; old.
@@ -31883,7 +31884,7 @@ rich
 every; all, all of .
 745451	to, for.
 to, for.
-son; young animal one; a 
+one; a  son; young animal
 beautiful, handsome
 prince
 young man; handsome
@@ -31903,21 +31904,21 @@ to, for, upon, at, by: Admominal uses
 mountain; region of mountains
 745479	one; a 
 angel
-sky, heaven from, with:
+from, with: sky, heaven
 745484	man, person; family relative
 745487	one; a  man, person; family relative
 old (man); grandfather; ancestor
 745490	white
 and
 white
-one; a  and
+and one; a 
 house; home; verse (of poetry/song)
 one; a 
 room
 about, concerning
 house; home; verse (of poetry/song) one; a 
 small
-one; a  hut
+hut one; a 
 745502	we
 Assyrian language in, at, on, with, by means of.
 hut
@@ -31936,7 +31937,7 @@ and
 745525	time; period of time in, at, on, with, by means of.
 745527	horse
 745529	how? how could it be? like, just as; when
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 745534	thin cane, reed
 745541	to, for.
@@ -31950,16 +31951,16 @@ no, none
 one; a  man, person; family relative
 side, direction
 745560	and
-745562	one; a  secret
+745562	secret one; a 
 745565	come on! let’s go!
-745567	default demonstrative  secret
+745567	secret default demonstrative 
 God 
 745570	about, concerning
-angel and
+and angel
 745573	about, concerning
 negative copula
 745576	man, person; family relative to, for; so that.
-or secret
+secret or
 big; great; old.
 745580	thus, like this, so, such
 745582	side, direction
@@ -32003,7 +32004,7 @@ if ; either/or ; interrogative particle.
 in, at, on, with, by means of.
 745654	in, at, on, with, by means of.
 horse
-745657	if ; either/or ; interrogative particle. and side, direction
+745657	and if ; either/or ; interrogative particle. side, direction
 745659	voice; utterance; song; sound. in, at, on, with, by means of.
 first
 745662	mind
@@ -32015,7 +32016,7 @@ time, instance
 in, at, on, with, by means of.
 745676	stone
 745678	stone
-745682	you and
+745682	and you
 and
 and
 745687	stone
@@ -32024,7 +32025,7 @@ and
 745694	and
 745700	particle expressing prominence 
 God 
-745707	default demonstrative  negative copula
+745707	negative copula default demonstrative 
 745709	morning
 745711	God 
 745714	and
@@ -32063,11 +32064,11 @@ stone
 745775	stone
 745777	like, as; when.
 stone
-horse and
-spear and
+and horse
+and spear
 man, person; family relative
 745783	back; waist
-always; again; still; as soon as; directly; just, only; the same; surely . and
+and always; again; still; as soon as; directly; just, only; the same; surely .
 745786	and man, person; family relative
 horse
 and
@@ -32086,44 +32087,44 @@ every; all, all of .
 745811	stone
 speaker deixis demonstrative 
 745816	now
-745818	to, for, upon, at, by: Admominal uses king
+745818	king to, for, upon, at, by: Admominal uses
 king and
 745821	and
 and
 745824	there
 what; why?; how could it be? how (exclamatory).
 745827	king
-745829	viral illness in, at, on, with, by means of.
-745831	viral illness in, at, on, with, by means of.
+745829	in, at, on, with, by means of. viral illness
+745831	in, at, on, with, by means of. viral illness
 and
 king
 745836	man, person; family relative
 doctor
-or man, person; family relative
+man, person; family relative or
 good, well.
 745841	about, concerning; on account of; in, by. illness
 and man, person; family relative
-in; concerning; compared with; by (oath). town
+town in; concerning; compared with; by (oath).
 745848	to, for. what; why?; how could it be? how (exclamatory).
 what; why?; how could it be? how (exclamatory).
-745851	viral illness in, at, on, with, by means of.
+745851	in, at, on, with, by means of. viral illness
 thus, like this, so, such
 to, for; so that.
-solution; cure one; a 
+one; a  solution; cure
 745856	much, a lot, many; very .
 man, person; family relative
 745859	in love
 745861	king or
-and much, a lot, many; very .
+much, a lot, many; very . and
 side, direction
 745865	every; all, all of .
-doctor from, with:
+from, with: doctor
 and man, person; family relative from, with:
 lord, prince
 king
 745871	pleasant, beautiful; delicious; healthy; sharp.
 745875	until, up to; before; until when.
-745877	five twenty and from, with:
+745877	five and from, with: twenty
 745879	thirty
 745881	and
 and
@@ -32149,12 +32150,12 @@ side, direction
 strong, courageous
 perhaps
 745935	and
-745937	if ; either/or ; interrogative particle. and side, direction
+745937	and if ; either/or ; interrogative particle. side, direction
 745939	also; even; again.
 745943	plan
 745946	two
 partridge
-stone one; a  in, at, on, with, by means of.
+in, at, on, with, by means of. one; a  stone
 745950	now
 745954	to, for; so that.
 745957	here
@@ -32170,7 +32171,7 @@ until, up to; before; until when.
 745976	you
 and
 much, a lot, many; very .
-also, even; connective particle . you and
+and also, even; connective particle . you
 745981	much, a lot, many; very .
 745983	doctor
 thus, like this, so, such
@@ -32204,10 +32205,10 @@ from, with:
 746047	white
 and
 746051	white
-horse and
+and horse
 746054	beautiful; pleasant
 much, a lot, many; very .
-saddle one; a  and
+and one; a  saddle
 746060	saddle
 shop from, with:
 to, for; so that. side, direction
@@ -32239,7 +32240,7 @@ thing
 746104	master, owner
 speaker deixis demonstrative 
 good, well.
-746109	two day; sun.
+746109	day; sun. two
 746111	three
 thing
 746114	ready, prepared
@@ -32258,13 +32259,13 @@ how? how could it be? like, just as; when
 746133	three
 day; sun.
 preverbal particle
-five in, at, on, with, by means of.
+in, at, on, with, by means of. five
 fine; tiny
 746140	strong, mighty, huge
 and
 746144	The Lord
 God 
-746149	default demonstrative  man, person; family relative
+746149	man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 746155	darkness
 day; sun.
@@ -32276,7 +32277,7 @@ in, at, on, with, by means of.
 746165	horse
 746169	thud
 in; concerning; compared with; by (oath). road; way.
-746172	one; a  hut
+746172	hut one; a 
 house; home; verse (of poetry/song) one; a 
 small
 there
@@ -32295,10 +32296,10 @@ old (man); grandfather; ancestor
 746193	head; top; beginning.
 746196	in, at, on, with, by means of. peace
 in, at, on, with, by means of. peace
-746199	beauty default demonstrative 
+746199	default demonstrative  beauty
 746201	about, concerning
 746204	you
-746206	vocative particle man, person; family relative
+746206	man, person; family relative vocative particle
 old (man); grandfather; ancestor
 from, with:
 preverbal particle
@@ -32330,12 +32331,12 @@ side, direction
 I
 746250	much, a lot, many; very .
 746253	much, a lot, many; very .
-746255	existential particle  and
+746255	and existential particle 
 important matter, duty one; a 
 746260	stroke (of a stick, whip)
 stroke (of a stick, whip)
 king because
-746264	viral illness in, at, on, with, by means of.
+746264	in, at, on, with, by means of. viral illness
 if ; either/or ; interrogative particle. side, direction
 746267	job, profession, business; affair, thing default demonstrative 
 king
@@ -32345,7 +32346,7 @@ one; a  man, person; family relative
 746283	in, at, on, with, by means of.
 and
 experience, knowledge
-world, weather. (K./A.) in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). world, weather. (K./A.)
 much, a lot, many; very .
 side, direction
 hasty
@@ -32359,9 +32360,9 @@ speaker deixis demonstrative
 746300	clever
 much, a lot, many; very .
 746303	I
-to, for, upon, at, by: Admominal uses old (man); grandfather; ancestor
-746306	lesson one; a 
-746310	thing one; a 
+old (man); grandfather; ancestor to, for, upon, at, by: Admominal uses
+746306	one; a  lesson
+746310	one; a  thing
 good, well.
 746315	what; why?; how could it be? how (exclamatory).
 746317	what; why?; how could it be? how (exclamatory).
@@ -32376,11 +32377,11 @@ in, at, on, with, by means of.
 746343	story; affair
 746349	yes
 king
-viral illness in, at, on, with, by means of.
+in, at, on, with, by means of. viral illness
 746359	I
 746361	how? how could it be? like, just as; when
 lord, prince
-every; all, all of . to, for.
+to, for. every; all, all of .
 746366	in, at, on, with, by means of.
 road; way.
 and
@@ -32400,7 +32401,7 @@ what; why?; how could it be? how (exclamatory).
 746391	in, at, on, with, by means of. road; way.
 negative copula
 746395	always; again; still; as soon as; directly; just, only; the same; surely .
-746397	or man, person; family relative
+746397	man, person; family relative or
 old (man); grandfather; ancestor
 746402	angel
 God 
@@ -32411,50 +32412,50 @@ God
 746416	I
 746418	from, with:
 you
-746421	like, as; when. I
+746421	I like, as; when.
 746424	road; way.
-746426	how? how could it be? like, just as; when thin cane, reed
+746426	thin cane, reed how? how could it be? like, just as; when
 day; sun. side, direction
 until, up to; before; until when.
 day; sun. side, direction
-746431	two to, for.
+746431	to, for. two
 stage of journey; guesthouse; feast.
-746435	two to, for.
+746435	to, for. two
 day; sun.
 746440	horse
 come on! let’s go!
-746443	place, space. to, for.
+746443	to, for. place, space.
 there
 in, at, on, with, by means of.
 one; a  mountain; region of mountains
 high
 and
-746450	countryside, unsown land one; a 
+746450	one; a  countryside, unsown land
 and
 746453	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 746460	there
 every; all, all of .
 746463	stone
-and I
+I and
 746470	last, recent
 cave and
 746473	in; concerning; compared with; by (oath). mountain; region of mountains
-746475	mountain; region of mountains in, at, on, with, by means of.
+746475	in, at, on, with, by means of. mountain; region of mountains
 746479	in; concerning; compared with; by (oath).
 cave
 and man, person; family relative
 746484	there
 what? 
 high
-place, space. which?
+which? place, space.
 and what? 
 large rock; cliff
-every; all, all of . from, with:
+from, with: every; all, all of .
 side
 and
 746494	alive. f. xɛθa in child birth
 there
-one; a  in, at, on, with, by means of. road; way.
+in, at, on, with, by means of. one; a  road; way.
 which?
 which?
 746501	alive. f. xɛθa in child birth
@@ -32473,7 +32474,7 @@ there
 stone
 also, even; connective particle . you
 746526	stone
-until, up to; before; until when. time, instance to, for.
+time, instance until, up to; before; until when. to, for.
 746530	three
 746533	stone
 and if ; either/or ; interrogative particle.
@@ -32534,7 +32535,7 @@ I
 746634	yes
 746636	God 
 746639	particle expressing prominence 
-woolen trousers; suit of clothes; type of fabric made from wool if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. woolen trousers; suit of clothes; type of fabric made from wool
 in, at, on, with, by means of.
 in, at, on, with, by means of.
 746647	in, at, on, with, by means of. peace
@@ -32550,7 +32551,7 @@ in; concerning; compared with; by (oath).
 saddle
 746661	craftsman to, for, upon, at, by: Admominal uses
 town
-first class, excellent, special from, with:
+from, with: first class, excellent, special
 much, a lot, many; very .
 good, well.
 and
@@ -32562,7 +32563,7 @@ and
 746678	flower
 746680	three
 day; sun.
-746683	five in, at, on, with, by means of.
+746683	in, at, on, with, by means of. five
 fine; tiny
 and
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. mountain; region of mountains
@@ -32572,7 +32573,7 @@ army in, at, on, with, by means of.
 every; all, all of .
 army
 746697	stone
-every; all, all of . and
+and every; all, all of .
 746701	from, with:
 soldier
 much, a lot, many; very .
@@ -32584,9 +32585,9 @@ and
 man, person; family relative
 hero
 and man, person; family relative
-746714	every; all, all of . and
+746714	and every; all, all of .
 746716	and
-in, at, on, with, by means of. and side
+side and in, at, on, with, by means of.
 746721	also, even; connective particle . in, at, on, with, by means of.
 much, a lot, many; very .
 good, well.
@@ -32597,7 +32598,7 @@ heart; kernel of fruit or berry
 in, at, on, with, by means of.
 a little (quantity); a few 
 746741	perhaps
-also, even; connective particle . I
+I also, even; connective particle .
 side, direction
 746751	I
 746753	king
@@ -32607,22 +32608,22 @@ I
 negative copula shame, wrong
 746760	I
 746763	and
-746765	to, for. king
+746765	king to, for.
 side, direction
 746769	stone
-side, direction more, most; (not) at all  good, well.
-every; all, all of . from, with:
+more, most; (not) at all  side, direction good, well.
+from, with: every; all, all of .
 746774	stone
-also, even; connective particle . I
+I also, even; connective particle .
 746777	decorated
 from, with: last, recent
-746781	default demonstrative  last, recent
+746781	last, recent default demonstrative 
 new
 perhaps
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. one; a 
 746786	speaker deixis demonstrative 
 746788	every; all, all of .
-746791	unless, only if, except, but, particle of insistence; or not . dust and
+746791	dust and unless, only if, except, but, particle of insistence; or not .
 colour
 746794	a little (quantity); a few 
 746798	vocative particle
@@ -32637,11 +32638,11 @@ new
 746813	to, for, upon, at, by: Admominal uses
 746815	and side, direction
 thing not any 
-world, weather. (K./A.) in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). world, weather. (K./A.)
 negative copula
 746820	negative copula
-in, at, on, with, by means of. also; even; again.
-746823	and negative copula
+also; even; again. in, at, on, with, by means of.
+746823	negative copula and
 in, at, on, with, by means of. pleased, happy, agreeable
 746827	master, owner
 746829	about, concerning
@@ -32652,7 +32653,7 @@ cave to, for, upon, at, by: Admominal uses
 upper
 and
 default demonstrative 
-746845	thing negative existential particle  not any 
+746845	negative existential particle  thing not any 
 746847	cave in; concerning; compared with; by (oath). from, with:
 746849	in, at, on, with, by means of.
 horse
@@ -32661,7 +32662,7 @@ until, up to; before; until when.
 746855	horse
 746857	stone
 746859	default demonstrative 
-746863	also, even; connective particle . I
+746863	I also, even; connective particle .
 in, at, on, with, by means of. road; way.
 746867	speaker deixis demonstrative  and
 end, fate
@@ -32676,7 +32677,7 @@ thing
 746886	stone
 until, up to; before; until when.
 waist
-746890	also, even; connective particle . and
+746890	and also, even; connective particle .
 746893	always; again; still; as soon as; directly; just, only; the same; surely .
 746896	horse
 and from, with:
@@ -32707,7 +32708,7 @@ day; sun.
 three
 day; sun.
 746946	negative existential particle 
-746948	to, for. king
+746948	king to, for.
 king
 746951	pleasant, beautiful; delicious; healthy; sharp.
 746956	and side, direction
@@ -32717,10 +32718,10 @@ I
 road; way.
 746965	much, a lot, many; very .
 man, person; family relative
-746969	one; a  and
+746969	and one; a 
 negative copula
 and
-746975	and I
+746975	I and
 746979	and road; way.
 746983	if ; either/or ; interrogative particle.
 dead
@@ -32728,14 +32729,14 @@ dead
 746990	and if ; either/or ; interrogative particle.
 746993	I
 and or
-746998	if ; either/or ; interrogative particle. and side, direction
+746998	and if ; either/or ; interrogative particle. side, direction
 we
 747003	speaker deixis demonstrative 
 747007	yes
 747009	horse one; a 
 white
 747013	black
-one; a  and
+and one; a 
 star
 in; concerning; compared with; by (oath). household of; family of
 747018	black
@@ -32759,7 +32760,7 @@ now
 stroke (of a stick, whip)
 747046	leg; foot
 747048	in; concerning; compared with; by (oath). stirrup
-how? how could it be? like, just as; when and
+and how? how could it be? like, just as; when
 thus; like that; the same; so much.
 beautiful; beautiful woman; young woman
 lord, prince
@@ -32767,13 +32768,13 @@ lord, prince
 747057	raisins
 ring
 ring
-in; concerning; compared with; by (oath). neck
+neck in; concerning; compared with; by (oath).
 747063	and
 horse
 and
 mind
 day; sun. side, direction
-God  vocative particle and
+God  and vocative particle
 and
 747072	how? how could it be? like, just as; when
 how? how could it?
@@ -32790,7 +32791,7 @@ side, direction
 much, a lot, many; very .
 747099	God 
 747102	always; again; still; as soon as; directly; just, only; the same; surely .
-place, space. in, at, on, with, by means of.
+in, at, on, with, by means of. place, space.
 747109	presentative particle
 747112	in, at, on, with, by means of. thin cane, reed
 747115	or
@@ -32805,11 +32806,11 @@ negative copula
 747130	also, even; connective particle .
 command
 also, even; connective particle .
-you if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. you
 747137	if ; either/or ; interrogative particle. side, direction
 747142	and
 747145	story; affair
-747148	thing one; a 
+747148	one; a  thing
 about, concerning
 747151	yes
 747153	you
@@ -32830,7 +32831,7 @@ soul, person; reflexive pronoun .
 much, a lot, many; very .
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 747179	thing not any 
-also, even; connective particle . you and
+and also, even; connective particle . you
 master, owner
 747184	I
 747186	side, direction
@@ -32861,12 +32862,12 @@ speaker deixis demonstrative
 white
 like, as; when.
 like, as; when.
-spear and
+and spear
 747237	form, appearance; picture, image
-747239	horse and
-747242	default demonstrative  and
+747239	and horse
+747242	and default demonstrative 
 in; concerning; compared with; by (oath). household of; family of
-747245	every; all, all of . thing and
+747245	and every; all, all of . thing
 747249	in, at, on, with, by means of.
 in, at, on, with, by means of.
 747252	and in, at, on, with, by means of.
@@ -32890,28 +32891,28 @@ morning
 and
 747289	asleep
 in; concerning; compared with; by (oath). bed; bedding
-747294	default demonstrative  blanket
+747294	blanket default demonstrative 
 below. xoθa xoθa prep. under
 asleep
 747298	above; directly
-also, even; connective particle . which? and
+and also, even; connective particle . which?
 747301	default demonstrative 
 747303	there
-always; again; still; as soon as; directly; just, only; the same; surely . and
-how? how could it be? like, just as; when brother
+and always; again; still; as soon as; directly; just, only; the same; surely .
+brother how? how could it be? like, just as; when
 747308	East; sunrise
 side, direction
 747311	stroke (of a stick, whip)
 747313	still; (not) yet; (no) longer . more, most; (not) at all 
-before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. brother
+brother before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 747318	to, for. man, person; family relative
 old (man); grandfather; ancestor
 in, at, on, with, by means of. peace
 747322	God 
-747326	woolen trousers; suit of clothes; type of fabric made from wool if ; either/or ; interrogative particle.
+747326	if ; either/or ; interrogative particle. woolen trousers; suit of clothes; type of fabric made from wool
 747328	road; way.
 and
-747331	horse in, at, on, with, by means of.
+747331	in, at, on, with, by means of. horse
 other, another; more; again; discourse particle.
 horse default demonstrative 
 747335	white
@@ -32947,9 +32948,9 @@ speaker deixis demonstrative
 747396	decorated
 747401	cave
 high
-now and
+and now
 in, at, on, with, by means of.
-747406	asseverative particle; why?; remonstrating particle . speaker deixis demonstrative 
+747406	speaker deixis demonstrative  asseverative particle; why?; remonstrating particle .
 speaker deixis demonstrative 
 more, most; (not) at all  side, direction
 good
@@ -32961,7 +32962,7 @@ thus, like this, so, such
 stone
 always; again; still; as soon as; directly; just, only; the same; surely .
 747424	in, at, on, with, by means of.
-still; (not) yet; (no) longer . and more, most; (not) at all 
+and still; (not) yet; (no) longer . more, most; (not) at all 
 more (quantity), too much 
 747429	brother
 747431	and
@@ -32977,7 +32978,7 @@ cave in; concerning; compared with; by (oath).
 horse
 negative existential particle 
 thing not any 
-747454	or man, person; family relative
+747454	man, person; family relative or
 old (man); grandfather; ancestor
 voice; utterance; song; sound.
 first
@@ -32987,7 +32988,7 @@ horse
 now
 747464	fit, healthy
 thing not any 
-negative existential particle  household of; family of
+household of; family of negative existential particle 
 default demonstrative 
 747470	and
 747472	mind, intelligence
@@ -33012,15 +33013,15 @@ negative existential particle
 thing not any 
 and
 cave in; concerning; compared with; by (oath).
-negative existential particle  and
+and negative existential particle 
 also, even; connective particle .
 747516	and
 horse
 747519	stone
-story; affair default demonstrative 
+default demonstrative  story; affair
 747524	voice; utterance; song; sound. one; a 
 other, another; more; again; discourse particle.
-747527	default demonstrative  old (man); grandfather; ancestor
+747527	old (man); grandfather; ancestor default demonstrative 
 voice; utterance; song; sound. three
 747530	in, at, on, with, by means of.
 three
@@ -33031,13 +33032,13 @@ or
 or
 747543	breath; time, instance; yes.
 speaker deixis demonstrative 
-747546	in; concerning; compared with; by (oath). and thought; idea
+747546	thought; idea and in; concerning; compared with; by (oath).
 747549	master, owner
 I
 747552	default demonstrative 
 three
 perhaps
-747556	time, instance one; a  in, at, on, with, by means of.
+747556	time, instance in, at, on, with, by means of. one; a 
 747558	stone
 which?
 747562	which?
@@ -33047,7 +33048,7 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 747569	speaker deixis demonstrative 
 747572	stone
 also, even; connective particle .
-747576	which? thus; like that; the same; so much.
+747576	thus; like that; the same; so much. which?
 more, most; (not) at all 
 side, direction
 747585	three
@@ -33063,10 +33064,10 @@ bird
 and
 mountain; region of mountains
 cave
-one; a  circuit; circuitous route, detour
+circuit; circuitous route, detour one; a 
 thus, like this, so, such
 and
-lower above; directly
+above; directly lower
 thud
 747613	behind; after; through.
 747615	horse
@@ -33074,7 +33075,7 @@ thud
 white
 which?
 mind
-to, for, upon, at, by: Admominal uses behind
+behind to, for, upon, at, by: Admominal uses
 747624	presentative particle
 747629	yes
 747634	what; why?; how could it be? how (exclamatory). to, for; so that.
@@ -33086,7 +33087,7 @@ speaker deixis demonstrative
 man, person; family relative
 every; all, all of .
 747646	pleased, happy, agreeable
-every; all, all of . in, at, on, with, by means of.
+in, at, on, with, by means of. every; all, all of .
 747649	I
 woman; wife one; a 
 like, as; when.
@@ -33104,14 +33105,14 @@ one; a  man, person; family relative
 and
 king and
 king and
-747680	and I
+747680	I and
 747684	God  in, at, on, with, by means of.
 747688	world, weather. (K./A.)
 747692	no, none  to, for. man; male
-about, concerning if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. about, concerning
 747695	woman; wife one; a 
 747697	each, every; whoever  to, for; so that.
-or brother to, for; so that.
+brother or to, for; so that.
 747700	I
 747704	word; promise; condition
 and
@@ -33148,7 +33149,7 @@ we
 under
 747766	side, direction
 from, with:
-747771	also, even; connective particle . speaker deixis demonstrative 
+747771	speaker deixis demonstrative  also, even; connective particle .
 747777	I
 747782	man, person; family relative
 one; a  almost, about to; connective particle .
@@ -33160,9 +33161,9 @@ speaker deixis demonstrative
 747792	stone
 747794	every; all, all of .
 747797	presentative particle; but; otherwise .
-and I
+I and
 and
-747803	from, with: we reciprocal pronoun 
+747803	we from, with: reciprocal pronoun 
 three
 speaker deixis demonstrative 
 747807	each, every; whoever  one; a 
@@ -33179,11 +33180,11 @@ world; crowd of people
 mole (on skin) in, at, on, with, by means of.
 747825	much, a lot, many; very .
 good, well.
-747829	particle expressing prominence  come on! let’s go!
-747832	always; again; still; as soon as; directly; just, only; the same; surely . time, instance one; a 
+747829	come on! let’s go! particle expressing prominence 
+747832	time, instance always; again; still; as soon as; directly; just, only; the same; surely . one; a 
 747834	God  and to, for; so that.
 747836	hand; handle; arm; foot (of an animal); round of a game.
-sky, heaven to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses sky, heaven
 747839	God  vocative particle
 until, up to; before; until when. spirit
 to, for; so that.
@@ -33206,14 +33207,14 @@ spirit
 747867	in; concerning; compared with; by (oath).
 stone
 747870	man, person; family relative
-every; all, all of . and
+and every; all, all of .
 army
 747875	man, person; family relative
 one; a  almost, about to; connective particle .
 when.
 747879	man, person; family relative
-each, every; whoever  one; a  and
-747882	other, another; more; again; discourse particle. in, at, on, with, by means of.
+each, every; whoever  and one; a 
+747882	in, at, on, with, by means of. other, another; more; again; discourse particle.
 master, owner default demonstrative 
 747888	default demonstrative 
 747894	master, owner
@@ -33259,17 +33260,17 @@ what; why?; how could it be? how (exclamatory).
 747983	every; all, all of .
 747990	to, for, upon, at, by: Admominal uses
 king
-army and
+and army
 747994	and
-747996	horse in, at, on, with, by means of. and
+747996	and in, at, on, with, by means of. horse
 748000	and
-in; concerning; compared with; by (oath). party
+party in; concerning; compared with; by (oath).
 big; great; old.
 and
 in; concerning; compared with; by (oath). countryside, unsown land
-748008	place, space. to, for, upon, at, by: Admominal uses
+748008	to, for, upon, at, by: Admominal uses place, space.
 748010	angel
-748012	angel and
+748012	and angel
 one; a  almost, about to; connective particle .
 748015	preverbal particle
 God 
@@ -33278,16 +33279,16 @@ angel
 748021	what; why?; how could it be? how (exclamatory).
 748023	God 
 praise
-to, for, upon, at, by: Admominal uses sky
+sky to, for, upon, at, by: Admominal uses
 748027	what; why?; how could it be? how (exclamatory).
 748029	yes
 748032	now
 748034	presentative particle
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 748040	peace; greeting
 748042	preverbal particle and
-from, with: side
+side from, with:
 to, for, upon, at, by: Admominal uses
 748046	you
 much, a lot, many; very .
@@ -33298,15 +33299,15 @@ and
 748064	in, at, on, with, by means of.
 748066	God  and
 748069	and from, with:
-and I
-748072	also, even; connective particle . king
+I and
+748072	king also, even; connective particle .
 in, at, on, with, by means of.
-about, concerning there
+there about, concerning
 story; affair
 748077	and
-748080	finality, end to, for, upon, at, by: Admominal uses
+748080	to, for, upon, at, by: Admominal uses finality, end
 748082	and
-748084	you because
+748084	because you
 from, with:
 748089	in, at, on, with, by means of.
 king
@@ -33314,7 +33315,7 @@ presentative particle; but; otherwise .
 king
 in, at, on, with, by means of.
 748095	you
-748097	in, at, on, with, by means of. footprint; place
+748097	footprint; place in, at, on, with, by means of.
 748100	God 
 748103	now
 748107	old man
@@ -33340,7 +33341,7 @@ much, a lot, many; very .
 748147	king
 748150	in; concerning; compared with; by (oath). countryside, unsown land
 748153	countryside, unsown land
-748156	army and
+748156	and army
 and
 748159	to, for, upon, at, by: Admominal uses
 748161	now
@@ -33354,14 +33355,14 @@ and
 748176	behind
 and
 behind
-army and
+and army
 every; all, all of .
 behind
 king
 748187	you
 748191	speaker deixis demonstrative 
 748194	I
-748197	you and
+748197	and you
 speaker deixis demonstrative 
 speaker deixis demonstrative 
 748201	I
@@ -33425,7 +33426,7 @@ I
 748330	unless, only if, except, but, particle of insistence; or not .
 brother
 748334	presentative particle; but; otherwise .
-you if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. you
 748337	to, for; so that.
 748340	in, at, on, with, by means of.
 and in, at, on, with, by means of.
@@ -33437,9 +33438,9 @@ in; concerning; compared with; by (oath).
 748351	thing not any 
 and side, direction
 748354	in; concerning; compared with; by (oath).
-748357	default demonstrative  and
+748357	and default demonstrative 
 748359	king
-from, with: today
+today from, with:
 kingdom; kingship
 from, with:
 cat, tomcat
@@ -33449,12 +33450,12 @@ and
 748376	thus, like this, so, such
 one; a 
 princess
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 also, even; connective particle .
 748382	and
 how? how could it?
 748385	yes
-other, another; more; again; discourse particle. and
+and other, another; more; again; discourse particle.
 748388	under
 reality
 what; why?; how could it be? how (exclamatory).
@@ -33468,17 +33469,17 @@ in, at, on, with, by means of.
 God 
 in, at, on, with, by means of.
 748411	and
-748413	every; all, all of . and
+748413	and every; all, all of .
 thing
 to, for; so that.
 speaker deixis demonstrative 
 generation; century
 about, concerning
 and
-job, profession, business; affair, thing and
+and job, profession, business; affair, thing
 speaker deixis demonstrative 
 748423	like, as; when. son; young animal
-748425	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+748425	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 and
 748431	and
 breath; time, instance; yes.
@@ -33486,11 +33487,11 @@ three
 day; sun.
 wedding
 748439	to, for, upon, at, by: Admominal uses
-one; a  and party, festivity
+and one; a  party, festivity
 big; great; old.
 748444	flower
 and
-song and
+and song
 and
 and
 748456	lord, prince
@@ -33505,9 +33506,9 @@ lord, prince
 748467	flower
 I
 748470	there
-here and
-also, even; connective particle . I
-748474	like, as; when. wolf
+and here
+I also, even; connective particle .
+748474	wolf like, as; when.
 blind
 speaker deixis demonstrative 
 what; why?; how could it be? how (exclamatory).
@@ -33518,26 +33519,26 @@ before (spatial and temporal); in (adversity), from (adversity); on account of (
 each, every; whoever  day; sun.
 one; a 
 sheep; goat
-748488	one; a  day; sun.
-748492	default demonstrative  sheep; goat
+748488	day; sun. one; a 
+748492	sheep; goat default demonstrative 
 748495	to, for. what; why?; how could it be? how (exclamatory).
-748498	place, space. one; a 
+748498	one; a  place, space.
 in; concerning; compared with; by (oath). one; a 
 748502	sheep; goat
-748505	sheep; goat one; a 
+748505	one; a  sheep; goat
 748508	to, for, upon, at, by: Admominal uses mountain; region of mountains
 also, even; connective particle . or
 748514	sheep; goat or
 748516	cave in; concerning; compared with; by (oath). one; a 
-748518	wolf one; a 
+748518	one; a  wolf
 blind
 there
 blind
 asleep
-wolf before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. wolf
 wolf default demonstrative 
 748526	maternal uncle
-sheep; goat from, with:
+from, with: sheep; goat
 preverbal particle
 or
 748532	wolf default demonstrative 
@@ -33555,7 +33556,7 @@ speaker deixis demonstrative
 748557	to, for, upon, at, by: Admominal uses mountain; region of mountains
 748559	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 wolf
-748566	vocative particle The Lord
+748566	The Lord vocative particle
 God 
 748569	wolf default demonstrative 
 negative copula
@@ -33563,7 +33564,7 @@ side, direction
 748573	and side, direction
 748575	and side, direction
 748581	maternal uncle
-also, even; connective particle . I
+I also, even; connective particle .
 748585	house; home; verse (of poetry/song)
 you
 obliged; forced
@@ -33573,8 +33574,8 @@ sheep; goat
 man; married man, husband; gentleman, courtier; valiant man
 748599	sheep; goat
 748601	in; concerning; compared with; by (oath). mountain; region of mountains
-748605	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed one; a 
-to, for, upon, at, by: Admominal uses roof
+748605	one; a  small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
+roof to, for, upon, at, by: Admominal uses
 748609	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 748613	there
 woman; wife
@@ -33590,16 +33591,16 @@ we
 what; why?; how could it be? how (exclamatory).
 748631	what; why?; how could it be? how (exclamatory).
 748633	master, owner
-also, even; connective particle . I
-748636	like, as; when. wolf
+I also, even; connective particle .
+748636	wolf like, as; when.
 blind
-one; a  day; sun.
+day; sun. one; a 
 748641	what; why?; how could it be? how (exclamatory).
 from, with:
 story; affair
 748645	wolf default demonstrative 
 blind
-748649	wolf default demonstrative  one; a 
+748649	one; a  wolf default demonstrative 
 blind
 asleep
 in; concerning; compared with; by (oath). mountain; region of mountains
@@ -33608,8 +33609,8 @@ one; a
 748657	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 wolf
 or
-748662	also, even; connective particle . I
-748664	like, as; when. wolf
+748662	I also, even; connective particle .
+748664	wolf like, as; when.
 blind
 even (A.)
 God 
@@ -33635,10 +33636,10 @@ half; middle.
 to, for. man; married man, husband; gentleman, courtier; valiant man
 half; middle.
 to, for.
-748700	one; a  day; sun.
+748700	day; sun. one; a 
 748702	to, for, upon, at, by: Admominal uses mountain; region of mountains
 748704	leg; foot
-748706	large hole in ground, pit in; concerning; compared with; by (oath). one; a 
+748706	in; concerning; compared with; by (oath). one; a  large hole in ground, pit
 748708	leg; foot
 presentative particle; but; otherwise .
 one; a  earthenware pot
@@ -33650,7 +33651,7 @@ under leg; foot
 748722	man; married man, husband; gentleman, courtier; valiant man
 748724	master, owner
 I
-748727	like, as; when. wolf
+748727	wolf like, as; when.
 blind
 748730	gold; gold coin from, with:
 748736	man; married man, husband; gentleman, courtier; valiant man
@@ -33672,7 +33673,7 @@ negative copula
 748773	I
 748775	so-and-so; such-and-such
 place, space.
-place, space. one; a 
+one; a  place, space.
 748779	thus, like this, so, such
 gold; gold coin
 speaker deixis demonstrative 
@@ -33689,7 +33690,7 @@ small window without glass; small aperture; small hole in the wall of a church i
 748796	half; middle.
 748800	upon
 place, space.
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 748804	speaker deixis demonstrative 
 gold; gold coin
 748812	woman; wife
@@ -33710,7 +33711,7 @@ particle expressing prominence
 748841	to, for, upon, at, by: Admominal uses
 small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 748844	every; all, all of .
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 748848	there
 speaker deixis demonstrative 
 asleep
@@ -33720,9 +33721,9 @@ default demonstrative
 in, at, on, with, by means of.
 in, at, on, with, by means of.
 748859	speaker deixis demonstrative 
-748861	to, for, upon, at, by: Admominal uses roof
+748861	roof to, for, upon, at, by: Admominal uses
 748863	earthenware pot
-default demonstrative  vessel, container
+vessel, container default demonstrative 
 upon
 small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 748868	every; all, all of .
@@ -33754,16 +33755,16 @@ weak; thin
 you
 748921	I
 748923	gold; gold coin
-neighbour and
+and neighbour
 preverbal particle and
 and man, person; family relative
 748928	thing
 and
-to, for, upon, at, by: Admominal uses the government
+the government to, for, upon, at, by: Admominal uses
 748932	speaker deixis demonstrative 
 gold; gold coin
 748936	gold; gold coin
-748941	also, even; connective particle . speaker deixis demonstrative 
+748941	speaker deixis demonstrative  also, even; connective particle .
 748944	leg; foot
 and
 and
@@ -33803,7 +33804,7 @@ thin cane, reed
 in; concerning; compared with; by (oath).
 preverbal particle
 tiger one; a 
-749008	cage in; concerning; compared with; by (oath).
+749008	in; concerning; compared with; by (oath). cage
 749010	heart; kernel of fruit or berry
 749013	preverbal particle
 749023	I
@@ -33837,9 +33838,9 @@ treachery
 default demonstrative 
 749083	leather boots (worn in Spring)
 749086	each, every; whoever 
-749088	thing one; a 
+749088	one; a  thing
 749090	preverbal particle
-one; a  fox
+fox one; a 
 749093	hand; handle; arm; foot (of an animal); round of a game.
 749095	thus, like this, so, such
 chicken
@@ -33847,7 +33848,7 @@ chicken
 749100	how? how could it be? like, just as; when
 which?
 749104	speaker deixis demonstrative 
-cage in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). cage
 749107	I
 preverbal particle
 749111	master, owner
@@ -33874,7 +33875,7 @@ to, for.
 749157	father; term of endearment.
 749160	situation, affair
 thus, like this, so, such
-749165	one; a  fox from, with:
+749165	from, with: fox one; a 
 preverbal particle
 tiger from, with:
 how? how could it?
@@ -33886,7 +33887,7 @@ fox
 to, for.
 which?
 preverbal particle
-father; term of endearment. to, for.
+to, for. father; term of endearment.
 749185	and
 or
 749188	wood; piece of wood one; a 
@@ -33906,19 +33907,19 @@ speaker deixis demonstrative
 goodness; favour
 749219	chicken
 in; concerning; compared with; by (oath).
-wood; piece of wood and
+and wood; piece of wood
 749223	in; concerning; compared with; by (oath). head; top; beginning.
 thus, like this, so, such
 man, person; family relative
 treacherous
 749228	one; a 
 749230	father; term of endearment.
-son; young animal and
+and son; young animal
 and
 son; young animal
 default demonstrative  father; term of endearment.
 749236	old (man); grandfather; ancestor
-749238	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+749238	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 749244	to, for. man; married man, husband; gentleman, courtier; valiant man
 749247	speaker deixis demonstrative 
 749251	in; concerning; compared with; by (oath).
@@ -33927,8 +33928,8 @@ almond, almond tree
 hundred
 749261	or
 749263	I or
-749266	in; concerning; compared with; by (oath). house; home; verse (of poetry/song) from, with:
-also, even; connective particle . child
+749266	house; home; verse (of poetry/song) in; concerning; compared with; by (oath). from, with:
+child also, even; connective particle .
 749269	good, well.
 woman; wife
 749279	to, for, upon, at, by: Admominal uses
@@ -33949,12 +33950,12 @@ also, even; connective particle . you
 749317	measure in, at, on, with, by means of.
 749320	in, at, on, with, by means of.
 749323	son; young animal
-749327	from, with: side
-from, with: side
+749327	side from, with:
+side from, with:
 749332	and
 749337	in; concerning; compared with; by (oath).
 749339	woman; wife
-749341	vocative particle woman; wife
+749341	woman; wife vocative particle
 speaker deixis demonstrative 
 one; a 
 speaker deixis demonstrative 
@@ -33964,7 +33965,7 @@ one; a
 window
 speaker deixis demonstrative 
 two
-every; all, all of . in, at, on, with, by means of.
+in, at, on, with, by means of. every; all, all of .
 749355	I
 749357	from, with:
 side, direction
@@ -33973,7 +33974,7 @@ friend
 sky one; a 
 749364	sky one; a 
 749366	master, owner
-one; a  day; sun.
+day; sun. one; a 
 749370	to, for, upon, at, by: Admominal uses water-mill
 749372	milled produce
 to, for, upon, at, by: Admominal uses water-mill
@@ -33983,11 +33984,11 @@ and
 breath; time, instance; yes. one; a 
 749381	thus, like this, so, such
 presentative particle; but; otherwise .
-749384	one; a  bear; the constellation ‘The Great Bear’
+749384	bear; the constellation ‘The Great Bear’ one; a 
 749387	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 water-mill
 749391	in, at, on, with, by means of.
-default demonstrative  bear; the constellation ‘The Great Bear’
+bear; the constellation ‘The Great Bear’ default demonstrative 
 749395	how? how could it be? like, just as; when
 749397	I
 always; again; still; as soon as; directly; just, only; the same; surely .
@@ -33995,7 +33996,7 @@ in; concerning; compared with; by (oath). water-mill
 a little (quantity); a few 
 other, another; more; again; discourse particle.
 master, owner
-749404	one; a  fox
+749404	fox one; a 
 peace; greeting
 749407	bear; the constellation ‘The Great Bear’
 749409	in, at, on, with, by means of. peace
@@ -34010,28 +34011,28 @@ pleasant, beautiful; delicious; healthy; sharp.
 749426	in, at, on, with, by means of.
 749428	here
 a little (quantity); a few 
-749432	also, even; connective particle . I
+749432	I also, even; connective particle .
 749434	here
 749437	a little (quantity); a few 
 other, another; more; again; discourse particle.
 749442	dog one; a 
 also, even; connective particle .
 peace; greeting
-749446	in, at, on, with, by means of. and peace
+749446	and in, at, on, with, by means of. peace
 blessings, greetings
 also, even; connective particle . or
 749450	a little (quantity); a few 
 other, another; more; again; discourse particle.
-749454	one; a  female cat; spiky type of oak gall
+749454	female cat; spiky type of oak gall one; a 
 also, even; connective particle .
 peace; greeting
-749458	in, at, on, with, by means of. and peace
+749458	and in, at, on, with, by means of. peace
 blessings, greetings
 also, even; connective particle .
 749463	a little (quantity); a few 
 other, another; more; again; discourse particle.
 breath; time, instance; yes. one; a 
-749467	one; a  mouse
+749467	mouse one; a 
 horse
 749470	and
 749472	festivity; festive clothing
@@ -34041,7 +34042,7 @@ horse
 there
 749480	horse
 749483	peace; greeting
-749486	in, at, on, with, by means of. and peace
+749486	and in, at, on, with, by means of. peace
 blessings, greetings
 presentative particle
 brother
@@ -34051,11 +34052,11 @@ thin cane, reed
 wedding
 749498	thus, like this, so, such
 and
-749501	tassel and
+749501	and tassel
 in, at, on, with, by means of.
 749504	thin cane, reed
 wedding
-about, concerning if, so long as
+if, so long as about, concerning
 749510	here
 749513	always; again; still; as soon as; directly; just, only; the same; surely .
 wedding
@@ -34068,8 +34069,8 @@ default demonstrative
 749523	bear; the constellation ‘The Great Bear’
 749525	also, even; connective particle . one; a 
 749527	negative copula
-to, for, upon, at, by: Admominal uses song
-thing one; a 
+song to, for, upon, at, by: Admominal uses
+one; a  thing
 749532	here
 female cat; spiky type of oak gall
 749535	yes in, at, on, with, by means of.
@@ -34127,7 +34128,7 @@ beautiful, pleasant
 from, with:
 749631	fox
 749633	much, a lot, many; very .
-thing one; a 
+one; a  thing
 749637	in; concerning; compared with; by (oath).
 749641	bear; the constellation ‘The Great Bear’
 which?
@@ -34149,7 +34150,7 @@ and
 749674	under one; a 
 tree
 749677	and there
-breath; time, instance; yes. each, every; whoever  and
+each, every; whoever  and breath; time, instance; yes.
 749680	gold; gold coin one; a 
 749683	and
 under
@@ -34163,7 +34164,7 @@ one; a
 default demonstrative 
 every; all, all of .
 749707	each, every; whoever  one; a 
-749709	one; a  side
+749709	side one; a 
 or
 749712	behind
 behind
@@ -34173,7 +34174,7 @@ behind
 fox
 749723	fox
 asleep
-under one; a  tree
+under tree one; a 
 749728	one; a  walking-stick
 wood; piece of wood one; a 
 749731	fox
@@ -34186,11 +34187,11 @@ house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 gold; gold coin
 749750	house; home; verse (of poetry/song) and
 749752	thing
-749754	thing one; a 
+749754	one; a  thing
 different; special; various.
-village in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). village
 more, most; (not) at all 
-every; all, all of . from, with:
+from, with: every; all, all of .
 749763	preverbal particle
 749766	speaker deixis demonstrative 
 749768	from, with:
@@ -34263,16 +34264,16 @@ side, direction
 from, with:
 gold; gold coin
 749903	unless, only if, except, but, particle of insistence; or not .
-749905	one; a  and
+749905	and one; a 
 749907	particle expressing necessity (deontic and epistemic)
 where? how?
 749913	in, at, on, with, by means of.
 in; concerning; compared with; by (oath). water-mill
 749917	in; concerning; compared with; by (oath). water-mill
 749919	perhaps
-also, even; connective particle . today
+today also, even; connective particle .
 749927	perhaps
-749929	also, even; connective particle . today
+749929	today also, even; connective particle .
 there
 749932	in; concerning; compared with; by (oath). water-mill
 leaf (of a plant); leafy branch (of a tree)
@@ -34288,15 +34289,15 @@ one; a
 749957	here
 749960	and
 every; all, all of .
-acquaintance (among the Kurds) and
+and acquaintance (among the Kurds)
 maternal uncle
 749965	and or
 until, up to; before; until when. default demonstrative  almost, about to; connective particle .
 ripe
-village to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses village
 half; middle.
 749971	what? 
-749974	village in; concerning; compared with; by (oath).
+749974	in; concerning; compared with; by (oath). village
 749977	head; top; beginning.
 what? 
 749981	what; why?; how could it be? how (exclamatory).
@@ -34307,7 +34308,7 @@ what; why?; how could it be? how (exclamatory).
 man, person; family relative
 749992	side, direction
 749994	each, every; whoever 
-749996	thing one; a 
+749996	one; a  thing
 I
 750000	and
 750002	mountain; region of mountains
@@ -34345,7 +34346,7 @@ behind; after; through.
 preverbal particle
 preverbal particle
 750075	presentative particle; but; otherwise .
-750078	vineyard; orchard to, for, upon, at, by: Admominal uses
+750078	to, for, upon, at, by: Admominal uses vineyard; orchard
 750080	vineyard; orchard
 750083	because
 750085	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
@@ -34353,14 +34354,14 @@ side, direction
 750088	cave in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 750093	under vine
-every; all, all of . and
+and every; all, all of .
 750096	and apple; apple tree
 grape and
-vine and
+and vine
 every; all, all of .
 750105	and
 catastrophe
-750109	in, at, on, with, by means of. season side, direction
+750109	season in, at, on, with, by means of. side, direction
 and side, direction
 750115	cave in; concerning; compared with; by (oath). from, with:
 750120	cave in; concerning; compared with; by (oath). from, with:
@@ -34370,18 +34371,18 @@ speaker deixis demonstrative
 750135	to, for, upon, at, by: Admominal uses
 cave
 750139	speaker deixis demonstrative 
-750141	one; a  turn
+750141	turn one; a 
 750143	cave in; concerning; compared with; by (oath).
 angry
 angry
 750147	one; a  almost, about to; connective particle .
-750152	under one; a  vine
-750155	default demonstrative  and
+750152	under vine one; a 
+750155	and default demonstrative 
 750157	party of close family after wedding
 breath; time, instance; yes. one; a 
 750162	and
 catastrophe
-750166	in, at, on, with, by means of. season side, direction
+750166	season in, at, on, with, by means of. side, direction
 and side, direction
 750169	one; a  almost, about to; connective particle .
 750173	angry
@@ -34399,7 +34400,7 @@ side, direction
 time, instance one; a 
 750205	and
 catastrophe
-750209	in, at, on, with, by means of. season side, direction
+750209	season in, at, on, with, by means of. side, direction
 and side, direction
 750215	soul, person; reflexive pronoun . to, for, upon, at, by: Admominal uses
 750217	and
@@ -34431,10 +34432,10 @@ fighting; war
 750269	sword
 unless, only if, except, but, particle of insistence; or not .
 750272	preverbal particle
-two piece (of meat)
-one; a  piece (of meat)
-750276	to, for, upon, at, by: Admominal uses side
-to, for, upon, at, by: Admominal uses one; a  side
+piece (of meat) two
+piece (of meat) one; a 
+750276	side to, for, upon, at, by: Admominal uses
+side one; a  to, for, upon, at, by: Admominal uses
 which?
 750280	one; a  sword
 other, another; more; again; discourse particle.
@@ -34447,7 +34448,7 @@ in, at, on, with, by means of.
 750296	handkerchief; scarf
 in, at, on, with, by means of.
 750301	thus, like this, so, such
-in, at, on, with, by means of. side
+side in, at, on, with, by means of.
 750305	to, for, upon, at, by: Admominal uses
 750308	from, with: there
 beyond; onwards
@@ -34458,7 +34459,7 @@ to, for, upon, at, by: Admominal uses
 large conical-shaped pot
 750321	there
 750323	large flat stone
-750326	upon in, at, on, with, by means of.
+750326	in, at, on, with, by means of. upon
 750328	man; married man, husband; gentleman, courtier; valiant man fifty
 side, direction
 what? 
@@ -34469,16 +34470,16 @@ if ; either/or ; interrogative particle.
 there
 750338	side, direction
 750343	divinity; divine deed; miracle
-here and
+and here
 here
 750348	preverbal particle
-750350	nephew (son of sister) to, for.
+750350	to, for. nephew (son of sister)
 750353	thus, like this, so, such
-stone and
-750357	in; concerning; compared with; by (oath). large conical-shaped pot from, with:
+and stone
+750357	in; concerning; compared with; by (oath). from, with: large conical-shaped pot
 fox
-750361	in, at, on, with, by means of. negative copula
-750365	thing one; a 
+750361	negative copula in, at, on, with, by means of.
+750365	one; a  thing
 negative copula
 750370	one; a 
 tall willow tree
@@ -34500,7 +34501,7 @@ cooked; ripe
 750396	side, direction
 750400	grape
 750403	pleasant, beautiful; delicious; healthy; sharp.
-maternal uncle to, for.
+to, for. maternal uncle
 default demonstrative  almost, about to; connective particle .
 meaning
 750408	grape
@@ -34511,52 +34512,52 @@ grape
 bitter, sour
 if ; either/or ; interrogative particle.
 750419	bitter, sour
-one; a  king
+king one; a 
 each, every; whoever  day; sun.
-girl; daughter one; a 
+one; a  girl; daughter
 750424	morning
 750430	girl; daughter
 750432	each, every; whoever  day; sun.
 one; a 
 negative existential particle 
 speaker deixis demonstrative 
-750438	girl; daughter one; a 
+750438	one; a  girl; daughter
 default demonstrative  girl; daughter
 750441	to, for.
-father; term of endearment. to, for.
+to, for. father; term of endearment.
 750446	I
 750449	speaker deixis demonstrative 
 king
 750452	from, with:
 story; affair
-750456	one; a  female cat; spiky type of oak gall
+750456	female cat; spiky type of oak gall one; a 
 750461	female cat; spiky type of oak gall
 750465	king
 or
-750469	story; affair one; a 
-to, for. female cat; spiky type of oak gall
-750472	to, for. female cat; spiky type of oak gall
+750469	one; a  story; affair
+female cat; spiky type of oak gall to, for.
+750472	female cat; spiky type of oak gall to, for.
 750474	female cat; spiky type of oak gall
 negative copula
-750478	story; affair one; a 
+750478	one; a  story; affair
 time; point in time; period of time default demonstrative 
 morning
 750482	king
-750484	because how many/much? some, several; so much/many; however much, as much as; when; as for 
+750484	how many/much? some, several; so much/many; however much, as much as; when; as for  because
 750486	evening; late afternoon
 750488	morning
 750491	morning
 750493	king or
-750497	more, most; (not) at all  from, with:
+750497	from, with: more, most; (not) at all 
 big; great; old.
 thing not any 
 750501	speaker deixis demonstrative 
 story
-to, for. female cat; spiky type of oak gall
+female cat; spiky type of oak gall to, for.
 master, owner
 750506	one; a 
 woman; wife
-750509	son; young animal one; a 
+750509	one; a  son; young animal
 sky
 750513	master, owner
 speaker deixis demonstrative 
@@ -34564,10 +34565,10 @@ default demonstrative
 750522	speaker deixis demonstrative 
 woman; wife
 each, every; whoever  day; sun.
-750527	son; young animal to, for.
+750527	to, for. son; young animal
 750532	school
 son; young animal
-750535	in; concerning; compared with; by (oath). school
+750535	school in; concerning; compared with; by (oath).
 each, every; whoever  day; sun.
 750539	child to, for, upon, at, by: Admominal uses
 750541	shoulder bag
@@ -34604,7 +34605,7 @@ father; term of endearment.
 preverbal particle
 750607	what; why?; how could it be? how (exclamatory).
 750610	what; why?; how could it be? how (exclamatory).
-750613	ass one; a 
+750613	one; a  ass
 750616	each, every; whoever  day; sun.
 to, for, upon, at, by: Admominal uses mountain; region of mountains
 750619	wood; piece of wood
@@ -34618,7 +34619,7 @@ side, direction
 in, at, on, with, by means of.
 good
 750638	money
-750640	ass one; a 
+750640	one; a  ass
 750642	blanket put on the back of an animal made of compacted wool
 ass
 750645	one; a 
@@ -34632,11 +34633,11 @@ wood; piece of wood
 750663	bread; loaf of bread
 about, concerning; on account of; in, by.
 wood; piece of wood
-one; a  day; sun.
-750668	village from, with:
+day; sun. one; a 
+750668	from, with: village
 750670	to, for, upon, at, by: Admominal uses mountain; region of mountains
 750672	in; concerning; compared with; by (oath). one; a 
-like, as; when. mountain; region of mountains
+mountain; region of mountains like, as; when.
 750675	thing
 750677	rain
 750679	rain
@@ -34656,8 +34657,8 @@ sitting; inhabited
 thus, like this, so, such
 750709	covering; lid; crust (of yoghurt) one; a 
 hand; handle; arm; foot (of an animal); round of a game. one; a 
-iron one; a 
-stone one; a 
+one; a  iron
+one; a  stone
 big; great; old.
 one; a 
 iron
@@ -34669,13 +34670,13 @@ iron
 750733	vocative particle
 750736	particle expressing prominence 
 750741	presentative particle; but; otherwise .
-750743	stone one; a 
+750743	one; a  stone
 thus, like this, so, such
-handle one; a  and
+and one; a  handle
 750748	iron
 750750	strength, force, power
 750753	presentative particle; but; otherwise .
-drain, conduit, sewer one; a 
+one; a  drain, conduit, sewer
 750756	until, up to; before; until when.
 750758	honey
 until, up to; before; until when.
@@ -34698,7 +34699,7 @@ until, up to; before; until when.
 evening; late afternoon
 evening; late afternoon
 two
-750795	what; why?; how could it be? how (exclamatory). joyful, happy almost, about to; connective particle .
+750795	joyful, happy almost, about to; connective particle . what; why?; how could it be? how (exclamatory).
 in, at, on, with, by means of.
 honey
 speaker deixis demonstrative 
@@ -34709,7 +34710,7 @@ goatskin or lambskin (spread on floor to sit on)
 750812	other, another; more; again; discourse particle. default demonstrative 
 750815	speaker deixis demonstrative 
 750817	father; term of endearment. side, direction
-750819	side, direction mother
+750819	mother side, direction
 750825	you
 in; concerning; compared with; by (oath).
 drain, conduit, sewer
@@ -34718,10 +34719,10 @@ drain, conduit, sewer
 speaker deixis demonstrative 
 money
 750836	in, at, on, with, by means of. reciprocal pronoun 
-750838	goatskin or lambskin (spread on floor to sit on) or
+750838	or goatskin or lambskin (spread on floor to sit on)
 there
 750841	rope
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 750844	speaker deixis demonstrative  and
 750847	upon
 cave
@@ -34735,7 +34736,7 @@ blood
 750865	to, for.
 ass
 750869	wolf
-in; concerning; compared with; by (oath). one; a  small valley
+small valley in; concerning; compared with; by (oath). one; a 
 750872	or
 ass
 750875	and
@@ -34750,7 +34751,7 @@ good
 we
 750896	in; concerning; compared with; by (oath).
 drain, conduit, sewer
-default demonstrative  honey
+honey default demonstrative 
 750901	there
 750903	in; concerning; compared with; by (oath).
 skin bag (for churning or carrying liquids)
@@ -34776,19 +34777,19 @@ in; concerning; compared with; by (oath).
 and
 750938	particle expressing prominence 
 750940	rope
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 750943	large flat stone
-750945	head; top; beginning. in, at, on, with, by means of.
+750945	in, at, on, with, by means of. head; top; beginning.
 750947	a little (quantity); a few 
-sheep’s dung that has been broken up (mpurtəxa) by the trampling of their feet from, with:
-head; top; beginning. in, at, on, with, by means of.
+from, with: sheep’s dung that has been broken up (mpurtəxa) by the trampling of their feet
+in, at, on, with, by means of. head; top; beginning.
 750951	sheep; goat
 750953	ass
 preverbal particle
 speaker deixis demonstrative  and
 750960	also, even; connective particle .
 750962	blood
-thing and
+and thing
 and
 to, for.
 750968	sad
@@ -34810,7 +34811,7 @@ and
 751003	to, for.
 751005	wolf some, a few, a little (quantity) 
 751007	or
-ass and
+and ass
 751010	and
 just, only; but.
 751013	speaker deixis demonstrative 
@@ -34821,7 +34822,7 @@ sign, symbol, symbolic act, token
 ash
 in; concerning; compared with; by (oath). above; directly
 751025	son; young animal
-751028	money default demonstrative  and
+751028	money and default demonstrative 
 751030	in, at, on, with, by means of. reciprocal pronoun 
 751033	from, with:
 751036	from, with:
@@ -34829,9 +34830,9 @@ default demonstrative
 751039	wretched, poor
 751041	there
 in; concerning; compared with; by (oath). thing; trifle, small amount.
-751044	vocative particle The Lord
+751044	The Lord vocative particle
 God 
-751047	what; why?; how could it be? how (exclamatory). almost, about to; connective particle .
+751047	almost, about to; connective particle . what; why?; how could it be? how (exclamatory).
 751049	God  to, for.
 God  vocative particle
 751052	I
@@ -34842,7 +34843,7 @@ intensifying particle
 751064	preverbal particle
 in; concerning; compared with; by (oath).
 hole; well
-and I
+I and
 what; why?; how could it be? how (exclamatory).
 751070	I
 751073	side, direction
@@ -34850,7 +34851,7 @@ evil
 side, direction
 goodness; favour
 to, for. man, person; family relative not any 
-always; again; still; as soon as; directly; just, only; the same; surely . child
+child always; again; still; as soon as; directly; just, only; the same; surely .
 751080	sitting; inhabited
 there
 751084	suffering, catastrophe
@@ -34873,13 +34874,13 @@ light
 here
 small
 or
-always; again; still; as soon as; directly; just, only; the same; surely . thing one; a 
+always; again; still; as soon as; directly; just, only; the same; surely . one; a  thing
 751115	child
 small
 thing
 751119	knife
 751121	default demonstrative 
-751124	knife default demonstrative 
+751124	default demonstrative  knife
 751127	honey
 751133	in; concerning; compared with; by (oath). one; a 
 751135	I
@@ -34893,18 +34894,18 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 and
 presentative particle; but; otherwise .
 751155	wood; piece of wood in, at, on, with, by means of.
-one; a  metal lock (of a door)
-silver and
+metal lock (of a door) one; a 
+and silver
 751159	silver
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 negative copula
 gold; gold coin
 751164	speaker deixis demonstrative 
-751166	world, weather. (K./A.) in; concerning; compared with; by (oath). one; a 
+751166	in; concerning; compared with; by (oath). one; a  world, weather. (K./A.)
 751168	sun
 blue/green
 751171	blue/green
-751173	vocative particle The Lord
+751173	The Lord vocative particle
 God 
 speaker deixis demonstrative 
 751177	I
@@ -34915,7 +34916,7 @@ thirsty
 water
 751188	blueness; greenness; greens, vegetables
 goatskin or lambskin (spread on floor to sit on)
-751191	one; a  tree
+751191	tree one; a 
 751194	tree
 and
 a little (quantity); a few 
@@ -34933,12 +34934,12 @@ wretched, poor
 751220	where? how?
 751223	breath; time, instance; yes. one; a 
 751225	distance; distant. from, with:
-thing one; a 
+one; a  thing
 white
 in; concerning; compared with; by (oath).
 blueness; greenness; greens, vegetables
 751231	ripe
-751235	palace; large house (consisting of two storeys and made of dressed stones) one; a 
+751235	one; a  palace; large house (consisting of two storeys and made of dressed stones)
 much, a lot, many; very .
 big; great; old.
 751241	man, person; family relative not any 
@@ -34957,17 +34958,17 @@ food; nourishment
 hot; warm
 man, person; family relative not any 
 negative existential particle 
-751269	in; concerning; compared with; by (oath). room one; a 
+751269	room in; concerning; compared with; by (oath). one; a 
 751271	big; great; old.
 751273	some, a few, a little (quantity) 
-751275	from, with: side
+751275	side from, with:
 some, a few, a little (quantity) 
-from, with: side
+side from, with:
 one; a 
 751281	every; all, all of .
-751283	stone in, at, on, with, by means of.
+751283	in, at, on, with, by means of. stone
 valulable; tasty
-751286	also, even; connective particle . speaker deixis demonstrative 
+751286	speaker deixis demonstrative  also, even; connective particle .
 751288	sitting; inhabited
 there
 and
@@ -35017,13 +35018,13 @@ wretched, poor
 751369	comfortable, at ease, content
 751371	food; nourishment
 751373	thing
-751376	every; all, all of . thing one; a 
+751376	every; all, all of . one; a  thing
 from, with: reciprocal pronoun 
 751380	you
 751382	story; affair
 751384	from, with:
 751386	here
-how? how could it be? like, just as; when and
+and how? how could it be? like, just as; when
 751389	queen
 751391	pleasant, beautiful; delicious; healthy; sharp.
 751393	I
@@ -35038,10 +35039,10 @@ much, a lot, many; very .
 751412	humanity
 humanity
 751415	I
-751418	and today
+751418	today and
 751420	I
 here
-751423	also, even; connective particle . I
+751423	I also, even; connective particle .
 speaker deixis demonstrative 
 751428	about, concerning; on account of; in, by.
 751430	how? how could it be? like, just as; when
@@ -35049,7 +35050,7 @@ speaker deixis demonstrative
 751436	I
 master, owner
 speaker deixis demonstrative 
-751441	one; a  day; sun.
+751441	day; sun. one; a 
 751443	hand; handle; arm; foot (of an animal); round of a game. about, concerning; on account of; in, by.
 751445	you
 751449	queen
@@ -35069,20 +35070,20 @@ side, direction
 751474	thus, like this, so, such
 particle expressing prominence 
 751477	default demonstrative  almost, about to; connective particle .
-751479	also, even; connective particle . I
-751482	story; affair one; a 
+751479	I also, even; connective particle .
+751482	one; a  story; affair
 751485	particle expressing prominence 
 queen
 master, owner
-751492	one; a  king
-751495	son; young animal one; a 
+751492	king one; a 
+751495	one; a  son; young animal
 751497	and
 or
 and
-two and
+and two
 751502	hunt
 751504	hunt
-751506	breath; time, instance; yes. one; a  and
+751506	breath; time, instance; yes. and one; a 
 751508	one; a 
 plain; level ground in; concerning; compared with; by (oath).
 and
@@ -35100,16 +35101,16 @@ sea; lake
 751532	default demonstrative 
 king
 751535	king
-default demonstrative  two and
+and default demonstrative  two
 751541	in; concerning; compared with; by (oath). from, with:
-751543	breath; time, instance; yes. one; a  and
-751547	in; concerning; compared with; by (oath). sea; lake
+751543	breath; time, instance; yes. and one; a 
+751547	sea; lake in; concerning; compared with; by (oath).
 and
 and
-751552	in; concerning; compared with; by (oath). sea; lake
+751552	sea; lake in; concerning; compared with; by (oath).
 751554	also, even; connective particle . default demonstrative 
 751561	preverbal particle and
-751563	default demonstrative  meat; dewlap (of goat)
+751563	meat; dewlap (of goat) default demonstrative 
 and
 from, with:
 751568	ripe
@@ -35126,7 +35127,7 @@ to, for, upon, at, by: Admominal uses
 751584	finally; afterwards, then; recently
 751587	from, with:
 751591	there
-one; a  in, at, on, with, by means of.
+in, at, on, with, by means of. one; a 
 tree
 751595	particle expressing prominence 
 751597	in; concerning; compared with; by (oath).
@@ -35148,27 +35149,27 @@ every; all, all of .
 world, weather. (K./A.)
 751637	finally; afterwards, then; recently
 distance; distant. from, with:
-751640	thing one; a 
+751640	one; a  thing
 white
 751646	presentative particle; but; otherwise .
 house; home; verse (of poetry/song) one; a 
-palace; large house (consisting of two storeys and made of dressed stones) one; a 
+one; a  palace; large house (consisting of two storeys and made of dressed stones)
 much, a lot, many; very .
 beautiful, pleasant
 751655	yes
 751659	in; concerning; compared with; by (oath). palace; large house (consisting of two storeys and made of dressed stones)
 751662	and food; nourishment
-751664	every; all, all of . thing and
+751664	and every; all, all of . thing
 751666	presentative particle; but; otherwise .
 man, person; family relative
 negative existential particle 
 master, owner
 751672	master, owner
 king
-751675	board; wooden bed; throne. to, for, upon, at, by: Admominal uses
-one; a  and
-751678	upon chair
-upon one; a 
+751675	to, for, upon, at, by: Admominal uses board; wooden bed; throne.
+and one; a 
+751678	chair upon
+one; a  upon
 and
 what? 
 tired
@@ -35179,7 +35180,7 @@ what; why?; how could it be? how (exclamatory).
 751689	monkey
 751692	how? how could it be? like, just as; when
 monkey
-751695	to, for, upon, at, by: Admominal uses tree
+751695	tree to, for, upon, at, by: Admominal uses
 751698	mind
 presentative particle; but; otherwise .
 thousand
@@ -35189,7 +35190,7 @@ default demonstrative
 751706	and sword
 bow; sling and
 arrow; long thin rolling pin
-751711	monkey to, for.
+751711	to, for. monkey
 751713	one; a 
 two
 what; why?; how could it be? how (exclamatory).
@@ -35199,12 +35200,12 @@ from, with:
 751724	story; affair
 master, owner
 breath; time, instance; yes. one; a 
-751728	monkey one; a 
+751728	one; a  monkey
 much, a lot, many; very .
 from, with:
 751732	big; great; old.
-751738	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. king
-751740	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. king
+751738	king before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+751740	king before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 751742	king
 751744	pleasant, beautiful; delicious; healthy; sharp.
 you
@@ -35230,7 +35231,7 @@ interjection opening speech turns
 until, up to; before; until when. morning
 751787	and
 maternal aunt and
-751790	until, up to; before; until when. word and
+751790	until, up to; before; until when. and word
 to, for.
 monkey
 every; all, all of . thing
@@ -35245,7 +35246,7 @@ one; a  joy
 what; why?; how could it be? how (exclamatory).
 751808	what; why?; how could it be? how (exclamatory).
 751810	king
-751812	monkey to, for.
+751812	to, for. monkey
 751814	monkey
 751818	soil, ground; land
 751821	speaker deixis demonstrative 
@@ -35263,9 +35264,9 @@ monkey
 dead
 there
 751846	speaker deixis demonstrative 
-751849	here until, up to; before; until when.
+751849	until, up to; before; until when. here
 border
-751852	here from, with:
+751852	from, with: here
 beyond; onwards
 mountain; region of mountains
 751859	always
@@ -35299,8 +35300,8 @@ just, only; but.
 Saturday; week
 water
 side, direction
-in; concerning; compared with; by (oath). river
-to, for, upon, at, by: Admominal uses face; front; upper surface; side (of river).
+river in; concerning; compared with; by (oath).
+face; front; upper surface; side (of river). to, for, upon, at, by: Admominal uses
 751912	river
 existential particle 
 one; a 
@@ -35323,14 +35324,14 @@ road; way.
 751942	we
 and
 wolf
-751947	wolf from, with:
+751947	from, with: wolf
 751949	to, for, upon, at, by: Admominal uses
 mountain; region of mountains
 751952	to, for, upon, at, by: Admominal uses
 mountain; region of mountains
-to, for, upon, at, by: Admominal uses valley
+valley to, for, upon, at, by: Admominal uses
 ants
-751958	in; concerning; compared with; by (oath). valley
+751958	valley in; concerning; compared with; by (oath).
 default demonstrative  almost, about to; connective particle .
 we
 751963	if ; either/or ; interrogative particle.
@@ -35351,10 +35352,10 @@ negative existential particle
 and
 751995	land, country; homeland
 751998	until, up to; before; until when. word
-monkey to, for.
-every; all, all of . and
+to, for. monkey
+and every; all, all of .
 752004	word
-monkey to, for.
+to, for. monkey
 752007	monkey
 thousand in, at, on, with, by means of.
 speaker deixis demonstrative 
@@ -35365,16 +35366,16 @@ master, owner
 752023	monkey
 day; sun.
 and
-also, even; connective particle . king
+king also, even; connective particle .
 king
 and
 752031	bow; sling and
 arrow; long thin rolling pin
 752034	fighting; war
-wolf from, with:
+from, with: wolf
 master, owner
 752039	blood
-752041	in, at, on, with, by means of. small valley
+752041	small valley in, at, on, with, by means of.
 particle expressing prominence 
 breath; time, instance; yes. one; a 
 wolf
@@ -35385,14 +35386,14 @@ presentative particle; but; otherwise .
 752053	one; a  monument; statue
 752055	there
 king
-752059	here until, up to; before; until when.
+752059	until, up to; before; until when. here
 752062	from, with:
 beyond
 752065	valley
 ants
 every; all, all of .
 752069	every; all, all of .
-752071	in; concerning; compared with; by (oath). valley
+752071	valley in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 ants
 752076	what? 
@@ -35402,15 +35403,15 @@ monkey
 752082	every; all, all of .
 good
 752086	we
-752089	you because
+752089	because you
 752091	tired
 much, a lot, many; very .
 monkey
 every; all, all of .
-752096	breath; time, instance; yes. one; a  and
+752096	breath; time, instance; yes. and one; a 
 default demonstrative 
 752100	soul, person; reflexive pronoun .
-752102	in; concerning; compared with; by (oath). valley
+752102	valley in; concerning; compared with; by (oath).
 ants
 breath; time, instance; yes. one; a 
 thus; like that; the same; so much.
@@ -35423,7 +35424,7 @@ negative existential particle
 752115	negative existential particle 
 752120	behind
 every; all, all of .
-752124	also, even; connective particle . speaker deixis demonstrative 
+752124	speaker deixis demonstrative  also, even; connective particle .
 752126	speaker deixis demonstrative 
 monkey
 in; concerning; compared with; by (oath).
@@ -35441,14 +35442,14 @@ ants
 preverbal particle
 one; a 
 752144	king
-one; a  and
+and one; a 
 752147	ripe
 river to, for, upon, at, by: Admominal uses
 752151	Saturday; week
 presentative particle; but; otherwise .
-752157	in; concerning; compared with; by (oath). river
+752157	river in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
-752160	other, another; more; again; discourse particle. also, even; connective particle .
+752160	also, even; connective particle . other, another; more; again; discourse particle.
 752162	water in, at, on, with, by means of.
 752164	about, concerning
 king
@@ -35513,18 +35514,18 @@ each, every; whoever
 evening; late afternoon
 752288	house; home; verse (of poetry/song)
 each, every; whoever 
-752293	village in; concerning; compared with; by (oath).
-one; a  day; sun.
-two three
-one; a  day; sun.
+752293	in; concerning; compared with; by (oath). village
+day; sun. one; a 
+three two
+day; sun. one; a 
 752298	one; a  man, person; family relative
 752303	morning
 until, up to; before; until when. evening; late afternoon
-twenty and
+and twenty
 four
 752310	gold; gold coin hundred
-and negative copula in, at, on, with, by means of.
-752313	also, even; connective particle . woman; wife one; a 
+negative copula and in, at, on, with, by means of.
+752313	woman; wife also, even; connective particle . one; a 
 one; a  maid-servant
 default demonstrative 
 in, at, on, with, by means of.
@@ -35568,7 +35569,7 @@ morning
 752383	every; all, all of . thing
 752388	what? 
 752390	horse one; a 
-752392	knife one; a 
+752392	one; a  knife
 752396	and
 752400	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. some, a few, a little (quantity) 
 mountain; region of mountains
@@ -35591,10 +35592,10 @@ how many/much? some, several; so much/many; however much, as much as; when; as f
 until, up to; before; until when.
 752434	default demonstrative  almost, about to; connective particle .
 752437	what? 
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 752440	in; concerning; compared with; by (oath). thing; trifle, small amount.
 752442	a little (quantity); a few 
-in, at, on, with, by means of. day; sun.
+day; sun. in, at, on, with, by means of.
 heat
 breath; time, instance; yes. one; a 
 752447	some, a few, a little (quantity) 
@@ -35607,7 +35608,7 @@ mountain; region of mountains
 752458	there
 always; again; still; as soon as; directly; just, only; the same; surely .
 752462	and
-breath; time, instance; yes. one; a  and
+breath; time, instance; yes. and one; a 
 two
 and
 752468	knife
@@ -35618,14 +35619,14 @@ like, as; when.
 752476	default demonstrative  giant mythological bird
 752480	mind
 in, at, on, with, by means of.
-752484	upon mountain; region of mountains
+752484	mountain; region of mountains upon
 negative existential particle 
 one; a  road; way.
 goatskin or lambskin (spread on floor to sit on)
 default demonstrative  almost, about to; connective particle .
-merchant default demonstrative 
+default demonstrative  merchant
 752492	money
-752495	stone from, with:
+752495	from, with: stone
 752497	there
 almost, about to; connective particle .
 road; way.
@@ -35647,7 +35648,7 @@ dead
 there
 752530	in, at, on, with, by means of.
 752533	almost, about to; connective particle .
-stone from, with:
+from, with: stone
 default demonstrative 
 every; all, all of .
 752538	from, with:
@@ -35655,7 +35656,7 @@ mountain; region of mountains
 752542	until, up to; before; until when.
 evening; late afternoon
 evening; late afternoon
-merchant default demonstrative 
+default demonstrative  merchant
 752547	man, person; family relative
 752549	servant
 752552	default demonstrative  stone
@@ -35675,22 +35676,22 @@ thing
 negative existential particle 
 752574	darkness
 752576	there
-default demonstrative  negative copula
+negative copula default demonstrative 
 day; sun.
 value
 one; a  almost, about to; connective particle .
-752584	also, even; connective particle . I
+752584	I also, even; connective particle .
 752586	here
-752588	like, as; when. speaker deixis demonstrative 
+752588	speaker deixis demonstrative  like, as; when.
 dead
-752591	mountain; region of mountains in, at, on, with, by means of.
+752591	in, at, on, with, by means of. mountain; region of mountains
 752595	where? how?
 752597	where? how?
 752603	yes
 master, owner
 752608	until, up to; before; until when.
-mountain; region of mountains in, at, on, with, by means of.
-752614	one; a  hut
+in, at, on, with, by means of. mountain; region of mountains
+752614	hut one; a 
 small
 house; home; verse (of poetry/song) one; a 
 small
@@ -35718,16 +35719,16 @@ story; affair
 water
 752657	from, with:
 God 
-752660	you if ; either/or ; interrogative particle.
+752660	if ; either/or ; interrogative particle. you
 752665	God 
 752668	yes
 752670	yes
-752673	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+752673	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 752675	water
 752677	and
 food; nourishment
 752680	and
-752683	particle expressing prominence  value
+752683	value particle expressing prominence 
 752686	every; all, all of .
 to, for. old (man); grandfather; ancestor
 752689	what; why?; how could it be? how (exclamatory).
@@ -35739,14 +35740,14 @@ I
 752699	and
 from, with:
 752703	there
-one; a  day; sun.
-two and three
+day; sun. one; a 
+and three two
 breath; time, instance; yes. one; a 
 752708	one; a 
 water
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 house; home; verse (of poetry/song)
-752713	default demonstrative  man, person; family relative
+752713	man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 752719	also, even; connective particle . or
 752722	old (man); grandfather; ancestor
@@ -35757,7 +35758,7 @@ flower
 752734	Spring (season)
 752736	some, a few, a little (quantity) 
 man, person; family relative
-752742	default demonstrative  man, person; family relative
+752742	man, person; family relative default demonstrative 
 752749	to, for.
 king
 752753	master, owner
@@ -35794,12 +35795,12 @@ you
 752814	which?
 752817	speaker deixis demonstrative 
 752821	job, profession, business; affair, thing
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 752825	each, every; whoever  day; sun.
 goatskin or lambskin (spread on floor to sit on)
-752828	place, space. one; a 
+752828	one; a  place, space.
 752830	there
-one; a  day; sun.
+day; sun. one; a 
 752833	presentative particle; but; otherwise .
 752836	presentative particle; but; otherwise .
 dove, pigeon
@@ -35845,7 +35846,7 @@ also, even; connective particle . or
 752914	cloth
 752916	there
 752919	default demonstrative 
-752921	three day; sun.
+752921	day; sun. three
 752923	three month
 what? 
 child from, with:
@@ -35879,10 +35880,10 @@ man, person; family relative
 752990	how many/much? some, several; so much/many; however much, as much as; when; as for 
 time; point in time; period of time
 finally; afterwards, then; recently
-one; a  day; sun.
-752995	to, for, upon, at, by: Admominal uses roof
+day; sun. one; a 
+752995	roof to, for, upon, at, by: Admominal uses
 thus, like this, so, such
-place, space. one; a 
+one; a  place, space.
 high
 753004	and
 753007	leaf (of a plant); leafy branch (of a tree)
@@ -35895,10 +35896,10 @@ what; why?; how could it be? how (exclamatory).
 story; affair
 753025	thus, like this, so, such
 753027	in, at, on, with, by means of.
-753029	also, even; connective particle . I
+753029	I also, even; connective particle .
 side, direction
-also, even; connective particle . I
-753033	one; a  king
+I also, even; connective particle .
+753033	king one; a 
 753038	I
 753040	king
 753042	and
@@ -35914,7 +35915,7 @@ I
 if ; either/or ; interrogative particle.
 land, country; homeland
 side, direction
-place, space. one; a 
+one; a  place, space.
 753068	foreigner, stranger; foreign, strange
 753073	if ; either/or ; interrogative particle.
 753078	of course
@@ -35923,14 +35924,14 @@ side, direction
 which?
 cloth
 753088	old (man); grandfather; ancestor
-particle expressing prominence  in, at, on, with, by means of. peace
-753092	default demonstrative  old (man); grandfather; ancestor
+in, at, on, with, by means of. peace particle expressing prominence 
+753092	old (man); grandfather; ancestor default demonstrative 
 753094	in, at, on, with, by means of. peace
 which?
-753098	one; a  day; sun.
-two day; sun.
+753098	day; sun. one; a 
+day; sun. two
 finally; afterwards, then; recently
-753104	place, space. one; a 
+753104	one; a  place, space.
 753106	three
 four
 breath; time, instance; yes. one; a 
@@ -35945,7 +35946,7 @@ presentative particle; but; otherwise .
 753131	there
 753135	perhaps
 753137	perhaps
-753141	in; concerning; compared with; by (oath). sea; lake
+753141	sea; lake in; concerning; compared with; by (oath).
 one; a  man, person; family relative if ; either/or ; interrogative particle.
 753144	word
 about, concerning; on account of; in, by.
@@ -35962,7 +35963,7 @@ breath; time, instance; yes. one; a
 753165	thus, like this, so, such
 presentative particle; but; otherwise .
 753168	king
-753170	one; a  and
+753170	and one; a 
 753173	preverbal particle default demonstrative 
 753175	particle expressing necessity (deontic and epistemic)
 753177	king
@@ -35970,8 +35971,8 @@ other, another; more; again; discourse particle. one; a
 753181	story; affair
 753183	king
 753186	or
-other, another; more; again; discourse particle. and or
-753189	one; a  kilo
+and other, another; more; again; discourse particle. or
+753189	kilo one; a 
 gold; gold coin
 753194	in; concerning; compared with; by (oath). head; top; beginning.
 753196	or
@@ -35984,14 +35985,14 @@ negative copula
 753212	suffering, catastrophe
 from, with:
 753215	other, another; more; again; discourse particle.
-753226	and drum.
+753226	drum. and
 pipe
 753232	time; point in time; period of time how many/much? some, several; so much/many; however much, as much as; when; as for 
 king
 preverbal particle
 one; a 
 753237	much, a lot, many; very .
-753239	girl; daughter in, at, on, with, by means of.
+753239	in, at, on, with, by means of. girl; daughter
 753241	to, for.
 how? how could it be? like, just as; when
 753245	in, at, on, with, by means of.
@@ -36012,7 +36013,7 @@ default demonstrative  girl; daughter
 753272	queen
 stamp, seal
 every; all, all of . thing
-753276	world, weather. (K./A.) in; concerning; compared with; by (oath).
+753276	in; concerning; compared with; by (oath). world, weather. (K./A.)
 753279	no, none  thing
 side, direction
 I
@@ -36028,13 +36029,13 @@ tower one; a
 like, as; when.
 I
 753300	what? 
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 753304	tower
 unless, only if, except, but, particle of insistence; or not .
 753307	child default demonstrative 
 king
 753311	perhaps
-753313	one; a  day; sun.
+753313	day; sun. one; a 
 default demonstrative  girl; daughter
 anger
 753318	speaker deixis demonstrative 
@@ -36044,12 +36045,12 @@ cloth
 753328	what; why?; how could it be? how (exclamatory).
 753330	what; why?; how could it be? how (exclamatory).
 753334	cloth default demonstrative 
-753336	in; concerning; compared with; by (oath). box
+753336	box in; concerning; compared with; by (oath).
 753338	in; concerning; compared with; by (oath).
 house; home; verse (of poetry/song)
 and
 wall
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 speaker deixis demonstrative  particle expressing prominence 
 753345	heart; kernel of fruit or berry
 pure
@@ -36061,16 +36062,16 @@ negative existential particle
 speaker deixis demonstrative 
 753364	cloth
 753368	particle expressing prominence 
-one; a  day; sun.
-753371	in; concerning; compared with; by (oath). basement stable
+day; sun. one; a 
+753371	basement stable in; concerning; compared with; by (oath).
 753373	cloth
 753378	here
 753382	behind
 753384	from, with:
 753386	preverbal particle
-753389	one; a  day; sun.
+753389	day; sun. one; a 
 753391	cloth
-753395	to, for, upon, at, by: Admominal uses roof
+753395	roof to, for, upon, at, by: Admominal uses
 753397	in, at, on, with, by means of. man; married man, husband; gentleman, courtier; valiant man
 753400	I
 753404	and
@@ -36092,7 +36093,7 @@ speaker deixis demonstrative
 753438	breath; time, instance; yes. one; a 
 753440	Armenian
 753443	plunder, robbery
-to, for, upon, at, by: Admominal uses plunder, robbery
+plunder, robbery to, for, upon, at, by: Admominal uses
 household of; family of
 753449	buffalo
 753451	camel
@@ -36102,7 +36103,7 @@ to, for, upon, at, by: Admominal uses
 753466	seventy spin
 753468	seventy spin
 753472	seventy gift dedicated to the church at festivals (usually sheep or goat); meal in church dedicated to the memory of the dead
-753474	standing presentative particle
+753474	presentative particle standing
 cradle
 753478	teller, recounter
 753480	almost, about to; connective particle .
@@ -36131,14 +36132,14 @@ road; way.
 moustache
 753531	one; a 
 753533	in; concerning; compared with; by (oath). desert
-one; a  rabbit
+rabbit one; a 
 753539	blind
 753541	blind
 where? how?
 753545	you
 753547	in; concerning; compared with; by (oath).
 bush, shrub
-one; a  in, at, on, with, by means of. or jump, bound
+in, at, on, with, by means of. one; a  or jump, bound
 753551	from, with:
 each, every; whoever  falcon; great person
 ten
@@ -36152,18 +36153,18 @@ there
 753571	forty
 thousand
 army
-753575	in, at, on, with, by means of. side
+753575	side in, at, on, with, by means of.
 forty
 thousand
 army
-753580	in, at, on, with, by means of. side
+753580	side in, at, on, with, by means of.
 forty
 thousand
 army
-753585	in, at, on, with, by means of. side
+753585	side in, at, on, with, by means of.
 forty
 thousand
-from, with: side
+side from, with:
 753590	hundred
 sixty
 thousand
@@ -36171,17 +36172,17 @@ thousand
 default demonstrative  almost, about to; connective particle .
 753597	Armenian
 753601	measure
-753604	to, for, upon, at, by: Admominal uses roof
+753604	roof to, for, upon, at, by: Admominal uses
 roof
 753607	every; all, all of .
 753613	speaker deixis demonstrative 
-one; a  strength, force, power
+strength, force, power one; a 
 753616	household of; family of
 speaker deixis demonstrative 
 negative existential particle 
 thus, like this, so, such
 thing
-753622	to, for, upon, at, by: Admominal uses roof
+753622	roof to, for, upon, at, by: Admominal uses
 753624	speaker deixis demonstrative 
 753626	thus, like this, so, such
 753629	preverbal particle
@@ -36191,7 +36192,7 @@ thing
 753647	side, direction
 753650	Armenian
 hundred and
-thousand sixty
+sixty thousand
 army
 753656	in; concerning; compared with; by (oath). desert
 753662	towards; against (agressively)
@@ -36244,7 +36245,7 @@ big; great; old.
 753756	you
 753760	plunder, robbery
 town
-753763	woman; wife and
+753763	and woman; wife
 753765	and
 and
 every; all, all of .
@@ -36286,8 +36287,8 @@ I
 snuff
 753832	breath; time, instance; yes. one; a 
 other, another; more; again; discourse particle.
-753836	under I
-753839	also, even; connective particle . I
+753836	I under
+753839	I also, even; connective particle .
 753854	default demonstrative 
 preverbal particle
 in, at, on, with, by means of.
@@ -36305,7 +36306,7 @@ other, another; more; again; discourse particle.
 dead
 here
 753889	to, for.
-also, even; connective particle . I
+I also, even; connective particle .
 753895	a little (quantity); a few 
 753901	I
 753904	you
@@ -36369,7 +36370,7 @@ also, even; connective particle . or
 bear; the constellation ‘The Great Bear’
 754025	one; a  piece
 754027	here
-here one; a 
+one; a  here
 and
 754033	town
 every; all, all of .
@@ -36378,11 +36379,11 @@ every; all, all of .
 in, at, on, with, by means of. peace
 new
 754044	lower back, pelvis
-one; a  day; sun.
+day; sun. one; a 
 bear; the constellation ‘The Great Bear’
 754048	in; concerning; compared with; by (oath). mountain; region of mountains
-754050	one; a  fox in, at, on, with, by means of.
-default demonstrative  fox
+754050	in, at, on, with, by means of. one; a  fox
+fox default demonstrative 
 754053	presentative particle
 754055	thin cane, reed
 vocative particle
@@ -36390,15 +36391,15 @@ bear; the constellation ‘The Great Bear’
 in, at, on, with, by means of.
 754060	behind; after; through.
 754062	perhaps
-thing one; a 
+one; a  thing
 754067	thing
 here
-here from, with:
+from, with: here
 754071	what? 
 in, at, on, with, by means of.
 754074	how? how could it be? like, just as; when
 754076	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 754079	side, direction
 cold not any 
 754082	here
@@ -36406,18 +36407,18 @@ cold not any
 754086	one; a  pannier bag on the back of an animal
 storage basket
 754089	storage basket one; a 
-Winter to, for.
+to, for. Winter
 side, direction
 754093	side, direction
 cold
 side, direction
 snow; ice
-754098	upon mountain; region of mountains
+754098	mountain; region of mountains upon
 754101	particle expressing prominence 
 754104	pliable twig
 and
 754110	you
-754114	here until, up to; before; until when.
+754114	until, up to; before; until when. here
 754116	particle expressing prominence 
 754118	from, with:
 754120	side, direction
@@ -36431,7 +36432,7 @@ leg; foot
 754138	unless, only if, except, but, particle of insistence; or not .
 and
 754141	and
-754144	mountain; region of mountains in, at, on, with, by means of.
+754144	in, at, on, with, by means of. mountain; region of mountains
 until, up to; before; until when.
 thing; trifle, small amount.
 in; concerning; compared with; by (oath). small ravine
@@ -36446,37 +36447,37 @@ storage basket default demonstrative
 754165	fox or
 754167	fox
 754169	which?
-754172	one; a  day; sun.
+754172	day; sun. one; a 
 two
 three
 754176	good, well.
 754179	side
 side
-754183	in; concerning; compared with; by (oath). hole one; a 
+754183	hole in; concerning; compared with; by (oath). one; a 
 754185	in; concerning; compared with; by (oath). one; a 
 large rock; cliff
 754189	hole
 small
-also, even; connective particle . and
+and also, even; connective particle .
 754195	there
 and
 children → yala
-default demonstrative  fox
+fox default demonstrative 
 754200	there
-and bear; the constellation ‘The Great Bear’
+bear; the constellation ‘The Great Bear’ and
 754203	there
 754205	bear; the constellation ‘The Great Bear’
 and
 hand; handle; arm; foot (of an animal); round of a game.
 754213	hole because
-754215	fox and
+754215	and fox
 754219	thus; like that; the same; so much.
 754221	bear; the constellation ‘The Great Bear’
 754224	one; a 
 hornet
 754228	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 754230	fox
-always; again; still; as soon as; directly; just, only; the same; surely . hornet
+hornet always; again; still; as soon as; directly; just, only; the same; surely .
 and
 754237	default demonstrative 
 754240	there
@@ -36484,25 +36485,25 @@ and
 754248	to, for.
 754251	what; why?; how could it be? how (exclamatory).
 woman; wife
-754255	son; young animal to, for.
+754255	to, for. son; young animal
 here
 and
 754260	what; why?; how could it be? how (exclamatory).
 754263	what; why?; how could it be? how (exclamatory).
-754265	small default demonstrative 
+754265	default demonstrative  small
 754267	until, up to; before; until when. default demonstrative 
 754269	bear; the constellation ‘The Great Bear’
 from, with: there
-754272	small default demonstrative 
+754272	default demonstrative  small
 754274	and
 and
 hornet default demonstrative 
-always; again; still; as soon as; directly; just, only; the same; surely . and thin cane, reed
+and thin cane, reed always; again; still; as soon as; directly; just, only; the same; surely .
 754279	and thin cane, reed
 754281	and thin cane, reed
 754284	default demonstrative  almost, about to; connective particle .
 bear; the constellation ‘The Great Bear’
-754288	here from, with:
+754288	from, with: here
 754291	story; affair
 754293	what; why?; how could it be? how (exclamatory).
 woman; wife
@@ -36512,9 +36513,9 @@ woman; wife
 754307	Saturday; week one; a 
 two
 Saturday; week
-754311	also, even; connective particle . default demonstrative  three
+754311	default demonstrative  also, even; connective particle . three
 preverbal particle
-hornet and
+and hornet
 always; again; still; as soon as; directly; just, only; the same; surely .
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 hole
@@ -36527,7 +36528,7 @@ to, for, upon, at, by: Admominal uses
 754335	fox
 754337	presentative particle
 754339	master, owner
-754343	small broom, brush in, at, on, with, by means of.
+754343	in, at, on, with, by means of. small broom, brush
 breath; time, instance; yes. one; a 
 754348	fox
 754350	what? 
@@ -36548,14 +36549,14 @@ and
 754382	and
 side
 754385	presentative particle; but; otherwise .
-side, direction bear; the constellation ‘The Great Bear’
-side, direction not any 
+bear; the constellation ‘The Great Bear’ side, direction
+not any  side, direction
 thing
 hornet
 there
 754392	there
 754396	bear; the constellation ‘The Great Bear’
-son; young animal three
+three son; young animal
 754399	woman; wife
 754401	respect; good will; favour
 754405	there
@@ -36563,14 +36564,14 @@ and
 here
 754409	one; a 
 woman; wife and
-one; a  man; married man, husband; gentleman, courtier; valiant man
+man; married man, husband; gentleman, courtier; valiant man one; a 
 woman; wife default demonstrative 
 754414	man; married man, husband; gentleman, courtier; valiant man
 754416	particle expressing prominence 
 man, person; family relative
 754421	idle, without work
 sitting; inhabited
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 how? how could it be? like, just as; when
 754427	negative existential particle  side, direction
 job, profession, business; affair, thing
@@ -36593,12 +36594,12 @@ house; home; verse (of poetry/song) side, direction
 754468	messenger; goal, objective
 754473	cave
 existential particle  man, person; family relative
-negative existential particle  man, person; family relative if ; either/or ; interrogative particle.
+man, person; family relative if ; either/or ; interrogative particle. negative existential particle 
 754479	cave
 presentative particle; but; otherwise .
 754483	seven
 giant
-giant seven
+seven giant
 754487	cave in; concerning; compared with; by (oath).
 754489	vocative particle
 darkness
@@ -36607,24 +36608,24 @@ always; again; still; as soon as; directly; just, only; the same; surely . wolf
 754494	always; again; still; as soon as; directly; just, only; the same; surely .
 in; concerning; compared with; by (oath).
 giant
-always; again; still; as soon as; directly; just, only; the same; surely . giant also, even; connective particle .
+also, even; connective particle . always; again; still; as soon as; directly; just, only; the same; surely . giant
 754501	to, for, upon, at, by: Admominal uses
 754508	mind
 each, every; whoever  one; a 
 754511	head; top; beginning.
 754513	to, for, upon, at, by: Admominal uses mountain; region of mountains
-754516	here until, up to; before; until when.
+754516	until, up to; before; until when. here
 moustache
-here until, up to; before; until when.
+until, up to; before; until when. here
 754520	speaker deixis demonstrative 
 always; again; still; as soon as; directly; just, only; the same; surely .
 754524	presentative particle; but; otherwise .
-754526	thing one; a 
+754526	one; a  thing
 heart; kernel of fruit or berry in; concerning; compared with; by (oath).
 754531	peace; greeting
 754533	one; a 
-754535	other, another; more; again; discourse particle. in, at, on, with, by means of.
-754538	one; a  brother
+754535	in, at, on, with, by means of. other, another; more; again; discourse particle.
+754538	brother one; a 
 other, another; more; again; discourse particle.
 754541	you
 from, with:
@@ -36640,7 +36641,7 @@ I
 754578	how? how could it be? like, just as; when
 754581	in, at, on, with, by means of.
 754583	really
-754585	thing one; a 
+754585	one; a  thing
 other, another; more; again; discourse particle.
 thing three
 speaker deixis demonstrative 
@@ -36657,7 +36658,7 @@ much, a lot, many; very .
 much, a lot, many; very .
 754609	if ; either/or ; interrogative particle.
 754613	default demonstrative 
-754615	what; why?; how could it be? how (exclamatory). or
+754615	or what; why?; how could it be? how (exclamatory).
 to, for; so that.
 master, owner
 you
@@ -36677,8 +36678,8 @@ what; why?; how could it be? how (exclamatory). to, for; so that.
 754640	water
 from, with: there
 754643	in, at, on, with, by means of.
-or good
-754647	one; a  rope
+good or
+754647	rope one; a 
 much, a lot, many; very .
 smell
 754651	every; all, all of .
@@ -36698,7 +36699,7 @@ water in, at, on, with, by means of.
 also, even; connective particle .
 754678	side, direction
 water side, direction
-thing side, direction and not any 
+and thing not any  side, direction
 we
 always; again; still; as soon as; directly; just, only; the same; surely .
 754686	one; a 
@@ -36706,14 +36707,14 @@ speaker deixis demonstrative
 two
 754690	one; a 
 if ; either/or ; interrogative particle.
-754693	cavern, subterranean cave one; a 
+754693	one; a  cavern, subterranean cave
 much, a lot, many; very .
-754696	like, as; when. one; a  basement
+754696	basement one; a  like, as; when.
 754698	existential particle 
-one; a  large flat stone
-head; top; beginning. in, at, on, with, by means of.
+large flat stone one; a 
+in, at, on, with, by means of. head; top; beginning.
 754702	much, a lot, many; very .
-754704	if ; either/or ; interrogative particle. or large flat stone
+754704	large flat stone if ; either/or ; interrogative particle. or
 754707	gold; gold coin
 there
 754715	master, owner
@@ -36731,7 +36732,7 @@ we
 754731	and
 754733	money
 and
-754740	default demonstrative  large flat stone
+754740	large flat stone default demonstrative 
 cavern, subterranean cave
 presentative particle; but; otherwise .
 brass pan for heating water one; a 
@@ -36742,10 +36743,10 @@ full
 gold; gold coin
 754751	shoulder bag
 754754	preverbal particle
-754757	in, at, on, with, by means of. negative copula
+754757	negative copula in, at, on, with, by means of.
 754760	side, direction
 754762	man, person; family relative
-village in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). village
 or
 754766	side, direction
 hour
@@ -36754,7 +36755,7 @@ one; a
 754772	to, for, upon, at, by: Admominal uses
 754774	to, for, upon, at, by: Admominal uses
 754780	or
-754782	stroke (of a stick, whip) from, with:
+754782	from, with: stroke (of a stick, whip)
 754785	side, direction
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 suffering, catastrophe
@@ -36805,11 +36806,11 @@ thus; like that; the same; so much.
 754871	shop
 754874	worker; hard-working
 754876	first class, excellent, special
-village in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). village
 speaker deixis demonstrative 
 speaker deixis demonstrative 
 754881	there
-and female cat; spiky type of oak gall
+female cat; spiky type of oak gall and
 mouse
 enemy
 754886	female cat; spiky type of oak gall
@@ -36817,23 +36818,23 @@ enemy
 754891	default demonstrative  almost, about to; connective particle .
 mouse
 every; all, all of .
-754896	place, space. one; a 
-754898	solution; cure what; why?; how could it be? how (exclamatory).
+754896	one; a  place, space.
+754898	what; why?; how could it be? how (exclamatory). solution; cure
 754900	to, for.
 female cat; spiky type of oak gall
 side, direction
 we
-754905	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
-754908	thing one; a 
+754905	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
+754908	one; a  thing
 754912	female cat; spiky type of oak gall
-754918	thing one; a 
-when. to, for; so that.
+754918	one; a  thing
+to, for; so that. when.
 754921	female cat; spiky type of oak gall
 we
 754924	voice; utterance; song; sound.
 754926	presentative particle
 754928	how? how could it?
-754931	one; a  bell
+754931	bell one; a 
 in, at, on, with, by means of.
 female cat; spiky type of oak gall
 754935	bell
@@ -36845,7 +36846,7 @@ we
 good
 breath; time, instance; yes.
 one; a 
-754953	particle expressing prominence  come on! let’s go!
+754953	come on! let’s go! particle expressing prominence 
 who?; which? . about, concerning
 754956	bell
 in, at, on, with, by means of.
@@ -36906,19 +36907,19 @@ small
 to, for. household of; family of
 755054	I
 755061	cooking pot
-755063	small default demonstrative 
+755063	default demonstrative  small
 755065	in; concerning; compared with; by (oath).
 755067	neighbour
 and
 now
 or
-755072	cooking pot and
+755072	and cooking pot
 755074	household of; family of
 peace; greeting
 neighbour
 755078	in, at, on, with, by means of. peace
 755086	neighbour
-small which?
+which? small
 what; why?; how could it be? how (exclamatory).
 755091	neighbour
 side, direction
@@ -36928,7 +36929,7 @@ cooking pot
 755100	cooking pot
 how? how could it?
 755104	how? how could it?
-about, concerning I
+I about, concerning
 755107	cooking pot
 755112	in, at, on, with, by means of. road; way.
 755117	cooking pot
@@ -36947,11 +36948,11 @@ much, a lot, many; very .
 and
 mullah
 755140	Saturday; week one; a 
-755143	woman; wife to, for.
+755143	to, for. woman; wife
 755146	neighbour
 stamp, seal
 755152	woman; wife
-755155	stroke (of a stick, whip) until, up to; before; until when.
+755155	until, up to; before; until when. stroke (of a stick, whip)
 stroke (of a stick, whip)
 755158	perhaps
 755160	two
@@ -36961,19 +36962,19 @@ mullah
 755166	negative copula
 755168	dish consisting of the head and legs of an animal
 755170	cooking pot
-one; a  day; sun.
+day; sun. one; a 
 two
 three
 one; a  month
 now
 man; married man, husband; gentleman, courtier; valiant man
-755178	woman; wife to, for.
+755178	to, for. woman; wife
 measure
 cooking pot
 755183	mullah
 755189	neighbour (f.)
 755191	mullah
-755194	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+755194	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 mullah
 measure
 cooking pot
@@ -36992,25 +36993,25 @@ default demonstrative
 755231	mullah
 755233	cooking pot
 mullah
-755237	more, most; (not) at all  from, with:
+755237	from, with: more, most; (not) at all 
 big; great; old.
 thing not any 
 755242	one; a  man, person; family relative
-755244	son; young animal two
+755244	two son; young animal
 much, a lot, many; very .
 755252	son; young animal
 755255	particle expressing prominence 
-755257	job, profession, business; affair, thing one; a 
+755257	one; a  job, profession, business; affair, thing
 755260	who?; which? .
 755265	default demonstrative  big; great; old.
 more, most; (not) at all 
 755268	you
-small default demonstrative 
+default demonstrative  small
 side, direction
 755273	small
 755277	leaf (of a plant); leafy branch (of a tree)
 job, profession, business; affair, thing
-village in; concerning; compared with; by (oath). one; a 
+in; concerning; compared with; by (oath). one; a  village
 755281	who?; which? .
 755283	worker; hard-working
 who?; which? .
@@ -37019,7 +37020,7 @@ who?; which? .
 I
 755291	servant
 755295	preverbal particle
-755298	thing one; a 
+755298	one; a  thing
 755302	yes
 755306	until, up to; before; until when.
 755308	small bird with a distinctive song
@@ -37052,9 +37053,9 @@ and yoghurt
 755353	side, direction
 755355	face; front; upper surface; side (of river).
 755357	and
-755359	armful; bundle carried in arms; arms one; a 
+755359	one; a  armful; bundle carried in arms; arms
 wood; piece of wood
-air side, direction
+side, direction air
 in, at, on, with, by means of.
 755364	white
 side, direction
@@ -37064,13 +37065,13 @@ negative copula from, with:
 755371	default demonstrative 
 755373	ox
 and
-755376	and small hound
-755378	plough and
+755376	small hound and
+755378	and plough
 755380	and yoghurt
 round thick flat bread made from wheat cooked on the sides of an oven
 755385	to, for. mountain; region of mountains
 small hound
-755388	still; (not) yet; (no) longer . one; a 
+755388	one; a  still; (not) yet; (no) longer .
 755390	there
 755393	here
 I
@@ -37079,8 +37080,8 @@ here
 side, direction
 755404	in, at, on, with, by means of.
 755406	ox
-755408	slope in, at, on, with, by means of.
-755411	slope in, at, on, with, by means of.
+755408	in, at, on, with, by means of. slope
+755411	in, at, on, with, by means of. slope
 ox
 755417	and
 755419	negative copula from, with:
@@ -37116,14 +37117,14 @@ side, direction
 755475	default demonstrative  what; why?; how could it be? how (exclamatory).
 side, direction
 755478	small hound
-755480	still; (not) yet; (no) longer . one; a  large rock; cliff
+755480	one; a  large rock; cliff still; (not) yet; (no) longer .
 side, direction
 755483	and bread; loaf of bread
 side, direction
 side, direction
 755487	yoghurt
 master, owner
-destruction; wicked act side, direction
+side, direction destruction; wicked act
 crust (of yoghurt, milk)
 755492	dead
 from, with:
@@ -37131,15 +37132,15 @@ from, with:
 side, direction
 utility; utensil, tool
 755499	preverbal particle
-stroke (of a stick, whip) ten
-wood; piece of wood ten
+ten stroke (of a stick, whip)
+ten wood; piece of wood
 in; concerning; compared with; by (oath). back; waist
 755504	and
 755506	side, direction
 755508	wretched, poor
 755510	presentative particle
 755512	what; why?; how could it be? how (exclamatory).
-755516	story; affair and
+755516	and story; affair
 thus, like this, so, such
 side, direction
 755521	thus, like this, so, such
@@ -37150,7 +37151,7 @@ side, direction
 side, direction
 755532	speaker deixis demonstrative 
 755534	I
-stroke (of a stick, whip) ten
+ten stroke (of a stick, whip)
 755537	speaker deixis demonstrative 
 755539	side, direction
 I
@@ -37165,7 +37166,7 @@ I
 755562	servant
 presentative particle
 755567	yes
-755570	thing one; a 
+755570	one; a  thing
 755574	yes
 755578	here
 until, up to; before; until when.
@@ -37192,7 +37193,7 @@ yoghurt
 755614	crust (of yoghurt, milk)
 755616	side, direction
 evening; late afternoon
-755619	armful; bundle carried in arms; arms one; a 
+755619	one; a  armful; bundle carried in arms; arms
 wood; piece of wood
 side, direction
 in, at, on, with, by means of.
@@ -37206,14 +37207,14 @@ back; waist
 755636	small hound
 755639	food for journey or work, food bag
 755641	round thick flat bread made from wheat cooked on the sides of an oven
-yoghurt and
+and yoghurt
 755644	small hound
 755646	still; (not) yet; (no) longer .
 755648	here
-here I
+I here
 755652	here
 side, direction
-755656	stone one; a 
+755656	one; a  stone
 755658	here
 bitch
 755662	also, even; connective particle .
@@ -37223,17 +37224,17 @@ bitch
 755674	thing
 round thick flat bread made from wheat cooked on the sides of an oven
 side, direction
-particle expressing prominence  how? how could it?
+how? how could it? particle expressing prominence 
 755680	knife
 755683	round thick flat bread made from wheat cooked on the sides of an oven
 half; middle. household of; family of
 755687	round thick flat bread made from wheat cooked on the sides of an oven
 755689	yoghurt
 755692	pail for milk or yoghurt
-from, with: below. xoθa xoθa prep. under
+below. xoθa xoθa prep. under from, with:
 755695	yoghurt
-755697	from, with: below. xoθa xoθa prep. under
-755699	still; (not) yet; (no) longer . round thick flat bread made from wheat cooked on the sides of an oven
+755697	below. xoθa xoθa prep. under from, with:
+755699	round thick flat bread made from wheat cooked on the sides of an oven still; (not) yet; (no) longer .
 and
 bread; loaf of bread
 round thick flat bread made from wheat cooked on the sides of an oven and
@@ -37244,7 +37245,7 @@ wood; piece of wood
 white
 peal; bark; shell side, direction
 755715	in, at, on, with, by means of.
-always; again; still; as soon as; directly; just, only; the same; surely . speaker deixis demonstrative 
+speaker deixis demonstrative  always; again; still; as soon as; directly; just, only; the same; surely .
 plough
 755722	speaker deixis demonstrative 
 side, direction
@@ -37257,13 +37258,13 @@ yoke of a plough; small wooden strip made of juniper laid across beams in a roof
 and
 or
 755737	ox
-755739	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+755739	in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 I
 755742	house; home; verse (of poetry/song)
 I
-755747	place, space. one; a 
+755747	one; a  place, space.
 you
-755750	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+755750	in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 every; all, all of .
 side, direction
 755754	in, at, on, with, by means of.
@@ -37272,7 +37273,7 @@ basement stable
 small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 where? how?
 755761	ox
-small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 God  vocative particle
 what; why?; how could it be? how (exclamatory).
 in, at, on, with, by means of.
@@ -37286,14 +37287,14 @@ in; concerning; compared with; by (oath). head; top; beginning.
 ox
 755780	every; all, all of .
 in, at, on, with, by means of.
-755783	default demonstrative  ox
+755783	ox default demonstrative 
 755786	every; all, all of .
-755788	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
-755790	in; concerning; compared with; by (oath). basement stable
+755788	in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
+755790	basement stable in; concerning; compared with; by (oath).
 house; home; verse (of poetry/song)
-755795	default demonstrative  ox
+755795	ox default demonstrative 
 what; why?; how could it be? how (exclamatory).
-755798	in; concerning; compared with; by (oath). basement stable
+755798	basement stable in; concerning; compared with; by (oath).
 default demonstrative 
 wood; piece of wood
 speaker deixis demonstrative 
@@ -37323,7 +37324,7 @@ negative copula
 755845	negative copula from, with:
 755848	cat, tomcat
 cat, tomcat
-755851	in; concerning; compared with; by (oath). basement stable
+755851	basement stable in; concerning; compared with; by (oath).
 755853	meat; dewlap (of goat) to, for, upon, at, by: Admominal uses
 every; all, all of .
 cat, tomcat
@@ -37346,10 +37347,10 @@ speaker deixis demonstrative
 ox
 755890	to, for, upon, at, by: Admominal uses
 default demonstrative  almost, about to; connective particle .
-755895	head; top; beginning. in, at, on, with, by means of.
+755895	in, at, on, with, by means of. head; top; beginning.
 755899	ox
-755901	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
-755904	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+755901	in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
+755904	in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 horn; horn container used to carry grease (məšxa) for applying to the whetsone (məšna); peak of a mountain
 755908	also, even; connective particle . horn; horn container used to carry grease (məšxa) for applying to the whetsone (məšna); peak of a mountain
 755911	what; why?; how could it be? how (exclamatory).
@@ -37360,7 +37361,7 @@ what; why?; how could it be? how (exclamatory).
 speaker deixis demonstrative 
 755920	speaker deixis demonstrative 
 755922	also, even; connective particle . or
-small bird with a distinctive song and
+and small bird with a distinctive song
 when.
 755926	small bird with a distinctive song
 small bird with a distinctive song
@@ -37369,7 +37370,7 @@ side, direction
 755933	breath; time, instance; yes.
 755935	what; why?; how could it be? how (exclamatory).
 755937	girl; daughter
-755939	place, space. one; a 
+755939	one; a  place, space.
 distance; distant.
 755943	house; home; verse (of poetry/song) one; a 
 other, another; more; again; discourse particle.
@@ -37379,7 +37380,7 @@ portion, share
 ox
 755955	side, direction
 755958	one; a 
-755960	other, another; more; again; discourse particle. one; a  and
+755960	and other, another; more; again; discourse particle. one; a 
 side, thigh one; a 
 755965	speaker deixis demonstrative 
 side, thigh
@@ -37402,7 +37403,7 @@ lower leg; plumb line (used in building)
 756006	breath; time, instance; yes. default demonstrative 
 if ; either/or ; interrogative particle. side, direction
 756010	in, at, on, with, by means of.
-eye; aperture; spring of water. household of; family of
+household of; family of eye; aperture; spring of water.
 756015	worry, concern (K./A.)
 756017	two
 side, thigh
@@ -37416,7 +37417,7 @@ before (spatial and temporal); in (adversity), from (adversity); on account of (
 756035	side, direction
 756039	ox
 in, at, on, with, by means of.
-eye; aperture; spring of water. household of; family of
+household of; family of eye; aperture; spring of water.
 756044	to, for, upon, at, by: Admominal uses
 756046	corpse
 footprint; place
@@ -37465,8 +37466,8 @@ small bird with a distinctive song
 756126	father; term of endearment.
 756129	what; why?; how could it be? how (exclamatory).
 speaker deixis demonstrative 
-756132	one; a  large smooth stone
-756134	to, for, upon, at, by: Admominal uses side
+756132	large smooth stone one; a 
+756134	side to, for, upon, at, by: Admominal uses
 from, with: there
 756137	dead
 756143	presentative particle; but; otherwise .
@@ -37475,18 +37476,18 @@ which?
 756148	what; why?; how could it be? how (exclamatory).
 756150	small bird with a distinctive song
 I
-756153	small bird with a distinctive song in, at, on, with, by means of.
+756153	in, at, on, with, by means of. small bird with a distinctive song
 756155	small bird with a distinctive song
 in; concerning; compared with; by (oath).
 mulberry tree
 also, even; connective particle .
 756160	God  vocative particle
-default demonstrative  man, person; family relative
-756165	in, at, on, with, by means of. negative copula
+man, person; family relative default demonstrative 
+756165	negative copula in, at, on, with, by means of.
 756167	speaker deixis demonstrative 
 youth (approx. 6-14 years)
 756170	small
-756173	in, at, on, with, by means of. negative copula
+756173	negative copula in, at, on, with, by means of.
 756175	worry, concern (K./A.)
 756178	needle
 in, at, on, with, by means of.
@@ -37507,24 +37508,24 @@ house; home; verse (of poetry/song)
 speaker deixis demonstrative  about, concerning; on account of; in, by.
 man, person; family relative
 756222	always; again; still; as soon as; directly; just, only; the same; surely .
-world, weather. (K./A.) in, at, on, with, by means of.
+in, at, on, with, by means of. world, weather. (K./A.)
 speaker deixis demonstrative 
 in, at, on, with, by means of.
-756228	particle expressing prominence  today
+756228	today particle expressing prominence 
 756230	sweet pastry (made for festivals) (B6:51)
 particle expressing prominence 
 food for journey or work, food bag
-756234	one; a  town
+756234	town one; a 
 756237	house; home; verse (of poetry/song)
 and
 756241	and
 756244	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 now
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 or
 756250	master, owner
 756252	beyond; onwards to, for, upon, at, by: Admominal uses
-756254	every; all, all of . one; a 
+756254	one; a  every; all, all of .
 asleep
 there
 756259	default demonstrative 
@@ -37532,21 +37533,21 @@ there
 radish
 sweet pastry (made for festivals) (B6:51)
 756266	food for journey or work, food bag
-756268	in; concerning; compared with; by (oath). one; a  sack
+756268	sack in; concerning; compared with; by (oath). one; a 
 thus, like this, so, such
 sweet pastry (made for festivals) (B6:51)
 to, for; so that.
-756273	in, at, on, with, by means of. negative copula
-in, at, on, with, by means of. negative copula
+756273	negative copula in, at, on, with, by means of.
+negative copula in, at, on, with, by means of.
 756277	speaker deixis demonstrative 
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 756284	in; concerning; compared with; by (oath).
 sweet pastry (made for festivals) (B6:51)
 sweet pastry (made for festivals) (B6:51)
-756288	head; top; beginning. in, at, on, with, by means of.
-756291	in; concerning; compared with; by (oath). sack
+756288	in, at, on, with, by means of. head; top; beginning.
+756291	sack in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 756297	woman; wife
 756302	asleep
 756305	side, direction
@@ -37556,13 +37557,13 @@ voice; utterance; song; sound.
 756313	much, a lot, many; very .
 756316	sweet pastry (made for festivals) (B6:51)
 much, a lot, many; very .
-756324	village one; a 
+756324	one; a  village
 756326	dog
 756329	dog
 756334	preverbal particle
 dog
-yes dog
-son of dog
+dog yes
+dog son of
 master, owner
 756340	breath; time, instance; yes.
 road; way.
@@ -37583,26 +37584,26 @@ back; waist
 756374	urine to, for, upon, at, by: Admominal uses
 man, person; family relative
 or
-756380	from, with: sweet pastry (made for festivals) (B6:51)
+756380	sweet pastry (made for festivals) (B6:51) from, with:
 to, for, upon, at, by: Admominal uses
-756384	in; concerning; compared with; by (oath). sack
+756384	sack in; concerning; compared with; by (oath).
 dog
-son of dog
-756393	thing one; a 
-756395	upon bridge
-756397	upon bridge
+dog son of
+756393	one; a  thing
+756395	bridge upon
+756397	bridge upon
 speaker deixis demonstrative  upon
 756400	river
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 or
 756404	negative copula
-756408	in; concerning; compared with; by (oath). river
-756410	in; concerning; compared with; by (oath). river
+756408	river in; concerning; compared with; by (oath).
+756410	river in; concerning; compared with; by (oath).
 or
 756413	or
 756415	mole (on skin) side, direction
 756419	river one; a 
-756422	still; (not) yet; (no) longer . bridge
+756422	bridge still; (not) yet; (no) longer .
 more, most; (not) at all 
 here
 snake
@@ -37619,15 +37620,15 @@ side, direction
 756445	you
 woman; wife
 asleep
-in, at, on, with, by means of. side
+side in, at, on, with, by means of.
 and man; married man, husband; gentleman, courtier; valiant man
-from, with: side
-servant and
+side from, with:
+and servant
 756453	inside; middle
-in, at, on, with, by means of. negative copula to, for; so that.
+negative copula in, at, on, with, by means of. to, for; so that.
 756457	now
-756459	upon bridge
-756462	upon bridge
+756459	bridge upon
+756462	bridge upon
 756464	head; top; beginning.
 more, most; (not) at all  good, well.
 side, direction
@@ -37639,35 +37640,35 @@ like, as
 756476	you
 756478	to, for, upon, at, by: Admominal uses
 side, direction
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 asleep
 upon
 or
 756486	man; married man, husband; gentleman, courtier; valiant man
-from, with: side
+side from, with:
 woman; wife
-from, with: side
-in, at, on, with, by means of. negative copula to, for; so that.
-756493	in; concerning; compared with; by (oath). river
-in; concerning; compared with; by (oath). river
+side from, with:
+negative copula in, at, on, with, by means of. to, for; so that.
+756493	river in; concerning; compared with; by (oath).
+river in; concerning; compared with; by (oath).
 in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 756499	story; affair
 756503	speaker deixis demonstrative 
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 756506	man; married man, husband; gentleman, courtier; valiant man
 756510	inside; middle
 or
-756513	in, at, on, with, by means of. side
+756513	side in, at, on, with, by means of.
 756516	stroke (of a stick, whip)
-still; (not) yet; (no) longer . darkness
+darkness still; (not) yet; (no) longer .
 darkness
 756520	woman; wife
 756523	woman; wife
-from, with: side
+side from, with:
 speaker deixis demonstrative 
 servant
-from, with: side
+side from, with:
 man; married man, husband; gentleman, courtier; valiant man
 756532	in; concerning; compared with; by (oath).
 756534	what; why?; how could it be? how (exclamatory).
@@ -37683,7 +37684,7 @@ man; married man, husband; gentleman, courtier; valiant man
 in; concerning; compared with; by (oath).
 756557	obliged; forced
 what; why?; how could it be? how (exclamatory).
-756561	and I
+756561	I and
 or
 756566	I
 756570	house; home; verse (of poetry/song)
@@ -37699,15 +37700,15 @@ man, person; family relative
 speaker deixis demonstrative 
 756588	and
 756590	woman; wife from, with:
-and I
+I and
 756593	there
 I
 756596	here
 crow
-756600	one; a  day; sun.
+756600	day; sun. one; a 
 which?
-to, for, upon, at, by: Admominal uses tree
-in, at, on, with, by means of. mouth (of body or vessel); end of a spade
+tree to, for, upon, at, by: Admominal uses
+mouth (of body or vessel); end of a spade in, at, on, with, by means of.
 cheese
 756606	fox
 cunning
@@ -37720,7 +37721,7 @@ in, at, on, with, by means of. enthusiasm, zeal
 756624	in, at, on, with, by means of.
 voice; utterance; song; sound.
 cheese
-from, with: mouth (of body or vessel); end of a spade
+mouth (of body or vessel); end of a spade from, with:
 756629	fox
 what; why?; how could it be? how (exclamatory).
 unless, only if, except, but, particle of insistence; or not .
@@ -37731,22 +37732,22 @@ sorrow
 fox
 756638	mad
 side, direction
-every; all, all of . speech
+speech every; all, all of .
 pleasant, beautiful; delicious; healthy; sharp.
 fox
 756644	mad
 side, direction
-every; all, all of . speech
+speech every; all, all of .
 pleasant, beautiful; delicious; healthy; sharp.
-756649	one; a  king
-756651	girl; daughter one; a 
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+756649	king one; a 
+756651	one; a  girl; daughter
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 always; again; still; as soon as; directly; just, only; the same; surely .
 asleep
-maternal uncle and
-and asleep
+and maternal uncle
+asleep and
 maternal uncle
-756659	one; a  bed
+756659	bed one; a 
 big; great; old.
 756662	servant girl
 756664	food, a meal
@@ -37758,7 +37759,7 @@ to, for. day; sun.
 756675	in, at, on, with, by means of.
 which?
 always; again; still; as soon as; directly; just, only; the same; surely .
-756679	maternal uncle and
+756679	and maternal uncle
 756681	much, a lot, many; very .
 king
 756684	in, at, on, with, by means of.
@@ -37766,27 +37767,27 @@ king
 negative copula
 756692	I
 what; why?; how could it be? how (exclamatory).
-solution; cure one; a 
+one; a  solution; cure
 756696	speaker deixis demonstrative  to, for; so that.
 756699	in, at, on, with, by means of.
 756707	about, concerning; on account of; in, by.
 what; why?; how could it be? how (exclamatory).
 to, for; so that.
 girl; daughter
-756712	always; again; still; as soon as; directly; just, only; the same; surely . asleep
-in, at, on, with, by means of. negative copula
-in, at, on, with, by means of. day; sun.
-always; again; still; as soon as; directly; just, only; the same; surely . maternal uncle and
-756717	maternal uncle and
+756712	asleep always; again; still; as soon as; directly; just, only; the same; surely .
+negative copula in, at, on, with, by means of.
+day; sun. in, at, on, with, by means of.
+and always; again; still; as soon as; directly; just, only; the same; surely . maternal uncle
+756717	and maternal uncle
 756722	one; a  man, person; family relative
 756724	worker; hard-working
 and
 756728	or
 756733	child one; a 
-about, concerning mother
+mother about, concerning
 756736	father; term of endearment.
-756739	one; a  ox
-ass one; a  and
+756739	ox one; a 
+and one; a  ass
 each, every; whoever  day; sun.
 job, profession, business; affair, thing
 756744	what; why?; how could it be? how (exclamatory).
@@ -37807,7 +37808,7 @@ good
 756778	in; concerning; compared with; by (oath). car
 and
 756781	every; all, all of .
-default demonstrative  room
+room default demonstrative 
 756785	in; concerning; compared with; by (oath). car
 and
 or
@@ -37820,7 +37821,7 @@ negative existential particle
 thing not any 
 side, direction
 chair
-thing side, direction and not any 
+and thing not any  side, direction
 master, owner
 756804	girl; daughter
 756806	to, for.
@@ -37833,21 +37834,21 @@ side, direction
 756820	side, direction
 756822	thing not any 
 what; why?; how could it be? how (exclamatory).
-756826	upon bed
-756828	upon bed
+756826	bed upon
+756828	bed upon
 756830	bed
 756833	house; home; verse (of poetry/song)
 756835	bed
-756838	still; (not) yet; (no) longer . bed
+756838	bed still; (not) yet; (no) longer .
 speaker deixis demonstrative 
 utility; utensil, tool
 also, even; connective particle .
 756843	there
 756845	there
 child
-756848	cultivation; agriculture from, with:
+756848	from, with: cultivation; agriculture
 ox
-756851	in; concerning; compared with; by (oath). basement stable
+756851	basement stable in; concerning; compared with; by (oath).
 and
 756854	thing
 756856	presentative particle; but; otherwise .
@@ -37869,8 +37870,8 @@ or
 756892	and
 utility; utensil, tool
 756895	here
-which? asleep
-still; (not) yet; (no) longer . bed
+asleep which?
+bed still; (not) yet; (no) longer .
 756900	pleasant, beautiful; delicious; healthy; sharp.
 756906	yes
 yes
@@ -37886,16 +37887,16 @@ first
 water
 756926	one; a 
 water
-above; directly and
+and above; directly
 about, concerning
 food, a meal side, direction
-side, direction bread; loaf of bread
-thing side, direction not any 
+bread; loaf of bread side, direction
+thing not any  side, direction
 about, concerning
 default demonstrative 
 756936	water
 756938	above; directly
-756940	about, concerning and
+756940	and about, concerning
 756943	yes
 how? how could it be? like, just as; when
 756946	respect; good will; favour
@@ -37910,13 +37911,13 @@ in; concerning; compared with; by (oath).
 756961	food for journey or work, food bag
 756963	food for journey or work, food bag
 756965	and yoghurt
-pot for preserving yoghurt (submerged in water to keep cool) or for storing date syrop (nepoxta) and yeast (xmira) in; concerning; compared with; by (oath). and
+pot for preserving yoghurt (submerged in water to keep cool) or for storing date syrop (nepoxta) and yeast (xmira) and in; concerning; compared with; by (oath).
 756968	in; concerning; compared with; by (oath).
 756970	and
 in; concerning; compared with; by (oath).
 and
 756974	ass
-ox and
+and ox
 and
 756981	until, up to; before; until when. evening; late afternoon
 evening; late afternoon
@@ -37927,9 +37928,9 @@ and
 756994	evening one; a 
 756997	party of close family after wedding
 757006	you
-ass and
+and ass
 ox
-and I
+I and
 757011	house; home; verse (of poetry/song)
 also, even; connective particle . one; a 
 negative copula
@@ -37951,14 +37952,14 @@ which? side, direction
 757045	two
 757047	time, instance one; a 
 757053	breakfast
-757055	thing and
+757055	and thing
 other, another; more; again; discourse particle.
 every; all, all of .
 757059	in; concerning; compared with; by (oath).
 757061	every; all, all of . thing
 757063	bread; loaf of bread
 yoghurt if ; either/or ; interrogative particle.
-every; all, all of . thing if ; either/or ; interrogative particle.
+every; all, all of . if ; either/or ; interrogative particle. thing
 757067	and
 ox
 757071	party of close family after wedding
@@ -37967,14 +37968,14 @@ ox
 757080	master, owner
 757083	today
 757086	always; again; still; as soon as; directly; just, only; the same; surely .
-757088	ass and
+757088	and ass
 ox
-and I
+I and
 757092	house; home; verse (of poetry/song)
-757094	always; again; still; as soon as; directly; just, only; the same; surely . we
+757094	we always; again; still; as soon as; directly; just, only; the same; surely .
 757096	default demonstrative 
 757098	or
-757100	default demonstrative  negative copula
+757100	negative copula default demonstrative 
 757102	side, direction
 757106	mole (on skin) to, for; so that.
 757108	king
@@ -37988,7 +37989,7 @@ job, profession, business; affair, thing
 757129	until, up to; before; until when.
 evening; late afternoon
 evening; late afternoon
-757133	to, for, upon, at, by: Admominal uses bath, bathroom or
+757133	bath, bathroom to, for, upon, at, by: Admominal uses or
 healthy, alive
 and
 757138	food, a meal and
@@ -38001,14 +38002,14 @@ how? how could it be? like, just as; when
 today
 a little (quantity); a few 
 757154	a little (quantity); a few 
-757160	one; a  vessel, container
+757160	vessel, container one; a 
 a little (quantity); a few 
 small
 757164	above; directly
 757166	speech; sound
 757168	speech; sound
 negative copula
-757173	which? and
+757173	and which?
 757176	always; again; still; as soon as; directly; just, only; the same; surely .
 heart; kernel of fruit or berry about, concerning; on account of; in, by.
 in; concerning; compared with; by (oath).
@@ -38020,11 +38021,11 @@ negative copula
 757187	food, a meal
 757190	a little (quantity); a few 
 food, a meal
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 757195	water
 and
-default demonstrative  food, a meal
-in; concerning; compared with; by (oath). which? soul, person; reflexive pronoun .
+food, a meal default demonstrative 
+soul, person; reflexive pronoun . which? in; concerning; compared with; by (oath).
 757201	if ; either/or ; interrogative particle.
 in, at, on, with, by means of.
 road; way.
@@ -38033,13 +38034,13 @@ road; way.
 757209	work; job; cultivation
 to, for.
 757213	four
-behind; after; through. from, with:
+from, with: behind; after; through.
 757218	child and
-757221	job, profession, business; affair, thing to, for, upon, at, by: Admominal uses
+757221	to, for, upon, at, by: Admominal uses job, profession, business; affair, thing
 mother
-757225	job, profession, business; affair, thing to, for, upon, at, by: Admominal uses
+757225	to, for, upon, at, by: Admominal uses job, profession, business; affair, thing
 757228	vessel, container
-synagogue and
+and synagogue
 house; home; verse (of poetry/song)
 and
 757233	child
@@ -38061,27 +38062,27 @@ child to, for.
 757278	in; concerning; compared with; by (oath).
 and
 thus; like that; the same; so much.
-757283	in; concerning; compared with; by (oath). basement stable
+757283	basement stable in; concerning; compared with; by (oath).
 757285	ox and
 ass
 preverbal particle and
-in, at, on, with, by means of. and road; way.
+and in, at, on, with, by means of. road; way.
 and
 and
 757295	and
 and
 757298	here
-here to, for, upon, at, by: Admominal uses
-757301	mother-in-law to, for.
+to, for, upon, at, by: Admominal uses here
+757301	to, for. mother-in-law
 757303	you
 side, direction
 757306	you
 757308	I
 757310	party of close family after wedding
 and
-girl; daughter and
+and girl; daughter
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 day; sun.
 to, for. day; sun.
 day; sun.
@@ -38092,7 +38093,7 @@ party of close family after wedding
 speaker deixis demonstrative 
 girl; daughter
 757329	and
-757333	one; a  day; sun.
+757333	day; sun. one; a 
 king
 757336	to, for.
 interjection opening speech turns
@@ -38101,8 +38102,8 @@ what?
 757343	perhaps
 757345	dead
 perhaps
-757348	thing one; a 
-757352	particle expressing prominence  king
+757348	one; a  thing
+757352	king particle expressing prominence 
 757356	mother-in-law
 757360	family relative
 neighbour
@@ -38120,7 +38121,7 @@ father; term of endearment.
 757384	to, for, upon, at, by: Admominal uses
 hand; handle; arm; foot (of an animal); round of a game.
 757392	father; term of endearment.
-757394	also, even; connective particle . and
+757394	and also, even; connective particle .
 757396	presentative particle
 757398	how? how could it be? like, just as; when
 how? how could it be? like, just as; when
@@ -38146,12 +38147,12 @@ meat-balls
 big; great; old.
 one; a 
 to, for.
-one; a  and
+and one; a 
 to, for.
 default demonstrative 
 757446	part two
 757448	one; a 
-one; a  and
+and one; a 
 to, for.
 757452	to, for. what; why?; how could it be? how (exclamatory).
 757456	speaker deixis demonstrative 
@@ -38173,7 +38174,7 @@ you
 and
 king
 breast
-in; concerning; compared with; by (oath). and
+and in; concerning; compared with; by (oath).
 or
 757493	and
 757495	which?
@@ -38190,8 +38191,8 @@ mother-in-law
 757517	how many/much? some, several; so much/many; however much, as much as; when; as for 
 food, a meal
 here
-here to, for, upon, at, by: Admominal uses
-757523	one; a  day; sun.
+to, for, upon, at, by: Admominal uses here
+757523	day; sun. one; a 
 757525	thus, like this, so, such
 side, direction
 king
@@ -38209,10 +38210,10 @@ girl; daughter
 preverbal particle
 in, at, on, with, by means of.
 house; home; verse (of poetry/song)
-while  and
+and while 
 757551	king
-learned, educated and
-always; again; still; as soon as; directly; just, only; the same; surely . and
+and learned, educated
+and always; again; still; as soon as; directly; just, only; the same; surely .
 maternal uncle
 and
 maternal uncle
@@ -38238,7 +38239,7 @@ and
 757603	and
 and
 and
-757607	every; all, all of . one; a  and
+757607	every; all, all of . and one; a 
 thing
 757610	while 
 in; concerning; compared with; by (oath).
@@ -38258,7 +38259,7 @@ job, profession, business; affair, thing
 now
 I
 757638	and
-always; again; still; as soon as; directly; just, only; the same; surely . thus; like that; the same; so much.
+thus; like that; the same; so much. always; again; still; as soon as; directly; just, only; the same; surely .
 757641	I
 also, even; connective particle .
 speaker deixis demonstrative 
@@ -38277,12 +38278,12 @@ in; concerning; compared with; by (oath).
 side, direction
 757672	food, a meal
 I
-three day; sun.
+day; sun. three
 preverbal particle
 757677	to, for; so that.
-about, concerning water
+water about, concerning
 757680	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. above; directly
-757682	three day; sun.
+757682	day; sun. three
 water
 757685	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. above; directly
 757688	soul, person; reflexive pronoun . in, at, on, with, by means of.
@@ -38298,7 +38299,7 @@ obliged; forced
 757708	and
 asleep
 757713	three
-behind; after; through. from, with:
+from, with: behind; after; through.
 I
 757717	job, profession, business; affair, thing
 757722	to, for; so that.
@@ -38310,7 +38311,7 @@ who?; which? .
 thus, like this, so, such
 a little (quantity); a few 
 757742	above; directly
-757744	in, at, on, with, by means of. negative copula
+757744	negative copula in, at, on, with, by means of.
 which?
 757747	water
 until, up to; before; until when.
@@ -38324,20 +38325,20 @@ four
 757763	and
 757765	from, with: reciprocal pronoun 
 and
-job, profession, business; affair, thing to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses job, profession, business; affair, thing
 and
 757770	food, a meal
 which?
 soul, person; reflexive pronoun . in, at, on, with, by means of.
-and work; job; cultivation in, at, on, with, by means of.
+and in, at, on, with, by means of. work; job; cultivation
 soul, person; reflexive pronoun . in, at, on, with, by means of.
 and thin cane, reed
-757777	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+757777	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 house; home; verse (of poetry/song)
 757783	I
 757789	and
 757791	and
-757793	thing side, direction and not any 
+757793	and thing not any  side, direction
 about, concerning
 default demonstrative  side, direction
 757799	in; concerning; compared with; by (oath).
@@ -38357,23 +38358,23 @@ man, person; family relative
 757831	God 
 757834	speaker deixis demonstrative 
 road; way.
-and I
+I and
 757838	in, at, on, with, by means of.
 road; way.
-and much, a lot, many; very .
+much, a lot, many; very . and
 content, satisfied
 soil, ground; land
-757845	and I
+757845	I and
 mother
 and
 yesterday; tomorrow
-757852	and I
+757852	I and
 757855	soil, ground; land
 757858	much, a lot, many; very .
 much, a lot, many; very .
 pleasant, beautiful; delicious; healthy; sharp.
 757862	king
-here and
+and here
 here
 757869	I
 yesterday; tomorrow
@@ -38383,7 +38384,7 @@ I
 757879	soil, ground; land
 and
 757882	girl; daughter
-and today
+today and
 you
 757886	in, at, on, with, by means of.
 perhaps
@@ -38395,7 +38396,7 @@ also, even; connective particle .
 girl; daughter
 757899	and
 blessed
-757902	woolen trousers; suit of clothes; type of fabric made from wool if ; either/or ; interrogative particle.
+757902	if ; either/or ; interrogative particle. woolen trousers; suit of clothes; type of fabric made from wool
 God 
 757905	in, at, on, with, by means of.
 world, weather. (K./A.)
@@ -38405,17 +38406,17 @@ there
 and
 here
 757913	lion
-in; concerning; compared with; by (oath). forest
+forest in; concerning; compared with; by (oath).
 preverbal particle
 one; a 
 or
-wolf and
+and wolf
 fox
 757921	friend
 preverbal particle
 one; a 
 lion
-757926	wolf to, for.
+757926	to, for. wolf
 757928	wolf
 757930	speaker deixis demonstrative 
 757932	we
@@ -38436,7 +38437,7 @@ wolf
 blunt
 757960	lion
 757962	fox
-757967	also, even; connective particle . I
+757967	I also, even; connective particle .
 in, at, on, with, by means of.
 757970	lion
 to, for. fox
@@ -38445,7 +38446,7 @@ you
 757976	speaker deixis demonstrative 
 757980	what; why?; how could it be? how (exclamatory).
 757983	side, thigh
-757989	thing and
+757989	and thing
 757991	evening; late afternoon
 evening one; a 
 757994	and
@@ -38459,7 +38460,7 @@ mind, intelligence
 wolf
 758008	miller one; a 
 miller
-before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. one; a  guest
+guest before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. one; a 
 guest
 758014	about, concerning
 758016	fox
@@ -38478,7 +38479,7 @@ I
 758041	mountain; region of mountains
 758043	type of black bird
 758045	partridge
-758047	thing from, with:
+758047	from, with: thing
 in; concerning; compared with; by (oath). mountain; region of mountains
 758050	here
 and
@@ -38486,7 +38487,7 @@ and
 and
 from, with: reciprocal pronoun 
 particle expressing prominence 
-758061	one; a  day; sun.
+758061	day; sun. one; a 
 two
 three
 one; a  month
@@ -38516,7 +38517,7 @@ man, person; family relative
 758117	morning
 until, up to; before; until when.
 wool
-758121	in; concerning; compared with; by (oath). storeroom (for produce)
+758121	storeroom (for produce) in; concerning; compared with; by (oath).
 king
 758124	God  vocative particle
 I
@@ -38540,7 +38541,7 @@ other, another; more; again; discourse particle.
 758151	large comb for carding wool and
 758153	wool of the long haired angora goat (čura, čurra)
 wool of the long haired angora goat (čura, čurra)
-758156	or man, person; family relative
+758156	man, person; family relative or
 from, with:
 wool of the long haired angora goat (čura, čurra) or
 758161	evening; late afternoon
@@ -38579,14 +38580,14 @@ from, with:
 thus, like this, so, such
 money
 cup measure for grain
-758221	cup measure for grain in, at, on, with, by means of.
+758221	in, at, on, with, by means of. cup measure for grain
 money
 other, another; more; again; discourse particle.
 758227	man, person; family relative
 758229	community, nation
 every; all, all of .
 758232	every; all, all of .
-758234	in; concerning; compared with; by (oath). storeroom (for produce)
+758234	storeroom (for produce) in; concerning; compared with; by (oath).
 money
 lie, falsehood; fiction
 thing not any 
@@ -38594,7 +38595,7 @@ negative existential particle
 758240	one; a  month
 758243	to, for.
 758245	miller
-758247	in; concerning; compared with; by (oath). guest
+758247	guest in; concerning; compared with; by (oath).
 758251	king
 758254	what; why?; how could it be? how (exclamatory).
 758256	king
@@ -38614,7 +38615,7 @@ woman; wife
 wedding
 758295	Saturday; week one; a 
 758299	preverbal particle
-default demonstrative  from, with:
+from, with: default demonstrative 
 758302	from, with:
 from, with:
 I
@@ -38627,7 +38628,7 @@ what; why?; how could it be? how (exclamatory).
 758314	negative copula
 eight
 day; sun.
-758319	and drum.
+758319	drum. and
 pipe
 and
 758324	king
@@ -38638,16 +38639,16 @@ each, every; whoever
 goatskin or lambskin (spread on floor to sit on)
 758339	one; a 
 sheep; goat
-758342	two three
+758342	three two
 thousand
 sheep; goat
 preverbal particle
 default demonstrative 
-758349	default demonstrative  sheep; goat
-758351	man, person; family relative so-and-so; such-and-such
+758349	sheep; goat default demonstrative 
+758351	so-and-so; such-and-such man, person; family relative
 758353	about, concerning
 758355	if ; either/or ; interrogative particle.
-default demonstrative  sheep; goat
+sheep; goat default demonstrative 
 758361	I
 thing not any 
 side, direction
@@ -38657,11 +38658,11 @@ preverbal particle
 sky
 758376	wedding
 758378	king
-758381	default demonstrative  sheep; goat
+758381	sheep; goat default demonstrative 
 758385	fox
-758389	default demonstrative  sheep; goat
+758389	sheep; goat default demonstrative 
 huge; numerous
-758393	default demonstrative  and
+758393	and default demonstrative 
 758397	one; a  flock (of sheep)
 758399	buffalo
 cow
@@ -38687,9 +38688,9 @@ I
 from, with:
 thus, like this, so, such
 758442	I
-758444	one; a  land, country; homeland
+758444	land, country; homeland one; a 
 758446	thus, like this, so, such
-758448	default demonstrative  from, with:
+758448	from, with: default demonstrative 
 758451	always; again; still; as soon as; directly; just, only; the same; surely . come!
 758455	one; a 
 camel
@@ -38728,7 +38729,7 @@ big; great; old.
 758554	in; concerning; compared with; by (oath).
 758558	preverbal particle
 758560	every; all, all of .
-default demonstrative  leaves; gathering of leaves (for winter)
+leaves; gathering of leaves (for winter) default demonstrative 
 758564	every; all, all of .
 preverbal particle
 758567	how many/much? some, several; so much/many; however much, as much as; when; as for 
@@ -38736,9 +38737,9 @@ preverbal particle
 758572	army
 preverbal particle
 fire; Hell fire
-twenty from, with:
+from, with: twenty
 place, space.
-which? master, owner
+master, owner which?
 758581	almost
 758583	preverbal particle
 758585	corpse
@@ -38754,9 +38755,9 @@ gold; gold coin
 fox
 758611	every; all, all of .
 758613	in; concerning; compared with; by (oath). spoon (made of wood); flat trowel
-knife in, at, on, with, by means of.
+in, at, on, with, by means of. knife
 in; concerning; compared with; by (oath). vessel, container
-cup in, at, on, with, by means of.
+in, at, on, with, by means of. cup
 every; all, all of .
 758622	I
 758630	eight
@@ -38772,7 +38773,7 @@ maternal uncle
 thing
 evening; late afternoon
 758651	a little (quantity); a few 
-one; a  day; sun.
+day; sun. one; a 
 758654	fox
 758660	in, at, on, with, by means of. neck of a shirt
 758662	what? 
@@ -38796,7 +38797,7 @@ miller woman
 758708	or
 miller
 758714	thus, like this, so, such
-758718	one; a  day; sun.
+758718	day; sun. one; a 
 two
 Saturday; week one; a 
 one; a  month
@@ -38808,9 +38809,9 @@ breath; time, instance; yes. one; a
 758736	speaker deixis demonstrative 
 758741	side, direction
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 758748	worry, concern (K./A.)
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 breath; time, instance; yes.
 758752	value
 758756	king
@@ -38824,10 +38825,10 @@ miller woman
 I
 how? how could it?
 758776	to, for.
-758782	how? how could it be? like, just as; when I
+758782	I how? how could it be? like, just as; when
 758789	how? how could it be? like, just as; when
 to, for.
-also, even; connective particle . I
+I also, even; connective particle .
 which?
 758794	still; (not) yet; (no) longer .
 758796	miller
@@ -38858,13 +38859,13 @@ fox
 758845	there
 758847	here
 now
-758850	story; affair one; a 
+758850	one; a  story; affair
 story
 758853	name
-758856	stork and
-one; a  day; sun.
+758856	and stork
+day; sun. one; a 
 758860	guest
-stork to, for; so that.
+to, for; so that. stork
 758863	food, a meal
 to, for; so that.
 in; concerning; compared with; by (oath). vessel, container
@@ -38882,7 +38883,7 @@ in, at, on, with, by means of.
 thing not any 
 side, direction
 also, even; connective particle . stork
-one; a  day; sun.
+day; sun. one; a 
 758884	preverbal particle
 in; concerning; compared with; by (oath). one; a 
 vessel, container
@@ -38910,21 +38911,21 @@ every; all, all of .
 758920	to, for, upon, at, by: Admominal uses mountain; region of mountains
 758922	sheep; goat
 to, for; so that.
-758925	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+758925	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 758927	and
 758929	speaker deixis demonstrative 
 758933	negative copula
 758935	cave one; a 
 758938	morning
-758941	in, at, on, with, by means of. negative copula
+758941	negative copula in, at, on, with, by means of.
 758944	negative copula
 here
-intensifying particle  morning
+morning intensifying particle 
 758951	cave in; concerning; compared with; by (oath).
 default demonstrative  almost, about to; connective particle .
 breath; time, instance; yes. one; a 
-in, at, on, with, by means of. negative copula
-758956	giant one; a 
+negative copula in, at, on, with, by means of.
+758956	one; a  giant
 giant
 default demonstrative  almost, about to; connective particle .
 758961	speaker deixis demonstrative 
@@ -38941,13 +38942,13 @@ one; a
 758978	God  vocative particle
 vocative particle
 young (of animals and birds)
-walnut; walnut tree so-and-so; such-and-such
-758983	young (of animals and birds) to, for.
-758985	solution; cure one; a 
+so-and-so; such-and-such walnut; walnut tree
+758983	to, for. young (of animals and birds)
+758985	one; a  solution; cure
 758988	in; concerning; compared with; by (oath).
 758990	man, person; family relative
 other, another; more; again; discourse particle.
-758993	male goat four years old and upwards one; a 
+758993	one; a  male goat four years old and upwards
 758995	male goat four years old and upwards
 much, a lot, many; very .
 759000	until, up to; before; until when.
@@ -38955,15 +38956,15 @@ much, a lot, many; very .
 759004	speaker deixis demonstrative 
 759006	also, even; connective particle . you
 759010	also, even; connective particle .
-or man, person; family relative
+man, person; family relative or
 759013	God  vocative particle
 young (of animals and birds) vocative particle
-759016	solution; cure one; a 
+759016	one; a  solution; cure
 from, with:
-759019	male goat four years old and upwards default demonstrative 
-always; again; still; as soon as; directly; just, only; the same; surely . and
+759019	default demonstrative  male goat four years old and upwards
+and always; again; still; as soon as; directly; just, only; the same; surely .
 preverbal particle
-759023	male goat four years old and upwards default demonstrative 
+759023	default demonstrative  male goat four years old and upwards
 male goat four years old and upwards
 huge; strong, tough
 sheep; goat
@@ -38985,7 +38986,7 @@ a little (quantity); a few
 759049	thus, like this, so, such
 759051	thus, like this, so, such
 or side, direction
-759056	about, concerning asleep
+759056	asleep about, concerning
 759060	thus, like this, so, such
 breath; time, instance; yes. one; a 
 759063	thus, like this, so, such
@@ -39010,12 +39011,12 @@ voice; utterance; song; sound. from, with:
 759099	in; concerning; compared with; by (oath). trousers made from cloth
 suffering, catastrophe
 759102	and
-759104	default demonstrative  fire; Hell fire
+759104	fire; Hell fire default demonstrative 
 preverbal particle
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 759108	man, person; family relative
 759111	gathering of people; reception; audience chamber in, at, on, with, by means of.
-759114	gun, rifle presentative particle; but; otherwise .
+759114	presentative particle; but; otherwise . gun, rifle
 759118	what? 
 blind
 759121	what; why?; how could it be? how (exclamatory).
@@ -39034,25 +39035,25 @@ pair; even number.
 759151	head; top; beginning.
 759155	in; concerning; compared with; by (oath).
 woman; wife one; a 
-girl; daughter one; a 
+one; a  girl; daughter
 759159	today
 759162	river to, for, upon, at, by: Admominal uses
 759165	small pan for heating water and
 wood; piece of wood
-thing and
+and thing
 759169	water
 hot; warm
-759175	comb (for hair); comb for filtering the water passing through a pipe leading to a water-mill and
+759175	and comb (for hair); comb for filtering the water passing through a pipe leading to a water-mill
 and
 thing
 759179	small pan for heating water
 to, for. mother
 759182	to, for; so that.
-759184	crow one; a 
+759184	one; a  crow
 759186	comb (for hair); comb for filtering the water passing through a pipe leading to a water-mill
 759188	and
 which?
-behind and
+and behind
 and
 759193	which?
 759195	crow
@@ -39060,19 +39061,19 @@ and
 759201	which?
 always; again; still; as soon as; directly; just, only; the same; surely . side, direction
 759204	crow
-one; a  palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses one; a  palace; large house (consisting of two storeys and made of dressed stones)
 big; great; old.
-759208	to, for, upon, at, by: Admominal uses roof
+759208	roof to, for, upon, at, by: Admominal uses
 preverbal particle
-small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed one; a  in, at, on, with, by means of.
+in, at, on, with, by means of. one; a  small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 comb (for hair); comb for filtering the water passing through a pipe leading to a water-mill
-759214	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
-759216	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+759214	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
+759216	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 which?
 759221	speaker deixis demonstrative 
 759223	there
 seven
-759226	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+759226	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 759231	world, weather. (K./A.)
 759233	yes
@@ -39085,8 +39086,8 @@ world, weather. (K./A.)
 in, at, on, with, by means of. almost, about to; connective particle .
 759250	roof
 759253	girl; daughter
-to, for, upon, at, by: Admominal uses roof
-759257	girl; daughter one; a 
+roof to, for, upon, at, by: Admominal uses
+759257	one; a  girl; daughter
 here
 759263	presentative particle
 759266	here
@@ -39095,7 +39096,7 @@ story; affair
 759272	crow
 preverbal particle
 759275	preverbal particle
-small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 759279	and
 759281	new
 759284	side, direction
@@ -39112,7 +39113,7 @@ there
 759311	hunt
 759314	female cat; spiky type of oak gall
 759316	preverbal particle
-in; concerning; compared with; by (oath). fire; Hell fire
+fire; Hell fire in; concerning; compared with; by (oath).
 preverbal particle
 fire; Hell fire
 759322	fire; Hell fire side, direction
@@ -39128,7 +39129,7 @@ and
 oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
 fire; Hell fire
 much, a lot, many; very .
-giant one; a 
+one; a  giant
 759349	there
 asleep
 woman; wife one; a 
@@ -39210,7 +39211,7 @@ big; great; old.
 much, a lot, many; very .
 there
 759494	seven
-759497	head; top; beginning. in, at, on, with, by means of.
+759497	in, at, on, with, by means of. head; top; beginning.
 759499	in, at, on, with, by means of.
 759502	which?
 759504	you
@@ -39224,10 +39225,10 @@ preverbal particle
 759522	ash
 759525	seven
 mountain; region of mountains
-one; a  in, at, on, with, by means of. sack
+sack in, at, on, with, by means of. one; a 
 759530	which? what; why?; how could it be? how (exclamatory).
 759532	preverbal particle
-in; concerning; compared with; by (oath). one; a  sack
+sack in; concerning; compared with; by (oath). one; a 
 bottom
 759536	ragged, scruffy
 how many/much? some, several; so much/many; however much, as much as; when; as for 
@@ -39237,8 +39238,8 @@ road; way.
 road; way.
 road; way.
 759548	and
-759551	edible herb one; a 
-plant; herb; grass and
+759551	one; a  edible herb
+and plant; herb; grass
 good, fine, beautiful
 food, a meal
 759557	speaker deixis demonstrative 
@@ -39250,7 +39251,7 @@ good, fine, beautiful
 759568	which?
 759570	default demonstrative  plant; herb; grass
 759576	seven
-759578	from, with: hunt
+759578	hunt from, with:
 759582	today
 759584	vegetables; vegetable stew
 much, a lot, many; very .
@@ -39263,7 +39264,7 @@ every; all, all of .
 every; all, all of .
 759601	which?
 each, every; whoever 
-759609	one; a  day; sun.
+759609	day; sun. one; a 
 759611	one; a  man, person; family relative
 one; a  man, person; family relative
 vagabond one; a 
@@ -39290,7 +39291,7 @@ you
 759655	mountain; region of mountains
 I
 each, every; whoever 
-759659	wood; piece of wood seven
+759659	seven wood; piece of wood
 759661	side, direction
 blind
 759664	if ; either/or ; interrogative particle.
@@ -39304,12 +39305,12 @@ wood; piece of wood
 thus, like this, so, such
 759680	to, for, upon, at, by: Admominal uses three
 thus, like this, so, such
-default demonstrative  four
+four default demonstrative 
 thus, like this, so, such
-five default demonstrative 
-default demonstrative  six
-default demonstrative  seven
-small more, most; (not) at all 
+default demonstrative  five
+six default demonstrative 
+seven default demonstrative 
+more, most; (not) at all  small
 759690	roof in, at, on, with, by means of.
 or
 759695	blind
@@ -39330,10 +39331,10 @@ what; why?; how could it be? how (exclamatory).
 male lamb
 half; middle.
 man, person; family relative
-759732	default demonstrative  man, person; family relative
+759732	man, person; family relative default demonstrative 
 much, a lot, many; very .
 759737	house; home; verse (of poetry/song)
-one; a  day; sun.
+day; sun. one; a 
 759740	I
 759742	one; a  servant girl
 759744	side, direction
@@ -39341,7 +39342,7 @@ servant girl
 759747	side, direction
 759749	servant girl
 one; a 
-759752	one; a  day; sun.
+759752	day; sun. one; a 
 759757	here
 759760	side, direction
 side, direction
@@ -39349,8 +39350,8 @@ side, direction
 you
 which?
 759768	default demonstrative 
-one; a  day; sun.
-759775	well, cistern one; a 
+day; sun. one; a 
+759775	one; a  well, cistern
 thus, like this, so, such
 759778	deep
 default demonstrative 
@@ -39360,7 +39361,7 @@ default demonstrative
 which?
 759791	girl; daughter
 and
-759794	default demonstrative  male lamb
+759794	male lamb default demonstrative 
 759797	always; again; still; as soon as; directly; just, only; the same; surely .
 negative copula
 759800	which?
@@ -39375,13 +39376,13 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 759817	to, for, upon, at, by: Admominal uses
 and
 lie, falsehood; fiction
-one; a  day; sun.
+day; sun. one; a 
 759823	what; why?; how could it be? how (exclamatory).
 759825	speaker deixis demonstrative 
 male lamb
 each, every; whoever 
 759830	in, at, on, with, by means of.
-759832	place, space. in, at, on, with, by means of.
+759832	in, at, on, with, by means of. place, space.
 759834	in; concerning; compared with; by (oath). well, cistern
 759836	what; why?; how could it be? how (exclamatory).
 side, direction
@@ -39399,7 +39400,7 @@ which? there
 759874	two
 759876	one; a 
 salt
-one; a  and
+and one; a 
 always; again; still; as soon as; directly; just, only; the same; surely .
 water
 negative copula
@@ -39412,10 +39413,10 @@ each, every; whoever  piece
 which?
 759895	speaker deixis demonstrative  and
 759897	brother
-759901	one; a  king
+759901	king one; a 
 759903	forty
 son; young animal
-759906	small default demonstrative 
+759906	default demonstrative  small
 759908	forty
 759911	to, for.
 759913	I
@@ -39434,30 +39435,30 @@ woman; wife
 759945	in, at, on, with, by means of. reciprocal pronoun 
 759948	thin cane, reed
 master, owner
-existential particle  one; a  man, person; family relative
+one; a  existential particle  man, person; family relative
 759952	forty
 girl; daughter
-759955	to, for, upon, at, by: Admominal uses one; a  land, country; homeland
+759955	to, for, upon, at, by: Admominal uses land, country; homeland one; a 
 other, another; more; again; discourse particle.
 and
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 759961	master, owner
 what? 
 759964	forty
-759966	forty to, for.
+759966	to, for. forty
 759968	presentative particle; but; otherwise .
 when.
 759971	here
 759973	side, direction
 759975	side, direction
-vineyard; orchard in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). vineyard; orchard
 and side, direction
 in; concerning; compared with; by (oath). meadow
 and side, direction
 in; concerning; compared with; by (oath). palace; large house (consisting of two storeys and made of dressed stones)
 speaker deixis demonstrative  if ; either/or ; interrogative particle.
 759983	I
-759986	small default demonstrative 
+759986	default demonstrative  small
 sky
 759993	you
 759995	leader
@@ -39470,7 +39471,7 @@ side, direction
 760007	side, direction
 in; concerning; compared with; by (oath). meadow
 and side, direction
-vineyard; orchard in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). vineyard; orchard
 and side, direction
 in; concerning; compared with; by (oath). palace; large house (consisting of two storeys and made of dressed stones)
 760014	what? 
@@ -39515,7 +39516,7 @@ God
 side, direction
 job, profession, business; affair, thing default demonstrative 
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 speaker deixis demonstrative 
 always; again; still; as soon as; directly; just, only; the same; surely .
 760093	from, with:
@@ -39553,7 +39554,7 @@ mother
 giant
 760157	to, for.
 small
-760160	also, even; connective particle . I
+760160	I also, even; connective particle .
 760162	one; a 
 760164	horse
 760166	perhaps
@@ -39568,7 +39569,7 @@ also, even; connective particle . which?
 760187	default demonstrative 
 760189	servant
 horse
-760193	servant to, for.
+760193	to, for. servant
 760195	in; concerning; compared with; by (oath). tent
 760198	until, up to; before; until when. morning
 morning
@@ -39578,7 +39579,7 @@ morning
 particle expressing prominence 
 760210	until, up to; before; until when. when.
 760213	from, with: there
-in, at, on, with, by means of. day; sun.
+day; sun. in, at, on, with, by means of.
 760216	thin cane, reed
 thin cane, reed
 thin cane, reed
@@ -39605,11 +39606,11 @@ horse
 red; brown
 spear
 red; brown
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 spear
 760257	spark
 what? 
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 much, a lot, many; very .
 strong, mighty, huge
 760263	from, with:
@@ -39617,7 +39618,7 @@ you
 760271	man, person; family relative
 speaker deixis demonstrative 
 760274	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 master, owner
 760278	you
 760281	speaker deixis demonstrative 
@@ -39625,7 +39626,7 @@ master, owner
 760285	master, owner
 also, even; connective particle . or
 760289	and or
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 fighting; war
 fighting; war
 fighting; war
@@ -39633,7 +39634,7 @@ until, up to; before; until when.
 in; concerning; compared with; by (oath). morning
 in; concerning; compared with; by (oath). morning
 760298	day; sun.
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 760302	default demonstrative 
 760304	asleep
 day; sun.
@@ -39641,8 +39642,8 @@ day; sun.
 stage of journey; guesthouse; feast.
 three
 ripe
-palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
-760314	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
+760314	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 760316	in, at, on, with, by means of.
 760319	side, direction
 760321	here
@@ -39655,7 +39656,7 @@ side, direction
 palace; large house (consisting of two storeys and made of dressed stones)
 760335	to, for, upon, at, by: Admominal uses
 760338	lord, prince
-760340	in; concerning; compared with; by (oath). and meadow
+760340	and in; concerning; compared with; by (oath). meadow
 vineyard; orchard
 what; why?; how could it be? how (exclamatory).
 760345	here
@@ -39680,7 +39681,7 @@ spear
 palace; large house (consisting of two storeys and made of dressed stones)
 speaker deixis demonstrative 
 760384	countryside, unsown land
-760386	here and
+760386	and here
 here
 760390	speaker deixis demonstrative 
 side, direction
@@ -39694,14 +39695,14 @@ rosary
 760405	sword
 in; concerning; compared with; by (oath). head; top; beginning.
 thing not any 
-760409	not any  in, at, on, with, by means of. road; way.
+760409	in, at, on, with, by means of. not any  road; way.
 negative copula
 760413	finally; afterwards, then; recently
 760420	what; why?; how could it be? how (exclamatory).
 760422	I
 760424	just, only; but.
 760426	we
-760428	which? duty; task
+760428	duty; task which?
 760440	woman; wife
 760444	unless, only if, except, but, particle of insistence; or not .
 760447	if ; either/or ; interrogative particle. side, direction
@@ -39712,7 +39713,7 @@ palace; large house (consisting of two storeys and made of dressed stones)
 I
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 side, direction
-760465	girl; daughter one; a 
+760465	one; a  girl; daughter
 name
 760468	forty
 plait, lock of hair
@@ -39732,15 +39733,15 @@ forgiveness; sorry!
 default demonstrative 
 760504	giant
 760506	and
-760508	in; concerning; compared with; by (oath). saddle-bag
-760512	vineyard; orchard in; concerning; compared with; by (oath).
+760508	saddle-bag in; concerning; compared with; by (oath).
+760512	in; concerning; compared with; by (oath). vineyard; orchard
 760515	brother
 default demonstrative  big; great; old.
 760518	thing not any 
 760520	and
 760523	thing not any 
 760526	about, concerning
-760528	default demonstrative  brother
+760528	brother default demonstrative 
 small
 760532	yes
 760536	in; concerning; compared with; by (oath). meadow
@@ -39755,7 +39756,7 @@ giant
 one; a 
 760570	two
 760572	asleep
-760575	vineyard; orchard in; concerning; compared with; by (oath).
+760575	in; concerning; compared with; by (oath). vineyard; orchard
 760577	to, for.
 760582	thing not any 
 760584	speaker deixis demonstrative 
@@ -39765,7 +39766,7 @@ horse one; a
 red; brown
 760595	red; brown
 760597	fighting; war
-from, with: evening; late afternoon
+evening; late afternoon from, with:
 until, up to; before; until when. in; concerning; compared with; by (oath). morning
 760603	in; concerning; compared with; by (oath). morning
 760607	sun
@@ -39787,7 +39788,7 @@ in; concerning; compared with; by (oath).
 rosary
 760646	what; why?; how could it be? how (exclamatory).
 760648	each, every; whoever  time; point in time; period of time
-pretext; tool, instrument one; a 
+one; a  pretext; tool, instrument
 master, owner
 in, at, on, with, by means of.
 760656	I
@@ -39799,23 +39800,23 @@ side, direction
 about, concerning; on account of; in, by. respect; good will; favour
 brother
 small
-760689	vineyard; orchard to, for, upon, at, by: Admominal uses
-thing and
-palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses and
+760689	to, for, upon, at, by: Admominal uses vineyard; orchard
+and thing
+and to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 default demonstrative  palace; large house (consisting of two storeys and made of dressed stones)
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 thus; like that; the same; so much.
 760696	time, instance ten
 breath; time, instance; yes.
 first
-one; a  stage of journey; guesthouse; feast.
+stage of journey; guesthouse; feast. one; a 
 760701	good, fine, beautiful
 and
-carpet and
+and carpet
 food; nourishment
 every; all, all of . one; a 
 thing
-default demonstrative  brother
+brother default demonstrative 
 small
 760710	to, for.
 760712	speaker deixis demonstrative 
@@ -39834,7 +39835,7 @@ preverbal particle
 one; a  wedding
 much, a lot, many; very .
 strong, mighty, huge
-default demonstrative  brother
+brother default demonstrative 
 small
 negative existential particle 
 brother
@@ -39852,7 +39853,7 @@ which?
 760764	seven
 sea; lake
 760767	seven
-760770	palace; large house (consisting of two storeys and made of dressed stones) one; a 
+760770	one; a  palace; large house (consisting of two storeys and made of dressed stones)
 760772	each, every; whoever 
 760774	palace; large house (consisting of two storeys and made of dressed stones)
 existential particle 
@@ -39862,13 +39863,13 @@ master, owner
 speaker deixis demonstrative 
 seven
 sea; lake
-760786	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+760786	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 default demonstrative  palace; large house (consisting of two storeys and made of dressed stones)
 760790	bow; sling and
 arrow; long thin rolling pin
-dove, pigeon each, every; whoever 
+each, every; whoever  dove, pigeon
 760795	dove, pigeon
-or outer edge (of wall, window); outer corner (of building); side (of door)
+outer edge (of wall, window); outer corner (of building); side (of door) or
 other, another; more; again; discourse particle.
 760799	master, owner
 presentative particle
@@ -39883,8 +39884,8 @@ finally; afterwards, then; recently
 760813	seven
 760815	if ; either/or ; interrogative particle.
 760819	here
-you and
-760823	if ; either/or ; interrogative particle. and side, direction
+and you
+760823	and if ; either/or ; interrogative particle. side, direction
 760825	default demonstrative 
 760829	speaker deixis demonstrative 
 seven
@@ -39901,7 +39902,7 @@ first
 two
 760854	mountain; region of mountains
 to, for, upon, at, by: Admominal uses mountain; region of mountains
-760858	stone one; a 
+760858	one; a  stone
 to, for, upon, at, by: Admominal uses
 sea; lake
 760863	under stone
@@ -39913,11 +39914,11 @@ horse
 negative existential particle 
 master, owner
 760874	thus, like this, so, such
-in; concerning; compared with; by (oath). sea; lake
+sea; lake in; concerning; compared with; by (oath).
 760878	sea; lake
 which?
 master, owner
-bit (of horse), harness or
+or bit (of horse), harness
 760883	mouth (of body or vessel); end of a spade
 760886	back; waist
 760888	master, owner
@@ -39938,8 +39939,8 @@ time; point in time; period of time default demonstrative
 speaker deixis demonstrative 
 760917	seven
 sea; lake
-760920	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
-760922	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+760920	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
+760922	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 760924	careful
 presentative particle; but; otherwise .
 speaker deixis demonstrative 
@@ -39947,7 +39948,7 @@ mare
 side, direction
 760931	presentative particle; but; otherwise .
 what; why?; how could it be? how (exclamatory).
-760937	place, space. one; a 
+760937	one; a  place, space.
 and side, direction
 760941	what? 
 also, even; connective particle . or
@@ -39958,7 +39959,7 @@ and
 760956	to, for, upon, at, by: Admominal uses
 sea; lake one; a 
 like, as; when.
-760961	stone one; a 
+760961	one; a  stone
 much, a lot, many; very .
 big; great; old.
 760966	under
@@ -39966,7 +39967,7 @@ stone
 presentative particle; but; otherwise .
 one; a 
 mare
-760972	in; concerning; compared with; by (oath). sea; lake
+760972	sea; lake in; concerning; compared with; by (oath).
 careful
 default demonstrative 
 sea; lake
@@ -39985,8 +39986,8 @@ to, for, upon, at, by: Admominal uses
 761004	what; why?; how could it be? how (exclamatory).
 761008	to, for, upon, at, by: Admominal uses
 761012	master, owner
-761015	place, space. to, for, upon, at, by: Admominal uses
-761017	palace; large house (consisting of two storeys and made of dressed stones) one; a 
+761015	to, for, upon, at, by: Admominal uses place, space.
+761017	one; a  palace; large house (consisting of two storeys and made of dressed stones)
 presentative particle; but; otherwise .
 761020	like, as; when.
 lord, prince
@@ -39995,7 +39996,7 @@ outer edge (of wall, window); outer corner (of building); side (of door)
 761026	each, every; whoever  outer edge (of wall, window); outer corner (of building); side (of door)
 dove, pigeon one; a 
 there
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 761031	bow; sling and
 arrow; long thin rolling pin
 almost, about to; connective particle .
@@ -40009,7 +40010,7 @@ standing
 speaker deixis demonstrative 
 761048	speaker deixis demonstrative 
 761054	to, for, upon, at, by: Admominal uses mountain; region of mountains
-to, for, upon, at, by: Admominal uses hunt
+hunt to, for, upon, at, by: Admominal uses
 761058	hunt
 also, even; connective particle . which? because
 761062	suffering, catastrophe
@@ -40024,7 +40025,7 @@ presentative particle; but; otherwise .
 sea; lake
 sitting; inhabited
 mare
-which? and
+and which?
 761087	and above; directly
 sea; lake
 other, another; more; again; discourse particle.
@@ -40040,7 +40041,7 @@ master, owner
 palace; large house (consisting of two storeys and made of dressed stones)
 empty; not busy; riderless (horse).
 761111	mind
-in; concerning; compared with; by (oath). sea; lake
+sea; lake in; concerning; compared with; by (oath).
 presentative particle; but; otherwise .
 default demonstrative 
 sea; lake
@@ -40071,10 +40072,10 @@ side, direction
 side, direction
 761186	I
 761188	thin cane, reed
-761192	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+761192	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 default demonstrative 
-761195	to, for, upon, at, by: Admominal uses hunt
-761197	one; a  tree
+761195	hunt to, for, upon, at, by: Admominal uses
+761197	tree one; a 
 761199	upon
 761202	from, with:
 761207	always; again; still; as soon as; directly; just, only; the same; surely .
@@ -40084,7 +40085,7 @@ one; a
 amount; respect.
 761218	one; a 
 wonder; marvel
-761221	two day; sun.
+761221	day; sun. two
 there
 and or
 woman; wife
@@ -40095,27 +40096,27 @@ woman; wife
 761234	I
 761236	speaker deixis demonstrative 
 761240	how? how could it be? like, just as; when
-761247	and I
+761247	I and
 761250	particle expressing prominence 
 also, even; connective particle . which?
 761255	each, every; whoever  day; sun.
-761257	pretext; tool, instrument one; a 
+761257	one; a  pretext; tool, instrument
 761261	you
 761265	and
-how? how could it be? like, just as; when and
+and how? how could it be? like, just as; when
 761269	what; why?; how could it be? how (exclamatory).
 761271	particle expressing prominence 
 particle expressing prominence 
 particle expressing prominence 
 finally; afterwards, then; recently
 each, every; whoever  day; sun.
-761277	one; a  day; sun.
-one; a  day; sun.
+761277	day; sun. one; a 
+day; sun. one; a 
 761282	in; concerning; compared with; by (oath).
 small broom, brush
 preverbal particle
 small broom, brush
-761287	in; concerning; compared with; by (oath). fire; Hell fire
+761287	fire; Hell fire in; concerning; compared with; by (oath).
 thing not any 
 negative existential particle 
 which?
@@ -40125,7 +40126,7 @@ side, direction
 small broom, brush
 day; sun.
 761301	I
-761304	wood; piece of wood in; concerning; compared with; by (oath). one; a 
+761304	wood; piece of wood one; a  in; concerning; compared with; by (oath).
 other, another; more; again; discourse particle.
 also, even; connective particle . or
 day; sun.
@@ -40136,9 +40137,9 @@ wood; piece of wood or
 761321	I
 761323	if ; either/or ; interrogative particle. side, direction
 761326	in; concerning; compared with; by (oath).
-how? how could it be? like, just as; when and
+and how? how could it be? like, just as; when
 761329	I
-one; a  day; sun.
+day; sun. one; a 
 761332	side, direction
 761338	in; concerning; compared with; by (oath).
 wide valley between mountains
@@ -40149,17 +40150,17 @@ small box; mirror
 in; concerning; compared with; by (oath).
 small box; mirror
 761348	one; a  sparrow
-761350	default demonstrative  sparrow
+761350	sparrow default demonstrative 
 761353	if ; either/or ; interrogative particle. side, direction
 761355	default demonstrative 
 wide valley between mountains
-761358	default demonstrative  sparrow
+761358	sparrow default demonstrative 
 each, every; whoever  time; point in time; period of time
-default demonstrative  sparrow
+sparrow default demonstrative 
 761362	default demonstrative  almost, about to; connective particle .
 I
 761365	default demonstrative 
-wide valley between mountains also, even; connective particle .
+also, even; connective particle . wide valley between mountains
 side, direction
 761369	unless, only if, except, but, particle of insistence; or not .
 761371	three
@@ -40185,7 +40186,7 @@ side, direction
 761405	I
 761408	how? how could it be? like, just as; when
 761410	one; a 
-hair from, with:
+from, with: hair
 761415	three
 day; sun.
 presentative particle
@@ -40201,34 +40202,34 @@ if ; either/or ; interrogative particle.
 bow; sling
 761433	if ; either/or ; interrogative particle. side, direction
 761435	I
-761437	head; top; beginning. in, at, on, with, by means of.
+761437	in, at, on, with, by means of. head; top; beginning.
 761441	each, every; whoever  day; sun.
-761443	head; top; beginning. in, at, on, with, by means of.
+761443	in, at, on, with, by means of. head; top; beginning.
 morning
 until, up to; before; until when. evening; late afternoon
 speaker deixis demonstrative 
 lock of hair; tress of hair
 761449	thus, like this, so, such
 761451	job, profession, business; affair, thing
-761454	also, even; connective particle . speaker deixis demonstrative 
+761454	speaker deixis demonstrative  also, even; connective particle .
 761458	upon
 761466	I
 upon
 761469	if ; either/or ; interrogative particle.
-761471	three arrow; long thin rolling pin
-761474	if ; either/or ; interrogative particle. and side, direction
+761471	arrow; long thin rolling pin three
+761474	and if ; either/or ; interrogative particle. side, direction
 761476	I
-761478	head; top; beginning. in, at, on, with, by means of.
+761478	in, at, on, with, by means of. head; top; beginning.
 761481	man, person; family relative
 761484	speaker deixis demonstrative 
 761488	in, at, on, with, by means of.
 thus, like this, so, such
 if ; either/or ; interrogative particle.
-761492	arrow; long thin rolling pin bow; sling three and
+761492	bow; sling arrow; long thin rolling pin three and
 if ; either/or ; interrogative particle. side, direction
 thing not any 
 761496	what? 
-761498	also, even; connective particle . speaker deixis demonstrative 
+761498	speaker deixis demonstrative  also, even; connective particle .
 761500	each, every; whoever  day; sun.
 morning
 until, up to; before; until when. evening; late afternoon
@@ -40237,11 +40238,11 @@ default demonstrative  lock of hair; tress of hair
 761508	in; concerning; compared with; by (oath).
 anvil
 and
-one; a  day; sun.
+day; sun. one; a 
 761513	two
 761515	three
 in; concerning; compared with; by (oath). morning
-in; concerning; compared with; by (oath). in, at, on, with, by means of. negative copula
+negative copula in; concerning; compared with; by (oath). in, at, on, with, by means of.
 761519	one; a 
 761521	speaker deixis demonstrative 
 761523	value
@@ -40250,14 +40251,14 @@ morning
 default demonstrative 
 default demonstrative  almost, about to; connective particle .
 master, owner default demonstrative 
-761534	three arrow; long thin rolling pin
+761534	arrow; long thin rolling pin three
 from, with:
 761541	default demonstrative 
-761543	in, at, on, with, by means of. day; sun.
+761543	day; sun. in, at, on, with, by means of.
 761545	to, for, upon, at, by: Admominal uses mountain; region of mountains
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 761548	or
-in, at, on, with, by means of. day; sun.
+day; sun. in, at, on, with, by means of.
 761554	presentative particle
 default demonstrative  three
 bow; sling
@@ -40274,14 +40275,14 @@ goatskin or lambskin (spread on floor to sit on)
 still; (not) yet; (no) longer .
 water
 761574	water
-761577	mat made of compressed wool one; a 
+761577	one; a  mat made of compressed wool
 761579	a little (quantity); a few 
 tar
 761582	speaker deixis demonstrative 
-761584	in; concerning; compared with; by (oath). water
+761584	water in; concerning; compared with; by (oath).
 default demonstrative  tar
 761587	in, at, on, with, by means of. above; directly
-default demonstrative  water
+water default demonstrative 
 761590	side, direction
 water
 761593	a little (quantity); a few 
@@ -40300,7 +40301,7 @@ one; a  almost, about to; connective particle .
 761617	obliged; forced
 breath; time, instance; yes.
 last, recent
-761621	wine from, with:
+761621	from, with: wine
 in, at, on, with, by means of.
 761624	to, for, upon, at, by: Admominal uses
 master, owner
@@ -40312,19 +40313,19 @@ arrow; long thin rolling pin
 one; a 
 like, as; when.
 761643	in; concerning; compared with; by (oath). from, with:
-761648	also, even; connective particle . speaker deixis demonstrative 
+761648	speaker deixis demonstrative  also, even; connective particle .
 761651	wine
-761654	place, space. to, for, upon, at, by: Admominal uses
+761654	to, for, upon, at, by: Admominal uses place, space.
 761656	eye; aperture; spring of water.
 761659	tar
-mat made of compressed wool and
+and mat made of compressed wool
 tar
 water
 761665	beyond; onwards more, most; (not) at all 
 761668	a little (quantity); a few 
 wine
 or
-761676	place, space. one; a 
+761676	one; a  place, space.
 761679	breath; time, instance; yes. one; a 
 761681	or
 wide valley between mountains
@@ -40345,7 +40346,7 @@ one; a  almost, about to; connective particle .
 warp
 breath; time, instance; yes.
 three
-761715	default demonstrative  man, person; family relative
+761715	man, person; family relative default demonstrative 
 761717	sitting; inhabited
 in; concerning; compared with; by (oath).
 there
@@ -40366,7 +40367,7 @@ default demonstrative
 761761	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 presentative particle; but; otherwise .
 ill
-761765	default demonstrative  what? 
+761765	what?  default demonstrative 
 761767	in, at, on, with, by means of.
 761769	speaker deixis demonstrative 
 761771	wide valley between mountains
@@ -40378,22 +40379,22 @@ blunt
 761784	story; affair
 761786	much, a lot, many; very .
 ill
-761789	not any  almost, about to; connective particle .
+761789	almost, about to; connective particle . not any 
 thus, like this, so, such
 ill
 761793	one; a  bed; bedding
 761795	also, even; connective particle . which?
-761797	default demonstrative  box
+761797	box default demonstrative 
 761800	sparrow
 master, owner
 761805	thus, like this, so, such
 also, even; connective particle . or
-761811	head; top; beginning. and
+761811	and head; top; beginning.
 and
 every; all, all of .
 761815	also, even; connective particle . or
-761817	always; again; still; as soon as; directly; just, only; the same; surely . time; point in time; period of time
-761819	default demonstrative  man; married man, husband; gentleman, courtier; valiant man
+761817	time; point in time; period of time always; again; still; as soon as; directly; just, only; the same; surely .
+761819	man; married man, husband; gentleman, courtier; valiant man default demonstrative 
 761821	default demonstrative 
 761825	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 761828	there
@@ -40401,11 +40402,11 @@ time; point in time; period of time how many/much? some, several; so much/many; 
 761831	and
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 761834	to, for, upon, at, by: Admominal uses
-761841	one; a  fighting; war
-village in; concerning; compared with; by (oath).
+761841	fighting; war one; a 
+in; concerning; compared with; by (oath). village
 wonder; marvel
 speaker deixis demonstrative 
-761848	in; concerning; compared with; by (oath). place, space. one; a 
+761848	in; concerning; compared with; by (oath). one; a  place, space.
 761850	house; home; verse (of poetry/song) one; a 
 761854	story; affair
 761856	story; affair
@@ -40420,7 +40421,7 @@ woman; wife
 761876	king or
 761883	and
 761885	side, direction
-forty default demonstrative 
+default demonstrative  forty
 woman; wife
 every; all, all of .
 761892	king and
@@ -40447,7 +40448,7 @@ each, every; whoever  day; sun.
 speaker deixis demonstrative 
 761942	fighting; war
 761944	story; affair
-761946	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+761946	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 761948	forty
 girl; daughter
 761956	in; concerning; compared with; by (oath).
@@ -40458,7 +40459,7 @@ girl; daughter
 761964	king
 one; a 
 761967	man; married man, husband; gentleman, courtier; valiant man
-761970	world, weather. (K./A.) in, at, on, with, by means of.
+761970	in, at, on, with, by means of. world, weather. (K./A.)
 761972	king
 761974	speaker deixis demonstrative  and
 761976	rebellious, rebel; difficult (terrain)
@@ -40466,19 +40467,19 @@ one; a
 speaker deixis demonstrative 
 every; all, all of .
 761984	thin cane, reed
-761987	forty in, at, on, with, by means of.
+761987	in, at, on, with, by means of. forty
 girl; daughter
 each, every; whoever  day; sun.
 thin cane, reed
 thus, like this, so, such
 761993	from, with:
-762000	forty in, at, on, with, by means of.
+762000	in, at, on, with, by means of. forty
 girl; daughter
 I
 762006	word
-to, for, upon, at, by: Admominal uses king
+king to, for, upon, at, by: Admominal uses
 762009	word
-to, for, upon, at, by: Admominal uses king
+king to, for, upon, at, by: Admominal uses
 762012	king
 762014	pleasant, beautiful; delicious; healthy; sharp.
 speaker deixis demonstrative 
@@ -40505,7 +40506,7 @@ so-and-so; such-and-such
 762062	each, every; whoever 
 762067	default demonstrative 
 762069	master, owner
-one; a  to, for.
+to, for. one; a 
 762073	one; a 
 762076	master, owner
 each, every; whoever 
@@ -40526,7 +40527,7 @@ speaker deixis demonstrative
 762107	sword
 to, for, upon, at, by: Admominal uses
 horse
-762112	back; waist in, at, on, with, by means of.
+762112	in, at, on, with, by means of. back; waist
 762116	king
 762118	king
 762120	pleasant, beautiful; delicious; healthy; sharp.
@@ -40551,20 +40552,20 @@ negative copula
 what; why?; how could it be? how (exclamatory).
 762153	so-and-so; such-and-such
 place, space.
-in; concerning; compared with; by (oath). so-and-so; such-and-such
+so-and-so; such-and-such in; concerning; compared with; by (oath).
 house; home; verse (of poetry/song)
 762158	even (A.)
 food; nourishment
-small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed in, at, on, with, by means of.
+in, at, on, with, by means of. small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 762164	king
 762166	pleasant, beautiful; delicious; healthy; sharp.
 particle expressing prominence 
 I
 762170	intensifying particle  side, direction
-762172	intensifying particle  negative copula
+762172	negative copula intensifying particle 
 lion
-lion side, direction
-762176	also, even; connective particle . speaker deixis demonstrative 
+side, direction lion
+762176	speaker deixis demonstrative  also, even; connective particle .
 762178	speaker deixis demonstrative 
 762180	particle expressing prominence 
 speaker deixis demonstrative 
@@ -40573,7 +40574,7 @@ speaker deixis demonstrative
 762198	one; a  man, person; family relative
 762202	almost, about to; connective particle .
 ripe
-762209	also, even; connective particle . speaker deixis demonstrative 
+762209	speaker deixis demonstrative  also, even; connective particle .
 762213	horse
 762215	basement stable
 horse
@@ -40584,7 +40585,7 @@ horse
 762229	blind
 762232	conditional particle (A.)
 762234	speaker deixis demonstrative  five
-762237	world, weather. (K./A.) in, at, on, with, by means of.
+762237	in, at, on, with, by means of. world, weather. (K./A.)
 asseverative particle; why?; remonstrating particle .
 762240	master, owner
 horse
@@ -40609,12 +40610,12 @@ horse
 time; point in time; period of time how many/much? some, several; so much/many; however much, as much as; when; as for 
 negative copula
 sun
-762276	circuit; gulp one; a 
+762276	one; a  circuit; gulp
 762278	palace; large house (consisting of two storeys and made of dressed stones)
 762280	yes
 762282	yesterday; tomorrow
 I
-762286	also, even; connective particle . today
+762286	today also, even; connective particle .
 presentative particle
 side, direction
 one; a 
@@ -40623,12 +40624,12 @@ side, direction
 762294	five
 six
 ten
-762302	which? default demonstrative 
+762302	default demonstrative  which?
 762304	to, for.
 762306	I
 762309	which?
 default demonstrative  almost, about to; connective particle .
-762312	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+762312	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 which?
 and man; married man, husband; gentleman, courtier; valiant man
 762316	which?
@@ -40658,7 +40659,7 @@ horse
 762377	wedding
 morning
 762380	child default demonstrative 
-762382	to, for, upon, at, by: Admominal uses roof
+762382	roof to, for, upon, at, by: Admominal uses
 762385	every; all, all of .
 762388	one; a 
 wood; piece of wood
@@ -40702,10 +40703,10 @@ sky
 speaker deixis demonstrative 
 762461	peace; greeting
 762464	peace; greeting
-762466	like, as; when. man, person; family relative
+762466	man, person; family relative like, as; when.
 762469	peace; greeting
 762471	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 762474	bridal veil
 in, at, on, with, by means of. above; directly
 about, concerning
@@ -40726,8 +40727,8 @@ mother-in-law
 762502	every; all, all of .
 762504	daughter-in-law
 side, direction
-762508	son; young animal three
-762510	in, at, on, with, by means of. negative copula
+762508	three son; young animal
+762510	negative copula in, at, on, with, by means of.
 time; point in time; period of time
 762514	thing
 762516	time; point in time; period of time
@@ -40738,10 +40739,10 @@ mother-in-law
 762526	daughter-in-law and
 762529	daughter-in-law
 762532	in; concerning; compared with; by (oath). bed; bedding
-762538	son; young animal one; a 
+762538	one; a  son; young animal
 and
 762542	distance; distant.
-village from, with:
+from, with: village
 speaker deixis demonstrative  and
 in; concerning; compared with; by (oath).
 what; why?; how could it be? how (exclamatory).
@@ -40753,13 +40754,13 @@ speaker deixis demonstrative
 guest
 always; again; still; as soon as; directly; just, only; the same; surely .
 fire; Hell fire
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 762561	iron
 water-mill
 preverbal particle
 every; all, all of .
-in; concerning; compared with; by (oath). fire; Hell fire
-default demonstrative  and
+fire; Hell fire in; concerning; compared with; by (oath).
+and default demonstrative 
 762568	which?
 every; all, all of .
 762571	animal fat, animal oil
@@ -40777,7 +40778,7 @@ vegetable oil; clarified butter (from yoghurt or milk)
 762589	from, with: there
 party of close family after wedding
 762593	side, direction
-762596	to, for, upon, at, by: Admominal uses roof
+762596	roof to, for, upon, at, by: Admominal uses
 762598	hole
 party of close family after wedding
 762602	half; middle.
@@ -40794,16 +40795,16 @@ preverbal particle
 which?
 762619	there
 762621	morning
-762624	mother-in-law to, for. and
-father-in-law and
-here and
+762624	to, for. mother-in-law and
+and father-in-law
+and here
 here
-762630	son; young animal to, for, upon, at, by: Admominal uses
+762630	to, for, upon, at, by: Admominal uses son; young animal
 762633	presentative particle; but; otherwise .
 son; young animal
 762637	always; again; still; as soon as; directly; just, only; the same; surely .
 762641	son; young animal
-762647	mother-in-law to, for.
+762647	to, for. mother-in-law
 762656	nobleman
 762660	master, owner
 762663	presentative particle; but; otherwise .
@@ -40820,11 +40821,11 @@ thus; like that; the same; so much.
 762688	there
 and
 here
-762692	lion one; a 
-762694	one; a  region, district
+762692	one; a  lion
+762694	region, district one; a 
 762698	animal
 each, every; whoever 
-one; a  animal
+animal one; a 
 particle expressing necessity (deontic and epistemic)
 762705	comfortable, at ease, content
 side, direction
@@ -40851,7 +40852,7 @@ back; waist
 side, direction
 762759	always; again; still; as soon as; directly; just, only; the same; surely .
 lion
-762762	lion one; a 
+762762	one; a  lion
 other, another; more; again; discourse particle.
 more, most; (not) at all 
 much, a lot, many; very .
@@ -40860,7 +40861,7 @@ strong, hard, tough
 or
 side, direction
 762772	measure
-762780	upon one; a 
+762780	one; a  upon
 762782	well, cistern
 762786	presentative particle
 762789	or
@@ -40873,16 +40874,16 @@ every; all, all of .
 animal
 762804	comfortable, at ease, content
 762807	not any 
-more, most; (not) at all  from, with:
+from, with: more, most; (not) at all 
 big; great; old.
 762812	one; a 
 old woman; grandmother
 one; a  man, person; family relative
 762816	in; concerning; compared with; by (oath). from, with:
 762818	and
-in; concerning; compared with; by (oath). one; a  town
+town in; concerning; compared with; by (oath). one; a 
 762821	there
-762824	lamp one; a 
+762824	one; a  lamp
 762826	default demonstrative  almost, about to; connective particle .
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. lamp
 762829	oil-lamp
@@ -40892,7 +40893,7 @@ also, even; connective particle . which?
 762836	light
 default demonstrative  almost, about to; connective particle .
 king
-762841	doctor one; a 
+762841	one; a  doctor
 one; a 
 762845	side, direction
 unless, only if, except, but, particle of insistence; or not .
@@ -40902,7 +40903,7 @@ king
 ill
 who?; which? .
 762857	who?; which? .
-762860	lion to, for, upon, at, by: Admominal uses
+762860	to, for, upon, at, by: Admominal uses lion
 762863	skin bag (for churning or carrying liquids)
 762866	lion
 also, even; connective particle .
@@ -40913,14 +40914,14 @@ son; young animal
 ill
 also, even; connective particle . one; a 
 negative existential particle 
-762882	in; concerning; compared with; by (oath). town
+762882	town in; concerning; compared with; by (oath).
 also, even; connective particle . one; a 
 side, direction
-762887	in; concerning; compared with; by (oath). town
+762887	town in; concerning; compared with; by (oath).
 every; all, all of .
 762890	each, every; whoever 
 762892	lion
-lion and
+and lion
 762895	lion
 king
 ill
@@ -40938,11 +40939,11 @@ I
 762933	lion
 762935	side, direction
 762940	side, direction
-762947	solution; cure one; a 
+762947	one; a  solution; cure
 side, direction
 762951	what; why?; how could it be? how (exclamatory).
 762956	in; concerning; compared with; by (oath). one; a  mountain; region of mountains
-762958	eye; aperture; spring of water. one; a 
+762958	one; a  eye; aperture; spring of water.
 there
 in; concerning; compared with; by (oath). mountain; region of mountains
 lionness
@@ -40951,7 +40952,7 @@ leg; foot
 762966	leg; foot
 762971	God  to, for, upon, at, by: Admominal uses
 leg; foot
-762974	three and
+762974	and three
 cub (of animal)
 762979	three
 son; young animal
@@ -40965,7 +40966,7 @@ default demonstrative  leg; foot
 762998	also, even; connective particle . one; a 
 763002	what? 
 763004	full
-763006	thing and
+763006	and thing
 dirt, impurity
 speaker deixis demonstrative 
 man, person; family relative
@@ -40980,8 +40981,8 @@ smell
 from, with:
 to, for, upon, at, by: Admominal uses
 thing; trifle, small amount.
-763030	like, as; when. needle
-763032	like, as; when. needle
+763030	needle like, as; when.
+763032	needle like, as; when.
 763034	lionness
 763039	which?
 763046	standing
@@ -40995,7 +40996,7 @@ every; all, all of .
 763065	every; all, all of .
 763067	or side, direction
 one; a  almost, about to; connective particle .
-763072	also, even; connective particle . time; point in time; period of time default demonstrative 
+763072	time; point in time; period of time also, even; connective particle . default demonstrative 
 preverbal particle
 leg; foot
 763078	every; all, all of .
@@ -41036,9 +41037,9 @@ what; why?; how could it be? how (exclamatory).
 763156	soul, person; reflexive pronoun .
 763158	and
 yoghurt
-763161	in; concerning; compared with; by (oath). skin bag (for churning or carrying liquids)
+763161	skin bag (for churning or carrying liquids) in; concerning; compared with; by (oath).
 763164	son; young animal
-763167	to, for. king
+763167	king to, for.
 order, command
 preverbal particle
 yoghurt
@@ -41049,7 +41050,7 @@ preverbal particle
 763180	there
 763182	here
 763184	one; a  man, person; family relative
-village in; concerning; compared with; by (oath). one; a 
+in; concerning; compared with; by (oath). one; a  village
 much, a lot, many; very .
 much, a lot, many; very .
 liar
@@ -41065,8 +41066,8 @@ side, direction
 763209	man, person; family relative
 763214	a little (quantity); a few 
 distance; distant.
-village from, with:
-one; a  day; sun.
+from, with: village
+day; sun. one; a 
 from, with:
 God 
 763223	speaker deixis demonstrative 
@@ -41095,9 +41096,9 @@ from, with:
 presentative particle; but; otherwise .
 presentative particle
 763269	village
-default demonstrative  fire; Hell fire
+fire; Hell fire default demonstrative 
 763273	here
-two three month
+three two month
 four month
 763277	breath; time, instance; yes. one; a 
 763282	one; a  almost, about to; connective particle .
@@ -41109,11 +41110,11 @@ fire; Hell fire
 763300	three
 what; why?; how could it be? how (exclamatory).
 763303	always; again; still; as soon as; directly; just, only; the same; surely .
-763305	village in; concerning; compared with; by (oath).
+763305	in; concerning; compared with; by (oath). village
 speaker deixis demonstrative 
 763308	and
 speaker deixis demonstrative 
-763311	lord, prince and
+763311	and lord, prince
 speaker deixis demonstrative 
 763314	arm, cubit
 slander, false accusation
@@ -41149,7 +41150,7 @@ beyond; onwards
 763368	presentative particle; but; otherwise .
 763374	yes
 in, at, on, with, by means of.
-763378	liar and
+763378	and liar
 we
 side, direction
 763382	master, owner
@@ -41159,8 +41160,8 @@ Kurd, Kurdish one; a
 763388	every; all, all of .
 man, person; family relative
 763391	thin cane, reed
-job, profession, business; affair, thing to, for, upon, at, by: Admominal uses
-also, even; connective particle . I
+to, for, upon, at, by: Admominal uses job, profession, business; affair, thing
+I also, even; connective particle .
 763395	job, profession, business; affair, thing
 763399	village
 763406	in; concerning; compared with; by (oath).
@@ -41170,7 +41171,7 @@ speaker deixis demonstrative
 763413	to, for.
 and
 763418	and
-763420	also, even; connective particle . I
+763420	I also, even; connective particle .
 763423	one; a  work; job; cultivation
 763425	and
 763430	what; why?; how could it be? how (exclamatory). to, for; so that.
@@ -41184,32 +41185,32 @@ man, person; family relative
 763448	from, with:
 763450	in, at, on, with, by means of.
 from, with:
-763462	job, profession, business; affair, thing one; a 
-763464	also, even; connective particle . I
+763462	one; a  job, profession, business; affair, thing
+763464	I also, even; connective particle .
 every; all, all of .
 man, person; family relative
-763469	also, even; connective particle . I
+763469	I also, even; connective particle .
 763474	what; why?; how could it be? how (exclamatory). to, for; so that.
 side, direction
 763478	food, a meal
 egg
 763482	food, a meal
-and egg
+egg and
 and vegetable oil; clarified butter (from yoghurt or milk)
 meat roasted in fat and preserved for winter
 763487	sky
 763492	I
 763496	food, a meal
 to, for.
-you and
+and you
 763500	and
-to, for, upon, at, by: Admominal uses household of; family of
+household of; family of to, for, upon, at, by: Admominal uses
 763503	what? 
 763505	breath; time, instance; yes. one; a 
 which?
 wretched, poor
 or
-763511	default demonstrative  food, a meal
+763511	food, a meal default demonstrative 
 763515	perhaps
 763517	in, at, on, with, by means of. road; way.
 and
@@ -41220,10 +41221,10 @@ thing
 if ; either/or ; interrogative particle.
 763530	behind; after; through.
 763533	food, a meal from, with:
-763536	one; a  four
+763536	four one; a 
 five
 egg
-763540	one; a  four
+763540	four one; a 
 five
 egg
 763544	under
@@ -41231,13 +41232,13 @@ and
 meat roasted in fat and preserved for winter
 763548	pocket in; concerning; compared with; by (oath).
 and
-763551	one; a  earthenware pot for water
+763551	earthenware pot for water one; a 
 vegetable oil; clarified butter (from yoghurt or milk)
 763554	speaker deixis demonstrative 
 763560	vegetable oil; clarified butter (from yoghurt or milk)
 and
 763565	and
-763568	and negative copula
+763568	negative copula and
 763570	and
 in, at, on, with, by means of.
 763573	and
@@ -41283,7 +41284,7 @@ meat roasted in fat and preserved for winter
 to, for, upon, at, by: Admominal uses
 particle expressing prominence 
 you
-work; job; cultivation not any 
+not any  work; job; cultivation
 side, direction
 always; again; still; as soon as; directly; just, only; the same; surely .
 in, at, on, with, by means of.
@@ -41293,11 +41294,11 @@ speaker deixis demonstrative
 763673	in, at, on, with, by means of. road; way.
 763675	household of; family of
 763677	peace; greeting
-763680	vocative particle in, at, on, with, by means of. peace
+763680	in, at, on, with, by means of. peace vocative particle
 blessings, greetings
 in, at, on, with, by means of. peace
 presentative particle what; why?; how could it be? how (exclamatory).
-763688	job, profession, business; affair, thing one; a 
+763688	one; a  job, profession, business; affair, thing
 763690	what; why?; how could it be? how (exclamatory).
 763693	I
 763697	not any 
@@ -41305,7 +41306,7 @@ work; job; cultivation
 763701	seven
 ass
 each, every; whoever  day; sun.
-763706	default demonstrative  seven
+763706	seven default demonstrative 
 ass
 to, for, upon, at, by: Admominal uses mountain; region of mountains
 763710	wood; piece of wood
@@ -41313,7 +41314,7 @@ to, for, upon, at, by: Admominal uses mountain; region of mountains
 speaker deixis demonstrative 
 good
 763720	speaker deixis demonstrative 
-763723	ass default demonstrative 
+763723	default demonstrative  ass
 to, for, upon, at, by: Admominal uses mountain; region of mountains
 default demonstrative  almost, about to; connective particle .
 seven
@@ -41326,11 +41327,11 @@ ass
 763738	ass
 763740	or
 what; why?; how could it be? how (exclamatory).
-763746	blanket put on the back of an animal made of compacted wool default demonstrative 
+763746	default demonstrative  blanket put on the back of an animal made of compacted wool
 763748	ass
 763750	to, for, upon, at, by: Admominal uses back; waist
 seven
-blanket put on the back of an animal made of compacted wool and
+and blanket put on the back of an animal made of compacted wool
 763755	gathering of people; reception; audience chamber
 gathering of people; reception; audience chamber
 763760	seized, clasped; blocked (road)
@@ -41338,20 +41339,20 @@ speaker deixis demonstrative
 gathering of people; reception; audience chamber
 763764	or
 always; again; still; as soon as; directly; just, only; the same; surely .
-mountain; region of mountains from, with:
+from, with: mountain; region of mountains
 above; directly
 roof
-default demonstrative  and
+and default demonstrative 
 to, for, upon, at, by: Admominal uses back; waist
-763773	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
-763775	default demonstrative  man, person; family relative
+763773	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
+763775	man, person; family relative default demonstrative 
 every; all, all of .
 763780	presentative particle; but; otherwise .
 763782	ass
 there
 763794	presentative particle; but; otherwise .
 763798	ass
-763802	wolf to, for, upon, at, by: Admominal uses
+763802	to, for, upon, at, by: Admominal uses wolf
 763804	preverbal particle
 763807	what? 
 default demonstrative 
@@ -41359,12 +41360,12 @@ default demonstrative
 763812	master, owner
 763815	what; why?; how could it be? how (exclamatory).
 work; job; cultivation
-763819	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+763819	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 763821	yes
-one; a  day; sun.
+day; sun. one; a 
 house; home; verse (of poetry/song)
 763828	new and
-soil, ground; land and
+and soil, ground; land
 763831	and
 thus, like this, so, such
 763834	small smooth stone
@@ -41373,13 +41374,13 @@ thus, like this, so, such
 storeroom for food
 storeroom for food
 763844	and
-and pearl millet
-barley and
+pearl millet and
+and barley
 every; all, all of .
 763849	in; concerning; compared with; by (oath).
 and
 thus, like this, so, such
-763853	one; a  and small conical-shaped pot (for water)
+763853	and one; a  small conical-shaped pot (for water)
 big; great; old.
 thus, like this, so, such
 raisin or date syrop
@@ -41396,7 +41397,7 @@ animal
 763881	in; concerning; compared with; by (oath).
 763883	in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
-763887	one; a  female cat; spiky type of oak gall
+763887	female cat; spiky type of oak gall one; a 
 and
 in, at, on, with, by means of.
 763891	standing
@@ -41415,15 +41416,15 @@ in, at, on, with, by means of.
 763910	house; home; verse (of poetry/song)
 763913	one; a 
 small smooth stone
-763917	in, at, on, with, by means of. female cat; spiky type of oak gall
+763917	female cat; spiky type of oak gall in, at, on, with, by means of.
 side, direction
-in, at, on, with, by means of. female cat; spiky type of oak gall
+female cat; spiky type of oak gall in, at, on, with, by means of.
 763921	in, at, on, with, by means of. household of; family of
 763925	or
 falcon; great person
 763928	raisin or date syrop
 party of close family after wedding
-763933	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+763933	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 763937	from, with:
 pearl millet
@@ -41433,22 +41434,22 @@ from, with:
 pearl millet
 763945	in; concerning; compared with; by (oath).
 763947	raisin or date syrop
-default demonstrative  pearl millet
+pearl millet default demonstrative 
 every; all, all of .
 763951	in; concerning; compared with; by (oath). raisin or date syrop
 763953	raisin or date syrop
-and pearl millet
+pearl millet and
 in; concerning; compared with; by (oath). reciprocal pronoun 
 house; home; verse (of poetry/song) default demonstrative 
 763963	presentative particle
 763967	in, at, on, with, by means of.
-763970	side, direction animal
+763970	animal side, direction
 and side, direction
 man, person; family relative
-763974	in; concerning; compared with; by (oath). room
+763974	room in; concerning; compared with; by (oath).
 763976	female cat; spiky type of oak gall
 763979	small conical-shaped pot (for water)
-also, even; connective particle . I
+I also, even; connective particle .
 763982	small smooth stone
 763985	side, direction
 763989	in, at, on, with, by means of. small conical-shaped pot (for water)
@@ -41459,7 +41460,7 @@ cloth
 764000	pearl millet
 764003	in; concerning; compared with; by (oath). raisin or date syrop
 side, direction
-also, even; connective particle . pearl millet
+pearl millet also, even; connective particle .
 764008	I
 what; why?; how could it be? how (exclamatory).
 negative copula
@@ -41482,16 +41483,16 @@ I
 764055	master, owner
 to, for.
 master, owner
-always; again; still; as soon as; directly; just, only; the same; surely . I
+I always; again; still; as soon as; directly; just, only; the same; surely .
 764060	also, even; connective particle . one; a 
 side, direction
-764063	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+764063	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 on, upon
 764066	to, for, upon, at, by: Admominal uses
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 764070	breath; time, instance; yes. one; a 
 764072	thus; like that; the same; so much.
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 764076	to, for, upon, at, by: Admominal uses
 presentative particle
 764079	I
@@ -41510,32 +41511,32 @@ to, for.
 764117	or
 764126	cool room for storage in the basement of a house
 cool room for storage in the basement of a house
-764130	in; concerning; compared with; by (oath). basement stable
-ladder in, at, on, with, by means of.
+764130	basement stable in; concerning; compared with; by (oath).
+in, at, on, with, by means of. ladder
 764133	and
-in; concerning; compared with; by (oath). basement stable
+basement stable in; concerning; compared with; by (oath).
 764136	basement stable
 764142	right; fee; what is lawful
 764144	measure
 two
 here
-here to, for, upon, at, by: Admominal uses
-764150	in; concerning; compared with; by (oath). basement stable
-764152	in; concerning; compared with; by (oath). basement stable
+to, for, upon, at, by: Admominal uses here
+764150	basement stable in; concerning; compared with; by (oath).
+764152	basement stable in; concerning; compared with; by (oath).
 764154	ox
 764156	mule
 764158	thing
-764160	in; concerning; compared with; by (oath). basement stable
+764160	basement stable in; concerning; compared with; by (oath).
 each, every; whoever  one; a 
-764164	knife one; a 
+764164	one; a  knife
 long
 and
 764172	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 764175	light
 negative existential particle 
 lightning; electricity
-764180	one; a  ox
+764180	ox one; a 
 764183	ox
 and
 764186	ox
@@ -41581,23 +41582,23 @@ job, profession, business; affair, thing
 764279	seven
 ass
 764283	wood; piece of wood
-764287	also, even; connective particle . I
+764287	I also, even; connective particle .
 764290	pure
 764294	wood; piece of wood
 arm, cubit
-upon reciprocal pronoun 
+reciprocal pronoun  upon
 seven
 764299	I
 764301	wood; piece of wood
 wolf
 busy, occupied
-ass in, at, on, with, by means of.
+in, at, on, with, by means of. ass
 maternal uncle
 preverbal particle
 ass
 764310	blanket put on the back of an animal made of compacted wool
 764312	to, for, upon, at, by: Admominal uses
-764315	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+764315	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 764317	then
 what; why?; how could it be? how (exclamatory).
 other, another; more; again; discourse particle.
@@ -41621,7 +41622,7 @@ side, direction
 764351	about, concerning
 764353	also, even; connective particle . one; a 
 side, direction
-764356	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+764356	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 764358	other, another; more; again; discourse particle. one; a 
 764361	other, another; more; again; discourse particle. one; a 
 764364	I
@@ -41629,7 +41630,7 @@ who?; which? .
 764368	I
 764371	who?; which? .
 side, direction
-764375	in; concerning; compared with; by (oath). basement stable
+764375	basement stable in; concerning; compared with; by (oath).
 leaf (of a plant); leafy branch (of a tree)
 to, for, upon, at, by: Admominal uses
 764380	ox
@@ -41665,7 +41666,7 @@ monk
 when.
 764460	I
 when.
-764465	here and
+764465	and here
 here
 764469	one; a 
 764471	in; concerning; compared with; by (oath).
@@ -41680,7 +41681,7 @@ job, profession, business; affair, thing
 764485	drug, medicine; chemical; polish (for shoes); gunpowder; substance
 to, for, upon, at, by: Admominal uses leather shoes
 764488	leather shoes
-764490	girl; daughter one; a 
+764490	one; a  girl; daughter
 764494	drug, medicine; chemical; polish (for shoes); gunpowder; substance
 764496	leg; foot
 764498	here
@@ -41691,7 +41692,7 @@ long needle
 in; concerning; compared with; by (oath).
 764510	what; why?; how could it be? how (exclamatory). to, for; so that.
 764513	every; all, all of .
-764515	in; concerning; compared with; by (oath). fire; Hell fire
+764515	fire; Hell fire in; concerning; compared with; by (oath).
 in; concerning; compared with; by (oath).
 who?; which? . about, concerning
 764519	which?
@@ -41714,7 +41715,7 @@ default demonstrative  monk
 764546	to, for, upon, at, by: Admominal uses
 764548	interjection opening speech turns
 764551	blind
-764555	here and
+764555	and here
 here
 764558	to, for, upon, at, by: Admominal uses
 764563	peace; greeting
@@ -41722,7 +41723,7 @@ preverbal particle
 764566	peace; greeting
 764569	peace; greeting
 764571	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 764578	presentative particle
 764580	what; why?; how could it be? how (exclamatory).
 764583	in, at, on, with, by means of.
@@ -41743,11 +41744,11 @@ master, owner
 764617	and
 764621	unless, only if, except, but, particle of insistence; or not .
 764623	interjection opening speech turns
-764625	here and
+764625	and here
 here
 side, direction
 what; why?; how could it be? how (exclamatory).
-marriage and
+and marriage
 side, direction
 I
 side, direction
@@ -41755,13 +41756,13 @@ side, direction
 764640	in, at, on, with, by means of.
 764643	yes
 764647	default demonstrative  girl; daughter
-girl; daughter one; a 
+one; a  girl; daughter
 764652	speaker deixis demonstrative 
 764657	default demonstrative  girl; daughter
 764661	default demonstrative  girl; daughter
 764665	finally; afterwards, then; recently
 764667	unless, only if, except, but, particle of insistence; or not .
-764670	thing one; a 
+764670	one; a  thing
 764672	stamp, seal
 764675	you
 default demonstrative  girl; daughter
@@ -41769,7 +41770,7 @@ I
 764680	blind
 in, at, on, with, by means of.
 764683	long needle
-who?; which? . in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). who?; which? .
 764686	yes
 764690	side, direction
 I
@@ -41778,19 +41779,19 @@ and man; married man, husband; gentleman, courtier; valiant man
 woman; wife
 764696	I
 and
-and brother
+brother and
 new
 764701	to, for, upon, at, by: Admominal uses reciprocal pronoun 
-while  brother
+brother while 
 new and
 side, direction
-while  and man; married man, husband; gentleman, courtier; valiant man
+while  man; married man, husband; gentleman, courtier; valiant man and
 woman; wife
 764708	yes
 764710	side, direction
-also, even; connective particle . to, for. one; a 
+to, for. also, even; connective particle . one; a 
 we
-and brother
+brother and
 764715	master, owner
 764717	behind; after; through.
 thus; like that; the same; so much.
@@ -41806,9 +41807,9 @@ and
 bed; bedding
 764741	blind
 here
-woman; wife and
+and woman; wife
 764745	here
-default demonstrative  and monk
+and default demonstrative  monk
 764748	here
 764750	one; a 
 water
@@ -41817,15 +41818,15 @@ water
 764758	breath; time, instance; yes.
 water
 standing
-basket in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). basket
 breath; time, instance; yes.
 or
 what? 
-until, up to; before; until when. thus; like that; the same; so much.
+thus; like that; the same; so much. until, up to; before; until when.
 764767	God  to, for; so that.
 God  and
-764770	also, even; connective particle . water
-764772	basket in; concerning; compared with; by (oath).
+764770	water also, even; connective particle .
+764772	in; concerning; compared with; by (oath). basket
 speaker deixis demonstrative 
 764775	asleep
 default demonstrative  monk
@@ -41850,7 +41851,7 @@ side, direction
 you
 when.
 764813	and
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song) from, with:
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath). from, with:
 764817	one; a  monk
 764819	in; concerning; compared with; by (oath). one; a  small cave
 764821	one; a  man, person; family relative
@@ -41861,7 +41862,7 @@ rider
 764830	water
 764832	some, a few, a little (quantity) 
 money
-764837	upon eye; aperture; spring of water.
+764837	eye; aperture; spring of water. upon
 speaker deixis demonstrative 
 764840	money
 764843	speaker deixis demonstrative 
@@ -41870,21 +41871,21 @@ speaker deixis demonstrative
 rider
 other, another; more; again; discourse particle.
 horseman
-764852	upon eye; aperture; spring of water.
+764852	eye; aperture; spring of water. upon
 preverbal particle
 hundred
 764857	stroke (of a stick, whip)
 764859	in; concerning; compared with; by (oath).
 and
 default demonstrative  first
-764871	upon eye; aperture; spring of water. from, with:
+764871	from, with: upon eye; aperture; spring of water.
 presentative particle
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 first
-764876	eye; aperture; spring of water. to, for, upon, at, by: Admominal uses
+764876	to, for, upon, at, by: Admominal uses eye; aperture; spring of water.
 764878	one; a  man, person; family relative
 old (man); grandfather; ancestor
-764881	upon eye; aperture; spring of water.
+764881	eye; aperture; spring of water. upon
 764884	and
 764886	default demonstrative  first
 764888	money
@@ -41895,10 +41896,10 @@ particle expressing necessity (deontic and epistemic)
 764903	interjection opening speech turns
 764905	money
 side, direction
-here and
+and here
 here
 and
-in, at, on, with, by means of. side
+side in, at, on, with, by means of.
 side, direction
 764917	money
 764920	preverbal particle
@@ -41918,7 +41919,7 @@ forty
 764940	if, so long as
 764944	behind; after; through.
 right; fee; what is lawful
-right; fee; what is lawful and
+and right; fee; what is lawful
 764948	right; fee; what is lawful
 and
 right; fee; what is lawful
@@ -41934,14 +41935,14 @@ side, direction
 764972	thin cane, reed
 leaf (of a plant); leafy branch (of a tree)
 behind; after; through.
-right; fee; what is lawful and
+and right; fee; what is lawful
 right; fee; what is lawful
-764978	also, even; connective particle . I
+764978	I also, even; connective particle .
 764980	thin cane, reed
 leaf (of a plant); leafy branch (of a tree)
 behind; after; through.
 right; fee; what is lawful
-right; fee; what is lawful and
+and right; fee; what is lawful
 764986	angel
 764988	to, for. monk
 764991	in, at, on, with, by means of.
@@ -41950,22 +41951,22 @@ every; all, all of . thing
 764997	what? 
 764999	I
 and
-765006	village in; concerning; compared with; by (oath). one; a 
+765006	in; concerning; compared with; by (oath). one; a  village
 765008	in, at, on, with, by means of.
 time; point in time; period of time
 thus, like this, so, such
 765012	to, for, upon, at, by: Admominal uses
 765014	one; a  man, person; family relative
-765016	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+765016	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 peace; greeting
 in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 765023	there
 and
 food, a meal
 and
 asleep
-765029	in, at, on, with, by means of. negative copula
+765029	negative copula in, at, on, with, by means of.
 angel
 765032	monk to, for; so that.
 765037	presentative particle
@@ -41987,7 +41988,7 @@ lord, prince
 765063	in, at, on, with, by means of.
 765067	side, direction
 765069	child
-father; term of endearment. and
+and father; term of endearment.
 765072	child
 fifty
 765075	church
@@ -41998,21 +41999,21 @@ child
 unless, only if, except, but, particle of insistence; or not .
 765084	six
 month
-also, even; connective particle . speaker deixis demonstrative  and
+speaker deixis demonstrative  and also, even; connective particle .
 preverbal particle
 and
-in, at, on, with, by means of. negative copula
-765092	village one; a 
+negative copula in, at, on, with, by means of.
+765092	one; a  village
 765095	speaker deixis demonstrative 
 765097	right; fee; what is lawful
 765099	vocative particle
 thus, like this, so, such
 765102	right; fee; what is lawful
-right; fee; what is lawful and
-765105	village in; concerning; compared with; by (oath). one; a 
+and right; fee; what is lawful
+765105	in; concerning; compared with; by (oath). one; a  village
 765107	master, owner
-765110	village in; concerning; compared with; by (oath).
-765112	in; concerning; compared with; by (oath). house; home; verse (of poetry/song) one; a 
+765110	in; concerning; compared with; by (oath). village
+765112	house; home; verse (of poetry/song) in; concerning; compared with; by (oath). one; a 
 765114	food, a meal
 maternal uncle
 one; a 
@@ -42025,14 +42026,14 @@ water
 and
 765129	water
 small drinking bowl from, with:
-765132	in, at, on, with, by means of. negative copula
+765132	negative copula in, at, on, with, by means of.
 angel
 765135	monk to, for; so that.
 765139	speaker deixis demonstrative 
 small drinking bowl
 and
 765144	small drinking bowl
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 and
 765148	in; concerning; compared with; by (oath). one; a  courtyard, residential enclosure; halo.
 765150	from, with: courtyard, residential enclosure; halo.
@@ -42058,7 +42059,7 @@ church
 765193	wood; piece of wood
 to, for, upon, at, by: Admominal uses back; waist
 765196	sitting; inhabited
-stone to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses stone
 thus, like this, so, such
 speaker deixis demonstrative 
 765203	also, even; connective particle . peace; greeting
@@ -42112,7 +42113,7 @@ in; concerning; compared with; by (oath).
 small cave
 765287	one; a  man, person; family relative
 horseman
-765291	upon eye; aperture; spring of water.
+765291	eye; aperture; spring of water. upon
 765293	thing
 and
 money
@@ -42124,21 +42125,21 @@ money default demonstrative
 old (man); grandfather; ancestor
 765308	default demonstrative  first
 preverbal particle
-default demonstrative  old (man); grandfather; ancestor
+old (man); grandfather; ancestor default demonstrative 
 to, for. what; why?; how could it be? how (exclamatory).
 765314	default demonstrative 
 765316	money
 default demonstrative 
-765325	default demonstrative  man, person; family relative
+765325	man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 today
-default demonstrative  old (man); grandfather; ancestor
+old (man); grandfather; ancestor default demonstrative 
 preverbal particle
 765331	what? 
 speaker deixis demonstrative 
 765334	presentative particle; but; otherwise .
 what; why?; how could it be? how (exclamatory).
-son; young animal about, concerning; on account of; in, by.
+about, concerning; on account of; in, by. son; young animal
 765338	and fifty
 five
 765342	son; young animal
@@ -42149,7 +42150,7 @@ and fifty
 five
 765355	God 
 765357	God  vocative particle
-765359	son; young animal one; a 
+765359	one; a  son; young animal
 765361	God 
 765364	son; young animal
 party of close family after wedding
@@ -42158,13 +42159,13 @@ side, direction
 765370	God 
 and side, direction
 God  to, for; so that.
-always; again; still; as soon as; directly; just, only; the same; surely . stuck (together)
+stuck (together) always; again; still; as soon as; directly; just, only; the same; surely .
 in, at, on, with, by means of.
 side, direction
 765380	God 
 one; a  almost, about to; connective particle .
 765384	what? 
-also, even; connective particle . speaker deixis demonstrative 
+speaker deixis demonstrative  also, even; connective particle .
 765387	what; why?; how could it be? how (exclamatory).
 about, concerning; on account of; in, by.
 765390	small drinking bowl
@@ -42209,7 +42210,7 @@ every; all, all of .
 preverbal particle
 and
 765460	to, for, upon, at, by: Admominal uses
-like, as; when. forty
+forty like, as; when.
 you
 765464	God  to, for; so that.
 and
@@ -42218,7 +42219,7 @@ I
 word in, at, on, with, by means of.
 765474	respect; good will; favour
 God 
-respect; good will; favour and
+and respect; good will; favour
 765478	about, concerning side, direction
 765485	until, up to; before; until when.
 default demonstrative 
@@ -42228,16 +42229,16 @@ God
 765493	there
 and
 here
-one; a  day; sun.
+day; sun. one; a 
 765498	priest one; a 
-one; a  mullah and
+and one; a  mullah
 priest
 765502	to, for, upon, at, by: Admominal uses
-mullah and
+and mullah
 765505	to, for, upon, at, by: Admominal uses pilgrimage
 765507	reciprocal pronoun 
 until, up to; before; until when.
-765510	in; concerning; compared with; by (oath). one; a  hotel
+765510	hotel in; concerning; compared with; by (oath). one; a 
 765512	there
 now
 mullah
@@ -42245,7 +42246,7 @@ mullah
 765519	thin cane, reed
 765521	thin cane, reed
 to, for, upon, at, by: Admominal uses
-you and
+and you
 765525	thin cane, reed
 master, owner
 thin cane, reed
@@ -42267,7 +42268,7 @@ to, for. what; why?; how could it be? how (exclamatory).
 765564	in; concerning; compared with; by (oath). restaurant
 also, even; connective particle . yesterday; tomorrow
 765569	thus, like this, so, such
-765574	two chicken
+765574	chicken two
 and
 765577	in; concerning; compared with; by (oath). cooking pot
 and
@@ -42276,7 +42277,7 @@ and
 765583	one; a 
 765585	mullah
 765587	sitting; inhabited
-in; concerning; compared with; by (oath). chair
+chair in; concerning; compared with; by (oath).
 765590	and
 765592	mullah
 765595	priest
@@ -42286,7 +42287,7 @@ in; concerning; compared with; by (oath). chair
 mullah
 765606	chicken
 I
-765609	in; concerning; compared with; by (oath). sun
+765609	sun in; concerning; compared with; by (oath).
 what; why?; how could it be? how (exclamatory).
 765614	or
 asleep
@@ -42304,19 +42305,19 @@ thing not any
 because
 speaker deixis demonstrative 
 765638	chicken
-upon fire; Hell fire
+fire; Hell fire upon
 765642	and
 above; directly
 765645	every; all, all of .
 chicken
 765650	in; concerning; compared with; by (oath). brass cooking pot
 and
-765653	mullah and
+765653	and mullah
 765656	presentative particle
 mullah
 mullah
 765660	man, person; family relative
-765663	one; a  dream
+765663	dream one; a 
 765665	intensifying particle 
 dream
 vision, revelation
@@ -42326,7 +42327,7 @@ vision, revelation
 presentative particle; but; otherwise .
 I
 765683	to, for, upon, at, by: Admominal uses paradise
-world, weather. (K./A.) to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses world, weather. (K./A.)
 765686	master, owner
 765688	to, for, upon, at, by: Admominal uses
 paradise
@@ -42339,11 +42340,11 @@ paradise
 765706	good
 and
 and
-in; concerning; compared with; by (oath). and
+and in; concerning; compared with; by (oath).
 existential particle  there
 grape
 765713	and
-every; all, all of . thing and
+and every; all, all of . thing
 765717	and
 765719	master, owner
 in, at, on, with, by means of.
@@ -42357,7 +42358,7 @@ enjoyment
 side, direction
 765734	and
 priest
-and I
+I and
 765738	particle expressing prominence 
 765740	thus; like that; the same; so much.
 also, even; connective particle .
@@ -42376,10 +42377,10 @@ you
 765779	and
 preverbal particle
 and
-765784	also, even; connective particle . I
+765784	I also, even; connective particle .
 from, with:
-765787	default demonstrative  chicken
-765789	upon fire; Hell fire
+765787	chicken default demonstrative 
+765789	fire; Hell fire upon
 and
 and
 765793	thing not any 
@@ -42394,13 +42395,13 @@ preverbal particle
 765810	from, with:
 765812	which?
 master, owner
-765815	one; a  and man; married man, husband; gentleman, courtier; valiant man
+765815	and man; married man, husband; gentleman, courtier; valiant man one; a 
 woman; wife
 765818	son; young animal
 each, every; whoever  day; sun.
 765821	man; married man, husband; gentleman, courtier; valiant man
 to, for, upon, at, by: Admominal uses market
-765824	thing and not any 
+765824	and thing not any 
 765827	woman; wife
 765829	how many/much? some, several; so much/many; however much, as much as; when; as for 
 765831	speaker deixis demonstrative 
@@ -42419,7 +42420,7 @@ man, person; family relative
 negative existential particle 
 thus, like this, so, such
 thing
-765856	in; concerning; compared with; by (oath). town
+765856	town in; concerning; compared with; by (oath).
 765862	mullah
 mullah
 765865	I
@@ -42433,9 +42434,9 @@ leg; foot
 leg; foot
 765878	ox
 765880	one; a 
-765883	ox and
+765883	and ox
 765886	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 765889	particle expressing prominence 
 I
 default demonstrative 
@@ -42443,20 +42444,20 @@ default demonstrative
 side, direction
 765896	three
 side, direction
-765899	particle expressing prominence  interjection opening speech turns
+765899	interjection opening speech turns particle expressing prominence 
 who?; which? .
 in, at, on, with, by means of.
 thus, like this, so, such
 side, direction
-money one; a  in, at, on, with, by means of.
+money in, at, on, with, by means of. one; a 
 much, a lot, many; very .
 thing
 765908	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 teacher
 765912	teacher
 765914	if ; either/or ; interrogative particle.
-two in, at, on, with, by means of.
+in, at, on, with, by means of. two
 leg; foot
 I
 in, at, on, with, by means of.
@@ -42467,7 +42468,7 @@ ox
 765930	interjection opening speech turns
 in, at, on, with, by means of.
 765933	if ; either/or ; interrogative particle.
-one; a  in, at, on, with, by means of. leg; foot
+in, at, on, with, by means of. one; a  leg; foot
 765938	one; a  leg; foot
 you
 leg; foot
@@ -42485,14 +42486,14 @@ side, direction
 ox
 765960	in, at, on, with, by means of.
 765962	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
-sad, regretful (of mistake) and
+and sad, regretful (of mistake)
 765966	to, for, upon, at, by: Admominal uses
 765968	son; young animal
 765970	side, direction
 765972	woman; wife
 until, up to; before; until when.
 story; affair
-765979	in; concerning; compared with; by (oath). town
+765979	town in; concerning; compared with; by (oath).
 765981	thus, like this, so, such
 each, every; whoever 
 ox
@@ -42507,13 +42508,13 @@ I
 765999	perhaps
 766005	I
 in, at, on, with, by means of.
-766010	three in, at, on, with, by means of.
+766010	in, at, on, with, by means of. three
 766012	side
 766015	teacher
 766017	I
 in, at, on, with, by means of.
 if ; either/or ; interrogative particle.
-two in, at, on, with, by means of.
+in, at, on, with, by means of. two
 leg; foot
 766023	one; a 
 766026	two
@@ -42524,7 +42525,7 @@ thus, like this, so, such still (not)
 I
 in, at, on, with, by means of.
 if ; either/or ; interrogative particle.
-one; a  in, at, on, with, by means of.
+in, at, on, with, by means of. one; a 
 leg; foot
 766041	also, even; connective particle . which?
 leg; foot
@@ -42549,7 +42550,7 @@ default demonstrative
 766078	board; wooden bed; throne.
 766080	board; wooden bed; throne.
 thus, like this, so, such
-766086	in; concerning; compared with; by (oath). basement stable
+766086	basement stable in; concerning; compared with; by (oath).
 766089	thus, like this, so, such
 766091	there
 766093	man; married man, husband; gentleman, courtier; valiant man
@@ -42565,13 +42566,13 @@ tea
 piece of woven cloth; patch
 from, with:
 thing
-soap and
+and soap
 766113	peace; greeting
-766117	default demonstrative  mullah
+766117	mullah default demonstrative 
 how? how could it be? like, just as; when
 how? how could it be? like, just as; when
 766121	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 766124	good, well.
 pleasant, beautiful; delicious; healthy; sharp.
 much, a lot, many; very .
@@ -42584,7 +42585,7 @@ house; home; verse (of poetry/song) to, for.
 766142	eye; aperture; spring of water.
 mullah
 766146	every; all, all of . thing
-766150	shoulder bag one; a 
+766150	one; a  shoulder bag
 thus, like this, so, such
 766154	mullah
 766157	what; why?; how could it be? how (exclamatory).
@@ -42621,7 +42622,7 @@ good, well.
 766222	some, a few, a little (quantity) 
 thing
 766225	to, for.
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 766228	meat; dewlap (of goat)
 chicken
 if ; either/or ; interrogative particle.
@@ -42630,15 +42631,15 @@ tea
 speaker deixis demonstrative 
 thing
 766236	every; all, all of . thing
-766244	thing one; a 
+766244	one; a  thing
 side, direction
-also, even; connective particle . to, for. one; a 
+to, for. also, even; connective particle . one; a 
 766248	what; why?; how could it be? how (exclamatory).
 766251	evening; late afternoon
 to, for. evening one; a 
 766254	three
 766256	three
-766258	two day; sun.
+766258	day; sun. two
 766260	three
 766267	so-and-so; such-and-such
 place, space.
@@ -42654,7 +42655,7 @@ one; a
 thing
 766290	hand; handle; arm; foot (of an animal); round of a game.
 766292	on, upon
-766294	here and
+766294	and here
 here
 766301	speaker deixis demonstrative 
 766304	preverbal particle
@@ -42666,8 +42667,8 @@ a little (quantity); a few
 766315	some, a few, a little (quantity) 
 thing
 766318	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
-and evening; late afternoon
-in, at, on, with, by means of. negative copula
+evening; late afternoon and
+negative copula in, at, on, with, by means of.
 766323	I
 money
 766328	how? how could it be? like, just as; when
@@ -42686,13 +42687,13 @@ shop
 766348	party of close family after wedding
 766351	every; all, all of . thing
 766353	preverbal particle
-766355	shoulder bag in; concerning; compared with; by (oath).
+766355	in; concerning; compared with; by (oath). shoulder bag
 766357	party of close family after wedding
 in, at, on, with, by means of. road; way.
 766362	to, for. man; married man, husband; gentleman, courtier; valiant man
 766364	man; married man, husband; gentleman, courtier; valiant man
 speaker deixis demonstrative 
-three man, person; family relative
+man, person; family relative three
 766369	ox
 766372	appointment
 presentative particle; but; otherwise .
@@ -42706,24 +42707,24 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 766386	lunch; noon, early afternoon
 766388	one; a  man, person; family relative
 766390	mullah
-766393	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+766393	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 766395	five
 766397	until, up to; before; until when. ten
 you
 766401	voice; utterance; song; sound. one; a 
 766404	thus, like this, so, such
-and I
-766407	you and
+I and
+766407	and you
 766409	job, profession, business; affair, thing
 finally; afterwards, then; recently
-766412	also, even; connective particle . evening; late afternoon
+766412	evening; late afternoon also, even; connective particle .
 thus; like that; the same; so much.
-you and
+and you
 always; again; still; as soon as; directly; just, only; the same; surely .
 outside
 and
 766419	here
-behind; after; through. from, with:
+from, with: behind; after; through.
 five
 fine; tiny
 you
@@ -42748,17 +42749,17 @@ mullah
 vocative particle
 766465	mullah
 766467	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 766471	water
 766477	water
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 breath; time, instance; yes. one; a 
 man; married man, husband; gentleman, courtier; valiant man
 766483	presentative particle
 766485	negative existential particle 
-ass side, direction
-766489	thing side, direction not any 
+side, direction ass
+766489	thing not any  side, direction
 766494	wood; piece of wood to, for, upon, at, by: Admominal uses
 766496	wood; piece of wood
 766501	mullah
@@ -42785,8 +42786,8 @@ side, direction
 766539	wood; piece of wood default demonstrative 
 smell
 and
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
-wooden board, plank; wooden beam used on a loom (xanuθa) for keeping the strands tight upon
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
+upon wooden board, plank; wooden beam used on a loom (xanuθa) for keeping the strands tight
 and
 766546	side
 766549	side
@@ -42801,7 +42802,7 @@ in, at, on, with, by means of.
 time; point in time; period of time
 766568	peace; greeting
 766570	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 766573	interjection opening speech turns
 upon
 766576	and
@@ -42814,9 +42815,9 @@ in, at, on, with, by means of.
 also, even; connective particle . one; a 
 negative existential particle 
 here
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 children → yala
-766600	place, space. one; a 
+766600	one; a  place, space.
 766602	master, owner
 766604	still; (not) yet; (no) longer .
 766606	warp
@@ -42847,8 +42848,8 @@ like, as; when.
 766659	and
 also, even; connective particle .
 there
-766663	in, at, on, with, by means of. evening; late afternoon
-in, at, on, with, by means of. negative copula
+766663	evening; late afternoon in, at, on, with, by means of.
+negative copula in, at, on, with, by means of.
 766666	evening one; a 
 breath; time, instance; yes. one; a 
 thus; like that; the same; so much.
@@ -42868,7 +42869,7 @@ food, a meal
 766687	to, for; so that.
 from, with: chicken
 meat; dewlap (of goat) from, with:
-sugar from, with:
+from, with: sugar
 tea
 soap
 every; all, all of . one; a 
@@ -42877,14 +42878,14 @@ thing
 much, a lot, many; very .
 presentative particle; but; otherwise .
 766703	food, a meal
-766705	and I
+766705	I and
 you
 from, with: reciprocal pronoun 
 766709	negative existential particle 
 also, even; connective particle . one; a 
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 766713	side, direction
-always; again; still; as soon as; directly; just, only; the same; surely . I
+I always; again; still; as soon as; directly; just, only; the same; surely .
 766716	speaker deixis demonstrative 
 bed; bedding
 766719	and
@@ -42893,7 +42894,7 @@ bed; bedding
 breath; time, instance; yes. one; a 
 man; married man, husband; gentleman, courtier; valiant man
 766729	presentative particle
-766737	neighbour household of; family of
+766737	household of; family of neighbour
 766740	what; why?; how could it be? how (exclamatory).
 766742	what; why?; how could it be? how (exclamatory).
 766744	speaker deixis demonstrative 
@@ -42910,14 +42911,14 @@ in, at, on, with, by means of.
 766764	careful
 766767	also, even; connective particle . or
 wood; piece of wood
-766770	in; concerning; compared with; by (oath). room
-stamp, seal and side, direction
+766770	room in; concerning; compared with; by (oath).
+and stamp, seal side, direction
 766773	in, at, on, with, by means of.
 side
 766776	in, at, on, with, by means of.
-766779	mullah in, at, on, with, by means of.
+766779	in, at, on, with, by means of. mullah
 and
-in; concerning; compared with; by (oath). basement stable
+basement stable in; concerning; compared with; by (oath).
 766783	to, for, upon, at, by: Admominal uses reciprocal pronoun 
 766789	one; a 
 other, another; more; again; discourse particle. to, for, upon, at, by: Admominal uses
@@ -42956,15 +42957,15 @@ side, direction
 766873	yes
 766876	mullah
 first
-766879	in; concerning; compared with; by (oath). room
+766879	room in; concerning; compared with; by (oath).
 766881	also, even; connective particle . or
 swoosh (sound of sudden movement)
 766885	to, for, upon, at, by: Admominal uses
 mullah
 766888	behind; after; through.
 neck
-and particle expressing prominence  in, at, on, with, by means of.
-766894	one; a  small valley
+and in, at, on, with, by means of. particle expressing prominence 
+766894	small valley one; a 
 and
 766901	and
 presentative particle
@@ -42982,12 +42983,12 @@ before (spatial and temporal); in (adversity), from (adversity); on account of (
 766933	master, owner
 766936	to, for, upon, at, by: Admominal uses back; waist
 and
-766939	in; concerning; compared with; by (oath). place, space. one; a 
+766939	in; concerning; compared with; by (oath). one; a  place, space.
 deep
 much, a lot, many; very .
 766943	side, direction
 766946	goatskin or lambskin (spread on floor to sit on)
-large hole in ground, pit in; concerning; compared with; by (oath). one; a 
+in; concerning; compared with; by (oath). one; a  large hole in ground, pit
 big; great; old.
 and
 766951	teacher
@@ -42998,17 +42999,17 @@ there
 766960	speaker deixis demonstrative 
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 766964	master, owner
-766966	large hole in ground, pit in; concerning; compared with; by (oath). one; a 
+766966	in; concerning; compared with; by (oath). one; a  large hole in ground, pit
 deep
 side, direction
-not any  almost, about to; connective particle .
-not any  almost, about to; connective particle .
+almost, about to; connective particle . not any 
+almost, about to; connective particle . not any 
 766974	here
 766977	to, for, upon, at, by: Admominal uses back; waist
 766980	water-mill
 766982	in; concerning; compared with; by (oath).
 upon
-766985	in; concerning; compared with; by (oath). water
+766985	water in; concerning; compared with; by (oath).
 766987	speaker deixis demonstrative 
 miller, caretaker of a water-mill
 or
@@ -43018,8 +43019,8 @@ speaker deixis demonstrative
 766998	water-mill
 767002	story; affair
 water
-767008	default demonstrative  man, person; family relative
-in; concerning; compared with; by (oath). water
+767008	man, person; family relative default demonstrative 
+water in; concerning; compared with; by (oath).
 767012	presentative particle; but; otherwise .
 767014	default demonstrative  miller, caretaker of a water-mill
 there
@@ -43028,7 +43029,7 @@ there
 767023	miller, caretaker of a water-mill
 there
 and
-767027	woman; wife to, for.
+767027	to, for. woman; wife
 767030	presentative particle
 767032	side, direction
 side, direction
@@ -43039,7 +43040,7 @@ water-mill
 and
 767049	and
 767053	water-mill
-767056	and I
+767056	I and
 767058	wood; piece of wood
 in; concerning; compared with; by (oath). head; top; beginning.
 767063	there
@@ -43052,11 +43053,11 @@ you
 767076	miller, caretaker of a water-mill
 767081	side, direction
 side, direction
-767084	thing side, direction and not any 
-God  vocative particle and
+767084	and thing not any  side, direction
+God  and vocative particle
 767088	money default demonstrative 
 to, for.
-porter to, for.
+to, for. porter
 side, direction
 speaker deixis demonstrative 
 767094	preverbal particle
@@ -43082,8 +43083,8 @@ other, another; more; again; discourse particle. default demonstrative
 767135	presentative particle; but; otherwise .
 beyond; onwards to, for, upon, at, by: Admominal uses
 irrigation channel; groove; scar.
-767139	frog one; a 
-from, with: side
+767139	one; a  frog
+side from, with:
 frog
 767143	beyond; onwards to, for, upon, at, by: Admominal uses
 irrigation channel; groove; scar.
@@ -43102,14 +43103,14 @@ frog
 767167	under
 child
 and
-stone one; a 
+one; a  stone
 767174	child
 767177	far deixis demonstrative 
 scorpion
 767180	speaker deixis demonstrative 
 frog
 767184	scorpion
-beyond; onwards which? from, with:
+beyond; onwards from, with: which?
 water
 767188	here
 767194	far deixis demonstrative 
@@ -43118,12 +43119,12 @@ finally; afterwards, then; recently
 one; a  almost, about to; connective particle .
 767201	thanked
 767203	God  vocative particle
-you if ; either/or ; interrogative particle.
+if ; either/or ; interrogative particle. you
 767208	in, at, on, with, by means of.
 road; way.
 767211	speaker deixis demonstrative 
 frog
-767215	from, with: side
+767215	side from, with:
 767217	irrigation channel; groove; scar.
 767219	scorpion
 to, for, upon, at, by: Admominal uses back; waist
@@ -43141,7 +43142,7 @@ scorpion
 default demonstrative 
 767243	one; a 
 hour
-hour one; a 
+one; a  hour
 other, another; more; again; discourse particle.
 or
 negative copula
@@ -43192,22 +43193,22 @@ God  to, for; so that.
 767347	breath; time, instance; yes. one; a 
 The Lord
 God 
-767351	angel to, for.
+767351	to, for. angel
 particle expressing prominence 
-767354	what; why?; how could it be? how (exclamatory). or
+767354	or what; why?; how could it be? how (exclamatory).
 767358	what; why?; how could it be? how (exclamatory).
 always; again; still; as soon as; directly; just, only; the same; surely .
-767361	request and
-767363	request and
+767361	and request
+767363	and request
 whiner, grumbler
 much, a lot, many; very .
 angel
 767369	presentative particle man, person; family relative
 you
-767372	always; again; still; as soon as; directly; just, only; the same; surely . busy, occupied
+767372	busy, occupied always; again; still; as soon as; directly; just, only; the same; surely .
 request
 from, with:
-767376	complaint; grumble and
+767376	and complaint; grumble
 complaint; grumble
 master, owner
 767380	I
@@ -43248,7 +43249,7 @@ side, direction
 767445	day; sun.
 767455	The Lord
 God 
-767458	who?; which? . one; a 
+767458	one; a  who?; which? .
 767461	to, for. what; why?; how could it be? how (exclamatory).
 one; a 
 767470	preverbal particle
@@ -43261,14 +43262,14 @@ side, direction
 767489	mythical plant
 767494	wine
 in, at, on, with, by means of.
-in, at, on, with, by means of. and
+and in, at, on, with, by means of.
 always; again; still; as soon as; directly; just, only; the same; surely .
 in, at, on, with, by means of.
 scorn, mocking
 scorn, mocking
-in, at, on, with, by means of. arm, cubit
+arm, cubit in, at, on, with, by means of.
 767503	man; married man, husband; gentleman, courtier; valiant man
-from, with: man; married man, husband; gentleman, courtier; valiant man
+man; married man, husband; gentleman, courtier; valiant man from, with:
 767511	some, a few, a little (quantity) 
 767517	blind
 you
@@ -43302,8 +43303,8 @@ seventy
 seven
 hero, warrior
 upon
-767584	two day; sun.
-two three
+767584	day; sun. two
+three two
 side, direction
 767588	breath; time, instance; yes.
 767591	breath; time, instance; yes. and
@@ -43329,7 +43330,7 @@ still; (not) yet; (no) longer .
 767633	preverbal particle
 leg; foot
 millstone, grinding wheel to, for, upon, at, by: Admominal uses
-767638	one; a  mountain; region of mountains in, at, on, with, by means of.
+767638	in, at, on, with, by means of. one; a  mountain; region of mountains
 preverbal particle
 water
 black
@@ -43343,16 +43344,16 @@ club one; a
 767660	under
 sky, heaven
 767666	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. day; sun.
-club default demonstrative  and
-767670	one; a  in, at, on, with, by means of.
+club and default demonstrative 
+767670	in, at, on, with, by means of. one; a 
 preverbal particle
 water
 sea; lake
-breath; time, instance; yes. one; a  and
+breath; time, instance; yes. and one; a 
 767676	hour
 767679	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 cave
-here until, up to; before; until when.
+until, up to; before; until when. here
 767683	in; concerning; compared with; by (oath). soil, ground; land
 767685	order, command
 767687	snuff
@@ -43368,7 +43369,7 @@ we
 household of; family of
 household of; family of
 side, direction
-blow (of weapon) two
+two blow (of weapon)
 if ; either/or ; interrogative particle.
 other, another; more; again; discourse particle. one; a 
 767721	order, command
@@ -43381,8 +43382,8 @@ what?
 767736	particle expressing prominence 
 767738	one; a 
 bear; the constellation ‘The Great Bear’
-767742	one; a  and piece
-767744	to, for, upon, at, by: Admominal uses side
+767742	and one; a  piece
+767744	side to, for, upon, at, by: Admominal uses
 one; a 
 to, for, upon, at, by: Admominal uses
 side
@@ -43390,30 +43391,30 @@ or
 767750	mythical plant
 767752	to, for.
 767755	upon
-767759	one; a  king
+767759	king one; a 
 much, a lot, many; very .
 unjust, cruel
 767767	woman; wife default demonstrative 
 767771	particle expressing necessity (deontic and epistemic)
-767773	story; affair one; a 
+767773	one; a  story; affair
 side, direction
 end
 every; all, all of .
-one; a  day; sun.
+day; sun. one; a 
 two
 767780	story
 767782	one; a 
-767784	father; term of endearment. to, for.
+767784	to, for. father; term of endearment.
 767786	I
-767789	story one; a 
-to, for. king
+767789	one; a  story
+king to, for.
 good
 perhaps
 767800	story
 side, direction
 767803	yes
 767805	particle expressing prominence 
-767808	one; a  king
+767808	king one; a 
 unjust, cruel
 767812	one; a 
 much, a lot, many; very .
@@ -43426,7 +43427,7 @@ every; all, all of .
 in; concerning; compared with; by (oath).
 preverbal particle and
 every; all, all of .
-767829	cement in, at, on, with, by means of.
+767829	in, at, on, with, by means of. cement
 and side, direction
 767832	also, even; connective particle .
 767835	preverbal particle
@@ -43443,39 +43444,39 @@ breath; time, instance; yes.
 plan
 767854	ton
 767858	first
-767860	seed, grain one; a 
+767860	one; a  seed, grain
 and
 767863	two
-767865	seed, grain one; a  and
+767865	and one; a  seed, grain
 767868	three
-seed, grain one; a  and
+and one; a  seed, grain
 767872	presentative particle
-default demonstrative  plan
-ants default demonstrative 
+plan default demonstrative 
+default demonstrative  ants
 767876	one; a 
 767878	negative existential particle 
 767880	two
 always; again; still; as soon as; directly; just, only; the same; surely . one; a 
 767885	which?
-not any  almost, about to; connective particle .
-side, direction cover put over mouth of small animals when they are weaned to prevent them from sucking
-767889	one; a  king
-village in; concerning; compared with; by (oath). one; a 
-default demonstrative  king
+almost, about to; connective particle . not any 
+cover put over mouth of small animals when they are weaned to prevent them from sucking side, direction
+767889	king one; a 
+in; concerning; compared with; by (oath). one; a  village
+king default demonstrative 
 767893	two
 girl; daughter
 767898	brother
 king
 767902	village
 sitting; inhabited
-default demonstrative  brother
+brother default demonstrative 
 767906	king
 sitting; inhabited
 in; concerning; compared with; by (oath).
 village
-one; a  day; sun.
-767912	to, for, upon, at, by: Admominal uses hunt
-767914	to, for, upon, at, by: Admominal uses hunt
+day; sun. one; a 
+767912	hunt to, for, upon, at, by: Admominal uses
+767914	hunt to, for, upon, at, by: Admominal uses
 767917	woman; wife
 767920	heavy; pregnant
 king
@@ -43497,7 +43498,7 @@ who?; which? .
 767950	king
 speaker deixis demonstrative 
 767958	always; again; still; as soon as; directly; just, only; the same; surely .
-default demonstrative  day; sun.
+day; sun. default demonstrative 
 speaker deixis demonstrative 
 what; why?; how could it be? how (exclamatory).
 767963	default demonstrative  girl; daughter
@@ -43534,10 +43535,10 @@ in; concerning; compared with; by (oath). cradle
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 party of close family after wedding
 breath; time, instance; yes. one; a 
-768047	in, at, on, with, by means of. negative copula
+768047	negative copula in, at, on, with, by means of.
 party of close family after wedding
 breath; time, instance; yes. one; a 
-768053	always; again; still; as soon as; directly; just, only; the same; surely . thus; like that; the same; so much.
+768053	thus; like that; the same; so much. always; again; still; as soon as; directly; just, only; the same; surely .
 768056	king
 768058	king
 768060	and in, at, on, with, by means of.
@@ -43561,9 +43562,9 @@ side, direction
 768089	water
 about, concerning
 768092	and
-768094	father; term of endearment. and
+768094	and father; term of endearment.
 768096	child
-768098	world, weather. (K./A.) in, at, on, with, by means of.
+768098	in, at, on, with, by means of. world, weather. (K./A.)
 768100	to, for, upon, at, by: Admominal uses
 child
 768105	name
@@ -43581,32 +43582,32 @@ preverbal particle
 there
 768144	in, at, on, with, by means of.
 party of close family after wedding
-768147	horse in, at, on, with, by means of.
+768147	in, at, on, with, by means of. horse
 red; brown
 768152	breath
 768154	in, at, on, with, by means of.
 and household of; family of
 768158	to, for, upon, at, by: Admominal uses wall
-horse and in, at, on, with, by means of.
+and in, at, on, with, by means of. horse
 black
-horse in, at, on, with, by means of.
+in, at, on, with, by means of. horse
 white
 every; all, all of .
 768165	thus; like that; the same; so much.
 finally; afterwards, then; recently
 king
-768176	plant; herb; grass and
+768176	and plant; herb; grass
 new
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 speaker deixis demonstrative 
 768181	presentative particle; but; otherwise .
 what; why?; how could it be? how (exclamatory).
-768187	head; top; beginning. in, at, on, with, by means of.
+768187	in, at, on, with, by means of. head; top; beginning.
 768190	breath
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 768195	word
 768199	situation, affair
-vocative particle king
+king vocative particle
 768204	master, owner
 768207	there
 speaker deixis demonstrative 
@@ -43630,11 +43631,11 @@ nine
 768230	I
 preverbal particle
 God 
-and today
+today and
 every; all, all of .
 768239	side, direction
 768242	here
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 brother
 from, with:
 768248	three
@@ -43645,27 +43646,27 @@ default demonstrative
 768256	speaker deixis demonstrative 
 768259	what? 
 master, owner
-768262	one; a  day; sun.
+768262	day; sun. one; a 
 768266	speaker deixis demonstrative 
 768271	default demonstrative  big; great; old.
-768275	stone one; a 
+768275	one; a  stone
 here
-here one; a  and
-here one; a  and
+and one; a  here
+and one; a  here
 stone
 768281	to, for.
 here
 768284	here
 768286	decorated and
-768288	default demonstrative  behind
+768288	behind default demonstrative 
 and
 default demonstrative  first
 default demonstrative  first
 big; great; old.
-768294	two and
+768294	and two
 768296	decorated
-three and
-768299	stone one; a  and
+and three
+768299	and one; a  stone
 768307	far deixis demonstrative  upon
 stone
 768311	stamp, seal
@@ -43691,13 +43692,13 @@ presentative particle; but; otherwise .
 768338	The Lord from, with:
 God 
 default demonstrative 
-768345	every; all, all of . upon from, with:
+768345	from, with: every; all, all of . upon
 768349	poor, wretched
 768352	I
-hope in, at, on, with, by means of.
+in, at, on, with, by means of. hope
 768355	speaker deixis demonstrative 
 768357	default demonstrative 
-768361	father; term of endearment. to, for.
+768361	to, for. father; term of endearment.
 768366	today
 what; why?; how could it be? how (exclamatory).
 768372	what; why?; how could it be? how (exclamatory).
@@ -43737,12 +43738,12 @@ what; why?; how could it be? how (exclamatory).
 story; affair
 768441	yes
 768445	to, for.
-768447	stone one; a 
+768447	one; a  stone
 here
-stone one; a  and
+and one; a  stone
 here
-here one; a  and
-one; a  and
+and one; a  here
+and one; a 
 to, for.
 768455	who?; which? .
 768457	more, most; (not) at all 
@@ -43758,9 +43759,9 @@ brother
 fiancé, betrothed what? 
 brother
 768486	brother
-768488	one; a  day; sun.
-768493	sheep; goat to, for, upon, at, by: Admominal uses
-768495	sheep; goat to, for, upon, at, by: Admominal uses
+768488	day; sun. one; a 
+768493	to, for, upon, at, by: Admominal uses sheep; goat
+768495	to, for, upon, at, by: Admominal uses sheep; goat
 default demonstrative  almost, about to; connective particle .
 768499	and
 speaker deixis demonstrative 
@@ -43789,7 +43790,7 @@ three
 768555	king
 768557	pleasant, beautiful; delicious; healthy; sharp.
 always; again; still; as soon as; directly; just, only; the same; surely .
-girl; daughter one; a 
+one; a  girl; daughter
 side, direction
 768562	yes
 768567	what? 
@@ -43800,7 +43801,7 @@ side, direction
 speaker deixis demonstrative 
 768585	which?
 more, most; (not) at all 
-every; all, all of . from, with:
+from, with: every; all, all of .
 768591	sheep; goat
 768593	male lamb
 768595	time; point in time; period of time
@@ -43809,7 +43810,7 @@ male lamb
 from, with:
 768602	from, with: reciprocal pronoun 
 768604	speaker deixis demonstrative 
-768606	pipe in, at, on, with, by means of.
+768606	in, at, on, with, by means of. pipe
 sheep; goat
 768609	to, for, upon, at, by: Admominal uses reciprocal pronoun 
 768611	one; a  short interval of time
@@ -43823,16 +43824,16 @@ in, at, on, with, by means of.
 in, at, on, with, by means of.
 side, direction
 side, direction
-also, even; connective particle . one; a  and side, direction
+and also, even; connective particle . one; a  side, direction
 other, another; more; again; discourse particle. default demonstrative 
 768626	or
 768629	master, owner
 768634	sheep; goat
 and
-to, for, upon, at, by: Admominal uses one; a  side
-sheep; goat and
-to, for, upon, at, by: Admominal uses one; a  side
-one; a  male lamb
+side to, for, upon, at, by: Admominal uses one; a 
+and sheep; goat
+side to, for, upon, at, by: Admominal uses one; a 
+male lamb one; a 
 768642	bow; sling like, as
 768644	and
 768646	reciprocal pronoun 
@@ -43840,11 +43841,11 @@ thus, like this, so, such and
 768649	seized, clasped; blocked (road)
 every; all, all of .
 row
-sheep; goat and
+and sheep; goat
 768654	thus, like this, so, such
 and
-768657	one; a  male lamb
-768660	like, as; when. bow; sling
+768657	male lamb one; a 
+768660	bow; sling like, as; when.
 768663	to, for, upon, at, by: Admominal uses
 each, every; whoever  one; a 
 to, for.
@@ -43853,41 +43854,41 @@ party of close family after wedding
 button, fastener, press-stud
 768674	preverbal particle
 chest, breast; front; middle
-768677	far deixis demonstrative  from, with: side
+768677	side far deixis demonstrative  from, with:
 768679	preverbal particle
 presentative particle; but; otherwise .
 768682	chest, breast; front; middle
 768688	king to, for; so that.
 768691	one; a 
 768694	sky
-768700	girl; daughter in, at, on, with, by means of.
+768700	in, at, on, with, by means of. girl; daughter
 768703	thus, like this, so, such
 thus, like this, so, such
 thus, like this, so, such
-here and
+and here
 here
-768709	thing one; a 
-768711	upon girl; daughter in, at, on, with, by means of.
+768709	one; a  thing
+768711	in, at, on, with, by means of. upon girl; daughter
 always; again; still; as soon as; directly; just, only; the same; surely .
 king
 768715	speaker deixis demonstrative 
 what; why?; how could it be? how (exclamatory).
 768720	speaker deixis demonstrative 
-pipe in, at, on, with, by means of.
+in, at, on, with, by means of. pipe
 768724	speaker deixis demonstrative 
 what; why?; how could it be? how (exclamatory).
 768727	side, direction
 thin cane, reed
-768731	here and
+768731	and here
 here
 always; again; still; as soon as; directly; just, only; the same; surely .
 master, owner
 768738	also, even; connective particle .
 768740	pipe
 768742	pipe
-768745	one; a  side
+768745	side one; a 
 sheep; goat
-one; a  side
+side one; a 
 768749	or
 good
 in; concerning; compared with; by (oath).
@@ -43922,11 +43923,11 @@ red; brown one; a
 white one; a 
 blue/green one; a 
 768829	side, direction
-village in; concerning; compared with; by (oath).
-768833	upon eye; aperture; spring of water.
+in; concerning; compared with; by (oath). village
+768833	eye; aperture; spring of water. upon
 768835	water
 768839	and
-768841	village in; concerning; compared with; by (oath).
+768841	in; concerning; compared with; by (oath). village
 master, owner
 768845	speaker deixis demonstrative 
 768852	speaker deixis demonstrative 
@@ -43944,7 +43945,7 @@ unless, only if, except, but, particle of insistence; or not .
 in, at, on, with, by means of.
 I
 768883	which? almost, about to; connective particle .
-768889	in; concerning; compared with; by (oath). alley; narrow street
+768889	alley; narrow street in; concerning; compared with; by (oath).
 768891	in; concerning; compared with; by (oath).
 village
 768895	presentative particle; but; otherwise .
@@ -43961,20 +43962,20 @@ breath; time, instance; yes.
 household of; family of
 768922	guest
 household of; family of
-about, concerning I
+I about, concerning
 768928	what? 
 768930	asleep
 768932	reciprocal pronoun 
 768934	one; a  mullah
-hour four
+four hour
 768937	one; a  mullah
 presentative particle; but; otherwise .
 768941	asleep
 reciprocal pronoun 
 768944	mullah to, for; so that.
-768946	vocative particle mullah
+768946	mullah vocative particle
 768951	speaker deixis demonstrative 
-768953	still; (not) yet; (no) longer . from, with:
+768953	from, with: still; (not) yet; (no) longer .
 side, direction
 speaker deixis demonstrative 
 768958	to, for; so that.
@@ -44002,14 +44003,14 @@ and
 768997	in; concerning; compared with; by (oath).
 768999	presentative particle; but; otherwise .
 769004	to, for, upon, at, by: Admominal uses there
-summer hut in the mountains in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). summer hut in the mountains
 still (not) 
 negative copula
 769010	tent
 769012	upon
 fire; Hell fire
 and
-upon fire; Hell fire
+fire; Hell fire upon
 769017	snow; ice
 one; a 
 in; concerning; compared with; by (oath).
@@ -44020,12 +44021,12 @@ mountain; region of mountains
 769028	snow; ice
 769032	presentative particle
 769034	bell
-upon tent
+tent upon
 769037	or
-horse and
+and horse
 769040	in; concerning; compared with; by (oath). tent
 769044	section of a song one; a 
-snow; ice in, at, on, with, by means of.
+in, at, on, with, by means of. snow; ice
 769047	I
 769050	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 769055	God  vocative particle
@@ -44042,7 +44043,7 @@ fog
 769079	snow; ice
 769083	bird
 769085	in, at, on, with, by means of.
-to, for, upon, at, by: Admominal uses voice; utterance; song; sound.
+voice; utterance; song; sound. to, for, upon, at, by: Admominal uses
 much, a lot, many; very .
 singer
 voice; utterance; song; sound. and
@@ -44055,10 +44056,10 @@ always; again; still; as soon as; directly; just, only; the same; surely .
 much, a lot, many; very .
 singer
 leaf
-769108	from, with: tree
+769108	tree from, with:
 master, owner
 769112	one; a  man, person; family relative
-ass in, at, on, with, by means of.
+in, at, on, with, by means of. ass
 769116	wood; piece of wood
 preverbal particle
 voice; utterance; song; sound.
@@ -44070,7 +44071,7 @@ hundred from, with:
 or
 769141	stroke (of a stick, whip)
 769144	to, for.
-769147	vocative particle king
+769147	king vocative particle
 769149	pleasant, beautiful; delicious; healthy; sharp.
 769153	one; a  man, person; family relative
 much, a lot, many; very .
@@ -44078,17 +44079,17 @@ voice; utterance; song; sound.
 pleasant, beautiful; delicious; healthy; sharp.
 and
 769161	nightingale
-769163	to, for, upon, at, by: Admominal uses voice; utterance; song; sound.
+769163	voice; utterance; song; sound. to, for, upon, at, by: Admominal uses
 and
 769167	in, at, on, with, by means of.
 769170	or
 769174	or
-769177	in; concerning; compared with; by (oath). town
+769177	town in; concerning; compared with; by (oath).
 monastery
 peace; greeting
 769181	also, even; connective particle . one; a 
 769183	side, direction
-769186	in; concerning; compared with; by (oath). town
+769186	town in; concerning; compared with; by (oath).
 monastery
 peace; greeting
 side, direction
@@ -44096,17 +44097,17 @@ side, direction
 default demonstrative 
 769198	three
 vessel, container
-three vessel, container
+vessel, container three
 here
 one; a 
 walnut; walnut tree
-769205	and nest
+769205	nest and
 769209	here
 one; a 
 meat; dewlap (of goat)
 769213	one; a 
 raisins
-and nest
+nest and
 from, with: reciprocal pronoun 
 and
 here
@@ -44118,7 +44119,7 @@ in, at, on, with, by means of. above; directly
 769232	under
 cloth
 and
-769236	place, space. one; a 
+769236	one; a  place, space.
 769242	peace; greeting
 769245	also, even; connective particle . one; a 
 negative copula
@@ -44130,10 +44131,10 @@ thus, like this, so, such
 769259	nephew (son of sister)
 769261	maternal uncle
 presentative particle; but; otherwise .
-769265	and horse-shoe
+769265	horse-shoe and
 nail
 speaker deixis demonstrative 
-and horse-shoe
+horse-shoe and
 769271	nephew (son of sister)
 769273	maternal uncle
 769275	meat; dewlap (of goat) and
@@ -44142,11 +44143,11 @@ speaker deixis demonstrative
 769283	default demonstrative  piece of woven cloth; patch
 in, at, on, with, by means of.
 769286	presentative particle
-769300	here and
+769300	and here
 here
 769305	man; married man, husband; gentleman, courtier; valiant man
-769307	in, at, on, with, by means of. negative copula
-769309	to, for, upon, at, by: Admominal uses roof
+769307	negative copula in, at, on, with, by means of.
+769309	roof to, for, upon, at, by: Admominal uses
 769312	in, at, on, with, by means of.
 how many/much? some, several; so much/many; however much, as much as; when; as for 
 769315	in, at, on, with, by means of.
@@ -44164,7 +44165,7 @@ to, for, upon, at, by: Admominal uses
 769337	particle expressing prominence 
 769343	there
 769345	much, a lot, many; very .
-769347	palace; large house (consisting of two storeys and made of dressed stones) and or
+769347	and or palace; large house (consisting of two storeys and made of dressed stones)
 769349	in, at, on, with, by means of.
 769353	default demonstrative  palace; large house (consisting of two storeys and made of dressed stones)
 769355	in, at, on, with, by means of. skull
@@ -44173,30 +44174,30 @@ there
 side, direction
 default demonstrative  palace; large house (consisting of two storeys and made of dressed stones)
 769361	yes
-769368	in, at, on, with, by means of. negative copula
+769368	negative copula in, at, on, with, by means of.
 sitting; inhabited
 to, for, upon, at, by: Admominal uses
 horse
 769373	God  vocative particle
-769379	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+769379	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 769381	palace; large house (consisting of two storeys and made of dressed stones)
 presentative particle; but; otherwise .
 769384	fifty
-769386	fifty metre
+769386	metre fifty
 769388	three
 time, instance
 horse
 769394	side, direction
 769397	voice; utterance; song; sound. one; a 
-horse in, at, on, with, by means of.
+in, at, on, with, by means of. horse
 769400	horse
-769403	upon above; directly
+769403	above; directly upon
 769405	which?
-769407	one; a  pool
+769407	pool one; a 
 big; great; old.
 thus, like this, so, such
 and
-769412	in; concerning; compared with; by (oath). pool
+769412	pool in; concerning; compared with; by (oath).
 769414	horse
 769418	in; concerning; compared with; by (oath). meadow
 servant girl
@@ -44209,10 +44210,10 @@ servant girl
 769431	preverbal particle from, with:
 beautiful, pleasant
 and
-upon eye; aperture; spring of water.
+eye; aperture; spring of water. upon
 presentative particle
 late
-769439	lady to, for.
+769439	to, for. lady
 769441	unless, only if, except, but, particle of insistence; or not .
 769443	to, for. what; why?; how could it be? how (exclamatory).
 769445	late
@@ -44224,7 +44225,7 @@ much, a lot, many; very .
 beautiful, pleasant
 769459	horse
 769461	in; concerning; compared with; by (oath).
-769465	in; concerning; compared with; by (oath). pool
+769465	pool in; concerning; compared with; by (oath).
 769471	head; top; beginning.
 769473	you
 769475	here
@@ -44233,9 +44234,9 @@ what; why?; how could it be? how (exclamatory).
 presentative particle; but; otherwise .
 or
 769487	pleasant, beautiful; delicious; healthy; sharp.
-769491	in; concerning; compared with; by (oath). water
-769493	in; concerning; compared with; by (oath). window from, with:
-769495	which? window
+769491	water in; concerning; compared with; by (oath).
+769493	window in; concerning; compared with; by (oath). from, with:
+769495	window which?
 window
 769500	presentative particle
 769502	you
@@ -44243,7 +44244,7 @@ window
 eye; aperture; spring of water. default demonstrative 
 side, direction
 side, direction
-769510	default demonstrative  meadow
+769510	meadow default demonstrative 
 769513	there
 769515	from, with: man, person; family relative
 769517	speaker deixis demonstrative 
@@ -44276,12 +44277,12 @@ in, at, on, with, by means of.
 or
 769580	master, owner
 769584	one; a  giant mythological bird
-bird one; a 
+one; a  bird
 769587	to, for, upon, at, by: Admominal uses
 769589	sky, heaven
 769595	to, for, upon, at, by: Admominal uses
 sea; lake
-769599	eagle one; a 
+769599	one; a  eagle
 769601	to, for, upon, at, by: Admominal uses
 769603	in; concerning; compared with; by (oath). soil, ground; land
 769612	farmer
@@ -44305,7 +44306,7 @@ from, with: reciprocal pronoun
 and
 ring
 769647	ring
-here and
+and here
 here
 769652	I
 769654	to, for, upon, at, by: Admominal uses
@@ -44315,7 +44316,7 @@ I
 769662	household of; family of
 if ; either/or ; interrogative particle.
 under
-769666	if ; either/or ; interrogative particle. and side, direction
+769666	and if ; either/or ; interrogative particle. side, direction
 every; all, all of .
 769671	respect; good will; favour
 769673	and
@@ -44339,7 +44340,7 @@ to, for.
 every; all, all of .
 negative copula
 769723	palace; large house (consisting of two storeys and made of dressed stones)
-769726	girl; daughter one; a 
+769726	one; a  girl; daughter
 769728	there
 I
 769732	girl; daughter
@@ -44359,7 +44360,7 @@ thus, like this, so, such thing
 769764	ring
 769767	ring and
 769769	handkerchief; scarf
-here and
+and here
 here
 769773	how? how could it be? like, just as; when
 769776	side, direction
@@ -44394,7 +44395,7 @@ thus, like this, so, such
 769851	and
 dove, pigeon to, for; so that.
 769854	to, for.
-769856	dove, pigeon speaker deixis demonstrative 
+769856	speaker deixis demonstrative  dove, pigeon
 769860	decorated
 769866	preverbal particle
 769868	preverbal particle
@@ -44423,7 +44424,7 @@ girl; daughter
 769915	less
 769917	hundred and
 girl; daughter
-769921	five hundred
+769921	hundred five
 769923	girl; daughter
 every; all, all of .
 every; all, all of .
@@ -44432,10 +44433,10 @@ and
 every; all, all of .
 from, with:
 army
-769934	horse in, at, on, with, by means of.
+769934	in, at, on, with, by means of. horse
 in, at, on, with, by means of. ration; consignment of produce
 769937	every; all, all of .
-769940	if ; either/or ; interrogative particle. or side, direction
+769940	or if ; either/or ; interrogative particle. side, direction
 I
 side, direction
 769946	speaker deixis demonstrative 
@@ -44455,9 +44456,9 @@ three
 769974	from, with:
 769977	until, up to; before; until when.
 to, for, upon, at, by: Admominal uses
-three day; sun.
+day; sun. three
 or
-in, at, on, with, by means of. one; a  day; sun.
+day; sun. in, at, on, with, by means of. one; a 
 769983	master, owner
 769985	three
 769987	to, for, upon, at, by: Admominal uses
@@ -44466,7 +44467,7 @@ side, direction
 in; concerning; compared with; by (oath). from, with:
 770000	tent
 770003	household of; family of
-770007	here and
+770007	and here
 here
 770017	which?
 770019	if ; either/or ; interrogative particle.
@@ -44477,10 +44478,10 @@ here
 770031	every; all, all of .
 770036	to, for.
 770043	every; all, all of .
-770048	thing one; a 
+770048	one; a  thing
 770052	thus, like this, so, such
 and
-one; a  two day; sun. three
+day; sun. one; a  three two
 finally; afterwards, then; recently
 770058	finally; afterwards, then; recently
 770061	to, for, upon, at, by: Admominal uses man, person; family relative
@@ -44488,7 +44489,7 @@ party of close family after wedding
 770064	to, for, upon, at, by: Admominal uses man, person; family relative
 and
 man, person; family relative
-here and
+and here
 here
 770073	man, person; family relative
 breath; time, instance; yes. one; a 
@@ -44504,7 +44505,7 @@ or
 770102	some, a few, a little (quantity) 
 job, profession, business; affair, thing
 woman; wife
-from, with: man; married man, husband; gentleman, courtier; valiant man
+man; married man, husband; gentleman, courtier; valiant man from, with:
 770107	and
 to, for, upon, at, by: Admominal uses
 and
@@ -44514,18 +44515,18 @@ thin cane, reed
 to, for, upon, at, by: Admominal uses
 man, person; family relative
 and thin cane, reed
-770118	here and
-here to, for, upon, at, by: Admominal uses
+770118	and here
+to, for, upon, at, by: Admominal uses here
 party of close family after wedding
 770125	you
 770130	land, country; homeland
 and
 I
-770134	thing and not any 
-in, at, on, with, by means of. side
-and in, at, on, with, by means of. side
+770134	and thing not any 
+side in, at, on, with, by means of.
+side and in, at, on, with, by means of.
 770138	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 finally; afterwards, then; recently
 770142	hat (worn by men)
 770144	thus, like this, so, such
@@ -44545,7 +44546,7 @@ above; directly from, with:
 in; concerning; compared with; by (oath).
 770183	also, even; connective particle . one; a 
 negative copula
-770190	and I
+770190	I and
 770192	speaker deixis demonstrative 
 force, strength
 here
@@ -44567,30 +44568,30 @@ Friday
 770227	like, as; when.
 ripe
 770231	three
-770234	village in; concerning; compared with; by (oath).
+770234	in; concerning; compared with; by (oath). village
 770238	sheep; goat
 770240	preverbal particle
 morning
 child
 small
-770245	joint (of bones); ankle bone in, at, on, with, by means of.
+770245	in, at, on, with, by means of. joint (of bones); ankle bone
 770247	speaker deixis demonstrative 
 joint (of bones); ankle bone
 what; why?; how could it be? how (exclamatory).
 770251	thus, like this, so, such
 770253	speaker deixis demonstrative 
-sheep; goat from, with:
+from, with: sheep; goat
 770257	sheep; goat
-770260	also, even; connective particle . I
+770260	I also, even; connective particle .
 770265	side, direction
 you
 king household of; family of
 770269	king
 770271	dead
 770274	sheep; goat
-770277	joint (of bones); ankle bone from, with:
+770277	from, with: joint (of bones); ankle bone
 770280	who?; which? .
-770283	small default demonstrative 
+770283	default demonstrative  small
 770286	dead
 or side, direction
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
@@ -44606,7 +44607,7 @@ above; directly
 770319	grave
 770321	grave
 770323	distance; distant.
-place, space. from, with:
+from, with: place, space.
 770326	also, even; connective particle . or
 770329	always; again; still; as soon as; directly; just, only; the same; surely .
 above; directly
@@ -44655,7 +44656,7 @@ sky, heaven
 child
 much, a lot, many; very .
 beautiful, pleasant
-girl; daughter one; a  and
+and one; a  girl; daughter
 much, a lot, many; very .
 beautiful, pleasant
 770411	and
@@ -44678,14 +44679,14 @@ household of; family of
 770442	man; married man, husband; gentleman, courtier; valiant man
 770444	decorated
 770446	master, owner
-770448	in, at, on, with, by means of. negative copula
+770448	negative copula in, at, on, with, by means of.
 770450	decorated
 and
 770459	to, for.
 770461	to, for.
 770463	asleep
 in; concerning; compared with; by (oath).
-770466	vocative particle woman; wife
+770466	woman; wife vocative particle
 I
 770469	asleep
 in; concerning; compared with; by (oath).
@@ -44710,14 +44711,14 @@ party of close family after wedding
 much, a lot, many; very .
 770515	thing not any 
 side, direction
-770518	lamp one; a 
+770518	one; a  lamp
 770520	in, at, on, with, by means of.
 and
 here
 770525	speaker deixis demonstrative 
 girl; daughter
 770529	asleep
-770531	yesterday; tomorrow to, for; so that.
+770531	to, for; so that. yesterday; tomorrow
 I if ; either/or ; interrogative particle.
 770534	side, direction
 liar
@@ -44728,9 +44729,9 @@ asleep
 770549	lamp
 in, at, on, with, by means of.
 770554	decorated
-770562	to, for, upon, at, by: Admominal uses room
+770562	room to, for, upon, at, by: Admominal uses
 770564	speaker deixis demonstrative 
-770569	in, at, on, with, by means of. ring
+770569	ring in, at, on, with, by means of.
 and in, at, on, with, by means of. handkerchief; scarf
 until, up to; before; until when.
 770575	dagger
@@ -44747,12 +44748,12 @@ dirge
 mad like, as
 negative copula
 770605	about, concerning
-which? and handkerchief; scarf
+and which? handkerchief; scarf
 ring
 in, at, on, with, by means of.
 770610	about, concerning
 770612	I
-770615	behind; after; through. and
+770615	and behind; after; through.
 770618	and from, with:
 770620	to, for; so that.
 speaker deixis demonstrative 
@@ -44764,9 +44765,9 @@ house; home; verse (of poetry/song)
 770637	what? 
 770639	sad
 770642	until, up to; before; until when.
-story; affair and
+and story; affair
 770646	tonight
-girl; daughter one; a 
+one; a  girl; daughter
 770649	asleep
 770651	and
 morning
@@ -44775,11 +44776,11 @@ side, direction
 side, direction
 770661	default demonstrative 
 770664	soul, person; reflexive pronoun .
-in, at, on, with, by means of. day; sun.
+day; sun. in, at, on, with, by means of.
 beautiful, pleasant
-in, at, on, with, by means of. negative copula
-770669	service (good deed or church ceremony) in, at, on, with, by means of.
-770673	also, even; connective particle . I
+negative copula in, at, on, with, by means of.
+770669	in, at, on, with, by means of. service (good deed or church ceremony)
+770673	I also, even; connective particle .
 770675	in, at, on, with, by means of.
 thus, like this, so, such
 default demonstrative 
@@ -44827,11 +44828,11 @@ side, direction
 770769	or
 servant
 770773	in, at, on, with, by means of. road; way.
-770775	in, at, on, with, by means of. and road; way.
+770775	and in, at, on, with, by means of. road; way.
 and
 and
 and
-770780	two three
+770780	three two
 day; sun.
 770783	in, at, on, with, by means of. road; way.
 maternal uncle side, direction
@@ -44841,7 +44842,7 @@ servant
 770791	from, with:
 770793	thin cane, reed
 770796	speaker deixis demonstrative 
-three day; sun.
+day; sun. three
 three
 770800	we side, direction
 maternal uncle
@@ -44855,11 +44856,11 @@ God
 770815	master, owner
 770817	breath; time, instance; yes. one; a 
 thus; like that; the same; so much.
-770821	here and
-here to, for, upon, at, by: Admominal uses
+770821	and here
+to, for, upon, at, by: Admominal uses here
 and
 default demonstrative 
-thing and
+and thing
 770828	thing
 food, a meal
 770831	thus; like that; the same; so much.
@@ -44885,7 +44886,7 @@ day; sun.
 negative copula
 and side, direction
 warp side, direction
-side, direction and asleep
+asleep and side, direction
 preverbal particle
 sleep
 770880	dirge
@@ -44939,18 +44940,18 @@ speaker deixis demonstrative
 770970	speaker deixis demonstrative 
 what; why?; how could it be? how (exclamatory).
 770973	master, owner
-770975	upon eye; aperture; spring of water.
+770975	eye; aperture; spring of water. upon
 or
-horse and
-770980	upon eye; aperture; spring of water.
+and horse
+770980	eye; aperture; spring of water. upon
 770982	some, a few, a little (quantity) 
 woman; wife
 there
 770986	peace; greeting
 770989	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 from, with: there
-here until, up to; before; until when. and
+until, up to; before; until when. and here
 770995	speaker deixis demonstrative 
 from, with:
 preverbal particle
@@ -44967,7 +44968,7 @@ much, a lot, many; very .
 771024	or
 and soil, ground; land
 771028	speaker deixis demonstrative 
-771031	upon eye; aperture; spring of water.
+771031	eye; aperture; spring of water. upon
 speaker deixis demonstrative 
 771034	about, concerning; on account of; in, by.
 decorated from, with:
@@ -44982,7 +44983,7 @@ what; why?; how could it be? how (exclamatory).
 771057	where? how?
 771059	guest
 771061	if ; either/or ; interrogative particle.
-man; married man, husband; gentleman, courtier; valiant man good
+good man; married man, husband; gentleman, courtier; valiant man
 771065	if ; either/or ; interrogative particle.
 771067	nobility, the office of a lord
 771069	if ; either/or ; interrogative particle.
@@ -44991,7 +44992,7 @@ man; married man, husband; gentleman, courtier; valiant man good
 771078	side, direction
 771080	more, most; (not) at all  good, well.
 771082	upon
-771085	God  vocative particle and
+771085	God  and vocative particle
 771088	each, every; whoever 
 771091	there
 771093	hour
@@ -44999,7 +45000,7 @@ man; married man, husband; gentleman, courtier; valiant man good
 seven
 morning
 771101	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
-771109	upon mountain; region of mountains
+771109	mountain; region of mountains upon
 every; all, all of .
 town
 771113	and
@@ -45011,8 +45012,8 @@ there
 from, with: there
 side, direction
 horse
-771133	upon plant; herb; grass from, with:
-maternal uncle from, with:
+771133	from, with: plant; herb; grass upon
+from, with: maternal uncle
 771136	default demonstrative 
 771139	and
 771142	to, for, upon, at, by: Admominal uses
@@ -45020,12 +45021,12 @@ maternal uncle from, with:
 and
 771148	like, as; when.
 771153	heart; kernel of fruit or berry
-771162	upon bed
+771162	bed upon
 beautiful, pleasant because
-771166	upon bed
+771166	bed upon
 breath; time, instance; yes. one; a 
 771171	unless, only if, except, but, particle of insistence; or not .
-771174	thing one; a 
+771174	one; a  thing
 771178	true, truthful; honourable
 I
 always; again; still; as soon as; directly; just, only; the same; surely .
@@ -45039,16 +45040,16 @@ which?
 771194	coffee
 771196	or
 771201	presentative particle
-771204	and I
+771204	I and
 771209	to, for, upon, at, by: Admominal uses reciprocal pronoun 
-771213	and I
+771213	I and
 771216	negative copula
 warp
 coffee
 771220	to, for, upon, at, by: Admominal uses
 horse
 771223	and
-771225	upon eye; aperture; spring of water.
+771225	eye; aperture; spring of water. upon
 eye; aperture; spring of water. default demonstrative 
 771229	first
 above; directly
@@ -45071,28 +45072,28 @@ interjection opening speech turns
 what; why?; how could it be? how (exclamatory).
 to, for. what; why?; how could it be? how (exclamatory).
 under
-thing one; a 
+one; a  thing
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 771268	what; why?; how could it be? how (exclamatory).
 771270	I
 vocative particle
 771274	I
-771279	tax and
-771283	one; a  guest
+771279	and tax
+771283	guest one; a 
 like, as; when.
 in; concerning; compared with; by (oath).
 and
 771289	thin cane, reed
 771291	side, direction
-and I
+I and
 water
 from, with:
 771296	and
 horse
-771299	and side
-and side
-upon eye; aperture; spring of water.
+771299	side and
+side and
+eye; aperture; spring of water. upon
 771305	presentative particle
 to, for. what; why?; how could it be? how (exclamatory).
 771308	in; concerning; compared with; by (oath). from, with:
@@ -45104,7 +45105,7 @@ day; sun.
 771319	and
 771321	speaker deixis demonstrative 
 negative copula
-771334	woman; wife to, for.
+771334	to, for. woman; wife
 771336	thus, like this, so, such
 771338	thus, like this, so, such
 771340	master, owner
@@ -45139,17 +45140,17 @@ blessed
 three
 771422	and
 and
-also, even; connective particle . and
+and also, even; connective particle .
 771427	four
 771429	unless, only if, except, but, particle of insistence; or not .
 in, at, on, with, by means of.
 771434	master, owner
-771438	to, for, upon, at, by: Admominal uses roof
-771440	to, for, upon, at, by: Admominal uses roof
+771438	roof to, for, upon, at, by: Admominal uses
+771440	roof to, for, upon, at, by: Admominal uses
 771444	decorated
-default demonstrative  and servant girl
-771448	upon eye; aperture; spring of water.
-771453	upon eye; aperture; spring of water.
+and default demonstrative  servant girl
+771448	eye; aperture; spring of water. upon
+771453	eye; aperture; spring of water. upon
 771457	you side, direction
 771463	you
 771465	you side, direction
@@ -45165,12 +45166,12 @@ bridesmaid
 771489	or
 771491	handkerchief; scarf
 771493	in, at, on, with, by means of.
-and ring
+ring and
 771496	thus, like this, so, such
 and
 771500	peace; greeting
 unless, only if, except, but, particle of insistence; or not .
-771506	upon above; directly
+771506	above; directly upon
 771510	one; a 
 water
 771514	one; a 
@@ -45192,7 +45193,7 @@ to, for.
 to, for; so that.
 today
 771542	plan
-771544	to, for, upon, at, by: Admominal uses hunt
+771544	hunt to, for, upon, at, by: Admominal uses
 I
 771548	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 771551	in, at, on, with, by means of.
@@ -45207,9 +45208,9 @@ you
 771568	stamp, seal
 771571	yesterday; tomorrow
 good
-to, for, upon, at, by: Admominal uses hunt
+hunt to, for, upon, at, by: Admominal uses
 and
-771580	to, for. brother
+771580	brother to, for.
 771585	thin cane, reed
 771590	wide valley between mountains
 771594	wide valley between mountains
@@ -45224,7 +45225,7 @@ master, owner
 771615	morning
 771617	word
 771620	to, for, upon, at, by: Admominal uses mountain; region of mountains
-world, weather. (K./A.) and
+and world, weather. (K./A.)
 771623	seized, clasped; blocked (road)
 771627	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 in; concerning; compared with; by (oath).
@@ -45251,7 +45252,7 @@ default demonstrative  almost, about to; connective particle .
 every; all, all of .
 771674	Arab elder, sheikh
 every; all, all of .
-man’s cloak in, at, on, with, by means of.
+in, at, on, with, by means of. man’s cloak
 771678	man’s cloak
 in, at, on, with, by means of.
 which?
@@ -45259,33 +45260,33 @@ side
 decorated
 771685	peace; greeting
 771687	in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 preverbal particle
 771691	sitting; inhabited
 to, for, upon, at, by: Admominal uses
 771695	one; a 
 771697	lord, prince
 arm, cubit
-771701	you and
+771701	and you
 sitting; inhabited
 to, for, upon, at, by: Admominal uses
 771705	side, direction
 771707	from, with:
-771709	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+771709	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 771711	bottom, fundament
 side, direction
 bottom, fundament
-in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 771718	upon
 771722	perhaps
 771724	chalice
 perhaps
 771727	head; top; beginning.
 perhaps
-771730	place, space. one; a 
-always; again; still; as soon as; directly; just, only; the same; surely . thus, like this, so, such to, for.
+771730	one; a  place, space.
+thus, like this, so, such to, for. always; again; still; as soon as; directly; just, only; the same; surely .
 771733	default demonstrative  almost, about to; connective particle .
-771747	and I
+771747	I and
 you
 771753	like, as; when.
 771757	in; concerning; compared with; by (oath).
@@ -45304,7 +45305,7 @@ side
 771789	annoyed and
 771792	to, for.
 771797	until, up to; before; until when.
-story; affair and
+and story; affair
 771800	and
 decorated
 771804	in; concerning; compared with; by (oath). predicament, distress
@@ -45316,10 +45317,10 @@ every; all, all of .
 771816	house; home; verse (of poetry/song)
 and
 decorated
-771820	in; concerning; compared with; by (oath). house; home; verse (of poetry/song) from, with:
+771820	house; home; verse (of poetry/song) in; concerning; compared with; by (oath). from, with:
 771822	thus, like this, so, such if ; either/or ; interrogative particle.
 also, even; connective particle .
-small child
+child small
 771826	in; concerning; compared with; by (oath). cradle
 and Qur’an
 and
@@ -45358,7 +45359,7 @@ below. xoθa xoθa prep. under
 thing
 771908	to, for.
 771910	default demonstrative 
-771912	from, with: hunt
+771912	hunt from, with:
 771917	you
 771919	story; affair
 or
@@ -45368,7 +45369,7 @@ in; concerning; compared with; by (oath).
 771930	from, with:
 one; a  side, direction
 time, instance
-in, at, on, with, by means of. seven
+seven in, at, on, with, by means of.
 time, instance
 in, at, on, with, by means of.
 771951	breath; time, instance; yes. one; a 
@@ -45386,16 +45387,16 @@ dog
 771976	dirty
 until, up to; before; until when.
 771979	thus, like this, so, such
-771985	master, owner and
+771985	and master, owner
 771990	speaker deixis demonstrative 
 771994	presentative particle; but; otherwise .
 771996	decorated and
 771999	reciprocal pronoun 
-772003	thing one; a 
+772003	one; a  thing
 772005	side, direction
 spike, thorn
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
-772009	blind almost, about to; connective particle .
+772009	almost, about to; connective particle . blind
 I
 what; why?; how could it be? how (exclamatory).
 772013	if ; either/or ; interrogative particle.
@@ -45437,7 +45438,7 @@ tribe, community
 772086	one; a  two
 room
 772091	in, at, on, with, by means of.
-one; a  day; sun.
+day; sun. one; a 
 772096	to, for.
 lord, prince
 772099	one; a 
@@ -45450,13 +45451,13 @@ speaker deixis demonstrative
 decorated
 772116	two
 one; a 
-one; a  and
+and one; a 
 speaker deixis demonstrative 
 772122	about, concerning
 772126	new
 side, direction
 772132	decorated
-who?; which? . almost, about to; connective particle .
+almost, about to; connective particle . who?; which? .
 decorated
 we
 772137	speaker deixis demonstrative 
@@ -45464,32 +45465,32 @@ we
 772142	and
 thus, like this, so, such
 job, profession, business; affair, thing
-thing and
-and I
+and thing
+I and
 772148	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 772152	if ; either/or ; interrogative particle.
 thus, like this, so, such
 772156	in, at, on, with, by means of.
-default demonstrative  one; a 
+one; a  default demonstrative 
 woolen rug
 772160	other, another; more; again; discourse particle.
 if ; either/or ; interrogative particle.
 thus; like that; the same; so much.
-772165	also, even; connective particle . and
+772165	and also, even; connective particle .
 thing
 772170	speaker deixis demonstrative 
 772173	thing
 much, a lot, many; very .
 one; a  Jew; Jewish
-772177	girl; daughter three
+772177	three girl; daughter
 master, owner
 772181	to, for; so that.
 772183	sitting; inhabited
 gathering of people; reception; audience chamber in, at, on, with, by means of.
 and man, person; family relative
 every; all, all of .
-772188	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+772188	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 772191	in, at, on, with, by means of.
 time, instance three
 772196	side, direction
@@ -45504,10 +45505,10 @@ man, person; family relative
 772219	window
 772222	and
 772226	in, at, on, with, by means of.
-world; crowd of people or
+or world; crowd of people
 772230	there
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 772234	also, even; connective particle . which?
 772236	thus, like this, so, such
 window in, at, on, with, by means of.
@@ -45523,10 +45524,10 @@ and
 772259	place, space.
 772261	place, space.
 772264	place, space.
-772268	to, for, upon, at, by: Admominal uses window
+772268	window to, for, upon, at, by: Admominal uses
 decorated and
 which?
-772272	in; concerning; compared with; by (oath). window
+772272	window in; concerning; compared with; by (oath).
 party of close family after wedding
 arm, cubit side, direction
 mind
@@ -45546,7 +45547,7 @@ man, person; family relative
 772310	asleep
 in; concerning; compared with; by (oath). bed; bedding
 upper
-in; concerning; compared with; by (oath). and
+and in; concerning; compared with; by (oath).
 ostrich
 which?
 772320	to, for; so that.
@@ -45569,26 +45570,26 @@ default demonstrative
 head; top; beginning.
 772373	leg; foot
 and
-head; top; beginning. and
+and head; top; beginning.
 772378	default demonstrative 
 772381	default demonstrative  three
 more, most; (not) at all  or
 mad
 also, even; connective particle . one; a 
 772386	side, direction
-772388	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+772388	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 772392	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 772394	to, for.
 772398	today
 772406	to, for. what; why?; how could it be? how (exclamatory).
 772409	until, up to; before; until when.
-story; affair and
+and story; affair
 772414	negative copula
 772416	behind; after; through.
 772423	you
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 772430	tax
-you and
+and you
 one; a 
 you
 772435	in; concerning; compared with; by (oath). prison
@@ -45604,7 +45605,7 @@ what; why?; how could it be? how (exclamatory). to, for; so that.
 and
 772461	presentative particle
 what; why?; how could it be? how (exclamatory).
-772470	and I
+772470	I and
 772473	to, for.
 772475	we if ; either/or ; interrogative particle.
 772477	side, direction
@@ -45619,25 +45620,25 @@ prison
 prison
 772497	there
 and day; sun.
-day; sun. to, for. and
+to, for. and day; sun.
 until, up to; before; until when. ripe
 772502	breath; time, instance; yes. one; a 
 772506	and
 772510	to, for, upon, at, by: Admominal uses
-772515	to, for, upon, at, by: Admominal uses roof
+772515	roof to, for, upon, at, by: Admominal uses
 772517	preverbal particle
 772519	three
 horseman
 to, for, upon, at, by: Admominal uses
 house; home; verse (of poetry/song)
-always; again; still; as soon as; directly; just, only; the same; surely . upon roof from, with:
+always; again; still; as soon as; directly; just, only; the same; surely . roof from, with: upon
 772527	from, with:
 772531	tax
 772533	money
 to, for.
 day; sun. from, with:
 772538	in; concerning; compared with; by (oath). prison
-until, up to; before; until when. and today
+today until, up to; before; until when. and
 speaker deixis demonstrative 
 772546	to, for, upon, at, by: Admominal uses
 772549	now
@@ -45684,7 +45685,7 @@ girl; daughter
 or
 772624	soul, person; reflexive pronoun .
 772627	goatskin or lambskin (spread on floor to sit on)
-772634	thing one; a 
+772634	one; a  thing
 772636	side, direction
 772638	now
 772642	speaker deixis demonstrative 
@@ -45699,18 +45700,18 @@ bridesmaid
 respect; good will; favour
 772658	and
 grey, off-white
-other, another; more; again; discourse particle. to, for, upon, at, by: Admominal uses one; a 
+to, for, upon, at, by: Admominal uses other, another; more; again; discourse particle. one; a 
 speaker deixis demonstrative 
 side, direction
 772664	first
-772666	grey, off-white particle expressing prominence  good
+772666	good particle expressing prominence  grey, off-white
 under
-always; again; still; as soon as; directly; just, only; the same; surely . I
+I always; again; still; as soon as; directly; just, only; the same; surely .
 man; married man, husband; gentleman, courtier; valiant man
-772671	more, most; (not) at all  man; married man, husband; gentleman, courtier; valiant man
-772673	beautiful, pleasant more, most; (not) at all 
+772671	man; married man, husband; gentleman, courtier; valiant man more, most; (not) at all 
+772673	more, most; (not) at all  beautiful, pleasant
 and
-more, most; (not) at all  good man; married man, husband; gentleman, courtier; valiant man
+good man; married man, husband; gentleman, courtier; valiant man more, most; (not) at all 
 side, direction
 772678	presentative particle
 girl; daughter
@@ -45756,7 +45757,7 @@ stroke (of a stick, whip)
 772763	in; concerning; compared with; by (oath). from, with:
 772766	I
 772769	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 side, direction
 strength, force, power
 speaker deixis demonstrative 
@@ -45765,13 +45766,13 @@ thus; like that; the same; so much.
 772779	party of close family after wedding
 772781	and
 and
-to, for. and brother
+brother to, for. and
 772787	breath; time, instance; yes. default demonstrative 
 here
 every; all, all of .
 772791	default demonstrative  almost, about to; connective particle .
 772793	in, at, on, with, by means of.
-772799	red; brown and
+772799	and red; brown
 white and
 and
 772803	and morning
@@ -45789,9 +45790,9 @@ I
 772835	poison, venom
 and
 presentative particle; but; otherwise .
-behind; after; through. from, with:
+from, with: behind; after; through.
 772840	ash or
-772843	also, even; connective particle . decorated
+772843	decorated also, even; connective particle .
 772848	thus, like this, so, such
 ash default demonstrative 
 772851	and in, at, on, with, by means of. above; directly
@@ -45802,7 +45803,7 @@ decorated
 772863	thus, like this, so, such
 772865	I
 thing not any 
-772869	about, concerning speech; sound
+772869	speech; sound about, concerning
 I
 772872	thing not any 
 772874	I
@@ -45814,11 +45815,11 @@ behind; after; through.
 reciprocal pronoun 
 presentative particle
 772891	oil, petroleum
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 772894	and
 772899	ash default demonstrative 
 every; all, all of .
-772902	cloth in; concerning; compared with; by (oath). one; a 
+772902	in; concerning; compared with; by (oath). one; a  cloth
 and
 772905	and
 party of close family after wedding
@@ -45835,7 +45836,7 @@ mourning
 each, every; whoever 
 772931	stamp, seal
 I
-772937	behind; after; through. from, with:
+772937	from, with: behind; after; through.
 772939	side, direction
 side, direction
 man, person; family relative
@@ -45849,21 +45850,21 @@ I
 772952	party of close family after wedding
 and
 party of close family after wedding
-772956	soul, person; reflexive pronoun . in, at, on, with, by means of. and
+772956	and soul, person; reflexive pronoun . in, at, on, with, by means of.
 party of close family after wedding
 maternal uncle side, direction
-also, even; connective particle . speaker deixis demonstrative  presentative particle
+presentative particle speaker deixis demonstrative  also, even; connective particle .
 772963	also, even; connective particle . which?
 772965	in; concerning; compared with; by (oath). grave
 772967	reciprocal pronoun 
 772971	ash or
-772973	upon grave in, at, on, with, by means of.
+772973	in, at, on, with, by means of. grave upon
 772976	one; a 
 tall willow tree
 pair; even number. one; a 
 772980	in, at, on, with, by means of.
 grave
-772983	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed one; a 
+772983	one; a  small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 772985	and
 772987	wood chopper
 772990	wood; piece of wood
@@ -45874,9 +45875,9 @@ snake
 two tall willow tree
 each, every; whoever 
 772999	first
-773001	default demonstrative  vine
-773004	until, up to; before; until when. now and
-773006	place, space. default demonstrative 
+773001	vine default demonstrative 
+773004	until, up to; before; until when. and now
+773006	default demonstrative  place, space.
 773008	and there
 773010	here
 speaker deixis demonstrative 
@@ -45887,7 +45888,7 @@ strong, mighty, huge and
 huge; strong, tough
 773022	side, direction
 preverbal particle
-before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. king
+king before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 773026	to, for, upon, at, by: Admominal uses mountain; region of mountains
 773029	to, for, upon, at, by: Admominal uses mountain; region of mountains
 and
@@ -45896,26 +45897,26 @@ and brigandry
 and
 man, person; family relative
 much, a lot, many; very .
-773038	always; again; still; as soon as; directly; just, only; the same; surely . in; concerning; compared with; by (oath). mountain; region of mountains
+773038	in; concerning; compared with; by (oath). always; again; still; as soon as; directly; just, only; the same; surely . mountain; region of mountains
 773040	in; concerning; compared with; by (oath). mountain; region of mountains
 and
-to, for, upon, at, by: Admominal uses hunt
+hunt to, for, upon, at, by: Admominal uses
 773044	bird
 and animal
 773047	thing
-773049	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
-one; a  day; sun.
-773052	to, for, upon, at, by: Admominal uses hunt
-773054	lion one; a 
-773058	lion one; a 
+773049	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
+day; sun. one; a 
+773052	hunt to, for, upon, at, by: Admominal uses
+773054	one; a  lion
+773058	one; a  lion
 773062	towards; against (agressively)
 lion
 773065	equipment, weapon
 gun, rifle
 773072	and
-773074	lion to, for; so that.
+773074	to, for; so that. lion
 and
-773077	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+773077	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 773079	palace; large house (consisting of two storeys and made of dressed stones)
 773082	palace; large house (consisting of two storeys and made of dressed stones)
 big; great; old.
@@ -45930,10 +45931,10 @@ and
 773095	every; all, all of .
 animal
 773099	every; all, all of .
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 773102	to, for, upon, at, by: Admominal uses
-773105	default demonstrative  animal
-773108	fox and
+773105	animal default demonstrative 
+773108	and fox
 773112	multitude; all
 man, person; family relative
 multitude; all
@@ -45942,12 +45943,12 @@ animal
 773121	we
 773123	in, at, on, with, by means of. reciprocal pronoun 
 or
-to, for, upon, at, by: Admominal uses one; a 
+one; a  to, for, upon, at, by: Admominal uses
 773128	negative copula
 773130	one; a 
 particle expressing necessity (deontic and epistemic)
 773133	big; great; old.
-773135	default demonstrative  man, person; family relative
+773135	man, person; family relative default demonstrative 
 773137	always; again; still; as soon as; directly; just, only; the same; surely . you
 some, a few, a little (quantity) 
 773140	lion
@@ -45966,10 +45967,10 @@ particle expressing necessity (deontic and epistemic)
 773176	woman; wife
 presentative particle; but; otherwise .
 here
-773184	to, for. bear; the constellation ‘The Great Bear’
+773184	bear; the constellation ‘The Great Bear’ to, for.
 bear; the constellation ‘The Great Bear’
 773188	Saturday; week one; a 
-773191	sheep; goat one; a 
+773191	one; a  sheep; goat
 and
 meat; dewlap (of goat)
 773195	meat; dewlap (of goat)
@@ -45977,8 +45978,8 @@ here
 773198	speaker deixis demonstrative  and
 skin; carcass
 773202	goldsmith
-773204	hair each, every; whoever 
-one; a  bell
+773204	each, every; whoever  hair
+bell one; a 
 773209	to, for; so that.
 presentative particle; but; otherwise .
 773214	eight
@@ -45991,46 +45992,46 @@ how? how could it be? like, just as; when
 773224	nobleman
 bear; the constellation ‘The Great Bear’
 773227	bear; the constellation ‘The Great Bear’
-773232	sheep; goat one; a  and
+773232	and one; a  sheep; goat
 and
 and
 bear; the constellation ‘The Great Bear’
 773237	cook (f.)
-773240	lion and
+773240	and lion
 one; a 
 tiger and
-one; a  side
+side one; a 
 speaker deixis demonstrative 
 773246	speaker deixis demonstrative  and
 773248	animal
 773250	default demonstrative 
 every; all, all of .
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 773254	job, profession, business; affair, thing not any 
 master, owner
 bear; the constellation ‘The Great Bear’
 773258	which? ewe, adult female sheep
 and
 meat; dewlap (of goat) and
-773263	skin; carcass default demonstrative  and
+773263	skin; carcass and default demonstrative 
 773265	goldsmith
 goldsmith
-773269	hair each, every; whoever 
+773269	each, every; whoever  hair
 bell
 773272	and
 773275	to, for. fox
-773277	to, for. bear; the constellation ‘The Great Bear’
+773277	bear; the constellation ‘The Great Bear’ to, for.
 773279	you
 773281	speaker deixis demonstrative 
 skin; carcass
 to, for, upon, at, by: Admominal uses
-and I
-773287	in; concerning; compared with; by (oath). town
+I and
+773287	town in; concerning; compared with; by (oath).
 I
-773290	you and
+773290	and you
 particle expressing prominence 
 773295	king
-773297	to, for, upon, at, by: Admominal uses roof
+773297	roof to, for, upon, at, by: Admominal uses
 giant mythological bird
 773301	and
 773306	how? how could it be? like, just as; when
@@ -46042,11 +46043,11 @@ breath; time, instance; yes. one; a
 ready, prepared
 giant mythological bird
 773321	also, even; connective particle . which?
-breath; time, instance; yes. one; a  and
+breath; time, instance; yes. and one; a 
 giant mythological bird
-773326	upon town
-and bear; the constellation ‘The Great Bear’
-fox and
+773326	town upon
+bear; the constellation ‘The Great Bear’ and
+and fox
 773333	thin cane, reed
 bear; the constellation ‘The Great Bear’
 773336	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
@@ -46055,9 +46056,9 @@ and
 soul, person; reflexive pronoun .
 thus, like this, so, such
 773344	king
-773346	upon roof
+773346	roof upon
 presentative particle; but; otherwise .
-in; concerning; compared with; by (oath). window
+window in; concerning; compared with; by (oath).
 773352	what; why?; how could it be? how (exclamatory).
 negative copula
 master, owner
@@ -46069,9 +46070,9 @@ and
 773363	and or
 773366	breath; time, instance; yes. one; a 
 773368	king
-773370	to, for, upon, at, by: Admominal uses roof
+773370	roof to, for, upon, at, by: Admominal uses
 how? how could it be? like, just as; when
-773373	to, for, upon, at, by: Admominal uses roof
+773373	roof to, for, upon, at, by: Admominal uses
 default demonstrative  giant mythological bird
 773376	soul, person; reflexive pronoun .
 unless, only if, except, but, particle of insistence; or not .
@@ -46079,12 +46080,12 @@ unless, only if, except, but, particle of insistence; or not .
 773382	breath; time, instance; yes. one; a 
 773384	cry for help
 773386	here
-here to, for, upon, at, by: Admominal uses
-behind; after; through. and
-fox and
+to, for, upon, at, by: Admominal uses here
+and behind; after; through.
+and fox
 behind; after; through.
 bear; the constellation ‘The Great Bear’
-773394	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+773394	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 773400	there
 preverbal particle which?
 there
@@ -46095,7 +46096,7 @@ woman; wife
 three
 four month
 773418	each, every; whoever  or
-773420	to, for, upon, at, by: Admominal uses hunt
+773420	hunt to, for, upon, at, by: Admominal uses
 773422	tree
 upon
 773425	huge; strong, tough
@@ -46118,7 +46119,7 @@ seven
 month
 king
 773450	I
-how? how could it be? like, just as; when each, every; whoever 
+each, every; whoever  how? how could it be? like, just as; when
 773454	who?; which? .
 773456	each, every; whoever 
 773459	money
@@ -46145,11 +46146,11 @@ master, owner
 773504	also, even; connective particle .
 from, with:
 773510	what? 
-773512	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
+773512	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
 lion
-773515	to, for, upon, at, by: Admominal uses one; a  side
+773515	side to, for, upon, at, by: Admominal uses one; a 
 tiger and
-one; a  side
+side one; a 
 773519	each, every; whoever  one; a 
 to, for.
 773524	nobleman
@@ -46167,13 +46168,13 @@ I
 773550	foreigner, stranger; foreign, strange
 here
 773553	man, person; family relative
-here and
+and here
 here
 773558	here
 773564	one; a  month
 there
 773569	here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 773573	how? how could it be? like, just as; when
 773575	speaker deixis demonstrative  girl; daughter
 king
@@ -46183,9 +46184,9 @@ king
 773587	I
 what; why?; how could it be? how (exclamatory).
 773590	particle expressing prominence 
-far deixis demonstrative  in, at, on, with, by means of.
+in, at, on, with, by means of. far deixis demonstrative 
 particle expressing prominence 
-773595	dirt, impurity from, with:
+773595	from, with: dirt, impurity
 speaker deixis demonstrative 
 six month
 773600	particle expressing prominence 
@@ -46197,7 +46198,7 @@ you
 in, at, on, with, by means of.
 773617	and
 in; concerning; compared with; by (oath). large conical-shaped pot
-breath; time, instance; yes. one; a  and
+breath; time, instance; yes. and one; a 
 773622	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 773624	to, for, upon, at, by: Admominal uses
 father; term of endearment.
@@ -46206,7 +46207,7 @@ father; term of endearment.
 773633	negative existential particle 
 773635	side
 773638	presentative particle; but; otherwise .
-always; again; still; as soon as; directly; just, only; the same; surely . place, space. side, direction not any 
+not any  always; again; still; as soon as; directly; just, only; the same; surely . place, space. side, direction
 773646	nobleman
 773650	bear; the constellation ‘The Great Bear’
 773652	how? how could it be? like, just as; when
@@ -46214,21 +46215,21 @@ breath; time, instance; yes. speaker deixis demonstrative
 773655	I
 773657	and
 773659	side, direction
-always; again; still; as soon as; directly; just, only; the same; surely . speaker deixis demonstrative 
-773662	now and
+speaker deixis demonstrative  always; again; still; as soon as; directly; just, only; the same; surely .
+773662	and now
 773664	king
 always; again; still; as soon as; directly; just, only; the same; surely .
 we
 and
 773669	which?
 stroke (of a stick, whip)
-773672	to, for, upon, at, by: Admominal uses roof
+773672	roof to, for, upon, at, by: Admominal uses
 master, owner
 773676	fox
 773680	skin; carcass default demonstrative 
 breath; time, instance; yes. default demonstrative 
 773687	mud
-grime and
+and grime
 773692	king
 773694	bear; the constellation ‘The Great Bear’
 773696	cry for help
@@ -46240,20 +46241,20 @@ bear; the constellation ‘The Great Bear’
 773708	fox
 and
 king
-773712	to, for, upon, at, by: Admominal uses roof
+773712	roof to, for, upon, at, by: Admominal uses
 773714	king
-773716	to, for, upon, at, by: Admominal uses roof
+773716	roof to, for, upon, at, by: Admominal uses
 breath; time, instance; yes. one; a 
 giant mythological bird
 773722	and
 and
 and
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 breath; time, instance; yes. one; a 
 773728	interjection opening speech turns
 king
 773731	master, owner
-773734	here and
+773734	and here
 here
 773737	each, every; whoever 
 I
@@ -46272,18 +46273,18 @@ particle expressing prominence
 773765	and
 773770	palace; large house (consisting of two storeys and made of dressed stones)
 773772	large conical-shaped pot
-to, for, upon, at, by: Admominal uses one; a  side
-773776	like, as; when. almost, about to; connective particle .
+side to, for, upon, at, by: Admominal uses one; a 
+773776	almost, about to; connective particle . like, as; when.
 first
 773780	from, with:
 and
 here
 what? 
 from, with:
-773786	place, space. from, with:
-773793	lion to, for.
+773786	from, with: place, space.
+773793	to, for. lion
 lion
-773801	you and
+773801	and you
 tiger
 773805	woman; wife default demonstrative 
 here
@@ -46302,7 +46303,7 @@ animal
 every; all, all of .
 773831	speaker deixis demonstrative 
 773833	heart; kernel of fruit or berry
-773836	like, as; when. almost, about to; connective particle .
+773836	almost, about to; connective particle . like, as; when.
 first
 773840	there
 presentative particle
@@ -46336,15 +46337,15 @@ and
 773899	ripe
 there
 animal
-773903	always; again; still; as soon as; directly; just, only; the same; surely . animal
+773903	animal always; again; still; as soon as; directly; just, only; the same; surely .
 773907	default demonstrative 
 773910	obliged; forced
 773914	woman; wife
 and
-773918	place, space. one; a 
+773918	one; a  place, space.
 773920	or
 and
-773923	one; a  day; sun.
+773923	day; sun. one; a 
 773925	to, for.
 animal
 773928	nobleman
@@ -46361,28 +46362,28 @@ particle expressing prominence  side, direction
 you
 773950	thus, like this, so, such
 upon
-twenty and four
+and twenty four
 773954	thus, like this, so, such
 773957	wind, air
 thing
 773961	I
-lion and
+and lion
 773964	to, for.
-773966	woolen trousers; suit of clothes; type of fabric made from wool if ; either/or ; interrogative particle.
+773966	if ; either/or ; interrogative particle. woolen trousers; suit of clothes; type of fabric made from wool
 side, direction
 773969	tiger and
 thus; like that; the same; so much.
-every; all, all of . and
+and every; all, all of .
 thus; like that; the same; so much.
 every; all, all of .
 773977	what? 
-773979	one; a  day; sun.
-773982	lie, falsehood; fiction in, at, on, with, by means of.
+773979	day; sun. one; a 
+773982	in, at, on, with, by means of. lie, falsehood; fiction
 773984	nobleman
 773988	from, with:
 773990	lion
 773992	master, owner
-to, for. bear; the constellation ‘The Great Bear’
+bear; the constellation ‘The Great Bear’ to, for.
 you particle expressing prominence 
 773996	food, a meal
 774001	unless, only if, except, but, particle of insistence; or not .
@@ -46394,7 +46395,7 @@ thus, like this, so, such
 774015	to, for, upon, at, by: Admominal uses
 774017	master, owner
 774019	upon
-here and
+and here
 here
 kick
 774024	thus, like this, so, such and
@@ -46404,9 +46405,9 @@ respect; good will; favour
 God 
 side, direction
 774036	and
-774039	here and
+774039	and here
 here
-one; a  day; sun.
+day; sun. one; a 
 always; again; still; as soon as; directly; just, only; the same; surely .
 truth in, at, on, with, by means of.
 774045	truth in, at, on, with, by means of.
@@ -46414,7 +46415,7 @@ and
 there
 and
 774050	also, even; connective particle . one; a 
-774053	place, space. not any 
+774053	not any  place, space.
 food, a meal
 also, even; connective particle . one; a 
 negative copula
@@ -46436,9 +46437,9 @@ each, every; whoever  one; a
 774098	there
 and
 here
-774102	girl; daughter one; a 
+774102	one; a  girl; daughter
 name
-774107	in; concerning; compared with; by (oath). church
+774107	church in; concerning; compared with; by (oath).
 holy communion; host
 to, for; so that.
 774111	day; sun.
@@ -46472,9 +46473,9 @@ Arab
 774158	default demonstrative  big; great; old.
 negative copula
 774161	new
-how? how could it be? like, just as; when lady
+lady how? how could it be? like, just as; when
 which?
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 side, direction
 preverbal particle
 774168	default demonstrative 
@@ -46484,11 +46485,11 @@ measure
 774180	fifty
 day; sun.
 774184	side, direction
-774186	default demonstrative  day; sun.
+774186	day; sun. default demonstrative 
 774188	plain; level ground
 774190	rider
 774194	to, for, upon, at, by: Admominal uses Arab
-774196	to, for, upon, at, by: Admominal uses land, country; homeland
+774196	land, country; homeland to, for, upon, at, by: Admominal uses
 lower
 or
 and
@@ -46503,10 +46504,10 @@ every; all, all of .
 774218	fifty
 day; sun.
 774222	side, direction
-774224	default demonstrative  day; sun.
+774224	day; sun. default demonstrative 
 774226	plain; level ground
 774228	rider
-774235	to, for, upon, at, by: Admominal uses land, country; homeland
+774235	land, country; homeland to, for, upon, at, by: Admominal uses
 lower
 measure
 774243	I
@@ -46518,10 +46519,10 @@ I
 774267	iron
 and
 774270	iron
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 and
 774274	iron
-774278	world, weather. (K./A.) in, at, on, with, by means of.
+774278	in, at, on, with, by means of. world, weather. (K./A.)
 774280	respect; good will; favour
 774283	in, at, on, with, by means of. peace
 thin cane, reed
@@ -46529,7 +46530,7 @@ perhaps
 774290	and
 and
 and
-774294	village to, for, upon, at, by: Admominal uses one; a 
+774294	to, for, upon, at, by: Admominal uses one; a  village
 774298	man, person; family relative
 774300	yes
 774302	measure
@@ -46555,7 +46556,7 @@ handkerchief; scarf
 774350	from, with: below
 774352	servant girl
 breath; time, instance; yes.
-774356	or old (man); grandfather; ancestor
+774356	old (man); grandfather; ancestor or
 what; why?; how could it be? how (exclamatory).
 774359	old (man); grandfather; ancestor
 774361	seven
@@ -46564,22 +46565,22 @@ thin cane, reed
 774367	leather shoes
 774371	wretched, poor
 speaker deixis demonstrative 
-774375	place, space. not any 
-774377	village in; concerning; compared with; by (oath).
+774375	not any  place, space.
+774377	in; concerning; compared with; by (oath). village
 also; even; again.
 774380	in; concerning; compared with; by (oath).
 village
-village which?
+which? village
 774385	there
 774387	what; why?; how could it be? how (exclamatory).
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 774390	mistress
 master, owner
 774395	master, owner
 speaker deixis demonstrative 
 handkerchief; scarf
 774405	I
-774413	default demonstrative  old (man); grandfather; ancestor
+774413	old (man); grandfather; ancestor default demonstrative 
 774415	from, with: there
 774419	about, concerning; on account of; in, by.
 default demonstrative 
@@ -46587,7 +46588,7 @@ from, with:
 774423	default demonstrative 
 vocative particle
 mistress
-774428	and I
+774428	I and
 speaker deixis demonstrative  seven
 774431	presentative particle; but; otherwise .
 774435	and plastic shoes
@@ -46599,7 +46600,7 @@ three
 774455	soul, person; reflexive pronoun .
 774459	I
 about, concerning; on account of; in, by.
-774462	also, even; connective particle . I
+774462	I also, even; connective particle .
 about, concerning; on account of; in, by.
 774466	soul, person; reflexive pronoun .
 774468	there
@@ -46612,19 +46613,19 @@ default demonstrative  almost, about to; connective particle .
 774487	there
 and
 here
-774491	one; a  king
+774491	king one; a 
 774493	three
 son; young animal
-default demonstrative  king
+king default demonstrative 
 774497	in, at, on, with, by means of.
 approximately
 774500	sixty
 seventy
 774506	blind
-774509	son; young animal to, for; so that.
-774513	solution; cure one; a 
+774509	to, for; so that. son; young animal
+774513	one; a  solution; cure
 774515	one; a  drug, medicine; chemical; polish (for shoes); gunpowder; substance
-who?; which? . to, for; so that.
+to, for; so that. who?; which? .
 to, for; so that.
 774519	humanity
 thing
@@ -46632,11 +46633,11 @@ thing
 774531	money
 774533	each, every; whoever  one; a 
 774539	drug, medicine; chemical; polish (for shoes); gunpowder; substance
-who?; which? . to, for; so that.
+to, for; so that. who?; which? .
 774543	son; young animal
 774545	and
 774547	son; young animal
-774550	world, weather. (K./A.) in; concerning; compared with; by (oath).
+774550	in; concerning; compared with; by (oath). world, weather. (K./A.)
 774552	on, upon
 drug, medicine; chemical; polish (for shoes); gunpowder; substance
 774555	to, for; so that.
@@ -46649,11 +46650,11 @@ default demonstrative  big; great; old.
 in; concerning; compared with; by (oath).
 town
 what; why?; how could it be? how (exclamatory).
-774572	job, profession, business; affair, thing one; a 
+774572	one; a  job, profession, business; affair, thing
 and
 774575	about, concerning; on account of; in, by. drug, medicine; chemical; polish (for shoes); gunpowder; substance
 to, for.
-774581	one; a  in, at, on, with, by means of.
+774581	in, at, on, with, by means of. one; a 
 man, person; family relative
 774586	interjection opening speech turns
 I
@@ -46673,14 +46674,14 @@ default demonstrative  big; great; old.
 774615	there
 774617	default demonstrative  two
 774620	default demonstrative  two
-also, even; connective particle . default demonstrative  inside; middle
-774623	one; a  town
+inside; middle also, even; connective particle . default demonstrative 
+774623	town one; a 
 774626	also, even; connective particle .
 774628	here
-774630	job, profession, business; affair, thing about, concerning; on account of; in, by.
-774632	job, profession, business; affair, thing one; a 
+774630	about, concerning; on account of; in, by. job, profession, business; affair, thing
+774632	one; a  job, profession, business; affair, thing
 here
-to, for; so that. drug, medicine; chemical; polish (for shoes); gunpowder; substance
+drug, medicine; chemical; polish (for shoes); gunpowder; substance to, for; so that.
 to, for.
 774639	one; a 
 774641	Assyrian language in, at, on, with, by means of.
@@ -46696,8 +46697,8 @@ side, direction
 774662	what? 
 also, even; connective particle . or
 774665	there
-774667	small default demonstrative 
-small default demonstrative 
+774667	default demonstrative  small
+default demonstrative  small
 774670	in, at, on, with, by means of. road; way.
 774674	six
 seven
@@ -46713,8 +46714,8 @@ ripe
 774699	in, at, on, with, by means of.
 774703	about, concerning; on account of; in, by.
 and flower
-774708	bird one; a 
-bird default demonstrative 
+774708	one; a  bird
+default demonstrative  bird
 feather; fin on water-wheel from, with:
 774713	in, at, on, with, by means of.
 774720	and
@@ -46727,15 +46728,15 @@ I
 774732	presentative particle; but; otherwise .
 side, direction
 side, direction
-thing one; a 
+one; a  thing
 other, another; more; again; discourse particle.
 in, at, on, with, by means of. side, direction
-also, even; connective particle . and I
-774740	who?; which? . and
+I and also, even; connective particle .
+774740	and who?; which? .
 774743	perhaps
 774746	to, for, upon, at, by: Admominal uses
-774750	also, even; connective particle . I
-who?; which? . in, at, on, with, by means of.
+774750	I also, even; connective particle .
+in, at, on, with, by means of. who?; which? .
 774753	presentative particle; but; otherwise .
 774756	default demonstrative 
 particle expressing necessity (deontic and epistemic)
@@ -46757,7 +46758,7 @@ above; directly
 lower
 774809	salt
 774814	horse
-774816	also, even; connective particle . and
+774816	and also, even; connective particle .
 default demonstrative  mountain; region of mountains
 774819	in; concerning; compared with; by (oath).
 774821	valley
@@ -46770,38 +46771,38 @@ mule
 in, at, on, with, by means of. or
 woman; wife
 heavy; pregnant
-774834	stone from, with:
+774834	from, with: stone
 774836	reciprocal pronoun 
 and
-upon water
+water upon
 774840	two
 girl; daughter
 774845	side, direction
 774850	to, for, upon, at, by: Admominal uses
 774853	and
 and
-upon water
-default demonstrative  water
+water upon
+water default demonstrative 
 774858	part two
 774860	and
-default demonstrative  water
+water default demonstrative 
 774863	to, for, upon, at, by: Admominal uses
 774865	forty
 774868	lion
 to, for, upon, at, by: Admominal uses
 side
-nanny goat and
+and nanny goat
 774873	to, for, upon, at, by: Admominal uses
 side
-lion before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. lion
 774878	plant; herb; grass
-nanny goat before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. and
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. and nanny goat
 774882	meat; dewlap (of goat)
 774884	meat; dewlap (of goat)
-nanny goat before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. from, with:
-774887	lion before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
-plant; herb; grass and
-774890	lion from, with:
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. nanny goat from, with:
+774887	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. lion
+and plant; herb; grass
+774890	from, with: lion
 774892	nanny goat to, for; so that.
 and
 twenty
@@ -46814,10 +46815,10 @@ room
 774910	in; concerning; compared with; by (oath). small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 chicken coop
-like, as; when. cock
+cock like, as; when.
 774915	from, with:
 food, a meal
-774918	bird to, for; so that.
+774918	to, for; so that. bird
 bird
 774923	forty
 sheet
@@ -46842,7 +46843,7 @@ and
 774956	from, with:
 774958	bird
 774960	in; concerning; compared with; by (oath).
-bird and
+and bird
 side, direction
 774965	in; concerning; compared with; by (oath).
 and
@@ -46857,24 +46858,24 @@ lord, prince
 774988	every; all, all of .
 774990	blood
 774994	end; summary
-774996	upon mountain; region of mountains
+774996	mountain; region of mountains upon
 behind; after; through.
 thus; like that; the same; so much.
 party of close family after wedding
 775001	in; concerning; compared with; by (oath). salt
 also, even; connective particle . salt
 775005	to, for, upon, at, by: Admominal uses
-stone two
+two stone
 775008	in, at, on, with, by means of. reciprocal pronoun 
 also, even; connective particle . default demonstrative 
-775012	upon water
-775014	girl; daughter two
+775012	water upon
+775014	two girl; daughter
 preverbal particle
 775018	end; summary
 775022	every; all, all of .
 775027	bird
 and
-775034	big; great; old. or
+775034	or big; great; old.
 775039	bird
 775042	feather; fin on water-wheel one; a 
 775044	in, at, on, with, by means of.
@@ -46916,16 +46917,16 @@ house; home; verse (of poetry/song)
 775143	to, for, upon, at, by: Admominal uses
 775145	king
 breath; time, instance; yes. one; a 
-775148	one; a  garden, orchard
+775148	garden, orchard one; a 
 775150	apple; apple tree
-775152	eye; aperture; spring of water. one; a 
+775152	one; a  eye; aperture; spring of water.
 half; middle. household of; family of
 default demonstrative 
 small
 775158	I
 775160	asleep
-in, at, on, with, by means of. negative copula side, direction
-in, at, on, with, by means of. day; sun. side, direction
+negative copula in, at, on, with, by means of. side, direction
+day; sun. in, at, on, with, by means of. side, direction
 775167	a little (quantity); a few 
 775169	a little (quantity); a few 
 and
@@ -46947,7 +46948,7 @@ master, owner
 775204	child
 775209	and
 there
-default demonstrative  and
+and default demonstrative 
 775214	ripe
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 775217	negative copula
@@ -46995,22 +46996,22 @@ feather; fin on water-wheel
 775308	a little (quantity); a few 
 775310	squint-eyed
 775312	preverbal particle
-default demonstrative  water
+water default demonstrative 
 feather; fin on water-wheel from, with:
 upon
 775318	a little (quantity); a few 
 775322	to, for. man, person; family relative
 interjection opening speech turns
 side, direction
-775326	job, profession, business; affair, thing one; a 
-thing one; a 
+775326	one; a  job, profession, business; affair, thing
+one; a  thing
 775330	king household of; family of
-775332	work; job; cultivation not any 
+775332	not any  work; job; cultivation
 775334	about, concerning
 775340	default demonstrative 
 about, concerning
 775343	what? 
-775347	in; concerning; compared with; by (oath). basement stable
+775347	basement stable in; concerning; compared with; by (oath).
 775349	and
 775353	about, concerning; on account of; in, by.
 775356	bird
@@ -47023,7 +47024,7 @@ village
 775372	tent
 775376	every; all, all of .
 775379	I
-775381	about, concerning in, at, on, with, by means of.
+775381	in, at, on, with, by means of. about, concerning
 how? how could it be? like, just as; when
 775385	master, owner
 775387	brother
@@ -47068,22 +47069,22 @@ beautiful; beautiful woman; young woman
 775490	above; directly
 775493	also, even; connective particle . or
 775497	lion
-to, for, upon, at, by: Admominal uses side
-nanny goat and
-to, for, upon, at, by: Admominal uses side
-lion before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+side to, for, upon, at, by: Admominal uses
+and nanny goat
+side to, for, upon, at, by: Admominal uses
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. lion
 775503	plant; herb; grass
-nanny goat before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
+before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. nanny goat
 775506	meat; dewlap (of goat)
 775508	meat; dewlap (of goat)
 nanny goat from, with:
-775511	lion to, for.
-lion and from, with:
+775511	to, for. lion
+and from, with: lion
 775514	plant; herb; grass
 775516	nanny goat to, for; so that.
-775518	forty room
+775518	room forty
 775520	twenty
-775524	twenty and
+775524	and twenty
 775526	closed
 775529	in; concerning; compared with; by (oath). small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 775531	bird feed of grains
@@ -47099,7 +47100,7 @@ speaker deixis demonstrative
 775554	what? 
 775558	from, with:
 food, a meal
-775561	bird to, for; so that.
+775561	to, for; so that. bird
 bird
 775565	from, with:
 bird
@@ -47113,13 +47114,13 @@ you
 775596	and flower
 775598	master, owner
 775605	one; a  two
-three day; sun.
+day; sun. three
 775608	horse to, for, upon, at, by: Admominal uses
 775610	and
-775612	village to, for, upon, at, by: Admominal uses one; a 
+775612	to, for, upon, at, by: Admominal uses one; a  village
 village
 775615	town
-775622	village in; concerning; compared with; by (oath).
+775622	in; concerning; compared with; by (oath). village
 775624	guest
 woman; wife one; a 
 old woman
@@ -47148,7 +47149,7 @@ how? how could it be? like, just as; when
 775676	water
 775678	each, every; whoever  seven
 day; sun.
-775681	girl; daughter one; a 
+775681	one; a  girl; daughter
 to, for; so that.
 water
 stroke (of a stick, whip)
@@ -47184,7 +47185,7 @@ each, every; whoever
 master, owner
 breath; time, instance; yes. one; a 
 775748	or
-775751	in, at, on, with, by means of. negative copula
+775751	negative copula in, at, on, with, by means of.
 snake
 775754	which?
 775756	side, direction
@@ -47203,11 +47204,11 @@ head; top; beginning.
 775781	snake
 775783	I
 775785	in, at, on, with, by means of. one; a  above; directly
-in, at, on, with, by means of. seven
+seven in, at, on, with, by means of.
 775788	or
 I
-775791	spear one; a  in, at, on, with, by means of.
-in, at, on, with, by means of. seven
+775791	one; a  spear in, at, on, with, by means of.
+seven in, at, on, with, by means of.
 775794	every; all, all of .
 775796	preverbal particle
 every; all, all of .
@@ -47227,7 +47228,7 @@ in; concerning; compared with; by (oath). back; waist
 775815	in; concerning; compared with; by (oath). back; waist
 child
 and
-girl; daughter to, for.
+to, for. girl; daughter
 775822	man, person; family relative
 stamp, seal
 side, direction
@@ -47243,7 +47244,7 @@ and
 775840	water
 side, direction
 775843	water
-775846	here and
+775846	and here
 here
 default demonstrative 
 always; again; still; as soon as; directly; just, only; the same; surely .
@@ -47254,7 +47255,7 @@ snake
 775857	breath; time, instance; yes. one; a 
 thus; like that; the same; so much.
 775861	water
-each, every; whoever  one; a  and
+each, every; whoever  and one; a 
 775864	side, direction
 water
 775868	water
@@ -47289,8 +47290,8 @@ master, owner
 775927	four
 five
 man, person; family relative
-always; again; still; as soon as; directly; just, only; the same; surely . thus; like that; the same; so much.
-775932	head; top; beginning. in, at, on, with, by means of.
+thus; like that; the same; so much. always; again; still; as soon as; directly; just, only; the same; surely .
+775932	in, at, on, with, by means of. head; top; beginning.
 finally; afterwards, then; recently
 775937	one; a 
 old woman; grandmother
@@ -47306,27 +47307,27 @@ master, owner
 775967	in; concerning; compared with; by (oath). blood
 775969	in; concerning; compared with; by (oath). back; waist
 775974	king
-and I
+I and
 775980	I
 existential particle 
 job, profession, business; affair, thing
 775984	I
-775986	also, even; connective particle . I
+775986	I also, even; connective particle .
 775989	presentative particle; but; otherwise .
 775991	job, profession, business; affair, thing
 776001	and
 776004	one; a  wood, forest; vegetation
-one; a  tree
+tree one; a 
 big; great; old.
 776008	tall willow tree
 giant mythological bird
 giant mythological bird
 776012	young (of animals and birds)
-in; concerning; compared with; by (oath). nest
+nest in; concerning; compared with; by (oath).
 snake one; a 
 always
-776018	young (of animals and birds) default demonstrative 
-default demonstrative  man, person; family relative
+776018	default demonstrative  young (of animals and birds)
+man, person; family relative default demonstrative 
 776021	king
 what; why?; how could it be? how (exclamatory).
 776024	preverbal particle
@@ -47347,7 +47348,7 @@ giant mythological bird
 776055	speaker deixis demonstrative  and
 776057	giant mythological bird
 776062	default demonstrative 
-776068	time, instance two three
+776068	time, instance three two
 776072	every; all, all of .
 776074	I
 776076	negative copula
@@ -47382,8 +47383,8 @@ to, for, upon, at, by: Admominal uses
 776131	to, for, upon, at, by: Admominal uses
 giant mythological bird
 776135	until, up to; before; until when.
-palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
-upon palace; large house (consisting of two storeys and made of dressed stones)
+to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
+palace; large house (consisting of two storeys and made of dressed stones) upon
 776140	speaker deixis demonstrative  two
 776143	every; all, all of .
 776146	I
@@ -47393,7 +47394,7 @@ upon palace; large house (consisting of two storeys and made of dressed stones)
 776156	and
 776159	and
 776166	and
-upon palace; large house (consisting of two storeys and made of dressed stones)
+palace; large house (consisting of two storeys and made of dressed stones) upon
 palace; large house (consisting of two storeys and made of dressed stones)
 776172	in, at, on, with, by means of.
 man, person; family relative
@@ -47404,12 +47405,12 @@ which?
 breath; time, instance; yes. one; a 
 or
 776191	peace; greeting
-always; again; still; as soon as; directly; just, only; the same; surely . and flower
+and always; again; still; as soon as; directly; just, only; the same; surely . flower
 776195	side, direction
 son; young animal
 side, direction
 thing not any 
-vocative particle in, at, on, with, by means of. and peace
+and in, at, on, with, by means of. peace vocative particle
 blessings, greetings
 776202	from, with:
 776205	in, at, on, with, by means of.
@@ -47420,10 +47421,10 @@ blessings, greetings
 776226	speaker deixis demonstrative 
 palace; large house (consisting of two storeys and made of dressed stones)
 776229	in, at, on, with, by means of. skull
-776232	small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed one; a 
-also, even; connective particle . speaker deixis demonstrative 
+776232	one; a  small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
+speaker deixis demonstrative  also, even; connective particle .
 776235	we
-776238	behind; after; through. and
+776238	and behind; after; through.
 776244	in; concerning; compared with; by (oath).
 small window without glass; small aperture; small hole in the wall of a church in which burning wicks (punde) are placed
 776247	what? 
@@ -47437,13 +47438,13 @@ flower
 pomegranates
 smell
 776269	in; concerning; compared with; by (oath). back; waist
-776272	mare one; a 
+776272	one; a  mare
 776274	mare
 776276	to, for, upon, at, by: Admominal uses back; waist
 and
-776279	in; concerning; compared with; by (oath). area of cultivated land → ʾqr to dig up, to plough
+776279	area of cultivated land → ʾqr to dig up, to plough in; concerning; compared with; by (oath).
 in; concerning; compared with; by (oath). plant; herb; grass
-here and
+and here
 here
 and
 776285	king
@@ -47460,7 +47461,7 @@ cane, pliant wooden stick for driving animals
 and
 to, for, upon, at, by: Admominal uses back; waist
 776319	and
-776321	in; concerning; compared with; by (oath). area of cultivated land → ʾqr to dig up, to plough
+776321	area of cultivated land → ʾqr to dig up, to plough in; concerning; compared with; by (oath).
 breath; time, instance; yes. one; a 
 thus; like that; the same; so much.
 776328	side, direction
@@ -47478,7 +47479,7 @@ and
 776352	forty
 giant
 776359	and
-one; a  day; sun.
+day; sun. one; a 
 day; sun.
 two
 day; sun.
@@ -47491,16 +47492,16 @@ child or
 giant
 776384	four
 776387	bead
-776389	upon chest, breast; front; middle
+776389	chest, breast; front; middle upon
 776391	which?
-776396	forty default demonstrative 
+776396	default demonstrative  forty
 giant
 and
 776400	and
-776402	in; concerning; compared with; by (oath). saddle-bag
+776402	saddle-bag in; concerning; compared with; by (oath).
 776404	and
-776407	to, for, upon, at, by: Admominal uses roof
-776409	to, for, upon, at, by: Admominal uses roof
+776407	roof to, for, upon, at, by: Admominal uses
+776409	roof to, for, upon, at, by: Admominal uses
 and
 feather; fin on water-wheel default demonstrative  two
 and finally; afterwards, then; recently
@@ -47523,10 +47524,10 @@ in; concerning; compared with; by (oath). air
 776450	side, direction
 776454	and
 776456	flower
-776458	palace; large house (consisting of two storeys and made of dressed stones) to, for, upon, at, by: Admominal uses
-also, even; connective particle . and or
+776458	to, for, upon, at, by: Admominal uses palace; large house (consisting of two storeys and made of dressed stones)
+and also, even; connective particle . or
 776462	house; home; verse (of poetry/song)
-776464	and there from, with:
+776464	and from, with: there
 beyond; onwards
 776467	to, for, upon, at, by: Admominal uses
 horse
@@ -47553,7 +47554,7 @@ here
 776507	one; a 
 776512	speaker deixis demonstrative 
 776514	to, for, upon, at, by: Admominal uses mountain; region of mountains
-to, for, upon, at, by: Admominal uses hunt
+hunt to, for, upon, at, by: Admominal uses
 776520	from, with:
 776522	in; concerning; compared with; by (oath). mountain; region of mountains
 776525	from, with: reciprocal pronoun 
@@ -47571,8 +47572,8 @@ how many/much? some, several; so much/many; however much, as much as; when; as f
 776558	default demonstrative 
 776561	man; married man, husband; gentleman, courtier; valiant man
 776564	also, even; connective particle . or
-to, for, upon, at, by: Admominal uses hunt
-776567	to, for, upon, at, by: Admominal uses hunt
+hunt to, for, upon, at, by: Admominal uses
+776567	hunt to, for, upon, at, by: Admominal uses
 presentative particle; but; otherwise .
 world, weather. (K./A.)
 party of close family after wedding
@@ -47580,7 +47581,7 @@ party of close family after wedding
 776574	world, weather. (K./A.)
 snow; ice
 speaker deixis demonstrative 
-776578	horse in, at, on, with, by means of.
+776578	in, at, on, with, by means of. horse
 776580	cave in; concerning; compared with; by (oath). one; a 
 776582	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of. snow; ice
 776584	snow; ice
@@ -47612,7 +47613,7 @@ house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 776640	story; affair
 776643	world, weather. (K./A.)
 776646	I
-776648	to, for, upon, at, by: Admominal uses hunt
+776648	hunt to, for, upon, at, by: Admominal uses
 world, weather. (K./A.)
 776652	I
 776654	cave in; concerning; compared with; by (oath). one; a 
@@ -47633,17 +47634,17 @@ master, owner
 776692	in; concerning; compared with; by (oath). from, with:
 776695	master, owner
 776697	if ; either/or ; interrogative particle.
-776700	like, as; when. mountain; region of mountains
+776700	mountain; region of mountains like, as; when.
 and
 776703	to, for, upon, at, by: Admominal uses
 776715	horse
-776717	God  vocative particle and
-776724	village one; a 
-776726	village one; a 
+776717	God  and vocative particle
+776724	one; a  village
+776726	one; a  village
 nephew (son of sister)
 776729	or
-in; concerning; compared with; by (oath). time; point in time; period of time
-776732	in; concerning; compared with; by (oath). time; point in time; period of time
+time; point in time; period of time in; concerning; compared with; by (oath).
+776732	time; point in time; period of time in; concerning; compared with; by (oath).
 776737	thin cane, reed
 776744	brass pan for heating water one; a 
 big; great; old.
@@ -47660,12 +47661,12 @@ huge; strong, tough
 776773	to, for, upon, at, by: Admominal uses
 mule
 also, even; connective particle . or
-776782	village in; concerning; compared with; by (oath).
+776782	in; concerning; compared with; by (oath). village
 or
 776791	horse
-776797	always; again; still; as soon as; directly; just, only; the same; surely . one; a  and
+776797	always; again; still; as soon as; directly; just, only; the same; surely . and one; a 
 776800	to, for, upon, at, by: Admominal uses
-upon eye; aperture; spring of water.
+eye; aperture; spring of water. upon
 776804	you
 776806	speaker deixis demonstrative 
 776809	to, for, upon, at, by: Admominal uses reciprocal pronoun 
@@ -47685,8 +47686,8 @@ here
 I
 776855	wolf
 776857	wolf
-776859	side, direction day; sun. from, with:
-776862	like, as; when. one; a  star
+776859	day; sun. from, with: side, direction
+776862	one; a  star like, as; when.
 776864	sitting; inhabited
 behind; after; through.
 village
@@ -47698,19 +47699,19 @@ cave
 776876	how? how could it be? like, just as; when
 776878	I
 776880	here
-you and
-776883	also, even; connective particle . I
+and you
+776883	I also, even; connective particle .
 776888	you
 776890	you
 here
 776893	I
 to, for, upon, at, by: Admominal uses
 776896	side, direction
-776899	thing one; a 
+776899	one; a  thing
 776902	master, owner
 776904	master, owner
 master, owner
-776907	thing one; a 
+776907	one; a  thing
 776910	side, direction
 776913	thus, like this, so, such
 reciprocal pronoun 
@@ -47730,8 +47731,8 @@ beautiful, pleasant
 776959	in; concerning; compared with; by (oath).
 small cave
 776963	louse
-louse each, every; whoever 
-776966	like, as; when. white bean
+each, every; whoever  louse
+776966	white bean like, as; when.
 thus, like this, so, such
 big; great; old.
 776971	and washing board
@@ -47753,20 +47754,20 @@ speaker deixis demonstrative
 777005	sword
 neck to, for, upon, at, by: Admominal uses
 wolf
-777009	goatskin or lambskin (spread on floor to sit on) and
+777009	and goatskin or lambskin (spread on floor to sit on)
 slope
 777015	what; why?; how could it be? how (exclamatory).
 777017	heart; kernel of fruit or berry from, with:
 777020	monastery
 strength, force, power
-777023	default demonstrative  shoe-lace, cord
+777023	shoe-lace, cord default demonstrative 
 and
 777026	one; a 
 terebinth tree; the nut from such a tree
 777029	and
 branch; strand (of wool)
 and
-head; top; beginning. in, at, on, with, by means of.
+in, at, on, with, by means of. head; top; beginning.
 777035	thus, like this, so, such
 thus, like this, so, such
 777038	you
@@ -47787,7 +47788,7 @@ terebinth tree; the nut from such a tree default demonstrative
 777064	also, even; connective particle .
 default demonstrative 
 king
-777074	default demonstrative  and
+777074	and default demonstrative 
 and
 777078	master, owner
 777081	to, for, upon, at, by: Admominal uses
@@ -47823,7 +47824,7 @@ skin; carcass
 777156	to, for, upon, at, by: Admominal uses
 master, owner
 777159	to, for, upon, at, by: Admominal uses
-777166	male goat four years old and upwards one; a 
+777166	one; a  male goat four years old and upwards
 male goat four years old and upwards
 big; great; old.
 and
@@ -47870,7 +47871,7 @@ presentative particle; but; otherwise .
 empty; not busy; riderless (horse).
 777272	presentative particle
 speaker deixis demonstrative 
-777278	in; concerning; compared with; by (oath). distress
+777278	distress in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
 drug, medicine; chemical; polish (for shoes); gunpowder; substance
 in, at, on, with, by means of.
@@ -47893,7 +47894,7 @@ here
 milk
 preverbal particle
 777331	and
-777333	here and
+777333	and here
 here
 777336	measure
 777339	party of close family after wedding
@@ -47942,7 +47943,7 @@ three
 time, instance
 party of close family after wedding
 777462	thus; like that; the same; so much.
-default demonstrative  four
+four default demonstrative 
 777465	spear
 777467	in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
@@ -47956,7 +47957,7 @@ army
 777483	every; all, all of .
 777492	from, with:
 preverbal particle
-777495	also, even; connective particle . far deixis demonstrative  and
+777495	and also, even; connective particle . far deixis demonstrative 
 girl; daughter
 777502	also, even; connective particle . which?
 preverbal particle
@@ -47966,7 +47967,7 @@ and
 and
 there
 777513	here
-story one; a 
+one; a  story
 777517	to, for, upon, at, by: Admominal uses
 777520	and
 777524	speaker deixis demonstrative 
@@ -47981,7 +47982,7 @@ side, direction
 777541	default demonstrative 
 777543	three
 day; sun.
-three and
+and three
 777548	asleep
 side, direction
 777551	side, direction
@@ -47990,7 +47991,7 @@ side, direction
 777565	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 palace; large house (consisting of two storeys and made of dressed stones)
 777568	barber default demonstrative 
-777571	ladder one; a 
+777571	one; a  ladder
 777576	what? 
 big; great; old.
 barber
@@ -48023,10 +48024,10 @@ irrigation channel; groove; scar.
 what; why?; how could it be? how (exclamatory).
 in; concerning; compared with; by (oath).
 speaker deixis demonstrative 
-777632	you and
+777632	and you
 thus, like this, so, such
 hero
-who?; which? . and
+and who?; which? .
 thus, like this, so, such
 777640	wound
 in; concerning; compared with; by (oath).
@@ -48045,12 +48046,12 @@ in; concerning; compared with; by (oath).
 777676	particle expressing prominence 
 sitting; inhabited
 777679	I
-777681	girl; daughter one; a 
+777681	one; a  girl; daughter
 777684	so-and-so; such-and-such
 land, country; homeland
-one; a  land, country; homeland
+land, country; homeland one; a 
 distance; distant.
-777695	in, at, on, with, by means of. strength, force, power
+777695	strength, force, power in, at, on, with, by means of.
 777699	also, even; connective particle . default demonstrative 
 man, person; family relative
 hero, strongman
@@ -48061,15 +48062,15 @@ every; all, all of .
 777711	in; concerning; compared with; by (oath).
 and
 777714	girl; daughter
-777721	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+777721	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 777723	preverbal particle
 speaker deixis demonstrative 
 speech; sound
 777728	much, a lot, many; very .
-also, even; connective particle . because or
+also, even; connective particle . or because
 much, a lot, many; very .
 hero, strongman
-strong, mighty, huge and
+and strong, mighty, huge
 man, person; family relative not any 
 in; concerning; compared with; by (oath). land, country; homeland
 side, direction
@@ -48078,7 +48079,7 @@ existential particle
 one; a  man, person; family relative
 hero, strongman
 777746	and
-in, at, on, with, by means of. anger
+anger in, at, on, with, by means of.
 777751	angry
 angry
 777756	in, at, on, with, by means of.
@@ -48086,7 +48087,7 @@ angry
 what? 
 huge; strong, tough
 wall
-777767	barber to, for.
+777767	to, for. barber
 777769	side, direction
 wall
 777777	trouble
@@ -48097,20 +48098,20 @@ existential particle
 one; a  man, person; family relative
 777793	and
 777797	until, up to; before; until when.
-story; affair and
+and story; affair
 777800	every; all, all of .
 story
 girl; daughter
 preverbal particle
 and land, country; homeland
-777806	who?; which? . and
+777806	and who?; which? .
 777808	head; top; beginning.
-777812	and much, a lot, many; very .
+777812	much, a lot, many; very . and
 777816	and thin cane, reed
 777818	horse
 777820	and
 saddle
-to, for, upon, at, by: Admominal uses back; waist and
+and to, for, upon, at, by: Admominal uses back; waist
 club
 default demonstrative  almost, about to; connective particle .
 777826	club
@@ -48132,7 +48133,7 @@ weight
 777856	sitting; inhabited
 horse
 thin cane, reed
-777860	village from, with:
+777860	from, with: village
 777862	one; a 
 777866	village
 sky
@@ -48169,7 +48170,7 @@ house; home; verse (of poetry/song)
 777938	side, direction
 always; again; still; as soon as; directly; just, only; the same; surely .
 777944	tall willow tree
-777946	upon and
+777946	and upon
 777950	preverbal particle
 default demonstrative  tall willow tree
 777954	upon
@@ -48177,19 +48178,19 @@ default demonstrative  tall willow tree
 777958	speaker deixis demonstrative  or
 777960	utility; utensil, tool
 speaker deixis demonstrative  and
-small child
-name in, at, on, with, by means of.
+child small
+in, at, on, with, by means of. name
 and
-777966	one; a  day; sun.
+777966	day; sun. one; a 
 two
-three and
-777971	place, space. one; a 
-777974	place, space. one; a 
+and three
+777971	one; a  place, space.
+777974	one; a  place, space.
 breath; time, instance; yes.
 777977	default demonstrative 
 777979	three
 day; sun.
-three and
+and three
 777984	asleep
 777987	to, for.
 nephew (son of sister)
@@ -48202,7 +48203,7 @@ thief (§2.5.2. iv)
 777998	horse
 778000	good, well.
 778003	sitting; inhabited
-778007	default demonstrative  and tall willow tree
+778007	and default demonstrative  tall willow tree
 presentative particle in, at, on, with, by means of.
 778011	and thin cane, reed
 778014	in, at, on, with, by means of. tall willow tree
@@ -48213,23 +48214,23 @@ tall willow tree
 breath; time, instance; yes. one; a 
 778023	negative copula
 preverbal particle
-thing one; a 
+one; a  thing
 778028	horse
 like, as; when.
-like, as; when. lightning; electricity
+lightning; electricity like, as; when.
 778032	light
 778035	man, person; family relative
 778037	what; why?; how could it be? how (exclamatory).
 and
 default demonstrative  light
-default demonstrative  fire; Hell fire
-default demonstrative  thing
+fire; Hell fire default demonstrative 
+thing default demonstrative 
 side, direction
 horse
 man, person; family relative
 to, for, upon, at, by: Admominal uses back; waist
-in, at, on, with, by means of. negative copula
-778048	like, as; when. fire; Hell fire
+negative copula in, at, on, with, by means of.
+778048	fire; Hell fire like, as; when.
 and light
 778053	cave in; concerning; compared with; by (oath). one; a 
 in; concerning; compared with; by (oath). mountain; region of mountains
@@ -48241,20 +48242,20 @@ thing not any
 778065	until, up to; before; until when.
 three
 day; sun.
-778073	nephew (son of sister) presentative particle
+778073	presentative particle nephew (son of sister)
 778075	negative existential particle 
 778077	thing not any 
 thief (§2.5.2. iv)
 778081	yes in, at, on, with, by means of.
 778083	until, up to; before; until when.
-story; affair and
+and story; affair
 778087	fire; Hell fire one; a 
-778089	in, at, on, with, by means of. negative copula
-like, as; when. here
+778089	negative copula in, at, on, with, by means of.
+here like, as; when.
 778092	I
 778094	speaker deixis demonstrative 
 stick, goad; whip
-778099	and negative copula
+778099	negative copula and
 778101	thing not any 
 presentative particle; but; otherwise .
 some, a few, a little (quantity) 
@@ -48290,7 +48291,7 @@ I
 stubborn, obstinate
 youth (approx. 6-14 years)
 small
-name in, at, on, with, by means of.
+in, at, on, with, by means of. name
 presentative particle; but; otherwise .
 also, even; connective particle .
 hero, strongman
@@ -48302,8 +48303,8 @@ or
 asleep
 head; top; beginning.
 778185	in; concerning; compared with; by (oath).
-girl; daughter one; a 
-girl; daughter one; a 
+one; a  girl; daughter
+one; a  girl; daughter
 much, a lot, many; very .
 beautiful; beautiful woman; young woman
 default demonstrative  girl; daughter
@@ -48343,7 +48344,7 @@ girl; daughter
 from, with:
 778247	obliged; forced
 also, even; connective particle .
-or man, person; family relative
+man, person; family relative or
 778252	default demonstrative  girl; daughter
 also, even; connective particle . or
 hero, strongman
@@ -48354,7 +48355,7 @@ woman; wife
 778264	from, with:
 speaker deixis demonstrative 
 hero, strongman
-778269	father; term of endearment. and from, with:
+778269	and from, with: father; term of endearment.
 and mother
 778274	cave in; concerning; compared with; by (oath).
 778276	now
@@ -48374,13 +48375,13 @@ nephew (son of sister)
 778306	and
 778308	presentative particle what; why?; how could it be? how (exclamatory).
 778310	until, up to; before; until when.
-story; affair and
+and story; affair
 778314	negative copula or
 778317	I
 in, at, on, with, by means of.
 778321	and
 cave in; concerning; compared with; by (oath).
-778324	presentative particle; but; otherwise . default demonstrative  man, person; family relative
+778324	presentative particle; but; otherwise . man, person; family relative default demonstrative 
 there
 speaker deixis demonstrative 
 default demonstrative 
@@ -48402,7 +48403,7 @@ side, direction
 778361	club
 in; concerning; compared with; by (oath).
 man, person; family relative
-778365	default demonstrative  and girl; daughter
+778365	and default demonstrative  girl; daughter
 778372	horse
 and
 778377	girl; daughter
@@ -48422,7 +48423,7 @@ to, for.
 778405	side, direction
 778408	father; term of endearment.
 778413	negative copula if ; either/or ; interrogative particle.
-778417	in, at, on, with, by means of. and strength, force, power
+778417	strength, force, power in, at, on, with, by means of. and
 finally
 778420	thus, like this, so, such because
 hero
@@ -48437,10 +48438,10 @@ now
 778437	horse
 778440	and
 in, at, on, with, by means of. road; way.
-778443	nephew (son of sister) to, for.
+778443	to, for. nephew (son of sister)
 778447	to, for, upon, at, by: Admominal uses
 778450	girl; daughter
-778455	in, at, on, with, by means of. day; sun.
+778455	day; sun. in, at, on, with, by means of.
 778457	nephew (son of sister)
 778463	speaker deixis demonstrative 
 778466	side, direction
@@ -48449,27 +48450,27 @@ side, direction
 speaker deixis demonstrative 
 778473	to, for.
 about, concerning
-778476	father; term of endearment. from, with:
+778476	from, with: father; term of endearment.
 778478	speaker deixis demonstrative  because
 778480	man, person; family relative
 778482	side, direction
 778484	if ; either/or ; interrogative particle.
-778487	father; term of endearment. from, with: household of; family of
+778487	household of; family of from, with: father; term of endearment.
 778489	finally
 778492	to, for.
-778494	upon in, at, on, with, by means of.
+778494	in, at, on, with, by means of. upon
 girl; daughter
 778503	time, instance
 778505	day; sun.
 day; sun. one; a  and
 two
-three and
+and three
 presentative particle
 ripe
 778512	father; term of endearment.
 girl; daughter
-778515	one; a  town
-778519	place, space. one; a 
+778515	town one; a 
+778519	one; a  place, space.
 778522	town
 778524	to, for.
 nephew (son of sister)
@@ -48478,12 +48479,12 @@ sitting; inhabited
 here
 and
 778532	here
-and I
+I and
 girl; daughter
-778536	father; term of endearment. household of; family of
+778536	household of; family of father; term of endearment.
 778540	girl; daughter
 and
-778545	default demonstrative  man, person; family relative
+778545	man, person; family relative default demonstrative 
 778548	girl; daughter
 778552	word
 to, for, upon, at, by: Admominal uses
@@ -48494,7 +48495,7 @@ girl; daughter
 speaker deixis demonstrative 
 man, person; family relative
 from, with:
-one; a  hero, strongman
+hero, strongman one; a 
 778571	girl; daughter
 778575	preverbal particle
 778581	default demonstrative 
@@ -48506,27 +48507,27 @@ how? how could it?
 778597	default demonstrative  girl; daughter
 from, with:
 particle expressing necessity (deontic and epistemic)
-speaker deixis demonstrative  much, a lot, many; very .
+much, a lot, many; very . speaker deixis demonstrative 
 778603	value
 778606	peace; greeting
 778608	sitting; inhabited
-in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
+gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
 and
 man; married man, husband; gentleman, courtier; valiant man
 and man, person; family relative
 hero, strongman
 778615	every; all, all of .
-778617	in; concerning; compared with; by (oath). gathering of people; reception; audience chamber
-girl; daughter and
-778620	in; concerning; compared with; by (oath). room one; a 
+778617	gathering of people; reception; audience chamber in; concerning; compared with; by (oath).
+and girl; daughter
+778620	room in; concerning; compared with; by (oath). one; a 
 speaker deixis demonstrative 
 778624	from, with:
-default demonstrative  man, person; family relative
-778627	from, with: guest
+man, person; family relative default demonstrative 
+778627	guest from, with:
 you
 from, with:
 778632	food, a meal and
-778634	father; term of endearment. or
+778634	or father; term of endearment.
 girl; daughter
 sky
 778641	to, for. one; a 
@@ -48544,16 +48545,16 @@ thus, like this, so, such
 to, for, upon, at, by: Admominal uses
 778681	coffee
 to, for.
-default demonstrative  man serving coffee
+man serving coffee default demonstrative 
 preverbal particle
 leg; foot
 pipe upon
 preverbal particle
 778689	default demonstrative 
-778694	upon pool
+778694	pool upon
 778698	to, for, upon, at, by: Admominal uses man serving coffee
 778701	to, for, upon, at, by: Admominal uses
-778703	default demonstrative  man, person; family relative
+778703	man, person; family relative default demonstrative 
 default demonstrative 
 778707	speaker deixis demonstrative 
 job, profession, business; affair, thing
@@ -48565,16 +48566,16 @@ town
 778723	speaker deixis demonstrative 
 side, direction
 778728	problem; trouble; disaster
-778730	also, even; connective particle . one; a  and
+778730	and also, even; connective particle . one; a 
 negative copula
 and
-778734	default demonstrative  man, person; family relative
+778734	man, person; family relative default demonstrative 
 778738	there
 778740	there
-default demonstrative  negative copula
+negative copula default demonstrative 
 778745	guest
 778748	bed; bedding
-in; concerning; compared with; by (oath). room one; a 
+room in; concerning; compared with; by (oath). one; a 
 778751	or
 778753	three
 day; sun.
@@ -48586,23 +48587,23 @@ side, direction
 one; a 
 village
 778771	default demonstrative  tall willow tree
-in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 every; all, all of .
-778775	in, at, on, with, by means of. negative copula
-upon in, at, on, with, by means of. man, person; family relative
+778775	negative copula in, at, on, with, by means of.
+in, at, on, with, by means of. man, person; family relative upon
 and
 778779	before (spatial and temporal); in (adversity), from (adversity); on account of (adversity); instead of.
 day; sun.
 778783	in; concerning; compared with; by (oath). tent
 778785	word
-778787	to, for, upon, at, by: Admominal uses king
+778787	king to, for, upon, at, by: Admominal uses
 778789	one; a 
 village
 778793	leaf (of a plant); leafy branch (of a tree)
 778796	speaker deixis demonstrative 
 measure
 army
-778801	master, owner and
+778801	and master, owner
 negative copula
 man, person; family relative not any 
 about, concerning
@@ -48610,9 +48611,9 @@ about, concerning
 house; home; verse (of poetry/song)
 and
 army
-default demonstrative  day; sun.
+day; sun. default demonstrative 
 778814	two
-778817	one; a  side
+778817	side one; a 
 778819	town
 also, even; connective particle . default demonstrative  day; sun.
 default demonstrative  tall willow tree
@@ -48623,7 +48624,7 @@ house; home; verse (of poetry/song)
 778831	and
 778834	in; concerning; compared with; by (oath). tent
 778837	word
-778839	to, for, upon, at, by: Admominal uses king
+778839	king to, for, upon, at, by: Admominal uses
 778841	one; a 
 village
 town
@@ -48634,10 +48635,10 @@ town
 job, profession, business; affair, thing
 side, direction
 778856	finally
-778860	default demonstrative  king
+778860	king default demonstrative 
 778862	to, for.
 until, up to; before; until when.
-story; affair and
+and story; affair
 thus, like this, so, such
 what; why?; how could it be? how (exclamatory).
 story; affair
@@ -48656,13 +48657,13 @@ before (spatial and temporal); in (adversity), from (adversity); on account of (
 what; why?; how could it be? how (exclamatory).
 in; concerning; compared with; by (oath). tent
 778896	preverbal particle
-default demonstrative  stick, goad; whip
-778899	or stick, goad; whip
+stick, goad; whip default demonstrative 
+778899	stick, goad; whip or
 778902	army in; concerning; compared with; by (oath).
 preverbal particle
 each, every; whoever  one; a 
 preverbal particle
-one; a  side
+side one; a 
 king
 778910	speaker deixis demonstrative 
 job, profession, business; affair, thing
@@ -48729,13 +48730,13 @@ king
 779049	you
 779052	I
 779059	and
-head; top; beginning. and
+and head; top; beginning.
 779063	wound
 in; concerning; compared with; by (oath). head; top; beginning.
 779069	to, for.
 779074	thing not any 
 negative copula
-779080	army and
+779080	and army
 779082	every; all, all of .
 half; middle.
 779086	we
@@ -48744,8 +48745,8 @@ half; middle.
 I
 779094	speaker deixis demonstrative 
 girl; daughter
-779098	if ; either/or ; interrogative particle. in, at, on, with, by means of. humanity
-if ; either/or ; interrogative particle. in, at, on, with, by means of. strength, force, power
+779098	humanity in, at, on, with, by means of. if ; either/or ; interrogative particle.
+strength, force, power in, at, on, with, by means of. if ; either/or ; interrogative particle.
 779101	to, for.
 779103	finally
 779105	obliged; forced
@@ -48756,12 +48757,12 @@ preverbal particle
 779118	to, for.
 779121	horse
 and
-default demonstrative  man, person; family relative
+man, person; family relative default demonstrative 
 and
 respect; good will; favour
 779127	and
 779129	day; sun. one; a  and
-two and
+and two
 three
 779137	and
 default demonstrative  girl; daughter
@@ -48771,19 +48772,19 @@ seven
 day; sun. and
 seven
 and
-and drum.
+drum. and
 pipe
 preverbal particle and
 to, for, upon, at, by: Admominal uses
 779153	default demonstrative  girl; daughter
-and I
+I and
 779156	there
 and
 here
-779160	one; a  king
+779160	king one; a 
 779162	man, person; family relative
 779165	father; term of endearment.
-girl; daughter and
+and girl; daughter
 779172	brother
 779174	from, with: reciprocal pronoun 
 779176	man; married man, husband; gentleman, courtier; valiant man
@@ -48805,13 +48806,13 @@ clever
 in, at, on, with, by means of.
 one; a  man, person; family relative to, for; so that.
 paralysed
-in; concerning; compared with; by (oath). oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
+oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs in; concerning; compared with; by (oath).
 what? 
 779212	preverbal particle
 father; term of endearment.
 779215	one; a  man, person; family relative to, for; so that.
 paralysed
-in; concerning; compared with; by (oath). oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
+oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs in; concerning; compared with; by (oath).
 day; sun.
 779220	day; sun.
 779222	thus, like this, so, such
@@ -48824,7 +48825,7 @@ stubbornness
 779237	stubbornness
 father; term of endearment.
 speaker deixis demonstrative 
-779244	paralysed one; a 
+779244	one; a  paralysed
 what; why?; how could it be? how (exclamatory).
 in, at, on, with, by means of. man, person; family relative
 paralysed
@@ -48835,23 +48836,23 @@ preverbal particle
 in; concerning; compared with; by (oath).
 779255	good
 779260	daily
-wood; piece of wood seven
+seven wood; piece of wood
 779266	market
 779268	money
 and
 and
 first
-market and
+and market
 779274	and
 779276	preverbal particle
 thus; like that; the same; so much.
-779279	default demonstrative  man, person; family relative
+779279	man, person; family relative default demonstrative 
 stroke (of a stick, whip)
-always; again; still; as soon as; directly; just, only; the same; surely . in; concerning; compared with; by (oath). town
+town in; concerning; compared with; by (oath). always; again; still; as soon as; directly; just, only; the same; surely .
 or
 779285	shop
-779287	village one; a 
-779289	village in; concerning; compared with; by (oath). one; a 
+779287	one; a  village
+779289	in; concerning; compared with; by (oath). one; a  village
 779292	side, direction
 in; concerning; compared with; by (oath).
 779295	breath; time, instance; yes. one; a 
@@ -48872,7 +48873,7 @@ default demonstrative
 mule
 every; all, all of .
 779332	king
-779334	one; a  book; letter
+779334	book; letter one; a 
 from, with:
 779339	preverbal particle
 779341	king
@@ -48883,7 +48884,7 @@ you
 779356	which?
 779359	one; a  man, person; family relative
 paralysed
-in; concerning; compared with; by (oath). oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
+oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs in; concerning; compared with; by (oath).
 preverbal particle
 779364	king
 779366	pleasant, beautiful; delicious; healthy; sharp.
@@ -48899,13 +48900,13 @@ one; a
 779403	there
 and man; married man, husband; gentleman, courtier; valiant man
 always; again; still; as soon as; directly; just, only; the same; surely .
-779407	hour one; a 
+779407	one; a  hour
 779413	to, for, upon, at, by: Admominal uses
 779415	marble
 779418	marble
-779420	from, with: side
-and side from, with:
-779423	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+779420	side from, with:
+side and from, with:
+779423	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 779430	father; term of endearment.
 779432	honoured
 in; concerning; compared with; by (oath).
@@ -48979,10 +48980,10 @@ father; term of endearment.
 779547	I
 779555	speaker deixis demonstrative 
 779559	master, owner
-779561	one; a  king
+779561	king one; a 
 speaker deixis demonstrative 
 king
-779565	one; a  dream
+779565	dream one; a 
 and morning
 779568	every; all, all of .
 man, person; family relative
@@ -48993,7 +48994,7 @@ gold; gold coin
 779578	each, every; whoever 
 779582	speaker deixis demonstrative 
 king
-779586	in, at, on, with, by means of. dream
+779586	dream in, at, on, with, by means of.
 779588	in, at, on, with, by means of.
 hundred
 gold; gold coin
@@ -49019,10 +49020,10 @@ speaker deixis demonstrative
 thin cane, reed
 king
 king
-779640	one; a  dream
+779640	dream one; a 
 master, owner
 each, every; whoever 
-779645	in, at, on, with, by means of. dream
+779645	dream in, at, on, with, by means of.
 and
 about, concerning; on account of; in, by.
 thousand
@@ -49038,7 +49039,7 @@ perhaps
 779664	snake default demonstrative 
 779667	I if ; either/or ; interrogative particle.
 779671	king
-in, at, on, with, by means of. dream
+dream in, at, on, with, by means of.
 speaker deixis demonstrative 
 thousand
 gold; gold coin
@@ -49051,7 +49052,7 @@ hundred
 every; all, all of .
 779691	half; middle.
 779693	half; middle.
-779699	to, for. king
+779699	king to, for.
 779701	in, at, on, with, by means of.
 world, weather. (K./A.)
 779704	fox
@@ -49087,7 +49088,7 @@ negative copula
 thus, like this, so, such
 779775	one; a  month
 king
-779778	one; a  dream
+779778	dream one; a 
 other, another; more; again; discourse particle.
 again
 779782	dream
@@ -49103,7 +49104,7 @@ snake from, with:
 779798	to, for.
 779802	master, owner
 779805	forgiveness; sorry!
-779808	stamp, seal and
+779808	and stamp, seal
 779814	perhaps
 side, direction
 there
@@ -49144,7 +49145,7 @@ from, with:
 779884	half; middle.
 779886	half; middle.
 779891	king
-in, at, on, with, by means of. dream
+dream in, at, on, with, by means of.
 world, weather. (K./A.)
 779895	wolf
 now
@@ -49166,7 +49167,7 @@ again
 gold; gold coin
 779932	thousand
 gold; gold coin
-779935	one; a  and almost, about to; connective particle .
+779935	and one; a  almost, about to; connective particle .
 779939	snake
 speaker deixis demonstrative 
 breath; time, instance; yes.
@@ -49174,24 +49175,24 @@ breath; time, instance; yes.
 large smooth stone
 in; concerning; compared with; by (oath).
 snake
-779950	default demonstrative  large smooth stone
+779950	large smooth stone default demonstrative 
 snake in, at, on, with, by means of.
 to, for; so that.
 779954	snake
 snake
-779960	in; concerning; compared with; by (oath). hole
-in; concerning; compared with; by (oath). hole
+779960	hole in; concerning; compared with; by (oath).
+hole in; concerning; compared with; by (oath).
 779966	from, with: there
 779968	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 thousand
 gold; gold coin
 one; a  almost, about to; connective particle .
-779976	one; a  two month
+779976	two one; a  month
 779978	again
-779980	one; a  dream
+779980	dream one; a 
 779982	king
 779984	again
-779986	one; a  dream
+779986	dream one; a 
 779991	in, at, on, with, by means of.
 779993	thousand
 gold; gold coin
@@ -49210,7 +49211,7 @@ also, even; connective particle .
 780020	snake
 780022	and
 forgiveness; sorry!
-780027	also, even; connective particle . money
+780027	money also, even; connective particle .
 every; all, all of .
 780032	half; middle.
 also, even; connective particle .
@@ -49220,7 +49221,7 @@ first
 780041	snake
 780043	to, for, upon, at, by: Admominal uses
 780045	presentative particle
-780048	large smooth stone in, at, on, with, by means of.
+780048	in, at, on, with, by means of. large smooth stone
 780053	thin cane, reed
 780055	God 
 780057	side, direction
@@ -49232,7 +49233,7 @@ breath; time, instance; yes. speaker deixis demonstrative
 780071	half; middle.
 780073	half; middle.
 780081	vocative particle
-780083	to, for. king
+780083	king to, for.
 world, weather. (K./A.)
 780086	male lamb
 world, weather. (K./A.)
@@ -49250,7 +49251,7 @@ breath; time, instance; yes.
 780116	thousand
 gold; gold coin
 780119	or
-one; a  above; directly
+above; directly one; a 
 from, with: there
 780123	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
 also, even; connective particle .
@@ -49260,7 +49261,7 @@ gold; gold coin
 peace; greeting
 780132	snake
 in, at, on, with, by means of. peace
-in, at, on, with, by means of. blessings, greetings
+blessings, greetings in, at, on, with, by means of.
 780138	every; all, all of .
 gold; gold coin
 780141	three
@@ -49278,16 +49279,16 @@ side, direction
 household of; family of
 780162	I
 780164	household of; family of
-lord, prince and
-780167	lord, prince and
+and lord, prince
+780167	and lord, prince
 good
-lord, prince and
+and lord, prince
 780171	presentative particle; but; otherwise .
 780174	time, instance default demonstrative 
 first
 780177	to, for, upon, at, by: Admominal uses
 780180	king
-780182	in, at, on, with, by means of. dream
+780182	dream in, at, on, with, by means of.
 world, weather. (K./A.)
 780185	fox
 default demonstrative 
@@ -49297,12 +49298,12 @@ tricky
 also, even; connective particle .
 780196	money
 780198	tricky
-like, as; when. time; period of time
+time; period of time like, as; when.
 time; period of time
 preverbal particle
 tricky
 side, direction
-780206	one; a  circuit; circuitous route, detour
+780206	circuit; circuitous route, detour one; a 
 until, up to; before; until when.
 780210	and
 780217	what; why?; how could it be? how (exclamatory).
@@ -49323,17 +49324,17 @@ default demonstrative
 time; period of time
 780243	world, weather. (K./A.)
 780245	wolf
-780248	killing, murder and
+780248	and killing, murder
 and blood
-780251	maternal uncle one; a 
+780251	one; a  maternal uncle
 other, another; more; again; discourse particle. default demonstrative 
 one; a 
 other, another; more; again; discourse particle. default demonstrative 
 also, even; connective particle .
 from, with:
 780259	money
-780261	one; a  large smooth stone
-default demonstrative  large smooth stone
+780261	large smooth stone one; a 
+large smooth stone default demonstrative 
 if ; either/or ; interrogative particle.
 blunt
 780268	I
@@ -49341,7 +49342,7 @@ blunt
 780273	again
 780276	killing, murder
 also, even; connective particle .
-780279	in; concerning; compared with; by (oath). time; period of time
+780279	time; period of time in; concerning; compared with; by (oath).
 780281	killing, murder
 780283	murderer
 780286	king
@@ -49360,10 +49361,10 @@ about, concerning; on account of; in, by.
 money
 now
 780312	particle expressing prominence 
-speaker deixis demonstrative  money
+money speaker deixis demonstrative 
 every; all, all of .
 780316	I
-780319	sky, heaven to, for, upon, at, by: Admominal uses
+780319	to, for, upon, at, by: Admominal uses sky, heaven
 780321	in, at, on, with, by means of. peace
 780323	there
 and
@@ -49378,7 +49379,7 @@ approximately
 in, at, on, with, by means of.
 child one; a 
 small
-small side, direction
+side, direction small
 780341	ripe
 eighteen
 twenty
@@ -49431,7 +49432,7 @@ from, with:
 head; top; beginning.
 780431	also; even; again.
 what? 
-780435	one; a  mountain; region of mountains in, at, on, with, by means of.
+780435	in, at, on, with, by means of. one; a  mountain; region of mountains
 780440	asseverative particle; why?; remonstrating particle .
 side, direction
 speaker deixis demonstrative 
@@ -49439,7 +49440,7 @@ mountain; region of mountains
 780447	to, for, upon, at, by: Admominal uses
 mountain; region of mountains
 780451	dog
-son of dog
+dog son of
 780454	other, another; more; again; discourse particle. one; a 
 from, with:
 780457	problem; trouble; disaster
@@ -49458,35 +49459,35 @@ child
 side, direction
 780479	mountain; region of mountains
 780481	plain; level ground
-one; a  and
+and one; a 
 town
 big; great; old.
 there
 speaker deixis demonstrative 
 780488	man, person; family relative
-in; concerning; compared with; by (oath). town
-default demonstrative  man, person; family relative
+town in; concerning; compared with; by (oath).
+man, person; family relative default demonstrative 
 old (man); grandfather; ancestor
 780493	child to, for.
 small
 780496	where? how?
 780498	I
-place, space. not any 
-780502	mosque in; concerning; compared with; by (oath).
-780504	mosque in; concerning; compared with; by (oath).
+not any  place, space.
+780502	in; concerning; compared with; by (oath). mosque
+780504	in; concerning; compared with; by (oath). mosque
 speaker deixis demonstrative 
 value
 780508	to, for, upon, at, by: Admominal uses
-780510	default demonstrative  man, person; family relative
+780510	man, person; family relative default demonstrative 
 big; great; old.
-780513	girl; daughter one; a 
+780513	one; a  girl; daughter
 and
 and
 palace; large house (consisting of two storeys and made of dressed stones)
 palace; large house (consisting of two storeys and made of dressed stones)
 780519	good, well.
 master, owner
-780523	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+780523	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 780527	presentative particle
 780529	how? how could it be? like, just as; when
 780531	good, well.
@@ -49496,7 +49497,7 @@ if ; either/or ; interrogative particle. side, direction
 comfortable, at ease, content
 presentative particle; but; otherwise .
 780541	child one; a 
-delinquent; tiresome one; a 
+one; a  delinquent; tiresome
 780546	how? how could it be? like, just as; when
 780551	road; way.
 one; a  man, person; family relative
@@ -49523,7 +49524,7 @@ and what; why?; how could it be? how (exclamatory).
 780598	wood; piece of wood
 from, with:
 780601	nail
-saw and
+and saw
 780604	bridge
 780606	head; top; beginning.
 head; top; beginning.
@@ -49544,7 +49545,7 @@ what; why?; how could it be? how (exclamatory).
 780643	preverbal particle
 side, direction
 780646	side, direction
-780650	mosque in; concerning; compared with; by (oath).
+780650	in; concerning; compared with; by (oath). mosque
 780652	what? 
 780654	food; nourishment
 780657	food, a meal
@@ -49554,17 +49555,17 @@ egg
 and
 thirty
 bread; loaf of bread
-shoulder bag in; concerning; compared with; by (oath).
-780670	mosque in; concerning; compared with; by (oath).
+in; concerning; compared with; by (oath). shoulder bag
+780670	in; concerning; compared with; by (oath). mosque
 780672	speaker deixis demonstrative 
 780674	in, at, on, with, by means of. road; way.
-one; a  egg
-one; a  and bread; loaf of bread
+egg one; a 
+and one; a  bread; loaf of bread
 780683	presentative particle
 speaker deixis demonstrative 
 food, a meal
 780690	presentative particle; but; otherwise .
-six egg
+egg six
 bread; loaf of bread
 780694	presentative particle; but; otherwise .
 780696	twenty
@@ -49574,12 +49575,12 @@ bread; loaf of bread
 780704	to, for. what; why?; how could it be? how (exclamatory).
 780706	we
 780708	Saturday; week
-780710	day; sun. seven
+780710	seven day; sun.
 and month
 780713	thirty day; sun.
 you
 780716	six
-780718	nine twenty and
+780718	nine and twenty
 side, direction
 780724	default demonstrative 
 and
@@ -49595,13 +49596,13 @@ thus, like this, so, such
 780750	and
 thirty
 780754	you
-780757	six day; sun.
+780757	day; sun. six
 and
-780760	nine twenty and day; sun.
+780760	nine and day; sun. twenty
 780762	side, direction
 780768	in, at, on, with, by means of. road; way.
-780770	one; a  and bread; loaf of bread
-one; a  egg
+780770	and one; a  bread; loaf of bread
+egg one; a 
 780773	yes
 780775	from, with:
 780778	I
@@ -49609,15 +49610,15 @@ one; a  egg
 and
 780784	month
 you
-one; a  egg
+egg one; a 
 780788	Saturday; week from, with:
-780790	six day; sun.
-one; a  and bread; loaf of bread
+780790	day; sun. six
+and one; a  bread; loaf of bread
 780793	from, with: month
-780796	nine twenty and day; sun.
+780796	nine and day; sun. twenty
 780801	here
 and
-780807	default demonstrative  man, person; family relative
+780807	man, person; family relative default demonstrative 
 dead
 780810	what; why?; how could it be? how (exclamatory).
 780814	always; again; still; as soon as; directly; just, only; the same; surely .
@@ -49634,7 +49635,7 @@ if ; either/or ; interrogative particle. side, direction
 one; a  man, person; family relative
 to, for, upon, at, by: Admominal uses
 780832	father; term of endearment. side, direction
-side, direction mother
+mother side, direction
 also, even; connective particle . one; a  side, direction
 or
 780838	man, person; family relative
@@ -49654,7 +49655,7 @@ or
 side, direction
 780862	bridge
 wood; piece of wood in, at, on, with, by means of.
-here and
+and here
 here
 one; a 
 780868	other, another; more; again; discourse particle. default demonstrative 
@@ -49664,8 +49665,8 @@ one; a
 in, at, on, with, by means of.
 other, another; more; again; discourse particle. default demonstrative 
 side, direction
-780880	also, even; connective particle . speaker deixis demonstrative 
-780882	mountain; region of mountains in, at, on, with, by means of.
+780880	speaker deixis demonstrative  also, even; connective particle .
+780882	in, at, on, with, by means of. mountain; region of mountains
 780886	to, for, upon, at, by: Admominal uses mountain; region of mountains
 or side, direction
 780891	mountain; region of mountains
@@ -49675,21 +49676,21 @@ mountain; region of mountains
 stroke (of a stick, whip)
 780900	or
 780906	mountain; region of mountains
-780909	here and
+780909	and here
 here
 780912	in, at, on, with, by means of.
 780916	here
 780919	one; a  almost, about to; connective particle .
 780922	and
 780924	house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
-780926	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+780926	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 780929	speaker deixis demonstrative 
 780933	girl; daughter
 master, owner
 from, with:
 bendy, crooked
 always; again; still; as soon as; directly; just, only; the same; surely .
-780939	vocative particle man, person; family relative
+780939	man, person; family relative vocative particle
 master, owner
 thus, like this, so, such
 780943	bendy, crooked
@@ -49698,20 +49699,20 @@ straight; right, correct
 negative copula
 bendy, crooked
 here
-here to, for, upon, at, by: Admominal uses
+to, for, upon, at, by: Admominal uses here
 finally; afterwards, then; recently
 780953	from, with: reciprocal pronoun 
 child and
 girl
 780957	I
-780960	also, even; connective particle . I
+780960	I also, even; connective particle .
 780963	to, for, upon, at, by: Admominal uses reciprocal pronoun 
 780965	to, for, upon, at, by: Admominal uses reciprocal pronoun 
 king
 780969	child one; a 
 780972	there
 780974	much, a lot, many; very .
-780976	also, even; connective particle . and
+780976	and also, even; connective particle .
 780980	much, a lot, many; very .
 780983	word
 child
@@ -49730,7 +49731,7 @@ master, owner
 781009	what? 
 781011	speaker deixis demonstrative 
 781013	meaning
-781017	board; wooden bed; throne. one; a 
+781017	one; a  board; wooden bed; throne.
 781019	ladder
 781021	in; concerning; compared with; by (oath).
 781023	nail
@@ -49746,9 +49747,9 @@ speaker deixis demonstrative
 speaker deixis demonstrative 
 other, another; more; again; discourse particle.
 781040	king
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 781043	king
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 781048	and
 in, at, on, with, by means of.
 781052	girl; daughter
@@ -49780,7 +49781,7 @@ default demonstrative
 default demonstrative 
 always; again; still; as soon as; directly; just, only; the same; surely .
 and
-781102	particle expressing prominence  come on! let’s go!
+781102	come on! let’s go! particle expressing prominence 
 stroke (of a stick, whip)
 781106	king
 781109	preverbal particle
@@ -49788,11 +49789,11 @@ stroke (of a stick, whip)
 and
 781117	side
 which?
-781120	in; concerning; compared with; by (oath). room
+781120	room in; concerning; compared with; by (oath).
 781126	morning
 hour
 four
-in, at, on, with, by means of. negative copula
+negative copula in, at, on, with, by means of.
 781131	king
 presentative particle; but; otherwise .
 in; concerning; compared with; by (oath). bathroom, toilet
@@ -49800,9 +49801,9 @@ speaker deixis demonstrative
 negative copula
 781137	stroke (of a stick, whip)
 781144	morning
-781146	girl; daughter and
-781148	place, space. which?
-here and
+781146	and girl; daughter
+781148	which? place, space.
+and here
 here
 behind; after; through.
 three month
@@ -49828,12 +49829,12 @@ default demonstrative  nail
 781200	I
 781202	side, direction
 781205	stamp, seal
-to, for. king
-781208	vineyard; orchard one; a 
+king to, for.
+781208	one; a  vineyard; orchard
 781211	vine
 and apple; apple tree
 and
-thing one; a 
+one; a  thing
 781216	food, a meal
 781218	one; a  man, person; family relative
 preverbal particle
@@ -49843,7 +49844,7 @@ negative copula
 and side, direction
 781225	negative copula
 thus, like this, so, such
-781228	to, for. king
+781228	king to, for.
 what; why?; how could it be? how (exclamatory).
 in, at, on, with, by means of.
 king
@@ -49857,7 +49858,7 @@ man, person; family relative
 781251	king to, for; so that.
 or
 last, recent
-781255	first from, with:
+781255	from, with: first
 781258	what; why?; how could it be? how (exclamatory).
 781261	what; why?; how could it be? how (exclamatory).
 781264	default demonstrative  first
@@ -49867,10 +49868,10 @@ turn
 781273	turn
 781277	you
 781279	story; affair
-781282	vocative particle king
+781282	king vocative particle
 781284	pleasant, beautiful; delicious; healthy; sharp.
 781287	one; a  man, person; family relative
-781289	vineyard; orchard one; a 
+781289	one; a  vineyard; orchard
 781291	in, at, on, with, by means of.
 and
 tired
@@ -49918,15 +49919,15 @@ preverbal particle
 781387	lion
 presentative particle; but; otherwise .
 781390	like, as
-vineyard; orchard in; concerning; compared with; by (oath). from, with:
+from, with: in; concerning; compared with; by (oath). vineyard; orchard
 781394	thus, like this, so, such
 781397	yes
 781399	I
 from, with:
-behind; after; through. from, with:
+from, with: behind; after; through.
 781404	and bridegroom; son-in-law; father-in-law; husband of a relative (e.g. husband of paternal or maternal aunt, husband of a sister)
 house; home; verse (of poetry/song) to, for, upon, at, by: Admominal uses
-781407	now and
+781407	and now
 781409	I
 meaning
 781413	king and
@@ -49940,7 +49941,7 @@ seven
 daughter-in-law
 seven
 water-mill
-sheep; goat and
+and sheep; goat
 every; all, all of .
 thing
 seven
@@ -49961,8 +49962,8 @@ every; all, all of .
 781457	speaker deixis demonstrative 
 workman
 781463	daughter-in-law one; a 
-781465	still; (not) yet; (no) longer . one; a  and guest
-781467	nanny goat one; a  and
+781465	guest and one; a  still; (not) yet; (no) longer .
+781467	and nanny goat one; a 
 781470	every; all, all of .
 781474	presentative particle
 781476	in, at, on, with, by means of.
@@ -49980,18 +49981,18 @@ in; concerning; compared with; by (oath).
 preverbal particle
 in; concerning; compared with; by (oath).
 781506	every; all, all of .
-781509	in; concerning; compared with; by (oath). house; home; verse (of poetry/song)
+781509	house; home; verse (of poetry/song) in; concerning; compared with; by (oath).
 781511	peace; greeting
 781514	in, at, on, with, by means of. peace
 781516	measure
 781519	paternal uncle
-781523	still; (not) yet; (no) longer . oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
+781523	oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs still; (not) yet; (no) longer .
 781525	oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
 781527	oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
 oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
 781531	measure
 781535	to, for, upon, at, by: Admominal uses
-stroke (of a stick, whip) from, with:
+from, with: stroke (of a stick, whip)
 781540	oven (for baking bread); section of women’s blouse (ṣudra) that covers the legs
 preverbal particle
 bread; loaf of bread
@@ -50005,9 +50006,9 @@ measure
 781561	to, for, upon, at, by: Admominal uses
 until, up to; before; until when.
 781565	thin cane, reed
-alley; narrow street one; a  in, at, on, with, by means of.
+alley; narrow street in, at, on, with, by means of. one; a 
 781573	bridesmaid; female companion of bride and groom at a wedding
-781576	cradle in, at, on, with, by means of.
+781576	in, at, on, with, by means of. cradle
 781580	little weeping, weeping of a little child
 negative copula
 781583	little weeping, weeping of a little child
@@ -50016,7 +50017,7 @@ in; concerning; compared with; by (oath).
 781590	preverbal particle
 voice; utterance; song; sound.
 781597	and
-781608	soil, ground; land and
+781608	and soil, ground; land
 fine dust
 what; why?; how could it be? how (exclamatory).
 781612	voice; utterance; song; sound.
@@ -50024,7 +50025,7 @@ fine; tiny
 under sieve with medium sized holes
 fine; tiny
 under sieve with medium sized holes
-781619	place, space. one; a 
+781619	one; a  place, space.
 fine; tiny
 side, direction
 781623	one; a  almost, about to; connective particle .
