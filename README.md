@@ -6,4 +6,4 @@ Northeastern Neo-Aramaic consists of a very diverse group of Aramaic dialects th
 
 This text corpus consists of transcribed and recorded texts gathered by [Prof. Geoffrey Khan](https://www.ames.cam.ac.uk/people/professor-geoffrey-khan) and his team in their efforts to preserve these increasingly endangered languages. The corpus is encoded in [Text-Fabric format](http://github.com/annotation/text-fabric) for the purpose of aiding ongoing linguistic research. Linguistic annotations are to be added throughout the project.
 
-## See [documentation](features.md).
+## See [documentation](docs/features.md).
