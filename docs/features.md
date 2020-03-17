@@ -60,7 +60,9 @@ name of a dialect in Northeastern Neo-Aramaic
 | Barwar    |           1 |
 | Urmi_C    |           1 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## title
 
 title of a text (story)
@@ -79,7 +81,9 @@ A Dragon in the Well
 A Dutiful Son
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## version
 
 version of the story if there are multiple instances of the same story
@@ -95,7 +99,9 @@ version of the story if there are multiple instances of the same story
 | Version 1 |           1 |
 | Version 2 |           1 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## number
 
 sequential number of a paragraph or line within a text or paragraph, respectively
@@ -115,7 +121,9 @@ sequential number of a paragraph or line within a text or paragraph, respectivel
 5
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## text
 
 plain text representation of a letter, morpheme, or word
@@ -130,7 +138,9 @@ plain text representation of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## text_norm
 
 plain text without accents
@@ -144,7 +154,9 @@ plain text without accents
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## full
 
 full transcription, one-to-one transcription of a letter, morpheme, or word
@@ -159,7 +171,9 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## lite
 
 lite transcription of a letter, morpheme, or word, without vowel accents
@@ -174,7 +188,9 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## fuzzy
 
 fuzzy transcription that leaves out most diacritics and maps certain characters in certain dialects to common characters
@@ -189,7 +205,9 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## end
 
 space, punctuation, or other stylistic text at the end of a morpheme or word
@@ -204,7 +222,9 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## full_end
 
 full transcription of punctuation or other stylistic text at the end of a morpheme or word; see also trans_f
@@ -219,7 +239,9 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## lite_end
 
 lite transcription of punctuation or other stylistic text at the end of a morpheme or word, excluding intonation boundary markers; see also trans_l
@@ -234,7 +256,9 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## fuzzy_end
 
 fuzzy transcription of punctuation or other stylistic text at the end of a morpheme or word, excluding intonation boundary markers; see also trans_l
@@ -249,7 +273,9 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 
 See the [transcription tables](transcription.md).
 
+[back to node types](#Node-Types)
 <hr>
+
 ## speaker
 
 name or initials of person speaking a morpheme or word; see also informant
@@ -269,7 +295,9 @@ Manya Givoyev
 Yuwəl Yuḥanna
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## footnotes
 
 explanatory footnote on a morpheme or text
@@ -287,7 +315,9 @@ explanatory footnote on a morpheme or text
 [^2]: None
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## lang
 
 language of a morpheme foreign to a text
@@ -309,7 +339,9 @@ language of a morpheme foreign to a text
 | Ge     |           6 |
 | F      |           4 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## foreign
 
 indicates whether a morpheme is foreign to a text; see also lang
@@ -325,7 +357,9 @@ indicates whether a morpheme is foreign to a text; see also lang
 |:----------|------------:|
 | True      |        1041 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## comment
 
 explanatory comment inserted in the text, stored on a morpheme
@@ -340,7 +374,9 @@ explanatory comment inserted in the text, stored on a morpheme
 *interruption*
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## continued_from
 
 text is a follow-up to the named text
@@ -355,7 +391,9 @@ text is a follow-up to the named text
 The Wife Who Learns How to Work
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## informant
 
 name of person who spoke these words
@@ -399,7 +437,9 @@ name of person who spoke these words
 | Nanəs Bənyamən      |           1 |
 | Nawiya ʾOdišo       |           1 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## place
 
 place a text was recorded
@@ -428,7 +468,9 @@ place a text was recorded
 | Spurġān, N             |           1 |
 | Ɛn Nune                |           1 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## source
 
 name of the file from which a text was converted
@@ -447,7 +489,9 @@ bar text a19-A23.html
 bar text A37-A40.html
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## text_id
 
 id of a text within its original publication; can overlap between publications
@@ -466,7 +510,9 @@ A13
 A14
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## class
 
 class of a letter (consonant or vowel)
@@ -482,7 +528,9 @@ class of a letter (consonant or vowel)
 | consonant |      311071 |
 | vowel     |      228310 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## lemma
 
 lemma of a word
@@ -502,7 +550,9 @@ b-
 la
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## lemma_form
 
 grammatical form of a word lemma
@@ -522,7 +572,9 @@ sing.
 f. and pl.
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
 ## grm_desc
 
 grammatical description of a word lemma
@@ -754,7 +806,9 @@ grammatical description of a word lemma
 | pron. pl. n.pl. part.     |           1 |
 | pron. pl. prep. pron.     |           1 |
 
+[back to node types](#Node-Types)
 <hr>
+
 ## gloss
 
 English gloss of a word lemma
@@ -774,4 +828,6 @@ speaker deixis demonstrative
 side, direction
 ```
 
+[back to node types](#Node-Types)
 <hr>
+
