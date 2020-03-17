@@ -58,7 +58,9 @@ name of a dialect in Northeastern Neo-Aramaic
 | dialect   |   frequency |
 |:----------|------------:|
 | Barwar    |           1 |
-| Urmi_C    |           1 |## title
+| Urmi_C    |           1 |
+
+## title
 
 title of a text (story)
 
@@ -67,8 +69,7 @@ title of a text (story)
 |:------------|------------:|
 | text        |         126 |
 
-**Values**
-examples:
+**Examples**
 ```
 A Close Shave
 A Cure for a Husband’s Madness
@@ -90,7 +91,9 @@ version of the story if there are multiple instances of the same story
 | version   |   frequency |
 |:----------|------------:|
 | Version 1 |           1 |
-| Version 2 |           1 |## number
+| Version 2 |           1 |
+
+## number
 
 sequential number of a paragraph or line within a text or paragraph, respectively
 
@@ -100,8 +103,7 @@ sequential number of a paragraph or line within a text or paragraph, respectivel
 | paragraph   |         351 |
 | line        |        2544 |
 
-**Values**
-examples:
+**Examples**
 ```
 1
 2
@@ -121,7 +123,7 @@ plain text representation of a letter, morpheme, or word
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## text_norm
@@ -134,7 +136,7 @@ plain text without accents
 | word        |       93762 |
 | morpheme    |      120148 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## full
@@ -148,7 +150,7 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## lite
@@ -162,7 +164,7 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## fuzzy
@@ -176,7 +178,7 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## end
@@ -190,7 +192,7 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## full_end
@@ -204,7 +206,7 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## lite_end
@@ -218,7 +220,7 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## fuzzy_end
@@ -232,7 +234,7 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 | morpheme    |      120148 |
 | letter      |      539381 |
 
-**Values**
+
 See the [transcription tables](transcription.md).
 
 ## speaker
@@ -245,8 +247,7 @@ name or initials of person speaking a morpheme or word; see also informant
 | word        |       93762 |
 | morpheme    |      120148 |
 
-**Values**
-examples:
+**Examples**
 ```
 Dawið ʾAdam
 Yulia Davudi
@@ -265,8 +266,7 @@ explanatory footnote on a morpheme or text
 | word        |           3 |
 | morpheme    |           3 |
 
-**Values**
-examples:
+**Examples**
 ```
 [^1]: None
 [^1]: The name Čuxo means ‘one who wears the woolen *čuxa* garment’.
@@ -292,7 +292,9 @@ language of a morpheme foreign to a text
 | Az     |         116 |
 | Arm    |          38 |
 | Ge     |           6 |
-| F      |           4 |## foreign
+| F      |           4 |
+
+## foreign
 
 indicates whether a morpheme is foreign to a text; see also lang
 
@@ -305,7 +307,9 @@ indicates whether a morpheme is foreign to a text; see also lang
 **Values**
 | foreign   |   frequency |
 |:----------|------------:|
-| True      |        1041 |## comment
+| True      |        1041 |
+
+## comment
 
 explanatory comment inserted in the text, stored on a morpheme
 
@@ -314,8 +318,7 @@ explanatory comment inserted in the text, stored on a morpheme
 |:------------|------------:|
 | morpheme    |           1 |
 
-**Values**
-examples:
+**Examples**
 ```
 *interruption*
 ```
@@ -329,8 +332,7 @@ text is a follow-up to the named text
 |:------------|------------:|
 | text        |           1 |
 
-**Values**
-examples:
+**Examples**
 ```
 The Wife Who Learns How to Work
 ```
@@ -376,7 +378,9 @@ name of person who spoke these words
 | Merab Badalov       |           1 |
 | Mišayel Barčəm      |           1 |
 | Nanəs Bənyamən      |           1 |
-| Nawiya ʾOdišo       |           1 |## place
+| Nawiya ʾOdišo       |           1 |
+
+## place
 
 place a text was recorded
 
@@ -402,7 +406,9 @@ place a text was recorded
 | Mushava, N             |           1 |
 | Mushawa, N             |           1 |
 | Spurġān, N             |           1 |
-| Ɛn Nune                |           1 |## source
+| Ɛn Nune                |           1 |
+
+## source
 
 name of the file from which a text was converted
 
@@ -411,8 +417,7 @@ name of the file from which a text was converted
 |:------------|------------:|
 | text        |         126 |
 
-**Values**
-examples:
+**Examples**
 ```
 cu vol 4 texts.html
 bar text a1-A7.html
@@ -430,8 +435,7 @@ id of a text within its original publication; can overlap between publications
 |:------------|------------:|
 | text        |         125 |
 
-**Values**
-examples:
+**Examples**
 ```
 A10
 A11
@@ -453,7 +457,9 @@ class of a letter (consonant or vowel)
 | class     |   frequency |
 |:----------|------------:|
 | consonant |      311071 |
-| vowel     |      228310 |## lemma
+| vowel     |      228310 |
+
+## lemma
 
 lemma of a word
 
@@ -463,8 +469,7 @@ lemma of a word
 | word        |       22815 |
 | morpheme    |       28963 |
 
-**Values**
-examples:
+**Examples**
 ```
 w, ʾu-
 ṱ
@@ -483,8 +488,7 @@ grammatical form of a word lemma
 | word        |        2263 |
 | morpheme    |        2276 |
 
-**Values**
-examples:
+**Examples**
 ```
 pl.
 f.
@@ -722,7 +726,9 @@ grammatical description of a word lemma
 | pron. pl. n.f. num.       |           1 |
 | pron. pl. n.f. part.      |           1 |
 | pron. pl. n.pl. part.     |           1 |
-| pron. pl. prep. pron.     |           1 |## gloss
+| pron. pl. prep. pron.     |           1 |
+
+## gloss
 
 English gloss of a word lemma
 
@@ -732,8 +738,7 @@ English gloss of a word lemma
 | word        |       21116 |
 | morpheme    |       28963 |
 
-**Values**
-examples:
+**Examples**
 ```
 and
 
