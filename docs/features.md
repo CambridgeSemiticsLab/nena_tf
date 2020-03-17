@@ -4,8 +4,9 @@ The NENA Text-Fabric (TF) corpus contains textual transcriptions and linguistic 
 
 ## Contents
 
-* [data model](#data-model)
-* [features](#features)
+* [Data Model](#Data-Model)
+* [Node Types](#Node-Types
+* [Features](#Features)
 
 ## Data Model
 
@@ -72,14 +73,135 @@ title of a text (story)
 |:------------|------------:|
 | text        |         126 |
 
-**Examples**
-```
-A Close Shave
-A Cure for a Husband’s Madness
-A Donkey Knows Best
-A Dragon in the Well
-A Dutiful Son
-```
+**Titles**
+| title                                         | dialect   |
+|:----------------------------------------------|:----------|
+| A Hundred Gold Coins                          | Barwar    |
+| A Man Called Čuxo                             | Barwar    |
+| A Tale of Two Kings                           | Barwar    |
+| A Tale of a Prince and a Princess             | Barwar    |
+| Baby Leliθa                                   | Barwar    |
+| Dəmdəma                                       | Barwar    |
+| Gozali and Nozali                             | Barwar    |
+| I Am Worth the Same as a Blind Wolf           | Barwar    |
+| Man Is Treacherous                            | Barwar    |
+| Measure for Measure                           | Barwar    |
+| Nanno and Jəndo                               | Barwar    |
+| Qaṭina Rescues His Nephew From Leliθa         | Barwar    |
+| Sour Grapes                                   | Barwar    |
+| Tales From the 1001 Nights                    | Barwar    |
+| The Battle With Yuwanəs the Armenian          | Barwar    |
+| The Bear and the Fox                          | Barwar    |
+| The Brother of Giants                         | Barwar    |
+| The Cat and the Mice                          | Barwar    |
+| The Cooking Pot                               | Barwar    |
+| The Crafty Hireling                           | Barwar    |
+| The Crow and the Cheese                       | Barwar    |
+| The Daughter of the King                      | Barwar    |
+| The Fox and the Lion                          | Barwar    |
+| The Fox and the Miller                        | Barwar    |
+| The Fox and the Stork                         | Barwar    |
+| The Giant’s Cave                              | Barwar    |
+| The Girl and the Seven Brothers               | Barwar    |
+| The King With Forty Sons                      | Barwar    |
+| The Leliθa From č̭āl                           | Barwar    |
+| The Lion King                                 | Barwar    |
+| The Lion With a Swollen Leg                   | Barwar    |
+| The Man Who Cried Wolf                        | Barwar    |
+| The Man Who Wanted to Work                    | Barwar    |
+| The Monk Who Wanted to Know When He Would Die | Barwar    |
+| The Monk and the Angel                        | Barwar    |
+| The Priest and the Mullah                     | Barwar    |
+| The Sale of an Ox                             | Barwar    |
+| The Scorpion and the Snake                    | Barwar    |
+| The Selfish Neighbour                         | Barwar    |
+| The Sisisambər Plant                          | Barwar    |
+| The Story With No End                         | Barwar    |
+| The Tale of Farxo and Səttiya                 | Barwar    |
+| The Tale of Mămo and Zine                     | Barwar    |
+| The Tale of Mərza Pămət                       | Barwar    |
+| The Tale of Nasimo                            | Barwar    |
+| The Tale of Parizada, Warda and Nargis        | Barwar    |
+| The Tale of Rustam (1)                        | Barwar    |
+| The Tale of Rustam (2)                        | Barwar    |
+| The Wise Daughter of the King                 | Barwar    |
+| The Wise Snake                                | Barwar    |
+| The Wise Young Man                            | Barwar    |
+| šošət Xere                                    | Barwar    |
+| A Close Shave                                 | Urmi_C    |
+| A Cure for a Husband’s Madness                | Urmi_C    |
+| A Donkey Knows Best                           | Urmi_C    |
+| A Dragon in the Well                          | Urmi_C    |
+| A Dutiful Son                                 | Urmi_C    |
+| A Frog Wants a Husband                        | Urmi_C    |
+| A Lost Donkey                                 | Urmi_C    |
+| A Lost Ring                                   | Urmi_C    |
+| A Painting of the King of Iran                | Urmi_C    |
+| A Pound of Flesh                              | Urmi_C    |
+| A Sweater to Pay Off a Debt                   | Urmi_C    |
+| A Thousand Dinars                             | Urmi_C    |
+| A Visit From Harun Ar-Rashid                  | Urmi_C    |
+| Agriculture and Village Life                  | Urmi_C    |
+| Am I Dead?                                    | Urmi_C    |
+| An Orphan Duckling                            | Urmi_C    |
+| Axiqar                                        | Urmi_C    |
+| Events in 1946 on the Urmi Plain              | Urmi_C    |
+| Games                                         | Urmi_C    |
+| Hunting                                       | Urmi_C    |
+| I Have Died                                   | Urmi_C    |
+| Ice for Dinner                                | Urmi_C    |
+| Is There a Man With No Worries?               | Urmi_C    |
+| Kindness to a Donkey                          | Urmi_C    |
+| Lost Money                                    | Urmi_C    |
+| Mistaken Identity                             | Urmi_C    |
+| Much Ado About Nothing                        | Urmi_C    |
+| Nipuxta                                       | Urmi_C    |
+| No Bread Today                                | Urmi_C    |
+| Problems Lighting a Fire                      | Urmi_C    |
+| St. Zayya’s Cake Dough                        | Urmi_C    |
+| Star-Crossed Lovers                           | Urmi_C    |
+| Stomach Trouble                               | Urmi_C    |
+| The Adventures of Ashur                       | Urmi_C    |
+| The Adventures of Two Brothers                | Urmi_C    |
+| The Adventures of a Princess                  | Urmi_C    |
+| The Angel of Death                            | Urmi_C    |
+| The Assyrians of Armenia                      | Urmi_C    |
+| The Assyrians of Urmi                         | Urmi_C    |
+| The Bald Child and the Monsters               | Urmi_C    |
+| The Bald Man and the King                     | Urmi_C    |
+| The Bird and the Fox                          | Urmi_C    |
+| The Cat’s Dinner                              | Urmi_C    |
+| The Cow and the Poor Girl                     | Urmi_C    |
+| The Dead Rise and Return                      | Urmi_C    |
+| The Fisherman and the Princess                | Urmi_C    |
+| The Giant One-Eyed Demon                      | Urmi_C    |
+| The Little Prince and the Snake               | Urmi_C    |
+| The Loan of a Cooking Pot                     | Urmi_C    |
+| The Man Who Wanted to Complain to God         | Urmi_C    |
+| The Old Man and the Fish                      | Urmi_C    |
+| The Purchase of a Donkey                      | Urmi_C    |
+| The Snake’s Dilemma                           | Urmi_C    |
+| The Stupid Carpenter                          | Urmi_C    |
+| The Wife Who Learns How to Work               | Urmi_C    |
+| The Wife Who Learns How to Work (2)           | Urmi_C    |
+| The Wife’s Condition                          | Urmi_C    |
+| The Wise Brother                              | Urmi_C    |
+| The Wise Young Daughter                       | Urmi_C    |
+| Trickster                                     | Urmi_C    |
+| Two Birds Fall in Love                        | Urmi_C    |
+| Two Wicked Daughters-In-Law                   | Urmi_C    |
+| Village Life                                  | Urmi_C    |
+| Village Life (2)                              | Urmi_C    |
+| Village Life (3)                              | Urmi_C    |
+| Village Life (4)                              | Urmi_C    |
+| Village Life (5)                              | Urmi_C    |
+| Village Life (6)                              | Urmi_C    |
+| Vineyards                                     | Urmi_C    |
+| Weddings                                      | Urmi_C    |
+| Weddings and Festivals                        | Urmi_C    |
+| When Shall I Die?                             | Urmi_C    |
+| Women Are Stronger Than Men                   | Urmi_C    |
+| Women Do Things Best                          | Urmi_C    |
 
 [back to node types](#Node-Types)
 <hr>
