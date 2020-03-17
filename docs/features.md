@@ -60,7 +60,8 @@ name of a dialect in Northeastern Neo-Aramaic
 | Barwar    |           1 |
 | Urmi_C    |           1 |
 
-<hr>## title
+<hr>
+## title
 
 title of a text (story)
 
@@ -78,7 +79,8 @@ A Dragon in the Well
 A Dutiful Son
 ```
 
-<hr>## version
+<hr>
+## version
 
 version of the story if there are multiple instances of the same story
 
@@ -93,7 +95,8 @@ version of the story if there are multiple instances of the same story
 | Version 1 |           1 |
 | Version 2 |           1 |
 
-<hr>## number
+<hr>
+## number
 
 sequential number of a paragraph or line within a text or paragraph, respectively
 
@@ -112,7 +115,8 @@ sequential number of a paragraph or line within a text or paragraph, respectivel
 5
 ```
 
-<hr>## text
+<hr>
+## text
 
 plain text representation of a letter, morpheme, or word
 
@@ -126,7 +130,8 @@ plain text representation of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
-<hr>## text_norm
+<hr>
+## text_norm
 
 plain text without accents
 
@@ -139,7 +144,8 @@ plain text without accents
 
 See the [transcription tables](transcription.md).
 
-<hr>## full
+<hr>
+## full
 
 full transcription, one-to-one transcription of a letter, morpheme, or word
 
@@ -153,7 +159,8 @@ full transcription, one-to-one transcription of a letter, morpheme, or word
 
 See the [transcription tables](transcription.md).
 
-<hr>## lite
+<hr>
+## lite
 
 lite transcription of a letter, morpheme, or word, without vowel accents
 
@@ -167,7 +174,8 @@ lite transcription of a letter, morpheme, or word, without vowel accents
 
 See the [transcription tables](transcription.md).
 
-<hr>## fuzzy
+<hr>
+## fuzzy
 
 fuzzy transcription that leaves out most diacritics and maps certain characters in certain dialects to common characters
 
@@ -181,7 +189,8 @@ fuzzy transcription that leaves out most diacritics and maps certain characters 
 
 See the [transcription tables](transcription.md).
 
-<hr>## end
+<hr>
+## end
 
 space, punctuation, or other stylistic text at the end of a morpheme or word
 
@@ -195,7 +204,8 @@ space, punctuation, or other stylistic text at the end of a morpheme or word
 
 See the [transcription tables](transcription.md).
 
-<hr>## full_end
+<hr>
+## full_end
 
 full transcription of punctuation or other stylistic text at the end of a morpheme or word; see also trans_f
 
@@ -209,7 +219,8 @@ full transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
-<hr>## lite_end
+<hr>
+## lite_end
 
 lite transcription of punctuation or other stylistic text at the end of a morpheme or word, excluding intonation boundary markers; see also trans_l
 
@@ -223,7 +234,8 @@ lite transcription of punctuation or other stylistic text at the end of a morphe
 
 See the [transcription tables](transcription.md).
 
-<hr>## fuzzy_end
+<hr>
+## fuzzy_end
 
 fuzzy transcription of punctuation or other stylistic text at the end of a morpheme or word, excluding intonation boundary markers; see also trans_l
 
@@ -237,7 +249,8 @@ fuzzy transcription of punctuation or other stylistic text at the end of a morph
 
 See the [transcription tables](transcription.md).
 
-<hr>## speaker
+<hr>
+## speaker
 
 name or initials of person speaking a morpheme or word; see also informant
 
@@ -256,7 +269,8 @@ Manya Givoyev
 Yuwəl Yuḥanna
 ```
 
-<hr>## footnotes
+<hr>
+## footnotes
 
 explanatory footnote on a morpheme or text
 
@@ -273,7 +287,8 @@ explanatory footnote on a morpheme or text
 [^2]: None
 ```
 
-<hr>## lang
+<hr>
+## lang
 
 language of a morpheme foreign to a text
 
@@ -294,7 +309,8 @@ language of a morpheme foreign to a text
 | Ge     |           6 |
 | F      |           4 |
 
-<hr>## foreign
+<hr>
+## foreign
 
 indicates whether a morpheme is foreign to a text; see also lang
 
@@ -309,7 +325,8 @@ indicates whether a morpheme is foreign to a text; see also lang
 |:----------|------------:|
 | True      |        1041 |
 
-<hr>## comment
+<hr>
+## comment
 
 explanatory comment inserted in the text, stored on a morpheme
 
@@ -323,7 +340,8 @@ explanatory comment inserted in the text, stored on a morpheme
 *interruption*
 ```
 
-<hr>## continued_from
+<hr>
+## continued_from
 
 text is a follow-up to the named text
 
@@ -337,7 +355,8 @@ text is a follow-up to the named text
 The Wife Who Learns How to Work
 ```
 
-<hr>## informant
+<hr>
+## informant
 
 name of person who spoke these words
 
@@ -380,7 +399,8 @@ name of person who spoke these words
 | Nanəs Bənyamən      |           1 |
 | Nawiya ʾOdišo       |           1 |
 
-<hr>## place
+<hr>
+## place
 
 place a text was recorded
 
@@ -408,7 +428,8 @@ place a text was recorded
 | Spurġān, N             |           1 |
 | Ɛn Nune                |           1 |
 
-<hr>## source
+<hr>
+## source
 
 name of the file from which a text was converted
 
@@ -426,7 +447,8 @@ bar text a19-A23.html
 bar text A37-A40.html
 ```
 
-<hr>## text_id
+<hr>
+## text_id
 
 id of a text within its original publication; can overlap between publications
 
@@ -444,7 +466,8 @@ A13
 A14
 ```
 
-<hr>## class
+<hr>
+## class
 
 class of a letter (consonant or vowel)
 
@@ -459,7 +482,8 @@ class of a letter (consonant or vowel)
 | consonant |      311071 |
 | vowel     |      228310 |
 
-<hr>## lemma
+<hr>
+## lemma
 
 lemma of a word
 
@@ -478,7 +502,8 @@ b-
 la
 ```
 
-<hr>## lemma_form
+<hr>
+## lemma_form
 
 grammatical form of a word lemma
 
@@ -497,7 +522,8 @@ sing.
 f. and pl.
 ```
 
-<hr>## grm_desc
+<hr>
+## grm_desc
 
 grammatical description of a word lemma
 
@@ -728,7 +754,8 @@ grammatical description of a word lemma
 | pron. pl. n.pl. part.     |           1 |
 | pron. pl. prep. pron.     |           1 |
 
-<hr>## gloss
+<hr>
+## gloss
 
 English gloss of a word lemma
 
