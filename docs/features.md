@@ -28,7 +28,9 @@ For instance, in the example below we can see a containment relationship being m
 
 <hr>
 
-# Features| node type   |   frequency | features                                                                                                                                                                                                                                                                                                                                                             |
+# Features
+
+| node type   |   frequency | features                                                                                                                                                                                                                                                                                                                                                             |
 |:------------|------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | dialect     |           2 | [dialect](#dialect)                                                                                                                                                                                                                                                                                                                                                  |
 | text        |         126 | [informant](#informant); [text_id](#text_id); [place](#place); [continued_from](#continued_from); [source](#source); [version](#version); [title](#title)                                                                                                                                                                                                            |
