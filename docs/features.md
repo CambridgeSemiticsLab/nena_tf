@@ -5,7 +5,7 @@ The NENA Text-Fabric (TF) corpus contains textual transcriptions and linguistic 
 ## Contents
 
 * [Data Model](#Data-Model)
-* [Node Types](#Node-Types
+* [Node Types](#Node-Types)
 * [Features](#Features)
 
 ## Data Model
