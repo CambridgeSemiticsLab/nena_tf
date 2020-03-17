@@ -73,7 +73,7 @@ title of a text (story)
 |:------------|------------:|
 | text        |         126 |
 
-**Titles**
+**Values**
 | title                                         | dialect   |
 |:----------------------------------------------|:----------|
 | A Hundred Gold Coins                          | Barwar    |
