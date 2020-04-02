@@ -34,15 +34,15 @@ For instance, in the example below we can see a containment relationship being m
 | node type   | description                                         |   frequency | features                                                                                                                                                                                                                                                                                                                                    |
 |:------------|:----------------------------------------------------|------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | dialect     | dialect of North Eastern Neo-Aramaic                |           2 | [dialect](#dialect)                                                                                                                                                                                                                                                                                                                         |
-| text        | transcribed story from a native NENA informant      |         126 | [title](#title), [informant](#informant), [text_id](#text_id), [place](#place)                                                                                                                                                                                                                                                              |
+| text        | transcribed story from a native NENA informant      |         126 | [text_id](#text_id), [place](#place), [title](#title), [informant](#informant)                                                                                                                                                                                                                                                              |
 | paragraph   | paragraph segment based on newlines                 |         351 | [number](#number)                                                                                                                                                                                                                                                                                                                           |
 | line        | verse-like section                                  |        2544 | [number](#number)                                                                                                                                                                                                                                                                                                                           |
 | sentence    | sentence based on full stops (period)               |       16707 |                                                                                                                                                                                                                                                                                                                                             |
 | subsentence | part of sentence based on commas, semi-colons, etc. |       24527 |                                                                                                                                                                                                                                                                                                                                             |
 | inton       | intonation group based on ˈ symbol                  |       35984 |                                                                                                                                                                                                                                                                                                                                             |
 | stress      | stress group based on hyphenation & spacing         |       93762 |                                                                                                                                                                                                                                                                                                                                             |
-| word        | word in NENA or other language                      |      120148 | [full](#full), [fuzzy](#fuzzy), [lite_end](#lite_end), [lite](#lite), [lemma_form](#lemma_form), [gloss](#gloss), [lang](#lang), [speaker](#speaker), [end](#end), [comment](#comment), [grm_desc](#grm_desc), [text](#text), [full_end](#full_end), [text_norm](#text_norm), [lemma](#lemma), [foreign](#foreign), [fuzzy_end](#fuzzy_end) |
-| letter      | an individual letter including diacritics           |      539381 | [full](#full), [fuzzy](#fuzzy), [lite_end](#lite_end), [lite](#lite), [end](#end), [class](#class), [text](#text), [full_end](#full_end), [fuzzy_end](#fuzzy_end)                                                                                                                                                                           |
+| word        | word in NENA or other language                      |      120148 | [grm_desc](#grm_desc), [text_lite](#text_lite), [lang](#lang), [fuzzy](#fuzzy), [lemma](#lemma), [speaker](#speaker), [gloss](#gloss), [full](#full), [end](#end), [full_end](#full_end), [lite_end](#lite_end), [fuzzy_end](#fuzzy_end), [lite](#lite), [comment](#comment), [lemma_form](#lemma_form), [foreign](#foreign), [text](#text) |
+| letter      | an individual letter including diacritics           |      539381 | [text_lite](#text_lite), [class](#class), [fuzzy](#fuzzy), [full](#full), [end](#end), [full_end](#full_end), [lite_end](#lite_end), [fuzzy_end](#fuzzy_end), [lite](#lite), [text](#text)                                                                                                                                                  |
 
 # Features
 
@@ -244,7 +244,7 @@ See the [transcription tables](transcription.md).
 [back to node types](#Node-Types)
 <hr>
 
-## text_norm
+## text_lite
 
 plain text without accents
 
@@ -252,6 +252,7 @@ plain text without accents
 | node type   |   frequency |
 |:------------|------------:|
 | word        |      120148 |
+| letter      |      539381 |
 
 
 See the [transcription tables](transcription.md).

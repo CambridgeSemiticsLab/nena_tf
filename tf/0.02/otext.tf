@@ -2,6 +2,7 @@
 @author=Geoffrey Khan et al.
 @editors=Cody Kingham, Paul Noorlander, James Strachan, Hannes Vlaardingerbroek
 @fmt:text-orig-full={text}{end}
+@fmt:text-orig-lite={text_lite}{end}
 @fmt:text-trans-full={full}{full_end}
 @fmt:text-trans-fuzzy={fuzzy}{fuzzy_end}
 @fmt:text-trans-lite={lite}{lite_end}
@@ -12,5 +13,5 @@
 @source=The NENA linguistic corpus is derived from decades of field work by Prof. Geoffrey Khan and his students.
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-23T12:15:25Z
+@dateWritten=2020-04-02T10:33:23Z
 
