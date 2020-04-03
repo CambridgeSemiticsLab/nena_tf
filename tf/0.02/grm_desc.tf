@@ -9,7 +9,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-02T10:33:18Z
+@dateWritten=2020-04-03T14:40:42Z
 
 713385	num.
 part.

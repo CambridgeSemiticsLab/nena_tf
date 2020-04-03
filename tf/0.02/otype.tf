@@ -7,7 +7,7 @@
 @url=https://github.com/CambridgeSemiticsLab/nena_tf
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-02T10:33:20Z
+@dateWritten=2020-04-03T14:40:44Z
 
 1-539381	letter
 539382-539383	dialect
