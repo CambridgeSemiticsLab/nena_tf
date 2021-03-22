@@ -10,7 +10,7 @@
 @value=string
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-10-20T16:49:59Z
+@dateWritten=2021-03-22T15:43:56Z
 
 713434	one; a (§14.1.)
 almost, about to; connective particle (§15.1.1.11., §18.1.6.).|time, instance

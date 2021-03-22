@@ -10,7 +10,7 @@
 @value=categorical
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-10-20T16:50:07Z
+@dateWritten=2021-03-22T15:44:02Z
 
 714307	INVAR
 715569	INVAR
