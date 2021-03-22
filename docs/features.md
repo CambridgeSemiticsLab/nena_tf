@@ -31,35 +31,36 @@ For instance, in the example below we can see a containment relationship being m
 
 # Node Types
 
-| node type   | description                                         |   frequency | features                                                                                                                                                                                                                                                                                                                                    |
-|:------------|:----------------------------------------------------|------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| dialect     | dialect of North Eastern Neo-Aramaic                |           2 | [dialect](#dialect)                                                                                                                                                                                                                                                                                                                         |
-| text        | transcribed story from a native NENA informant      |         126 | [informant](#informant), [text_id](#text_id), [title](#title), [place](#place)                                                                                                                                                                                                                                                              |
-| paragraph   | paragraph segment based on newlines                 |         351 | [number](#number)                                                                                                                                                                                                                                                                                                                           |
-| line        | verse-like section                                  |        2544 | [number](#number)                                                                                                                                                                                                                                                                                                                           |
-| sentence    | sentence based on full stops (period)               |       16707 |                                                                                                                                                                                                                                                                                                                                             |
-| subsentence | part of sentence based on commas, semi-colons, etc. |       24527 |                                                                                                                                                                                                                                                                                                                                             |
-| inton       | intonation group based on ˈ symbol                  |       35984 |                                                                                                                                                                                                                                                                                                                                             |
-| stress      | stress group based on hyphenation & spacing         |       93762 |                                                                                                                                                                                                                                                                                                                                             |
-| word        | word in NENA or other language                      |      120148 | [lemma_form](#lemma_form), [gloss](#gloss), [end](#end), [full](#full), [text](#text), [foreign](#foreign), [text_lite](#text_lite), [full_end](#full_end), [comment](#comment), [lemma](#lemma), [lang](#lang), [lite_end](#lite_end), [fuzzy_end](#fuzzy_end), [grm_desc](#grm_desc), [speaker](#speaker), [fuzzy](#fuzzy), [lite](#lite) |
-| letter      | an individual letter including diacritics           |      539381 | [end](#end), [full](#full), [text](#text), [text_lite](#text_lite), [full_end](#full_end), [class](#class), [lite_end](#lite_end), [fuzzy_end](#fuzzy_end), [fuzzy](#fuzzy), [lite](#lite)                                                                                                                                                  |
+| node type   | description                                                                                                              |   frequency | features                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:------------|:-------------------------------------------------------------------------------------------------------------------------|------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| dialect     | dialect of North Eastern Neo-Aramaic                                                                                     |           2 | [dialect](#dialect)                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| text        | transcribed story from a native NENA informant                                                                           |         126 | [place](#place), [dialect](#dialect), [speakers](#speakers), [text_id](#text_id), [title](#title)                                                                                                                                                                                                                                                                                                                                              |
+| paragraph   | paragraph segment based on newlines                                                                                      |         350 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| line        | verse-like section used for reference; corresponds with publications where applicable                                    |        2544 | [line_number](#line_number)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| sentence    | sentence based on one or more of the following punctuators [.!?]                                                         |       16326 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| subsentence | part of sentence based on one of the following punctuators: [;,—:]                                                       |       24497 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| inton       | intonation group of words/letters based on ˈ symbol (superscript |), which marks such boundaries                         |       36444 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| stress      | stress group of words, marked either by hyphenated segments or standalone words; e.g. 'xa-ga' is 2 words, 1 stress group |       93766 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| word        | word in NENA or other language segmented by either whitespace or one of [-=]                                             |      120151 | [lang](#lang), [full](#full), [fuzzy_end](#fuzzy_end), [text_end](#text_end), [fuzzy](#fuzzy), [lemma](#lemma), [lite](#lite), [pos](#pos), [lite_end](#lite_end), [st](#st), [variable](#variable), [gn](#gn), [tense](#tense), [text_nostress](#text_nostress), [full_end](#full_end), [speaker](#speaker), [text](#text), [nu_class](#nu_class), [n_parses](#n_parses), [nu](#nu), [gloss](#gloss), [text_nostress_end](#text_nostress_end) |
+| letter      | an individual letter including diacritics recognized by pattern matches against canonical NENA alphabet                  |      539378 | [phonetic_class](#phonetic_class), [lite](#lite), [text](#text), [phonation](#phonation), [phonetic_place](#phonetic_place), [full](#full), [fuzzy](#fuzzy), [phonetic_manner](#phonetic_manner), [text_nostress](#text_nostress)                                                                                                                                                                                                              |
 
 # Features
 
 ## dialect
 
-name of a dialect in Northeastern Neo-Aramaic
+name of a dialect in North Eastern Neo-Aramaic
 
 **Node Counts**
 | node type   |   frequency |
 |:------------|------------:|
 | dialect     |           2 |
+| text        |         126 |
 
 **Values**
 | dialect   |   frequency |
 |:----------|------------:|
-| Barwar    |           1 |
-| Urmi_C    |           1 |
+| Urmi_C    |          75 |
+| Barwar    |          53 |
 
 [back to node types](#Node-Types)
 <hr>
@@ -127,7 +128,7 @@ title of a text (story)
 | The Wise Daughter of the King                 | Barwar    |
 | The Wise Snake                                | Barwar    |
 | The Wise Young Man                            | Barwar    |
-| šošət Xere                                    | Barwar    |
+| Šošət Xere                                    | Barwar    |
 | A Close Shave                                 | Urmi_C    |
 | A Cure for a Husband’s Madness                | Urmi_C    |
 | A Donkey Knows Best                           | Urmi_C    |
@@ -206,296 +207,6 @@ title of a text (story)
 [back to node types](#Node-Types)
 <hr>
 
-## number
-
-sequential number of a paragraph or line within a text or paragraph, respectively
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| paragraph   |         351 |
-| line        |        2544 |
-
-**Examples**
-```
-1
-2
-3
-4
-5
-```
-
-[back to node types](#Node-Types)
-<hr>
-
-## text
-
-plain text representation of a letter or word
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## text_lite
-
-plain text without accents
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## full
-
-full transcription, one-to-one transcription of a letter or word
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## lite
-
-lite transcription of a letter or word, without vowel accents
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## fuzzy
-
-fuzzy transcription that leaves out most diacritics and maps certain characters in certain dialects to common characters
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## end
-
-space, punctuation, or other stylistic text at the end a letter or word
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## full_end
-
-full transcription of punctuation or other stylistic text at the end of a letter or word; see also trans_f
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## lite_end
-
-lite transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## fuzzy_end
-
-fuzzy transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-| letter      |      539381 |
-
-
-See the [transcription tables](transcription.md).
-
-[back to node types](#Node-Types)
-<hr>
-
-## speaker
-
-name or initials of person speaking a word; see also informant
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |      120148 |
-
-**Examples**
-```
-Dawið ʾAdam
-Yulia Davudi
-Yuwarəš Xošăba Kena
-Manya Givoyev
-Yuwəl Yuḥanna
-```
-
-[back to node types](#Node-Types)
-<hr>
-
-## lang
-
-language of a foreign word
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |         462 |
-
-**Values**
-| lang   |   frequency |
-|:-------|------------:|
-| R      |         160 |
-| P      |         138 |
-| E      |          80 |
-| Az     |          59 |
-| Arm    |          20 |
-| Ge     |           3 |
-| F      |           2 |
-
-[back to node types](#Node-Types)
-<hr>
-
-## foreign
-
-indicates whether a word is foreign; see also lang
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |         534 |
-
-**Values**
-| foreign   |   frequency |
-|:----------|------------:|
-| True      |         534 |
-
-[back to node types](#Node-Types)
-<hr>
-
-## comment
-
-explanatory comment inserted in the text, stored on a word
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |           1 |
-
-**Examples**
-```
-*interruption*
-```
-
-[back to node types](#Node-Types)
-<hr>
-
-## informant
-
-name of main person who spoke this text
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| text        |         126 |
-
-**Values**
-| informant           |   frequency |
-|:--------------------|------------:|
-| Yulia Davudi        |          37 |
-| Dawið ʾAdam         |          14 |
-| Yuwəl Yuḥanna       |           7 |
-| Maryam Gwirgis      |           6 |
-| Yuwarəš Xošăba Kena |           6 |
-| Awiko Sulaqa        |           5 |
-| Xošebo ʾOdišo       |           5 |
-| Bənyamən Bənyamən   |           4 |
-| Manya Givoyev       |           4 |
-| Gwərgəs Dawið       |           3 |
-| Nadia Aloverdova    |           3 |
-| Nancy George        |           3 |
-| Natan Khoshaba      |           3 |
-| Victor Orshan       |           3 |
-| Yosəp bet Yosəp     |           3 |
-| Alice Bet-Yosəp     |           2 |
-| Arsen Mikhaylov     |           2 |
-| Frederic Ayyubkhan  |           2 |
-| Sophia Danielova    |           2 |
-| Yonan Petrus        |           2 |
-| Blandina Barwari    |           1 |
-| Dawid Adam          |           1 |
-| Dawið Gwərgəs       |           1 |
-| Jacob Petrus        |           1 |
-| Kena Kena           |           1 |
-| Leya ʾOraha         |           1 |
-| Merab Badalov       |           1 |
-| Mišayel Barčəm      |           1 |
-| Nanəs Bənyamən      |           1 |
-| Nawiya ʾOdišo       |           1 |
-
-[back to node types](#Node-Types)
-<hr>
-
 ## place
 
 place a text was recorded
@@ -548,142 +259,565 @@ A14
 [back to node types](#Node-Types)
 <hr>
 
-## class
+## speakers
+
+names of speakers found in a text
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| text        |         126 |
+
+**Examples**
+```
+Yulia Davudi
+Dawið ʾAdam
+Yuwəl Yuḥanna
+Maryam Gwirgis
+Yuwarəš Xošăba Kena
+```
+
+[back to node types](#Node-Types)
+<hr>
+
+## line_number
+
+sequential number of a line for reference purposes; corresponds with publications where applicable
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| line        |        2544 |
+
+**Examples**
+```
+1
+2
+3
+4
+5
+```
+
+[back to node types](#Node-Types)
+<hr>
+
+## text
+
+utf8 text representation of a letter or word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+| letter      |      539378 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## text_nostress
+
+utf8 text without stress markers
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+| letter      |      539378 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## full
+
+full transcription, one-to-one transcription of a letter or word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+| letter      |      539378 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## lite
+
+lite transcription of a letter or word, without vowel accents
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+| letter      |      539378 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## fuzzy
+
+fuzzy transcription that leaves out most diacritics and maps certain characters in certain dialects to common characters
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+| letter      |      539378 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## text_end
+
+space, punctuation, or other stylistic text at the end a letter or word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120139 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## full_end
+
+full transcription of punctuation or other stylistic text at the end of a letter or word; see also trans_f
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120139 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## lite_end
+
+lite transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120139 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## fuzzy_end
+
+fuzzy transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120139 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## text_nostress_end
+
+non-stressed transcription of punctuation or other stylistic text at the end of a letter or word, excluding intonation boundary markers; see also trans_l
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120139 |
+
+
+See the [transcription tables](transcription.md).
+
+[back to node types](#Node-Types)
+<hr>
+
+## speaker
+
+name of person speaking a given word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+
+**Examples**
+```
+Dawið ʾAdam
+Yulia Davudi
+Yuwarəš Xošăba Kena
+Manya Givoyev
+Yuwəl Yuḥanna
+```
+
+[back to node types](#Node-Types)
+<hr>
+
+## lang
+
+language of a foreign word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+
+**Values**
+| lang        |   frequency |
+|:------------|------------:|
+| NENA        |      117093 |
+| K.          |        1767 |
+| A.          |         775 |
+| K./A.       |         263 |
+| A.|A.|K.    |          65 |
+| A.|K.       |          35 |
+| K./T.       |          32 |
+| K.|K.       |          26 |
+| K.|K.|K.    |          18 |
+| A.|A.       |          16 |
+| Urm.        |          16 |
+| E.          |          12 |
+| K./A./E.    |           9 |
+| P.          |           5 |
+| A./K.       |           4 |
+| K./A.|K./A. |           4 |
+| T.          |           4 |
+| Ṭiy.        |           3 |
+| A./E.       |           2 |
+| K./E.       |           1 |
+| K./T.|K./T. |           1 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## phonetic_class
 
 class of a letter (consonant or vowel)
 
 **Node Counts**
 | node type   |   frequency |
 |:------------|------------:|
-| letter      |      539381 |
+| letter      |      539360 |
 
 **Values**
-| class     |   frequency |
-|:----------|------------:|
-| consonant |      311071 |
-| vowel     |      228310 |
+| phonetic_class   |   frequency |
+|:-----------------|------------:|
+| consonant        |      310962 |
+| vowel            |      228398 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## phonetic_place
+
+place of articulation of a given letter
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| letter      |      310962 |
+
+**Values**
+| phonetic_place   |   frequency |
+|:-----------------|------------:|
+| dental-alveolar  |      150177 |
+| labial           |       62013 |
+| velar            |       32035 |
+| palatal          |       25837 |
+| laryngeal        |       23789 |
+| palatal-alveolar |       12557 |
+| uvular           |        4181 |
+| pharyngeal       |         373 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## phonetic_manner
+
+manner of the sound of a letter
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| letter      |      310962 |
+
+**Values**
+| phonetic_manner   |   frequency |
+|:------------------|------------:|
+| affricative       |      108364 |
+| nasal             |       52559 |
+| other             |       48948 |
+| fricative         |       40138 |
+| lateral           |       39248 |
+| sibilant          |       21705 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## phonation
+
+phonation of a letter
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| letter      |      306781 |
+
+**Values**
+| phonation            |   frequency |
+|:---------------------|------------:|
+| plain                |      140049 |
+| unvoiced_aspirated   |       56659 |
+| voiced               |       50887 |
+| unvoiced             |       44043 |
+| unvoiced_unaspirated |       10671 |
+| emphatic             |        4472 |
 
 [back to node types](#Node-Types)
 <hr>
 
 ## lemma
 
-lemma of a word
+parsed lemma form, if available
 
 **Node Counts**
 | node type   |   frequency |
 |:------------|------------:|
-| word        |       28963 |
+| word        |       21716 |
 
 **Examples**
 ```
-w, ʾu-
-xa, xaʾa
-ṱ
-b-
-gu-
+w
+xa
+la|la.2
+ʾana
+naša
 ```
 
 [back to node types](#Node-Types)
 <hr>
 
-## lemma_form
+## pos
 
-grammatical form of a word lemma
-
-**Node Counts**
-| node type   |   frequency |
-|:------------|------------:|
-| word        |        2276 |
-
-**Examples**
-```
-pl.
-f.
-abs.
-sing.
-f. and pl.
-```
-
-[back to node types](#Node-Types)
-<hr>
-
-## grm_desc
-
-grammatical description of a word lemma
+part of speech of lemma
 
 **Node Counts**
 | node type   |   frequency |
 |:------------|------------:|
-| word        |       28963 |
+| word        |       21716 |
 
 **Values**
-| grm_desc       |   frequency |
-|:---------------|------------:|
-| n.m.           |        5734 |
-| part.          |        4766 |
-| prep.          |        3720 |
-| n.f.           |        3245 |
-|                |        2934 |
-| num.           |        1893 |
-| adj.           |         893 |
-| adv.           |         868 |
-| mod.           |         852 |
-| pron. cs.      |         759 |
-| pron. ms.      |         684 |
-| pron. pl.      |         462 |
-| part. pron.    |         455 |
-| pron. fs.      |         434 |
-| part., prep.   |         127 |
-| n.pl.tan.      |         118 |
-| adj. invar.    |         115 |
-| adj. adv. mod. |         113 |
-| mod. adv.      |         110 |
-| n.pl.          |         103 |
-| n.m./f.        |          89 |
-| m.             |          84 |
-| pron.          |          79 |
-| n.m./adj.      |          74 |
-| interj.        |          59 |
-| n.f./m.        |          31 |
-| n.f            |          24 |
-| m.n.           |          20 |
-| n.m            |          20 |
-| pron. mod.     |          19 |
-| n.m. adv./adj. |          16 |
-| n.pl.tant.     |          14 |
-| adj. cs.       |           8 |
-| n.f./adj.f     |           7 |
-| n.m.,          |           6 |
-| n.m..          |           6 |
-| cst.           |           5 |
-| n.f./m.,       |           4 |
-| n.m. adj.      |           4 |
-| adj. m.        |           3 |
-| n.m. adv. adj. |           2 |
-| pl.            |           2 |
-| f.             |           1 |
-| imper. pl.     |           1 |
+| pos                 |   frequency |
+|:--------------------|------------:|
+| NOUN                |        8010 |
+| PART                |        4532 |
+| PRON                |        2080 |
+| NUMR                |        1871 |
+| ADJV                |        1006 |
+| ADVB                |         924 |
+| NOUN|PART           |         742 |
+| NOUN|NOUN           |         439 |
+| MODI                |         422 |
+| PRON|PART           |         338 |
+| PART|PRON           |         318 |
+| MODI|NOUN           |         250 |
+| MODI|PRON           |         199 |
+| PART|NOUN           |         117 |
+| NOUN|NOUN|NOUN      |         103 |
+| PART|PART|PART      |          65 |
+| INTJ                |          59 |
+| ADVB|NOUN           |          52 |
+| NOUN|ADVB           |          39 |
+| NOUN|ADJV           |          30 |
+| ADJV|ADJV           |          27 |
+| ADJV|NOUN           |          23 |
+| NUMR|NUMR           |          21 |
+| ADJV|ADVB           |          17 |
+| NOUN|NOUN|NOUN|NOUN |          15 |
+| PREP                |           8 |
+| ADJV|NOUN|NOUN      |           5 |
+| NOUN|INTJ           |           2 |
+| ADJV|NOUN|NOUN|NOUN |           1 |
+| VERB                |           1 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## variable
+
+variability of lemma form
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |         125 |
+
+**Values**
+| variable   |   frequency |
+|:-----------|------------:|
+| INVAR      |         125 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## st
+
+grammatical state of a word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |         483 |
+
+**Values**
+| st    |   frequency |
+|:------|------------:|
+| C     |         241 |
+| A     |         175 |
+| A|A|A |          62 |
+| C|C|C |           5 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## gn
+
+grammatical gender of a word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |       14366 |
+
+**Examples**
+```
+M
+F
+C
+M|M
+F|F
+```
+
+[back to node types](#Node-Types)
+<hr>
+
+## nu
+
+grammatical number of a word
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |        8206 |
+
+**Values**
+| nu          |   frequency |
+|:------------|------------:|
+| PL          |        6018 |
+| SG          |        1635 |
+| PL|PL       |         438 |
+| PL|PL|PL    |          98 |
+| PL|PL|PL|PL |          16 |
+| SG|SG       |           1 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## nu_class
+
+semantic class of a word's grammatical number
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |         132 |
+
+**Values**
+| nu_class   |   frequency |
+|:-----------|------------:|
+| TANT       |         132 |
+
+[back to node types](#Node-Types)
+<hr>
+
+## tense
+
+tense of a verb
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |           1 |
+
+**Values**
+| tense   |   frequency |
+|:--------|------------:|
+| IMP     |           1 |
 
 [back to node types](#Node-Types)
 <hr>
 
 ## gloss
 
-English gloss of a word lemma
+English gloss of a word lemma, if available
 
 **Node Counts**
 | node type   |   frequency |
 |:------------|------------:|
-| word        |       28963 |
+| word        |       21713 |
 
 **Examples**
 ```
-
 and
-one; a 
-in, at, on, with, by means of.
-speaker deixis demonstrative 
+one; a (§14.1.)
+speaker deixis demonstrative (§7.4., §14.3.2.)
+side, direction|no (variants laʾ, laʾa), not; neither/nor; asseverative particle.
+I
+```
+
+[back to node types](#Node-Types)
+<hr>
+
+## n_parses
+
+number of parsings matched to a word's surface form
+
+**Node Counts**
+| node type   |   frequency |
+|:------------|------------:|
+| word        |      120151 |
+
+**Examples**
+```
+0
+1
+2
+3
+4
 ```
 
 [back to node types](#Node-Types)
