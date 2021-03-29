@@ -1,4 +1,71 @@
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+div.page {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	width: 99vw;
+	height: 99vh;
+}
+
+div.leftcol {
+	flex: 0 0 20rem;
+	border-right: 1pt solid var(--fog-rim);
+	padding-left: 4px;
+	padding-right: 8px;
+	height: 99vh;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+div.midcol {
+	flex: 0 0 auto;
+	padding-left: 8px;
+	padding-right: 8px;
+	height: 99vh;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+div.rightcol {
+	flex: 10 2 auto;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	border-left: 1pt solid var(--fog-rim);
+	padding-left: 8px;
+	padding-right: 4px;
+	height: 99vh;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
 .layer {
   display: flex;
 	flex-flow: row nowrap;
+}
+.error {
+  color: #880000;
+  background-color: #ffaaaa;
+}
+.pattern {
+  font-size: large;
+  color: #000088;
+  background-color: #eeeeff;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+.pattern.error {
+  color: #000088;
+  background-color: #ffbbbb;
+}
+#go {
+  width: 100%;
+  border-radius: 0.5em;
+  background-color: #aaaaff;
+  font-size: x-large;
 }
