@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body, td, th {
+  font-family: sans-serif;
+}
+
 div.page {
 	display: flex;
 	flex-flow: row nowrap;
@@ -14,7 +18,7 @@ div.page {
 }
 
 div.leftcol {
-	flex: 0 0 20rem;
+	flex: 1 1 30rem;
 	border-right: 1pt solid var(--fog-rim);
 	padding-left: 4px;
 	padding-right: 8px;
@@ -44,10 +48,6 @@ div.rightcol {
 	-webkit-overflow-scrolling: touch;
 }
 
-.layer {
-  display: flex;
-	flex-flow: row nowrap;
-}
 .error {
   color: #880000;
   background-color: #ffaaaa;
@@ -68,4 +68,26 @@ div.rightcol {
   border-radius: 0.5em;
   background-color: #aaaaff;
   font-size: x-large;
+}
+
+#progress {
+  font-family: monospace;
+  font-size: small;
+}
+
+.lvcell {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.lv {
+  background-color: #dddddd;
+  border-radius: 0.3em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
+  margin: 0.5em 0.5em 0.5em 0.5em;
+}
+.lyr {
+  background-color: #eeeeee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+  margin: 0.2em 0.2em 0.2em 0.2em;
 }

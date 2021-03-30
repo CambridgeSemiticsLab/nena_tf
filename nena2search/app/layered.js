@@ -5,24 +5,34 @@
 const NUMBER = 'number'
 const MaxReLength = 1000
 
-const decompress = data => {
-  const result = new Map()
-  for (const [nodeSpec, value] of data) {
+const decompress = () => {
+  const { up } = corpus
+  const newUp = new Map()
+  const down = new Map()
+
+  for (const [nodeSpec, upN] of up) {
+    if (!(down.has(upN))) {
+      down.set(upN, new Set())
+    }
+    const downs = down.get(upN)
     if (typeof nodeSpec === NUMBER) {
-      result[nodeSpec] = value
+      newUp[nodeSpec] = upN
+      downs.add(nodeSpec)
     } else {
       for (const nodeRange of nodeSpec) {
         if (typeof nodeRange === NUMBER) {
-          result[nodeRange] = value
+          newUp.set(nodeRange, upN)
+          downs.add(nodeRange)
         } else {
           for (let n = nodeRange[0]; n <= nodeRange[1]; n++) {
-            result.set(n, value)
+            newUp.set(n, upN)
+            downs.add(n)
           }
         }
       }
     }
   }
-  return result
+  corpus.down = down
 }
 
 const dressUp = () => {
@@ -33,69 +43,31 @@ const dressUp = () => {
   $('#title').html(title)
 }
 
-const warmUp = () => {
-  console.log(`Warm up positions for 'up'-relation`)
-  corpus.up = decompress(corpus.up)
-  const { positions } = corpus
-  for (const [nType, typeInfo] of Object.entries(positions)) {
-    for (const [name, pos] of Object.entries(typeInfo)) {
-      console.log(`Warm up positions for ${nType}-${name}`)
-      for (const i in pos) {
-        if (pos[i] != null) {
-          pos[i] = pos[i].split(',').map(parseInt)
-        }
-      }
-    }
-  }
-}
-
-const genLegend = (nType, name, info) => {
-  const { map } = info
-  const html = []
-
-  if (map) {
-    html.push(`
-<details>
-  <summary>${name}</summary>
-`)
-    for (const [acro, full] of Object.entries(map)) {
-      html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
-    }
-    html.push(`
-</details>
-`)
-  } else {
-    html.push(`
-<div>${name}</div>
-`)
-  }
-  return html.join('')
+const warmUpData = () => {
+  progress(`Decompress up-relation and infer down-relation`)
+  decompress()
 }
 
 const doSearch = (nType, name, info, regex) => {
-  const text = corpus.texts[nType][name]
-  const posKey = info.pos
-  const positions = corpus.positions[nType][posKey]
+  const { texts: { [nType]: { [name]: text } }, positions } = corpus
+  const { pos: posKey } = info
+  const { [nType]: { [posKey]: pos } } = positions
   const searchResults = text.matchAll(regex)
-  const resultPairs = []
+  const resultMap = new Map()
   const nodeSet = new Set()
   for (const match of searchResults) {
     const hit = match[0]
     const start = match.index
     const end = start + hit.length
-    const nodes = new Set()
-    //console.log({ hit, start, end, nodes })
     for (let i = start; i < end; i++) {
-      const moreNodes = positions[i]
-      if (moreNodes != null) {
-        for (const n of moreNodes) {
-          resultPairs.push([i, n])
-          nodeSet.add(n)
-        }
+      const node = pos[i]
+      if (node != null) {
+        resultMap.set(i, node)
+        nodeSet.add(node)
       }
     }
   }
-  return { resultPairs, nodeSet }
+  return { resultMap, nodeSet }
 }
 
 const gatherResults = () => {
@@ -112,13 +84,11 @@ const gatherResults = () => {
    * */
 
   for (const [nType, typeInfo] of Object.entries(layers)) {
-    nTypeResults[nType] = { nodeSets: {}, resultPairs: {}, intersection: new Set() }
-
     // gather results for all layers having nType
 
     for (const [name, info] of Object.entries(typeInfo)) {
-      const box = $(`#search_${nType}_${name}>input`)
-      const ebox = $(`#search_${nType}_${name}>span`)
+      const box = $(`#pattern_${nType}_${name}`)
+      const ebox = $(`#error_${nType}_${name}`)
       ebox.val('')
       box.removeClass('error')
       const pattern = box.val()
@@ -126,88 +96,108 @@ const gatherResults = () => {
         continue
       }
       if (pattern.length > MaxReLength) {
-        feedBack(
-          box,
-          ebox,
-          `pattern must be less than ${MaxReLength} characters long`
-        )
+        showError(box, ebox, `pattern must be less than ${MaxReLength} characters long`)
         continue
       }
       let regex
       try {
         regex = new RegExp(pattern, 'g')
       } catch (error) {
-        feedBack(box, ebox, `'${pattern}': ${error}`)
+        showError(box, ebox, `'${pattern}': ${error}`)
         continue
       }
-
-      const { resultPairs, nodeSets } = doSearch(nType, name, info, regex)
-      nTypeResults[nType]["resultPairs"][name] = resultPairs
-      nTypeResults[nType]["nodeSets"][name] = nodeSets
+      if (nTypeResults[nType] == null || nTypeResults[nType]["layers"] == null) {
+        nTypeResults[nType] = { layers: {} }
+      }
+      nTypeResults[nType]['layers'][name] = doSearch(nType, name, info, regex)
     }
   }
   return nTypeResults
 }
 
-const weedByNType = (nodeSets, intersection) => {
+const weedByNType = nTypeResults => {
   // take the intersection of all nodeSets (all with the same nType)
 
-  const theseSets = Object.entries(nodeSets)
-  if (theseSets.length == 0) {
-    return
-  }
-  const firstSet = theseSets[0][1]
-  for (const n of firstSet) {
-    intersection.add(n)
-  }
-  if (theseSets.length == 1) {
-    return
-  }
-  for (const entry of theseSets.slice(1)) {
-    const thisSet = entry[1]
-    for (const n of intersection) {
-      if (!thisSet.has(n)) {
-        intersection.delete(n)
+  const intersection = new Set()
+
+  for (const [ nType, { layers }] of Object.entries(nTypeResults)) {
+    const theseSets = Object.values(layers).map(({ nodeSet }) => nodeSet)
+
+    if (theseSets.length == 0) {
+      continue
+    }
+    const firstSet = theseSets[0]
+    for (const n of firstSet) {
+      intersection.add(n)
+    }
+    nTypeResults[nType]["intersection"] = intersection
+
+    if (theseSets.length == 1) {
+      continue
+    }
+    for (const thisSet of theseSets.slice(1)) {
+      for (const n of intersection) {
+        if (!thisSet.has(n)) {
+          intersection.delete(n)
+        }
       }
     }
   }
 }
 
 const weedAcrossTypes = nTypeResults => {
-  /* pairwise weed the typeSet of an nType with
-   * the projection of of the typeSet of a lower nType
+  /* fill unsearched layers with projections of neighbouring layers
+   * from top to bottom: perform pairwise intersections
+   * repeat taking pairwise intersections until the intersections do not change anymore
    */
 
-  const { up } = corpus
-
-  const theseSets = Object.entries(nTypeResults)
-  if (theseSets.length == 0) {
+  const nDiffTypes = Object.keys(nTypeResults).length
+  if (nDiffTypes.length <= 1) {
     return
   }
-  let prevIntersection = null
-  for (const { intersection } of theseSets) {
-    if (prevIntersection == null) {
-      prevIntersection = intersection
-      continue
+
+  const { up, ntypes } = corpus
+
+  /* We start from the highest level and go downwards
+   * First we find the first level where we have searched
+   */
+
+  let firstType = null
+
+  for (const nType of ntypes) {
+    const { [nType]: { intersection } = {} } = nTypeResults
+
+    if (intersection != null) {
+      firstType = nType
+      break
     }
-    // project
+  }
+
+  // we may not have searched, then there is nothing to do
+
+  if (firstType == null) {
+    return
+  }
+
+  /* Work from this level upward, and put in the intersection
+
+  let prevIntersection = null
+
     const projection = new Set()
     for (const n in intersection) {
       if (up.has(n)) {
         const upN = up.get(n)
         if (prevIntersection.has(upN)) {
           projection.add(upN)
-        }
-        else {
+        } else {
           intersection.delete(n)
         }
-      }
-      else {
+      } else {
         intersection.delete(n)
       }
     }
     for (const upN in prevIntersection) {
-      if (!(projection.has(upN))) {
+      if (!projection.has(upN)) {
         prevIntersection.delete(upN)
       }
     }
@@ -215,18 +205,26 @@ const weedAcrossTypes = nTypeResults => {
 }
 
 const weedResults = nTypeResults => {
-  for (const { nodeSets, intersection } of nTypeResults) {
-    weedByNType(nodeSets, intersection)
-  }
+  weedByNType(nTypeResults)
   weedAcrossTypes(nTypeResults)
 }
 
-const composeResults = results => {
+const composeResults = nTypeResults => {
   /* Collect result nodes into containers of type ??? (from interface)
    * Take care that the nodes are canonically sorted in the result containers
    * and that the result containers themselves are sorted.
    * Also compose a map from nodes to character positions
    */
+
+  let containerType = getRadio('by')
+  if (!containerType) {
+    containerType = defaultByType()
+  }
+  const showLayers = getChecked('show')
+  console.log({ containerType, showLayers })
+
+  const results = nTypeResults
+  return results
 }
 
 const displayResults = results => {
@@ -236,13 +234,21 @@ const displayResults = results => {
    * of the source string for that node.
    */
 
-  console.log(results)
+  console.log(`displayResults ${results.length}`)
 }
 
-const feedBack = (box, ebox, msg) => {
-  console.log({ ebox, msg })
+const showError = (box, ebox, msg) => {
+  console.error(msg)
   box.addClass('error')
   ebox.html(msg)
+}
+
+const progress = msg => {
+  console.log(msg)
+}
+
+const clearProgress = pbox => {
+  pbox.html('')
 }
 
 const goAction = () => {
@@ -251,22 +257,42 @@ const goAction = () => {
     e.preventDefault()
     const nTypeResults = gatherResults()
     weedResults(nTypeResults)
-    const results = composeResults(results)
+    const results = composeResults(nTypeResults)
     displayResults(results)
   })
+}
+
+const defaultByType = () => {
+  const { ntypes } = corpus
+  const pos = Math.round((ntypes.length + 1) / 2)
+  return ntypes[pos]
 }
 
 const addWidgets = () => {
   const where = $('#search')
   const { ntypes, layers } = corpus
   const html = []
+  html.push(`
+<table>
+<thead>
+<tr>
+  <th>by</th>
+  <th>show</th>
+  <th>level/pattern</th>
+  <th>layer</th>
+</tr>
+</thead>
+<tbody>
+`)
 
   for (const nType of ntypes) {
-    const typeInfo = layers[nType]
-    if (typeInfo) {
-      html.push(genTypeWidgets(nType, typeInfo))
-    }
+    const typeInfo = layers[nType] || {}
+    html.push(genTypeWidgets(nType, typeInfo))
   }
+  html.push(`
+</tbody>
+</table>
+`)
   html.push(`<button id="go">go</button>`)
   where.html(html.join(''))
 
@@ -274,35 +300,81 @@ const addWidgets = () => {
 }
 
 const genTypeWidgets = (nType, typeInfo) => {
-  const html = []
+  const {
+    by: { [nType]: theBy },
+  } = corpus
+  const checked = theBy ? ' checked' : ''
 
+  const html = []
   html.push(`
-<div class="ntype">
-    <p class="ntype-heading">${nType}-layers</p>
+<tr>
+  <td><input type="radio" name="by" value="${nType}" ${checked}></td>
+  <td></td>
+  <td class="lvcell"><span class="lv">${nType}</span></td>
+  <td></td>
+</tr>
 `)
+
   for (const [name, info] of Object.entries(typeInfo)) {
     html.push(genWidget(nType, name, info))
   }
-  html.push(`
-</div>
-`)
   return html.join('')
 }
 
-const genWidget = (nType, name, info) => `
-<div class="layer" id="search_${nType}_${name}">
-  <input class="pattern" type="text" maxlength="${MaxReLength}">
-  <span class="error"></span>
-  ${genLegend(nType, name, info)}
-</div>
+const getRadio = name => $(`input[name="${name}"]:checked`).val()
+
+const getChecked = name =>
+  $(`input[name="${name}"]:checked`).map((i, elem) => elem.value).get()
+
+const genWidget = (nType, name, info) => {
+  const {
+    show: { [nType]: { [name]: theShow } = {} },
+  } = corpus
+  const checked = theShow ? ' checked' : ''
+  return `
+<tr>
+  <td></td>
+  <td><input type="checkbox" name="show" value="${nType}-${name}" ${checked}></td>
+  <td>
+    <input type="text" id="pattern_${nType}_${name}" class="pattern" maxlength="${MaxReLength}">
+    <span id="error_${nType}_${name}" class="error"></span>
+  </td>
+  <td>${genLegend(nType, name, info)}</td>
+</tr>
 `
+}
+
+const genLegend = (nType, name, info) => {
+  const { map } = info
+  const html = []
+
+  if (map) {
+    html.push(`
+<details>
+  <summary class="lyr">${name}</summary>
+`)
+    for (const [acro, full] of Object.entries(map)) {
+      html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
+    }
+    html.push(`
+</details>
+`)
+  } else {
+    html.push(`
+<span class="lyr">${name}</span>
+`)
+  }
+  return html.join('')
+}
 
 /* main
  *
  */
 
 $(() => {
+  const pbox = $('#progress')
   dressUp()
-  warmUp()
+  warmUpData()
   addWidgets()
+  clearProgress(pbox)
 })
