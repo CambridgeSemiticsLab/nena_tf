@@ -11,7 +11,7 @@ const decompress = () => {
   const down = new Map()
 
   for (const [nodeSpec, upN] of up) {
-    if (!(down.has(upN))) {
+    if (!down.has(upN)) {
       down.set(upN, new Set())
     }
     const downs = down.get(upN)
@@ -32,6 +32,7 @@ const decompress = () => {
       }
     }
   }
+  corpus.up = newUp
   corpus.down = down
 }
 
@@ -45,15 +46,25 @@ const dressUp = () => {
 
 const warmUpData = () => {
   progress(`Decompress up-relation and infer down-relation`)
+  const { ntypes } = corpus
+  corpus.ntypesR = [...ntypes]
+  corpus.ntypesR.reverse()
   decompress()
 }
 
-const doSearch = (nType, name, info, regex) => {
-  const { texts: { [nType]: { [name]: text } }, positions } = corpus
+const doSearch = (nType, layer, info, regex) => {
+  const {
+    texts: {
+      [nType]: { [layer]: text },
+    },
+    positions,
+  } = corpus
   const { pos: posKey } = info
-  const { [nType]: { [posKey]: pos } } = positions
+  const {
+    [nType]: { [posKey]: pos },
+  } = positions
   const searchResults = text.matchAll(regex)
-  const resultMap = new Map()
+  const posFromNode = new Map()
   const nodeSet = new Set()
   for (const match of searchResults) {
     const hit = match[0]
@@ -62,33 +73,30 @@ const doSearch = (nType, name, info, regex) => {
     for (let i = start; i < end; i++) {
       const node = pos[i]
       if (node != null) {
-        resultMap.set(i, node)
+        if (!posFromNode.has(node)) {
+          posFromNode.set(node, new Set())
+        }
+        posFromNode.get(node).add(i)
         nodeSet.add(node)
       }
     }
   }
-  return { resultMap, nodeSet }
+  return { posFromNode, nodeSet }
 }
 
-const gatherResults = () => {
-  const { layers } = corpus
+const gather = () => {
+  const { ntypesR, layers } = corpus
 
-  const nTypeResults = {}
-  /* keys: the node types for which successful searches have been performed
-   * values: a pair. The first member of the pair is:
-   * an object with keys: the names of the layers that were successfully searched
-   * and values the pairs [i, node] where i is a position in the searched text
-   * and n is a node that contains that position.
-   * The second member a set of nodes obtained by taking the intersection
-   * of the sets of nodes that occur in the results of each layer.
-   * */
+  const resultsByType = {}
 
-  for (const [nType, typeInfo] of Object.entries(layers)) {
-    // gather results for all layers having nType
+  for (const nType of ntypesR) {
+    const { [nType]: typeInfo = {} } = layers
+    let intersection = null
+    const layerResults = {}
 
-    for (const [name, info] of Object.entries(typeInfo)) {
-      const box = $(`#pattern_${nType}_${name}`)
-      const ebox = $(`#error_${nType}_${name}`)
+    for (const [layer, info] of Object.entries(typeInfo)) {
+      const box = $(`#pattern_${nType}_${layer}`)
+      const ebox = $(`#error_${nType}_${layer}`)
       ebox.val('')
       box.removeClass('error')
       const pattern = box.val()
@@ -106,135 +114,230 @@ const gatherResults = () => {
         showError(box, ebox, `'${pattern}': ${error}`)
         continue
       }
-      if (nTypeResults[nType] == null || nTypeResults[nType]["layers"] == null) {
-        nTypeResults[nType] = { layers: {} }
-      }
-      nTypeResults[nType]['layers'][name] = doSearch(nType, name, info, regex)
-    }
-  }
-  return nTypeResults
-}
-
-const weedByNType = nTypeResults => {
-  // take the intersection of all nodeSets (all with the same nType)
-
-  const intersection = new Set()
-
-  for (const [ nType, { layers }] of Object.entries(nTypeResults)) {
-    const theseSets = Object.values(layers).map(({ nodeSet }) => nodeSet)
-
-    if (theseSets.length == 0) {
-      continue
-    }
-    const firstSet = theseSets[0]
-    for (const n of firstSet) {
-      intersection.add(n)
-    }
-    nTypeResults[nType]["intersection"] = intersection
-
-    if (theseSets.length == 1) {
-      continue
-    }
-    for (const thisSet of theseSets.slice(1)) {
-      for (const n of intersection) {
-        if (!thisSet.has(n)) {
-          intersection.delete(n)
-        }
-      }
-    }
-  }
-}
-
-const weedAcrossTypes = nTypeResults => {
-  /* fill unsearched layers with projections of neighbouring layers
-   * from top to bottom: perform pairwise intersections
-   * repeat taking pairwise intersections until the intersections do not change anymore
-   */
-
-  const nDiffTypes = Object.keys(nTypeResults).length
-  if (nDiffTypes.length <= 1) {
-    return
-  }
-
-  const { up, ntypes } = corpus
-
-  /* We start from the highest level and go downwards
-   * First we find the first level where we have searched
-   */
-
-  let firstType = null
-
-  for (const nType of ntypes) {
-    const { [nType]: { intersection } = {} } = nTypeResults
-
-    if (intersection != null) {
-      firstType = nType
-      break
-    }
-  }
-
-  // we may not have searched, then there is nothing to do
-
-  if (firstType == null) {
-    return
-  }
-
-  /* Work from this level upward, and put in the intersection
-
-  let prevIntersection = null
-
-    const projection = new Set()
-    for (const n in intersection) {
-      if (up.has(n)) {
-        const upN = up.get(n)
-        if (prevIntersection.has(upN)) {
-          projection.add(upN)
-        } else {
-          intersection.delete(n)
-        }
+      const { posFromNode, nodeSet } = doSearch(nType, layer, info, regex)
+      layerResults[layer] = posFromNode
+      if (intersection == null) {
+        intersection = nodeSet
       } else {
-        intersection.delete(n)
+        for (const node of intersection) {
+          if (!nodeSet.has(node)) {
+            intersection.delete(node)
+          }
+        }
       }
     }
-    for (const upN in prevIntersection) {
-      if (!projection.has(upN)) {
-        prevIntersection.delete(upN)
+    resultsByType[nType] = { layers: layerResults || null, nodes: intersection }
+  }
+  return resultsByType
+}
+
+const weed = resultsByType => {
+  const { up, down, ntypes } = corpus
+  const stats = {}
+
+  // determine highest and lowest types in which a search has been performed
+  let hi = null
+  let lo = null
+
+  for (let i = 0; i < ntypes.length; i++) {
+    const nType = ntypes[i]
+    const {
+      [nType]: { nodes },
+    } = resultsByType
+
+    if (nodes != null) {
+      if (lo == null) {
+        lo = i
       }
+      hi = i
     }
   }
-}
+  // done if no search has been performed
+  // also done if just one type has been searched
 
-const weedResults = nTypeResults => {
-  weedByNType(nTypeResults)
-  weedAcrossTypes(nTypeResults)
-}
+  if (hi == null || hi == lo) {
+    return stats
+  }
 
-const composeResults = nTypeResults => {
-  /* Collect result nodes into containers of type ??? (from interface)
-   * Take care that the nodes are canonically sorted in the result containers
-   * and that the result containers themselves are sorted.
-   * Also compose a map from nodes to character positions
+  /*
+   * Suppose we have types 0 .. 7 with hi and lo as follows.
+   *
+   *  0
+   *  1
+   *  2=hi
+   *  3
+   *  4
+   *  5=lo
+   *  6
+   *  7
+   *
+   *  Then we walk through the layers as follows
+   *
+   *  2 dn 3 dn 4 dn 5
+   *  5 up 4 up 3 up 2 up 1 up 0
+   *  5 dn 6 dn 7
    */
 
-  let containerType = getRadio('by')
-  if (!containerType) {
-    containerType = defaultByType()
-  }
-  const showLayers = getChecked('show')
-  console.log({ containerType, showLayers })
+  // intersect downwards
 
-  const results = nTypeResults
-  return results
+  for (let i = hi; i > lo; i--) {
+    const upType = ntypes[i]
+    const dnType = ntypes[i - 1]
+    const {
+      [upType]: { nodes: upNodes },
+      [dnType]: resultsDn = {},
+    } = resultsByType
+    let { nodes: dnNodes } = resultsDn
+    const dnFree = dnNodes == null
+    // project upnodes downward if there was no search in the down type
+    if (dnFree) {
+      dnNodes = new Set()
+      for (const un of upNodes) {
+        if (down.has(un)) {
+          for (const dn of down.get(un)) {
+            dnNodes.add(dn)
+          }
+        }
+      }
+      resultsDn['nodes'] = dnNodes
+    }
+    // if there was a search in the down type, weed out the down nodes that
+    // have no upward partner in the up nodes
+    for (const dn of dnNodes) {
+      if (!up.has(dn) || !upNodes.has(up.get(dn))) {
+        dnNodes.delete(dn)
+      }
+    }
+  }
+
+  // intersect upwards (all the way to the top)
+
+  for (let i = lo; i < ntypes.length - 1; i++) {
+    const dnType = ntypes[i]
+    const upType = ntypes[i + 1]
+    const {
+      [upType]: resultsUp = {},
+      [dnType]: { nodes: dnNodes },
+    } = resultsByType
+
+    const upNodes = new Set()
+    for (const dn of dnNodes) {
+      if (up.has(dn)) {
+        upNodes.add(up.get(dn))
+      }
+    }
+    resultsUp['nodes'] = upNodes
+  }
+
+  // project downwards from the lowest level to the bottom type
+
+  for (let i = lo; i > 0; i--) {
+    const upType = ntypes[i]
+    const dnType = ntypes[i - 1]
+    const {
+      [upType]: { nodes: upNodes },
+      [dnType]: resultsDn = {},
+    } = resultsByType
+    const dnNodes = new Set()
+    for (const un of upNodes) {
+      if (down.has(un)) {
+        for (const dn of down.get(un)) {
+          dnNodes.add(dn)
+        }
+      }
+    }
+    resultsDn['nodes'] = dnNodes
+  }
+
+  // collect statistics
+  //
+  for (const [nType, { nodes }] of Object.entries(resultsByType)) {
+    stats[nType] = nodes.size
+  }
+  return stats
 }
 
-const displayResults = results => {
+const getDescendants = (u, uTypeIndex, typeMap) => {
+  if (uTypeIndex == 0) {
+    return
+  }
+
+  const { down, dtypeOf, ntypes } = corpus
+
+  const uType = ntypes[uTypeIndex]
+  const dType = dtypeOf[uType]
+  const dTypeIndex = uTypeIndex - 1
+
+  const dest = []
+
+  for (const d of down.get(u)) {
+    typeMap.set(d, dType)
+    if (dTypeIndex == 0) {
+      dest.push(d)
+    }
+    else {
+      dest.push([d, getDescendants(d, dTypeIndex, typeMap)])
+    }
+  }
+  return dest
+}
+
+const displayResults = resultsByType => {
   /*
    * Display result tuples
    * Use the map from nodes to character positions to retrieve the matched portion
    * of the source string for that node.
    */
 
-  console.log(`displayResults ${results.length}`)
+  const { up, utypeOf, ntypes } = corpus
+
+  // collect delivery settings from the interface
+
+  const showLayers = getChecked('show')
+
+  let containerType = getRadio('by')
+  if (!containerType) {
+    containerType = defaultByType()
+  }
+  let containerIndex
+  for (let i = 0; i < ntypes.length; i++) {
+    if (ntypes[i] == containerType) {
+      containerIndex = i
+    }
+  }
+
+  const {
+    [containerType]: { nodes: containerNodes },
+  } = resultsByType
+
+  const results = []
+  const typeMap = new Map()
+
+  for (const cn of containerNodes) {
+    // collect the upnodes
+
+    typeMap.set(cn, containerType)
+
+    let un = cn
+    let uType = containerType
+
+    const ancestors = []
+
+    while (up.has(un)) {
+      un = up.get(un)
+      uType = utypeOf[uType]
+      typeMap.set(un, uType)
+      ancestors.unshift(un)
+    }
+
+    // collect the down nodes
+
+    const descendants = getDescendants(cn, containerIndex, typeMap)
+
+    results.push({ cn, ancestors, descendants })
+  }
+
+  console.log({ showLayers, containerType, containerNodes, results, typeMap })
 }
 
 const showError = (box, ebox, msg) => {
@@ -251,26 +354,63 @@ const clearProgress = pbox => {
   pbox.html('')
 }
 
+const showStats = stats => {
+  const { ntypesR } = corpus
+  const where = $('#stats')
+  const html = []
+  html.push(`
+<table>
+<colgroup>
+  <col align="left">
+  <col align="right">
+</colgroup>
+<thead>
+  <tr>
+    <th><i>level</i></th>
+    <th>results</th>
+  </tr>
+</thead>
+<tbody>
+`)
+  for (const nType of ntypesR) {
+    const stat = stats[nType]
+    if (stat == null) {
+      continue
+    }
+    html.push(`
+  <tr>
+    <td><i>${nType}</i></td>
+    <td><b><code>\u00A0${stat}</code></b></td>
+  </tr>
+`)
+  }
+  html.push(`
+</tbody>
+</table>
+`)
+  where.html(html.join(''))
+}
+
 const goAction = () => {
   const button = $(`#go`)
   button.off('click').click(e => {
     e.preventDefault()
-    const nTypeResults = gatherResults()
-    weedResults(nTypeResults)
-    const results = composeResults(nTypeResults)
-    displayResults(results)
+    const resultsByType = gather()
+    const stats = weed(resultsByType)
+    showStats(stats)
+    displayResults(resultsByType)
   })
 }
 
 const defaultByType = () => {
   const { ntypes } = corpus
-  const pos = Math.round((ntypes.length + 1) / 2)
+  const pos = Math.round(ntypes.length / 2)
   return ntypes[pos]
 }
 
 const addWidgets = () => {
   const where = $('#search')
-  const { ntypes, layers } = corpus
+  const { ntypesR, layers } = corpus
   const html = []
   html.push(`
 <table>
@@ -285,7 +425,7 @@ const addWidgets = () => {
 <tbody>
 `)
 
-  for (const nType of ntypes) {
+  for (const nType of ntypesR) {
     const typeInfo = layers[nType] || {}
     html.push(genTypeWidgets(nType, typeInfo))
   }
@@ -293,7 +433,10 @@ const addWidgets = () => {
 </tbody>
 </table>
 `)
-  html.push(`<button id="go">go</button>`)
+  html.push(`
+<button id="go">go</button>
+<div class="stats" id="stats"></div>
+`)
   where.html(html.join(''))
 
   goAction()
@@ -315,8 +458,8 @@ const genTypeWidgets = (nType, typeInfo) => {
 </tr>
 `)
 
-  for (const [name, info] of Object.entries(typeInfo)) {
-    html.push(genWidget(nType, name, info))
+  for (const [layer, info] of Object.entries(typeInfo)) {
+    html.push(genWidget(nType, layer, info))
   }
   return html.join('')
 }
@@ -324,34 +467,36 @@ const genTypeWidgets = (nType, typeInfo) => {
 const getRadio = name => $(`input[name="${name}"]:checked`).val()
 
 const getChecked = name =>
-  $(`input[name="${name}"]:checked`).map((i, elem) => elem.value).get()
+  $(`input[name="${name}"]:checked`)
+    .map((i, elem) => elem.value)
+    .get()
 
-const genWidget = (nType, name, info) => {
+const genWidget = (nType, layer, info) => {
   const {
-    show: { [nType]: { [name]: theShow } = {} },
+    show: { [nType]: { [layer]: theShow } = {} },
   } = corpus
   const checked = theShow ? ' checked' : ''
   return `
 <tr>
   <td></td>
-  <td><input type="checkbox" name="show" value="${nType}-${name}" ${checked}></td>
+  <td><input type="checkbox" name="show" value="${nType}-${layer}" ${checked}></td>
   <td>
-    <input type="text" id="pattern_${nType}_${name}" class="pattern" maxlength="${MaxReLength}">
-    <span id="error_${nType}_${name}" class="error"></span>
+    <input type="text" id="pattern_${nType}_${layer}" class="pattern" maxlength="${MaxReLength}">
+    <span id="error_${nType}_${layer}" class="error"></span>
   </td>
-  <td>${genLegend(nType, name, info)}</td>
+  <td>${genLegend(nType, layer, info)}</td>
 </tr>
 `
 }
 
-const genLegend = (nType, name, info) => {
+const genLegend = (nType, layer, info) => {
   const { map } = info
   const html = []
 
   if (map) {
     html.push(`
 <details>
-  <summary class="lyr">${name}</summary>
+  <summary class="lyr">${layer}</summary>
 `)
     for (const [acro, full] of Object.entries(map)) {
       html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
@@ -361,7 +506,7 @@ const genLegend = (nType, name, info) => {
 `)
   } else {
     html.push(`
-<span class="lyr">${name}</span>
+<span class="lyr">${layer}</span>
 `)
   }
   return html.join('')
