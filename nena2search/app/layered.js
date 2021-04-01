@@ -11,6 +11,8 @@ const tell = msg => {
   }
 }
 
+let resultsByType = null
+
 const showError = (box, ebox, msg) => {
   console.error(msg)
   box.addClass('error')
@@ -145,7 +147,7 @@ const doSearch = (nType, layer, info, regex) => {
 const gather = () => {
   const { ntypesR, layers } = corpus
 
-  const resultsByType = {}
+  resultsByType = {}
 
   for (const nType of ntypesR) {
     const { [nType]: typeInfo = {} } = layers
@@ -187,10 +189,9 @@ const gather = () => {
     const matches = matchesByLayer || null
     resultsByType[nType] = { matches, nodes: intersection }
   }
-  return resultsByType
 }
 
-const weed = resultsByType => {
+const weed = () => {
   const { up, down, ntypes } = corpus
   const stats = {}
 
@@ -318,7 +319,7 @@ const weed = resultsByType => {
 
 const getDescendants = (u, uTypeIndex, typeMap) => {
   if (uTypeIndex == 0) {
-    return
+    return []
   }
 
   const { down, dtypeOf, ntypes } = corpus
@@ -359,49 +360,45 @@ const getDisplaySettings = () => {
   return { showLayers, containerType }
 }
 
-const compose = (resultsByType, containerType) => {
-  const { up, utypeOf, ntypesI } = corpus
-
-  const {
-    [containerType]: { nodes: containerNodes },
-  } = resultsByType
-
-  const results = []
-  const typeMap = new Map()
-
-  for (const cn of containerNodes) {
-    // collect the upnodes
-
-    typeMap.set(cn, containerType)
-
-    let un = cn
-    let uType = containerType
-
-    const ancestors = []
-
-    while (up.has(un)) {
-      un = up.get(un)
-      uType = utypeOf[uType]
-      typeMap.set(un, uType)
-      ancestors.unshift(un)
-    }
-
-    // collect the down nodes
-
-    const descendants = getDescendants(cn, ntypesI.get(containerType), typeMap)
-
-    results.push({ cn, ancestors, descendants })
-  }
-  return { results, typeMap }
-}
-
-const displayResults = resultsByType => {
-  const { layers, texts, iPositions, ntypesI } = corpus
+const displayResults = () => {
+  const { layers, texts, iPositions, ntypesI, up, utypeOf } = corpus
   const { showLayers, containerType } = getDisplaySettings()
-  const { results, typeMap } = compose(
-    resultsByType,
-    containerType
-  )
+
+  const compose = () => {
+    const {
+      [containerType]: { nodes: containerNodes },
+    } = resultsByType
+
+    const results = []
+    const typeMap = new Map()
+
+    for (const cn of containerNodes) {
+      // collect the upnodes
+
+      typeMap.set(cn, containerType)
+
+      let un = cn
+      let uType = containerType
+
+      const ancestors = []
+
+      while (up.has(un)) {
+        un = up.get(un)
+        uType = utypeOf[uType]
+        typeMap.set(un, uType)
+        ancestors.unshift(un)
+      }
+
+      // collect the down nodes
+
+      const descendants = getDescendants(cn, ntypesI.get(containerType), typeMap)
+
+      results.push({ cn, ancestors, descendants })
+    }
+    return { results, typeMap }
+  }
+
+  const { results, typeMap } = compose()
 
   tell({ showLayers, results, resultsByType, typeMap })
 
@@ -582,10 +579,10 @@ const goAction = () => {
   const button = $(`#go`)
   button.off('click').click(e => {
     e.preventDefault()
-    const resultsByType = gather()
-    const stats = weed(resultsByType)
+    gather()
+    const stats = weed()
     showStats(stats)
-    displayResults(resultsByType)
+    displayResults()
   })
 }
 
@@ -625,6 +622,8 @@ const addWidgets = () => {
 <div class="stats" id="stats"></div>
 `)
   where.html(html.join(''))
+  activateDisplay("by")
+  activateDisplay("show")
 
   goAction()
 }
@@ -657,6 +656,14 @@ const getChecked = name =>
   $(`input[name="${name}"]:checked`)
     .map((i, elem) => elem.value)
     .get()
+
+const activateDisplay = name => {
+  $(`input[name="${name}"]`).off('click').click(() => {
+    if (resultsByType != null) {
+      displayResults()
+    }
+  })
+}
 
 const genWidget = (nType, layer, info) => {
   const {
