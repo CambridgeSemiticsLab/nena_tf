@@ -396,7 +396,7 @@ const compose = (resultsByType, containerType) => {
 }
 
 const displayResults = resultsByType => {
-  const { texts, iPositions, ntypesI } = corpus
+  const { layers, texts, iPositions, ntypesI } = corpus
   const { showLayers, containerType } = getDisplaySettings()
   const { results, typeMap } = compose(
     resultsByType,
@@ -406,11 +406,12 @@ const displayResults = resultsByType => {
   tell({ showLayers, results, resultsByType, typeMap })
 
   const getValueHtml = (nType, layer, node) => {
+    const { [nType]: { [layer]: { pos: posKey } } } = layers
     const {
       [nType]: { [layer]: text },
     } = texts
     const {
-      [nType]: { [layer]: iPos },
+      [nType]: { [posKey]: iPos },
     } = iPositions
     const myPositions = iPos.get(node)
     const { [nType]: { matches: { [layer]: matches } = {} } = {} } = resultsByType
