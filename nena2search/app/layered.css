@@ -82,15 +82,43 @@ div.rightcol {
 .lv {
   background-color: #dddddd;
   border-radius: 0.3em;
-  padding: 0.3em 0.3em 0.3em 0.3em;
-  margin: 0.5em 0.5em 0.5em 0.5em;
+  padding: 0.3em;
+  margin: 0.5em;
 }
 .lyr {
   background-color: #eeeeee;
   border-radius: 0.1em;
-  padding: 0.2em 0.2em 0.2em 0.2em;
-  margin: 0.2em 0.2em 0.2em 0.2em;
+  padding: 0.2em;
+  margin: 0.2em;
 }
 .stats {
   background-color: #ddddff;
+}
+.hl {
+  background-color: #ffff00;
+}
+.hlh {
+  border: 0.2em solid #ddaa00;
+  background-color: #eeeeee;
+}
+.o {
+  border: 2px solid #bbbbbb;
+  background-color: #fafafa;
+}
+.hlh, .o {
+  display: inline-flex;
+	flex-flow: row wrap;
+  border-radius: 0.2em;
+  padding: 0.2em;
+  margin: 0.2em;
+}
+.m {
+  display: inline-flex;
+	flex-flow: column nowrap;
+}
+.h {
+  border-radius: 0.1em;
+  border: 2px solid #dddddd;
+  padding: 0.1em;
+  margin: 0.3em;
 }

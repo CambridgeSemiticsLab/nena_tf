@@ -3,38 +3,25 @@
 /* global corpus */
 
 const NUMBER = 'number'
-const MaxReLength = 1000
+const DEBUG = true
 
-const decompress = () => {
-  const { up } = corpus
-  const newUp = new Map()
-  const down = new Map()
-
-  for (const [nodeSpec, upN] of up) {
-    if (!down.has(upN)) {
-      down.set(upN, new Set())
-    }
-    const downs = down.get(upN)
-    if (typeof nodeSpec === NUMBER) {
-      newUp[nodeSpec] = upN
-      downs.add(nodeSpec)
-    } else {
-      for (const nodeRange of nodeSpec) {
-        if (typeof nodeRange === NUMBER) {
-          newUp.set(nodeRange, upN)
-          downs.add(nodeRange)
-        } else {
-          for (let n = nodeRange[0]; n <= nodeRange[1]; n++) {
-            newUp.set(n, upN)
-            downs.add(n)
-          }
-        }
-      }
-    }
+const tell = msg => {
+  if (DEBUG) {
+    console.log(msg)
   }
-  corpus.up = newUp
-  corpus.down = down
 }
+
+const showError = (box, ebox, msg) => {
+  console.error(msg)
+  box.addClass('error')
+  ebox.html(msg)
+}
+
+const clearProgress = pbox => {
+  pbox.html('')
+}
+
+const MaxReLength = 1000
 
 const dressUp = () => {
   const {
@@ -44,12 +31,83 @@ const dressUp = () => {
   $('#title').html(title)
 }
 
+const decompress = () => {
+  const { up } = corpus
+  const newUp = new Map()
+  const down = new Map()
+
+  for (const line of up) {
+    const [spec, uStr] = line.split('\t')
+    const u = uStr >> 0
+    if (!down.has(u)) {
+      down.set(u, new Set())
+    }
+
+    const ns = []
+    const ranges = spec.split(',')
+
+    for (const range of ranges) {
+      const bounds = range.split('-').map(x => x >> 0)
+      if (bounds.length == 1) {
+        ns.push(bounds[0])
+      } else {
+        for (let i = bounds[0]; i <= bounds[1]; i++) {
+          ns.push(i)
+        }
+      }
+    }
+    const downs = down.get(u)
+    for (const n of ns) {
+      newUp.set(n, u)
+      downs.add(n)
+    }
+  }
+  corpus.up = newUp
+  corpus.down = down
+}
+
+const invertPositionMaps = () => {
+  const { positions } = corpus
+
+  const iPositions = {}
+
+  for (const [nType, typeInfo] of Object.entries(positions)) {
+    for (const [layer, pos] of Object.entries(typeInfo)) {
+      const iPos = new Map()
+      for (let i = 0; i < pos.length; i++) {
+        const node = pos[i]
+        if (node == null) {
+          continue
+        }
+        if (!iPos.has(node)) {
+          iPos.set(node, [])
+        }
+        iPos.get(node).push(i)
+      }
+      if (iPositions[nType] == null) {
+        iPositions[nType] = {}
+      }
+      iPositions[nType][layer] = iPos
+    }
+  }
+  corpus.iPositions = iPositions
+}
+
 const warmUpData = () => {
-  progress(`Decompress up-relation and infer down-relation`)
   const { ntypes } = corpus
   corpus.ntypesR = [...ntypes]
   corpus.ntypesR.reverse()
+  const ntypesI = new Map()
+  for (let i = 0; i < ntypes.length; i++) {
+    ntypesI.set(ntypes[i], i)
+  }
+  corpus.ntypesI = ntypesI
+
+  tell(`Decompress up-relation and infer down-relation`)
   decompress()
+  tell(`Infer inverted position maps`)
+  invertPositionMaps()
+  tell(`Done`)
 }
 
 const doSearch = (nType, layer, info, regex) => {
@@ -92,7 +150,7 @@ const gather = () => {
   for (const nType of ntypesR) {
     const { [nType]: typeInfo = {} } = layers
     let intersection = null
-    const layerResults = {}
+    const matchesByLayer = {}
 
     for (const [layer, info] of Object.entries(typeInfo)) {
       const box = $(`#pattern_${nType}_${layer}`)
@@ -115,7 +173,7 @@ const gather = () => {
         continue
       }
       const { posFromNode, nodeSet } = doSearch(nType, layer, info, regex)
-      layerResults[layer] = posFromNode
+      matchesByLayer[layer] = posFromNode
       if (intersection == null) {
         intersection = nodeSet
       } else {
@@ -126,7 +184,8 @@ const gather = () => {
         }
       }
     }
-    resultsByType[nType] = { layers: layerResults || null, nodes: intersection }
+    const matches = matchesByLayer || null
+    resultsByType[nType] = { matches, nodes: intersection }
   }
   return resultsByType
 }
@@ -274,37 +333,34 @@ const getDescendants = (u, uTypeIndex, typeMap) => {
     typeMap.set(d, dType)
     if (dTypeIndex == 0) {
       dest.push(d)
-    }
-    else {
+    } else {
       dest.push([d, getDescendants(d, dTypeIndex, typeMap)])
     }
   }
   return dest
 }
 
-const displayResults = resultsByType => {
-  /*
-   * Display result tuples
-   * Use the map from nodes to character positions to retrieve the matched portion
-   * of the source string for that node.
-   */
-
-  const { up, utypeOf, ntypes } = corpus
-
+const getDisplaySettings = () => {
   // collect delivery settings from the interface
 
-  const showLayers = getChecked('show')
+  const showLayersList = getChecked('show').map(x => x.split('-'))
+  const showLayers = new Map()
+  for (const [nType, layer] of showLayersList) {
+    if (!showLayers.has(nType)) {
+      showLayers.set(nType, [])
+    }
+    showLayers.get(nType).push(layer)
+  }
 
   let containerType = getRadio('by')
   if (!containerType) {
     containerType = defaultByType()
   }
-  let containerIndex
-  for (let i = 0; i < ntypes.length; i++) {
-    if (ntypes[i] == containerType) {
-      containerIndex = i
-    }
-  }
+  return { showLayers, containerType }
+}
+
+const compose = (resultsByType, containerType) => {
+  const { up, utypeOf, ntypesI } = corpus
 
   const {
     [containerType]: { nodes: containerNodes },
@@ -332,26 +388,156 @@ const displayResults = resultsByType => {
 
     // collect the down nodes
 
-    const descendants = getDescendants(cn, containerIndex, typeMap)
+    const descendants = getDescendants(cn, ntypesI.get(containerType), typeMap)
 
     results.push({ cn, ancestors, descendants })
   }
-
-  console.log({ showLayers, containerType, containerNodes, results, typeMap })
+  return { results, typeMap }
 }
 
-const showError = (box, ebox, msg) => {
-  console.error(msg)
-  box.addClass('error')
-  ebox.html(msg)
-}
+const displayResults = resultsByType => {
+  const { texts, iPositions, ntypesI } = corpus
+  const { showLayers, containerType } = getDisplaySettings()
+  const { results, typeMap } = compose(
+    resultsByType,
+    containerType
+  )
 
-const progress = msg => {
-  console.log(msg)
-}
+  tell({ showLayers, results, resultsByType, typeMap })
 
-const clearProgress = pbox => {
-  pbox.html('')
+  const getValueHtml = (nType, layer, node) => {
+    const {
+      [nType]: { [layer]: text },
+    } = texts
+    const {
+      [nType]: { [layer]: iPos },
+    } = iPositions
+    const myPositions = iPos.get(node)
+    const { [nType]: { matches: { [layer]: matches } = {} } = {} } = resultsByType
+    const myMatches =
+      matches == null || !matches.has(node) ? new Set() : matches.get(node)
+
+    const spans = []
+    let curHl = null
+    for (const i of myPositions) {
+      const hl = myMatches.has(i)
+      if (curHl == null || curHl != hl) {
+        const newSpan = [hl, text[i]]
+        spans.push(newSpan)
+        curHl = hl
+      }
+      else {
+        spans[spans.length - 1][1] += text[i]
+      }
+    }
+
+    const html = []
+    if (spans.length > 1) {
+      html.push(`<span>`)
+    }
+    for (const [hl, val] of spans) {
+      const hlRep = hl ? ` class="hl"` : ""
+      html.push(`<span${hlRep}>${val}</span>`)
+    }
+    if (spans.length > 1) {
+      html.push(`</span>`)
+    }
+    return html.join("")
+  }
+
+  const genNodeHtml = node => {
+    const [n, children] = typeof node === NUMBER ? [node, []] : node
+    const nType = typeMap.get(n)
+    const { [nType]: { nodes } } = resultsByType
+
+    const theLayers = showLayers.has(nType) ? showLayers.get(nType) : []
+    const nLayers = theLayers.length
+    const hasLayers = nLayers > 0
+    const hasSingleLayer = nLayers == 1
+    const hasChildren = children.length > 0
+
+    const hlClass = (ntypesI.get(nType) == 0) ? "" : nodes.has(n) ? " hlh" : "o"
+
+    const hlRep = (hlClass == "") ? "" : ` class="${hlClass}"`
+    const lrRep = hasSingleLayer ? "" : ` m`
+    const hdRep = hasChildren ? "h" : ""
+
+    const html = []
+    html.push(`<span${hlRep}>`)
+
+    if (hasLayers) {
+      html.push(`<span class="${hdRep}${lrRep}">`)
+      for (const layer of theLayers) {
+        html.push(`${getValueHtml(nType, layer, n)}`)
+      }
+      html.push(`</span>`)
+    }
+
+    if (hasChildren) {
+      html.push(`<span>`)
+      for (const ch of children) {
+        html.push(genNodeHtml(ch))
+      }
+      html.push(`</span>`)
+    }
+
+    html.push(`</span>`)
+
+    return html.join('')
+  }
+
+  const genAncestorsHtml = ancestors => {
+    const html = ancestors.map(anc => genNodeHtml(anc))
+    return html.join(' ')
+  }
+
+  const genResHtml = (cn, descendants) => {
+    const html = []
+    html.push(`${genNodeHtml(cn)} `)
+    for (const desc of descendants) {
+      html.push(genNodeHtml(desc))
+    }
+    return html.join('')
+  }
+
+  const genResultHtml = (i, result) => {
+    const { ancestors, cn, descendants } = result
+    const ancRep = genAncestorsHtml(ancestors)
+    const resRep = genResHtml(cn, descendants)
+
+    return `
+  <tr>
+  <th>${i}</th>
+  <td>${ancRep}</td>
+  <td>${resRep}</td>
+  </tr>
+  `
+  }
+
+  const genResultsHtml = results => {
+    const html = []
+    html.push(`
+  <table>
+    <thead>
+      <th>n</th>
+      <th>in</th>
+      <th>result</th>
+    </thead>
+    <tbody>
+  `)
+    for (let i = 0; i < results.length; i++) {
+      html.push(genResultHtml(i, results[i]))
+    }
+    html.push(`
+    </tbody>
+  </table>
+  `)
+    return html.join('')
+  }
+
+  const html = genResultsHtml(results)
+  const where = $('#rlst')
+  where.html(html)
 }
 
 const showStats = stats => {
@@ -378,14 +564,14 @@ const showStats = stats => {
       continue
     }
     html.push(`
-  <tr>
-    <td><i>${nType}</i></td>
-    <td><b><code>\u00A0${stat}</code></b></td>
-  </tr>
+<tr>
+  <td><i>${nType}</i></td>
+  <td><b><code>\u00A0${stat}</code></b></td>
+</tr>
 `)
   }
   html.push(`
-</tbody>
+  </tbody>
 </table>
 `)
   where.html(html.join(''))
@@ -476,12 +662,20 @@ const genWidget = (nType, layer, info) => {
     show: { [nType]: { [layer]: theShow } = {} },
   } = corpus
   const checked = theShow ? ' checked' : ''
+
+  const value = DEBUG ? info['value'] || '' : ''
   return `
 <tr>
   <td></td>
   <td><input type="checkbox" name="show" value="${nType}-${layer}" ${checked}></td>
   <td>
-    <input type="text" id="pattern_${nType}_${layer}" class="pattern" maxlength="${MaxReLength}">
+    <input
+      type="text"
+      id="pattern_${nType}_${layer}"
+      class="pattern"
+      maxlength="${MaxReLength}"
+      value="${value}"
+    >
     <span id="error_${nType}_${layer}" class="error"></span>
   </td>
   <td>${genLegend(nType, layer, info)}</td>
