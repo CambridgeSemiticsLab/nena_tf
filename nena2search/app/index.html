@@ -13,17 +13,84 @@
       <div class="leftcol">
         <div class="progress" id="progress">initializing ...</div>
         <h1 id="title"></h1>
-        
-        <div id="search">
+        <table id="query">
+          <thead>
+          <tr>
+            <th>by</th>
+            <th>show</th>
+            <th>level/pattern</th>
+            <th>layer</th>
+          </tr>
+          </thead>
+          <tbody id="querybody">
+          </tbody>
+        </table>
+        <div><button id="go">go</button></div>
+        <table id="stats">
+          <colgroup>
+            <col align="left">
+            <col align="right">
+          </colgroup>
+          <thead>
+            <tr>
+              <th><i>level</i></th>
+              <th>results</th>
+            </tr>
+          </thead>
+          <tbody id="statsbody">
+          </tbody>
+        </table>
+        <div>
+          <input
+            type="file" name="imjname" id="imjname"
+            accept="application/json"
+            class="import"
+          >
+          <button id="importj">import query</button>
+        </div>
+        <div>
+          <input type="text" name="exjname" id="exjname" value="query" class="export">
+          <span class="export">.json</span>
+          <button id="exportj">export query</button>
+        </div>
+        <div>
+          <input type="text" name="exrname" id="exrname" value="query" class="export">
+          <span class="export">.tsv</span>
+          <button id="exportr">export results</button>
         </div>
       </div>
       <div class="midcol">
+        <input
+          type="number"
+          name="setter" id="setter"
+          min="1" max="1" step="1"
+          value="1"
+        >
+        <br>
+        <button id="minp">▲</button>
+        <button id="min2p">▲▲</button>
+        <div class="swrapper">
+          <input
+            type="range"
+            name="slider" id="slider"
+            min="1" max="1" step="1"
+            value="1"
+          >
+        </div>
+        <button id="maxp">▼</button>
+        <button id="max2p">▼▼</button>
+        <div id="total">0</div>
       </div>
       <div class="rightcol">
-        <div id="results">
-          <div id="rctl"></div>
-          <div id="rlst"></div>
-        </div>
+        <table id="resultstable">
+          <thead>
+            <th>n</th>
+            <th>in</th>
+            <th>result</th>
+          </thead>
+          <tbody id="resultsbody">
+          </tbody>
+        </table>
       </div>
     </div>
 		<script src="corpus.js"></script>

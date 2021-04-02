@@ -8,6 +8,14 @@ body, td, th {
   font-family: sans-serif;
 }
 
+table {
+  border-collapse: collapse ! important;
+}
+
+input {
+  border-radius: 3px;
+}
+
 div.page {
 	display: flex;
 	flex-flow: row nowrap;
@@ -18,7 +26,7 @@ div.page {
 }
 
 div.leftcol {
-	flex: 1 1 30rem;
+	flex: 0 0 auto;
 	border-right: 1pt solid var(--fog-rim);
 	padding-left: 4px;
 	padding-right: 8px;
@@ -27,15 +35,15 @@ div.leftcol {
 	-webkit-overflow-scrolling: touch;
 }
 div.midcol {
-	flex: 0 0 auto;
+	flex: 0 0 6rem;
 	padding-left: 8px;
 	padding-right: 8px;
 	height: 99vh;
-	overflow: auto;
+  overflow: visible;
 	-webkit-overflow-scrolling: touch;
 }
 div.rightcol {
-	flex: 10 2 auto;
+	flex: 1 1 auto;
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: flex-start;
@@ -46,6 +54,57 @@ div.rightcol {
 	height: 99vh;
 	overflow: auto;
 	-webkit-overflow-scrolling: touch;
+}
+
+#query {
+  width: 100%;
+}
+#resultsbody td {
+  border-style: solid;
+  border-color: #eeeeee;
+  border-width: 4px 2px;
+}
+#querybody td {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+}
+#querybody tr.qtypefirst > td {
+  border-color: #eeeeee;
+  background-color: #eeeeee;
+}
+#querybody tr.qtypelast > td {
+  border-bottom-color: #eeeeee;
+}
+
+#setter {
+  margin-top: 2rem;
+  color: #000088;
+  background-color: #eeeeff;
+}
+#setter,#total {
+  width: 5rem;
+  font-size: large;
+}
+#total {
+  text-align: left;
+  color: #000000;
+  background-color: #fafafa;
+}
+.swrapper {
+  display: inline-block;
+  width: 3rem;
+  height: 70vh;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+#slider {
+  height: 3rem;
+  width: 70vh;
+  margin 0;
+  transform-origin: 1rem 2rem;
+  transform: rotate(90deg);
 }
 
 .error {
@@ -64,10 +123,37 @@ div.rightcol {
   background-color: #ffbbbb;
 }
 #go {
-  width: 100%;
+  width: calc(100% - 2rem);
   border-radius: 0.5em;
   background-color: #aaaaff;
   font-size: x-large;
+  margin: 1rem;
+}
+#exportj, #exportr {
+  border-radius: 0.5em;
+  background-color: #bbbbff;
+  font-size: large;
+}
+#importj {
+  border-radius: 0.5em;
+  background-color: #bbffbb;
+  font-size: large;
+}
+#imjname {
+  width: 17rem;
+}
+.export {
+  font-family: monospace;
+  font-size: large;
+  color: #000088;
+  background-color: #eeeeff;
+}
+
+.import {
+  font-family: monospace;
+  font-size: large;
+  color: #008800;
+  background-color: #eeffee;
 }
 
 #progress {
@@ -91,7 +177,7 @@ div.rightcol {
   padding: 0.2em;
   margin: 0.2em;
 }
-.stats {
+#stats {
   background-color: #ddddff;
 }
 .hl {
@@ -99,14 +185,17 @@ div.rightcol {
 }
 .hlh {
   border: 0.2em solid #ddaa00;
-  background-color: #eeeeee;
+  color: #000000;
+  background-color: #eeeef4;
 }
 .o {
   border: 2px solid #bbbbbb;
+  color: #777777;
   background-color: #fafafa;
 }
 .hlh, .o {
   display: inline-flex;
+  font-family: monospace;
 	flex-flow: row wrap;
   border-radius: 0.2em;
   padding: 0.2em;

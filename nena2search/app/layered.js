@@ -4,6 +4,8 @@
 
 const NUMBER = 'number'
 const DEBUG = true
+const WINDOW = 20
+const { simpleBase } = corpus
 
 const tell = msg => {
   if (DEBUG) {
@@ -12,6 +14,9 @@ const tell = msg => {
 }
 
 let resultsByType = null
+let resultsComposed = null
+let resultTypeMap = null
+let focusPos = 0
 
 const showError = (box, ebox, msg) => {
   console.error(msg)
@@ -213,9 +218,8 @@ const weed = () => {
     }
   }
   // done if no search has been performed
-  // also done if just one type has been searched
 
-  if (hi == null || hi == lo) {
+  if (hi == null) {
     return stats
   }
 
@@ -317,7 +321,7 @@ const weed = () => {
   return stats
 }
 
-const getDescendants = (u, uTypeIndex, typeMap) => {
+const getDescendants = (u, uTypeIndex) => {
   if (uTypeIndex == 0) {
     return []
   }
@@ -331,11 +335,11 @@ const getDescendants = (u, uTypeIndex, typeMap) => {
   const dest = []
 
   for (const d of down.get(u)) {
-    typeMap.set(d, dType)
+    resultTypeMap.set(d, dType)
     if (dTypeIndex == 0) {
       dest.push(d)
     } else {
-      dest.push([d, getDescendants(d, dTypeIndex, typeMap)])
+      dest.push([d, getDescendants(d, dTypeIndex, resultTypeMap)])
     }
   }
   return dest
@@ -360,105 +364,252 @@ const getDisplaySettings = () => {
   return { showLayers, containerType }
 }
 
-const displayResults = () => {
-  const { layers, texts, iPositions, ntypesI, up, utypeOf } = corpus
-  const { showLayers, containerType } = getDisplaySettings()
+const compose = () => {
+  const { ntypesI, up, utypeOf } = corpus
+  const { containerType } = getDisplaySettings()
 
-  const compose = () => {
-    const {
-      [containerType]: { nodes: containerNodes },
-    } = resultsByType
+  const {
+    [containerType]: { nodes: containerNodes },
+  } = resultsByType
 
-    const results = []
-    const typeMap = new Map()
+  const prevNResults = resultsComposed == null ? 1 : resultsComposed.length
+  const prevNResultsP = Math.max(prevNResults, 1)
+  const prevFocusPos = focusPos
+  const prevRelative = prevFocusPos / prevNResultsP
 
-    for (const cn of containerNodes) {
-      // collect the upnodes
+  resultsComposed = []
+  resultTypeMap = new Map()
 
-      typeMap.set(cn, containerType)
+  for (const cn of containerNodes) {
+    // collect the upnodes
 
-      let un = cn
-      let uType = containerType
+    resultTypeMap.set(cn, containerType)
 
-      const ancestors = []
+    let un = cn
+    let uType = containerType
 
-      while (up.has(un)) {
-        un = up.get(un)
-        uType = utypeOf[uType]
-        typeMap.set(un, uType)
-        ancestors.unshift(un)
-      }
+    const ancestors = []
 
-      // collect the down nodes
-
-      const descendants = getDescendants(cn, ntypesI.get(containerType), typeMap)
-
-      results.push({ cn, ancestors, descendants })
+    while (up.has(un)) {
+      un = up.get(un)
+      uType = utypeOf[uType]
+      resultTypeMap.set(un, uType)
+      ancestors.unshift(un)
     }
-    return { results, typeMap }
+
+    // collect the down nodes
+
+    const descendants = getDescendants(cn, ntypesI.get(containerType))
+
+    resultsComposed.push({ cn, ancestors, descendants })
+  }
+  const slider = $('#slider')
+  const setter = $('#setter')
+  const total = $('#total')
+
+  const nResults = resultsComposed.length
+  const nResultsP = Math.max(nResults, 1)
+  const stepSize = Math.max(Math.round(nResults / 100), 1)
+  focusPos = Math.min(nResults, Math.round(nResults * prevRelative))
+
+  setter.attr('max', nResultsP)
+  setter.attr('step', stepSize)
+  slider.attr('max', nResultsP)
+  slider.attr('step', stepSize)
+  setter.val(focusPos)
+  slider.val(focusPos)
+  total.html(nResults)
+}
+
+const gotoFocus = () => {
+  const rTarget = $(`.focus`)
+  if (rTarget != null && rTarget[0] != null) {
+    rTarget[0].scrollIntoView({ block: 'center' })
+  }
+}
+
+const grabQuery = () => {
+  const query = {}
+  const { layers } = corpus
+
+  for (const [nType, typeInfo] of Object.entries(layers)) {
+    query[nType] = {}
+
+    for (const layer of Object.keys(typeInfo)) {
+      const box = $(`#pattern_${nType}_${layer}`)
+      query[nType][layer] = box.val() || ""
+    }
   }
 
-  const { results, typeMap } = compose()
+  const { containerType, showLayers } = getDisplaySettings()
+  const newShowLayers = {}
+  for (const [nType, layers] of showLayers) {
+    newShowLayers[nType] = layers
+  }
+  const display = { containerType, showLayers: newShowLayers }
+  return { query, display }
+}
 
-  tell({ showLayers, results, resultsByType, typeMap })
+const tabular = () => {
+  if (resultsByType == null) {
+    return null
+  }
+  const { layers, texts, iPositions, ntypes } = corpus
+  const { showLayers } = getDisplaySettings()
 
-  const getValueHtml = (nType, layer, node) => {
-    const { [nType]: { [layer]: { pos: posKey } } } = layers
+  const headFields = ['type']
+  const nodeFields = new Map()
+
+  for (let i = 0; i < ntypes.length; i++) {
+    const nType = ntypes[i]
+    const {
+      [nType]: { matches, nodes },
+    } = resultsByType
+
+    if (nodes == null) {
+      continue
+    }
+
+    const { [nType]: tpLayerInfo } = layers
+    const { [nType]: tpTexts } = texts
+    const { [nType]: tpIPositions } = iPositions
+
+    const exportLayers = showLayers.has(nType) ? showLayers.get(nType) : []
+
+    for (const layer of exportLayers) {
+      const tpLayer = `${nType}:${layer}`
+      headFields.push(tpLayer)
+
+      const {
+        [layer]: { pos: posKey },
+      } = tpLayerInfo
+      const { [layer]: text } = tpTexts
+      const { [posKey]: iPos } = tpIPositions
+      const { [layer]: lrMatches } = matches
+
+      for (const node of nodes) {
+        if (!nodeFields.has(node)) {
+          nodeFields.set(node, new Map())
+        }
+        const fields = nodeFields.get(node)
+        fields.set('type', nType)
+
+        const nodeIPositions = iPos.get(node)
+        const nodeMatches =
+          lrMatches == null || !lrMatches.has(node) ? new Set() : lrMatches.get(node)
+        const spans = getHLText(nodeIPositions, nodeMatches, text)
+
+        let piece = ''
+        for (const [hl, val] of spans) {
+          piece += `${hl ? '«' : ''}${val}${hl ? '»' : ''}`
+        }
+        fields.set(tpLayer, piece)
+      }
+    }
+  }
+
+  const headLine = `node\t${headFields.join('\t')}\n`
+  const lines = [headLine]
+
+  for (let i = 0; i < ntypes.length; i++) {
+    const nType = ntypes[i]
+    const {
+      [nType]: { nodes },
+    } = resultsByType
+    if (nodes == null) {
+      continue
+    }
+
+    const sortedNodes = [...nodes].sort()
+
+    for (const node of sortedNodes) {
+      const thisLine = [`${node}`]
+      const fields = nodeFields.has(node) ? nodeFields.get(node) : new Map()
+
+      for (const headField of headFields) {
+        thisLine.push(fields.has(headField) ? fields.get(headField) : '')
+      }
+      lines.push(`${thisLine.join("\t")}\n`)
+    }
+  }
+
+  return lines
+}
+
+const getHLText = (iPositions, matches, text) => {
+  const spans = []
+  let curHl = null
+  for (const i of iPositions) {
+    const hl = matches.has(i)
+    if (curHl == null || curHl != hl) {
+      const newSpan = [hl, text[i]]
+      spans.push(newSpan)
+      curHl = hl
+    } else {
+      spans[spans.length - 1][1] += text[i]
+    }
+  }
+  return spans
+}
+
+const display = () => {
+  const { layers, texts, iPositions, ntypesI } = corpus
+  const { showLayers } = getDisplaySettings()
+
+  const genValueHtml = (nType, layer, node) => {
+    const {
+      [nType]: {
+        [layer]: { pos: posKey },
+      },
+    } = layers
     const {
       [nType]: { [layer]: text },
     } = texts
     const {
       [nType]: { [posKey]: iPos },
     } = iPositions
-    const myPositions = iPos.get(node)
+    const nodeIPositions = iPos.get(node)
     const { [nType]: { matches: { [layer]: matches } = {} } = {} } = resultsByType
-    const myMatches =
+    const nodeMatches =
       matches == null || !matches.has(node) ? new Set() : matches.get(node)
 
-    const spans = []
-    let curHl = null
-    for (const i of myPositions) {
-      const hl = myMatches.has(i)
-      if (curHl == null || curHl != hl) {
-        const newSpan = [hl, text[i]]
-        spans.push(newSpan)
-        curHl = hl
-      }
-      else {
-        spans[spans.length - 1][1] += text[i]
-      }
-    }
+    const spans = getHLText(nodeIPositions, nodeMatches, text)
 
     const html = []
     if (spans.length > 1) {
       html.push(`<span>`)
     }
     for (const [hl, val] of spans) {
-      const hlRep = hl ? ` class="hl"` : ""
+      const hlRep = hl ? ` class="hl"` : ''
       html.push(`<span${hlRep}>${val}</span>`)
     }
     if (spans.length > 1) {
       html.push(`</span>`)
     }
-    return html.join("")
+    return html.join('')
   }
 
   const genNodeHtml = node => {
     const [n, children] = typeof node === NUMBER ? [node, []] : node
-    const nType = typeMap.get(n)
-    const { [nType]: { nodes } } = resultsByType
+    const nType = resultTypeMap.get(n)
+    const {
+      [nType]: { nodes },
+    } = resultsByType
 
     const theLayers = showLayers.has(nType) ? showLayers.get(nType) : []
     const nLayers = theLayers.length
     const hasLayers = nLayers > 0
     const hasSingleLayer = nLayers == 1
     const hasChildren = children.length > 0
+    if (!hasLayers && !hasChildren) {
+      return ''
+    }
 
-    const hlClass = (ntypesI.get(nType) == 0) ? "" : nodes.has(n) ? " hlh" : "o"
+    const hlClass = (simpleBase && ntypesI.get(nType) == 0) ? '' : nodes.has(n) ? ' hlh' : 'o'
 
-    const hlRep = (hlClass == "") ? "" : ` class="${hlClass}"`
-    const lrRep = hasSingleLayer ? "" : ` m`
-    const hdRep = hasChildren ? "h" : ""
+    const hlRep = hlClass == '' ? '' : ` class="${hlClass}"`
+    const lrRep = hasSingleLayer ? '' : ` m`
+    const hdRep = hasChildren ? 'h' : ''
 
     const html = []
     html.push(`<span${hlRep}>`)
@@ -466,7 +617,7 @@ const displayResults = () => {
     if (hasLayers) {
       html.push(`<span class="${hdRep}${lrRep}">`)
       for (const layer of theLayers) {
-        html.push(`${getValueHtml(nType, layer, n)}`)
+        html.push(`${genValueHtml(nType, layer, n)}`)
       }
       html.push(`</span>`)
     }
@@ -498,64 +649,41 @@ const displayResults = () => {
     return html.join('')
   }
 
-  const genResultHtml = (i, result) => {
+  const genResultHtml = (i, result, isFocus) => {
     const { ancestors, cn, descendants } = result
     const ancRep = genAncestorsHtml(ancestors)
     const resRep = genResHtml(cn, descendants)
+    const focusCls = isFocus ? ` class="focus"` : ''
 
     return `
-  <tr>
+<tr${focusCls}>
   <th>${i}</th>
   <td>${ancRep}</td>
   <td>${resRep}</td>
-  </tr>
+</tr>
   `
   }
 
-  const genResultsHtml = results => {
+  const genResultsHtml = () => {
+    const startPos = Math.max(focusPos - WINDOW, 0)
+    const endPos = Math.min(startPos + 2 * WINDOW + 1, resultsComposed.length - 1)
     const html = []
-    html.push(`
-  <table>
-    <thead>
-      <th>n</th>
-      <th>in</th>
-      <th>result</th>
-    </thead>
-    <tbody>
-  `)
-    for (let i = 0; i < results.length; i++) {
-      html.push(genResultHtml(i, results[i]))
+    for (let i = startPos; i <= endPos; i++) {
+      html.push(genResultHtml(i, resultsComposed[i], i == focusPos))
     }
-    html.push(`
-    </tbody>
-  </table>
-  `)
     return html.join('')
   }
 
-  const html = genResultsHtml(results)
-  const where = $('#rlst')
+  const html = genResultsHtml()
+  const where = $('#resultsbody')
   where.html(html)
+  gotoFocus()
 }
 
 const showStats = stats => {
   const { ntypesR } = corpus
-  const where = $('#stats')
+  const where = $('#statsbody')
   const html = []
-  html.push(`
-<table>
-<colgroup>
-  <col align="left">
-  <col align="right">
-</colgroup>
-<thead>
-  <tr>
-    <th><i>level</i></th>
-    <th>results</th>
-  </tr>
-</thead>
-<tbody>
-`)
   for (const nType of ntypesR) {
     const stat = stats[nType]
     if (stat == null) {
@@ -568,10 +696,6 @@ const showStats = stats => {
 </tr>
 `)
   }
-  html.push(`
-  </tbody>
-</table>
-`)
   where.html(html.join(''))
 }
 
@@ -582,7 +706,8 @@ const goAction = () => {
     gather()
     const stats = weed()
     showStats(stats)
-    displayResults()
+    compose()
+    display()
   })
 }
 
@@ -593,37 +718,17 @@ const defaultByType = () => {
 }
 
 const addWidgets = () => {
-  const where = $('#search')
+  const where = $('#querybody')
   const { ntypesR, layers } = corpus
   const html = []
-  html.push(`
-<table>
-<thead>
-<tr>
-  <th>by</th>
-  <th>show</th>
-  <th>level/pattern</th>
-  <th>layer</th>
-</tr>
-</thead>
-<tbody>
-`)
 
   for (const nType of ntypesR) {
     const typeInfo = layers[nType] || {}
     html.push(genTypeWidgets(nType, typeInfo))
   }
-  html.push(`
-</tbody>
-</table>
-`)
-  html.push(`
-<button id="go">go</button>
-<div class="stats" id="stats"></div>
-`)
   where.html(html.join(''))
-  activateDisplay("by")
-  activateDisplay("show")
+  activateBy()
+  activateShow()
 
   goAction()
 }
@@ -636,7 +741,7 @@ const genTypeWidgets = (nType, typeInfo) => {
 
   const html = []
   html.push(`
-<tr>
+<tr class="qtypefirst">
   <td><input type="radio" name="by" value="${nType}" ${checked}></td>
   <td></td>
   <td class="lvcell"><span class="lv">${nType}</span></td>
@@ -644,8 +749,11 @@ const genTypeWidgets = (nType, typeInfo) => {
 </tr>
 `)
 
-  for (const [layer, info] of Object.entries(typeInfo)) {
-    html.push(genWidget(nType, layer, info))
+  const theseLayers = Object.entries(typeInfo)
+  let i = 0
+  for (const [layer, info] of theseLayers) {
+    i += 1
+    html.push(genWidget(nType, layer, info, i == theseLayers.length))
   }
   return html.join('')
 }
@@ -657,23 +765,37 @@ const getChecked = name =>
     .map((i, elem) => elem.value)
     .get()
 
-const activateDisplay = name => {
-  $(`input[name="${name}"]`).off('click').click(() => {
-    if (resultsByType != null) {
-      displayResults()
-    }
-  })
+const activateBy = () => {
+  $(`input[name="by"]`)
+    .off('click')
+    .click(() => {
+      if (resultsByType != null) {
+        compose()
+        display()
+      }
+    })
 }
 
-const genWidget = (nType, layer, info) => {
+const activateShow = () => {
+  $(`input[name="show"]`)
+    .off('click')
+    .click(() => {
+      if (resultsByType != null) {
+        display()
+      }
+    })
+}
+
+const genWidget = (nType, layer, info, isLast) => {
   const {
     show: { [nType]: { [layer]: theShow } = {} },
   } = corpus
   const checked = theShow ? ' checked' : ''
 
   const value = DEBUG ? info['value'] || '' : ''
+  const lastCls = isLast ? ` class="qtypelast"` : ''
   return `
-<tr>
+<tr${lastCls}>
   <td></td>
   <td><input type="checkbox" name="show" value="${nType}-${layer}" ${checked}></td>
   <td>
@@ -714,6 +836,121 @@ const genLegend = (nType, layer, info) => {
   return html.join('')
 }
 
+const save = fileName => {
+  const job = grabQuery()
+  const text = JSON.stringify(job)
+  tell({ job, text })
+  download(text, fileName, "json", false)
+}
+
+const deliver = fileName => {
+  const lines = tabular()
+  const text = lines.join("")
+  download(text, fileName, "tsv", true)
+}
+
+const download = (text, fileName, ext, asUtf16) => {
+  let blob
+
+  if (asUtf16) {
+    const byteArray = []
+
+    byteArray.push(255, 254)
+
+    for (let i = 0; i < text.length; ++i) {
+      const charCode = text.charCodeAt(i)
+      byteArray.push(charCode & 0xff)
+      byteArray.push(charCode / 256 >>> 0)
+    }
+
+    blob = new Blob([new Uint8Array(byteArray)], {type: "text/plain;charset=UTF-16LE;"})
+  }
+  else {
+    blob = new Blob([text], {type: "text/plain;charset=UTF-8;"})
+  }
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+  link.setAttribute("href", url)
+  link.setAttribute("download", `${fileName}.${ext}`)
+  link.style.visibility = 'hidden'
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+}
+
+const activateNumberControl = () => {
+  const slider = $('#slider')
+  const setter = $('#setter')
+  const minp = $('#minp')
+  const min2p = $('#min2p')
+  const maxp = $('#maxp')
+  const max2p = $('#max2p')
+
+  slider.off('change').change(() => {
+    focusPos = slider.val()
+    setter.val(focusPos)
+    display()
+  })
+  setter.off('change').change(() => {
+    focusPos = setter.val()
+    slider.val(focusPos)
+    display()
+  })
+  minp.off('click').click(() => {
+    focusPos = Math.max(0, focusPos - WINDOW)
+    setter.val(focusPos)
+    slider.val(focusPos)
+    display()
+  })
+  min2p.off('click').click(() => {
+    focusPos = Math.max(0, focusPos - 2 * WINDOW)
+    setter.val(focusPos)
+    slider.val(focusPos)
+    display()
+  })
+  maxp.off('click').click(() => {
+    focusPos = Math.min((resultsComposed || []).length - 1, focusPos + WINDOW)
+    setter.val(focusPos)
+    slider.val(focusPos)
+    display()
+  })
+  max2p.off('click').click(() => {
+    focusPos = Math.min((resultsComposed || []).length - 1, focusPos + 2 * WINDOW)
+    setter.val(focusPos)
+    slider.val(focusPos)
+    display()
+  })
+}
+
+const activateExport = () => {
+  const exprButton = $('#exportr')
+  const exprName = $('#exrname')
+  exprButton.off('click').click(() => {
+    if (resultsByType == null) {
+      alert('Query has not been executed yet')
+      return
+    }
+    const fileName = exprName.val()
+    if (fileName == null || fileName == '') {
+      alert('Give a file name for the exported results')
+      return
+    }
+
+    deliver(fileName)
+  })
+  const expjButton = $('#exportj')
+  const expjName = $('#exjname')
+  expjButton.off('click').click(() => {
+    const fileName = expjName.val()
+    if (fileName == null || fileName == '') {
+      alert('Give a file name for the exported query')
+      return
+    }
+
+    save(fileName)
+  })
+}
+
 /* main
  *
  */
@@ -723,5 +960,7 @@ $(() => {
   dressUp()
   warmUpData()
   addWidgets()
+  activateNumberControl()
+  activateExport()
   clearProgress(pbox)
 })
