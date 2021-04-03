@@ -140,7 +140,7 @@ div.rightcol {
   font-size: large;
 }
 #imjname {
-  width: 17rem;
+  display: none;
 }
 .export {
   font-family: monospace;

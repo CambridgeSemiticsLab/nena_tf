@@ -428,6 +428,35 @@ const gotoFocus = () => {
   }
 }
 
+const loadJob = jobText => {
+  const { layers } = corpus
+
+  const job = JSON.parse(jobText)
+
+  const {
+    query,
+    display: { containerType, showLayers },
+  } = job
+
+  tell({ query, showLayers })
+
+  for (const [nType, typeInfo] of Object.entries(layers)) {
+    const { [nType]: tpShowLayers = [] } = showLayers
+    const { [nType]: tpQuery } = query
+    for (const layer of Object.keys(typeInfo)) {
+      const box = $(`#pattern_${nType}_${layer}`)
+      const { [layer]: value = '' } = tpQuery
+      box.val(value)
+      setBox("show", `${nType}-${layer}`, false)
+    }
+    for (const layer of tpShowLayers) {
+      setBox("show", `${nType}-${layer}`, true)
+    }
+  }
+  setBox('by', containerType, true)
+
+}
+
 const grabQuery = () => {
   const query = {}
   const { layers } = corpus
@@ -437,7 +466,7 @@ const grabQuery = () => {
 
     for (const layer of Object.keys(typeInfo)) {
       const box = $(`#pattern_${nType}_${layer}`)
-      query[nType][layer] = box.val() || ""
+      query[nType][layer] = box.val() || ''
     }
   }
 
@@ -477,7 +506,7 @@ const tabular = () => {
     const exportLayers = showLayers.has(nType) ? showLayers.get(nType) : []
 
     for (const layer of exportLayers) {
-      const tpLayer = `${nType}:${layer}`
+      const tpLayer = `${nType}-${layer}`
       headFields.push(tpLayer)
 
       const {
@@ -529,7 +558,7 @@ const tabular = () => {
       for (const headField of headFields) {
         thisLine.push(fields.has(headField) ? fields.get(headField) : '')
       }
-      lines.push(`${thisLine.join("\t")}\n`)
+      lines.push(`${thisLine.join('\t')}\n`)
     }
   }
 
@@ -605,7 +634,8 @@ const display = () => {
       return ''
     }
 
-    const hlClass = (simpleBase && ntypesI.get(nType) == 0) ? '' : nodes.has(n) ? ' hlh' : 'o'
+    const hlClass =
+      simpleBase && ntypesI.get(nType) == 0 ? '' : nodes.has(n) ? ' hlh' : 'o'
 
     const hlRep = hlClass == '' ? '' : ` class="${hlClass}"`
     const lrRep = hasSingleLayer ? '' : ` m`
@@ -759,6 +789,8 @@ const genTypeWidgets = (nType, typeInfo) => {
 }
 
 const getRadio = name => $(`input[name="${name}"]:checked`).val()
+const setBox = (name, value, state) =>
+  $(`input[name="${name}"][value="${value}"]`).prop('checked', state)
 
 const getChecked = name =>
   $(`input[name="${name}"]:checked`)
@@ -840,13 +872,13 @@ const save = fileName => {
   const job = grabQuery()
   const text = JSON.stringify(job)
   tell({ job, text })
-  download(text, fileName, "json", false)
+  download(text, fileName, 'json', false)
 }
 
 const deliver = fileName => {
   const lines = tabular()
-  const text = lines.join("")
-  download(text, fileName, "tsv", true)
+  const text = lines.join('')
+  download(text, fileName, 'tsv', true)
 }
 
 const download = (text, fileName, ext, asUtf16) => {
@@ -860,18 +892,19 @@ const download = (text, fileName, ext, asUtf16) => {
     for (let i = 0; i < text.length; ++i) {
       const charCode = text.charCodeAt(i)
       byteArray.push(charCode & 0xff)
-      byteArray.push(charCode / 256 >>> 0)
+      byteArray.push((charCode / 256) >>> 0)
     }
 
-    blob = new Blob([new Uint8Array(byteArray)], {type: "text/plain;charset=UTF-16LE;"})
-  }
-  else {
-    blob = new Blob([text], {type: "text/plain;charset=UTF-8;"})
+    blob = new Blob([new Uint8Array(byteArray)], {
+      type: 'text/plain;charset=UTF-16LE;',
+    })
+  } else {
+    blob = new Blob([text], { type: 'text/plain;charset=UTF-8;' })
   }
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
-  link.setAttribute("href", url)
-  link.setAttribute("download", `${fileName}.${ext}`)
+  link.setAttribute('href', url)
+  link.setAttribute('download', `${fileName}.${ext}`)
   link.style.visibility = 'hidden'
   document.body.appendChild(link)
   link.click()
@@ -922,6 +955,32 @@ const activateNumberControl = () => {
   })
 }
 
+const activateImport = () => {
+  const fileSelect = $('#importj')
+  const fileElem = $('#imjname')
+
+  fileSelect.off('click').click(e => {
+    fileElem.click()
+    e.preventDefault()
+  })
+
+  function handleFiles() {
+    const { files } = this
+    tell({ files })
+    if (!files.length) {
+      alert('No file selected')
+    } else {
+      for (const file of files) {
+        const reader = new FileReader()
+        reader.onload = e => loadJob(e.target.result)
+        reader.readAsText(file)
+      }
+    }
+  }
+
+  fileElem.off('change').change(handleFiles)
+}
+
 const activateExport = () => {
   const exprButton = $('#exportr')
   const exprName = $('#exrname')
@@ -961,6 +1020,7 @@ $(() => {
   warmUpData()
   addWidgets()
   activateNumberControl()
+  activateImport()
   activateExport()
   clearProgress(pbox)
 })
