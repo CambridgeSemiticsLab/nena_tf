@@ -5,58 +5,70 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title></title>
 		<link rel="stylesheet" href="layered.css"/>
-<style>
-</style>
 	</head>
 	<body>
     <div class="page">
       <div class="leftcol">
-        <div class="progress" id="progress">initializing ...</div>
-        <h1 id="title"></h1>
-        <table id="query">
-          <thead>
-          <tr>
-            <th>by</th>
-            <th>show</th>
-            <th>level/pattern</th>
-            <th>layer</th>
-          </tr>
-          </thead>
-          <tbody id="querybody">
-          </tbody>
-        </table>
-        <div><button id="go">go</button></div>
-        <table id="stats">
-          <colgroup>
-            <col align="left">
-            <col align="right">
-          </colgroup>
-          <thead>
+        <div class="progress" id="progress">Javascript is not executing!</div>
+        <details>
+          <summary id="title"></summary>
+          <div id="description"></div>
+        </details>
+        <div id="query">
+          <table id="querytable">
+            <thead>
             <tr>
-              <th><i>level</i></th>
-              <th>results</th>
+              <th>by</th>
+              <th>show</th>
+              <th>level/pattern</th>
+              <th>layer</th>
             </tr>
-          </thead>
-          <tbody id="statsbody">
-          </tbody>
-        </table>
-        <div>
-          <input
-            type="file" name="imjname" id="imjname"
-            accept="application/json"
-            class="import"
-          >
-          <button id="importj">import query</button>
+            </thead>
+            <tbody id="querybody">
+            </tbody>
+          </table>
         </div>
-        <div>
-          <input type="text" name="exjname" id="exjname" value="query" class="export">
-          <span class="export">.json</span>
-          <button id="exportj">export query</button>
+        <div id="stats">
+          <div><button id="go">go</button></div>
+          <table>
+            <colgroup>
+              <col align="left">
+              <col align="right">
+            </colgroup>
+            <thead>
+              <tr>
+                <th><i>level</i></th>
+                <th>results</th>
+              </tr>
+            </thead>
+            <tbody id="statsbody">
+            </tbody>
+          </table>
         </div>
-        <div>
-          <input type="text" name="exrname" id="exrname" value="query" class="export">
-          <span class="export">.tsv</span>
-          <button id="exportr">export results</button>
+        <div id="exchange">
+          <div>
+            <b>import</b>
+            <input
+              type="file" name="imjname" id="imjname"
+              accept="application/json"
+              class="import"
+            >
+            <button id="importj">load job from file</button>
+          </div>
+          <div>
+            <b>export</b>
+            <input type="text" name="exname" id="exname" value="job" class="export">
+            <span class="exports">
+              <span>
+                <span class="export">.json</span>
+                <button id="exportj">save job to file</button>
+              </span>
+              <span>
+                <span class="export">.tsv</span>
+                <button id="exportr">save results to file</button>
+              </span>
+            </span>
+          </div>
         </div>
       </div>
       <div class="midcol">

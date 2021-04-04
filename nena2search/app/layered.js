@@ -18,10 +18,22 @@ let resultsComposed = null
 let resultTypeMap = null
 let focusPos = 0
 
+const reset = () => {
+  resultsByType = null
+  resultsComposed = null
+  resultTypeMap = null
+  focusPos = 0
+}
+
 const showError = (box, ebox, msg) => {
   console.error(msg)
   box.addClass('error')
   ebox.html(msg)
+}
+
+const clearError = (box, ebox) => {
+  box.removeClass('error')
+  ebox.html('')
 }
 
 const clearProgress = pbox => {
@@ -32,10 +44,12 @@ const MaxReLength = 1000
 
 const dressUp = () => {
   const {
+    description,
     captions: { title },
   } = corpus
   $('head>title').html(title)
   $('#title').html(title)
+  $('#description').html(description)
 }
 
 const decompress = () => {
@@ -162,8 +176,7 @@ const gather = () => {
     for (const [layer, info] of Object.entries(typeInfo)) {
       const box = $(`#pattern_${nType}_${layer}`)
       const ebox = $(`#error_${nType}_${layer}`)
-      ebox.val('')
-      box.removeClass('error')
+      clearError(box, ebox)
       const pattern = box.val()
       if (pattern == null || pattern == '') {
         continue
@@ -438,8 +451,6 @@ const loadJob = jobText => {
     display: { containerType, showLayers },
   } = job
 
-  tell({ query, showLayers })
-
   for (const [nType, typeInfo] of Object.entries(layers)) {
     const { [nType]: tpShowLayers = [] } = showLayers
     const { [nType]: tpQuery } = query
@@ -447,14 +458,14 @@ const loadJob = jobText => {
       const box = $(`#pattern_${nType}_${layer}`)
       const { [layer]: value = '' } = tpQuery
       box.val(value)
-      setBox("show", `${nType}-${layer}`, false)
+      setBox('show', `${nType}-${layer}`, false)
     }
     for (const layer of tpShowLayers) {
-      setBox("show", `${nType}-${layer}`, true)
+      setBox('show', `${nType}-${layer}`, true)
     }
   }
   setBox('by', containerType, true)
-
+  reset()
 }
 
 const grabQuery = () => {
@@ -749,12 +760,13 @@ const defaultByType = () => {
 
 const addWidgets = () => {
   const where = $('#querybody')
-  const { ntypesR, layers } = corpus
+  const { ntypesR, layers, levels } = corpus
   const html = []
 
   for (const nType of ntypesR) {
     const typeInfo = layers[nType] || {}
-    html.push(genTypeWidgets(nType, typeInfo))
+    const description = levels[nType] || {}
+    html.push(genTypeWidgets(nType, description, typeInfo))
   }
   where.html(html.join(''))
   activateBy()
@@ -763,18 +775,22 @@ const addWidgets = () => {
   goAction()
 }
 
-const genTypeWidgets = (nType, typeInfo) => {
+const genTypeWidgets = (nType, description, typeInfo) => {
   const {
     by: { [nType]: theBy },
   } = corpus
   const checked = theBy ? ' checked' : ''
+
+  const nTypeRep = description
+    ? `<details><summary class="lv">${nType}</summary><div>${description}</div></details>`
+    : `<span class="lv">${nType}</span>`
 
   const html = []
   html.push(`
 <tr class="qtypefirst">
   <td><input type="radio" name="by" value="${nType}" ${checked}></td>
   <td></td>
-  <td class="lvcell"><span class="lv">${nType}</span></td>
+  <td class="lvcell">${nTypeRep}</td>
   <td></td>
 </tr>
 `)
@@ -846,16 +862,21 @@ const genWidget = (nType, layer, info, isLast) => {
 }
 
 const genLegend = (nType, layer, info) => {
-  const { map } = info
+  const { map, description } = info
   const html = []
 
-  if (map) {
+  if (map || description) {
     html.push(`
 <details>
   <summary class="lyr">${layer}</summary>
 `)
-    for (const [acro, full] of Object.entries(map)) {
-      html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
+    if (description) {
+      html.push(`<div>${description}</div>`)
+    }
+    if (map) {
+      for (const [acro, full] of Object.entries(map)) {
+        html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
+      }
     }
     html.push(`
 </details>
@@ -871,7 +892,6 @@ const genLegend = (nType, layer, info) => {
 const save = fileName => {
   const job = grabQuery()
   const text = JSON.stringify(job)
-  tell({ job, text })
   download(text, fileName, 'json', false)
 }
 
@@ -966,7 +986,6 @@ const activateImport = () => {
 
   function handleFiles() {
     const { files } = this
-    tell({ files })
     if (!files.length) {
       alert('No file selected')
     } else {
@@ -983,13 +1002,14 @@ const activateImport = () => {
 
 const activateExport = () => {
   const exprButton = $('#exportr')
-  const exprName = $('#exrname')
+  const expjButton = $('#exportj')
+  const expName = $('#exname')
   exprButton.off('click').click(() => {
     if (resultsByType == null) {
       alert('Query has not been executed yet')
       return
     }
-    const fileName = exprName.val()
+    const fileName = expName.val()
     if (fileName == null || fileName == '') {
       alert('Give a file name for the exported results')
       return
@@ -997,10 +1017,8 @@ const activateExport = () => {
 
     deliver(fileName)
   })
-  const expjButton = $('#exportj')
-  const expjName = $('#exjname')
   expjButton.off('click').click(() => {
-    const fileName = expjName.val()
+    const fileName = expName.val()
     if (fileName == null || fileName == '') {
       alert('Give a file name for the exported query')
       return
