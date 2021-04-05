@@ -9,10 +9,27 @@
 	<body>
     <div class="page">
       <div class="leftcol">
-        <div class="progress" id="progress">Javascript is not executing!</div>
+        <div class="progress" id="progress">
+          Loading corpus<br>
+          Javascript is not (yet) executing<br>
+        </div>
         <details>
           <summary id="title"></summary>
           <div id="description"></div>
+          <details><summary><i>guide</i></summary>
+            <div>
+              <p>This is a <i>layered</i> search interface.</p>
+              <p>You can search the corpus by specifying search patterns
+              for one or more <i>layers</i> of the corpus. 
+              The result set are the pieces of the corpus that satisfy all patterns.</p>
+              <p>The patterns you specify must be valid <i>regular expressions</i>
+              according to the JavaScript language. Here is a 
+              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet" target="_blank">cheatsheet</a>.</p>
+              <p>Here is more
+              <a href="https://annotation.github.io/text-fabric/tf/about/layeredsearch.html" target="_blank">background</a>
+              on layered search.</p>
+            </div>
+          </details>
         </details>
         <div id="query">
           <table id="querytable">
@@ -45,30 +62,31 @@
             </tbody>
           </table>
         </div>
-        <div id="exchange">
-          <div>
-            <b>import</b>
-            <input
-              type="file" name="imjname" id="imjname"
-              accept="application/json"
-              class="import"
-            >
-            <button id="importj">load job from file</button>
+        <div id="currentjob">
+          <b>This job</b>
+          <input type="text" name="jobname" id="jobname" value="" class="cntinp">
+          <div id="jobaction">
+            <button id="newj">start as new job</button>
+            <button id="renamej">rename current job</button>
           </div>
-          <div>
-            <b>export</b>
-            <input type="text" name="exname" id="exname" value="job" class="export">
-            <span class="exports">
-              <span>
-                <span class="export">.json</span>
-                <button id="exportj">save job to file</button>
-              </span>
-              <span>
-                <span class="export">.tsv</span>
-                <button id="exportr">save results to file</button>
-              </span>
-            </span>
-          </div>
+          <button id="deletej">delete</button>
+        </div>
+        <div id="rememberedjobs">
+          <b>Remembered jobs</b>
+        </div>
+        <div id="import">
+          <b>import</b>
+          <input
+            type="file" name="imjname" id="imjname"
+            accept="application/json"
+            class="import"
+          >
+          <button id="importj">job from file</button>
+        </div>
+        <div id="export">
+          <b>export</b>
+          <button id="exportj">job to file</button>
+          <button id="exportr">results to file</button>
         </div>
       </div>
       <div class="midcol">

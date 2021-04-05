@@ -1,3 +1,4 @@
+/* GENERIC STUFF */
 *,
 *:before,
 *:after {
@@ -15,6 +16,12 @@ table {
 input {
   border-radius: 3px;
 }
+
+button {
+  font-size: medium;
+}
+
+/* PAGE DIVISION INTO COLUMNS */
 
 div.page {
 	display: flex;
@@ -56,18 +63,31 @@ div.rightcol {
 	-webkit-overflow-scrolling: touch;
 }
 
+/* LEFT COLUMN */
+
+/* short messages during initialization */
+
+#progress {
+  font-family: monospace;
+  font-size: small;
+}
+
 #title {
   font-weight: bold;
   font-size: large;
   text-align: center;
 }
+
+#query, #stats, #currentjob, #rememberedjobs, #import, #export {
+  border: 0.15rem solid #dddddd;
+  border-radius: 0.5rem;
+  width: 100%;
+  padding: 0.5rem 0.2rem;
+  margin: 1rem 0.2rem;
+}
+
 #querytable {
   width: 100%;
-}
-#resultsbody td {
-  border-style: solid;
-  border-color: #eeeeee;
-  border-width: 4px 2px;
 }
 #querybody td {
   border-style: solid;
@@ -82,20 +102,80 @@ div.rightcol {
   border-bottom-color: #eeeeee;
 }
 
-#setter {
-  margin-top: 2rem;
-  color: var(--ctlinp-fore);
-  background-color: var(--ctlinp-back);
+/* entries in the query table for levels (node types) */
+.lvcell {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
-#setter,#total {
-  width: 5rem;
+/* the name of a level (node type) */
+.lv {
+  background-color: var(--level-back);
+  border-radius: 0.3em;
+}
+/* the name of a layer */
+.lyr {
+  background-color: var(--layer-back);
+  border-radius: 0.1em;
+  padding: 0.2em;
+  margin: 0.2em;
+}
+/* the entry of a regex (search pattern) */
+.pattern {
   font-size: large;
+  color: var(--cntinp-fore);
+  background-color: var(--cntinp-back);
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
 }
-#total {
-  text-align: left;
+/* malformed regexes receive error formatting */
+.error {
+  color: var(--error-fore);
+  background-color: var(--error-back);
+}
+.pattern.error {
+  color: var(--cntinp-fore);
+  background-color: var(--error-back);
+}
+
+/* big search execution button */
+#go {
+  width: calc(100% - 2rem);
+  border-radius: 0.5em;
+  color: var(--button-fore);
+  background-color: var(--button-back);
+  font-size: x-large;
+  margin: 1rem;
+}
+
+/* input type="file" control is hidden */
+#imjname {
+  display: none;
+}
+
+/* buttons and inputs for job control, im/export */
+#jobaction {
+  border-radius: 0.5em;
+  background-color: var(--ctlinp-back);
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+#importj, #exportj, #exportr, #newj, #renamej, #deletej {
+  border-radius: 0.5em;
+  color: var(--button-fore);
+  background-color: var(--button-back);
+}
+.cntinp {
+  font-family: monospace;
   color: var(--ctlinp-fore);
   background-color: var(--ctlinp-back);
+  font-size: large;
+  width: 7rem;
 }
+
+/* MID COLUMN */
+
+/* a vertical slider to set the focus position in the results table */
 .swrapper {
   display: inline-block;
   width: 3rem;
@@ -112,82 +192,41 @@ div.rightcol {
   transform: rotate(90deg);
 }
 
-.error {
-  color: var(--error-fore);
-  background-color: var(--error-back);
-}
-.pattern {
-  font-size: large;
-  color: var(--cntinp-fore);
-  background-color: var(--cntinp-back);
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
-}
-.pattern.error {
-  color: var(--cntinp-fore);
-  background-color: var(--error-back);
-}
-#query, #stats, #exchange {
-  border: 0.15rem solid #dddddd;
-  border-radius: 0.5rem;
-  width: 100%;
-  padding: 0.5rem 0.2rem;
-  margin: 1rem 0.2rem;
-}
-#go {
-  width: calc(100% - 2rem);
-  border-radius: 0.5em;
-  color: var(--button-fore);
-  background-color: var(--button-back);
-  font-size: x-large;
-  margin: 1rem;
-}
-#imjname {
-  display: none;
-}
-#importj, #exportj, #exportr {
-  border-radius: 0.5em;
-  color: var(--button-fore);
-  background-color: var(--button-back);
-}
-.exports {
-  display: inline-flex;
-  flex-flow: column nowrap;
-}
-.export,.import {
-  font-family: monospace;
+/* control to set focus position manually */
+#setter {
+  margin-top: 2rem;
   color: var(--ctlinp-fore);
   background-color: var(--ctlinp-back);
+}
+#setter,#total {
+  width: 5rem;
   font-size: large;
 }
-
-#progress {
-  font-family: monospace;
-  font-size: small;
+/* total number of results, displayed at the bottom of the slider */
+#total {
+  text-align: left;
+  color: var(--ctlinp-fore);
+  background-color: var(--ctlinp-back);
 }
 
-.lvcell {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+/* RIGHT COLUMN */
+
+#resultsbody td {
+  border-style: solid;
+  border-color: #eeeeee;
+  border-width: 4px 2px;
 }
-.lv {
-  background-color: var(--level-back);
-  border-radius: 0.3em;
-}
-.lyr {
-  background-color: var(--layer-back);
-  border-radius: 0.1em;
-  padding: 0.2em;
-  margin: 0.2em;
-}
+/* highlighted background (for the lowest level) */
 .hl {
   background-color: var(--hl0-back);
 }
+/* highlighted border (for higher levels) */
 .hlh {
   border: 0.2em solid var(--hl-border);
   color: var(--hl-fore);
   background-color: var(--hl-back);
 }
+/* normal border when not highlighted (for higher levels) */
 .o {
   border: 2px solid var(--unhl-border);
   color: var(--unhl-fore);
@@ -201,16 +240,20 @@ div.rightcol {
   padding: 0.2em;
   margin: 0.2em;
 }
+/* when multiple layers must be displayed for a node: vertical stacking */
 .m {
   display: inline-flex;
 	flex-flow: column nowrap;
 }
+/* when a node has child nodes */
 .h {
   border-radius: 0.1em;
   border: 2px solid #dddddd;
   padding: 0.1em;
   margin: 0.3em;
 }
+
+/* COLORS */
 
 :root {
 	--button-fore:      hsla(  0,   0%, 100%, 1    );
