@@ -10,7 +10,8 @@ body, td, th {
 }
 
 table {
-  border-collapse: collapse ! important;
+  border-collapse: separate ! important;
+  border-spacing: 0;
 }
 
 input {
@@ -42,7 +43,7 @@ div.leftcol {
 	-webkit-overflow-scrolling: touch;
 }
 div.midcol {
-	flex: 0 0 6rem;
+	flex: 0 0 7rem;
 	padding-left: 8px;
 	padding-right: 8px;
 	height: 99vh;
@@ -78,28 +79,39 @@ div.rightcol {
   text-align: center;
 }
 
-#query, #stats, #currentjob, #rememberedjobs, #import, #export {
-  border: 0.15rem solid #dddddd;
+/* main division of right column */
+
+#query, #results, #jobs {
+  border: 0.15rem solid var(--panel-border);
   border-radius: 0.5rem;
   width: 100%;
   padding: 0.5rem 0.2rem;
   margin: 1rem 0.2rem;
 }
 
+/* secondary division of parts of right column */
+
+.cols {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+/* rightcolumn 1: query part */
+
 #querytable {
   width: 100%;
 }
 #querybody td {
   border-style: solid;
-  border-color: #ffffff;
+  border-color: var(--white);
   border-width: 2px;
 }
-#querybody tr.qtypefirst > td {
-  border-color: #eeeeee;
-  background-color: #eeeeee;
+#querybody tr.qtype > td {
+  border-color: var(--query-border);
+  background-color: var(--query-back);
 }
 #querybody tr.qtypelast > td {
-  border-bottom-color: #eeeeee;
 }
 
 /* entries in the query table for levels (node types) */
@@ -137,15 +149,20 @@ div.rightcol {
   background-color: var(--error-back);
 }
 
+/* rightcolumn 2: results part */
+
 /* big search execution button */
-#go {
+button.main {
   width: calc(100% - 2rem);
   border-radius: 0.5em;
   color: var(--button-fore);
   background-color: var(--button-back);
   font-size: x-large;
   margin: 1rem;
+  border-width: 0;
 }
+
+/* rightcolumn 3: jobs part */
 
 /* input type="file" control is hidden */
 #imjname {
@@ -160,10 +177,11 @@ div.rightcol {
   margin-bottom: 1rem;
   padding: 0.5rem;
 }
-#importj, #exportj, #exportr, #newj, #renamej, #deletej {
+button.medium {
   border-radius: 0.5em;
   color: var(--button-fore);
   background-color: var(--button-back);
+  border-width: 0;
 }
 .cntinp {
   font-family: monospace;
@@ -172,6 +190,13 @@ div.rightcol {
   font-size: large;
   width: 7rem;
 }
+.selinp {
+  font-family: monospace;
+  color: var(--ctlinp-fore);
+  background-color: var(--ctlinp-back);
+  font-size: large;
+  width: 11rem;
+}
 
 /* MID COLUMN */
 
@@ -179,22 +204,24 @@ div.rightcol {
 .swrapper {
   display: inline-block;
   width: 3rem;
-  height: 70vh;
+  height: 60vh;
   padding: 0;
   margin-bottom: 2rem;
 }
 
 #slider {
   height: 3rem;
-  width: 70vh;
-  margin 0;
-  transform-origin: 1rem 2rem;
+  width: 60vh;
+  margin-top: 1rem;
+  transform-origin: 1rem 3rem;
   transform: rotate(90deg);
 }
 
 /* control to set focus position manually */
+#setterw {
+  margin-top: 1rem;
+}
 #setter {
-  margin-top: 2rem;
   color: var(--ctlinp-fore);
   background-color: var(--ctlinp-back);
 }
@@ -206,16 +233,60 @@ div.rightcol {
 #total {
   text-align: left;
   color: var(--ctlinp-fore);
-  background-color: var(--ctlinp-back);
+  background-color: var(--white);
+  font-weight: bold;
+}
+/* navigation buttons */
+.upnav, .downnav {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  height: 1rem;
+}
+button.small {
+  border-radius: 0.4em;
+  color: var(--inactive-fore);
+  background-color: var(--inactive-back);
+  font-size: small;
+  font-weight: bold;
+  margin: 0.05rem;
+  padding: 0.05rem;
+  border-width: 0;
+}
+button.small.active {
+  color: var(--button-fore);
+  background-color: var(--button-back);
 }
 
 /* RIGHT COLUMN */
 
 #resultsbody td {
   border-style: solid;
-  border-color: #eeeeee;
+  border-color: var(--result-border);
   border-width: 4px 2px;
 }
+#resultsbody th {
+  color: var(--plain-fore);
+  font-weight: normal;
+}
+#resultsbody tr.focus > th {
+  color: var(--focus-fore);
+  font-weight: bold;
+  background-color: var(--focus-back);
+}
+#resultsbody tr.pfocus > th {
+  color: var(--pfocus-fore);
+  font-weight: bold;
+  background-color: var(--pfocus-back);
+}
+#resultsbody tr.focus > td {
+  border-bottom-color: var(--focus-back);
+  border-top-color: var(--focus-back);
+}
+#resultsbody tr.pfocus > td {
+  border-bottom-color: var(--pfocus-back);
+  border-top-color: var(--pfocus-back);
+}
+
 /* highlighted background (for the lowest level) */
 .hl {
   background-color: var(--hl0-back);
@@ -248,7 +319,7 @@ div.rightcol {
 /* when a node has child nodes */
 .h {
   border-radius: 0.1em;
-  border: 2px solid #dddddd;
+  border: 2px solid var(--unhl-border);
   padding: 0.1em;
   margin: 0.3em;
 }
@@ -256,6 +327,10 @@ div.rightcol {
 /* COLORS */
 
 :root {
+  --white:            hsla(  0,   0%, 100%, 1    );
+  --black:            hsla(  0,   0%,   0%, 1    );
+	--inactive-fore:    hsla(  0,   0%,  80%, 1    );
+	--inactive-back:    hsla(  0,   0%,  60%, 1    );
 	--button-fore:      hsla(  0,   0%, 100%, 1    );
 	--button-back:      hsla(  0,   0%,  20%, 1    );
 	--ctlinp-fore:      hsla(  0,   0%,  10%, 1    );
@@ -264,6 +339,8 @@ div.rightcol {
 	--cntinp-back:      hsla(240, 100%,  97%, 1    );
 	--error-fore:       hsla(  0, 100%,  20%, 1    );
 	--error-back:       hsla(  0, 100%,  95%, 1    );
+	--query-back:       hsla(  0,   0%,  90%, 1    );
+	--query-border:     hsla(  0,   0%,  90%, 1    );
 	--level-back:       hsla(  0,   0%,  90%, 1    );
 	--layer-back:       hsla(  0,   0%,  95%, 1    );
   --hl0-back:         hsla( 58, 100%,  47%, 1    ); 
@@ -273,4 +350,10 @@ div.rightcol {
   --unhl-border:      hsla(  0,   0%,  70%, 1    ); 
   --unhl-fore:        hsla(  0,   0%,  30%, 1    ); 
   --unhl-back:        hsla(  0,   0%,  95%, 1    ); 
+  --result-border:    hsla(  0,   0%,  70%, 1    ); 
+  --focus-fore:       hsla(240, 100%, 100%, 1    ); 
+  --focus-back:       hsla(240, 100%,  60%, 1    ); 
+  --pfocus-fore:      hsla(240, 100%,   0%, 1    ); 
+  --pfocus-back:      hsla(240, 100%,  90%, 1    ); 
+  --panel-border:     hsla(  0,   0%,  80%, 1    ); 
 }

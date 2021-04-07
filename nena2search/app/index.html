@@ -31,6 +31,32 @@
             </div>
           </details>
         </details>
+        <div id="jobs">
+          <details>
+            <summary><select class="selinp" id="jchange"></select></summary>
+            <div class="cols">
+            </div>
+            <hr>
+            <div class="cols">
+              <button class="medium" id="newj">new</button>
+              <button class="medium" id="dupj">duplicate</button>
+              <button class="medium" id="renamej">rename</button>
+              <button class="medium" id="deletej">delete</button>
+            </div>
+            <hr>
+            <div class="cols">
+              <div>
+                <input
+                  type="file" name="imjname" id="imjname"
+                  accept="application/json"
+                  class="import"
+                >
+                <button class="medium" id="importj">load from file</button>
+              </div>
+              <button class="medium" id="exportj">save to file</button>
+            </div>
+          </details>
+        </div>
         <div id="query">
           <table id="querytable">
             <thead>
@@ -45,8 +71,8 @@
             </tbody>
           </table>
         </div>
-        <div id="stats">
-          <div><button id="go">go</button></div>
+        <div id="results">
+          <div><button class="main" id="go">go</button></div>
           <table>
             <colgroup>
               <col align="left">
@@ -61,45 +87,37 @@
             <tbody id="statsbody">
             </tbody>
           </table>
-        </div>
-        <div id="currentjob">
-          <b>This job</b>
-          <input type="text" name="jobname" id="jobname" value="" class="cntinp">
-          <div id="jobaction">
-            <button id="newj">start as new job</button>
-            <button id="renamej">rename current job</button>
+          <hr>
+          <div class="cols">
+            <b>export</b>
+            <button class="medium" id="exportr">export results to Excel</button>
           </div>
-          <button id="deletej">delete</button>
-        </div>
-        <div id="rememberedjobs">
-          <b>Remembered jobs</b>
-        </div>
-        <div id="import">
-          <b>import</b>
-          <input
-            type="file" name="imjname" id="imjname"
-            accept="application/json"
-            class="import"
-          >
-          <button id="importj">job from file</button>
-        </div>
-        <div id="export">
-          <b>export</b>
-          <button id="exportj">job to file</button>
-          <button id="exportr">results to file</button>
         </div>
       </div>
       <div class="midcol">
-        <input
-          type="number"
-          name="setter" id="setter"
-          min="1" max="1" step="1"
-          value="1"
-        >
-        <br>
-        <button id="minp">▲</button>
-        <button id="min2p">▲▲</button>
-        <div class="swrapper">
+        <div id="setterw">
+          <div>focus:</div>
+          <input
+            type="number"
+            name="setter" id="setter"
+            min="1" max="1" step="1"
+            value="1"
+          >
+        </div>
+        <div class="upnav">
+          <button class="small" id="minp">↑</button>
+          <button class="small" id="min2p">↑↑</button>
+          <button class="small" id="mina">┳</button>
+        </div>
+        <div class="downnav">
+          <button class="small" id="maxp">↓</button>
+          <button class="small" id="max2p">↓↓</button>
+          <button class="small" id="maxa">┻</button>
+        </div>
+        <div id="totalw">
+          total: <span id="total">0</span>
+        </div>
+        <div id="sliderw" class="swrapper">
           <input
             type="range"
             name="slider" id="slider"
@@ -107,9 +125,6 @@
             value="1"
           >
         </div>
-        <button id="maxp">▼</button>
-        <button id="max2p">▼▼</button>
-        <div id="total">0</div>
       </div>
       <div class="rightcol">
         <table id="resultstable">
