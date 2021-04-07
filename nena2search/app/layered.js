@@ -155,8 +155,8 @@ const applyFocus = () => {
   setter.attr('step', stepSize)
   slider.attr('max', nResultsP)
   slider.attr('step', stepSize)
-  setter.val(focusVal + 1)
-  slider.val(focusVal + 1)
+  setter.val(focusVal)
+  slider.val(focusVal)
   total.html(totalVal)
 
   sliderw.hide()
