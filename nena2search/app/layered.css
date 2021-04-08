@@ -5,6 +5,9 @@
 	box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 body, td, th {
   font-family: sans-serif;
 }
@@ -259,6 +262,13 @@ button.small.active {
 
 /* RIGHT COLUMN */
 
+#resultsbody {
+  background-color: var(--white);
+  transition: background-color 0.1s;
+}
+#resultsbody.waiting {
+  background-color: var(--waiting);
+}
 #resultsbody td {
   border-style: solid;
   border-color: var(--result-border);
@@ -324,11 +334,24 @@ button.small.active {
   margin: 0.3em;
 }
 
+/* ANIMATIONS */
+
+@keyframes showresults {
+  from {background-color: var(--waiting);}
+  to {background-color: var(--white);}
+}
+
+/* The element to apply the animation to */
+#resultsbody {
+  animation-name: xxshowresults;
+  animation-duration: 4s;
+}
 /* COLORS */
 
 :root {
   --white:            hsla(  0,   0%, 100%, 1    );
   --black:            hsla(  0,   0%,   0%, 1    );
+  --waiting:          hsla(  0,   0%,  70%, 1    );
 	--inactive-fore:    hsla(  0,   0%,  80%, 1    );
 	--inactive-back:    hsla(  0,   0%,  60%, 1    );
 	--button-fore:      hsla(  0,   0%, 100%, 1    );

@@ -244,16 +244,20 @@ const invertPositionMaps = () => {
  *
  * */
 
-const state = { resultsByType: null,
+const state = {
+  resultsByType: null,
   resultsComposed: null,
   resultTypeMap: null,
   jobName: null,
-  jobState: { query: {},
+  jobState: {
+    query: {},
     dirty: false,
     containerType: null,
     showLayer: {},
     focusPos: null,
-    prevFocusPos: null } }
+    prevFocusPos: null,
+  },
+}
 
 const stateUpdate = (updates, subkeys) => {
   /* update the state by means of an object data containing the updates
@@ -290,6 +294,10 @@ const applyJob = run => {
   const {
     jobName, jobState: { query = {}, containerType, showLayers = {} } = {},
   } = state
+  const useContainerType = containerType || normalContainerType()
+  if (useContainerType != containerType) {
+    stateUpdate({ containerType: useContainerType }, ["jobState"])
+  }
 
   $("#jobname").val(jobName)
   $("#jchange").val(jobName)
@@ -305,7 +313,8 @@ const applyJob = run => {
       setBox("show", `[ntype="${nType}"][layer="${layer}"]`, show)
     }
   }
-  setBox("ctype", `[value="${containerType}"]`, true)
+
+  setBox("ctype", `[value="${useContainerType}"]`, true)
   applyResults(run)
 }
 
@@ -411,7 +420,7 @@ const gotoFocus = () => {
    */
   const rTarget = $(`.focus`)
   if (rTarget != null && rTarget[0] != null) {
-    rTarget[0].scrollIntoView({ block: "center" })
+    rTarget[0].scrollIntoView({ block: "center", behavior: "smooth" })
   }
 }
 
@@ -534,13 +543,54 @@ const genLegend = (nType, layer, info) => {
  * Add actions to the controls of the search interface,
  * including those for navigating the results
  */
+
+/* LONG RUNNING FUNCTIONS
+ *
+ * We apply a device to make behaviour more visible on the interface.
+ *
+ * There are two problems
+ *
+ * 1. some actions go so fast, that the user does not see them happening
+ * 2. some actions take a lot of time, without the user knowing that he must wait
+ *
+ * To solve that, we apply some CSS transitions to background and border colors.
+ * In order to trigger them, we wrap some functions into this sequence:
+ *
+ * a. add the CSS class "waiting" to some elements
+ * b. run the function in question
+ * c. remove the CSS class "waiting" from thiose elements.
+ *
+ * However, when we implement this straightforwardly and synchronously,
+ * we do not see any effect, because the browser does not take the trouble
+ * to re-render during this sequence.
+ *
+ * So we need an asynchronous wrapper, and here is what happens:
+ *
+ * a. add the CSS class "waiting"
+ * b. sleep for a fraction of a second
+ * c. -- now the browser renders the interface and you see the effect of "waiting"
+ * d. run the function in question
+ * e. remove the CSS class "waiting"
+ * f. -- when the sequence is done, the browser renders again, and you see the
+ *       effect of "waiting" gone
+ */
+
+const animate = (output, func) => async () => {
+  output.addClass("waiting")
+  await sleep(0.05)
+  func()
+  output.removeClass("waiting")
+}
+
 const activateSearch = () => {
   /* make the search button active
    */
   const button = $(`#go`)
+  const output = $(`#resultsbody`)
+
   button.off("click").click(e => {
     e.preventDefault()
-    runQuery()
+    animate(output, runQuery)()
     stateUpdate({ dirty: false }, ["jobState"])
     memorizeThisJob()
   })
@@ -696,10 +746,17 @@ const activateNumberControl = () => {
 const checkFocus = focusPos => {
   /* take care that the focus position is always within
    * the correct range with respect to the number of results
+   *
+   * We implement here that going past the ned of the results
+   * will cycle back to the beginning and vice versa,
+   * but only in step-by-step mode, not in screenful mode
    */
   const { resultsComposed } = state
   const nResults = resultsComposed == null ? 0 : resultsComposed.length
-  if (focusPos == -1 || focusPos >= nResults) {
+  if (focusPos == nResults) {
+    return 0
+  }
+  if (focusPos == -1 || focusPos > nResults) {
     return nResults - 1
   }
   if (focusPos < 0) {
@@ -1100,8 +1157,19 @@ const composeResults = recomputeFocus => {
   stateUpdate({ focusPos, prevFocusPos }, ["jobState"])
 }
 
+const normalContainerType = () => {
+  /* pick the normal container type as specified by the corpus
+   * If the corpus has forgotten to specify one,
+   * pick a reasonable one out of the available types of the corpus.
+   * See defaultContainerType()
+  */
+  const { containerType } = corpus
+
+  return containerType || defaultContainerType
+}
+
 const defaultContainerType = () => {
-  /* If no default container type has been given,
+  /* If no normal container type has been given in the corpus,
    * define one: take a type in the middle of all node types
    */
   const { ntypes } = corpus
@@ -1181,7 +1249,7 @@ const displayResults = () => {
     resultTypeMap,
     resultsByType,
     resultsComposed,
-    jobState: { showLayers, focusPos, prevFocusPos } = {},
+    jobState: { showLayers = {}, focusPos, prevFocusPos } = {},
   } = state
   if (resultsByType == null) {
     stateUpdate({ resultsComposed: null })
@@ -1468,6 +1536,12 @@ const initJob = () => {
     startJob()
   }
   applyJob(found)
+  /* the following code prevent an "are you sure" - popup
+   * when you reload the page with some fields in the form filled in
+   */
+  if (window.history.replaceState) {
+    window.history.replaceState(null, null, window.location.href)
+  }
 }
 
 const startJob = () => {
@@ -1475,10 +1549,9 @@ const startJob = () => {
    */
   const jobchange = $("#jchange")
   const query = {}
-  const { ntypes, layers, by: givenContainerType, show } = corpus
+  const { layers, show } = corpus
 
   const showLayers = {}
-  let containerType
 
   for (const [nType, typeInfo] of Object.entries(layers)) {
     const { [nType]: showByType = {} } = show
@@ -1495,15 +1568,7 @@ const startJob = () => {
     }
   }
 
-  for (const nType of ntypes) {
-    const { [nType]: thisBy } = givenContainerType
-    if (thisBy) {
-      containerType = nType
-    }
-  }
-  if (!containerType) {
-    containerType = defaultContainerType()
-  }
+  const containerType = normalContainerType()
 
   const focusPos = null
   const prevFocusPos = null
@@ -1639,8 +1704,10 @@ const makeJob = newJob => {
     return
   }
   jobName = newJob
-  stateUpdate({ jobName, jobState: {} })
-  applyJob(false)
+  stateUpdate({ jobName, jobState: { dirty: true } })
+  /* the dirty bit will trigger the apply job to clear the results
+  */
+  applyJob(true)
   memorizeThisJob()
 }
 
@@ -1888,6 +1955,14 @@ const forgetJob = job => {
  * initialization, so that we can display progress messages
  * in the mean time
  */
+
+const sleep = async seconds => {
+  // to be called as: await sleep(n)
+  //
+  tell(`before sleep ${seconds}`)
+  await new Promise(r => setTimeout(r, seconds * 1000))
+  tell(`after sleep ${seconds}`)
+}
 
 const init = async () => {
   const pbox = $("#progress")

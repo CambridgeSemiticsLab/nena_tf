@@ -38,10 +38,10 @@
             </div>
             <hr>
             <div class="cols">
-              <button class="medium" id="newj">new</button>
-              <button class="medium" id="dupj">duplicate</button>
-              <button class="medium" id="renamej">rename</button>
-              <button class="medium" id="deletej">delete</button>
+              <button type="button" class="medium" id="newj">new</button>
+              <button type="button" class="medium" id="dupj">duplicate</button>
+              <button type="button" class="medium" id="renamej">rename</button>
+              <button type="button" class="medium" id="deletej">delete</button>
             </div>
             <hr>
             <div class="cols">
@@ -51,12 +51,13 @@
                   accept="application/json"
                   class="import"
                 >
-                <button class="medium" id="importj">load from file</button>
+                <button type="button" class="medium" id="importj">load from file</button>
               </div>
-              <button class="medium" id="exportj">save to file</button>
+              <button type="button" class="medium" id="exportj">save to file</button>
             </div>
           </details>
         </div>
+        <form>
         <div id="query">
           <table id="querytable">
             <thead>
@@ -72,7 +73,12 @@
           </table>
         </div>
         <div id="results">
-          <div><button class="main" id="go">go</button></div>
+          <div>
+            <button
+                type="submit" accesskey="g" title="Enter or Ctr-Opt-G go search"
+                class="main" id="go"
+            >go search</button>
+          </div>
           <table>
             <colgroup>
               <col align="left">
@@ -90,14 +96,16 @@
           <hr>
           <div class="cols">
             <b>export</b>
-            <button class="medium" id="exportr">export results to Excel</button>
+            <button type="button" class="medium" id="exportr">export results to Excel</button>
           </div>
         </div>
       </div>
+      </form>
       <div class="midcol">
         <div id="setterw">
           <div>focus:</div>
           <input
+            accesskey="m" title="Ctr-Opt-M manual input"
             type="number"
             name="setter" id="setter"
             min="1" max="1" step="1"
@@ -105,14 +113,32 @@
           >
         </div>
         <div class="upnav">
-          <button class="small" id="minp">↑</button>
-          <button class="small" id="min2p">↑↑</button>
-          <button class="small" id="mina">┳</button>
+          <button
+              type="button" accesskey="p" title="Ctr-Opt-P previous one"
+              class="small" id="minp"
+          >↑</button>
+          <button
+              type="button" accesskey="b" title="Ctr-Opt-B backward screen"
+              class="small" id="min2p"
+          >↑↑</button>
+          <button
+              type="button" accesskey="s" title="Ctr-Opt-S start of results"
+              class="small" id="mina"
+          >┳</button>
         </div>
         <div class="downnav">
-          <button class="small" id="maxp">↓</button>
-          <button class="small" id="max2p">↓↓</button>
-          <button class="small" id="maxa">┻</button>
+          <button
+              type="button" accesskey="n" title="Ctr-Opt-N next one"
+              class="small" id="maxp"
+          >↓</button>
+          <button
+              type="button" accesskey="f" title="Ctr-Opt-F forward screen"
+              class="small" id="max2p"
+          >↓↓</button>
+          <button
+              type="button" accesskey="e" title="Ctr-Opt-E end of results"
+              class="small" id="maxa"
+          >┻</button>
         </div>
         <div id="totalw">
           total: <span id="total">0</span>
