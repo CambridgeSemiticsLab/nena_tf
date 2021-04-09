@@ -25,23 +25,23 @@ const config = {
  "show": {
   "word": {
    "lang": false,
-   "speaker": true,
+   "speaker": false,
    "text": true,
    "full": false,
    "fuzzy": true,
    "lite": false,
-   "pos": true,
-   "cls": true,
+   "pos": false,
+   "cls": false,
    "voice": false,
    "place": false,
    "manner": false
   },
   "line": {
-   "number": true
+   "number": false
   },
   "text": {
-   "title": true,
-   "dialect": true,
+   "title": false,
+   "dialect": false,
    "tid": false,
    "place": false
   }

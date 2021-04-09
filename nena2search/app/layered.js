@@ -7,9 +7,10 @@
 /* CONSTANTS */
 
 const NUMBER = "number"
-const DEBUG = false
+const DEBUG = true
 const QUWINDOW = 10
 const MaxReLength = 1000
+const IMSDEFAULT = { i: true, m: true, s: false }
 
 /* INFORMATIONAL MESSAGES
  *
@@ -204,7 +205,10 @@ const invertPositionMaps = () => {
  *         This becomes true when a user edits the search patterns but has not yet
  *         executed the new query
  *     2c. containerType: the node type used for composing results
- *     2d. showLayer: for each node type and each layer in that type, whether that layer
+ *     2d. showLayers: for each node type and each layer in that type,
+ *         whether that layer must be shown in the results
+ *     2d. imsLayer: for each node type and each layer in that type, whether the search
+ *         in that layer has the flags i m s on or off
  *         must be shown in the results
  *     2e. focusPos: the current position in the table of results: this is what is shown
  *         in the middle of the screen if possible, together with a number of rows above
@@ -264,7 +268,8 @@ const state = {
     query: {},
     dirty: false,
     containerType: null,
-    showLayer: {},
+    showLayers: {},
+    imsLayers: {},
     focusPos: null,
     prevFocusPos: null,
   },
@@ -303,7 +308,7 @@ const applyJob = run => {
   const { layers } = config
 
   const {
-    jobName, jobState: { query = {}, containerType, showLayers = {} } = {},
+    jobName, jobState: { query = {}, containerType, showLayers, imsLayers = {} } = {},
   } = state
   const useContainerType = containerType || normalContainerType()
   if (useContainerType != containerType) {
@@ -315,13 +320,22 @@ const applyJob = run => {
 
   for (const [nType, typeInfo = {}] of Object.entries(layers)) {
     const { [nType]: tpShowLayers = {} } = showLayers
+    const { [nType]: tpImsLayers = {} } = imsLayers
     const { [nType]: tpQuery = {} } = query
     for (const layer of Object.keys(typeInfo)) {
       const { [layer]: pattern = "" } = tpQuery
       const box = $(`[kind="pattern"][ntype="${nType}"][layer="${layer}"]`)
       box.val(pattern)
+
       const { [layer]: show } = tpShowLayers
       setBox("show", `[ntype="${nType}"][layer="${layer}"]`, show)
+
+      let { [layer]: ims = {} } = tpImsLayers
+      ims = { ...IMSDEFAULT, ...ims }
+      for (const flag of ["i", "m", "s"]) {
+        const isOn = ims[flag]
+        setButton(flag, `[ntype="${nType}"][layer="${layer}"]`, isOn)
+      }
     }
   }
 
@@ -337,6 +351,22 @@ const setBox = (name, spec, onoff) =>
    * onoff is true or false: true will check, false will uncheck
    */
   $(`input[name="${name}"]${spec}`).prop("checked", onoff)
+
+const setButton = (name, spec, onoff) => {
+  /* Put a button in an on or off state
+   * name is what is in their "name" attribute,
+   * with spec you can pass additional selection criteria,
+   * as a jQuery selector
+   * onoff is true or false: true will add the class on, false will remove that class
+   */
+  const elem = $(`button[name="${name}"]${spec}`)
+  if (onoff) {
+    elem.addClass("on")
+  }
+  else {
+    elem.removeClass("on")
+  }
+}
 
 const applyResults = run => {
   /* fill in the results of a job
@@ -489,10 +519,10 @@ const genTypeWidgets = (nType, description, typeInfo) => {
     value="${nType}"
     title="${containerTip}"
   ></td>
+  <td class="lvcell">${nTypeRep}</td>
   <td><input
     type="checkbox" name="show" ntype="${nType}" layer="_" value="1"
   ></td>
-  <td class="lvcell">${nTypeRep}</td>
   <td></td>
 </tr>
 `)
@@ -510,6 +540,52 @@ const genWidget = (nType, layer, info) =>
   `
 <tr>
   <td></td>
+  <td>
+    /<input
+      type="text"
+      class="pattern"
+      kind="pattern"
+      ntype="${nType}"
+      layer="${layer}"
+      maxlength="${MaxReLength}"
+      value=""
+    ><span
+      class="error"
+      kind="error"
+      ntype="${nType}"
+      layer="${layer}"
+    ></span>/<button
+      type="button"
+      class="ims"
+      title="
+ignore
+ON: case-insensitive
+OFF: case-sensitive"
+      name="i"
+      ntype="${nType}"
+      layer="${layer}"
+    >i</button><button
+      type="button"
+      class="ims"
+      title="
+multiline: ^ and $ match:
+ON: around newlines
+OFF: at start and end of whole text"
+      name="m"
+      ntype="${nType}"
+      layer="${layer}"
+    >m</button><button
+      type="button"
+      class="ims"
+      title="
+single string: . matches all characters:
+ON: including newlines
+OFF: excluding newlines" 
+      name="s"
+      ntype="${nType}"
+      layer="${layer}"
+    >s</button>
+  </td>
   <td><input
     type="checkbox"
     name="show"
@@ -518,23 +594,6 @@ const genWidget = (nType, layer, info) =>
     value="1"
     title="${showTip}"
   ></td>
-  <td>
-    <input
-      type="text"
-      class="pattern"
-      kind="pattern"
-      ntype="${nType}"
-      layer="${layer}"
-      maxlength="${MaxReLength}"
-      value=""
-    >
-    <span
-      class="error"
-      kind="error"
-      ntype="${nType}"
-      layer="${layer}"
-    ></span>
-  </td>
   <td>${genLegend(nType, layer, info)}</td>
 </tr>
 `
@@ -638,7 +697,7 @@ const activateSearch = () => {
   })
   /* store the search patterns when they change
    */
-  const patterns = $(`[kind="pattern"]`)
+  const patterns = $(`input[kind="pattern"]`)
   patterns.off("change").change(e => {
     const elem = $(e.target)
     const nType = elem.attr("ntype")
@@ -646,6 +705,19 @@ const activateSearch = () => {
     const { target: { value } } = e
     stateUpdate({ dirty: true }, ["jobState"])
     stateUpdate({ [layer]: value }, ["jobState", "query", nType])
+    memorizeThisJob()
+  })
+  const ims = $(`button.ims`)
+  ims.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const name = elem.attr("name")
+    const nType = elem.attr("ntype")
+    const layer = elem.attr("layer")
+    const isOn = elem.hasClass("on")
+    stateUpdate({ [name]: !isOn }, ["jobState", "imsLayers", nType, layer])
+    setButton(name, `[ntype="${nType}"][layer="${layer}"]`, !isOn)
+    displayResults()
     memorizeThisJob()
   })
 }
@@ -669,13 +741,7 @@ const activateShow = () => {
   /* make the "show" checkboxes active
    * (when the user chooses which layers to include in the results)
    */
-  const { resultsByType } = state
-  $(`input[name="show"]`)
-    .off("click")
-    .click(e => {
-      if (resultsByType != null) {
-        displayResults()
-      }
+  $(`input[name="show"]`).off("click").click(e => {
       const elem = $(e.target)
       const nType = elem.attr("ntype")
       const layer = elem.attr("layer")
@@ -1608,14 +1674,16 @@ const startJob = () => {
    */
   const jobchange = $("#jchange")
   const query = {}
-  const { layers, show } = corpus
+  const { layers, show } = config
 
   const showLayers = {}
+  const imsLayers = {}
 
   for (const [nType, typeInfo] of Object.entries(layers)) {
     const { [nType]: showByType = {} } = show
     query[nType] = {}
     showLayers[nType] = {}
+    imsLayers[nType] = {}
 
     for (const layer of Object.keys(typeInfo)) {
       const { [layer]: { value = "" } = {} } = typeInfo
@@ -1624,6 +1692,7 @@ const startJob = () => {
       query[nType][layer] = DEBUG ? value : ""
 
       showLayers[nType][layer] = thisShow
+      imsLayers[nType][layer] = { ...IMSDEFAULT }
     }
   }
 
@@ -1631,7 +1700,9 @@ const startJob = () => {
 
   const focusPos = null
   const prevFocusPos = null
-  const jobState = { query, containerType, showLayers, focusPos, prevFocusPos }
+  const jobState = {
+    query, containerType, showLayers, imsLayers, focusPos, prevFocusPos,
+  }
   stateUpdate({ jobState })
   memorizeThisJob()
   jobOptions(jobchange)
@@ -1766,8 +1837,8 @@ const makeJob = newJob => {
   stateUpdate({ jobName, jobState: { dirty: true } })
   /* the dirty bit will trigger the apply job to clear the results
   */
+  startJob()
   applyJob(true)
-  memorizeThisJob()
 }
 
 const copyJob = newJob => {
@@ -2049,8 +2120,8 @@ const initConfig = () => {
   warmUpConfig()
   addWidgets()
   activateContainerType()
-  activateShow()
   activateSearch()
+  activateShow()
   activateNumberControl()
   activateJobs()
   activateImport()

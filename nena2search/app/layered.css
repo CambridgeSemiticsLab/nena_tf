@@ -37,7 +37,7 @@ div.page {
 }
 
 div.leftcol {
-	flex: 0 0 auto;
+	flex: 0 0 40rem;
 	border-right: 1pt solid var(--fog-rim);
 	padding-left: 4px;
 	padding-right: 8px;
@@ -151,6 +151,21 @@ div.rightcol {
 .pattern.error {
   color: var(--cntinp-fore);
   background-color: var(--error-back);
+}
+.ims {
+  width: 1rem;
+  border-radius: 0.4em;
+  margin: 0.05rem;
+  padding: 0.05rem 0.1rem;
+  border-width: 0;
+  color: var(--ims-off-fore);
+  background-color: var(--ims-off-back);
+  text-decoration: line-through;
+}
+.ims.on {
+  color: var(--ims-on-fore);
+  background-color: var(--ims-on-back);
+  text-decoration: none;
 }
 
 /* rightcolumn 2: results part */
@@ -375,6 +390,10 @@ button.small.active {
 	--cntinp-back:      hsla(240, 100%,  97%, 1    );
 	--error-fore:       hsla(  0, 100%,  20%, 1    );
 	--error-back:       hsla(  0, 100%,  95%, 1    );
+	--ims-on-fore:      hsla(  0,   0%,   0%, 1    );
+	--ims-on-back:      hsla(120,  80%,  70%, 1    );
+	--ims-off-fore:     hsla(  0,   0%,   0%, 1    );
+	--ims-off-back:     hsla( 30,  90%,  70%, 1    );
 	--query-back:       hsla(  0,   0%,  90%, 1    );
 	--query-border:     hsla(  0,   0%,  90%, 1    );
 	--level-back:       hsla(  0,   0%,  90%, 1    );
