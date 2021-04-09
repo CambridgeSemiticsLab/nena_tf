@@ -7,7 +7,7 @@
 /* CONSTANTS */
 
 const NUMBER = "number"
-const DEBUG = true
+const DEBUG = false
 const QUWINDOW = 10
 const MaxReLength = 1000
 
@@ -345,12 +345,9 @@ const applyResults = run => {
    * we run the query and display the results.
    * If the query is dirty, we clear all result components in the state.
    */
-  tell("applyResults 1")
   const { jobState: { dirty } = {} } = state
   if (run) {
-    tell("applyResults 2")
     if (dirty) {
-      tell("applyResults 3")
       const statsbody = $("#statsbody")
       const resultsbody = $("#resultsbody")
 
@@ -361,12 +358,9 @@ const applyResults = run => {
       stateUpdate({ resultsByType: null, resultsComposed: null, resultTypeMap: null })
       stateUpdate({ prevFocusPos: null, dirty: false }, ["jobState"])
     } else {
-      tell("applyResults 4")
       animate(runQuery)()
-      tell("applyResults 5")
     }
   }
-  tell("applyResults 6")
 }
 
 const applyFocus = () => {
@@ -492,7 +486,7 @@ const genTypeWidgets = (nType, description, typeInfo) => {
   <td><input
     type="radio"
     name="ctype"
-    value="${nType}
+    value="${nType}"
     title="${containerTip}"
   ></td>
   <td><input
