@@ -1,13 +1,14 @@
 /*eslint-env jquery*/
 
+/* global config */
 /* global corpus */
 
 
-/* CONFIG DATA */
+/* CONSTANTS */
 
 const NUMBER = "number"
 const DEBUG = false
-const QU_WINDOW = 10
+const QUWINDOW = 10
 const MaxReLength = 1000
 
 /* INFORMATIONAL MESSAGES
@@ -58,26 +59,36 @@ const clearProgress = pbox => {
 
 /* THE CORPUS
  *
- * The fixed corpus data is in the global var corpus,
- * coming from corpus.js which is imported before this script.
+ * The fixed corpus data is in the global vars corpus and config,
+ * coming from config.js and corpus.js resp.
+ * Config contains small data: defaults, settings, descriptions.
+ * Corpus contains the big data: texts, positions, the parent relation "up".
+ *
+ * Config is imported and computed before this script.
+ * The page can then render without waiting for the big corpus data file,
+ * which is imported after this script.
  */
 
-const { simpleBase } = corpus
+const { simpleBase } = config
 /* This is the base type of the corpus, e.g. word or letter
 */
 
-const warmUpData = () => {
-  /* Expand parts of the corpus data that have been optimized before shipping
+const warmUpConfig = () => {
+  /* Derive additional parts of the config data
   */
-  const { ntypes } = corpus
-  corpus.ntypesR = [...ntypes]
-  corpus.ntypesR.reverse()
+  const { ntypes } = config
+  config.ntypesR = [...ntypes]
+  config.ntypesR.reverse()
   const ntypesI = new Map()
   for (let i = 0; i < ntypes.length; i++) {
     ntypesI.set(ntypes[i], i)
   }
-  corpus.ntypesI = ntypesI
+  config.ntypesI = ntypesI
+}
 
+const warmUpData = () => {
+  /* Expand parts of the corpus data that have been optimized before shipping
+  */
   tell(`Decompress up-relation and infer down-relation`)
   decompress()
   tell(`Infer inverted position maps`)
@@ -197,7 +208,7 @@ const invertPositionMaps = () => {
  *         must be shown in the results
  *     2e. focusPos: the current position in the table of results: this is what is shown
  *         in the middle of the screen if possible, together with a number of rows above
- *         and below, given by QU_WINDOW.
+ *         and below, given by QUWINDOW.
  *         The focused result will be marked strongly on the interface.
  *     2f. prevFocusPos: the previous focusPos.
  *         The result at this position will be marked lightly.
@@ -289,7 +300,7 @@ const stateUpdate = (updates, subkeys) => {
 const applyJob = run => {
   /* apply jobState to the interface
    */
-  const { layers } = corpus
+  const { layers } = config
 
   const {
     jobName, jobState: { query = {}, containerType, showLayers = {} } = {},
@@ -307,7 +318,7 @@ const applyJob = run => {
     const { [nType]: tpQuery = {} } = query
     for (const layer of Object.keys(typeInfo)) {
       const { [layer]: pattern = "" } = tpQuery
-      const box = $(`#pattern_${nType}_${layer}`)
+      const box = $(`[kind="pattern"][ntype="${nType}"][layer="${layer}"]`)
       box.val(pattern)
       const { [layer]: show } = tpShowLayers
       setBox("show", `[ntype="${nType}"][layer="${layer}"]`, show)
@@ -334,9 +345,12 @@ const applyResults = run => {
    * we run the query and display the results.
    * If the query is dirty, we clear all result components in the state.
    */
+  tell("applyResults 1")
   const { jobState: { dirty } = {} } = state
   if (run) {
+    tell("applyResults 2")
     if (dirty) {
+      tell("applyResults 3")
       const statsbody = $("#statsbody")
       const resultsbody = $("#resultsbody")
 
@@ -347,9 +361,12 @@ const applyResults = run => {
       stateUpdate({ resultsByType: null, resultsComposed: null, resultTypeMap: null })
       stateUpdate({ prevFocusPos: null, dirty: false }, ["jobState"])
     } else {
-      runQuery()
+      tell("applyResults 4")
+      animate(runQuery)()
+      tell("applyResults 5")
     }
   }
+  tell("applyResults 6")
 }
 
 const applyFocus = () => {
@@ -395,21 +412,21 @@ const applyFocus = () => {
   if (focusPos != null) {
     setterw.show()
     totalw.show()
-    if (nResults > 2 * QU_WINDOW) {
+    if (nResults > 2 * QUWINDOW) {
       sliderw.show()
     }
     if (focusPos < nResults - 1) {
       maxa.addClass("active")
       maxp.addClass("active")
     }
-    if (focusPos + QU_WINDOW < nResults - 1) {
+    if (focusPos + QUWINDOW < nResults - 1) {
       max2p.addClass("active")
     }
     if (focusPos > 0) {
       mina.addClass("active")
       minp.addClass("active")
     }
-    if (focusPos - QU_WINDOW > 0) {
+    if (focusPos - QUWINDOW > 0) {
       min2p.addClass("active")
     }
   }
@@ -434,7 +451,7 @@ const gotoFocus = () => {
 const dressUp = () => {
   /* fill in title and description
   */
-  const { description, captions: { title } } = corpus
+  const { description, captions: { title } } = config
   $("head>title").html(title)
   $("#title").html(title)
   $("#description").html(description)
@@ -445,7 +462,7 @@ const addWidgets = () => {
    * and put them on the interface
    */
   const querybody = $("#querybody")
-  const { ntypesR, layers, levels } = corpus
+  const { ntypesR, layers, levels } = config
   const html = []
 
   for (const nType of ntypesR) {
@@ -470,7 +487,9 @@ const genTypeWidgets = (nType, description, typeInfo) => {
   html.push(`
 <tr class="qtype">
   <td><input type="radio" name="ctype" value="${nType}"></td>
-  <td></td>
+  <td><input
+    type="checkbox" name="show" ntype="${nType}" layer="_" value="1"
+  ></td>
   <td class="lvcell">${nTypeRep}</td>
   <td></td>
 </tr>
@@ -495,14 +514,19 @@ const genWidget = (nType, layer, info) =>
   <td>
     <input
       type="text"
-      id="pattern_${nType}_${layer}"
+      class="pattern"
+      kind="pattern"
       ntype="${nType}"
       layer="${layer}"
-      class="pattern"
       maxlength="${MaxReLength}"
       value=""
     >
-    <span id="error_${nType}_${layer}" class="error"></span>
+    <span
+      class="error"
+      kind="error"
+      ntype="${nType}"
+      layer="${layer}"
+    ></span>
   </td>
   <td>${genLegend(nType, layer, info)}</td>
 </tr>
@@ -575,28 +599,34 @@ const genLegend = (nType, layer, info) => {
  *       effect of "waiting" gone
  */
 
-const animate = (output, func) => async () => {
+const animate = func => async () => {
+  const output = $(`#resultsbody,#resultshead`)
+  const spinner = $(`#spinner`)
+
+  tell(`executing ${func.name}`)
+  spinner.addClass("executing")
   output.addClass("waiting")
   await sleep(0.05)
   func()
   output.removeClass("waiting")
+  spinner.removeClass("executing")
+  tell(`done ${func.name}`)
 }
 
 const activateSearch = () => {
   /* make the search button active
    */
   const button = $(`#go`)
-  const output = $(`#resultsbody`)
 
   button.off("click").click(e => {
     e.preventDefault()
-    animate(output, runQuery)()
+    animate(runQuery)()
     stateUpdate({ dirty: false }, ["jobState"])
     memorizeThisJob()
   })
   /* store the search patterns when they change
    */
-  const patterns = $(".pattern")
+  const patterns = $(`[kind="pattern"]`)
   patterns.off("change").change(e => {
     const elem = $(e.target)
     const nType = elem.attr("ntype")
@@ -692,7 +722,7 @@ const activateNumberControl = () => {
       return
     }
     stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos - QU_WINDOW)
+    focusPos = checkFocus(focusPos - QUWINDOW)
     stateUpdate({ focusPos }, ["jobState"])
     memorizeThisJob()
     displayResults()
@@ -725,7 +755,7 @@ const activateNumberControl = () => {
       return
     }
     stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos + QU_WINDOW)
+    focusPos = checkFocus(focusPos + QUWINDOW)
     stateUpdate({ focusPos }, ["jobState"])
     memorizeThisJob()
     displayResults()
@@ -878,7 +908,7 @@ const gather = () => {
    *     the intersection of the nodesets found for each layer
    *     for each layer, a mapping of nodes to matched positions
    */
-  const { ntypesR, layers } = corpus
+  const { ntypesR, layers } = config
   const { resultsByType } = stateUpdate({ resultsByType: {} })
 
   for (const nType of ntypesR) {
@@ -887,8 +917,8 @@ const gather = () => {
     const matchesByLayer = {}
 
     for (const [layer, info] of Object.entries(typeInfo)) {
-      const box = $(`#pattern_${nType}_${layer}`)
-      const ebox = $(`#error_${nType}_${layer}`)
+      const box = $(`[kind="pattern"][ntype="${nType}"][layer="${layer}"]`)
+      const ebox = $(`[kind="error"][ntype="${nType}"][layer="${layer}"]`)
       clearError(box, ebox)
       const pattern = box.val()
       if (pattern == null || pattern == "") {
@@ -935,7 +965,8 @@ const weed = () => {
    *   that maps 1-1 to the nodeset of any other type module projection.
    *  returns statistics: how many nodes there are for each type.
    */
-  const { up, down, ntypes } = corpus
+  const { ntypes } = config
+  const { up, down } = corpus
   const { resultsByType } = state
   const stats = {}
 
@@ -1052,7 +1083,7 @@ const weed = () => {
 const showStats = stats => {
   /* show statistics found by weed() on the interface
    */
-  const { ntypesR } = corpus
+  const { ntypesR } = config
   const statsbody = $("#statsbody")
   const html = []
   for (const nType of ntypesR) {
@@ -1086,7 +1117,8 @@ const composeResults = recomputeFocus => {
    * focus position in the old container type
    * We adjust the interface to the new focus pos (slider and number controls)
    */
-  const { ntypesI, up, utypeOf } = corpus
+  const { ntypesI, utypeOf } = config
+  const { up } = corpus
   const {
     resultsByType,
     resultsComposed: oldResultsComposed,
@@ -1163,7 +1195,7 @@ const normalContainerType = () => {
    * pick a reasonable one out of the available types of the corpus.
    * See defaultContainerType()
   */
-  const { containerType } = corpus
+  const { containerType } = config
 
   return containerType || defaultContainerType
 }
@@ -1172,7 +1204,7 @@ const defaultContainerType = () => {
   /* If no normal container type has been given in the corpus,
    * define one: take a type in the middle of all node types
    */
-  const { ntypes } = corpus
+  const { ntypes } = config
   const pos = Math.round(ntypes.length / 2)
   return ntypes[pos]
 }
@@ -1189,7 +1221,8 @@ const getDescendants = (u, uTypeIndex) => {
     return []
   }
 
-  const { down, dtypeOf, ntypes } = corpus
+  const { dtypeOf, ntypes } = config
+  const { down } = corpus
   const { resultTypeMap } = state
 
   const uType = ntypes[uTypeIndex]
@@ -1231,6 +1264,13 @@ const getHLText = (iPositions, matches, text) => {
   return spans
 }
 
+const getLayers = (nType, layers, showLayers, includeNodes) => {
+  const { [nType]: definedLayers = {} } = layers
+  const { [nType]: useLayers = {} } = showLayers
+  const nodeLayer = includeNodes ? ["_"] : []
+  return nodeLayer.concat(Object.keys(definedLayers)).filter(x => useLayers[x])
+}
+
 const displayResults = () => {
   /* Displays composed results on the interface.
    * Results are displayed in a table, around a focus position
@@ -1244,7 +1284,8 @@ const displayResults = () => {
    *   all of descendants (recursively),
    *     where the descendants that have results are highlighted.
    */
-  const { layers, texts, iPositions, ntypesI } = corpus
+  const { layers, ntypesI } = config
+  const { texts, iPositions } = corpus
   const {
     resultTypeMap,
     resultsByType,
@@ -1259,6 +1300,9 @@ const displayResults = () => {
   const genValueHtml = (nType, layer, node) => {
     /* generates the html for a layer of node, including the result highlighting
      */
+    if (layer == "_") {
+      return `<span class="n">${node}</span>`
+    }
     const { [nType]: { [layer]: { pos: posKey } } } = layers
     const { [nType]: { [layer]: text } } = texts
     const { [nType]: { [posKey]: iPos } } = iPositions
@@ -1289,13 +1333,7 @@ const displayResults = () => {
     const [n, children] = typeof node === NUMBER ? [node, []] : node
     const nType = resultTypeMap.get(n)
     const { [nType]: { nodes } = {} } = resultsByType
-    const { [nType]: tpLayers = {} } = showLayers
-
-    const theLayers = tpLayers
-      ? Object.entries(tpLayers)
-          .filter(x => x[1])
-          .map(x => x[0])
-      : []
+    const theLayers = getLayers(nType, layers, showLayers, true)
     const nLayers = theLayers.length
     const hasLayers = nLayers > 0
     const hasSingleLayer = nLayers == 1
@@ -1383,9 +1421,9 @@ const displayResults = () => {
     if (resultsComposed == null) {
       return ""
     }
-    const startPos = Math.max((focusPos || 0) - 2 * QU_WINDOW, 0)
+    const startPos = Math.max((focusPos || 0) - 2 * QUWINDOW, 0)
     const endPos = Math.min(
-      startPos + 4 * QU_WINDOW + 1,
+      startPos + 4 * QUWINDOW + 1,
       resultsComposed.length - 1
     )
     const html = []
@@ -1419,7 +1457,8 @@ const tabular = () => {
   if (resultsByType == null) {
     return null
   }
-  const { layers, texts, iPositions, ntypes } = corpus
+  const { layers, ntypes } = config
+  const { texts, iPositions } = corpus
   const { jobState: { showLayers } = {} } = state
 
   const headFields = ["type"]
@@ -1436,13 +1475,8 @@ const tabular = () => {
     const { [nType]: tpLayerInfo } = layers
     const { [nType]: tpTexts } = texts
     const { [nType]: tpIPositions } = iPositions
-    const { [nType]: tpLayers = {} } = showLayers
 
-    const exportLayers = tpLayers
-      ? Object.entries(tpLayers)
-          .filter(x => x[1])
-          .map(x => x[0])
-      : []
+    const exportLayers = getLayers(nType, layers, showLayers, false)
     for (const node of nodes) {
       if (!nodeFields.has(node)) {
         nodeFields.set(node, new Map())
@@ -1869,10 +1903,10 @@ const download = (text, fileName, ext, asUtf16) => {
 
 /* key massaging */
 
-const IF_NAME = "ls"
-const LAST_JOB_KEY = `${IF_NAME}LastJob`
-const defaultJobName = () => `${corpus.name}-search`
-const getJobPrefix = () => `${IF_NAME}/${corpus.name}/`
+const APREFIX = "ls"
+const LASTJOBKEY = `${APREFIX}LastJob`
+const defaultJobName = () => `${config.name}-search`
+const getJobPrefix = () => `${APREFIX}/${config.name}/`
 const getJobKey = job => `${getJobPrefix()}${job}`
 
 /* writing */
@@ -1882,14 +1916,14 @@ const memorizeJobName = job => {
    * the key of the last job that the user has worked with.
    * Here we commit a name of a job to localStorage as last job.
    */
-  localStorage.setItem(LAST_JOB_KEY, job)
+  localStorage.setItem(LASTJOBKEY, job)
 }
 
 const memorizeThisJobName = () => {
   /* Here we commit a name of the current job to localStorage as last job.
   */
   const { jobName } = state
-  localStorage.setItem(LAST_JOB_KEY, jobName)
+  localStorage.setItem(LASTJOBKEY, jobName)
 }
 
 const memorizeThisJob = () => {
@@ -1903,7 +1937,7 @@ const memorizeThisJob = () => {
 
 /* reading */
 
-const rememberLastJobName = () => localStorage.getItem(LAST_JOB_KEY)
+const rememberLastJobName = () => localStorage.getItem(LASTJOBKEY)
 
 const rememberJob = job => {
   /* retrieve data for specified job from localStorage
@@ -1954,6 +1988,28 @@ const forgetJob = job => {
  * We take care to use an async function for the longish
  * initialization, so that we can display progress messages
  * in the mean time
+ *
+ * Document loading:
+ * we take care that the user sees as much of the interface as early as possible.
+ * We specifiy all scripts in the header of the document, but with the defer
+ * attribute, so that the scripts load asynchronously
+ * and are executed in the given order:
+ *
+ * config.js (info on the basis of which this app builds the interface, small file)
+ * layered.js (the app itself, this very script that you are reading now)
+ * corpus.js (corpus data, a big file, multi-megabyte)
+ *
+ * When the document is ready, and the app has been loaded, the app will execute
+ * initConfig() which builds the interface.
+ *
+ * In the meanwhile, the corpus is still being fetched, while the interface is
+ * probably already rendered.
+ * When the corpus is in, the app will execute initCorpus().
+ *
+ * Then the app continues by fetching the most recent known job, if any,
+ * and executes its query, if it is not dirty.
+ *
+ * Only then the app is ready to use, and the progress/waiting markers disappear.
  */
 
 const sleep = async seconds => {
@@ -1964,10 +2020,8 @@ const sleep = async seconds => {
   tell(`after sleep ${seconds}`)
 }
 
-const init = async () => {
-  const pbox = $("#progress")
-  dressUp()
-  warmUpData()
+const initConfig = () => {
+  warmUpConfig()
   addWidgets()
   activateContainerType()
   activateShow()
@@ -1976,14 +2030,24 @@ const init = async () => {
   activateJobs()
   activateImport()
   activateExport()
+}
+
+const initCorpus = async () => {
+  dressUp()
+  warmUpData()
   initJob()
-  clearProgress(pbox)
 }
 
 $(() => {
   const pbox = $("#progress")
   clearProgress(pbox)
   showProgress(pbox, "Javascript has kicked in.")
-  showProgress(pbox, "Initializing ...")
-  init()
+  initConfig()
+  showProgress(pbox, "Reading corpus ...")
+})
+
+$(window).on("load", () => {
+  const pbox = $("#progress")
+  initCorpus()
+  clearProgress(pbox)
 })

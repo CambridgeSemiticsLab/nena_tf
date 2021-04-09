@@ -73,7 +73,8 @@ div.rightcol {
 
 #progress {
   font-family: monospace;
-  font-size: small;
+  font-size: x-large;
+  background-color: var(--initializing);
 }
 
 #title {
@@ -154,15 +155,31 @@ div.rightcol {
 
 /* rightcolumn 2: results part */
 
-/* big search execution button */
+/* big search execution button and progress indicator */
+#execute {
+  display: flex;
+  flex-flow: row nowrap;
+}
 button.main {
-  width: calc(100% - 2rem);
+  flex: 1 1 100%;
   border-radius: 0.5em;
   color: var(--button-fore);
   background-color: var(--button-back);
   font-size: x-large;
-  margin: 1rem;
+  margin: 1rem 0.5rem;
   border-width: 0;
+}
+#spinner {
+  flex: 0 0 2rem;
+  font-size: x-large;
+  margin: 1rem 0.5rem;
+  border-radius: 1rem;
+  border: 0.1rem solid var(--black);
+  background-color: var(--white);
+}
+
+#spinner.executing {
+  background-color: var(--executing);
 }
 
 /* rightcolumn 3: jobs part */
@@ -262,11 +279,10 @@ button.small.active {
 
 /* RIGHT COLUMN */
 
-#resultsbody {
+#resultsbody,#resultshead {
   background-color: var(--white);
-  transition: background-color 0.1s;
 }
-#resultsbody.waiting {
+#resultsbody.waiting,#resultshead.waiting {
   background-color: var(--waiting);
 }
 #resultsbody td {
@@ -333,25 +349,22 @@ button.small.active {
   padding: 0.1em;
   margin: 0.3em;
 }
-
-/* ANIMATIONS */
-
-@keyframes showresults {
-  from {background-color: var(--waiting);}
-  to {background-color: var(--white);}
+/* formatting the node itself */
+.n {
+  font-style: italic;
+  font-weight: bold;
+  color: var(--node-fore);
+  background-color: var(--node-back);
 }
 
-/* The element to apply the animation to */
-#resultsbody {
-  animation-name: xxshowresults;
-  animation-duration: 4s;
-}
 /* COLORS */
 
 :root {
   --white:            hsla(  0,   0%, 100%, 1    );
   --black:            hsla(  0,   0%,   0%, 1    );
-  --waiting:          hsla(  0,   0%,  70%, 1    );
+  --initializing:     hsla( 50, 100%,  50%, 1    );
+  --executing:        hsla( 20, 100%,  50%, 1    );
+  --waiting:          hsla( 20,  50%,  90%, 1    );
 	--inactive-fore:    hsla(  0,   0%,  80%, 1    );
 	--inactive-back:    hsla(  0,   0%,  60%, 1    );
 	--button-fore:      hsla(  0,   0%, 100%, 1    );
@@ -379,4 +392,6 @@ button.small.active {
   --pfocus-fore:      hsla(240, 100%,   0%, 1    ); 
   --pfocus-back:      hsla(240, 100%,  90%, 1    ); 
   --panel-border:     hsla(  0,   0%,  80%, 1    ); 
+  --node-fore:        hsla(240,  70%,  20%, 1    ); 
+  --node-back:        hsla(240,  50%,  95%, 1    ); 
 }

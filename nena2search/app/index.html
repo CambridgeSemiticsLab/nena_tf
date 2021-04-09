@@ -5,6 +5,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title></title>
 		<link rel="stylesheet" href="layered.css"/>
+		<script defer src="jquery.js"></script>
+		<script defer src="config.js"></script>
+		<script defer src="layered.js"/></script>
+		<script defer src="corpus.js"></script>
 	</head>
 	<body>
     <div class="page">
@@ -73,11 +77,12 @@
           </table>
         </div>
         <div id="results">
-          <div>
+          <div id="execute">
             <button
                 type="submit" accesskey="g" title="Enter or Ctr-Opt-G go search"
                 class="main" id="go"
             >go search</button>
+            <span id="spinner" class="executing"></span>
           </div>
           <table>
             <colgroup>
@@ -154,7 +159,7 @@
       </div>
       <div class="rightcol">
         <table id="resultstable">
-          <thead>
+          <thead id="resultshead">
             <th>n</th>
             <th>in</th>
             <th>result</th>
@@ -164,8 +169,5 @@
         </table>
       </div>
     </div>
-		<script src="corpus.js"></script>
-		<script src="jquery.js"></script>
-		<script src="layered.js"/></script>
   </body>
 </html>
