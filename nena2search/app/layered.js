@@ -7,7 +7,7 @@
 /* CONSTANTS */
 
 const NUMBER = "number"
-const DEBUG = false
+const DEBUG = true
 const QUWINDOW = 10
 const MaxReLength = 1000
 
@@ -473,6 +473,9 @@ const addWidgets = () => {
   querybody.html(html.join(""))
 }
 
+const showTip = "show this layer in results"
+const containerTip = "organize results by this level"
+
 const genTypeWidgets = (nType, description, typeInfo) => {
   /* Generate html for the search controls for a node type
    */
@@ -486,7 +489,12 @@ const genTypeWidgets = (nType, description, typeInfo) => {
   const html = []
   html.push(`
 <tr class="qtype">
-  <td><input type="radio" name="ctype" value="${nType}"></td>
+  <td><input
+    type="radio"
+    name="ctype"
+    value="${nType}
+    title="${containerTip}"
+  ></td>
   <td><input
     type="checkbox" name="show" ntype="${nType}" layer="_" value="1"
   ></td>
@@ -509,7 +517,12 @@ const genWidget = (nType, layer, info) =>
 <tr>
   <td></td>
   <td><input
-    type="checkbox" name="show" ntype="${nType}" layer="${layer}" value="1"
+    type="checkbox"
+    name="show"
+    ntype="${nType}"
+    layer="${layer}"
+    value="1"
+    title="${showTip}"
   ></td>
   <td>
     <input
@@ -535,10 +548,10 @@ const genWidget = (nType, layer, info) =>
 const genLegend = (nType, layer, info) => {
   /* Generate html for the description / legend of a single layer
    */
-  const { map, description } = info
+  const { valueMap, description } = info
   const html = []
 
-  if (map || description) {
+  if (valueMap || description) {
     html.push(`
 <details>
   <summary class="lyr">${layer}</summary>
@@ -546,9 +559,14 @@ const genLegend = (nType, layer, info) => {
     if (description) {
       html.push(`<div>${description}</div>`)
     }
-    if (map) {
-      for (const [acro, full] of Object.entries(map)) {
-        html.push(`<div class="legend"><b>${acro}</b> = ${full}</div>`)
+    if (valueMap) {
+      for (const [acro, full] of Object.entries(valueMap)) {
+        html.push(`
+<div class="legend">
+  <b><code>${acro}</code></b> =
+  <i><code>${full}</code></i>
+</div>`
+        )
       }
     }
     html.push(`
@@ -1242,26 +1260,35 @@ const getDescendants = (u, uTypeIndex) => {
   return dest
 }
 
-const getHLText = (iPositions, matches, text) => {
+const getHLText = (iPositions, matches, text, valueMap) => {
   /* get highlighted text for a node
    * The results of matching a pattern against a text are highlighted within that text
    * returns a sequence of spans, where each span is an array of postions plus a boolean
    * that indicated whether the span is highlighted or not.
    * Used by display() and tabular() below
    */
+  const hasMap = valueMap != null
+
   const spans = []
+  let value = ""
   let curHl = null
+
   for (const i of iPositions) {
+    const ch = text[i]
+    if (hasMap) {
+      value += ch
+    }
     const hl = matches.has(i)
     if (curHl == null || curHl != hl) {
-      const newSpan = [hl, text[i]]
+      const newSpan = [hl, ch]
       spans.push(newSpan)
       curHl = hl
     } else {
-      spans[spans.length - 1][1] += text[i]
+      spans[spans.length - 1][1] += ch
     }
   }
-  return spans
+  const tip = hasMap ? valueMap[value] : null
+  return { spans, tip }
 }
 
 const getLayers = (nType, layers, showLayers, includeNodes) => {
@@ -1303,7 +1330,7 @@ const displayResults = () => {
     if (layer == "_") {
       return `<span class="n">${node}</span>`
     }
-    const { [nType]: { [layer]: { pos: posKey } } } = layers
+    const { [nType]: { [layer]: { pos: posKey, valueMap } } } = layers
     const { [nType]: { [layer]: text } } = texts
     const { [nType]: { [posKey]: iPos } } = iPositions
     const nodeIPositions = iPos.get(node)
@@ -1311,17 +1338,20 @@ const displayResults = () => {
     const nodeMatches =
       matches == null || !matches.has(node) ? new Set() : matches.get(node)
 
-    const spans = getHLText(nodeIPositions, nodeMatches, text)
+    const { spans, tip } = getHLText(nodeIPositions, nodeMatches, text, valueMap)
+    const hasTip = tip != null
+    const tipRep = (hasTip) ? ` title="${tip}"` : ""
 
     const html = []
-    if (spans.length > 1) {
-      html.push(`<span>`)
+    const multiple = spans.length > 1 || hasTip
+    if (multiple) {
+      html.push(`<span${tipRep}>`)
     }
     for (const [hl, val] of spans) {
       const hlRep = hl ? ` class="hl"` : ""
       html.push(`<span${hlRep}>${val}</span>`)
     }
-    if (spans.length > 1) {
+    if (multiple) {
       html.push(`</span>`)
     }
     return html.join("")
@@ -1488,7 +1518,7 @@ const tabular = () => {
       const tpLayer = `${nType}-${layer}`
       headFields.push(tpLayer)
 
-      const { [layer]: { pos: posKey } } = tpLayerInfo
+      const { [layer]: { pos: posKey, valueMap } } = tpLayerInfo
       const { [layer]: text } = tpTexts
       const { [posKey]: iPos } = tpIPositions
       const { [layer]: lrMatches } = matches
@@ -1502,11 +1532,12 @@ const tabular = () => {
           lrMatches == null || !lrMatches.has(node)
             ? new Set()
             : lrMatches.get(node)
-        const spans = getHLText(nodeIPositions, nodeMatches, text)
+        const { spans, tip } = getHLText(nodeIPositions, nodeMatches, text, valueMap)
+        const tipRep = (tip == null) ? "" : `(=${tip})`
 
         let piece = ""
         for (const [hl, val] of spans) {
-          piece += `${hl ? "«" : ""}${val}${hl ? "»" : ""}`
+          piece += `${hl ? "«" : ""}${val}${hl ? "»" : ""}${tipRep}`
         }
         fields.set(tpLayer, piece)
       }

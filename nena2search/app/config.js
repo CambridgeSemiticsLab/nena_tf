@@ -5,6 +5,7 @@ const config = {
  "name": "nena",
  "description": "\n<p>Phonetic search interface for the Northeastern Neo-Aramaic Text-Fabric Corpus.</p>\n<p>Based on <a href=\"https://github.com/CambridgeSemiticsLab/nena_tf\" target=\"_blank\">NENA data in Text-Fabric format</a>.</p>\n<p>See the\n<a href=\"https://github.com/CambridgeSemiticsLab/nena_tf/blob/master/docs/features.md\" target=\"_blank\">data documentation</a>.</p>\n<p>This is a standalone app. You download it to your computer, and then it works without\nconnection to the internet.</p>\n<p>This web app is by:</p>\n<ul>\n<li> <a href=\"https://www.ames.cam.ac.uk/people/professor-geoffrey-khan\" target=\"_blank\">Geoffrey Khan</a> (initiator)\n<li> <a href=\"https://www.linkedin.com/in/cody-kingham-1135018a\" target=\"_blank\">Cody Kingham</a> (corpus developer)\n<li> <a href=\"https://pure.knaw.nl/portal/en/persons/dirk-roorda\" target=\"_blank\">Dirk Roorda</a> (software developer)\n</ul>\n",
  "containerType": "sentence",
+ "simpleBase": false,
  "ntypes": [
   "word",
   "sentence",
@@ -29,6 +30,7 @@ const config = {
    "full": false,
    "fuzzy": true,
    "lite": false,
+   "pos": true,
    "cls": true,
    "voice": false,
    "place": false,
@@ -53,146 +55,190 @@ const config = {
  "layers": {
   "word": {
    "lang": {
-    "map": {
-     "NENA": 1,
-     "K.": 2,
-     "A.": 3,
-     "K./A.": 4,
-     "A.|A.|K.": 5,
-     "A.|K.": 6,
-     "K./T.": 7,
-     "K.|K.": 8,
-     "K.|K.|K.": 9,
-     "A.|A.": 10,
-     "Urm.": 11,
-     "E.": 12,
-     "K./A./E.": 13,
-     "P.": 14,
-     "A./K.": 15,
-     "K./A.|K./A.": 16,
-     "T.": 17,
-     "Ṭiy.": 18,
-     "A./E.": 19,
-     "K./E.": 20,
-     "K./T.|K./T.": 21
+    "valueMap": {
+     "1": "NENA",
+     "2": "K.",
+     "3": "A.",
+     "4": "K./A.",
+     "5": "A.|A.|K.",
+     "6": "A.|K.",
+     "7": "K./T.",
+     "8": "K.|K.",
+     "9": "K.|K.|K.",
+     "10": "A.|A.",
+     "11": "Urm.",
+     "12": "E.",
+     "13": "K./A./E.",
+     "14": "P.",
+     "15": "A./K.",
+     "16": "K./A.|K./A.",
+     "17": "T.",
+     "18": "Ṭiy.",
+     "19": "A./E.",
+     "20": "K./E.",
+     "21": "K./T.|K./T.",
+     "0": ""
     },
     "pos": "lang",
     "value": "",
     "description": "language, indicated by a number"
    },
    "speaker": {
-    "map": {
-     "Dawið ʾAdam": 1,
-     "Yulia Davudi": 2,
-     "Yuwarəš Xošăba Kena": 3,
-     "Manya Givoyev": 4,
-     "Yuwəl Yuḥanna": 5,
-     "Nanəs Bənyamən": 6,
-     "Yosəp bet Yosəp": 7,
-     "Yonan Petrus": 8,
-     "Natan Khoshaba": 9,
-     "Arsen Mikhaylov": 10,
-     "Xošebo ʾOdišo": 11,
-     "Nancy George": 12,
-     "Awiko Sulaqa": 13,
-     "Maryam Gwirgis": 14,
-     "Alice Bet-Yosəp": 15,
-     "Bənyamən Bənyamən": 16,
-     "MB": 17,
-     "Mišayel Barčəm": 18,
-     "Nadia Aloverdova": 19,
-     "Frederic Ayyubkhan": 20,
-     "Victor Orshan": 21,
-     "Merab Badalov": 22,
-     "Sophia Danielova": 23,
-     "Blandina Barwari": 24,
-     "YD": 25,
-     "Dawið Gwərgəs": 26,
-     "Gwərgəs Dawið": 27,
-     "AB": 28,
-     "Jacob Petrus": 29,
-     "Dawid Adam": 30,
-     "NK": 31,
-     "YP": 32,
-     "JP": 33,
-     "Kena Kena": 34,
-     "Nawiya ʾOdišo": 35,
-     "GK": 36,
-     "Leya ʾOraha": 37
+    "valueMap": {
+     "1": "Dawið ʾAdam",
+     "2": "Yulia Davudi",
+     "3": "Yuwarəš Xošăba Kena",
+     "4": "Manya Givoyev",
+     "5": "Yuwəl Yuḥanna",
+     "6": "Nanəs Bənyamən",
+     "7": "Yosəp bet Yosəp",
+     "8": "Yonan Petrus",
+     "9": "Natan Khoshaba",
+     "10": "Arsen Mikhaylov",
+     "11": "Xošebo ʾOdišo",
+     "12": "Nancy George",
+     "13": "Awiko Sulaqa",
+     "14": "Maryam Gwirgis",
+     "15": "Alice Bet-Yosəp",
+     "16": "Bənyamən Bənyamən",
+     "17": "MB",
+     "18": "Mišayel Barčəm",
+     "19": "Nadia Aloverdova",
+     "20": "Frederic Ayyubkhan",
+     "21": "Victor Orshan",
+     "22": "Merab Badalov",
+     "23": "Sophia Danielova",
+     "24": "Blandina Barwari",
+     "25": "YD",
+     "26": "Dawið Gwərgəs",
+     "27": "Gwərgəs Dawið",
+     "28": "AB",
+     "29": "Jacob Petrus",
+     "30": "Dawid Adam",
+     "31": "NK",
+     "32": "YP",
+     "33": "JP",
+     "34": "Kena Kena",
+     "35": "Nawiya ʾOdišo",
+     "36": "GK",
+     "37": "Leya ʾOraha",
+     "0": ""
     },
     "pos": "speaker",
     "value": "",
     "description": "speaker, indicated by a number"
    },
    "text": {
-    "map": null,
+    "valueMap": null,
     "pos": "text",
     "value": "",
     "description": "text precise, complete, uses non-ascii: <code>maqəlbə̀nna</code>"
    },
    "full": {
-    "map": null,
+    "valueMap": null,
     "pos": "full",
     "value": "",
     "description": "text representation: <code>maq9lb9`nna</code>"
    },
    "fuzzy": {
-    "map": null,
+    "valueMap": null,
     "pos": "fuzzy",
     "value": "mute",
     "description": "text representation: <code>maqilbinna</code>"
    },
    "lite": {
-    "map": null,
+    "valueMap": null,
     "pos": "lite",
     "value": "",
     "description": "text representation: <code>maq9lb9nna</code>"
    },
+   "pos": {
+    "valueMap": {
+     "n": "NOUN",
+     "pt": "PART",
+     "pn": "PRON",
+     "nr": "NUMR",
+     "aj": "ADJV",
+     "ab": "ADVB",
+     "m": "MODI",
+     "i": "INTJ",
+     "pp": "PREP",
+     "v": "VERB",
+     "n|pt": "NOUN|PART",
+     "n|n": "NOUN|NOUN",
+     "pn|pt": "PRON|PART",
+     "pt|pn": "PART|PRON",
+     "m|n": "MODI|NOUN",
+     "m|pn": "MODI|PRON",
+     "pt|n": "PART|NOUN",
+     "ab|n": "ADVB|NOUN",
+     "n|ab": "NOUN|ADVB",
+     "n|aj": "NOUN|ADJV",
+     "aj|aj": "ADJV|ADJV",
+     "aj|n": "ADJV|NOUN",
+     "nr|nr": "NUMR|NUMR",
+     "aj|ab": "ADJV|ADVB",
+     "n|intj": "NOUN|INTJ",
+     "n|n|n": "NOUN|NOUN|NOUN",
+     "pt|pt|pt": "PART|PART|PART",
+     "aj|n|n": "ADJV|NOUN|NOUN",
+     "aj|n|n|n": "ADJV|NOUN|NOUN|NOUN",
+     "n|n|n|n": "NOUN|NOUN|NOUN|NOUN",
+     "z": ""
+    },
+    "pos": "pos",
+    "value": "",
+    "description": "part-of-speech"
+   },
    "cls": {
-    "map": {
-     "vowel": "V",
-     "consonant": "C"
+    "valueMap": {
+     "V": "vowel",
+     "C": "consonant",
+     "z": ""
     },
     "pos": "cls",
     "value": "",
     "description": "phonetic class: <code>CVCVCCVCCV</code>"
    },
    "voice": {
-    "map": {
-     "plain": "P",
-     "unvoiced_aspirated": "H",
-     "voiced": "V",
-     "unvoiced": "F",
-     "unvoiced_unaspirated": "G",
-     "emphatic": "X"
+    "valueMap": {
+     "P": "plain",
+     "H": "unvoiced_aspirated",
+     "V": "voiced",
+     "F": "unvoiced",
+     "G": "unvoiced_unaspirated",
+     "X": "emphatic",
+     "z": ""
     },
     "pos": "cls",
     "value": "",
     "description": "phonation: <code>PzzzPVzPPz</code>"
    },
    "place": {
-    "map": {
-     "dental-alveolar": "D",
-     "labial": "B",
-     "palatal-alveolar": "C",
-     "palatal": "J",
-     "velar": "G",
-     "uvular": "X",
-     "pharyngeal": "Q",
-     "laryngeal": "H"
+    "valueMap": {
+     "D": "dental-alveolar",
+     "B": "labial",
+     "C": "palatal-alveolar",
+     "J": "palatal",
+     "G": "velar",
+     "X": "uvular",
+     "Q": "pharyngeal",
+     "H": "laryngeal",
+     "z": ""
     },
     "pos": "cls",
     "value": "",
     "description": "phonation: <code>BzXzDBzDDz</code>"
    },
    "manner": {
-    "map": {
-     "affricative": "A",
-     "nasal": "N",
-     "other": "X",
-     "fricative": "F",
-     "lateral": "L",
-     "sibilant": "S"
+    "valueMap": {
+     "A": "affricative",
+     "N": "nasal",
+     "X": "other",
+     "F": "fricative",
+     "L": "lateral",
+     "S": "sibilant",
+     "z": ""
     },
     "pos": "cls",
     "value": "",
@@ -201,7 +247,7 @@ const config = {
   },
   "line": {
    "number": {
-    "map": null,
+    "valueMap": null,
     "pos": "number",
     "value": "",
     "description": "line number"
@@ -209,25 +255,25 @@ const config = {
   },
   "text": {
    "title": {
-    "map": null,
+    "valueMap": null,
     "pos": "title",
     "value": "A",
     "description": "title of a text"
    },
    "dialect": {
-    "map": null,
+    "valueMap": null,
     "pos": "dialect",
     "value": "",
     "description": "dialect of a text <code>Barwar Urmi_C</code>"
    },
    "tid": {
-    "map": null,
+    "valueMap": null,
     "pos": "tid",
     "value": "",
     "description": "id of a text"
    },
    "place": {
-    "map": null,
+    "valueMap": null,
     "pos": "place",
     "value": "Dure",
     "description": "place of a text"
