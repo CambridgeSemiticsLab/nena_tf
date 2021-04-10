@@ -37,7 +37,7 @@ div.page {
 }
 
 div.leftcol {
-	flex: 0 0 40rem;
+	flex: 0 0 35rem;;
 	border-right: 1pt solid var(--fog-rim);
 	padding-left: 4px;
 	padding-right: 8px;
@@ -118,30 +118,58 @@ div.rightcol {
 #querybody tr.qtypelast > td {
 }
 
+/* expand buttons in the query table for levels (node types) */
+.expand {
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+  border-width: 0;
+  color: var(--txtbtn-off-fore);
+  background-color: var(--txtbtn-off-back);
+}
+.expand.on {
+  color: var(--txtbtn-off-fore);
+  background-color: var(--txtbtn-off-back);
+}
+.expand.no {
+  background-color: var(--query-back);
+}
 /* entries in the query table for levels (node types) */
+.unit {
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+  border-width: 0;
+  color: var(--txtbtn-off-fore);
+  background-color: var(--txtbtn-off-back);
+}
+.unit.on {
+  color: var(--txtbtn-on-fore);
+  font-weight: bold;
+  background-color: var(--txtbtn-on-back);
+}
 .lvcell {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 /* the name of a level (node type) */
 .lv {
   background-color: var(--level-back);
-  border-radius: 0.3em;
+  border-radius: 0.3rem;
+  font-weight: bold;
 }
 /* the name of a layer */
 .lyr {
   background-color: var(--layer-back);
-  border-radius: 0.1em;
-  padding: 0.2em;
-  margin: 0.2em;
+  border-radius: 0.1rem;
+  padding: 0.2rem 0rem;
+  margin: 0.2rem 0rem;
 }
 /* the entry of a regex (search pattern) */
 .pattern {
   font-size: large;
   color: var(--cntinp-fore);
   background-color: var(--cntinp-back);
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
 }
 /* malformed regexes receive error formatting */
 .error {
@@ -152,20 +180,36 @@ div.rightcol {
   color: var(--cntinp-fore);
   background-color: var(--error-back);
 }
-.ims {
-  width: 1rem;
-  border-radius: 0.4em;
+.flags {
+  width: 1.4rem;
+  border-radius: 0.1rem;
   margin: 0.05rem;
-  padding: 0.05rem 0.1rem;
+  padding: 0.15rem;
   border-width: 0;
-  color: var(--ims-off-fore);
-  background-color: var(--ims-off-back);
+  color: var(--txtbtn-off-fore);
+  background-color: var(--txtbtn-off-back);
   text-decoration: line-through;
 }
-.ims.on {
-  color: var(--ims-on-fore);
-  background-color: var(--ims-on-back);
+.flags.on {
+  color: var(--txtbtn-on-fore);
+  font-weight: bold;
+  background-color: var(--txtbtn-on-back);
   text-decoration: none;
+}
+.visible, .exec {
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+  border-width: 0;
+  color: var(--txtbtn-off-fore);
+  background-color: var(--white);
+}
+.visible.on, .exec.on {
+  color: var(--txtbtn-on-fore);
+  font-weight: bold;
+}
+
+.dirty {
+  border: 0.2rem solid var(--dirty-border);
 }
 
 /* rightcolumn 2: results part */
@@ -175,27 +219,25 @@ div.rightcol {
   display: flex;
   flex-flow: row nowrap;
 }
-button.main {
+#go {
   flex: 1 1 100%;
-  border-radius: 0.5em;
+  border-radius: 0.5rem;
+  color: var(--button-back);
+  background-color: var(--button-fore);
+  border: 0.2rem solid var(--button-back);
+  font-size: x-large;
+  margin: 1rem 0.5rem;
+}
+#go.dirty {
   color: var(--button-fore);
   background-color: var(--button-back);
-  font-size: x-large;
-  margin: 1rem 0.5rem;
-  border-width: 0;
+  border: 0.2rem solid var(--button-back);
 }
-#spinner {
-  flex: 0 0 2rem;
-  font-size: x-large;
-  margin: 1rem 0.5rem;
-  border-radius: 1rem;
-  border: 0.1rem solid var(--black);
-  background-color: var(--white);
+#go.waiting {
+  background-color: var(--executing);
+  border: 0.2rem solid var(--button-back);
 }
 
-#spinner.executing {
-  background-color: var(--executing);
-}
 
 /* rightcolumn 3: jobs part */
 
@@ -206,14 +248,14 @@ button.main {
 
 /* buttons and inputs for job control, im/export */
 #jobaction {
-  border-radius: 0.5em;
+  border-radius: 0.5rem;
   background-color: var(--ctlinp-back);
   margin-left: 1rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
 }
 button.medium {
-  border-radius: 0.5em;
+  border-radius: 0.5rem;
   color: var(--button-fore);
   background-color: var(--button-back);
   border-width: 0;
@@ -278,7 +320,7 @@ button.medium {
   height: 1rem;
 }
 button.small {
-  border-radius: 0.4em;
+  border-radius: 0.4rem;
   color: var(--inactive-fore);
   background-color: var(--inactive-back);
   font-size: small;
@@ -334,7 +376,7 @@ button.small.active {
 }
 /* highlighted border (for higher levels) */
 .hlh {
-  border: 0.2em solid var(--hl-border);
+  border: 0.2rem solid var(--hl-border);
   color: var(--hl-fore);
   background-color: var(--hl-back);
 }
@@ -348,9 +390,9 @@ button.small.active {
   display: inline-flex;
   font-family: monospace;
 	flex-flow: row wrap;
-  border-radius: 0.2em;
-  padding: 0.2em;
-  margin: 0.2em;
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+  margin: 0.2rem;
 }
 /* when multiple layers must be displayed for a node: vertical stacking */
 .m {
@@ -359,10 +401,10 @@ button.small.active {
 }
 /* when a node has child nodes */
 .h {
-  border-radius: 0.1em;
+  border-radius: 0.1rem;
   border: 2px solid var(--unhl-border);
-  padding: 0.1em;
-  margin: 0.3em;
+  padding: 0.1rem;
+  margin: 0.3rem;
 }
 /* formatting the node itself */
 .n {
@@ -378,6 +420,7 @@ button.small.active {
   --white:            hsla(  0,   0%, 100%, 1    );
   --black:            hsla(  0,   0%,   0%, 1    );
   --initializing:     hsla( 50, 100%,  50%, 1    );
+  --dirty-border:     hsla( 50, 100%,  50%, 1    );
   --executing:        hsla( 20, 100%,  50%, 1    );
   --waiting:          hsla( 20,  50%,  90%, 1    );
 	--inactive-fore:    hsla(  0,   0%,  80%, 1    );
@@ -390,10 +433,10 @@ button.small.active {
 	--cntinp-back:      hsla(240, 100%,  97%, 1    );
 	--error-fore:       hsla(  0, 100%,  20%, 1    );
 	--error-back:       hsla(  0, 100%,  95%, 1    );
-	--ims-on-fore:      hsla(  0,   0%,   0%, 1    );
-	--ims-on-back:      hsla(120,  80%,  70%, 1    );
-	--ims-off-fore:     hsla(  0,   0%,   0%, 1    );
-	--ims-off-back:     hsla( 30,  90%,  70%, 1    );
+	--txtbtn-on-fore:   hsla(  0,   0%,   0%, 1    );
+	--txtbtn-on-back:   hsla(  0,   0%,  99%, 1    );
+	--txtbtn-off-fore:  hsla(  0,   0%,  50%, 1    );
+	--txtbtn-off-back:  hsla(  0,   0%,  98%, 1    );
 	--query-back:       hsla(  0,   0%,  90%, 1    );
 	--query-border:     hsla(  0,   0%,  90%, 1    );
 	--level-back:       hsla(  0,   0%,  90%, 1    );

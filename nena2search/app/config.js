@@ -22,7 +22,7 @@ const config = {
   "sentence": "line",
   "line": "text"
  },
- "show": {
+ "visible": {
   "word": {
    "lang": false,
    "speaker": false,

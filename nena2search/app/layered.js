@@ -3,14 +3,45 @@
 /* global config */
 /* global corpus */
 
+const DEBUG = false
 
 /* CONSTANTS */
 
 const NUMBER = "number"
-const DEBUG = true
+const STRING = "string"
 const QUWINDOW = 10
 const MaxReLength = 1000
-const IMSDEFAULT = { i: true, m: true, s: false }
+const EXPANDTEXT = {
+  on: "➖collapse layers",
+  off: "➕expand layers",
+  no: "no layers",
+}
+const UNITTEXT = { r: "row unit", a: "context", d: "content" }
+const FLAGSDEFAULT = { i: true, m: true, s: false }
+const EXECTEXT = { on: "⚫️", off: "🔴" }
+const VISIBLETEXT = { on: "🔵", off: "⚪️" }
+const SEARCH = {
+  dirty: "fetch results",
+  exe: "fetching ...",
+  done: "up to date",
+}
+const TIP = {
+  expand: "whether to show inactive layers",
+  unit: "make this the row unit",
+  exec: "whether this pattern is used in the search",
+  visible: "whether this layer is visible in the results",
+  visibletp: "whether node numbers are visible in the results",
+  flagm: `multiline: ^ and $ match:
+ON: around newlines
+OFF: at start and end of whole text`,
+  flags: `single string: . matches all characters:
+ON: including newlines
+OFF: excluding newlines"`,
+  flagi: `ignore
+ON: case-insensitive
+OFF: case-sensitive"`,
+}
+
 
 /* INFORMATIONAL MESSAGES
  *
@@ -22,38 +53,47 @@ const tell = msg => {
    * Only if the DEBUG flag is true
   */
   if (DEBUG) {
-    console.log(msg)
+    console.log("DEBUG", msg)
   }
 }
+tell("!!! IS ON !!!")
 
-const showError = (box, ebox, msg) => {
-  /* Show an error on the interface
-   * The error is shown in element ebox,
+const progress = msg => {
+  /* issue a debug message to the console
+  */
+  console.log(msg)
+}
+
+const drawError = (box, ebox, msg) => {
+  /* Draw an error on the interface
+   * The error is drawn in element ebox,
    * and the element box receives error formatting
    */
   console.error(msg)
   box.addClass("error")
+  ebox.show()
   ebox.html(msg)
 }
 
 const clearError = (box, ebox) => {
   /* Clear error formatting in specified locations
-   * See showError
+   * See drawError
    */
   box.removeClass("error")
   ebox.html("")
+  ebox.hide()
 }
 
-const showProgress = (box, msg) => {
-  /* Show a progress message on the interface
-   * The message is shown in element box
+const drawProgress = (box, msg) => {
+  /* Draw a progress message on the interface
+   * The message is drawn in element box
    */
   box.append(`${msg}<br>`)
 }
 
 const clearProgress = pbox => {
   /* Clear progress messages in specified location
-   * See showProgress
+   * See drawProgress
   */
   pbox.html("")
 }
@@ -90,11 +130,11 @@ const warmUpConfig = () => {
 const warmUpData = () => {
   /* Expand parts of the corpus data that have been optimized before shipping
   */
-  tell(`Decompress up-relation and infer down-relation`)
+  progress(`Decompress up-relation and infer down-relation`)
   decompress()
-  tell(`Infer inverted position maps`)
+  progress(`Infer inverted position maps`)
   invertPositionMaps()
-  tell(`Done`)
+  progress(`Done`)
 }
 
 const decompress = () => {
@@ -143,8 +183,8 @@ const invertPositionMaps = () => {
 
   const iPositions = {}
 
-  for (const [nType, typeInfo] of Object.entries(positions)) {
-    for (const [layer, pos] of Object.entries(typeInfo)) {
+  for (const [nType, tpInfo] of Object.entries(positions)) {
+    for (const [layer, pos] of Object.entries(tpInfo)) {
       const iPos = new Map()
       for (let i = 0; i < pos.length; i++) {
         const node = pos[i]
@@ -172,10 +212,11 @@ const invertPositionMaps = () => {
  * It contains two kinds of information
  *   1. the search results (in various forms)
  *   2. the user interactions (button clicks and text entered into text fields)
- *   3. the jobName (a job contains the essential info to recreate a search session)
+ *   3. the jobName (a job contains the essential information
+ *      to recreate a search session)
  *
  * As to 1: the following members are present
- *   1a. resultsByType: for each node type:
+ *   1a. tpResults: for each node type:
  *       1a1. (nodes) the set of nodes that match the query
  *            (they match all layers of this node type, and when you
  *            project the nodes to other node types, they match all layers
@@ -183,12 +224,12 @@ const invertPositionMaps = () => {
  *       1a2. (matches) for each layer of this type the mapping from nodes
  *            to matched character positions
  *  1b. resultsComposed: an array of results; when a composeType is chosen,
- *      we generate the results from resultsByType and store them here.
+ *      we generate the results from tpResults and store them here.
  *      A result consists of a node of the containerType, plus its
  *      ancestor nodes from higher types, plus all of its descendent nodes
  *      in lower types. A result only contains the nodes, not yet actual
  *      matched text.
- *      In order to render the results table, we need both resultsByType and
+ *      In order to render the results table, we need both tpResults and
  *      resultsComposed.
  *  1c. resultTypeMap: a mapping of nodes to node types, for all nodes that
  *      occur in rendered results (including non-matching descendants
@@ -199,18 +240,19 @@ const invertPositionMaps = () => {
  *   whether in localStorage or in files.
  *   The following members are present
  *     2a. query: for each node type and each layer in that type, the search pattern,
- *         i.e. a regex
+ *         i.e. a regex, and its flags (i m s), and whether it is will be/is executed
  *     2b. dirty: whether the results in the state are out of sync with the query
  *         in the state.
  *         This becomes true when a user edits the search patterns but has not yet
  *         executed the new query
+ *     2c. expandTypes: whether the layers of the types are expanded.
+ *         Not expanded means: only the active layers are visible.
+ *         A layer is active if it has a non-empty pattern or if its visible flag
+ *         is set or both
  *     2c. containerType: the node type used for composing results
- *     2d. showLayers: for each node type and each layer in that type,
- *         whether that layer must be shown in the results
- *     2d. imsLayer: for each node type and each layer in that type, whether the search
- *         in that layer has the flags i m s on or off
- *         must be shown in the results
- *     2e. focusPos: the current position in the table of results: this is what is shown
+ *     2d. visibleLayers: for each node type and each layer in that type,
+ *         whether that layer must be visible in the results
+ *     2e. focusPos: the current position in the table of results: this is what is drawn
  *         in the middle of the screen if possible, together with a number of rows above
  *         and below, given by QUWINDOW.
  *         The focused result will be marked strongly on the interface.
@@ -255,12 +297,12 @@ const invertPositionMaps = () => {
  * used to get state information. But returning it enables patterns where
  * we set a state member and then use that value in a local variable:
  *
- * const { resultsByType } = stateUpdate({ resultsByType: {} })
+ * const { tpResults } = stateUpdate({ tpResults: {} })
  *
  * */
 
 const state = {
-  resultsByType: null,
+  tpResults: null,
   resultsComposed: null,
   resultTypeMap: null,
   jobName: null,
@@ -268,8 +310,7 @@ const state = {
     query: {},
     dirty: false,
     containerType: null,
-    showLayers: {},
-    imsLayers: {},
+    visibleLayers: {},
     focusPos: null,
     prevFocusPos: null,
   },
@@ -305,10 +346,11 @@ const stateUpdate = (updates, subkeys) => {
 const applyJob = run => {
   /* apply jobState to the interface
    */
-  const { layers } = config
+  const { ntypes, layers } = config
 
   const {
-    jobName, jobState: { query = {}, containerType, showLayers, imsLayers = {} } = {},
+    jobName,
+    jobState: { query = {}, containerType, visibleLayers = {} } = {},
   } = state
   const useContainerType = containerType || normalContainerType()
   if (useContainerType != containerType) {
@@ -318,41 +360,106 @@ const applyJob = run => {
   $("#jobname").val(jobName)
   $("#jchange").val(jobName)
 
-  for (const [nType, typeInfo = {}] of Object.entries(layers)) {
-    const { [nType]: tpShowLayers = {} } = showLayers
-    const { [nType]: tpImsLayers = {} } = imsLayers
+  for (const nType of ntypes) {
+    const { [nType]: tpInfo = {} } = layers
     const { [nType]: tpQuery = {} } = query
-    for (const layer of Object.keys(typeInfo)) {
-      const { [layer]: pattern = "" } = tpQuery
+    const { [nType]: tpVisibleLayers = {} } = visibleLayers
+
+    applyLayers(nType)
+
+    const { _: visibleNodes } = tpVisibleLayers
+    setButton("visible", `[ntype="${nType}"][layer="_"]`, visibleNodes, VISIBLETEXT)
+
+    for (const layer of Object.keys(tpInfo)) {
+      const { [layer]: { pattern = "", flags = {}, exec = true } = {} } = tpQuery
       const box = $(`[kind="pattern"][ntype="${nType}"][layer="${layer}"]`)
       box.val(pattern)
 
-      const { [layer]: show } = tpShowLayers
-      setBox("show", `[ntype="${nType}"][layer="${layer}"]`, show)
-
-      let { [layer]: ims = {} } = tpImsLayers
-      ims = { ...IMSDEFAULT, ...ims }
-      for (const flag of ["i", "m", "s"]) {
-        const isOn = ims[flag]
+      const useFlags = { ...FLAGSDEFAULT, ...flags }
+      for (const [flag, isOn] of Object.entries(useFlags)) {
         setButton(flag, `[ntype="${nType}"][layer="${layer}"]`, isOn)
       }
+
+      setButton("exec", `[ntype="${nType}"][layer="${layer}"]`, exec, EXECTEXT)
+
+      const { [layer]: visible = false } = tpVisibleLayers
+      setButton("visible", `[ntype="${nType}"][layer="${layer}"]`, visible, VISIBLETEXT)
     }
   }
 
-  setBox("ctype", `[value="${useContainerType}"]`, true)
+  setButton("ctype", ``, false)
+  setButton("ctype", `[ntype="${useContainerType}"]`, true)
+  applyUnits(containerType)
   applyResults(run)
+  clearBrowserState()
 }
 
-const setBox = (name, spec, onoff) =>
-  /* Check or uncheck radio and checkboxes.
-   * name is what is in their "name" attribute,
-   * with spec you can pass additional selection criteria,
-   * as a jQuery selector
-   * onoff is true or false: true will check, false will uncheck
-   */
-  $(`input[name="${name}"]${spec}`).prop("checked", onoff)
+const applyLayers = nType => {
+  const { layers: { [nType]: tpLayers = {} } = {} } = config
+  const {
+    jobState: {
+      expandTypes: { [nType]: expand = false } = {},
+      visibleLayers: { [nType]: tpVisible = {} } = {},
+      query: { [nType]: tpQuery = {} } = {},
+    } = {},
+  } = state
 
-const setButton = (name, spec, onoff) => {
+  const totalLayers = Object.keys(tpLayers).length
+  const useExpand = (totalLayers == 0) ? null : expand
+
+  let totalActive = 0
+
+  for (const layer of Object.keys(tpLayers)) {
+    const row = $(`.ltype[ntype="${nType}"][layer="${layer}"]`)
+    const { [layer]: { pattern = "" } = {} } = tpQuery
+    const { [layer]: visible = false } = tpVisible
+    const isActive = visible || pattern.length > 0
+
+    if (isActive) {
+      totalActive += 1
+    }
+    if (expand || isActive) {
+      row.show()
+    }
+    else {
+      row.hide()
+    }
+  }
+  const text = {
+    no: EXPANDTEXT.no,
+    on: `${EXPANDTEXT.on}(${totalActive})`,
+    off: `${EXPANDTEXT.off}(${totalLayers})`,
+  }
+  setButton("expand", `[ntype="${nType}"]`, useExpand, text)
+}
+
+const applyUnits = containerType => {
+  /* update the tags on the buttons for the containerType selection
+   * Only one of them can be on, they are function-wise radio buttons
+   */
+  const { ntypes, ntypesI } = config
+
+  const containerIndex = ntypesI.get(containerType)
+  for (const nType of ntypes) {
+    const nTypeIndex = ntypesI.get(nType)
+    const k = (containerIndex == nTypeIndex)
+      ? "r" : (containerIndex < nTypeIndex)
+      ? "a" : "d"
+    const elem = $(`button[name="ctype"][ntype="${nType}"]`)
+    elem.html(UNITTEXT[k])
+  }
+}
+
+const clearBrowserState = () => {
+  /* clears the browser state after a change in the form fields.
+   * this prevents an "are you sure" - popup before reloading the page
+   */
+  if (window.history.replaceState) {
+    window.history.replaceState(null, null, window.location.href)
+  }
+}
+
+const setButton = (name, spec, onoff, changeTag) => {
   /* Put a button in an on or off state
    * name is what is in their "name" attribute,
    * with spec you can pass additional selection criteria,
@@ -360,11 +467,22 @@ const setButton = (name, spec, onoff) => {
    * onoff is true or false: true will add the class on, false will remove that class
    */
   const elem = $(`button[name="${name}"]${spec}`)
-  if (onoff) {
-    elem.addClass("on")
+  if (onoff == null) {
+    elem.removeClass("on")
+    elem.addClass("no")
   }
   else {
-    elem.removeClass("on")
+    if (onoff) {
+      elem.addClass("on")
+      elem.removeClass("no")
+    }
+    else {
+      elem.removeClass("on")
+      elem.removeClass("no")
+    }
+  }
+  if (changeTag) {
+    elem.html(changeTag[(onoff == null) ? "no" : onoff ? "on" : "off"])
   }
 }
 
@@ -385,7 +503,7 @@ const applyResults = run => {
       resultsbody.html("")
       applyFocus()
 
-      stateUpdate({ resultsByType: null, resultsComposed: null, resultTypeMap: null })
+      stateUpdate({ tpResults: null, resultsComposed: null, resultTypeMap: null })
       stateUpdate({ prevFocusPos: null, dirty: false }, ["jobState"])
     } else {
       animate(runQuery)()
@@ -479,6 +597,7 @@ const dressUp = () => {
   $("head>title").html(title)
   $("#title").html(title)
   $("#description").html(description)
+  $("go").html(SEARCH.dirty)
 }
 
 const addWidgets = () => {
@@ -490,17 +609,14 @@ const addWidgets = () => {
   const html = []
 
   for (const nType of ntypesR) {
-    const typeInfo = layers[nType] || {}
+    const tpInfo = layers[nType] || {}
     const description = levels[nType] || {}
-    html.push(genTypeWidgets(nType, description, typeInfo))
+    html.push(genTypeWidgets(nType, description, tpInfo))
   }
   querybody.html(html.join(""))
 }
 
-const showTip = "show this layer in results"
-const containerTip = "organize results by this level"
-
-const genTypeWidgets = (nType, description, typeInfo) => {
+const genTypeWidgets = (nType, description, tpInfo) => {
   /* Generate html for the search controls for a node type
    */
   const nTypeRep = description
@@ -512,96 +628,70 @@ const genTypeWidgets = (nType, description, typeInfo) => {
 
   const html = []
   html.push(`
-<tr class="qtype">
-  <td><input
-    type="radio"
-    name="ctype"
-    value="${nType}"
-    title="${containerTip}"
-  ></td>
+<tr class="qtype" ntype="${nType}">
   <td class="lvcell">${nTypeRep}</td>
-  <td><input
-    type="checkbox" name="show" ntype="${nType}" layer="_" value="1"
-  ></td>
+  <td><button type="button" name="expand" class="expand"
+    ntype="${nType}"
+    title="${TIP.expand}"
+  ></button></td>
+  <td><button type="button" name="ctype" class="unit"
+    ntype="${nType}"
+    title="${TIP.unit}"
+  >result</button></td>
   <td></td>
+  <td><button type="button" name="visible" class="visible"
+    ntype="${nType}" layer="_"
+    title="${TIP.visibletp}"
+  ></button></td>
 </tr>
 `)
 
-  const theseLayers = Object.entries(typeInfo)
-  for (const [layer, info] of theseLayers) {
-    html.push(genWidget(nType, layer, info))
+  for (const [layer, lrInfo] of Object.entries(tpInfo)) {
+    html.push(genWidget(nType, layer, lrInfo))
   }
   return html.join("")
 }
 
-const genWidget = (nType, layer, info) =>
+const genWidget = (nType, layer, lrInfo) =>
   /* Generate html for the search controls for a single layer
    */
   `
-<tr>
-  <td></td>
+<tr class="ltype" ntype="${nType}" layer="${layer}">
+  <td>${genLegend(nType, layer, lrInfo)}</td>
   <td>
-    /<input
-      type="text"
-      class="pattern"
-      kind="pattern"
-      ntype="${nType}"
-      layer="${layer}"
+    /<input type="text" kind="pattern" class="pattern"
+      ntype="${nType}" layer="${layer}"
       maxlength="${MaxReLength}"
       value=""
-    ><span
-      class="error"
-      kind="error"
-      ntype="${nType}"
-      layer="${layer}"
-    ></span>/<button
-      type="button"
-      class="ims"
-      title="
-ignore
-ON: case-insensitive
-OFF: case-sensitive"
-      name="i"
-      ntype="${nType}"
-      layer="${layer}"
-    >i</button><button
-      type="button"
-      class="ims"
-      title="
-multiline: ^ and $ match:
-ON: around newlines
-OFF: at start and end of whole text"
-      name="m"
-      ntype="${nType}"
-      layer="${layer}"
-    >m</button><button
-      type="button"
-      class="ims"
-      title="
-single string: . matches all characters:
-ON: including newlines
-OFF: excluding newlines" 
-      name="s"
-      ntype="${nType}"
-      layer="${layer}"
+    ><span kind="error" class="error"
+      ntype="${nType}" layer="${layer}"
+    ></span>/</td>
+  <td><button type="button" name="i" class="flags"
+      ntype="${nType}" layer="${layer}"
+      title="${TIP.flagi}"
+    >i</button><button type="button" name="m" class="flags"
+      ntype="${nType}" layer="${layer}"
+      title="${TIP.flagm}"
+    >m</button><button type="button" name="s" class="flags"
+      ntype="${nType}" layer="${layer}"
+      title="${TIP.flags}"
     >s</button>
   </td>
-  <td><input
-    type="checkbox"
-    name="show"
-    ntype="${nType}"
-    layer="${layer}"
-    value="1"
-    title="${showTip}"
-  ></td>
-  <td>${genLegend(nType, layer, info)}</td>
+  <td><button type="button" name="exec" class="exec"
+    ntype="${nType}" layer="${layer}"
+    title="${TIP.exec}"
+  ></button></td>
+  <td><button type="button" name="visible" class="visible"
+    ntype="${nType}" layer="${layer}"
+    title="${TIP.visible}"
+  ></button></td>
 </tr>
 `
 
-const genLegend = (nType, layer, info) => {
+const genLegend = (nType, layer, lrInfo) => {
   /* Generate html for the description / legend of a single layer
    */
-  const { valueMap, description } = info
+  const { valueMap, description } = lrInfo
   const html = []
 
   if (valueMap || description) {
@@ -641,7 +731,7 @@ const genLegend = (nType, layer, info) => {
 
 /* LONG RUNNING FUNCTIONS
  *
- * We apply a device to make behaviour more visible on the interface.
+ * We apply a device to make behaviour more conspicuous on the interface.
  *
  * There are two problems
  *
@@ -672,30 +762,84 @@ const genLegend = (nType, layer, info) => {
 
 const animate = func => async () => {
   const output = $(`#resultsbody,#resultshead`)
-  const spinner = $(`#spinner`)
+  const go = $("#go")
 
-  tell(`executing ${func.name}`)
-  spinner.addClass("executing")
+  progress(`executing ${func.name}`)
+  go.html(SEARCH.exe)
+  go.removeClass("dirty")
+  go.addClass("waiting")
   output.addClass("waiting")
   await sleep(0.05)
   func()
+  go.html(SEARCH.done)
   output.removeClass("waiting")
-  spinner.removeClass("executing")
-  tell(`done ${func.name}`)
+  go.removeClass("waiting")
+  $(".dirty").removeClass("dirty")
+  progress(`done ${func.name}`)
+}
+
+const makeDirty = elem => {
+  const go = $("#go")
+  elem.addClass("dirty")
+  go.addClass("dirty")
+  go.html(SEARCH.dirty)
+  stateUpdate({ dirty: true }, ["jobState"])
 }
 
 const activateSearch = () => {
   /* make the search button active
    */
-  const button = $(`#go`)
+  const go = $(`#go`)
 
-  button.off("click").click(e => {
+  const handleQuery = e => {
     e.preventDefault()
+    go.off("click")
     animate(runQuery)()
     stateUpdate({ dirty: false }, ["jobState"])
     memorizeThisJob()
+    clearBrowserState()
+    go.click(handleQuery)
+  }
+
+  go.off("click").click(handleQuery)
+  /* handle changes in the expansion of layers
+   */
+  const expands = $(`button[name="expand"]`)
+  expands.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const nType = elem.attr("ntype")
+    const isNo = elem.hasClass("no")
+    if (!isNo) {
+      const isOn = elem.hasClass("on")
+      stateUpdate({ [nType]: !isOn }, ["jobState", "expandTypes"])
+      setButton("expand", `[ntype="${nType}"]`, !isOn)
+      applyLayers(nType)
+      memorizeThisJob()
+    }
+    clearBrowserState()
   })
-  /* store the search patterns when they change
+  /* handle changes in the container type
+   */
+  const units = $(`button[name="ctype"]`)
+  units.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const nType = elem.attr("ntype")
+    const { jobState: { containerType } = {} } = state
+    if (nType == containerType) {
+      return
+    }
+    stateUpdate({ containerType: nType }, ["jobState"])
+    composeResults(true)
+    displayResults()
+    setButton("ctype", ``, false)
+    setButton("ctype", `[ntype="${nType}"]`, true)
+    applyUnits(nType)
+    memorizeThisJob()
+    clearBrowserState()
+  })
+  /* handle changes in the search patterns
    */
   const patterns = $(`input[kind="pattern"]`)
   patterns.off("change").change(e => {
@@ -703,53 +847,59 @@ const activateSearch = () => {
     const nType = elem.attr("ntype")
     const layer = elem.attr("layer")
     const { target: { value } } = e
-    stateUpdate({ dirty: true }, ["jobState"])
-    stateUpdate({ [layer]: value }, ["jobState", "query", nType])
+    makeDirty(elem)
+    stateUpdate({ pattern: value }, ["jobState", "query", nType, layer])
     memorizeThisJob()
+    clearBrowserState()
   })
-  const ims = $(`button.ims`)
-  ims.off("click").click(e => {
+  const errors = $(`[kind="error"]`)
+  errors.hide()
+  /* handle changes in the regexp flags
+   */
+  const flags = $(`button.flags`)
+  flags.off("click").click(e => {
     e.preventDefault()
     const elem = $(e.target)
     const name = elem.attr("name")
     const nType = elem.attr("ntype")
     const layer = elem.attr("layer")
     const isOn = elem.hasClass("on")
-    stateUpdate({ [name]: !isOn }, ["jobState", "imsLayers", nType, layer])
+    makeDirty(elem)
+    stateUpdate({ [name]: !isOn }, ["jobState", "query", nType, layer, "flags"])
     setButton(name, `[ntype="${nType}"][layer="${layer}"]`, !isOn)
+    memorizeThisJob()
+    clearBrowserState()
+  })
+  /* handles changes in the "exec" controls
+   */
+  const execs = $(`button.exec`)
+  execs.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const nType = elem.attr("ntype")
+    const layer = elem.attr("layer")
+    const isOn = elem.hasClass("on")
+    makeDirty(elem)
+    stateUpdate({ exec: !isOn }, ["jobState", "query", nType, layer])
+    setButton("exec", `[ntype="${nType}"][layer="${layer}"]`, !isOn, EXECTEXT)
+    memorizeThisJob()
+    clearBrowserState()
+  })
+  /* handles changes in the "visible" controls
+   */
+  const visibles = $(`button.visible`)
+  visibles.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const nType = elem.attr("ntype")
+    const layer = elem.attr("layer")
+    const isOn = elem.hasClass("on")
+    stateUpdate({ [layer]: !isOn }, ["jobState", "visibleLayers", nType])
+    setButton("visible", `[ntype="${nType}"][layer="${layer}"]`, !isOn, VISIBLETEXT)
     displayResults()
     memorizeThisJob()
+    clearBrowserState()
   })
-}
-
-const activateContainerType = () => {
-  /* make the "ctype" radio buttons active
-   * (when a user chooses the container type for composing results)
-   */
-  $(`input[name="ctype"]`)
-    .off("click")
-    .click(e => {
-      const { target: { value: containerType } } = e
-      stateUpdate({ containerType }, ["jobState"])
-      composeResults(true)
-      displayResults()
-      memorizeThisJob()
-    })
-}
-
-const activateShow = () => {
-  /* make the "show" checkboxes active
-   * (when the user chooses which layers to include in the results)
-   */
-  $(`input[name="show"]`).off("click").click(e => {
-      const elem = $(e.target)
-      const nType = elem.attr("ntype")
-      const layer = elem.attr("layer")
-      const checked = elem.prop("checked")
-      stateUpdate({ [layer]: checked }, ["jobState", "showLayers", nType])
-      displayResults()
-      memorizeThisJob()
-    })
 }
 
 const activateNumberControl = () => {
@@ -902,8 +1052,8 @@ const activateExport = () => {
   // export job results
   const exprButton = $("#exportr")
   exprButton.off("click").click(() => {
-    const { resultsByType } = state
-    if (resultsByType == null) {
+    const { tpResults } = state
+    if (tpResults == null) {
       alert("Query has not been executed yet")
       return
     }
@@ -936,7 +1086,7 @@ const saveResults = () => {
  * 3. compose:
  *    - organize the result nodes around the nodes in a container type
  * 4. display:
- *    - show the table of results on the interface
+ *    - draw the table of results on the interface
  *    - by screenfuls
  *    - make navigation controls for moving the focus through the table
  */
@@ -947,17 +1097,17 @@ const runQuery = () => {
    */
   gather()
   const stats = weed()
-  showStats(stats)
+  drawStats(stats)
   composeResults(false)
   displayResults()
 }
 
-const doSearch = (nType, layer, info, regex) => {
+const doSearch = (nType, layer, lrInfo, regex) => {
   /* perform regular expression search for a single layer
    * return character positions and nodes that hold those positions
    */
   const { texts: { [nType]: { [layer]: text } }, positions } = corpus
-  const { pos: posKey } = info
+  const { pos: posKey } = lrInfo
   const { [nType]: { [posKey]: pos } } = positions
   const searchResults = text.matchAll(regex)
   const posFromNode = new Map()
@@ -987,37 +1137,40 @@ const gather = () => {
    *     for each layer, a mapping of nodes to matched positions
    */
   const { ntypesR, layers } = config
-  const { resultsByType } = stateUpdate({ resultsByType: {} })
+  const { jobState: { query = {} } = {} } = state
+  const { tpResults } = stateUpdate({ tpResults: {} })
 
   for (const nType of ntypesR) {
-    const { [nType]: typeInfo = {} } = layers
+    const { [nType]: tpInfo = {} } = layers
+    const { [nType]: tpQuery = {} } = query
     let intersection = null
     const matchesByLayer = {}
 
-    for (const [layer, info] of Object.entries(typeInfo)) {
+    for (const [layer, lrInfo] of Object.entries(tpInfo)) {
       const box = $(`[kind="pattern"][ntype="${nType}"][layer="${layer}"]`)
       const ebox = $(`[kind="error"][ntype="${nType}"][layer="${layer}"]`)
       clearError(box, ebox)
-      const pattern = box.val()
-      if (pattern == null || pattern == "") {
+      const { [layer]: { pattern = "", flags = {}, exec = true } = {} } = tpQuery
+      if (!exec || !pattern) {
         continue
       }
       if (pattern.length > MaxReLength) {
-        showError(
+        drawError(
           box,
           ebox,
           `pattern must be less than ${MaxReLength} characters long`
         )
         continue
       }
+      const flagString = Object.entries(flags).filter(x => x[1]).map(x => x[0]).join("")
       let regex
       try {
-        regex = new RegExp(pattern, "g")
+        regex = new RegExp(pattern, `g${flagString}`)
       } catch (error) {
-        showError(box, ebox, `"${pattern}": ${error}`)
+        drawError(box, ebox, `"${pattern}": ${error}`)
         continue
       }
-      const { posFromNode, nodeSet } = doSearch(nType, layer, info, regex)
+      const { posFromNode, nodeSet } = doSearch(nType, layer, lrInfo, regex)
       matchesByLayer[layer] = posFromNode
       if (intersection == null) {
         intersection = nodeSet
@@ -1030,7 +1183,7 @@ const gather = () => {
       }
     }
     const matches = matchesByLayer || null
-    resultsByType[nType] = { matches, nodes: intersection }
+    tpResults[nType] = { matches, nodes: intersection }
   }
 }
 
@@ -1045,7 +1198,7 @@ const weed = () => {
    */
   const { ntypes } = config
   const { up, down } = corpus
-  const { resultsByType } = state
+  const { tpResults } = state
   const stats = {}
 
   // determine highest and lowest types in which a search has been performed
@@ -1054,7 +1207,7 @@ const weed = () => {
 
   for (let i = 0; i < ntypes.length; i++) {
     const nType = ntypes[i]
-    const { [nType]: { nodes } } = resultsByType
+    const { [nType]: { nodes } } = tpResults
 
     if (nodes != null) {
       if (lo == null) {
@@ -1093,7 +1246,7 @@ const weed = () => {
   for (let i = hi; i > lo; i--) {
     const upType = ntypes[i]
     const dnType = ntypes[i - 1]
-    const { [upType]: { nodes: upNodes }, [dnType]: resultsDn = {} } = resultsByType
+    const { [upType]: { nodes: upNodes }, [dnType]: resultsDn = {} } = tpResults
     let { nodes: dnNodes } = resultsDn
     const dnFree = dnNodes == null
     // project upnodes downward if there was no search in the down type
@@ -1122,7 +1275,7 @@ const weed = () => {
   for (let i = lo; i < ntypes.length - 1; i++) {
     const dnType = ntypes[i]
     const upType = ntypes[i + 1]
-    const { [upType]: resultsUp = {}, [dnType]: { nodes: dnNodes } } = resultsByType
+    const { [upType]: resultsUp = {}, [dnType]: { nodes: dnNodes } } = tpResults
 
     const upNodes = new Set()
     for (const dn of dnNodes) {
@@ -1138,7 +1291,7 @@ const weed = () => {
   for (let i = lo; i > 0; i--) {
     const upType = ntypes[i]
     const dnType = ntypes[i - 1]
-    const { [upType]: { nodes: upNodes }, [dnType]: resultsDn = {} } = resultsByType
+    const { [upType]: { nodes: upNodes }, [dnType]: resultsDn = {} } = tpResults
     const dnNodes = new Set()
     for (const un of upNodes) {
       if (down.has(un)) {
@@ -1152,14 +1305,14 @@ const weed = () => {
 
   // collect statistics
   //
-  for (const [nType, { nodes }] of Object.entries(resultsByType)) {
+  for (const [nType, { nodes }] of Object.entries(tpResults)) {
     stats[nType] = nodes.size
   }
   return stats
 }
 
-const showStats = stats => {
-  /* show statistics found by weed() on the interface
+const drawStats = stats => {
+  /* draw statistics found by weed() on the interface
    */
   const { ntypesR } = config
   const statsbody = $("#statsbody")
@@ -1198,7 +1351,7 @@ const composeResults = recomputeFocus => {
   const { ntypesI, utypeOf } = config
   const { up } = corpus
   const {
-    resultsByType,
+    tpResults,
     resultsComposed: oldResultsComposed,
     jobState: {
       focusPos: oldFocusPos,
@@ -1207,12 +1360,12 @@ const composeResults = recomputeFocus => {
       containerType,
     } = {},
   } = state
-  if (resultsByType == null) {
+  if (tpResults == null) {
     stateUpdate({ resultsComposed: null })
     return
   }
 
-  const { [containerType]: { nodes: containerNodes } = {} } = resultsByType
+  const { [containerType]: { nodes: containerNodes } = {} } = tpResults
 
   const oldNResults = oldResultsComposed == null ? 1 : oldResultsComposed.length
   const oldNResultsP = Math.max(oldNResults, 1)
@@ -1351,9 +1504,9 @@ const getHLText = (iPositions, matches, text, valueMap) => {
   return { spans, tip }
 }
 
-const getLayers = (nType, layers, showLayers, includeNodes) => {
+const getLayers = (nType, layers, visibleLayers, includeNodes) => {
   const { [nType]: definedLayers = {} } = layers
-  const { [nType]: useLayers = {} } = showLayers
+  const { [nType]: useLayers = {} } = visibleLayers
   const nodeLayer = includeNodes ? ["_"] : []
   return nodeLayer.concat(Object.keys(definedLayers)).filter(x => useLayers[x])
 }
@@ -1363,7 +1516,7 @@ const displayResults = () => {
    * Results are displayed in a table, around a focus position
    * We only display a limited amount of results around the focus position,
    * but the user can move the focus position in various ways.
-   * Per result we show this:
+   * Per result this is visible:
    *   Ancestor nodes are rendered highlighted
    *   The container nodes themselves are rendered as single nodes
    *     if they have content, otherwise they are left out
@@ -1375,11 +1528,11 @@ const displayResults = () => {
   const { texts, iPositions } = corpus
   const {
     resultTypeMap,
-    resultsByType,
+    tpResults,
     resultsComposed,
-    jobState: { showLayers = {}, focusPos, prevFocusPos } = {},
+    jobState: { visibleLayers = {}, focusPos, prevFocusPos } = {},
   } = state
-  if (resultsByType == null) {
+  if (tpResults == null) {
     stateUpdate({ resultsComposed: null })
     return
   }
@@ -1394,7 +1547,7 @@ const displayResults = () => {
     const { [nType]: { [layer]: text } } = texts
     const { [nType]: { [posKey]: iPos } } = iPositions
     const nodeIPositions = iPos.get(node)
-    const { [nType]: { matches: { [layer]: matches } = {} } } = resultsByType
+    const { [nType]: { matches: { [layer]: matches } = {} } } = tpResults
     const nodeMatches =
       matches == null || !matches.has(node) ? new Set() : matches.get(node)
 
@@ -1422,9 +1575,9 @@ const displayResults = () => {
      */
     const [n, children] = typeof node === NUMBER ? [node, []] : node
     const nType = resultTypeMap.get(n)
-    const { [nType]: { nodes } = {} } = resultsByType
-    const theLayers = getLayers(nType, layers, showLayers, true)
-    const nLayers = theLayers.length
+    const { [nType]: { nodes } = {} } = tpResults
+    const tpLayers = getLayers(nType, layers, visibleLayers, true)
+    const nLayers = tpLayers.length
     const hasLayers = nLayers > 0
     const hasSingleLayer = nLayers == 1
     const hasChildren = children.length > 0
@@ -1444,7 +1597,7 @@ const displayResults = () => {
 
     if (hasLayers) {
       html.push(`<span class="${hdRep}${lrRep}">`)
-      for (const layer of theLayers) {
+      for (const layer of tpLayers) {
         html.push(`${genValueHtml(nType, layer, n)}`)
       }
       html.push(`</span>`)
@@ -1543,20 +1696,20 @@ const displayResults = () => {
  * with Excel
  */
 const tabular = () => {
-  const { resultsByType } = state
-  if (resultsByType == null) {
+  const { tpResults } = state
+  if (tpResults == null) {
     return null
   }
   const { layers, ntypes } = config
   const { texts, iPositions } = corpus
-  const { jobState: { showLayers } = {} } = state
+  const { jobState: { visibleLayers } = {} } = state
 
   const headFields = ["type"]
   const nodeFields = new Map()
 
   for (let i = 0; i < ntypes.length; i++) {
     const nType = ntypes[i]
-    const { [nType]: { matches, nodes } } = resultsByType
+    const { [nType]: { matches, nodes } } = tpResults
 
     if (nodes == null) {
       continue
@@ -1566,7 +1719,7 @@ const tabular = () => {
     const { [nType]: tpTexts } = texts
     const { [nType]: tpIPositions } = iPositions
 
-    const exportLayers = getLayers(nType, layers, showLayers, false)
+    const exportLayers = getLayers(nType, layers, visibleLayers, false)
     for (const node of nodes) {
       if (!nodeFields.has(node)) {
         nodeFields.set(node, new Map())
@@ -1609,7 +1762,7 @@ const tabular = () => {
 
   for (let i = 0; i < ntypes.length; i++) {
     const nType = ntypes[i]
-    const { [nType]: { nodes } } = resultsByType
+    const { [nType]: { nodes } } = tpResults
     if (nodes == null) {
       continue
     }
@@ -1617,13 +1770,13 @@ const tabular = () => {
     const sortedNodes = [...nodes].sort()
 
     for (const node of sortedNodes) {
-      const thisLine = [`${node}`]
+      const line = [`${node}`]
       const fields = nodeFields.has(node) ? nodeFields.get(node) : new Map()
 
       for (const headField of headFields) {
-        thisLine.push(fields.has(headField) ? fields.get(headField) : "")
+        line.push(fields.has(headField) ? fields.get(headField) : "")
       }
-      lines.push(`${thisLine.join("\t")}\n`)
+      lines.push(`${line.join("\t")}\n`)
     }
   }
 
@@ -1661,12 +1814,6 @@ const initJob = () => {
     startJob()
   }
   applyJob(found)
-  /* the following code prevent an "are you sure" - popup
-   * when you reload the page with some fields in the form filled in
-   */
-  if (window.history.replaceState) {
-    window.history.replaceState(null, null, window.location.href)
-  }
 }
 
 const startJob = () => {
@@ -1674,25 +1821,27 @@ const startJob = () => {
    */
   const jobchange = $("#jchange")
   const query = {}
-  const { layers, show } = config
+  const { layers, visible } = config
 
-  const showLayers = {}
-  const imsLayers = {}
+  const expandTypes = {}
+  const visibleLayers = {}
 
-  for (const [nType, typeInfo] of Object.entries(layers)) {
-    const { [nType]: showByType = {} } = show
+  for (const [nType, tpInfo] of Object.entries(layers)) {
+    const { [nType]: tpVisible = {} } = visible
     query[nType] = {}
-    showLayers[nType] = {}
-    imsLayers[nType] = {}
+    expandTypes[nType] = (Object.keys(tpInfo).length == 0) ? null : false
+    visibleLayers[nType] = {}
 
-    for (const layer of Object.keys(typeInfo)) {
-      const { [layer]: { value = "" } = {} } = typeInfo
-      const { [layer]: thisShow } = showByType
+    for (const layer of Object.keys(tpInfo)) {
+      const { [layer]: { value = "" } = {} } = tpInfo
+      const { [layer]: lrVisible } = tpVisible
 
-      query[nType][layer] = DEBUG ? value : ""
-
-      showLayers[nType][layer] = thisShow
-      imsLayers[nType][layer] = { ...IMSDEFAULT }
+      query[nType][layer] = {
+        pattern: DEBUG ? value : "",
+        flags: { ...FLAGSDEFAULT },
+        exec: true,
+      }
+      visibleLayers[nType][layer] = lrVisible
     }
   }
 
@@ -1701,7 +1850,7 @@ const startJob = () => {
   const focusPos = null
   const prevFocusPos = null
   const jobState = {
-    query, containerType, showLayers, imsLayers, focusPos, prevFocusPos,
+    query, containerType, expandTypes, visibleLayers, focusPos, prevFocusPos,
   }
   stateUpdate({ jobState })
   memorizeThisJob()
@@ -1732,6 +1881,7 @@ const activateJobs = () => {
     }
     makeJob(newJob)
     jobOptions(jobchange)
+    clearBrowserState()
   })
   jobdup.off("click").click(() => {
     /* duplicate current job, ask for related new name
@@ -1743,6 +1893,7 @@ const activateJobs = () => {
     }
     copyJob(newJob)
     jobOptions(jobchange)
+    clearBrowserState()
   })
   jobrename.off("click").click(() => {
     /* rename current job, ask for related new name
@@ -1754,12 +1905,14 @@ const activateJobs = () => {
     }
     renameJob(newJob)
     jobOptions(jobchange)
+    clearBrowserState()
   })
   jobdelete.off("click").click(() => {
     /* delete current job
     */
     deleteJob()
     jobOptions(jobchange)
+    clearBrowserState()
   })
   jobchange.change(e => {
     /* switch to another job
@@ -1770,9 +1923,10 @@ const activateJobs = () => {
       return
     }
     switchJob(newJob)
+    clearBrowserState()
   })
 
-  /* populate the list of know options
+  /* populate the list of known options
   */
   jobOptions(jobchange)
 }
@@ -2041,9 +2195,23 @@ const rememberJob = job => {
   const jobName = job || defaultJobName()
   const jobKey = getJobKey(jobName)
   const jobContent = localStorage.getItem(jobKey)
-  const jobState = jobContent ? JSON.parse(jobContent) : {}
+  const jobState = jobContent ? sanitize(JSON.parse(jobContent)) : {}
   stateUpdate({ jobName, jobState })
   return !!jobContent
+}
+
+const sanitize = jobState => {
+  const { query } = jobState
+  if (query != null) {
+    for (const tpQuery of Object.values(query)) {
+      for (const [layer, lrQuery] of Object.entries(tpQuery)) {
+        if (typeof lrQuery === STRING) {
+          tpQuery[layer] = { pattern: lrQuery, flags: { ...FLAGSDEFAULT } }
+        }
+      }
+    }
+  }
+  return jobState
 }
 
 const rememberLastJob = () => {
@@ -2091,7 +2259,8 @@ const forgetJob = job => {
  * attribute, so that the scripts load asynchronously
  * and are executed in the given order:
  *
- * config.js (info on the basis of which this app builds the interface, small file)
+ * config.js (information on the basis of which this app builds the interface,
+ * small file)
  * layered.js (the app itself, this very script that you are reading now)
  * corpus.js (corpus data, a big file, multi-megabyte)
  *
@@ -2111,17 +2280,15 @@ const forgetJob = job => {
 const sleep = async seconds => {
   // to be called as: await sleep(n)
   //
-  tell(`before sleep ${seconds}`)
+  progress(`before sleep ${seconds}`)
   await new Promise(r => setTimeout(r, seconds * 1000))
-  tell(`after sleep ${seconds}`)
+  progress(`after sleep ${seconds}`)
 }
 
 const initConfig = () => {
   warmUpConfig()
   addWidgets()
-  activateContainerType()
   activateSearch()
-  activateShow()
   activateNumberControl()
   activateJobs()
   activateImport()
@@ -2137,9 +2304,9 @@ const initCorpus = async () => {
 $(() => {
   const pbox = $("#progress")
   clearProgress(pbox)
-  showProgress(pbox, "Javascript has kicked in.")
+  drawProgress(pbox, "Javascript has kicked in.")
   initConfig()
-  showProgress(pbox, "Reading corpus ...")
+  drawProgress(pbox, "Reading corpus ...")
 })
 
 $(window).on("load", () => {
