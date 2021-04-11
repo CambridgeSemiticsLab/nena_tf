@@ -36,30 +36,36 @@
           </details>
         </details>
         <div id="jobs">
-          <details>
-            <summary><select class="selinp" id="jchange"></select></summary>
-            <div class="cols">
-            </div>
-            <hr>
-            <div class="cols">
-              <button type="button" class="medium" id="newj">new</button>
-              <button type="button" class="medium" id="dupj">duplicate</button>
-              <button type="button" class="medium" id="renamej">rename</button>
-              <button type="button" class="medium" id="deletej">delete</button>
-            </div>
-            <hr>
-            <div class="cols">
-              <div>
-                <input
-                  type="file" name="imjname" id="imjname"
-                  accept="application/json"
-                  class="import"
-                >
-                <button type="button" class="medium" id="importj">load from file</button>
-              </div>
-              <button type="button" class="medium" id="exportj">save to file</button>
-            </div>
-          </details>
+          <input
+            type="file" name="imjname" id="imjname"
+            accept="application/json"
+            class="import"
+          >
+          <button
+            type="button" class="medium active" id="importj"
+            title="import job from file"
+          >↑</button>
+          <button
+            type="button" class="medium active" id="deletej"
+            title="delete current job"
+          >-</button>
+          <select class="selinp" id="jchange"></select>
+          <button
+            type="button" class="medium active" id="newj"
+            title="fresh new job"
+          >+</button>
+          <button
+            type="button" class="medium active" id="renamej"
+            title="rename current job"
+          >→</button>
+          <button
+            type="button" class="medium active" id="dupj"
+            title="duplicate current job"
+          >++</button>
+          <button
+            type="button" class="medium active" id="exportj"
+            title="export job to file"
+          >↓</button>
         </div>
         <form>
         <div id="query">
@@ -75,24 +81,24 @@
                 class="dirty" id="go"
             >go search</button>
           </div>
-          <table>
-            <colgroup>
-              <col align="left">
-              <col align="right">
-            </colgroup>
-            <thead>
-              <tr>
-                <th><i>level</i></th>
-                <th>results</th>
-              </tr>
-            </thead>
-            <tbody id="statsbody">
-            </tbody>
-          </table>
-          <hr>
-          <div class="cols">
-            <b>export</b>
-            <button type="button" class="medium" id="exportr">export results to Excel</button>
+          <div id="resultoverview" class="cols">
+            <button
+                type="button" class="medium active" id="exportr"
+                title="export all results to tab-separated file"
+            >↓</button>
+            <table>
+              <colgroup>
+                <col align="left">
+                <col align="right">
+              </colgroup>
+              <tbody id="statsbody">
+              </tbody>
+            </table>
+            <div id="settings">
+              <button
+                type="button" name="nodeseq" class="expand on"
+              ></button>
+            </div>
           </div>
         </div>
       </div>

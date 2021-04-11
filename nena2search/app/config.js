@@ -12,6 +12,18 @@ const config = {
   "line",
   "text"
  ],
+ "ntypesinit": {
+  "dialect": 539379,
+  "text": 713308,
+  "paragraph": 578369,
+  "line": 575825,
+  "sentence": 578719,
+  "subsentence": 688811,
+  "inton": 539381,
+  "stress": 595045,
+  "word": 713434,
+  "letter": 1
+ },
  "dtypeOf": {
   "sentence": "word",
   "line": "sentence",

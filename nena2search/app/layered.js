@@ -7,25 +7,35 @@ const DEBUG = false
 
 /* CONSTANTS */
 
+const BOOL = "boolean"
 const NUMBER = "number"
 const STRING = "string"
+const OBJECT = "object"
+
 const QUWINDOW = 10
-const MaxReLength = 1000
+const MAXINPUT = 1000
+
+const NODESEQTEXT = { on: "nodes start at 1", off: "nodes as in TF" }
 const EXPANDTEXT = {
-  on: "➖collapse layers",
-  off: "➕expand layers",
+  on: "- active layers",
+  off: "+ all layers",
   no: "no layers",
 }
 const UNITTEXT = { r: "row unit", a: "context", d: "content" }
-const FLAGSDEFAULT = { i: true, m: true, s: false }
 const EXECTEXT = { on: "⚫️", off: "🔴" }
 const VISIBLETEXT = { on: "🔵", off: "⚪️" }
+
+const FLAGSDEFAULT = { i: true, m: true, s: false }
+
 const SEARCH = {
   dirty: "fetch results",
   exe: "fetching ...",
   done: "up to date",
 }
 const TIP = {
+  nodeseq: `node numbers start at 1 for each node types
+OR
+node numbers are exactly as in Text Fabric`,
   expand: "whether to show inactive layers",
   unit: "make this the row unit",
   exec: "whether this pattern is used in the search",
@@ -62,6 +72,12 @@ const progress = msg => {
   /* issue a debug message to the console
   */
   console.log(msg)
+}
+
+const error = msg => {
+  /* issue a error message to the console
+  */
+  console.error(msg)
 }
 
 const drawError = (box, ebox, msg) => {
@@ -113,6 +129,27 @@ const clearProgress = pbox => {
 const { simpleBase } = config
 /* This is the base type of the corpus, e.g. word or letter
 */
+
+const normalContainerType = () => {
+  /* pick the normal container type as specified by the corpus
+   * If the corpus has forgotten to specify one,
+   * pick a reasonable one out of the available types of the corpus.
+   * See defaultContainerType()
+  */
+  const { containerType } = config
+
+  return containerType || defaultContainerType
+}
+
+const defaultContainerType = () => {
+  /* If no normal container type has been given in the corpus,
+   * define one: take a type in the middle of all node types
+   */
+  const { ntypes } = config
+  const pos = Math.round(ntypes.length / 2)
+  return ntypes[pos]
+}
+
 
 const warmUpConfig = () => {
   /* Derive additional parts of the config data
@@ -211,7 +248,7 @@ const invertPositionMaps = () => {
  * interface.
  * It contains two kinds of information
  *   1. the search results (in various forms)
- *   2. the user interactions (button clicks and text entered into text fields)
+ *   2. the jobState (button clicks and text entered into text fields)
  *   3. the jobName (a job contains the essential information
  *      to recreate a search session)
  *
@@ -260,82 +297,291 @@ const invertPositionMaps = () => {
  *         The result at this position will be marked lightly.
  *
  * As to 3: jobName is the name of the current search session, aka job.
- *   When we store a jobState in localStorage, we use this is key.
+ *   When we store a jobState in localStorage, we use this as key.
  *   When we store a jobState on file, we use this as file name.
  *
  * MUTABLE STATE
  *
  * Contrary React-Redux practice, our state is mutable.
- * We do not work with cycles that rerender the display after state changes,
+ * We do not work with cycles that re-render the display after state changes,
  * so we do not need to detect state changes efficiently.
  * Instead, at each state change, we also update the interface.
  *
+ * STATE PROVIDER OBJECT
+ *
+ * The state logic is encapsulated in a class which is instantiated
+ * with one object, the State
+ *
+ * INITIAL STATE
+ *
+ * The jobState part of the state is fixed in shape.
+ * The State Provider furnish a jobState that has * all members and submembers present,
+ * filled with default values, none of which are missing or null.
+ *
+ * The jobState can be initialized from external, incoming data,
+ * use State.startj for that.
+ *
+ * SAFE MERGE
+ *
+ * The jobState may come from untrusted sources, such as an imported file
+ * of localStorage. Such a jobState may not conform to the shape of the jobState
+ * as prescribed here.
+ * So the State Provider performs a safe merge of the new jobState into a
+ * fresh initial job state.
+ * A safe merge copies leaf members of the incoming state into corresponding places
+ * in the initial state, provided the path in the incoming state exists in the initial
+ * state, and the type of the value in the incoming state is the same as that of
+ * the corresponding value in the initial state, and the incoming value is not null.
+ * If the type of the value is string, the value should be less than MAXINPUT.
+ *
+ * If any of these conditions are not met, the update of that value is skipped.
+ * An error message will be written to the console .
+ *
  * GETTING the state
  *
- * We ALWAYS access the state by destructuring, like so:
- * (if variables nType and layer have values, we retrieve the search pattern as follows:
- * const {
- *  jobState: { query: { [nType]: { [layer]: pattern } = {} } = {} } = {}
- * } = state
+ * Always by State.gets() or State.getj()
  *
- * N.B. We take care to insert default values ( = {} ) for all the intermediate
- * subobjects, to accomodate the case where the state has not (yet)
- * corresponding members.
+ * gets is for top level state slices except jobState
+ * sets gets the jobState slice as a deep copy (so you cannot modify the jobState)
+ *
+ * const { query: { [nType]: { [layer]: pattern } } } = State.getj()
+ *
+ * N.B. We do not have to take care to use default values ( = {} ) for intermediate
+ * subobjects, because the members of the jobState are guaranteed to exist.
  *
  * SETTING the state
  *
- * We ALWAYS update the state by the function stateUpdate, like so
+ * ALWAYS by State.sets() or State.setj()
  *
- * stateUpdate({ a: x, b: y })
- *   here we update two members of the state, a and b, with values x and y resp.
+ * We get the members of state object back (except jobState).
+ * This enables patterns where we set a state member
+ * and then use that value in a local variable:
  *
- * stateUpdate({ text: "foo" }, ["jobState", "query", "word"])
- *   here we update an inner member of the state, namely "text" which sits
- *   under jobState and then query and the word.
+ * const { tpResults } = State.sets({ tpResults: {} })
  *
- * We get the state object back. It is still the same object as the one we
- * used to get state information. But returning it enables patterns where
- * we set a state member and then use that value in a local variable:
+ * Note that setj() does not return data!
  *
- * const { tpResults } = stateUpdate({ tpResults: {} })
+ * When setting the jobState with setj(),
+ * we apply the same checks as when we start a job from external data.
+ *
+ * INVARIANT:
+ *
+ * The jobState always has the full prescribed shape, with all members present at any
+ * level, and with now leaf values null.
  *
  * */
 
-const state = {
-  tpResults: null,
-  resultsComposed: null,
-  resultTypeMap: null,
-  jobName: null,
-  jobState: {
-    query: {},
-    dirty: false,
-    containerType: null,
-    visibleLayers: {},
-    focusPos: null,
-    prevFocusPos: null,
-  },
-}
+class StateProvider {
+  /* private members */
 
-const stateUpdate = (updates, subkeys) => {
-  /* update the state by means of an object data containing the updates
-   * The structure of the updates reflects the structure of a (part of) the state.
-   * The optional subkeys is an array which specifies a path into the
-   * structure of the state to which the updates must be applied.
-   */
-  let dest = state
-  if (subkeys) {
-    for (const subkey of subkeys) {
-      const { [subkey]: newDest } = dest
-      if (newDest === undefined) {
-        dest[subkey] = {}
-      }
-      dest = dest[subkey]
+  constructor() {
+    /* Make the contents for an initial, valid state, with defaults filled in
+    */
+    this.state = {
+      tpResults: null,
+      resultsComposed: null,
+      resultTypeMap: null,
+      jobName: null,
+      jobState: this.initjslice(),
     }
   }
-  for (const [k, v] of Object.entries(updates)) {
-    dest[k] = v
+
+  handleCheck() {
+    progress("x")
   }
-  return state
+
+  initjslice() {
+    /* Make the contents for an initial, valid jobState, with defaults filled in
+     * This is the first step in guaranteeing that the jobState has a fixed shape.
+     */
+    const { ntypes, layers, visible } = config
+
+    // First set a dumb, superficial value
+    const jobState = {
+      settings: { nodeseq: true },
+      query: {},
+      dirty: false,
+      expandTypes: {},
+      containerType: normalContainerType(),
+      visibleLayers: {},
+      focusPos: -2,
+      prevFocusPos: -2,
+    }
+
+    // Now create deeper values, from corpus config defaults
+    const { query, expandTypes, visibleLayers } = jobState
+
+    for (const nType of ntypes) {
+      const { [nType]: tpInfo = {} } = layers
+      const { [nType]: tpVisible = {} } = visible
+
+      query[nType] = {}
+      expandTypes[nType] = false
+      visibleLayers[nType] = { _: false }
+
+      for (const layer of Object.keys(tpInfo)) {
+        const { [layer]: { value = "" } = {} } = tpInfo
+        const { [layer]: lrVisible = false } = tpVisible
+
+        query[nType][layer] = {
+          pattern: DEBUG ? value : "",
+          flags: { ...FLAGSDEFAULT },
+          exec: true,
+        }
+        visibleLayers[nType][layer] = lrVisible
+      }
+    }
+    return jobState
+  }
+  startjslice(incoming) {
+    /* create a starting jobState out of an incoming jobState,
+     * which is safely merged into an initial jobState
+     */
+    const freshJobState = this.initjslice()
+    merge(freshJobState, incoming, [])
+    this.state.jobState = freshJobState
+  }
+
+  /* public members */
+
+  gets() {
+    /* GET STATE
+     *
+     * returns a shallow copy of the state, but only with the non jobState
+     * members.
+     * Note that the caller cannot use this to change the members
+     * that are string or number.
+     * But he can change the contents of the members that hold an object as value.
+     * This is intentional.
+     */
+    const { state: { jobState, ...rest } } = this
+    return rest
+  }
+
+  sets(incoming) {
+    /* SET STATE
+     *
+     * update the state by means of an object data containing the updates
+     * The structure of the updates reflects the structure of a (part of) the state,
+     * only at top-level.
+     */
+    const { state } = this
+
+    for (const [inKey, inValue] of Object.entries(incoming)) {
+      const stateVal = state[inKey]
+      if (stateVal === undefined) {
+        error(`State update: unknown key ${inKey}`)
+        continue
+      }
+      state[inKey] = inValue
+    }
+    return this.gets()
+  }
+
+  startj(job, incoming) {
+    /* INIT JOB STATE
+     *
+     * updates the state for a new, named job with incoming data
+     */
+    const jobName = job || defaultJobName()
+    this.state.jobName = jobName
+    State.startjslice(incoming)
+  }
+
+  getj() {
+    /* GET JOB STATE
+     *
+     * returns the jobState
+     * The caller should not modify the job state, so we return a deep copy of it
+     */
+    const { state: { jobState } } = this
+    return JSON.parse(JSON.stringify(jobState))
+  }
+
+  setj(incoming) {
+    /* SET JOB STATE
+     *
+     * Performs a safe update of the jobState by incoming data
+     */
+    const { state: { jobState } } = this
+    merge(jobState, incoming, [])
+  }
+}
+
+/* THE STATE OBJECT */
+
+let State
+
+/* auxiliary functions for state operations */
+
+const isObject = v => typeof v === OBJECT && !Array.isArray(v)
+
+const merge = (orig, incoming, path) => {
+  /* Merge an incoming object safely into an original object.
+   * The shape of orig will not be altered
+   *  1. no new keys will be introduced at any level
+   *  2. no value becomes undefined or null
+   *  3. no value changes type
+   *  4. no value becomes too long
+   *
+   * For all violations, an error message is sent to the console .
+   *
+   * Invariant: orig is an object, not a leaf value
+   */
+
+  const pRep = `Merge: incoming at path "${path.join(".")}": `
+
+  if (incoming == null) {
+    error(`${pRep}undefined`)
+    return
+  }
+  if (!isObject(incoming)) {
+    error(`${pRep}non-object`)
+    return
+  }
+  for (const [inKey, inValue] of Object.entries(incoming)) {
+    const origValue = orig[inKey]
+    if (origValue === undefined) {
+      error(`${pRep}unknown key ${inKey}`)
+      continue
+    }
+    if (inValue == null) {
+      error(`${pRep}undefined value for ${inKey}`)
+      continue
+    }
+    const origType = typeof origValue
+    const inType = typeof inValue
+    if (origType === NUMBER || origType === STRING || origType === BOOL) {
+      if (inType === OBJECT) {
+        const repVal = JSON.stringify(inValue)
+        error(`${pRep}object ${repVal} for ${inKey} instead of leaf value`)
+        continue
+      }
+      if (inType != origType) {
+        error(`${pRep}type conflict ${inType}, expected ${origType} for ${inKey}`)
+        continue
+      }
+      if (inType === STRING && inValue.length > MAXINPUT) {
+        const eRep = `${inValue.length} (${inValue.substr(0, 20)} ...)`
+        error(`${pRep}maximum length exceeded for ${inKey}: ${eRep}`)
+        continue
+      }
+      // all is well, we replace the value in orig by the incoming value
+      orig[inKey] = inValue
+      continue
+    }
+    if (origType !== OBJECT) {
+        error(`${pRep}unknown type ${inType} for ${inKey}=${inValue} instead of object`)
+        continue
+    }
+    if (origType === OBJECT) {
+      if (inType !== OBJECT) {
+        error(`${pRep}leaf value {inValue} for {inKey} instead of object`)
+        continue
+      }
+      merge(origValue, inValue, [...path, inKey])
+    }
+  }
 }
 
 /* APPLY STATE TO INTERFACE
@@ -348,22 +594,18 @@ const applyJob = run => {
    */
   const { ntypes, layers } = config
 
-  const {
-    jobName,
-    jobState: { query = {}, containerType, visibleLayers = {} } = {},
-  } = state
-  const useContainerType = containerType || normalContainerType()
-  if (useContainerType != containerType) {
-    stateUpdate({ containerType: useContainerType }, ["jobState"])
-  }
+  const { jobName } = State.gets()
+  const { query, containerType, visibleLayers } = State.getj()
+
+  applySettings("nodeseq")
 
   $("#jobname").val(jobName)
   $("#jchange").val(jobName)
 
   for (const nType of ntypes) {
     const { [nType]: tpInfo = {} } = layers
-    const { [nType]: tpQuery = {} } = query
-    const { [nType]: tpVisibleLayers = {} } = visibleLayers
+    const { [nType]: tpQuery } = query
+    const { [nType]: tpVisibleLayers } = visibleLayers
 
     applyLayers(nType)
 
@@ -387,22 +629,27 @@ const applyJob = run => {
     }
   }
 
-  setButton("ctype", ``, false)
-  setButton("ctype", `[ntype="${useContainerType}"]`, true)
   applyUnits(containerType)
   applyResults(run)
   clearBrowserState()
 }
 
+const applySettings = name => {
+  const { settings: { [name]: value } } = State.getj()
+  setButton(name, "", value, NODESEQTEXT)
+
+  if (name == "nodeseq") {
+    displayResults()
+  }
+}
+
 const applyLayers = nType => {
   const { layers: { [nType]: tpLayers = {} } = {} } = config
   const {
-    jobState: {
-      expandTypes: { [nType]: expand = false } = {},
-      visibleLayers: { [nType]: tpVisible = {} } = {},
-      query: { [nType]: tpQuery = {} } = {},
-    } = {},
-  } = state
+    expandTypes: { [nType]: expand },
+    visibleLayers: { [nType]: tpVisible },
+    query: { [nType]: tpQuery },
+  } = State.getj()
 
   const totalLayers = Object.keys(tpLayers).length
   const useExpand = (totalLayers == 0) ? null : expand
@@ -411,8 +658,8 @@ const applyLayers = nType => {
 
   for (const layer of Object.keys(tpLayers)) {
     const row = $(`.ltype[ntype="${nType}"][layer="${layer}"]`)
-    const { [layer]: { pattern = "" } = {} } = tpQuery
-    const { [layer]: visible = false } = tpVisible
+    const { [layer]: { pattern } } = tpQuery
+    const { [layer]: visible } = tpVisible
     const isActive = visible || pattern.length > 0
 
     if (isActive) {
@@ -448,6 +695,8 @@ const applyUnits = containerType => {
     const elem = $(`button[name="ctype"][ntype="${nType}"]`)
     elem.html(UNITTEXT[k])
   }
+  setButton("ctype", ``, false)
+  setButton("ctype", `[ntype="${containerType}"]`, true)
 }
 
 const clearBrowserState = () => {
@@ -493,7 +742,7 @@ const applyResults = run => {
    * we run the query and display the results.
    * If the query is dirty, we clear all result components in the state.
    */
-  const { jobState: { dirty } = {} } = state
+  const { dirty } = State.getj()
   if (run) {
     if (dirty) {
       const statsbody = $("#statsbody")
@@ -503,8 +752,8 @@ const applyResults = run => {
       resultsbody.html("")
       applyFocus()
 
-      stateUpdate({ tpResults: null, resultsComposed: null, resultTypeMap: null })
-      stateUpdate({ prevFocusPos: null, dirty: false }, ["jobState"])
+      State.sets({ tpResults: null, resultsComposed: null, resultTypeMap: null })
+      State.setj({ prevFocusPos: -2, dirty: false })
     } else {
       animate(runQuery)()
     }
@@ -515,7 +764,8 @@ const applyFocus = () => {
   /* adjust the interface to the current focus
    * Especially the result navigation controls and the slider
   */
-  const { resultsComposed, jobState: { focusPos } = {} } = state
+  const { resultsComposed } = State.gets()
+  const { focusPos } = State.getj()
   const setter = $("#setter")
   const setterw = $("#setterw")
   const slider = $("#slider")
@@ -531,8 +781,8 @@ const applyFocus = () => {
   const nResults = resultsComposed == null ? 0 : resultsComposed.length
   const nResultsP = Math.max(nResults, 1)
   const stepSize = Math.max(Math.round(nResults / 100), 1)
-  const focusVal = focusPos == null ? 0 : focusPos + 1
-  const totalVal = focusPos == null ? 0 : nResults
+  const focusVal = focusPos == -2 ? 0 : focusPos + 1
+  const totalVal = focusPos == -2 ? 0 : nResults
   setter.attr("max", nResultsP)
   setter.attr("step", stepSize)
   slider.attr("max", nResultsP)
@@ -551,7 +801,7 @@ const applyFocus = () => {
   max2p.removeClass("active")
   maxa.removeClass("active")
 
-  if (focusPos != null) {
+  if (focusPos != -2) {
     setterw.show()
     totalw.show()
     if (nResults > 2 * QUWINDOW) {
@@ -661,7 +911,7 @@ const genWidget = (nType, layer, lrInfo) =>
   <td>
     /<input type="text" kind="pattern" class="pattern"
       ntype="${nType}" layer="${layer}"
-      maxlength="${MaxReLength}"
+      maxlength="${MAXINPUT}"
       value=""
     ><span kind="error" class="error"
       ntype="${nType}" layer="${layer}"
@@ -763,6 +1013,7 @@ const genLegend = (nType, layer, lrInfo) => {
 const animate = func => async () => {
   const output = $(`#resultsbody,#resultshead`)
   const go = $("#go")
+  const expr = $("#exportr")
 
   progress(`executing ${func.name}`)
   go.html(SEARCH.exe)
@@ -772,6 +1023,7 @@ const animate = func => async () => {
   await sleep(0.05)
   func()
   go.html(SEARCH.done)
+  expr.addClass("active")
   output.removeClass("waiting")
   go.removeClass("waiting")
   $(".dirty").removeClass("dirty")
@@ -780,10 +1032,12 @@ const animate = func => async () => {
 
 const makeDirty = elem => {
   const go = $("#go")
+  const expr = $("#exportr")
   elem.addClass("dirty")
   go.addClass("dirty")
   go.html(SEARCH.dirty)
-  stateUpdate({ dirty: true }, ["jobState"])
+  expr.removeClass("active")
+  State.setj({ dirty: true })
 }
 
 const activateSearch = () => {
@@ -795,7 +1049,7 @@ const activateSearch = () => {
     e.preventDefault()
     go.off("click")
     animate(runQuery)()
-    stateUpdate({ dirty: false }, ["jobState"])
+    State.setj({ dirty: false })
     memorizeThisJob()
     clearBrowserState()
     go.click(handleQuery)
@@ -804,6 +1058,22 @@ const activateSearch = () => {
   go.off("click").click(handleQuery)
   /* handle changes in the expansion of layers
    */
+
+  const settingctls = $("#settings>button")
+  settingctls.off("click").click(e => {
+    e.preventDefault()
+    const elem = $(e.target)
+    const name = elem.attr("name")
+    const isNo = elem.hasClass("no")
+    if (!isNo) {
+      const isOn = elem.hasClass("on")
+      State.setj({ settings: { [name]: !isOn } })
+      applySettings(name)
+      memorizeThisJob()
+    }
+    clearBrowserState()
+  })
+
   const expands = $(`button[name="expand"]`)
   expands.off("click").click(e => {
     e.preventDefault()
@@ -812,8 +1082,7 @@ const activateSearch = () => {
     const isNo = elem.hasClass("no")
     if (!isNo) {
       const isOn = elem.hasClass("on")
-      stateUpdate({ [nType]: !isOn }, ["jobState", "expandTypes"])
-      setButton("expand", `[ntype="${nType}"]`, !isOn)
+      State.setj({ expandTypes: { [nType]: !isOn } })
       applyLayers(nType)
       memorizeThisJob()
     }
@@ -826,15 +1095,13 @@ const activateSearch = () => {
     e.preventDefault()
     const elem = $(e.target)
     const nType = elem.attr("ntype")
-    const { jobState: { containerType } = {} } = state
+    const { containerType } = State.getj()
     if (nType == containerType) {
       return
     }
-    stateUpdate({ containerType: nType }, ["jobState"])
+    State.setj({ containerType: nType })
     composeResults(true)
     displayResults()
-    setButton("ctype", ``, false)
-    setButton("ctype", `[ntype="${nType}"]`, true)
     applyUnits(nType)
     memorizeThisJob()
     clearBrowserState()
@@ -848,7 +1115,7 @@ const activateSearch = () => {
     const layer = elem.attr("layer")
     const { target: { value } } = e
     makeDirty(elem)
-    stateUpdate({ pattern: value }, ["jobState", "query", nType, layer])
+    State.setj({ query: { [nType]: { [layer]: { pattern: value } } } })
     memorizeThisJob()
     clearBrowserState()
   })
@@ -865,7 +1132,7 @@ const activateSearch = () => {
     const layer = elem.attr("layer")
     const isOn = elem.hasClass("on")
     makeDirty(elem)
-    stateUpdate({ [name]: !isOn }, ["jobState", "query", nType, layer, "flags"])
+    State.setj({ query: { [nType]: { [layer]: { flags: { [name]: !isOn } } } } })
     setButton(name, `[ntype="${nType}"][layer="${layer}"]`, !isOn)
     memorizeThisJob()
     clearBrowserState()
@@ -880,7 +1147,7 @@ const activateSearch = () => {
     const layer = elem.attr("layer")
     const isOn = elem.hasClass("on")
     makeDirty(elem)
-    stateUpdate({ exec: !isOn }, ["jobState", "query", nType, layer])
+    State.setj({ query: { [nType]: { [layer]: { exec: !isOn } } } })
     setButton("exec", `[ntype="${nType}"][layer="${layer}"]`, !isOn, EXECTEXT)
     memorizeThisJob()
     clearBrowserState()
@@ -894,7 +1161,7 @@ const activateSearch = () => {
     const nType = elem.attr("ntype")
     const layer = elem.attr("layer")
     const isOn = elem.hasClass("on")
-    stateUpdate({ [layer]: !isOn }, ["jobState", "visibleLayers", nType])
+    State.setj({ visibleLayers: { [nType]: { [layer]: !isOn } } })
     setButton("visible", `[ntype="${nType}"][layer="${layer}"]`, !isOn, VISIBLETEXT)
     displayResults()
     memorizeThisJob()
@@ -918,84 +1185,76 @@ const activateNumberControl = () => {
   const maxa = $("#maxa")
 
   slider.off("change").change(() => {
-    let { jobState: { focusPos } = {} } = state
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(slider.val() - 1)
-    stateUpdate({ focusPos }, ["jobState"])
+    const { focusPos } = State.getj
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(slider.val() - 1) })
     memorizeThisJob()
     displayResults()
   })
   setter.off("change").change(() => {
-    let { jobState: { focusPos } = {} } = state
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(setter.val() - 1)
-    stateUpdate({ focusPos }, ["jobState"])
+    const { focusPos } = State.getj
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(setter.val() - 1) })
     memorizeThisJob()
     displayResults()
   })
   minp.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos - 1)
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(focusPos - 1) })
     memorizeThisJob()
     displayResults()
   })
   min2p.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos - QUWINDOW)
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(focusPos - QUWINDOW) })
     memorizeThisJob()
     displayResults()
   })
   mina.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = 0
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: 0 })
     memorizeThisJob()
     displayResults()
   })
   maxp.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos + 1)
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(focusPos + 1) })
     memorizeThisJob()
     displayResults()
   })
   max2p.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(focusPos + QUWINDOW)
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(focusPos + QUWINDOW) })
     memorizeThisJob()
     displayResults()
   })
   maxa.off("click").click(() => {
-    let { jobState: { focusPos } = {} } = state
+    const { focusPos } = State.getj
     if (focusPos == null) {
       return
     }
-    stateUpdate({ prevFocusPos: focusPos }, ["jobState"])
-    focusPos = checkFocus(-1)
-    stateUpdate({ focusPos }, ["jobState"])
+    State.setj({ prevFocusPos: focusPos })
+    State.setj({ focusPos: checkFocus(-1) })
     memorizeThisJob()
     displayResults()
   })
@@ -1005,12 +1264,17 @@ const checkFocus = focusPos => {
   /* take care that the focus position is always within
    * the correct range with respect to the number of results
    *
-   * We implement here that going past the ned of the results
+   * We implement here that going past the end of the results
    * will cycle back to the beginning and vice versa,
    * but only in step-by-step mode, not in screenful mode
    */
-  const { resultsComposed } = state
-  const nResults = resultsComposed == null ? 0 : resultsComposed.length
+  const { resultsComposed } = State.gets()
+
+  if (resultsComposed == null) {
+    return -2
+  }
+
+  const nResults = resultsComposed.length
   if (focusPos == nResults) {
     return 0
   }
@@ -1052,7 +1316,7 @@ const activateExport = () => {
   // export job results
   const exprButton = $("#exportr")
   exprButton.off("click").click(() => {
-    const { tpResults } = state
+    const { tpResults } = State.gets()
     if (tpResults == null) {
       alert("Query has not been executed yet")
       return
@@ -1066,7 +1330,7 @@ const saveResults = () => {
   /* save job results to file
    * The file will be offered to the user as a download
    */
-  const { jobName } = state
+  const { jobName } = State.gets()
   const lines = tabular()
   const text = lines.join("")
   download(text, jobName, "tsv", true)
@@ -1137,12 +1401,13 @@ const gather = () => {
    *     for each layer, a mapping of nodes to matched positions
    */
   const { ntypesR, layers } = config
-  const { jobState: { query = {} } = {} } = state
-  const { tpResults } = stateUpdate({ tpResults: {} })
+
+  const { query } = State.getj()
+  const { tpResults } = State.sets({ tpResults: {} })
 
   for (const nType of ntypesR) {
     const { [nType]: tpInfo = {} } = layers
-    const { [nType]: tpQuery = {} } = query
+    const { [nType]: tpQuery } = query
     let intersection = null
     const matchesByLayer = {}
 
@@ -1154,11 +1419,11 @@ const gather = () => {
       if (!exec || !pattern) {
         continue
       }
-      if (pattern.length > MaxReLength) {
+      if (pattern.length > MAXINPUT) {
         drawError(
           box,
           ebox,
-          `pattern must be less than ${MaxReLength} characters long`
+          `pattern must be less than ${MAXINPUT} characters long`
         )
         continue
       }
@@ -1198,7 +1463,7 @@ const weed = () => {
    */
   const { ntypes } = config
   const { up, down } = corpus
-  const { tpResults } = state
+  const { tpResults } = State.gets()
   const stats = {}
 
   // determine highest and lowest types in which a search has been performed
@@ -1350,20 +1615,19 @@ const composeResults = recomputeFocus => {
    */
   const { ntypesI, utypeOf } = config
   const { up } = corpus
-  const {
-    tpResults,
-    resultsComposed: oldResultsComposed,
-    jobState: {
-      focusPos: oldFocusPos,
-      prevFocusPos: oldPrevFocusPos,
-      dirty: oldDirty,
-      containerType,
-    } = {},
-  } = state
+  const { tpResults, resultsComposed: oldResultsComposed } = State.gets()
+
   if (tpResults == null) {
-    stateUpdate({ resultsComposed: null })
+    State.sets({ resultsComposed: null })
     return
   }
+
+  const {
+    focusPos: oldFocusPos,
+    prevFocusPos: oldPrevFocusPos,
+    dirty: oldDirty,
+    containerType,
+  } = State.getj()
 
   const { [containerType]: { nodes: containerNodes } = {} } = tpResults
 
@@ -1374,7 +1638,7 @@ const composeResults = recomputeFocus => {
 
   const {
     resultsComposed, resultTypeMap,
-  } = stateUpdate({ resultsComposed: [], resultTypeMap: new Map() })
+  } = State.sets({ resultsComposed: [], resultTypeMap: new Map() })
 
   if (containerNodes) {
     for (const cn of containerNodes) {
@@ -1402,42 +1666,22 @@ const composeResults = recomputeFocus => {
     }
   }
   const nResults = resultsComposed == null ? 0 : resultsComposed.length
-  let focusPos = oldDirty ? null : oldFocusPos,
-    prevFocusPos = oldDirty ? null : oldPrevFocusPos
+  let focusPos = oldDirty ? -2 : oldFocusPos,
+    prevFocusPos = oldDirty ? -2 : oldPrevFocusPos
   if (recomputeFocus) {
     focusPos = Math.min(nResults, Math.round(nResults * oldRelative))
     prevFocusPos = Math.min(nResults, Math.round(nResults * oldPrevRelative))
   } else {
-    if (focusPos == null) {
+    if (focusPos == -2) {
       focusPos = nResults == 0 ? -1 : 0
-      prevFocusPos = null
+      prevFocusPos = -2
     } else if (focusPos > nResults) {
       focusPos = 0
-      prevFocusPos = null
+      prevFocusPos = -2
     }
   }
 
-  stateUpdate({ focusPos, prevFocusPos }, ["jobState"])
-}
-
-const normalContainerType = () => {
-  /* pick the normal container type as specified by the corpus
-   * If the corpus has forgotten to specify one,
-   * pick a reasonable one out of the available types of the corpus.
-   * See defaultContainerType()
-  */
-  const { containerType } = config
-
-  return containerType || defaultContainerType
-}
-
-const defaultContainerType = () => {
-  /* If no normal container type has been given in the corpus,
-   * define one: take a type in the middle of all node types
-   */
-  const { ntypes } = config
-  const pos = Math.round(ntypes.length / 2)
-  return ntypes[pos]
+  State.setj({ focusPos, prevFocusPos })
 }
 
 const getDescendants = (u, uTypeIndex) => {
@@ -1454,7 +1698,7 @@ const getDescendants = (u, uTypeIndex) => {
 
   const { dtypeOf, ntypes } = config
   const { down } = corpus
-  const { resultTypeMap } = state
+  const { resultTypeMap } = State.gets()
 
   const uType = ntypes[uTypeIndex]
   const dType = dtypeOf[uType]
@@ -1506,7 +1750,7 @@ const getHLText = (iPositions, matches, text, valueMap) => {
 
 const getLayers = (nType, layers, visibleLayers, includeNodes) => {
   const { [nType]: definedLayers = {} } = layers
-  const { [nType]: useLayers = {} } = visibleLayers
+  const { [nType]: useLayers } = visibleLayers
   const nodeLayer = includeNodes ? ["_"] : []
   return nodeLayer.concat(Object.keys(definedLayers)).filter(x => useLayers[x])
 }
@@ -1524,16 +1768,14 @@ const displayResults = () => {
    *   all of descendants (recursively),
    *     where the descendants that have results are highlighted.
    */
-  const { layers, ntypesI } = config
+  const { layers, ntypesI, ntypesinit } = config
   const { texts, iPositions } = corpus
-  const {
-    resultTypeMap,
-    tpResults,
-    resultsComposed,
-    jobState: { visibleLayers = {}, focusPos, prevFocusPos } = {},
-  } = state
+
+  const { resultTypeMap, tpResults, resultsComposed } = State.gets()
+  const { settings: { nodeseq }, visibleLayers, focusPos, prevFocusPos } = State.getj()
+
   if (tpResults == null) {
-    stateUpdate({ resultsComposed: null })
+    State.sets({ resultsComposed: null })
     return
   }
 
@@ -1541,7 +1783,8 @@ const displayResults = () => {
     /* generates the html for a layer of node, including the result highlighting
      */
     if (layer == "_") {
-      return `<span class="n">${node}</span>`
+      const num = nodeseq ? node - ntypesinit[nType] + 1 : node
+      return `<span class="n">${num}</span>`
     }
     const { [nType]: { [layer]: { pos: posKey, valueMap } } } = layers
     const { [nType]: { [layer]: text } } = texts
@@ -1696,13 +1939,13 @@ const displayResults = () => {
  * with Excel
  */
 const tabular = () => {
-  const { tpResults } = state
+  const { tpResults } = State.gets()
   if (tpResults == null) {
     return null
   }
   const { layers, ntypes } = config
   const { texts, iPositions } = corpus
-  const { jobState: { visibleLayers } = {} } = state
+  const { visibleLayers } = State.getj()
 
   const headFields = ["type"]
   const nodeFields = new Map()
@@ -1811,48 +2054,15 @@ const initJob = () => {
    */
   const found = rememberLastJob()
   if (!found) {
-    startJob()
+    freshJob()
   }
   applyJob(found)
 }
 
-const startJob = () => {
+const freshJob = () => {
   /* Derive an initial jobState from the corpus
    */
   const jobchange = $("#jchange")
-  const query = {}
-  const { layers, visible } = config
-
-  const expandTypes = {}
-  const visibleLayers = {}
-
-  for (const [nType, tpInfo] of Object.entries(layers)) {
-    const { [nType]: tpVisible = {} } = visible
-    query[nType] = {}
-    expandTypes[nType] = (Object.keys(tpInfo).length == 0) ? null : false
-    visibleLayers[nType] = {}
-
-    for (const layer of Object.keys(tpInfo)) {
-      const { [layer]: { value = "" } = {} } = tpInfo
-      const { [layer]: lrVisible } = tpVisible
-
-      query[nType][layer] = {
-        pattern: DEBUG ? value : "",
-        flags: { ...FLAGSDEFAULT },
-        exec: true,
-      }
-      visibleLayers[nType][layer] = lrVisible
-    }
-  }
-
-  const containerType = normalContainerType()
-
-  const focusPos = null
-  const prevFocusPos = null
-  const jobState = {
-    query, containerType, expandTypes, visibleLayers, focusPos, prevFocusPos,
-  }
-  stateUpdate({ jobState })
   memorizeThisJob()
   jobOptions(jobchange)
 }
@@ -1886,7 +2096,7 @@ const activateJobs = () => {
   jobdup.off("click").click(() => {
     /* duplicate current job, ask for related new name
     */
-    const { jobName } = state
+    const { jobName } = State.gets()
     const newJob = suggestName(jobName)
     if (newJob == null) {
       return
@@ -1898,7 +2108,7 @@ const activateJobs = () => {
   jobrename.off("click").click(() => {
     /* rename current job, ask for related new name
     */
-    const { jobName } = state
+    const { jobName } = State.gets()
     const newJob = suggestName(jobName)
     if (newJob == null) {
       return
@@ -1917,7 +2127,7 @@ const activateJobs = () => {
   jobchange.change(e => {
     /* switch to another job
     */
-    const { jobName } = state
+    const { jobName } = State.gets()
     const newJob = e.target.value
     if (jobName == newJob) {
       return
@@ -1934,7 +2144,7 @@ const activateJobs = () => {
 const jobOptions = jobchange => {
   /* populate the options of the select box with the remembered jobs in localStorage
    */
-  const { jobName } = state
+  const { jobName } = State.gets()
   let html = ""
   for (const job of rememberedJobs()) {
     const selected = job == jobName ? " selected" : ""
@@ -1948,6 +2158,8 @@ const suggestName = job => {
    * Given job, we append an `N` until the name is
    * not one of the known jobs.
    * This is only a suggestion, the user may override it.
+   * But if job is null, the first new name will be taken straightaway
+   * without user interaction.
    */
   const jobs = new Set(rememberedJobs())
   let newName = job
@@ -1961,11 +2173,13 @@ const suggestName = job => {
         newName += "N"
       }
     }
-    const answer = prompt("New job name:", newName)
-    if (answer == null) {
-      cancelled = true
-    } else {
-      newName = answer
+    if (job != null) {
+      const answer = prompt("New job name:", newName)
+      if (answer == null) {
+        cancelled = true
+      } else {
+        newName = answer
+      }
     }
   }
   return cancelled ? null : newName
@@ -1983,27 +2197,27 @@ const suggestName = job => {
 const makeJob = newJob => {
   /* make a fresh job
    */
-  let { jobName } = state
+  const { jobName } = State.gets()
+
   if (jobName == newJob) {
     return
   }
-  jobName = newJob
-  stateUpdate({ jobName, jobState: { dirty: true } })
+  State.startj(newJob, { dirty: true })
   /* the dirty bit will trigger the apply job to clear the results
   */
-  startJob()
+  freshJob()
   applyJob(true)
 }
 
 const copyJob = newJob => {
   /* copy current job to a new name
    */
-  let { jobName } = state
+  let { jobName } = State.gets()
   if (jobName == newJob) {
     return
   }
   jobName = newJob
-  stateUpdate({ jobName })
+  State.sets({ jobName })
   applyJob(false)
   memorizeThisJob()
 }
@@ -2011,13 +2225,13 @@ const copyJob = newJob => {
 const renameJob = newJob => {
   /* rename current job
    */
-  let { jobName } = state
+  let { jobName } = State.gets()
   if (jobName == newJob) {
     return
   }
   forgetJob(jobName)
   jobName = newJob
-  stateUpdate({ jobName })
+  State.sets({ jobName })
   applyJob(false)
   memorizeThisJob()
 }
@@ -2027,7 +2241,7 @@ const deleteJob = () => {
    * But only if there is still a job left,
    * otherwise rename to the default name
    */
-  const { jobName } = state
+  const { jobName } = State.gets()
   forgetJob(jobName)
   const allJobs = rememberedJobs()
   const newJob = allJobs.length ? allJobs[0] : defaultJobName()
@@ -2046,11 +2260,10 @@ const switchJob = job => {
   }
 }
 
-const importJob = (job, jobState) => {
+const importJob = (job, incomingJob) => {
   /* import a job, where the name and jobState are given
   */
-  const jobName = job || defaultJobName()
-  stateUpdate({ jobName, jobState })
+  State.startj(job, incomingJob)
   applyJob(true)
   memorizeThisJob()
   const jobchange = $("#jchange")
@@ -2061,7 +2274,9 @@ const saveJob = () => {
   /* save current job state to file
    * The file will be offered to the user as a download
    */
-  const { jobName, jobState } = state
+  const { jobName } = State.gets()
+  const jobState = State.getj()
+
   const text = JSON.stringify(jobState)
   download(text, jobName, "json", false)
 }
@@ -2090,8 +2305,7 @@ const importFile = elem => {
       const reader = new FileReader()
       const job = file.name.match(/([^/]+)\.[^.]*$/)[1]
       reader.onload = e => {
-        const jobState = JSON.parse(e.target.result)
-        importJob(job, jobState)
+        importJob(job, JSON.parse(e.target.result))
       }
       reader.readAsText(file)
     }
@@ -2155,7 +2369,7 @@ const download = (text, fileName, ext, asUtf16) => {
 
 const APREFIX = "ls"
 const LASTJOBKEY = `${APREFIX}LastJob`
-const defaultJobName = () => `${config.name}-search`
+const defaultJobName = () => `${config.name}-`
 const getJobPrefix = () => `${APREFIX}/${config.name}/`
 const getJobKey = job => `${getJobPrefix()}${job}`
 
@@ -2172,14 +2386,15 @@ const memorizeJobName = job => {
 const memorizeThisJobName = () => {
   /* Here we commit a name of the current job to localStorage as last job.
   */
-  const { jobName } = state
+  const { jobName } = State.gets()
   localStorage.setItem(LASTJOBKEY, jobName)
 }
 
 const memorizeThisJob = () => {
   /* store current job in localStorage and mark it as last job
    */
-  const { jobName, jobState } = state
+  const { jobName } = State.gets()
+  const jobState = State.getj()
   const jobKey = getJobKey(jobName)
   localStorage.setItem(jobKey, JSON.stringify(jobState))
   memorizeThisJobName()
@@ -2195,23 +2410,9 @@ const rememberJob = job => {
   const jobName = job || defaultJobName()
   const jobKey = getJobKey(jobName)
   const jobContent = localStorage.getItem(jobKey)
-  const jobState = jobContent ? sanitize(JSON.parse(jobContent)) : {}
-  stateUpdate({ jobName, jobState })
+  const incomingJob = jobContent ? JSON.parse(jobContent) : {}
+  State.startj(jobName, incomingJob)
   return !!jobContent
-}
-
-const sanitize = jobState => {
-  const { query } = jobState
-  if (query != null) {
-    for (const tpQuery of Object.values(query)) {
-      for (const [layer, lrQuery] of Object.entries(tpQuery)) {
-        if (typeof lrQuery === STRING) {
-          tpQuery[layer] = { pattern: lrQuery, flags: { ...FLAGSDEFAULT } }
-        }
-      }
-    }
-  }
-  return jobState
 }
 
 const rememberLastJob = () => {
@@ -2280,9 +2481,7 @@ const forgetJob = job => {
 const sleep = async seconds => {
   // to be called as: await sleep(n)
   //
-  progress(`before sleep ${seconds}`)
   await new Promise(r => setTimeout(r, seconds * 1000))
-  progress(`after sleep ${seconds}`)
 }
 
 const initConfig = () => {
@@ -2305,6 +2504,7 @@ $(() => {
   const pbox = $("#progress")
   clearProgress(pbox)
   drawProgress(pbox, "Javascript has kicked in.")
+  State = new StateProvider()
   initConfig()
   drawProgress(pbox, "Reading corpus ...")
 })

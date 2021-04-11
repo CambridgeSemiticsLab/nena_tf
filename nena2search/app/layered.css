@@ -98,10 +98,58 @@ div.rightcol {
 .cols {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
-/* rightcolumn 1: query part */
+/* left column jobs section */
+
+/* input type="file" control is hidden */
+#imjname {
+  display: none;
+}
+
+/* buttons and inputs for job control, im/export */
+
+#jobs {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+}
+
+
+#jobaction {
+  border-radius: 0.5rem;
+  background-color: var(--ctlinp-back);
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+button.medium {
+  border-radius: 0.5rem;
+  color: var(--inactive-fore);
+  background-color: var(--inactive-back);
+  font-size: medium;
+  font-weight: medium;
+  margin: 0.1rem;
+  padding: 0.4rem;
+  border: solid 0.1rem var(--button-back);
+}
+.cntinp {
+  font-family: monospace;
+  color: var(--ctlinp-fore);
+  background-color: var(--ctlinp-back);
+  font-size: large;
+  width: 7rem;
+}
+.selinp {
+  width: 18rem;
+  font-family: monospace;
+  color: var(--ctlinp-fore);
+  background-color: var(--ctlinp-back);
+  font-size: large;
+}
+
+/* left column query section */
 
 #querytable {
   width: 100%;
@@ -212,7 +260,7 @@ div.rightcol {
   border: 0.2rem solid var(--dirty-border);
 }
 
-/* rightcolumn 2: results part */
+/* left column results section */
 
 /* big search execution button and progress indicator */
 #execute {
@@ -236,43 +284,6 @@ div.rightcol {
 #go.waiting {
   background-color: var(--executing);
   border: 0.2rem solid var(--button-back);
-}
-
-
-/* rightcolumn 3: jobs part */
-
-/* input type="file" control is hidden */
-#imjname {
-  display: none;
-}
-
-/* buttons and inputs for job control, im/export */
-#jobaction {
-  border-radius: 0.5rem;
-  background-color: var(--ctlinp-back);
-  margin-left: 1rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-}
-button.medium {
-  border-radius: 0.5rem;
-  color: var(--button-fore);
-  background-color: var(--button-back);
-  border-width: 0;
-}
-.cntinp {
-  font-family: monospace;
-  color: var(--ctlinp-fore);
-  background-color: var(--ctlinp-back);
-  font-size: large;
-  width: 7rem;
-}
-.selinp {
-  font-family: monospace;
-  color: var(--ctlinp-fore);
-  background-color: var(--ctlinp-back);
-  font-size: large;
-  width: 11rem;
 }
 
 /* MID COLUMN */
@@ -329,7 +340,7 @@ button.small {
   padding: 0.05rem;
   border-width: 0;
 }
-button.small.active {
+button.small.active, button.medium.active {
   color: var(--button-fore);
   background-color: var(--button-back);
 }
