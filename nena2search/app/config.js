@@ -24,6 +24,18 @@ const config = {
   "word": 713434,
   "letter": 1
  },
+ "ntypessize": {
+  "dialect": 2,
+  "text": 126,
+  "paragraph": 350,
+  "line": 2544,
+  "sentence": 16326,
+  "subsentence": 24497,
+  "inton": 36444,
+  "stress": 93766,
+  "word": 120151,
+  "letter": 539378
+ },
  "dtypeOf": {
   "sentence": "word",
   "line": "sentence",
@@ -92,7 +104,7 @@ const config = {
      "0": ""
     },
     "pos": "lang",
-    "value": "",
+    "pattern": "",
     "description": "language, indicated by a number"
    },
    "speaker": {
@@ -137,31 +149,31 @@ const config = {
      "0": ""
     },
     "pos": "speaker",
-    "value": "",
+    "pattern": "",
     "description": "speaker, indicated by a number"
    },
    "text": {
     "valueMap": null,
     "pos": "text",
-    "value": "",
+    "pattern": "",
     "description": "text precise, complete, uses non-ascii: <code>maqəlbə̀nna</code>"
    },
    "full": {
     "valueMap": null,
     "pos": "full",
-    "value": "",
+    "pattern": "",
     "description": "text representation: <code>maq9lb9`nna</code>"
    },
    "fuzzy": {
     "valueMap": null,
     "pos": "fuzzy",
-    "value": "mute",
+    "pattern": "mute",
     "description": "text representation: <code>maqilbinna</code>"
    },
    "lite": {
     "valueMap": null,
     "pos": "lite",
-    "value": "",
+    "pattern": "",
     "description": "text representation: <code>maq9lb9nna</code>"
    },
    "pos": {
@@ -199,7 +211,7 @@ const config = {
      "z": ""
     },
     "pos": "pos",
-    "value": "",
+    "pattern": "",
     "description": "part-of-speech"
    },
    "cls": {
@@ -209,7 +221,7 @@ const config = {
      "z": ""
     },
     "pos": "cls",
-    "value": "",
+    "pattern": "",
     "description": "phonetic class: <code>CVCVCCVCCV</code>"
    },
    "voice": {
@@ -223,7 +235,7 @@ const config = {
      "z": ""
     },
     "pos": "cls",
-    "value": "",
+    "pattern": "",
     "description": "phonation: <code>PzzzPVzPPz</code>"
    },
    "place": {
@@ -239,7 +251,7 @@ const config = {
      "z": ""
     },
     "pos": "cls",
-    "value": "",
+    "pattern": "",
     "description": "phonation: <code>BzXzDBzDDz</code>"
    },
    "manner": {
@@ -253,7 +265,7 @@ const config = {
      "z": ""
     },
     "pos": "cls",
-    "value": "",
+    "pattern": "",
     "description": "phonation: <code>NzAzLAzNNz</code>"
    }
   },
@@ -261,7 +273,7 @@ const config = {
    "number": {
     "valueMap": null,
     "pos": "number",
-    "value": "",
+    "pattern": "",
     "description": "line number"
    }
   },
@@ -269,25 +281,25 @@ const config = {
    "title": {
     "valueMap": null,
     "pos": "title",
-    "value": "A",
+    "pattern": "A",
     "description": "title of a text"
    },
    "dialect": {
     "valueMap": null,
     "pos": "dialect",
-    "value": "",
+    "pattern": "",
     "description": "dialect of a text <code>Barwar Urmi_C</code>"
    },
    "tid": {
     "valueMap": null,
     "pos": "tid",
-    "value": "",
+    "pattern": "",
     "description": "id of a text"
    },
    "place": {
     "valueMap": null,
     "pos": "place",
-    "value": "Dure",
+    "pattern": "Dure",
     "description": "place of a text"
    }
   }
