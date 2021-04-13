@@ -98,7 +98,7 @@ div.rightcol {
 .cols {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 /* left column jobs section */
@@ -113,7 +113,7 @@ div.rightcol {
 #jobs {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 
@@ -266,6 +266,7 @@ button.medium {
 #execute {
   display: flex;
   flex-flow: row nowrap;
+  align-items: space-between;
 }
 #go {
   flex: 1 1 100%;
@@ -274,7 +275,6 @@ button.medium {
   background-color: var(--button-fore);
   border: 0.2rem solid var(--button-back);
   font-size: x-large;
-  margin: 1rem 0.5rem;
 }
 #go.dirty {
   color: var(--button-fore);
@@ -284,6 +284,28 @@ button.medium {
 #go.waiting {
   background-color: var(--executing);
   border: 0.2rem solid var(--button-back);
+}
+
+#stats, #settings {
+  padding: 0.5rem;
+}
+
+.stat {
+  padding-left: 1rem;
+  text-align: right;
+}
+.statlabel {
+  font-weight: bold;
+}
+
+.stattotal {
+  font-family: monospace;
+  text-align: right;
+}
+.statresult {
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
 }
 
 /* MID COLUMN */

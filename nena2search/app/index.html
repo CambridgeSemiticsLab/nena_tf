@@ -6,9 +6,9 @@
 		<title></title>
 		<link rel="stylesheet" href="layered.css"/>
 		<script defer src="jquery.js"></script>
-		<script defer src="config.js"></script>
+		<script defer src="configdata.js"></script>
 		<script defer src="layered.js"/></script>
-		<script defer src="corpus.js"></script>
+		<script defer src="corpusdata.js"></script>
 	</head>
 	<body>
     <div class="page">
@@ -80,24 +80,26 @@
                 type="submit" accesskey="g" title="Enter or Ctr-Opt-G go search"
                 class="dirty" id="go"
             >go search</button>
-          </div>
-          <div id="resultoverview" class="cols">
             <button
                 type="button" class="medium active" id="exportr"
                 title="export all results to tab-separated file"
             >↓</button>
-            <table>
-              <colgroup>
-                <col align="left">
-                <col align="right">
-              </colgroup>
-              <tbody id="statsbody">
-              </tbody>
-            </table>
+          </div>
+          <div id="resultoverview" class="cols">
+            <div id="stats">
+              <table>
+                <colgroup>
+                  <col align="left">
+                  <col align="right">
+                </colgroup>
+                <thead id="statshead">
+                  <tr><th>level</th><th>total</th><th>results</th></tr>
+                </thead>
+                <tbody id="statsbody">
+                </tbody>
+              </table>
+            </div>
             <div id="settings">
-              <button
-                type="button" name="nodeseq" class="expand on"
-              ></button>
             </div>
           </div>
         </div>
