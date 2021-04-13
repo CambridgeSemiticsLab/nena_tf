@@ -2690,7 +2690,7 @@ class DiskProvider {
     } else {
       for (const file of files) {
         const reader = new FileReader()
-        const [fileName, ext] = file.name.match(/([^/]+)\.([^.]*$)/)[1]
+        const [fileName, ext] = file.name.match(/([^/]+)(\.[^.]*$)/).slice(1)
         reader.onload = e => {
           handler(fileName, ext, e.target.result)
         }

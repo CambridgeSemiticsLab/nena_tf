@@ -378,7 +378,7 @@ button.small.active, button.medium.active {
 #resultsbody td {
   border-style: solid;
   border-color: var(--result-border);
-  border-width: 4px 2px;
+  border-width: 2px 1px;
 }
 #resultsbody th {
   color: var(--plain-fore);
