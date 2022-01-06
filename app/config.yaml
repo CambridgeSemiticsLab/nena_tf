@@ -1,0 +1,57 @@
+apiVersion: 3
+dataDisplay:
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+  sectionSep1: ', '
+  sectionSep2: ', Ln. '
+  showVerseInTuple: true
+  textFormats:
+    word#layout-orig-full:
+      method: layoutOrigFull
+    word#layout-orig-lite:
+      method: layoutOrigLite
+    word#layout-trans-full:
+      method: layoutTransFull
+    word#layout-trans-fuzzy:
+      method: layoutTransFuzzy
+    word#layout-trans-lite:
+      method: layoutTransLite
+docs:
+  charText: NENA transcription script
+  charUrl: '{docBase}/transcription{docExt}'
+  docPage: features.md
+  featureBase: '{docBase}/features{docExt}#<feature>'
+  featurePage: ''
+provenanceSpec:
+  corpus: Northeastern Neo-Aramaic Text Corpus
+  doi: 10.5281/zenodo.3250721
+  version: 'alpha'
+  webBase: '{urlGh}/{org}/nena_corpus/blob/master/texts'
+  webHint: Show this title in the NENA repository
+  webUrl: '{webBase}/{version}/<1>/<2>.nena'
+typeDisplay:
+  dialect:
+    label: '{dialect}'
+  inton:
+    wrap: false
+  line:
+    label: '{line_number}'
+  paragraph:
+    label: ''
+  stress:
+    base: true
+    wrap: false
+  text:
+    label: '{text_id}'
+    features: title place
+    featuresBare: speaker
+  word:
+    features: gloss
+    featuresBare: lemma
+    wrap: false
+  subsentence:
+    hidden: true
+writing: cld
